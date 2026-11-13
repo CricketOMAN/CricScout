@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "last",
+  "id": "legacy-611",
+  "name": "USAC 2026 U15 - Nationals"
+ },
+ "fetchedAt": "2026-11-13T21:18:13.136Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=611&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=611&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9425",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9425&clubId=40319",
+   "date": "2026-09-06",
+   "type": "Final",
+   "teams": [
+    "Bay Area Warriors",
+    "NAYCA Team Red"
+   ],
+   "teamIds": [
+    "3648",
+    "3645"
+   ],
+   "ground": "NY Ovals",
+   "result": "Bay Area Warriors won by 2 Wickets",
+   "summary": "NAYCA Team Red: 161/11(39.5) Bay Area Warriors: 162/8(39.2)"
+  },
+  {
+   "matchId": "9424",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9424&clubId=40319",
+   "date": "2026-09-06",
+   "type": "3rd Position",
+   "teams": [
+    "Bay Area Challengers",
+    "NC"
+   ],
+   "teamIds": [
+    "3647",
+    "3646"
+   ],
+   "ground": "NY Oval 3",
+   "result": "Bay Area Challengers won by 63 Runs",
+   "summary": "Bay Area Challengers: 264/7(40) NC: 201/10(39.2)"
+  },
+  {
+   "matchId": "9423",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9423&clubId=40319",
+   "date": "2026-09-06",
+   "type": "League",
+   "teams": [
+    "NC",
+    "Bay Area Challengers"
+   ],
+   "teamIds": [
+    "3646",
+    "3647"
+   ],
+   "ground": "NY Ovals",
+   "result": "Bay Area Challengers won by 135 Runs",
+   "summary": "Bay Area Challengers: 199/10(38.5) NC: 64/10(22.2)"
+  },
+  {
+   "matchId": "9422",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9422&clubId=40319",
+   "date": "2026-09-06",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Red",
+    "Bay Area Warriors"
+   ],
+   "teamIds": [
+    "3645",
+    "3648"
+   ],
+   "ground": "NY Oval 3",
+   "result": "Bay Area Warriors won by 61 Runs",
+   "summary": "Bay Area Warriors: 222/8(40) NAYCA Team Red: 161/11(38.1)"
+  },
+  {
+   "matchId": "9421",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9421&clubId=40319",
+   "date": "2026-09-05",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Red",
+    "NC"
+   ],
+   "teamIds": [
+    "3645",
+    "3646"
+   ],
+   "ground": "NY Ovals",
+   "result": "NAYCA Team Red won by 82 Runs",
+   "summary": "NAYCA Team Red: 194/7(35) NC: 112/10(27.2)"
+  },
+  {
+   "matchId": "9420",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9420&clubId=40319",
+   "date": "2026-09-05",
+   "type": "League",
+   "teams": [
+    "Bay Area Warriors",
+    "Bay Area Challengers"
+   ],
+   "teamIds": [
+    "3648",
+    "3647"
+   ],
+   "ground": "NY Oval 3",
+   "result": "Bay Area Warriors won by 4 Wickets (D/L)",
+   "summary": "Bay Area Challengers: 93/10(29.1) Bay Area Warriors: 96/6(27.1)"
+  },
+  {
+   "matchId": "9419",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9419&clubId=40319",
+   "date": "2026-09-04",
+   "type": "League",
+   "teams": [
+    "Bay Area Challengers",
+    "NAYCA Team Red"
+   ],
+   "teamIds": [
+    "3647",
+    "3645"
+   ],
+   "ground": "NY Oval 3",
+   "result": "NAYCA Team Red won by 39 Runs",
+   "summary": "NAYCA Team Red: 131/11(38.3) Bay Area Challengers: 92/10(32.4)"
+  },
+  {
+   "matchId": "9418",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9418&clubId=40319",
+   "date": "2026-09-04",
+   "type": "League",
+   "teams": [
+    "Bay Area Warriors",
+    "NC"
+   ],
+   "teamIds": [
+    "3648",
+    "3646"
+   ],
+   "ground": "NY Ovals",
+   "result": "Bay Area Warriors won by 4 Wickets",
+   "summary": "NC: 109/10(38.4) Bay Area Warriors: 111/6(30.4)"
+  }
+ ]
+}

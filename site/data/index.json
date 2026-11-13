@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:06:22.656Z",
+  "generatedAt": "2026-11-13T21:18:35.723Z",
   "leagues": [
     {
       "code": "DublinandDanvilleCricketLeague",
@@ -728,7 +728,10 @@
     {
       "code": "USACricketJunior",
       "name": "USA Cricket Junior Pathway",
-      "checkedAt": "2026-11-13T20:46:32.538Z",
+      "checkedAt": "2026-11-13T21:18:07.189Z",
+      "ingest": {
+        "refreshedAt": "2026-11-13T21:18:35.283Z"
+      },
       "seasons": {
         "current": {
           "id": "legacy-618",
