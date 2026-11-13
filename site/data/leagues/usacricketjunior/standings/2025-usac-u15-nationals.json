@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-391",
+    "name": "2025 USAC - U15 Nationals"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "New Jersey": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 5,
+      "nrr": 0.842,
+      "logo": null,
+      "playoff": null
+    },
+    "Bay Area Regional Team": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 5,
+      "nrr": 0.6806,
+      "logo": null,
+      "playoff": null
+    },
+    "North Carolina": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.65,
+      "logo": null,
+      "playoff": null
+    },
+    "Missouri_U15": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.8237,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

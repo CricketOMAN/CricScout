@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-75",
+    "name": "USAC Junior 2023 -Morrisville Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "The NC Victorians": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.196,
+      "logo": null,
+      "playoff": null
+    },
+    "The NC Traffords": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.6025,
+      "logo": null,
+      "playoff": null
+    },
+    "The NC Centennials": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.4938,
+      "logo": null,
+      "playoff": null
+    },
+    "The NC Ovals": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.9,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

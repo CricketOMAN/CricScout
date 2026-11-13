@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-419",
+    "name": "EMW Dev 2025 U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "AYCA U11 Red": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.8143,
+      "logo": null,
+      "playoff": null
+    },
+    "PYCA": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.2,
+      "logo": null,
+      "playoff": null
+    },
+    "ICY U11": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.0367,
+      "logo": null,
+      "playoff": null
+    },
+    "AYCA U11 Blue": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.24,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

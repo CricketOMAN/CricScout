@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-245",
+    "name": "USAC Junior 2024 - Missouri Inter-Hub Regionals U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ICE ROYALS - U15": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.0222,
+      "logo": null,
+      "playoff": null
+    },
+    "ICE SUPERKINGS - U15": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.8333,
+      "logo": null,
+      "playoff": null
+    },
+    "STL_U15": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.5667,
+      "logo": null,
+      "playoff": null
+    },
+    "WIM_U15": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.8857,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

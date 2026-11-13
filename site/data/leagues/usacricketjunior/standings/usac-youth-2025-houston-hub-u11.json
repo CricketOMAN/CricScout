@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-273",
+    "name": "USAC Youth 2025 - Houston Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "KY Falcons": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 8,
+      "lost": 1,
+      "nr": 1,
+      "points": 17,
+      "nrr": 3.6307,
+      "logo": null,
+      "playoff": null
+    },
+    "SL Cosmos": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 6,
+      "lost": 3,
+      "nr": 1,
+      "points": 13,
+      "nrr": 1.3188,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Titans": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 6,
+      "lost": 3,
+      "nr": 1,
+      "points": 13,
+      "nrr": 0.3855,
+      "logo": null,
+      "playoff": null
+    },
+    "NW Stallions": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 5,
+      "lost": 4,
+      "nr": 1,
+      "points": 11,
+      "nrr": -0.1594,
+      "logo": null,
+      "playoff": null
+    },
+    "SL Comets": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 2,
+      "lost": 7,
+      "nr": 1,
+      "points": 5,
+      "nrr": -4.101,
+      "logo": null,
+      "playoff": null
+    },
+    "EY Riders": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 0,
+      "lost": 9,
+      "nr": 1,
+      "points": 1,
+      "nrr": -2.5775,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

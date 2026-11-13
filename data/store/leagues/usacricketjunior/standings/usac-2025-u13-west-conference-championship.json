@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-380",
+    "name": "USAC 2025 - U13 West Conference Championship"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Dallas": {
+      "position": 1,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.8835,
+      "logo": null,
+      "playoff": null
+    },
+    "Missouri": {
+      "position": 2,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": -0.247,
+      "logo": null,
+      "playoff": null
+    },
+    "Houston": {
+      "position": 3,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.7387,
+      "logo": null,
+      "playoff": null
+    },
+    "DL_HOU_MO_Combined": {
+      "position": 4,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 1,
+      "lost": 6,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.8728,
+      "logo": null,
+      "playoff": null
+    },
+    "Seattle": {
+      "position": 1,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.7725,
+      "logo": null,
+      "playoff": null
+    },
+    "Bay Area": {
+      "position": 2,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.4838,
+      "logo": null,
+      "playoff": null
+    },
+    "LA": {
+      "position": 3,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.1921,
+      "logo": null,
+      "playoff": null
+    },
+    "BA_LA_Seattle_Combined": {
+      "position": 4,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 1,
+      "lost": 6,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.4452,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-373",
+    "name": "USAC 2025 Dallas Regional U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Dallas U15 Yellow": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.2413,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas U15 Blue": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.9753,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas U15 Red": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.4552,
+      "logo": null,
+      "playoff": null
+    },
+    "Colorado U15": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.4167,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

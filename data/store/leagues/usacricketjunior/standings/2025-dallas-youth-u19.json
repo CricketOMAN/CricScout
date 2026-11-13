@@ -1,0 +1,103 @@
+{
+  "series": {
+    "id": "legacy-298",
+    "name": "2025 Dallas Youth U19"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "TCA U19 - Warriors": {
+      "position": 1,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 0,
+      "nr": 1,
+      "points": 11,
+      "nrr": 0.5883,
+      "logo": null,
+      "playoff": null
+    },
+    "FCCA U19 - Spartans": {
+      "position": 2,
+      "of": 7,
+      "group": null,
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.906,
+      "logo": null,
+      "playoff": null
+    },
+    "TIC U19 - Force": {
+      "position": 3,
+      "of": 7,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 1,
+      "nr": 2,
+      "points": 6,
+      "nrr": 1.7583,
+      "logo": null,
+      "playoff": null
+    },
+    "DYCL U19 - Bolts": {
+      "position": 4,
+      "of": 7,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -1.0829,
+      "logo": null,
+      "playoff": null
+    },
+    "MCA U19 - Panthers": {
+      "position": 5,
+      "of": 7,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.1089,
+      "logo": null,
+      "playoff": null
+    },
+    "DYCL U19 - Sparks": {
+      "position": 6,
+      "of": 7,
+      "group": null,
+      "played": 7,
+      "won": 1,
+      "lost": 5,
+      "nr": 1,
+      "points": 3,
+      "nrr": -1.1349,
+      "logo": null,
+      "playoff": null
+    },
+    "MCA U19 - Toyger": {
+      "position": 7,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.4352,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

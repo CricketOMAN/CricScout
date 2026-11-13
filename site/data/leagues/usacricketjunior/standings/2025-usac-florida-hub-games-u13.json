@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-313",
+    "name": "2025 USAC Florida Hub Games - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "RSCA U13": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 0,
+      "nr": 1,
+      "points": 11,
+      "nrr": 2.5637,
+      "logo": null,
+      "playoff": null
+    },
+    "TCL U13": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 2,
+      "nr": 1,
+      "points": 7,
+      "nrr": 1.3911,
+      "logo": null,
+      "playoff": null
+    },
+    "FPYCA U13": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 3,
+      "nr": 1,
+      "points": 5,
+      "nrr": -1.3837,
+      "logo": null,
+      "playoff": null
+    },
+    "YGCA U13": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 5,
+      "nr": 1,
+      "points": 1,
+      "nrr": -2.6201,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-456",
+    "name": "USAC 2026 - Florida - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Roy Silva Academy": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.5513,
+      "logo": null,
+      "playoff": null
+    },
+    "Tampa Cricket League": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.262,
+      "logo": null,
+      "playoff": null
+    },
+    "Young Genius Academy": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.5653,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

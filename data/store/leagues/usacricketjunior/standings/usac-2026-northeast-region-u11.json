@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-618",
+    "name": "USAC 2026 Northeast Region U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "New York": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.8156,
+      "logo": null,
+      "playoff": null
+    },
+    "Massachusetts": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.0067,
+      "logo": null,
+      "playoff": null
+    },
+    "Connecticut": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.7373,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

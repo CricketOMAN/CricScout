@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-246",
+    "name": "2024-NJU19HUB"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team RED": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.2354,
+      "logo": null,
+      "playoff": null
+    },
+    "Team BLUE": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.2354,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

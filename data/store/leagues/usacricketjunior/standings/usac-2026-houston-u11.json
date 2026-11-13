@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-438",
+    "name": "USAC 2026 - Houston - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NC Titans": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 2.5891,
+      "logo": null,
+      "playoff": null
+    },
+    "ST Mavericks": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.2199,
+      "logo": null,
+      "playoff": null
+    },
+    "SL Comets": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": -1.1912,
+      "logo": null,
+      "playoff": null
+    },
+    "KY Falcons": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.4205,
+      "logo": null,
+      "playoff": null
+    },
+    "EY Riders": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.0185,
+      "logo": null,
+      "playoff": null
+    },
+    "NW Stallions": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.9795,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

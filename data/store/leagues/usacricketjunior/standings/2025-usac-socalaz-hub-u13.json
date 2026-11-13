@@ -1,0 +1,103 @@
+{
+  "series": {
+    "id": "legacy-290",
+    "name": "2025 USAC SoCalAZ - Hub - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "SDCCYA BLUE": {
+      "position": 1,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.1693,
+      "logo": null,
+      "playoff": null
+    },
+    "SDCCYA GREEN": {
+      "position": 2,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.2046,
+      "logo": null,
+      "playoff": null
+    },
+    "WYCA-SCCAY": {
+      "position": 3,
+      "of": 7,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.6371,
+      "logo": null,
+      "playoff": null
+    },
+    "SCYCA": {
+      "position": 4,
+      "of": 7,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 5,
+      "nrr": 0.0328,
+      "logo": null,
+      "playoff": null
+    },
+    "SCVCA": {
+      "position": 5,
+      "of": 7,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.6667,
+      "logo": null,
+      "playoff": null
+    },
+    "SKA-AZYCA": {
+      "position": 6,
+      "of": 7,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.6831,
+      "logo": null,
+      "playoff": null
+    },
+    "ANYCA": {
+      "position": 7,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 1,
+      "nrr": -0.8758,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

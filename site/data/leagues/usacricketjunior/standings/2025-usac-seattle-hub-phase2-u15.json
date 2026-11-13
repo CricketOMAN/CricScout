@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-349",
+    "name": "2025 USAC Seattle - Hub Phase2 - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "U15 Team Red": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.5423,
+      "logo": null,
+      "playoff": null
+    },
+    "U15 Team Green": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.5446,
+      "logo": null,
+      "playoff": null
+    },
+    "U15 Team Blue": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.1688,
+      "logo": null,
+      "playoff": null
+    },
+    "U15 Team Yellow": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.8625,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

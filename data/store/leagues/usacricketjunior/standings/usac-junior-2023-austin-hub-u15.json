@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-51",
+    "name": "USAC Junior 2023 -Austin Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "HCCA SuperNova": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.1949,
+      "logo": null,
+      "playoff": null
+    },
+    "HCCA Starz": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.3832,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Blasters U15": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.0105,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

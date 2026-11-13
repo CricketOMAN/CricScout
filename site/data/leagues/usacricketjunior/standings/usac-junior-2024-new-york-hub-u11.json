@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-249",
+    "name": "USAC Junior 2024 -New York Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NY Red": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 5,
+      "nrr": 1.2488,
+      "logo": null,
+      "playoff": null
+    },
+    "NY Grey": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.0372,
+      "logo": null,
+      "playoff": null
+    },
+    "NY Green": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.9027,
+      "logo": null,
+      "playoff": null
+    },
+    "NY Blue": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 1,
+      "nrr": -0.3957,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

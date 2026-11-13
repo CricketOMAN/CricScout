@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-587",
+    "name": "USAC 2026 Dev - Midwest Interhub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MN+IA HUB U11": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 2.2567,
+      "logo": null,
+      "playoff": null
+    },
+    "ILLINOIS HUB 1 U11": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.6829,
+      "logo": null,
+      "playoff": null
+    },
+    "ILLINOIS HUB 2 U11": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.5331,
+      "logo": null,
+      "playoff": null
+    },
+    "STLKS HUB U11": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.5392,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

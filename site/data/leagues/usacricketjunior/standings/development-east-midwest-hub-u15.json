@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-200",
+    "name": "Development - East Midwest Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MYCL - MCA - U15": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.7,
+      "logo": null,
+      "playoff": null
+    },
+    "MYCL�-�DCC�-�U15": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.7,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-519",
+    "name": "USAC 2026 - Illinois Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "CYCA U11 B": {
+      "position": 1,
+      "of": 5,
+      "group": "Group A",
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.9803,
+      "logo": null,
+      "playoff": null
+    },
+    "CYCA U11 A": {
+      "position": 2,
+      "of": 5,
+      "group": "Group A",
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.2762,
+      "logo": null,
+      "playoff": null
+    },
+    "BPL U11 A": {
+      "position": 3,
+      "of": 5,
+      "group": "Group A",
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.0332,
+      "logo": null,
+      "playoff": null
+    },
+    "BPL U11 B": {
+      "position": 4,
+      "of": 5,
+      "group": "Group A",
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -2.1127,
+      "logo": null,
+      "playoff": null
+    },
+    "CHICAGO U11": {
+      "position": 5,
+      "of": 5,
+      "group": "Group A",
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.493,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

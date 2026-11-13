@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-516",
+    "name": "USAC 2026 Colorado Rockies Hub - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "DYCA-Thornton Trojans U13": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 8,
+      "won": 6,
+      "lost": 2,
+      "nr": 0,
+      "points": 12,
+      "nrr": 0.2667,
+      "logo": null,
+      "playoff": null
+    },
+    "DYCA-Denver Dynamites U13": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 8,
+      "won": 2,
+      "lost": 6,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.2667,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

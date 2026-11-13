@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-253",
+    "name": "2024 USAC U15 - Eastern Conference Regionals"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team DC": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.546,
+      "logo": null,
+      "playoff": null
+    },
+    "Team NJ": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.4862,
+      "logo": null,
+      "playoff": null
+    },
+    "Team GA": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.1783,
+      "logo": null,
+      "playoff": null
+    },
+    "Team NC": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.107,
+      "logo": null,
+      "playoff": null
+    },
+    "Team NY": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.9756,
+      "logo": null,
+      "playoff": null
+    },
+    "Team EMW": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.8427,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

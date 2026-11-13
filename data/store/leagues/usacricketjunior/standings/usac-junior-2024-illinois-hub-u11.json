@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-205",
+    "name": "USAC Junior 2024 - Illinois Hub u11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "CYCA Cubs": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 5,
+      "lost": 0,
+      "nr": 0,
+      "points": 10,
+      "nrr": 3.8333,
+      "logo": null,
+      "playoff": null
+    },
+    "CMCE Falcons": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 3.4889,
+      "logo": null,
+      "playoff": null
+    },
+    "CMCE Dragons": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -2.6953,
+      "logo": null,
+      "playoff": null
+    },
+    "APCL Schaumburg Stars": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -10.0313,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

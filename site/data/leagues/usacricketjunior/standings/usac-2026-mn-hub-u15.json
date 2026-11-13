@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-510",
+    "name": "USAC 2026 - MN HUB- U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MYCA Thunderstorm": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 4.1737,
+      "logo": null,
+      "playoff": null
+    },
+    "MVP Trailblazers": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.1962,
+      "logo": null,
+      "playoff": null
+    },
+    "ICA TheYouthMonks": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -4.0738,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-378",
+    "name": "USAC 2025 - U15 East Conference Championship"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "New Jersey": {
+      "position": 1,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 5,
+      "lost": 1,
+      "nr": 1,
+      "points": 11,
+      "nrr": 2.5439,
+      "logo": null,
+      "playoff": null
+    },
+    "DC_NJ_NY Combined": {
+      "position": 2,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 3,
+      "lost": 3,
+      "nr": 1,
+      "points": 7,
+      "nrr": -0.3626,
+      "logo": null,
+      "playoff": null
+    },
+    "DC": {
+      "position": 3,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 1,
+      "points": 5,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    },
+    "New York": {
+      "position": 4,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 1,
+      "points": 5,
+      "nrr": -0.6264,
+      "logo": null,
+      "playoff": null
+    },
+    "North Carolina": {
+      "position": 1,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 5,
+      "lost": 1,
+      "nr": 1,
+      "points": 11,
+      "nrr": 1.3959,
+      "logo": null,
+      "playoff": null
+    },
+    "Georgia": {
+      "position": 2,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 5,
+      "lost": 1,
+      "nr": 1,
+      "points": 11,
+      "nrr": 0.6623,
+      "logo": null,
+      "playoff": null
+    },
+    "EMW": {
+      "position": 3,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 1,
+      "points": 5,
+      "nrr": -0.4616,
+      "logo": null,
+      "playoff": null
+    },
+    "GA_FL_EMW Combined": {
+      "position": 4,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 0,
+      "lost": 6,
+      "nr": 1,
+      "points": 1,
+      "nrr": -3.2605,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

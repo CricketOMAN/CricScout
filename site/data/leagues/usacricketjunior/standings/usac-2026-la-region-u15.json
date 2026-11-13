@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-540",
+    "name": "USAC 2026 - LA Region - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "U15 2026 Socal Hub Team Blue": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 2,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.9414,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+      "playoff": null
+    },
+    "U15 2026 Socal Hub Team Red": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.1795,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+      "playoff": null
+    },
+    "U15 2026 AZ Hub": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 2,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.0427,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+      "playoff": null
+    }
+  }
+}

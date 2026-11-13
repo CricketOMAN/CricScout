@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-585",
+    "name": "USAC 2026 Northeast Regional U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Connecticut": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.5292,
+      "logo": null,
+      "playoff": null
+    },
+    "Massachusetts": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.1481,
+      "logo": null,
+      "playoff": null
+    },
+    "New York": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.3727,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

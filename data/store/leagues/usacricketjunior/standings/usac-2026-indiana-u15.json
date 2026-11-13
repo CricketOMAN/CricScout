@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-498",
+    "name": "USAC 2026 - INDIANA - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Bluegrass Stallions": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.0845,
+      "logo": null,
+      "playoff": null
+    },
+    "Hoosier Warriors": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.0845,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

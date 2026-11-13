@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-483",
+    "name": "USAC 2026 - Arizona - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "AZYCA U11": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.9375,
+      "logo": null,
+      "playoff": null
+    },
+    "ANYCA U11": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.5422,
+      "logo": null,
+      "playoff": null
+    },
+    "SKA U11": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.4096,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-548",
+    "name": "USAC 2026 - Seattle HUB - Phase2 - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Red": {
+      "position": 1,
+      "of": 8,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.2375,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Blue": {
+      "position": 2,
+      "of": 8,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.0066,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Gold": {
+      "position": 3,
+      "of": 8,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.8295,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Green": {
+      "position": 4,
+      "of": 8,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 3,
+      "nrr": -0.0556,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Purple": {
+      "position": 5,
+      "of": 8,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.4084,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Orange": {
+      "position": 6,
+      "of": 8,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.2414,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Yellow": {
+      "position": 7,
+      "of": 8,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 1,
+      "nrr": -0.9729,
+      "logo": null,
+      "playoff": null
+    },
+    "Team White": {
+      "position": 8,
+      "of": 8,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.7241,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

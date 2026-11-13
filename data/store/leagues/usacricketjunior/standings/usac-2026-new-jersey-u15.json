@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-471",
+    "name": "USAC 2026 - New Jersey - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team YELLOW": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.3414,
+      "logo": null,
+      "playoff": null
+    },
+    "Team MAROON": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.525,
+      "logo": null,
+      "playoff": null
+    },
+    "Team ORANGE": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.2,
+      "logo": null,
+      "playoff": null
+    },
+    "Team RED": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 5,
+      "nrr": -0.2625,
+      "logo": null,
+      "playoff": null
+    },
+    "Team PURPLE": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 3,
+      "nrr": -0.7292,
+      "logo": null,
+      "playoff": null
+    },
+    "Team BLUE": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.9125,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

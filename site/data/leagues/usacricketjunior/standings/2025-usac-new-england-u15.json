@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-320",
+    "name": "2025 USAC New England U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Cricmax CT Sunrisers": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 9,
+      "lost": 1,
+      "nr": 0,
+      "points": 18,
+      "nrr": 2.1738,
+      "logo": null,
+      "playoff": null
+    },
+    "SKA-Boston": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 7,
+      "lost": 1,
+      "nr": 0,
+      "points": 14,
+      "nrr": 1.6255,
+      "logo": null,
+      "playoff": null
+    },
+    "UCL Electrons A": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 4,
+      "lost": 5,
+      "nr": 1,
+      "points": 9,
+      "nrr": 0.3658,
+      "logo": null,
+      "playoff": null
+    },
+    "PCA Jaguars": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 7,
+      "nrr": 0.3815,
+      "logo": null,
+      "playoff": null
+    },
+    "New Milford CC": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 1,
+      "nrr": -2.2328,
+      "logo": null,
+      "playoff": null
+    },
+    "UCL Electrons B": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 0,
+      "lost": 6,
+      "nr": 1,
+      "points": 1,
+      "nrr": -4.777,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

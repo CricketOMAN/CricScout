@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-562",
+    "name": "USAC 2026 - Great Lakes Regionals - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "U15 - OH": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.025,
+      "logo": null,
+      "playoff": null
+    },
+    "U15 - MI": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.025,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

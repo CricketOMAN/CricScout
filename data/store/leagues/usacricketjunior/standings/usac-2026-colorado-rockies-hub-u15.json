@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-595",
+    "name": "USAC 2026 Colorado Rockies Hub - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "DYCA-Thornton Trojans U15": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.6137,
+      "logo": null,
+      "playoff": null
+    },
+    "DYCA-Denver Dynamites U15": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.6137,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

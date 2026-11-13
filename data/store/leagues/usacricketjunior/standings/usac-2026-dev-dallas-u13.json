@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-449",
+    "name": "USAC 2026 - Dev - Dallas U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "SAC Mavericks U13E": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 3.1697,
+      "logo": null,
+      "playoff": null
+    },
+    "All Stars Strikers U13E": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.1697,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

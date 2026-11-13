@@ -1,0 +1,103 @@
+{
+  "series": {
+    "id": "legacy-521",
+    "name": "USAC 2026 - Illinois Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "CYCA U15 A": {
+      "position": 1,
+      "of": 5,
+      "group": "Group A",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.2472,
+      "logo": null,
+      "playoff": null
+    },
+    "BPL U15": {
+      "position": 2,
+      "of": 5,
+      "group": "Group A",
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.5519,
+      "logo": null,
+      "playoff": null
+    },
+    "BPL-B": {
+      "position": 3,
+      "of": 5,
+      "group": "Group A",
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.3254,
+      "logo": null,
+      "playoff": null
+    },
+    "CHICAGO U15": {
+      "position": 4,
+      "of": 5,
+      "group": "Group A",
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.4255,
+      "logo": null,
+      "playoff": null
+    },
+    "CYCA U15 B": {
+      "position": 5,
+      "of": 5,
+      "group": "Group A",
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.8352,
+      "logo": null,
+      "playoff": null
+    },
+    "HUB U15 1": {
+      "position": 1,
+      "of": 2,
+      "group": "Super League Group B",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    },
+    "HUB U15 2": {
+      "position": 2,
+      "of": 2,
+      "group": "Super League Group B",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

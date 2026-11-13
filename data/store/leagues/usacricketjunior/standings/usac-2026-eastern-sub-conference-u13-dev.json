@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-601",
+    "name": "USAC 2026 - Eastern Sub-conference U13 Dev"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ICY U13": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.0643,
+      "logo": null,
+      "playoff": null
+    },
+    "AYCA U13": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.0643,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

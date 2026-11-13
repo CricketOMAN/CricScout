@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-106",
+    "name": "USAC JR Zonal 2023 - SouthWest U17"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Houston": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 4.84,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Red": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.2502,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Blue": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.6496,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -9.5596,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

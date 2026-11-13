@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-507",
+    "name": "USAC 2026 - INDIANA - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Hoosier Racers": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.6396,
+      "logo": null,
+      "playoff": null
+    },
+    "Bluegrass Chargers": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.6396,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

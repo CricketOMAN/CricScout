@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-538",
+    "name": "2026 BA USAC Girls League Season 1 (#538)"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Red": {
+      "position": 1,
+      "of": 2,
+      "group": "Group 1",
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.1759,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Blue": {
+      "position": 2,
+      "of": 2,
+      "group": "Group 1",
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.1759,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

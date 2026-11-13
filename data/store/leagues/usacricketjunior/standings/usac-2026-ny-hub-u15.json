@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-492",
+    "name": "USAC 2026 NY Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NJYCA - Quantum - U15": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 1,
+      "nr": 1,
+      "points": 9,
+      "nrr": 1.2277,
+      "logo": null,
+      "playoff": null
+    },
+    "QUCA U15": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.9042,
+      "logo": null,
+      "playoff": null
+    },
+    "ICUSA - U15 - Black Mambas": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 4,
+      "nr": 1,
+      "points": 1,
+      "nrr": -2.5798,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-384",
+    "name": "USAC 2025 Houston Selection Trials U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Houston Blue": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.112,
+      "logo": null,
+      "playoff": null
+    },
+    "Houston Red": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.112,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

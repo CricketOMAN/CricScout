@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-314",
+    "name": "2025 USAC Florida Hub Games - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "RSCA U11": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.6371,
+      "logo": null,
+      "playoff": null
+    },
+    "YGCA U11": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 2,
+      "nr": 1,
+      "points": 7,
+      "nrr": 1.4756,
+      "logo": null,
+      "playoff": null
+    },
+    "TCL U11": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 2,
+      "nr": 1,
+      "points": 7,
+      "nrr": 1.3501,
+      "logo": null,
+      "playoff": null
+    },
+    "FPYCA U11": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.9661,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

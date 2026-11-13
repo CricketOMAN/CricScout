@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-555",
+    "name": "USAC 2026 - Dallas U11 Phase 2"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Dallas Orange U11": {
+      "position": 1,
+      "of": 8,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 1.0667,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Purple U11": {
+      "position": 2,
+      "of": 8,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.4,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Teal U11": {
+      "position": 3,
+      "of": 8,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.324,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Navy U11": {
+      "position": 4,
+      "of": 8,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.1333,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Green U11": {
+      "position": 5,
+      "of": 8,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.1333,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Blue U11": {
+      "position": 6,
+      "of": 8,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.324,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Red U11": {
+      "position": 7,
+      "of": 8,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.4,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Gold U11": {
+      "position": 8,
+      "of": 8,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.0667,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-440",
+    "name": "USAC 2026 - Houston - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "KY Eagles": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.7731,
+      "logo": null,
+      "playoff": null
+    },
+    "SL Pulsars": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.7803,
+      "logo": null,
+      "playoff": null
+    },
+    "EY Knights": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.8504,
+      "logo": null,
+      "playoff": null
+    },
+    "NW Panthers": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.1193,
+      "logo": null,
+      "playoff": null
+    },
+    "NW Titans": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.8938,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Superwarriors": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.102,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

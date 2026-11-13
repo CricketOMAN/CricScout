@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-275",
+    "name": "USAC Youth 2025 - Houston Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NW Panthers": {
+      "position": 1,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 7,
+      "lost": 0,
+      "nr": 0,
+      "points": 14,
+      "nrr": 2.3278,
+      "logo": null,
+      "playoff": null
+    },
+    "SL Suns": {
+      "position": 2,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.4696,
+      "logo": null,
+      "playoff": null
+    },
+    "KY Eagles": {
+      "position": 3,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.2164,
+      "logo": null,
+      "playoff": null
+    },
+    "NW TItans": {
+      "position": 4,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.4026,
+      "logo": null,
+      "playoff": null
+    },
+    "SL Pulsars": {
+      "position": 5,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.4727,
+      "logo": null,
+      "playoff": null
+    },
+    "EY Knights": {
+      "position": 6,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -1.2503,
+      "logo": null,
+      "playoff": null
+    },
+    "EY Cavaliers": {
+      "position": 7,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.6094,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Superwarriors": {
+      "position": 8,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.0773,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

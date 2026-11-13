@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-524",
+    "name": "USAC 2026 - Seattle HUB - Phase1 - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MLC Team 1": {
+      "position": 1,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.3978,
+      "logo": null,
+      "playoff": null
+    },
+    "PBL Team 1": {
+      "position": 2,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.0559,
+      "logo": null,
+      "playoff": null
+    },
+    "Chargers MLCA": {
+      "position": 3,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.6545,
+      "logo": null,
+      "playoff": null
+    },
+    "ICCS": {
+      "position": 4,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.9881,
+      "logo": null,
+      "playoff": null
+    },
+    "MSKS11 Team 1": {
+      "position": 5,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.2277,
+      "logo": null,
+      "playoff": null
+    },
+    "STB Team 1": {
+      "position": 6,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.9511,
+      "logo": null,
+      "playoff": null
+    },
+    "STB Team 2": {
+      "position": 7,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.1266,
+      "logo": null,
+      "playoff": null
+    },
+    "MSKS11 Team 2": {
+      "position": 8,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.8497,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

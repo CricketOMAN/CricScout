@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-310",
+    "name": "2025 USAC Austin HUB U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Austin HCCA Starz": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.4886,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Blasters U15": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.6206,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Bullets": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.6769,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

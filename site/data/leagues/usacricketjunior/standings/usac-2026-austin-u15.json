@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-451",
+    "name": "USAC 2026 - Austin - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "HCCA Starz U15": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 3.202,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/b422a408-6aa7-42c3-9e48-896561047c72.jpg",
+      "playoff": null
+    },
+    "SuperKings Academy U15": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.5311,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+      "playoff": null
+    },
+    "SA Elites U15": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.5619,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+      "playoff": null
+    },
+    "Austin Blasters U15": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    }
+  }
+}

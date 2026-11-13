@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-127",
+    "name": "USAC JR Zonal 2023 - West U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Blue": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.7064,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Yellow": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.5769,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Pink": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.8666,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Green": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.1837,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Orange": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.8,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Red": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.0143,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

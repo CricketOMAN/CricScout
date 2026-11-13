@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-77",
+    "name": "USAC Junior 2023 -Atlanta Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MLCA U11 LIONS": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 7,
+      "lost": 1,
+      "nr": 0,
+      "points": 14,
+      "nrr": 2.0605,
+      "logo": null,
+      "playoff": null
+    },
+    "MLCA U11 DESTROYERS": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.449,
+      "logo": null,
+      "playoff": null
+    },
+    "NACA U11 VIKINGS": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.2654,
+      "logo": null,
+      "playoff": null
+    },
+    "NACA U11 COLTS": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": -0.3671,
+      "logo": null,
+      "playoff": null
+    },
+    "Nashville U11 Strikers": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 0,
+      "lost": 8,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.7303,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

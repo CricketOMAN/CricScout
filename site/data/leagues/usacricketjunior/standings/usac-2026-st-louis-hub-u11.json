@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-489",
+    "name": "USAC 2026 St. Louis Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ACAC Crushers": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.0955,
+      "logo": null,
+      "playoff": null
+    },
+    "Kansas U11": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -1.0955,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

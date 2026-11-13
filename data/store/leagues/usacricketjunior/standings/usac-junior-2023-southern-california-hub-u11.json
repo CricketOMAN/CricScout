@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-25",
+    "name": "USAC Junior 2023 -Southern California Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "SCYCA": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.8679,
+      "logo": null,
+      "playoff": null
+    },
+    "SDCCYA-Bolts": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.5371,
+      "logo": null,
+      "playoff": null
+    },
+    "AZ U11": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.7066,
+      "logo": null,
+      "playoff": null
+    },
+    "SCCAY-WYCA": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.72,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-372",
+    "name": "USAC 2025 Dallas Regional U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Dallas U13 Yellow": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.5121,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas U13 Blue": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.1527,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas U13 Red": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.5078,
+      "logo": null,
+      "playoff": null
+    },
+    "Colorado U13": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.0556,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

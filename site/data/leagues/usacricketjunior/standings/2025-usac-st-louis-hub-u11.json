@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-299",
+    "name": "2025 USAC St. Louis Hub - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ACAC Crushers U11": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 2.061,
+      "logo": null,
+      "playoff": null
+    },
+    "ACAC U11 Team A": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 0,
+      "nr": 4,
+      "points": 0,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    },
+    "ACAC U11 Team B": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 0,
+      "nr": 4,
+      "points": 0,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    },
+    "KYCA ICONS U11": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.061,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

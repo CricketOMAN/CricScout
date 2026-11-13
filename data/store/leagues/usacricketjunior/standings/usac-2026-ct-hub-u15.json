@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-474",
+    "name": "USAC 2026 - CT Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "KRCA CT Kings A": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 8,
+      "lost": 0,
+      "nr": 0,
+      "points": 16,
+      "nrr": 6.3468,
+      "logo": null,
+      "playoff": null
+    },
+    "NMCC Foxes": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.5582,
+      "logo": null,
+      "playoff": null
+    },
+    "PCA Jaguars": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 3,
+      "nr": 1,
+      "points": 9,
+      "nrr": 1.5461,
+      "logo": null,
+      "playoff": null
+    },
+    "KRCA CT Kings B": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 7,
+      "won": 1,
+      "lost": 5,
+      "nr": 1,
+      "points": 3,
+      "nrr": -5.8521,
+      "logo": null,
+      "playoff": null
+    },
+    "CCA Thunderbolts": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 7,
+      "won": 0,
+      "lost": 7,
+      "nr": 0,
+      "points": 0,
+      "nrr": -8.1395,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

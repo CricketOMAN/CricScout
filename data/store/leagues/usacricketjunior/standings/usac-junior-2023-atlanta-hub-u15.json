@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-79",
+    "name": "USAC Junior 2023 -Atlanta Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MLCA U15 Striking Eagles": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 1,
+      "nr": 1,
+      "points": 9,
+      "nrr": 1.9339,
+      "logo": null,
+      "playoff": null
+    },
+    "NACA U15 HAWKS": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": -0.1192,
+      "logo": null,
+      "playoff": null
+    },
+    "Nashville U15 Vikings": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.0558,
+      "logo": null,
+      "playoff": null
+    },
+    "MLCA U15 Gladiators": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.0539,
+      "logo": null,
+      "playoff": null
+    },
+    "NACA U15 SPARTANS": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 4,
+      "nr": 1,
+      "points": 3,
+      "nrr": -1.6739,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

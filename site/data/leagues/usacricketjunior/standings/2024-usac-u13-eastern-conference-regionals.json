@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-244",
+    "name": "2024 USAC U13 - Eastern Conference Regionals"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team NJ": {
+      "position": 1,
+      "of": 6,
+      "group": "League Points Table",
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.3713,
+      "logo": null,
+      "playoff": null
+    },
+    "Team DC": {
+      "position": 1,
+      "of": 4,
+      "group": "Super League Group Points Table",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    },
+    "Team GA": {
+      "position": 2,
+      "of": 6,
+      "group": "League Points Table",
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.7392,
+      "logo": null,
+      "playoff": null
+    },
+    "Team NY": {
+      "position": 2,
+      "of": 4,
+      "group": "Super League Group Points Table",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    },
+    "Team NC": {
+      "position": 3,
+      "of": 4,
+      "group": "Super League Group Points Table",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    },
+    "EMW": {
+      "position": 4,
+      "of": 4,
+      "group": "Super League Group Points Table",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

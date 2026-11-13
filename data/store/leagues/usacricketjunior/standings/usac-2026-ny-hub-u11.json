@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-494",
+    "name": "USAC 2026 NY Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NJYCA Aurora - U11": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 4.3049,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+      "playoff": null
+    },
+    "QUCA U11": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.4335,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+      "playoff": null
+    },
+    "ICUSA - U11": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -3.0115,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+      "playoff": null
+    },
+    "NY Ovals U11": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.76,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/6d16cda4-7201-4a09-a7b2-1ce4216fd730.jpg",
+      "playoff": null
+    }
+  }
+}

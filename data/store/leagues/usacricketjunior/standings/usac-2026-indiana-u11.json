@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-518",
+    "name": "USAC 2026 - INDIANA - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Hoosier Rising Stars": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.0042,
+      "logo": null,
+      "playoff": null
+    },
+    "Bluegrass Budding Chargers": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.0042,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

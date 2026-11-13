@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-132",
+    "name": "2024 DVLP - GCA Juniors Presidents Day"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "GA Greens": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.0798,
+      "logo": null,
+      "playoff": null
+    },
+    "NJ Red": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.7059,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Whites": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.5706,
+      "logo": null,
+      "playoff": null
+    },
+    "NY Orange": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.8518,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

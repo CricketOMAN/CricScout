@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-227",
+    "name": "USAC 2024 Dallas Regional U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Dallas U15 Titans": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.1406,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas U15 Royals": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.4269,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas U15 Kings": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.5622,
+      "logo": null,
+      "playoff": null
+    },
+    "Colorado U15 Denver Warriors": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.908,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

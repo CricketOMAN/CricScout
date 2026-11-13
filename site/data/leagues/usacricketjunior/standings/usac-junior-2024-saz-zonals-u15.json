@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-221",
+    "name": "USAC Junior 2024 - SAZ Zonals U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Purple": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.0883,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Blue": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.0883,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

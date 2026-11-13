@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-30",
+    "name": "USAC Junior 2023 -Midwest WIM Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MYCA(MN) U13": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.06,
+      "logo": null,
+      "playoff": null
+    },
+    "WIM U13": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.809,
+      "logo": null,
+      "playoff": null
+    },
+    "MCC U13": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.0162,
+      "logo": null,
+      "playoff": null
+    },
+    "MVP U13": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.913,
+      "logo": null,
+      "playoff": null
+    },
+    "WCC U13": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -4.6685,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

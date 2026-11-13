@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-470",
+    "name": "USAC 2026 - New Jersey - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Yellow": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.2399,
+      "logo": null,
+      "playoff": null
+    },
+    "Purple": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.2336,
+      "logo": null,
+      "playoff": null
+    },
+    "Blue": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.2402,
+      "logo": null,
+      "playoff": null
+    },
+    "Maroon": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.1788,
+      "logo": null,
+      "playoff": null
+    },
+    "Red": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.1397,
+      "logo": null,
+      "playoff": null
+    },
+    "Orange": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.6743,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-17",
+    "name": "USAC Junior 2023 - Seattle Hub U17"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Red": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.4696,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Green": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.4696,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-488",
+    "name": "USAC 2026 - North Carolina - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Cardinals": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.33,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "Panthers": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.0015,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+      "playoff": null
+    },
+    "Falcons": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.1656,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+      "playoff": null
+    },
+    "Coyotes": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.4585,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "Timberwolves": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.927,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "Ospreys": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.4437,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+      "playoff": null
+    }
+  }
+}

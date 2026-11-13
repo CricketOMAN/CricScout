@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-33",
+    "name": "USAC Junior 2023 -Chicago Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "CYCA Cubs": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 3.1471,
+      "logo": null,
+      "playoff": null
+    },
+    "BPL Rising Star": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.4494,
+      "logo": null,
+      "playoff": null
+    },
+    "CMCE Falcons": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.8745,
+      "logo": null,
+      "playoff": null
+    },
+    "CMCE Dragons": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -5.2111,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

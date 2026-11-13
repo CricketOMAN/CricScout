@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-29",
+    "name": "USAC Junior 2023 -Midwest WIM Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MYCA(MN) U11": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.039,
+      "logo": null,
+      "playoff": null
+    },
+    "MVP U11": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.039,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

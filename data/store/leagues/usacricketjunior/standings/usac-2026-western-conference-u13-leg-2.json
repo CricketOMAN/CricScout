@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-594",
+    "name": "USAC 2026 Western Conference U13 Leg 2"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Bay Area Unicorns": {
+      "position": 1,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.8608,
+      "logo": null,
+      "playoff": null
+    },
+    "Bay Area Titans": {
+      "position": 2,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.7954,
+      "logo": null,
+      "playoff": null
+    },
+    "Mid West A": {
+      "position": 3,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.1877,
+      "logo": null,
+      "playoff": null
+    },
+    "South Central Supernovas": {
+      "position": 4,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.1707,
+      "logo": null,
+      "playoff": null
+    },
+    "Northwest Blazers": {
+      "position": 5,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.0945,
+      "logo": null,
+      "playoff": null
+    },
+    "North Central Knights": {
+      "position": 6,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.7125,
+      "logo": null,
+      "playoff": null
+    },
+    "North Central Blasters": {
+      "position": 7,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.7677,
+      "logo": null,
+      "playoff": null
+    },
+    "LA Avengers": {
+      "position": 8,
+      "of": 8,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.7779,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

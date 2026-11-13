@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-371",
+    "name": "USAC 2025 Houston Regional U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Austin": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.3272,
+      "logo": null,
+      "playoff": null
+    },
+    "Houston Blue": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.1996,
+      "logo": null,
+      "playoff": null
+    },
+    "Houston Green": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.6406,
+      "logo": null,
+      "playoff": null
+    },
+    "Houston Red": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 2,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.8097,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

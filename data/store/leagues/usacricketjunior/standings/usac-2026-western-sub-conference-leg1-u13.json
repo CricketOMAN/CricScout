@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-564",
+    "name": "USAC 2026 - Western Sub Conference - Leg1 - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Bay Area Unicorns": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 5,
+      "lost": 0,
+      "nr": 0,
+      "points": 10,
+      "nrr": 3.4421,
+      "logo": null,
+      "playoff": null
+    },
+    "Bay Area Titans": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 3.1337,
+      "logo": null,
+      "playoff": null
+    },
+    "Northwest Blazers": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.4254,
+      "logo": null,
+      "playoff": null
+    },
+    "LA Avengers": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.6867,
+      "logo": null,
+      "playoff": null
+    },
+    "Northwest Titans": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.8687,
+      "logo": null,
+      "playoff": null
+    },
+    "LA Challengers": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -3.8634,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

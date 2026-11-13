@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-312",
+    "name": "2025 USAC Florida Hub Games - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "YGCA U15": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 3.4684,
+      "logo": null,
+      "playoff": null
+    },
+    "RSCA U15": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.9223,
+      "logo": null,
+      "playoff": null
+    },
+    "TCL U15": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.0843,
+      "logo": null,
+      "playoff": null
+    },
+    "FPYCA U15": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.5982,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "series": {
+    "id": "legacy-388",
+    "name": "USAC 2025 West Subconference(Dallas) U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Dallas Blue": {
+      "position": 1,
+      "of": 7,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.8069,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin": {
+      "position": 2,
+      "of": 7,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.8989,
+      "logo": null,
+      "playoff": null
+    },
+    "Chicago": {
+      "position": 3,
+      "of": 7,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.3601,
+      "logo": null,
+      "playoff": null
+    },
+    "Houston": {
+      "position": 4,
+      "of": 7,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.4113,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Red": {
+      "position": 5,
+      "of": 7,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.0687,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas green": {
+      "position": 6,
+      "of": 7,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -3.24,
+      "logo": null,
+      "playoff": null
+    },
+    "Minnesota": {
+      "position": 7,
+      "of": 7,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.5093,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

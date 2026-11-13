@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-362",
+    "name": "2025 USAC Missouri Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ICE_U13_1": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.6625,
+      "logo": null,
+      "playoff": null
+    },
+    "ICE_U13_2": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.4498,
+      "logo": null,
+      "playoff": null
+    },
+    "WIM_U13": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.1971,
+      "logo": null,
+      "playoff": null
+    },
+    "STL_U13": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 0,
+      "lost": 7,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.5169,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

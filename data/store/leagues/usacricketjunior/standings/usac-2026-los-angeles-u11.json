@@ -1,0 +1,103 @@
+{
+  "series": {
+    "id": "legacy-480",
+    "name": "USAC 2026 - Los Angeles - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "SCVCA": {
+      "position": 1,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 4.0105,
+      "logo": null,
+      "playoff": null
+    },
+    "WYCA - SCCAY": {
+      "position": 2,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.9573,
+      "logo": null,
+      "playoff": null
+    },
+    "NextGen": {
+      "position": 3,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.363,
+      "logo": null,
+      "playoff": null
+    },
+    "San Diego Bolts Blue": {
+      "position": 4,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.2886,
+      "logo": null,
+      "playoff": null
+    },
+    "San Diego Bolts Red - Surf Riders": {
+      "position": 5,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.3107,
+      "logo": null,
+      "playoff": null
+    },
+    "SCYCA Green": {
+      "position": 6,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -2.2287,
+      "logo": null,
+      "playoff": null
+    },
+    "SCYCA Blue": {
+      "position": 7,
+      "of": 7,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.7337,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

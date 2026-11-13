@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-133",
+    "name": "2024 DVLP - GCA U13 Presidents Day"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NJ U13": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.9043,
+      "logo": null,
+      "playoff": null
+    },
+    "NC U13": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.3986,
+      "logo": null,
+      "playoff": null
+    },
+    "DC U13": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.3765,
+      "logo": null,
+      "playoff": null
+    },
+    "GA U13": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.6218,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

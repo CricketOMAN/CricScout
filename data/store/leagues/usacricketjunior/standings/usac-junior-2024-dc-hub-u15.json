@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-217",
+    "name": "USAC Junior 2024 - DC Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Red": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.42,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Gold": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": -0.0078,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Blue": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.34,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Green": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.0697,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Purple": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.3872,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Orange": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.1955,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

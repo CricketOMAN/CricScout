@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-288",
+    "name": "2025 USAC WIM - Hub - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MYCA Thunderstorm": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.3616,
+      "logo": null,
+      "playoff": null
+    },
+    "WIM Thunderbirds": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.3616,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

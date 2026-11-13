@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-129",
+    "name": "USAC Mens Zonal 2023 - MidAtlantic U23"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MAZ U23 Purple Team": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 2.9541,
+      "logo": null,
+      "playoff": null
+    },
+    "MAZ U23 Blue Team": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.9541,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

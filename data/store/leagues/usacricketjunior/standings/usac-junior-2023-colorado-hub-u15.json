@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-47",
+    "name": "USAC Junior 2023 -Colorado Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "DYCA-Castle Rock Super Kings U15": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 2,
+      "nr": 1,
+      "points": 9,
+      "nrr": 0.4436,
+      "logo": null,
+      "playoff": null
+    },
+    "DYCA-Highlands Ranch Hurricanes U15": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 1,
+      "points": 5,
+      "nrr": -0.4436,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

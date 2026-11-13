@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-596",
+    "name": "USAC 2026 Western Conference U15 Leg 2"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "South Central Fire": {
+      "position": 1,
+      "of": 4,
+      "group": "Group A",
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.3532,
+      "logo": null,
+      "playoff": null
+    },
+    "North Central Warriors": {
+      "position": 2,
+      "of": 4,
+      "group": "Group A",
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.6774,
+      "logo": null,
+      "playoff": null
+    },
+    "Mid West Red": {
+      "position": 3,
+      "of": 4,
+      "group": "Group A",
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.0564,
+      "logo": null,
+      "playoff": null
+    },
+    "North Central Titans": {
+      "position": 4,
+      "of": 4,
+      "group": "Group A",
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.3373,
+      "logo": null,
+      "playoff": null
+    },
+    "Bay Area Warriors": {
+      "position": 1,
+      "of": 4,
+      "group": "Group B",
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 3.0285,
+      "logo": null,
+      "playoff": null
+    },
+    "Bay Area Challengers": {
+      "position": 2,
+      "of": 4,
+      "group": "Group B",
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.7966,
+      "logo": null,
+      "playoff": null
+    },
+    "Northwest Blazers": {
+      "position": 3,
+      "of": 4,
+      "group": "Group B",
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.8827,
+      "logo": null,
+      "playoff": null
+    },
+    "LA Avengers": {
+      "position": 4,
+      "of": 4,
+      "group": "Group B",
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.1315,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

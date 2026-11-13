@@ -1,0 +1,129 @@
+{
+  "series": {
+    "id": "legacy-176",
+    "name": "USAC Youth 2024 - Austin Hub"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "SA Power Rangers U11": {
+      "position": 1,
+      "of": 4,
+      "group": "Group U11",
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 3.3217,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Blasters U11 Red": {
+      "position": 2,
+      "of": 4,
+      "group": "Group U11",
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.541,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Blasters U11 Blue": {
+      "position": 3,
+      "of": 4,
+      "group": "Group U11",
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.2604,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Starz U11": {
+      "position": 4,
+      "of": 4,
+      "group": "Group U11",
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.4739,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Bullets U13": {
+      "position": 1,
+      "of": 3,
+      "group": "Group U13",
+      "played": 5,
+      "won": 5,
+      "lost": 0,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.4861,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Blasters U13": {
+      "position": 2,
+      "of": 3,
+      "group": "Group U13",
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.3691,
+      "logo": null,
+      "playoff": null
+    },
+    "SanAustin Starz U13": {
+      "position": 3,
+      "of": 3,
+      "group": "Group U13",
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.9171,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Starz U15": {
+      "position": 1,
+      "of": 2,
+      "group": "Group U15",
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.0629,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Blasters U15": {
+      "position": 2,
+      "of": 2,
+      "group": "Group U15",
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.0629,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-62",
+    "name": "USAC Junior 2023 -New England Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Cricmax CT Titans A": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 7,
+      "lost": 0,
+      "nr": 1,
+      "points": 15,
+      "nrr": 3.5587,
+      "logo": null,
+      "playoff": null
+    },
+    "NCAA Colts": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 2,
+      "nr": 2,
+      "points": 10,
+      "nrr": 0.1298,
+      "logo": null,
+      "playoff": null
+    },
+    "UCL Neutrons": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 2,
+      "lost": 3,
+      "nr": 3,
+      "points": 7,
+      "nrr": -1.679,
+      "logo": null,
+      "playoff": null
+    },
+    "Cricmax CT Titans B": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 1,
+      "points": 5,
+      "nrr": -2.007,
+      "logo": null,
+      "playoff": null
+    },
+    "SCTCA XI A": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 1,
+      "points": 5,
+      "nrr": -2.0448,
+      "logo": null,
+      "playoff": null
+    },
+    "SCTCA XI B": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 1,
+      "lost": 5,
+      "nr": 2,
+      "points": 4,
+      "nrr": -1.8354,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

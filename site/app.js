@@ -302,9 +302,10 @@ function watch(url, onHit) {
 }
 async function loadStandings(code, seasons) {
   const out = {};
-  await Promise.all(SEASON_KEYS.map(async k => {
+  const keys = Object.keys(seasons || {});
+  await Promise.all(keys.map(async k => {
     const s = seasons && seasons[k];
-    if (!s || !s.name) return;
+    if (!s || !s.name || (keys.length > 3 && s.inSeason === false)) return;
     try {
       const r = await fetch(`data/leagues/${code.toLowerCase()}/standings/${slug(s.name)}.json`, { cache: 'no-store' });
       if (r.ok) out[k] = await r.json();
@@ -374,9 +375,20 @@ async function loadTeam() {
   catch (e) { msg('Network error: ' + e.message); return; }
   if (res.ok) { const data = await res.json(); if (gen === reportGen) showReport(data, gen); return; }
   if (gen !== reportGen) return;
-  const standings = LEAGUE ? await loadStandings(code, LEAGUE.seasons) : {};
+  const allS = (LEAGUE && LEAGUE.seasons) || {};
+  const sKeys = Object.keys(allS);
+  let teamSeasons = allS;
+  if (sKeys.length > 3) {
+    const hit = {};
+    for (const k of sKeys) {
+      const s = allS[k];
+      if (s && Array.isArray(s.teams) && s.teams.includes(team)) hit[k] = { ...s, inSeason: true };
+    }
+    teamSeasons = Object.keys(hit).length ? hit : (allS.current ? { current: allS.current } : allS);
+  }
+  const standings = LEAGUE ? await loadStandings(code, teamSeasons) : {};
   if (gen !== reportGen || $('#team').value !== team) return;
-  DATA = { team, logo: teamLogo(team), seasons: LEAGUE && LEAGUE.seasons, matches: [], standings, unscanned: true };
+  DATA = { team, logo: teamLogo(team), seasons: teamSeasons, matches: [], standings, unscanned: true };
   restoreTeamText();
   seasonMenu(DATA.seasons);
   render();
@@ -442,7 +454,8 @@ function nrrText(n) {
 function standingsHTML() {
   if (!DATA || !DATA.standings) return '';
   const p = $('#period').value;
-  const key = SEASON_KEYS.includes(p) ? p : 'current';
+  const sKeys = Object.keys((DATA && DATA.seasons) || {});
+  const key = (p !== 'last5' && sKeys.includes(p)) ? p : (sKeys.includes('current') ? 'current' : (sKeys[0] || 'current'));
   return [key].map(k => {
     const doc = DATA.standings[k];
     const row = doc && doc.teams && doc.teams[DATA.team];
@@ -469,15 +482,15 @@ function seasonMeta(key) {
   };
 }
 function seasonMenu(seasons) {
-  const named = SEASON_KEYS.some(k => seasons && seasons[k] && seasons[k].name);
+  const named = Object.keys(seasons || {}).some(k => seasons && seasons[k] && seasons[k].name);
   fillPeriod(named ? seasons : (LEAGUE && LEAGUE.seasons));
 }
 function fillPeriod(seasons) {
   const sel = $('#period');
   if (!sel) return;
-  const present = SEASON_KEYS.filter(k => seasons && seasons[k] && seasons[k].name);
+  const present = Object.keys(seasons || {}).filter(k => seasons && seasons[k] && seasons[k].name);
   const opts = [{ value: 'last5', label: 'Last 5' }].concat(present.map(k => ({ value: k, label: seasons[k].name })));
-  const wanted = opts.some(o => o.value === periodChoice) ? periodChoice : (present.includes('current') ? 'current' : 'last5');
+  const wanted = opts.some(o => o.value === periodChoice) ? periodChoice : (present.includes('current') ? 'current' : (present[0] || 'last5'));
   sel.innerHTML = opts.map(o => `<option value="${esc(o.value)}">${esc(o.label)}</option>`).join('');
   sel.value = wanted;
   periodChoice = sel.value || wanted;
@@ -485,7 +498,7 @@ function fillPeriod(seasons) {
 function pick() {
   const p = $('#period').value, M = DATA.matches || [];
   if (p === 'last5') return [M.slice(0, 5), 'Last 5 matches'];
-  const s = seasonMeta(p) || seasonMeta('current');
+  const s = seasonMeta(p) || seasonMeta('current') || seasonMeta(Object.keys((DATA && DATA.seasons) || {})[0]);
   if (!s) return [[], 'Current season'];
   return [M.filter(m => m.seriesId === s.id), s.name + (s.inSeason ? '' : ' (did not play)')];
 }

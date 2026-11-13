@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-544",
+    "name": "USAC 2026 - Oregon HUB - Phase1 - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Blue": {
+      "position": 1,
+      "of": 2,
+      "group": "Group A",
+      "played": 3,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 5,
+      "nrr": 0.6483,
+      "logo": null,
+      "playoff": null
+    },
+    "Red": {
+      "position": 2,
+      "of": 2,
+      "group": "Group A",
+      "played": 3,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 1,
+      "nrr": -0.6483,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

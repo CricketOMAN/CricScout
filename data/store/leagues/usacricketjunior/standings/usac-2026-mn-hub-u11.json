@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-508",
+    "name": "USAC 2026 - MN HUB- U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MYCA Vortex": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 3.3045,
+      "logo": null,
+      "playoff": null
+    },
+    "MVP Superheroes": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 7,
+      "nrr": 2.3112,
+      "logo": null,
+      "playoff": null
+    },
+    "ICA Warriors": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 5,
+      "nrr": -1.184,
+      "logo": null,
+      "playoff": null
+    },
+    "MYCA Twisters": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.054,
+      "logo": null,
+      "playoff": null
+    },
+    "MVP Little Stars": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.952,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

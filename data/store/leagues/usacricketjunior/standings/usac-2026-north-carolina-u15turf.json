@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-526",
+    "name": "USAC 2026 - North Carolina - U15Turf"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Blue": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.65,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Yellow": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.125,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Red": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.125,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Green": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.65,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

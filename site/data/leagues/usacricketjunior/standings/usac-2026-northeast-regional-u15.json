@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-584",
+    "name": "USAC 2026 Northeast Regional U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Connecticut": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.5592,
+      "logo": null,
+      "playoff": null
+    },
+    "New York": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.3716,
+      "logo": null,
+      "playoff": null
+    },
+    "Massachusetts": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.8644,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

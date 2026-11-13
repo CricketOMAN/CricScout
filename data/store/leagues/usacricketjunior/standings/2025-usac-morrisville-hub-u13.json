@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-304",
+    "name": "2025 USAC Morrisville -Hub - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "U13-Edens": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 7,
+      "lost": 0,
+      "nr": 0,
+      "points": 14,
+      "nrr": 1.6258,
+      "logo": null,
+      "playoff": null
+    },
+    "U13-Bourdas": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.1742,
+      "logo": null,
+      "playoff": null
+    },
+    "U13-Gabbas": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": -0.2275,
+      "logo": null,
+      "playoff": null
+    },
+    "U13-Perth": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.2261,
+      "logo": null,
+      "playoff": null
+    },
+    "U13-Wankades": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.2431,
+      "logo": null,
+      "playoff": null
+    },
+    "U13-Lords": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 0,
+      "lost": 7,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.6933,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

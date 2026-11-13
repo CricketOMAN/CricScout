@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-199",
+    "name": "Development - East Midwest Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "AYCA - Strikers": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.8345,
+      "logo": null,
+      "playoff": null
+    },
+    "MCA - U13": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.0622,
+      "logo": null,
+      "playoff": null
+    },
+    "ICY - U13": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 11,
+      "won": 3,
+      "lost": 8,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.2793,
+      "logo": null,
+      "playoff": null
+    },
+    "LCC - U13": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.921,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

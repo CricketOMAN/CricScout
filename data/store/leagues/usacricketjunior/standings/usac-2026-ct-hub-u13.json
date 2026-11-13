@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-473",
+    "name": "USAC 2026 - CT Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NMCC Lions": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 9,
+      "lost": 0,
+      "nr": 0,
+      "points": 19,
+      "nrr": 3.8619,
+      "logo": null,
+      "playoff": null
+    },
+    "KRCA CT Warriors A": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 8,
+      "lost": 1,
+      "nr": 0,
+      "points": 17,
+      "nrr": 3.6045,
+      "logo": null,
+      "playoff": null
+    },
+    "PCA Panthers": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "nr": 0,
+      "points": 12,
+      "nrr": 0.8796,
+      "logo": null,
+      "playoff": null
+    },
+    "NMCC Dragon": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 3,
+      "lost": 7,
+      "nr": 0,
+      "points": 6,
+      "nrr": -1.9699,
+      "logo": null,
+      "playoff": null
+    },
+    "KRCA CT Warriors B": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 2,
+      "lost": 8,
+      "nr": 0,
+      "points": 4,
+      "nrr": -2.9185,
+      "logo": null,
+      "playoff": null
+    },
+    "CCA Warriors": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "nr": 0,
+      "points": 2,
+      "nrr": -3.6492,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-472",
+    "name": "USAC 2026 - CT Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "KRCA CT Cubs": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 6,
+      "lost": 2,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.961,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "NMCC Hawks": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 6,
+      "lost": 2,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.7577,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "CCA Cubs": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.0462,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+      "playoff": null
+    },
+    "PCA Wildcats": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": -0.0703,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "NMCC Bears": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 0,
+      "lost": 8,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.2665,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+      "playoff": null
+    }
+  }
+}

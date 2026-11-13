@@ -1,0 +1,103 @@
+{
+  "series": {
+    "id": "legacy-486",
+    "name": "USAC 2026 - North Carolina - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Alphas": {
+      "position": 1,
+      "of": 7,
+      "group": null,
+      "played": 8,
+      "won": 6,
+      "lost": 2,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.9353,
+      "logo": null,
+      "playoff": null
+    },
+    "Hawks": {
+      "position": 2,
+      "of": 7,
+      "group": null,
+      "played": 8,
+      "won": 6,
+      "lost": 2,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.1485,
+      "logo": null,
+      "playoff": null
+    },
+    "Mavericks": {
+      "position": 3,
+      "of": 7,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.9942,
+      "logo": null,
+      "playoff": null
+    },
+    "Bolts": {
+      "position": 4,
+      "of": 7,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.6213,
+      "logo": null,
+      "playoff": null
+    },
+    "Warriors": {
+      "position": 5,
+      "of": 7,
+      "group": null,
+      "played": 8,
+      "won": 2,
+      "lost": 6,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.2751,
+      "logo": null,
+      "playoff": null
+    },
+    "Strikers": {
+      "position": 6,
+      "of": 7,
+      "group": null,
+      "played": 8,
+      "won": 2,
+      "lost": 6,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.4027,
+      "logo": null,
+      "playoff": null
+    },
+    "Aces": {
+      "position": 7,
+      "of": 7,
+      "group": null,
+      "played": 8,
+      "won": 2,
+      "lost": 6,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.8585,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

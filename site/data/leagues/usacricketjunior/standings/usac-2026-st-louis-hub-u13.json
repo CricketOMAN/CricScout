@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-490",
+    "name": "USAC 2026 St. Louis Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ACAC Eagles": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "nr": 0,
+      "points": 12,
+      "nrr": 2.4672,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "KYCA - U13": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 7,
+      "won": 1,
+      "lost": 6,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.4672,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+      "playoff": null
+    }
+  }
+}

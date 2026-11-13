@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-45",
+    "name": "USAC Junior 2023 -Colorado Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "DYCA-Parker Patriots U11": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.3139,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "DYCA-Broomfield Bears U11": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": -0.3139,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+      "playoff": null
+    }
+  }
+}

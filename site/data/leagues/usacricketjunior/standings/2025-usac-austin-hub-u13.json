@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-309",
+    "name": "2025 USAC Austin HUB U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Austin Blasters U13": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 2.0272,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin Elites": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.7176,
+      "logo": null,
+      "playoff": null
+    },
+    "Superkings Cricket Academy": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.5488,
+      "logo": null,
+      "playoff": null
+    },
+    "San Antonio Road Runners": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.8059,
+      "logo": null,
+      "playoff": null
+    },
+    "Austin HCCA Starz": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -7.8271,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

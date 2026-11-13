@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-559",
+    "name": "Midwest InterHub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MN+IA HUB U13": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 0,
+      "nr": 1,
+      "points": 9,
+      "nrr": 2.5987,
+      "logo": null,
+      "playoff": null
+    },
+    "ILLINOIS HUB 1 U13": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.171,
+      "logo": null,
+      "playoff": null
+    },
+    "STL+KS HUB U13": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 4,
+      "nr": 1,
+      "points": 3,
+      "nrr": -3.2261,
+      "logo": null,
+      "playoff": null
+    },
+    "ILLINOIS HUB 2 U13": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.0881,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

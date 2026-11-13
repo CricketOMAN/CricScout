@@ -1,0 +1,103 @@
+{
+  "series": {
+    "id": "legacy-208",
+    "name": "USAC JUNIOR 2024 - East Midwest Hub U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "AYCA-U11": {
+      "position": 1,
+      "of": 2,
+      "group": "EMW - Central",
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 2.1286,
+      "logo": null,
+      "playoff": null
+    },
+    "Crics - U11": {
+      "position": 2,
+      "of": 2,
+      "group": "EMW - Central",
+      "played": 2,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 0,
+      "nrr": -5.225,
+      "logo": null,
+      "playoff": null
+    },
+    "ICY- U11": {
+      "position": 1,
+      "of": 2,
+      "group": "EMW - South",
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.986,
+      "logo": null,
+      "playoff": null
+    },
+    "LCC - U11": {
+      "position": 2,
+      "of": 2,
+      "group": "EMW - South",
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.0048,
+      "logo": null,
+      "playoff": null
+    },
+    "MYCA Blue - U11": {
+      "position": 1,
+      "of": 3,
+      "group": "EMW - North",
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 3.4011,
+      "logo": null,
+      "playoff": null
+    },
+    "Prime - U11": {
+      "position": 2,
+      "of": 3,
+      "group": "EMW - North",
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.5231,
+      "logo": null,
+      "playoff": null
+    },
+    "MYCA Red - U11": {
+      "position": 3,
+      "of": 3,
+      "group": "EMW - North",
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.8595,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

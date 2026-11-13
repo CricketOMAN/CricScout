@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-455",
+    "name": "USAC 2026 - Florida - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Tampa Cricket League": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 0,
+      "nr": 2,
+      "points": 10,
+      "nrr": 1.2576,
+      "logo": null,
+      "playoff": null
+    },
+    "Roy Silva Academy": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.8053,
+      "logo": null,
+      "playoff": null
+    },
+    "Angelo's Cricket Academy": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 2,
+      "nr": 1,
+      "points": 7,
+      "nrr": 1.4936,
+      "logo": null,
+      "playoff": null
+    },
+    "WorldWide Cricket Academy": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.2756,
+      "logo": null,
+      "playoff": null
+    },
+    "Young Genius Academy": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 4,
+      "nr": 1,
+      "points": 3,
+      "nrr": -1.3154,
+      "logo": null,
+      "playoff": null
+    },
+    "Excel Cricket Academy": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.27,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

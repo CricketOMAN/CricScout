@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-201",
+    "name": "USAC JUNIOR 2024 -MIDWEST WIM HUB U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MYCA Blizzards": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 2.7571,
+      "logo": null,
+      "playoff": null
+    },
+    "MVP U13": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.7544,
+      "logo": null,
+      "playoff": null
+    },
+    "WIM U13": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.9978,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

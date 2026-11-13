@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-64",
+    "name": "USAC Junior 2023 -New England Hub U17"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NCAA Titans": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.875,
+      "logo": null,
+      "playoff": null
+    },
+    "SCTCA XI": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.9077,
+      "logo": null,
+      "playoff": null
+    },
+    "Cricmax CT": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -2.6385,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

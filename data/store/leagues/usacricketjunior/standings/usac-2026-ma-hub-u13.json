@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-496",
+    "name": "USAC 2026 MA HUB U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "CricOne ELECTRONS": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 8,
+      "lost": 0,
+      "nr": 0,
+      "points": 16,
+      "nrr": 3.5238,
+      "logo": null,
+      "playoff": null
+    },
+    "GWCA STRIKERS": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.4875,
+      "logo": null,
+      "playoff": null
+    },
+    "CricOne NEUTRONS": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": -0.5255,
+      "logo": null,
+      "playoff": null
+    },
+    "SKA BOSTON WARRIORS": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 2,
+      "lost": 6,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.3055,
+      "logo": null,
+      "playoff": null
+    },
+    "NCAA": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.6178,
+      "logo": null,
+      "playoff": null
+    },
+    "SKA BOSTON VIKINGS": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 1,
+      "lost": 7,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.3206,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

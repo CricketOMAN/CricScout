@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-570",
+    "name": "USAC 2026 Dallas Regional U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Dallas Red": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.5856,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Kings": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.0601,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Titans": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.5166,
+      "logo": null,
+      "playoff": null
+    },
+    "Colorado": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.0261,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

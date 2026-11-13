@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-379",
+    "name": "USAC 2025 - U13 East Conference Championship"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "North Atlantic": {
+      "position": 1,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.4509,
+      "logo": null,
+      "playoff": null
+    },
+    "DC": {
+      "position": 2,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.1414,
+      "logo": null,
+      "playoff": null
+    },
+    "New York": {
+      "position": 3,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.2047,
+      "logo": null,
+      "playoff": null
+    },
+    "DC_NJ_NY Combined": {
+      "position": 4,
+      "of": 4,
+      "group": "Group A",
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.4979,
+      "logo": null,
+      "playoff": null
+    },
+    "Georgia": {
+      "position": 1,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 7,
+      "lost": 0,
+      "nr": 0,
+      "points": 14,
+      "nrr": 1.4016,
+      "logo": null,
+      "playoff": null
+    },
+    "North Carolina": {
+      "position": 2,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.8756,
+      "logo": null,
+      "playoff": null
+    },
+    "EMW": {
+      "position": 3,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 1,
+      "lost": 6,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.664,
+      "logo": null,
+      "playoff": null
+    },
+    "GA_FL_EMW Combined": {
+      "position": 4,
+      "of": 4,
+      "group": "Group B",
+      "played": 7,
+      "won": 0,
+      "lost": 7,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.5032,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

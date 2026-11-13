@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-222",
+    "name": "USAC Junior 2024 - SAZ Zonals U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Blue": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.1424,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Purple": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.1424,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

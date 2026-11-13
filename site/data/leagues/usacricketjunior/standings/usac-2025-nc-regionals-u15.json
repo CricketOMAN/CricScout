@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-374",
+    "name": "USAC 2025 NC Regionals - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Blue": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.0953,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/652d6a1a-6793-47ae-811e-6704f1c070bd.jpg",
+      "playoff": null
+    },
+    "Team Red": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.0953,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    }
+  }
+}

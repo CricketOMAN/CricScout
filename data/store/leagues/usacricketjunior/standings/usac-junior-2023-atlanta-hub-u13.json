@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-78",
+    "name": "USAC Junior 2023 -Atlanta Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NACA U13 SMASHERS": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 7,
+      "lost": 1,
+      "nr": 0,
+      "points": 14,
+      "nrr": 2.2434,
+      "logo": null,
+      "playoff": null
+    },
+    "NACA U13 BUSTERS": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.9399,
+      "logo": null,
+      "playoff": null
+    },
+    "MLCA U13 Super-Strikers": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.7381,
+      "logo": null,
+      "playoff": null
+    },
+    "MLCA U13 Warriors": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": -0.1281,
+      "logo": null,
+      "playoff": null
+    },
+    "Nashville U13 NextGen": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 0,
+      "lost": 8,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.1056,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

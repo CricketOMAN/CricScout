@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-119",
+    "name": "USAC JR Zonal 2023 - Midwest U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Chicago (IL)": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 5,
+      "lost": 0,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.5831,
+      "logo": null,
+      "playoff": null
+    },
+    "St.Louis (MO-KS)": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.7688,
+      "logo": null,
+      "playoff": null
+    },
+    "EastMidwest (MI-OH-IN)": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.0959,
+      "logo": null,
+      "playoff": null
+    },
+    "WIM (WI-MN-IA)": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.8182,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

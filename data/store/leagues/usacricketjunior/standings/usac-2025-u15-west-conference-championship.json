@@ -1,0 +1,116 @@
+{
+  "series": {
+    "id": "legacy-381",
+    "name": "USAC 2025 - U15 West Conference Championship"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Bay Area Regional Team": {
+      "position": 1,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 6,
+      "lost": 0,
+      "nr": 1,
+      "points": 13,
+      "nrr": 2.1625,
+      "logo": null,
+      "playoff": null
+    },
+    "Missouri_U15": {
+      "position": 2,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 2,
+      "nr": 1,
+      "points": 9,
+      "nrr": 0.8698,
+      "logo": null,
+      "playoff": null
+    },
+    "Houston_U15": {
+      "position": 3,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 2,
+      "nr": 1,
+      "points": 9,
+      "nrr": 0.5877,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas_U15": {
+      "position": 4,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 2,
+      "nr": 1,
+      "points": 9,
+      "nrr": 0.3041,
+      "logo": null,
+      "playoff": null
+    },
+    "Western Sub Conference Combined Team": {
+      "position": 5,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 2,
+      "nr": 1,
+      "points": 9,
+      "nrr": 0.2086,
+      "logo": null,
+      "playoff": null
+    },
+    "DA_Hou_MO_Comb_U15": {
+      "position": 6,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 1,
+      "lost": 5,
+      "nr": 1,
+      "points": 3,
+      "nrr": -1.3561,
+      "logo": null,
+      "playoff": null
+    },
+    "Seattle Regional Team": {
+      "position": 7,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 1,
+      "lost": 5,
+      "nr": 1,
+      "points": 3,
+      "nrr": -1.9213,
+      "logo": null,
+      "playoff": null
+    },
+    "SoCal Regional Team": {
+      "position": 8,
+      "of": 8,
+      "group": null,
+      "played": 7,
+      "won": 0,
+      "lost": 6,
+      "nr": 1,
+      "points": 1,
+      "nrr": -1.0954,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

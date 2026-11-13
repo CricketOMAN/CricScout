@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-549",
+    "name": "USAC 2026 - Dallas U15 Phase 2"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Dallas Orange": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.1457,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Red": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.6026,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Green": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.7767,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Blue": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.4161,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Brown": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.923,
+      "logo": null,
+      "playoff": null
+    },
+    "Dallas Teal": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.256,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-322",
+    "name": "2025 USAC East Midwest Hub - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "AYCA - U15": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 6,
+      "lost": 2,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.981,
+      "logo": null,
+      "playoff": null
+    },
+    "MYCA - U15": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 2,
+      "nr": 1,
+      "points": 11,
+      "nrr": 1.6497,
+      "logo": null,
+      "playoff": null
+    },
+    "MCA - U15": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.0759,
+      "logo": null,
+      "playoff": null
+    },
+    "Prime - U15": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 3,
+      "lost": 4,
+      "nr": 1,
+      "points": 7,
+      "nrr": -0.6054,
+      "logo": null,
+      "playoff": null
+    },
+    "ICY U15": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 0,
+      "lost": 8,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.0928,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

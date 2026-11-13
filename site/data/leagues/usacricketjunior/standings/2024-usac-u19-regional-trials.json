@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-231",
+    "name": "2024 - USAC U19 Regional Trials"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Bay Area Blue": {
+      "position": 1,
+      "of": 2,
+      "group": "Group 2024 U19 Bay Area",
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.65,
+      "logo": null,
+      "playoff": null
+    },
+    "Bay Area Red": {
+      "position": 2,
+      "of": 2,
+      "group": "Group 2024 U19 Bay Area",
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.65,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

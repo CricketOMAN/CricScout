@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-204",
+    "name": "USAC Junior 2024 - St Louis Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ACAC Eagles": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 1,
+      "nr": 1,
+      "points": 9,
+      "nrr": 1.839,
+      "logo": null,
+      "playoff": null
+    },
+    "KYCA Hurricane": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 4,
+      "nr": 1,
+      "points": 3,
+      "nrr": -1.839,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

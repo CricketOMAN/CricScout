@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-130",
+    "name": "USAC Mens Zonal 2023 - South U23"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "U23 Blue": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.39,
+      "logo": null,
+      "playoff": null
+    },
+    "U23 RED": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.39,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

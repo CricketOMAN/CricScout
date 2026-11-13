@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-195",
+    "name": "USAC Junior 2024 - NC Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NC Ovals U15": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.327,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Centennials U15": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.2675,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Traffords U15": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.8893,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Victorians U15": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.5563,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

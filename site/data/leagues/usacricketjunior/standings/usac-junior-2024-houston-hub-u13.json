@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-145",
+    "name": "USAC Junior 2024 -Houston Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "EY3 Bulls": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 7,
+      "lost": 1,
+      "nr": 0,
+      "points": 14,
+      "nrr": 1.3698,
+      "logo": null,
+      "playoff": null
+    },
+    "SY3 Stars": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 6,
+      "lost": 2,
+      "nr": 0,
+      "points": 12,
+      "nrr": 0.0958,
+      "logo": null,
+      "playoff": null
+    },
+    "NC3 Kings": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 4,
+      "lost": 4,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.3487,
+      "logo": null,
+      "playoff": null
+    },
+    "KY3 Phoenix": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 3,
+      "lost": 5,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.3095,
+      "logo": null,
+      "playoff": null
+    },
+    "NW3 Superkings": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 3,
+      "lost": 5,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.9467,
+      "logo": null,
+      "playoff": null
+    },
+    "NW3 Challengers": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 8,
+      "won": 1,
+      "lost": 7,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.8124,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

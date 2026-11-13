@@ -1,0 +1,77 @@
+{
+  "series": {
+    "id": "legacy-194",
+    "name": "USAC Junior 2024 - NC Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NC Lords U13": {
+      "position": 1,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 6,
+      "lost": 2,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.6239,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Bourdas U13": {
+      "position": 2,
+      "of": 5,
+      "group": null,
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.6157,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Gabbas U13": {
+      "position": 3,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.3588,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Wankhede U13": {
+      "position": 4,
+      "of": 5,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.491,
+      "logo": null,
+      "playoff": null
+    },
+    "NC Edens U13": {
+      "position": 5,
+      "of": 5,
+      "group": null,
+      "played": 8,
+      "won": 1,
+      "lost": 7,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.1123,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

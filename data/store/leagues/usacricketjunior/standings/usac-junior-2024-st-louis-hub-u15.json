@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-220",
+    "name": "USAC Junior 2024 - St Louis Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team A": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.6434,
+      "logo": null,
+      "playoff": null
+    },
+    "Team B": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 5,
+      "nr": 0,
+      "points": 2,
+      "nrr": -2.6434,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-285",
+    "name": "2025 USAC WIM - Hub - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MVP U13": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 10,
+      "nrr": 2.2524,
+      "logo": null,
+      "playoff": null
+    },
+    "MYCA Blizzards": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.1944,
+      "logo": null,
+      "playoff": null
+    },
+    "ICA Bears": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.3955,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

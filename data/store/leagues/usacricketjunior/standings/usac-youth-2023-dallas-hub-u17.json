@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-88",
+    "name": "USAC Youth 2023 - Dallas Hub U17"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MCA Panthers": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 9,
+      "won": 7,
+      "lost": 0,
+      "nr": 2,
+      "points": 15,
+      "nrr": 4.3085,
+      "logo": null,
+      "playoff": null
+    },
+    "TCA Warriors": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 9,
+      "won": 5,
+      "lost": 1,
+      "nr": 3,
+      "points": 12,
+      "nrr": 1.3222,
+      "logo": null,
+      "playoff": null
+    },
+    "TiC U17": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 8,
+      "won": 2,
+      "lost": 5,
+      "nr": 1,
+      "points": 5,
+      "nrr": -0.8672,
+      "logo": null,
+      "playoff": null
+    },
+    "DYCL Bolts": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 8,
+      "won": 0,
+      "lost": 8,
+      "nr": 0,
+      "points": 0,
+      "nrr": -5.7494,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

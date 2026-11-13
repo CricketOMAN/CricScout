@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-497",
+    "name": "USAC 2026 MA HUB U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "CricOne ATOMIC FORCE": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 8,
+      "won": 8,
+      "lost": 0,
+      "nr": 0,
+      "points": 16,
+      "nrr": 1.746,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    },
+    "GWCA THUNDERS": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "nr": 0,
+      "points": 10,
+      "nrr": 1.1792,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+      "playoff": null
+    },
+    "GWCA COSMOS": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.2457,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+      "playoff": null
+    },
+    "SKA BOSTON TITANS": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 0,
+      "lost": 7,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.6878,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+      "playoff": null
+    }
+  }
+}

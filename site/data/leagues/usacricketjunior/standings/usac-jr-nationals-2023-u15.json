@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-122",
+    "name": "USAC JR Nationals 2023 - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "South West Zone": {
+      "position": 1,
+      "of": 3,
+      "group": "Group A",
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.1008,
+      "logo": null,
+      "playoff": null
+    },
+    "Mid-Atlantic Zone": {
+      "position": 2,
+      "of": 3,
+      "group": "Group A",
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.3667,
+      "logo": null,
+      "playoff": null
+    },
+    "Midwest Zone": {
+      "position": 3,
+      "of": 3,
+      "group": "Group A",
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.7333,
+      "logo": null,
+      "playoff": null
+    },
+    "West Zone": {
+      "position": 1,
+      "of": 3,
+      "group": "Group B",
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 2.1516,
+      "logo": null,
+      "playoff": null
+    },
+    "South Zone": {
+      "position": 2,
+      "of": 3,
+      "group": "Group B",
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.2833,
+      "logo": null,
+      "playoff": null
+    },
+    "East Zone": {
+      "position": 3,
+      "of": 3,
+      "group": "Group B",
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.4136,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

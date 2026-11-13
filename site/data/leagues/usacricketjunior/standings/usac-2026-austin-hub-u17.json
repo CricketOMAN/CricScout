@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-500",
+    "name": "USAC 2026 Austin HUB U17"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Austin Starz": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.475,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/f69c1de9-8dc4-4192-bcdd-d0601840489a.jpg",
+      "playoff": null
+    },
+    "Austin Blasters": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.475,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+      "playoff": null
+    }
+  }
+}

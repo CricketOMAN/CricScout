@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-118",
+    "name": "USAC JR Zonal 2023 - South U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Georgia U13": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 3,
+      "lost": 0,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.9,
+      "logo": null,
+      "playoff": null
+    },
+    "North Carolina U13": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.0543,
+      "logo": null,
+      "playoff": null
+    },
+    "Tennessee U13": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.621,
+      "logo": null,
+      "playoff": null
+    },
+    "Florida U13": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.442,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-305",
+    "name": "2025 USAC Morrisville -Hub - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "U15-Ovals": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.1393,
+      "logo": null,
+      "playoff": null
+    },
+    "U15-Traffords": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.5161,
+      "logo": null,
+      "playoff": null
+    },
+    "U15-Newlands": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 5,
+      "nrr": -0.5983,
+      "logo": null,
+      "playoff": null
+    },
+    "U15-Victorians": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 1,
+      "nrr": -1.3171,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-558",
+    "name": "USAC 2026 - DC - U13 Phase 2"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Green": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.5611,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Red": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.2436,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Blue": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.5011,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Yellow": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.3393,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

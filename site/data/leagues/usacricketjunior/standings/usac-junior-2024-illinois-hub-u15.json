@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-207",
+    "name": "USAC Junior 2024 - Illinois Hub u15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "CYCA Bulls": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 5,
+      "lost": 0,
+      "nr": 2,
+      "points": 12,
+      "nrr": 5.6603,
+      "logo": null,
+      "playoff": null
+    },
+    "BPL Braves": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 2,
+      "nr": 1,
+      "points": 9,
+      "nrr": 0.5493,
+      "logo": null,
+      "playoff": null
+    },
+    "BPL Dominators": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 2,
+      "nr": 2,
+      "points": 8,
+      "nrr": 1.9561,
+      "logo": null,
+      "playoff": null
+    },
+    "CYCA GRIZZLIES": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 3,
+      "nr": 1,
+      "points": 7,
+      "nrr": 0.9529,
+      "logo": null,
+      "playoff": null
+    },
+    "CMCE Tigers": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -3.8478,
+      "logo": null,
+      "playoff": null
+    },
+    "CPA Panthers": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 7,
+      "won": 0,
+      "lost": 5,
+      "nr": 2,
+      "points": 2,
+      "nrr": -4.1688,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-547",
+    "name": "USAC 2026 - Seattle HUB - Phase2 - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Team Red": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 1.3316,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Pink": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.7218,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Blue": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.2599,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Yellow": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.1278,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Green": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -0.3667,
+      "logo": null,
+      "playoff": null
+    },
+    "Team Orange": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.7833,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

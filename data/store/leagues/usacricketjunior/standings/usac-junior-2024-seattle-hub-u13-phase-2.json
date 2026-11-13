@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-235",
+    "name": "USAC Junior 2024 - Seattle Hub U13 Phase 2"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Red": {
+      "position": 1,
+      "of": 2,
+      "group": "Group Phase 2",
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.5619,
+      "logo": null,
+      "playoff": null
+    },
+    "Blue": {
+      "position": 2,
+      "of": 2,
+      "group": "Group Phase 2",
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.5619,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

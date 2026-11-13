@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-586",
+    "name": "USAC 2026 Western Conference U15 Leg 1"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "South Central Fire": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "nr": 1,
+      "points": 7,
+      "nrr": 1.3568,
+      "logo": null,
+      "playoff": null
+    },
+    "North Central Warriors": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "nr": 1,
+      "points": 7,
+      "nrr": 0.925,
+      "logo": null,
+      "playoff": null
+    },
+    "Mid West Red": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.2468,
+      "logo": null,
+      "playoff": null
+    },
+    "North Central Titans": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 2,
+      "nr": 1,
+      "points": 5,
+      "nrr": 1.0668,
+      "logo": null,
+      "playoff": null
+    },
+    "Mid West Blue": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.4532,
+      "logo": null,
+      "playoff": null
+    },
+    "South Central Flames": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 4,
+      "nr": 1,
+      "points": 1,
+      "nrr": -1.25,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

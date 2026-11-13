@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-590",
+    "name": "2026 Houston U11 selection"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Houston Blue": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 2,
+      "won": 2,
+      "lost": 0,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.0115,
+      "logo": null,
+      "playoff": null
+    },
+    "Houston Red": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 2,
+      "won": 0,
+      "lost": 2,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.0115,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

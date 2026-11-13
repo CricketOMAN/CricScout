@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-517",
+    "name": "USAC 2026 Colorado Rockies Hub - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "DYCA-Parker Patriots U11": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.0478,
+      "logo": null,
+      "playoff": null
+    },
+    "CSA-Dragons": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 5,
+      "won": 1,
+      "lost": 4,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.0478,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-181",
+    "name": "USAC Junior 2024 - Seattle Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "SKA Panthers": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 3.5739,
+      "logo": null,
+      "playoff": null
+    },
+    "MLCA Bellevue Royal Challengers": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "nr": 0,
+      "points": 8,
+      "nrr": 1.7405,
+      "logo": null,
+      "playoff": null
+    },
+    "MLCA Kirkland Knight Riders": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 2,
+      "nr": 0,
+      "points": 6,
+      "nrr": 0.8451,
+      "logo": null,
+      "playoff": null
+    },
+    "Super11 Eagles": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.44,
+      "logo": null,
+      "playoff": null
+    },
+    "BCC ORS U15": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.1228,
+      "logo": null,
+      "playoff": null
+    },
+    "PBL Gladiators": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "nr": 0,
+      "points": 0,
+      "nrr": -5.5955,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

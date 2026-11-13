@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-493",
+    "name": "USAC 2026 NY Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NJYCA - Celestials - U13": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 0,
+      "nr": 1,
+      "points": 9,
+      "nrr": 5.8167,
+      "logo": null,
+      "playoff": null
+    },
+    "QUCA U13": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 1,
+      "lost": 4,
+      "nr": 1,
+      "points": 3,
+      "nrr": -3.66,
+      "logo": null,
+      "playoff": null
+    },
+    "ICUSA - U13 - Sons of Liberty": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 3,
+      "won": 1,
+      "lost": 2,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.6556,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

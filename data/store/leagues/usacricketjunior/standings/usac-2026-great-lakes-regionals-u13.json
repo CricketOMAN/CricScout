@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-575",
+    "name": "USAC 2026 - Great Lakes Regionals - U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "OH_RED": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 4,
+      "lost": 0,
+      "nr": 0,
+      "points": 8,
+      "nrr": 2.5551,
+      "logo": null,
+      "playoff": null
+    },
+    "MI_RED": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": 1.2246,
+      "logo": null,
+      "playoff": null
+    },
+    "MI_BLUE": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.175,
+      "logo": null,
+      "playoff": null
+    },
+    "OH_BLUE": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 4,
+      "won": 0,
+      "lost": 4,
+      "nr": 0,
+      "points": 0,
+      "nrr": -3.5167,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

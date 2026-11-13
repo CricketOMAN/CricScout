@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-76",
+    "name": "USAC Junior 2023 -Morrisville Hub U17"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "The NC Windsors": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.1989,
+      "logo": null,
+      "playoff": null
+    },
+    "The NC Providence": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.1431,
+      "logo": null,
+      "playoff": null
+    },
+    "The NC Albions": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.55,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

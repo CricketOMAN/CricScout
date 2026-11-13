@@ -1,0 +1,90 @@
+{
+  "series": {
+    "id": "legacy-589",
+    "name": "USAC 2026 Mid West Conference U13 Leg 1"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "South Central Supernovas": {
+      "position": 1,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 4,
+      "lost": 0,
+      "nr": 1,
+      "points": 9,
+      "nrr": 1.5296,
+      "logo": null,
+      "playoff": null
+    },
+    "North Central Knights": {
+      "position": 2,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "nr": 1,
+      "points": 7,
+      "nrr": 1.7753,
+      "logo": null,
+      "playoff": null
+    },
+    "North Central Blasters": {
+      "position": 3,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "nr": 1,
+      "points": 7,
+      "nrr": 1.0273,
+      "logo": null,
+      "playoff": null
+    },
+    "Mid West A": {
+      "position": 4,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 2,
+      "lost": 2,
+      "nr": 1,
+      "points": 5,
+      "nrr": 0.4601,
+      "logo": null,
+      "playoff": null
+    },
+    "Mid West B": {
+      "position": 5,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 4,
+      "nr": 1,
+      "points": 1,
+      "nrr": -2.1812,
+      "logo": null,
+      "playoff": null
+    },
+    "South Central Skyfire": {
+      "position": 6,
+      "of": 6,
+      "group": null,
+      "played": 5,
+      "won": 0,
+      "lost": 4,
+      "nr": 1,
+      "points": 1,
+      "nrr": -2.8311,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

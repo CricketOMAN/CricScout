@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-529",
+    "name": "USAC 2026 - MI Hub - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "MYCA CHEETAHS": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "nr": 0,
+      "points": 12,
+      "nrr": 3.3146,
+      "logo": null,
+      "playoff": null
+    },
+    "PRIME STRIKERS": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -1.3278,
+      "logo": null,
+      "playoff": null
+    },
+    "MYCA PANTHERS": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 8,
+      "won": 2,
+      "lost": 6,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.8311,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-360",
+    "name": "2025 USAC Missouri Hub U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ICE-1-U15": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 7,
+      "lost": 0,
+      "nr": 0,
+      "points": 14,
+      "nrr": 2.7217,
+      "logo": null,
+      "playoff": null
+    },
+    "ICE-2-U15": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.243,
+      "logo": null,
+      "playoff": null
+    },
+    "STL U15": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.4044,
+      "logo": null,
+      "playoff": null
+    },
+    "WIM U15": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 1,
+      "lost": 6,
+      "nr": 0,
+      "points": 2,
+      "nrr": -1.8534,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

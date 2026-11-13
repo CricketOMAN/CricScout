@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-46",
+    "name": "USAC Junior 2023 -Colorado Hub U13"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "DYCA-Denver Dynamites U13": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.3901,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5988ff15-ee38-40dc-8cf8-0ccdfed30f7e.jpg",
+      "playoff": null
+    },
+    "DYCA-Littleton Gladiators U13": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.3901,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+      "playoff": null
+    }
+  }
+}

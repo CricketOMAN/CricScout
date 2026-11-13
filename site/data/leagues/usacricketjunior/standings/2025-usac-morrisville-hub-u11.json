@@ -1,0 +1,64 @@
+{
+  "series": {
+    "id": "legacy-303",
+    "name": "2025 USAC Morrisville -Hub - U11"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "U11-Crusaders": {
+      "position": 1,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.3087,
+      "logo": null,
+      "playoff": null
+    },
+    "U11-Colonials": {
+      "position": 2,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 4,
+      "lost": 2,
+      "nr": 0,
+      "points": 8,
+      "nrr": 0.7647,
+      "logo": null,
+      "playoff": null
+    },
+    "U11-Centurions": {
+      "position": 3,
+      "of": 4,
+      "group": null,
+      "played": 6,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 4,
+      "nrr": 0.6833,
+      "logo": null,
+      "playoff": null
+    },
+    "U11-Chepauk": {
+      "position": 4,
+      "of": 4,
+      "group": null,
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -1.5337,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}

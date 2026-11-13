@@ -1,0 +1,51 @@
+{
+  "series": {
+    "id": "legacy-301",
+    "name": "2025 USAC St. Louis Hub - U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "ACAC U15 Team A": {
+      "position": 1,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "nr": 0,
+      "points": 12,
+      "nrr": 4.9221,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/65b601df-edc1-40a6-9c9f-801822bb47e7.jpg",
+      "playoff": null
+    },
+    "KYCA U15": {
+      "position": 2,
+      "of": 3,
+      "group": null,
+      "played": 6,
+      "won": 0,
+      "lost": 6,
+      "nr": 0,
+      "points": 0,
+      "nrr": -4.9221,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+      "playoff": null
+    },
+    "ACAC U15 Team B": {
+      "position": 3,
+      "of": 3,
+      "group": null,
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+      "playoff": null
+    }
+  }
+}

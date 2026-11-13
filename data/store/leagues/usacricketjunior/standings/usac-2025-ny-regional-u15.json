@@ -1,0 +1,38 @@
+{
+  "series": {
+    "id": "legacy-382",
+    "name": "USAC 2025 NY Regional U15"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "NE Hub U15": {
+      "position": 1,
+      "of": 2,
+      "group": null,
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "nr": 0,
+      "points": 2,
+      "nrr": 0.4514,
+      "logo": null,
+      "playoff": null
+    },
+    "NY Hub U15": {
+      "position": 2,
+      "of": 2,
+      "group": null,
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "nr": 0,
+      "points": 0,
+      "nrr": -0.4514,
+      "logo": null,
+      "playoff": null
+    }
+  }
+}
