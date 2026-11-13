@@ -1,0 +1,1493 @@
+{
+ "season": {
+  "key": "prev2",
+  "id": "legacy-43",
+  "name": "2025 GPCL T20"
+ },
+ "fetchedAt": "2026-11-13T18:40:47.652Z",
+ "source": [
+  "https://cricclubs.com/GPCL/listMatches.do?league=43&clubId=48",
+  "https://cricclubs.com/GPCL/fixtures.do?league=43&clubId=48"
+ ],
+ "matches": [
+  {
+   "matchId": "2824",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2824&clubId=48",
+   "date": "2025-10-11",
+   "type": "Final",
+   "teams": [
+    "Villanova CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "772",
+    "764"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Swat Lions CC won by 4 Wickets",
+   "summary": "Villanova CC: 161/8(20) Swat Lions CC: 164/6(19.2)"
+  },
+  {
+   "matchId": "2823",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2823&clubId=48",
+   "date": "2025-10-04",
+   "type": "Semi Final",
+   "teams": [
+    "Swat Lions CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "764",
+    "768"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Swat Lions CC won by 5 Wickets",
+   "summary": "Phoenix CC: 159/7(20) Swat Lions CC: 163/5(12.3)"
+  },
+  {
+   "matchId": "2822",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2822&clubId=48",
+   "date": "2025-10-04",
+   "type": "Semi Final",
+   "teams": [
+    "Villanova CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "772",
+    "763"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Villanova CC won by 34 Runs",
+   "summary": "Villanova CC: 158/7(20) Spartans CC: 124/10(19.3)"
+  },
+  {
+   "matchId": "2821",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2821&clubId=48",
+   "date": "2025-09-27",
+   "type": "Qualifier",
+   "teams": [
+    "Swat Lions CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "764",
+    "765"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Swat Lions CC won by 6 Wickets",
+   "summary": "Titans CC: 161/10(19.1) Swat Lions CC: 163/4(18.2)"
+  },
+  {
+   "matchId": "2820",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2820&clubId=48",
+   "date": "2025-09-27",
+   "type": "Qualifier",
+   "teams": [
+    "Villanova CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "772",
+    "770"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Villanova CC won by 87 Runs",
+   "summary": "Villanova CC: 211/8(20) Glassboro Guns CC: 124/10(17.2)"
+  },
+  {
+   "matchId": "2819",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2819&clubId=48",
+   "date": "2025-09-20",
+   "type": "Eliminator",
+   "teams": [
+    "Glassboro Guns CC",
+    "NJ Challengers CC"
+   ],
+   "teamIds": [
+    "770",
+    "762"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 7 Wickets",
+   "summary": "NJ Challengers CC: 152/5(20) Glassboro Guns CC: 153/3(17.3)"
+  },
+  {
+   "matchId": "2818",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2818&clubId=48",
+   "date": "2025-09-20",
+   "type": "Qualifier",
+   "teams": [
+    "Spartans CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "763",
+    "764"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Spartans CC won by 6 Runs",
+   "summary": "Spartans CC: 158/9(20) Swat Lions CC: 152/10(19.3)"
+  },
+  {
+   "matchId": "2817",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2817&clubId=48",
+   "date": "2025-09-20",
+   "type": "Qualifier",
+   "teams": [
+    "Villanova CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "772",
+    "768"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Phoenix CC won by 7 Wickets",
+   "summary": "Villanova CC: 164/8(20) Phoenix CC: 165/3(17.5)"
+  },
+  {
+   "matchId": "2816",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2816&clubId=48",
+   "date": "2025-09-20",
+   "type": "Eliminator",
+   "teams": [
+    "Titans CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "765",
+    "771"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Titans CC won by 50 Runs",
+   "summary": "Titans CC: 174/6(20) Prior CC: 124/10(18.1)"
+  },
+  {
+   "matchId": "2815",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2815&clubId=48",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "NJ Challengers CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "762",
+    "770"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Glassboro Guns CC won by 5 Wickets",
+   "summary": "NJ Challengers CC: 71/10(18.4) Glassboro Guns CC: 72/5(13.2)"
+  },
+  {
+   "matchId": "2814",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2814&clubId=48",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "773",
+    "765"
+   ],
+   "ground": "Stumperz",
+   "result": "Titans CC won by 4 Wickets",
+   "summary": "Stumperz CC: 93/10(16.4) Titans CC: 95/6(13.2)"
+  },
+  {
+   "matchId": "2813",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2813&clubId=48",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "East Coast CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "761",
+    "773"
+   ],
+   "ground": "Stumperz",
+   "result": "Forfeited. Winner: Stumperz CC",
+   "summary": "East Coast CC: 0/0(0)"
+  },
+  {
+   "matchId": "2810",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2810&clubId=48",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "772",
+    "763"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Abandoned.",
+   "summary": "Spartans CC: 71/2(8.1)"
+  },
+  {
+   "matchId": "2809",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2809&clubId=48",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "NJ Challengers CC"
+   ],
+   "teamIds": [
+    "766",
+    "762"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "NJ Challengers CC won by 48 Runs",
+   "summary": "NJ Challengers CC: 190/2(20) Vikings CC: 142/8(20)"
+  },
+  {
+   "matchId": "2808",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2808&clubId=48",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "771",
+    "769"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Chargers CC won by 15 Runs",
+   "summary": "Chargers CC: 130/6(20) Prior CC: 115/9(20)"
+  },
+  {
+   "matchId": "2807",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2807&clubId=48",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "764",
+    "765"
+   ],
+   "ground": "ECG2",
+   "result": "Abandoned.",
+   "summary": "Titans CC: 135/8(20) Swat Lions CC: 28/2(4)"
+  },
+  {
+   "matchId": "2806",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2806&clubId=48",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "East Coast CC"
+   ],
+   "teamIds": [
+    "768",
+    "761"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Phoenix CC won by 87 Runs",
+   "summary": "Phoenix CC: 207/6(20) East Coast CC: 120/10(16.2)"
+  },
+  {
+   "matchId": "2803",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2803&clubId=48",
+   "date": "2025-08-23",
+   "type": "League",
+   "teams": [
+    "East Coast CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "761",
+    "772"
+   ],
+   "ground": "ECG2",
+   "result": "Villanova CC won by 4 Wickets",
+   "summary": "East Coast CC: 209/7(20) Villanova CC: 210/6(19.5)"
+  },
+  {
+   "matchId": "2802",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2802&clubId=48",
+   "date": "2025-08-23",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "766",
+    "771"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Prior CC won by 36 Runs",
+   "summary": "Prior CC: 158/7(20) Vikings CC: 122/10(17.3)"
+  },
+  {
+   "matchId": "2801",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2801&clubId=48",
+   "date": "2025-08-23",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "East Coast CC"
+   ],
+   "teamIds": [
+    "765",
+    "761"
+   ],
+   "ground": "ECG2",
+   "result": "Titans CC won by 61 Runs",
+   "summary": "Titans CC: 170/7(20) East Coast CC: 109/8(20)"
+  },
+  {
+   "matchId": "2800",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2800&clubId=48",
+   "date": "2025-08-23",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "773",
+    "764"
+   ],
+   "ground": "Stumperz",
+   "result": "Swat Lions CC won by 8 Wickets",
+   "summary": "Stumperz CC: 142/2(20) Swat Lions CC: 145/2(13.5)"
+  },
+  {
+   "matchId": "2799",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2799&clubId=48",
+   "date": "2025-08-23",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "769",
+    "763"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Spartans CC won by 49 Runs",
+   "summary": "Spartans CC: 143/6(20) Chargers CC: 94/10(18.4)"
+  },
+  {
+   "matchId": "2794",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2794&clubId=48",
+   "date": "2025-08-16",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "765",
+    "763"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Spartans CC won by 4 Wickets",
+   "summary": "Titans CC: 80/10(19.3) Spartans CC: 81/6(12.3)"
+  },
+  {
+   "matchId": "2793",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2793&clubId=48",
+   "date": "2025-08-16",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "769",
+    "772"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Villanova CC won by 29 Runs",
+   "summary": "Villanova CC: 160/7(20) Chargers CC: 131/10(19.2)"
+  },
+  {
+   "matchId": "2792",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2792&clubId=48",
+   "date": "2025-08-16",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "764",
+    "771"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Swat Lions CC won by 82 Runs",
+   "summary": "Swat Lions CC: 178/7(20) Prior CC: 96/10(16.2)"
+  },
+  {
+   "matchId": "2791",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2791&clubId=48",
+   "date": "2025-08-16",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "768",
+    "767"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Phoenix CC won by 7 Wickets",
+   "summary": "Lehigh Valley CC: 160/10(19.3) Phoenix CC: 161/3(15.5)"
+  },
+  {
+   "matchId": "2790",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2790&clubId=48",
+   "date": "2025-08-16",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "773",
+    "766"
+   ],
+   "ground": "Stumperz",
+   "result": "Vikings CC won by 6 Runs",
+   "summary": "Vikings CC: 129/3(20) Stumperz CC: 123/7(20)"
+  },
+  {
+   "matchId": "2789",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2789&clubId=48",
+   "date": "2025-08-09",
+   "type": "League",
+   "teams": [
+    "NJ Challengers CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "762",
+    "773"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Forfeited. Winner: NJ Challengers CC",
+   "summary": "NJ Challengers CC: 0/0(0)"
+  },
+  {
+   "matchId": "2783",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2783&clubId=48",
+   "date": "2025-08-09",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "769",
+    "765"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Titans CC won by 8 Runs",
+   "summary": "Titans CC: 152/5(20) Chargers CC: 144/6(20)"
+  },
+  {
+   "matchId": "2782",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2782&clubId=48",
+   "date": "2025-08-09",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "763",
+    "768"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Spartans CC won by 42 Runs",
+   "summary": "Spartans CC: 171/6(20) Phoenix CC: 129/9(20)"
+  },
+  {
+   "matchId": "2781",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2781&clubId=48",
+   "date": "2025-08-09",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "770",
+    "771"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 17 Runs",
+   "summary": "Glassboro Guns CC: 173/7(20) Prior CC: 156/2(19)"
+  },
+  {
+   "matchId": "2780",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2780&clubId=48",
+   "date": "2025-08-09",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "766",
+    "772"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Vikings CC won by 2 Wickets",
+   "summary": "Villanova CC: 157/5(20) Vikings CC: 158/8(19.4)"
+  },
+  {
+   "matchId": "2779",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2779&clubId=48",
+   "date": "2025-08-09",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "764",
+    "767"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Forfeited. Winner: Swat Lions CC",
+   "summary": "Swat Lions CC: 0/0(20) Lehigh Valley CC: 0/0(20)"
+  },
+  {
+   "matchId": "2772",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2772&clubId=48",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "770",
+    "773"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 93 Runs",
+   "summary": "Glassboro Guns CC: 172/6(20) Stumperz CC: 79/8(17.4)"
+  },
+  {
+   "matchId": "2771",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2771&clubId=48",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "772",
+    "771"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Villanova CC won by 8 Wickets",
+   "summary": "Prior CC: 41/10(14.5) Villanova CC: 42/2(6.2)"
+  },
+  {
+   "matchId": "2770",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2770&clubId=48",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "766",
+    "769"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Chargers CC won by 6 Wickets",
+   "summary": "Vikings CC: 62/10(17) Chargers CC: 63/4(11.1)"
+  },
+  {
+   "matchId": "2769",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2769&clubId=48",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "763",
+    "767"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Spartans CC won by 7 Wickets",
+   "summary": "Lehigh Valley CC: 148/10(19.1) Spartans CC: 149/3(17.4)"
+  },
+  {
+   "matchId": "2768",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2768&clubId=48",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "East Coast CC"
+   ],
+   "teamIds": [
+    "771",
+    "761"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "East Coast CC won by 3 Wickets",
+   "summary": "Prior CC: 92/9(20) East Coast CC: 93/7(17.4)"
+  },
+  {
+   "matchId": "2767",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2767&clubId=48",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "NJ Challengers CC"
+   ],
+   "teamIds": [
+    "765",
+    "762"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Titans CC won by 16 Runs",
+   "summary": "Titans CC: 135/8(20) NJ Challengers CC: 119/8(20)"
+  },
+  {
+   "matchId": "2757",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2757&clubId=48",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "763",
+    "764"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Swat Lions CC won by 33 Runs",
+   "summary": "Swat Lions CC: 172/9(20) Spartans CC: 139/10(18.2)"
+  },
+  {
+   "matchId": "2756",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2756&clubId=48",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "East Coast CC"
+   ],
+   "teamIds": [
+    "767",
+    "761"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Lehigh Valley CC won by 5 Wickets",
+   "summary": "East Coast CC: 155/8(20) Lehigh Valley CC: 156/5(18.5)"
+  },
+  {
+   "matchId": "2755",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2755&clubId=48",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "768",
+    "770"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Glassboro Guns CC won by 25 Runs",
+   "summary": "Glassboro Guns CC: 199/7(20) Phoenix CC: 174/9(20)"
+  },
+  {
+   "matchId": "2754",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2754&clubId=48",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "NJ Challengers CC"
+   ],
+   "teamIds": [
+    "772",
+    "762"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Villanova CC won by 5 Wickets",
+   "summary": "NJ Challengers CC: 125/5(20) Villanova CC: 130/5(17.5)"
+  },
+  {
+   "matchId": "2753",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2753&clubId=48",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "771",
+    "765"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Prior CC won by 75 Runs",
+   "summary": "Prior CC: 144/6(20) Titans CC: 69/10(15.3)"
+  },
+  {
+   "matchId": "2752",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2752&clubId=48",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "769",
+    "773"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Chargers CC won by 20 Runs",
+   "summary": "Chargers CC: 180/5(20) Stumperz CC: 160/7(20)"
+  },
+  {
+   "matchId": "2744",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2744&clubId=48",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "NJ Challengers CC"
+   ],
+   "teamIds": [
+    "771",
+    "762"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Prior CC: 0/0(0)"
+  },
+  {
+   "matchId": "2743",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2743&clubId=48",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "769",
+    "768"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Phoenix CC won by 6 Wickets",
+   "summary": "Chargers CC: 157/7(20) Phoenix CC: 158/4(16.2)"
+  },
+  {
+   "matchId": "2742",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2742&clubId=48",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "770",
+    "767"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 3 Wickets",
+   "summary": "Lehigh Valley CC: 123/10(19.4) Glassboro Guns CC: 125/7(18.5)"
+  },
+  {
+   "matchId": "2741",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2741&clubId=48",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "765",
+    "766"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Titans CC won by 158 Runs",
+   "summary": "Titans CC: 191/8(20) Vikings CC: 33/10(8.3)"
+  },
+  {
+   "matchId": "2745",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2745&clubId=48",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "NJ Challengers CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "762",
+    "764"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "NJ Challengers CC: 0/0(0)"
+  },
+  {
+   "matchId": "2734",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2734&clubId=48",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "763",
+    "771"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Spartans CC won by 56 Runs",
+   "summary": "Spartans CC: 145/6(20) Prior CC: 89/10(17.2)"
+  },
+  {
+   "matchId": "2733",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2733&clubId=48",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "East Coast CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "761",
+    "770"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 4 Runs",
+   "summary": "Glassboro Guns CC: 153/8(20) East Coast CC: 149/10(19.2)"
+  },
+  {
+   "matchId": "2732",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2732&clubId=48",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "767",
+    "766"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Lehigh Valley CC won by 39 Runs",
+   "summary": "Lehigh Valley CC: 171/5(20) Vikings CC: 132/8(20)"
+  },
+  {
+   "matchId": "2725",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2725&clubId=48",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "772",
+    "765"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Villanova CC won by 10 Runs",
+   "summary": "Villanova CC: 132/9(18) Titans CC: 122/7(18)"
+  },
+  {
+   "matchId": "2724",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2724&clubId=48",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "764",
+    "768"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Phoenix CC won by 14 Runs",
+   "summary": "Phoenix CC: 187/3(20) Swat Lions CC: 173/10(18.3)"
+  },
+  {
+   "matchId": "2723",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2723&clubId=48",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "772",
+    "764"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Villanova CC won by 47 Runs",
+   "summary": "Villanova CC: 129/5(17) Swat Lions CC: 82/7(16)"
+  },
+  {
+   "matchId": "2722",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2722&clubId=48",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "771",
+    "773"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Prior CC won by 6 Wickets",
+   "summary": "Stumperz CC: 95/9(20) Prior CC: 96/4(14.2)"
+  },
+  {
+   "matchId": "2721",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2721&clubId=48",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "768",
+    "766"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Vikings CC won by 12 Runs",
+   "summary": "Vikings CC: 144/5(20) Phoenix CC: 132/9(20)"
+  },
+  {
+   "matchId": "2714",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2714&clubId=48",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "767",
+    "771"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Prior CC won by 1 Wicket",
+   "summary": "Lehigh Valley CC: 180/6(20) Prior CC: 181/9(20)"
+  },
+  {
+   "matchId": "2713",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2713&clubId=48",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "764",
+    "769"
+   ],
+   "ground": "Knights Cricket Ground",
+   "result": "Swat Lions CC won by 8 Wickets",
+   "summary": "Chargers CC: 129/9(20) Swat Lions CC: 130/2(13.2)"
+  },
+  {
+   "matchId": "2712",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2712&clubId=48",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "NJ Challengers CC",
+    "East Coast CC"
+   ],
+   "teamIds": [
+    "762",
+    "761"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "NJ Challengers CC won by 23 Runs",
+   "summary": "NJ Challengers CC: 100/10(19.2) East Coast CC: 77/5(20)"
+  },
+  {
+   "matchId": "2711",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2711&clubId=48",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "770",
+    "763"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Spartans CC won by 9 Wickets",
+   "summary": "Glassboro Guns CC: 139/10(20) Spartans CC: 140/1(14.1)"
+  },
+  {
+   "matchId": "2710",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2710&clubId=48",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "765",
+    "768"
+   ],
+   "ground": "Knights Cricket Ground",
+   "result": "Phoenix CC won by 28 Runs",
+   "summary": "Phoenix CC: 182/7(20) Titans CC: 154/7(20)"
+  },
+  {
+   "matchId": "2812",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2812&clubId=48",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "767",
+    "769"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Lehigh Valley CC: 0/0(20) Chargers CC: 0/0(20)"
+  },
+  {
+   "matchId": "2705",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2705&clubId=48",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "772",
+    "770"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Villanova CC won by 2 Runs",
+   "summary": "Villanova CC: 99/9(17.3) Glassboro Guns CC: 97/10(19.5)"
+  },
+  {
+   "matchId": "2704",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2704&clubId=48",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "NJ Challengers CC"
+   ],
+   "teamIds": [
+    "763",
+    "762"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "NJ Challengers CC won by 3 Wickets",
+   "summary": "Spartans CC: 159/3(18) NJ Challengers CC: 160/7(17.5)"
+  },
+  {
+   "matchId": "2703",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2703&clubId=48",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "766",
+    "764"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Swat Lions CC won by 56 Runs",
+   "summary": "Swat Lions CC: 166/6(20) Vikings CC: 110/9(20)"
+  },
+  {
+   "matchId": "2696",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2696&clubId=48",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "771",
+    "768"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Phoenix CC: 81/4(14)"
+  },
+  {
+   "matchId": "2695",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2695&clubId=48",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "NJ Challengers CC"
+   ],
+   "teamIds": [
+    "769",
+    "762"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Chargers CC: 133/10(19.5) NJ Challengers CC: 4/0(1.3)"
+  },
+  {
+   "matchId": "2694",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2694&clubId=48",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "773",
+    "772"
+   ],
+   "ground": "Knights Cricket Ground",
+   "result": "Villanova CC won by 6 Wickets",
+   "summary": "Stumperz CC: 165/3(20) Villanova CC: 166/4(14.4)"
+  },
+  {
+   "matchId": "2693",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2693&clubId=48",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "763",
+    "766"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Spartans CC won by 8 Wickets",
+   "summary": "Vikings CC: 78/10(19) Spartans CC: 79/2(9.1)"
+  },
+  {
+   "matchId": "2692",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2692&clubId=48",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "767",
+    "765"
+   ],
+   "ground": "Knights Cricket Ground",
+   "result": "Titans CC won by 4 Wickets",
+   "summary": "Lehigh Valley CC: 132/7(20) Titans CC: 133/6(19.1)"
+  },
+  {
+   "matchId": "2690",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2690&clubId=48",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "East Coast CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "761",
+    "763"
+   ],
+   "ground": "Fairmount Park - 1",
+   "result": "Abandoned.",
+   "summary": "East Coast CC: 0/0(20) Spartans CC: 0/0(20)"
+  },
+  {
+   "matchId": "2689",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2689&clubId=48",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "768",
+    "772"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Abandoned.",
+   "summary": "Phoenix CC: 0/0(20) Villanova CC: 0/0(20)"
+  },
+  {
+   "matchId": "2688",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2688&clubId=48",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "NJ Challengers CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "762",
+    "767"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "NJ Challengers CC: 0/0(20) Lehigh Valley CC: 0/0(20)"
+  },
+  {
+   "matchId": "2687",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2687&clubId=48",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "770",
+    "764"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Glassboro Guns CC: 0/0(20) Swat Lions CC: 0/0(20)"
+  },
+  {
+   "matchId": "2686",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2686&clubId=48",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "768",
+    "773"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Abandoned.",
+   "summary": "Phoenix CC: 0/0(20) Stumperz CC: 0/0(20)"
+  },
+  {
+   "matchId": "2685",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2685&clubId=48",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "East Coast CC"
+   ],
+   "teamIds": [
+    "766",
+    "761"
+   ],
+   "ground": "Fairmount Park - 1",
+   "result": "Abandoned.",
+   "summary": "Vikings CC: 0/0(20) East Coast CC: 0/0(20)"
+  },
+  {
+   "matchId": "2678",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2678&clubId=48",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "773",
+    "763"
+   ],
+   "ground": "Stumperz",
+   "result": "Abandoned.",
+   "summary": "Stumperz CC: 0/0(0)"
+  },
+  {
+   "matchId": "2671",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2671&clubId=48",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "East Coast CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "761",
+    "764"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Swat Lions CC won by 6 Wickets",
+   "summary": "East Coast CC: 66/10(16.2) Swat Lions CC: 67/4(12.3)"
+  },
+  {
+   "matchId": "2670",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2670&clubId=48",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "770",
+    "766"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 64 Runs",
+   "summary": "Glassboro Guns CC: 145/8(20) Vikings CC: 81/10(18.3)"
+  },
+  {
+   "matchId": "2669",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2669&clubId=48",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "East Coast CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "761",
+    "769"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "East Coast CC won by 5 Wickets",
+   "summary": "Chargers CC: 166/6(20) East Coast CC: 167/5(19.2)"
+  },
+  {
+   "matchId": "2691",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2691&clubId=48",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "765",
+    "770"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Forfeited. Winner: Titans CC",
+   "summary": "Titans CC: 0/0(0)"
+  },
+  {
+   "matchId": "2661",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2661&clubId=48",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "767",
+    "772"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Villanova CC won by 6 Wickets",
+   "summary": "Lehigh Valley CC: 88/10(16.2) Villanova CC: 89/4(10.5)"
+  },
+  {
+   "matchId": "2660",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2660&clubId=48",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "NJ Challengers CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "762",
+    "768"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Phoenix CC won by 4 Wickets",
+   "summary": "NJ Challengers CC: 147/8(20) Phoenix CC: 148/6(18.5)"
+  },
+  {
+   "matchId": "2653",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2653&clubId=48",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "769",
+    "770"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 3 Wickets",
+   "summary": "Chargers CC: 156/9(20) Glassboro Guns CC: 157/7(19.3)"
+  },
+  {
+   "matchId": "2652",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2652&clubId=48",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "773",
+    "767"
+   ],
+   "ground": "Rockers Cricket Ground",
+   "result": "Stumperz CC won by 8 Wickets",
+   "summary": "Lehigh Valley CC: 94/9(20) Stumperz CC: 96/2(12.5)"
+  }
+ ]
+}

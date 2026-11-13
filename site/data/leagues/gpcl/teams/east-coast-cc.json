@@ -1,0 +1,2292 @@
+{
+  "team": "East Coast CC",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg",
+  "logos": {
+    "PivotalTech's Rockers": "https://media.cricclubs.com/documentsRep/teamLogos/0bacbd61-e786-4be8-b7ff-391c7d4306ee.jpg",
+    "Spartans CC": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+    "Phoenix CC": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+    "Galloway CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Titans CC": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+    "British Officers CC": "https://media.cricclubs.com/documentsRep/teamLogos/0731bc29-a4b1-437a-a615-fba5caac732a.jpg",
+    "Lehigh Valley CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+    "Khyber CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-224.jpg",
+    "Echelon CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-234.jpg",
+    "Stallions CC": "https://media.cricclubs.com/documentsRep/teamLogos/50a8a599-4597-4092-85cf-7fb7aff33cac.jpg",
+    "South Jersey CC": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+    "StarSportsUS Future Stars CC": "https://media.cricclubs.com/documentsRep/teamLogos/3418eaf9-6553-424e-9a47-9e22c435e258.png",
+    "Chester County Cricket Academy Lions CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Glassboro Guns CC": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+    "Villanova CC": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+    "United XI CC": "https://media.cricclubs.com/documentsRep/teamLogos/f3a8c11c-01a1-4861-ad15-0e0cc28b71cd.jpg",
+    "Chargers CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+    "Vikings CC": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+    "Prior CC": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+    "Bensalem CC": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+    "Swat Lions CC": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+    "Stumperz CC": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+    "NJ Challengers CC": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+    "East Coast CC": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg"
+  },
+  "league": {
+    "code": "GPCL",
+    "name": "GPCL - Greater Philadelphia Cricket League"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-46",
+      "name": "2026 GPCL 40",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:32.881Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=46&clubId=48",
+        "players": {}
+      }
+    },
+    "last": {
+      "id": "legacy-45",
+      "name": "2026 GPCL T20",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:40.269Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=45&clubId=48",
+        "players": {}
+      }
+    },
+    "prev2": {
+      "id": "legacy-43",
+      "name": "2025 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:47.652Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:47.652Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=43&clubId=48",
+        "players": {
+          "tirth patel": {
+            "name": "Tirth Patel",
+            "matches": 9,
+            "batting": 264,
+            "bowling": 172,
+            "fielding": 74,
+            "other": 0,
+            "mom": 0,
+            "total": 510
+          },
+          "jaydevsinh zala": {
+            "name": "Jaydevsinh Zala",
+            "matches": 7,
+            "batting": 345,
+            "bowling": 58,
+            "fielding": 24,
+            "other": 25,
+            "mom": 1,
+            "total": 452
+          },
+          "arya patel": {
+            "name": "Arya Patel",
+            "matches": 9,
+            "batting": 11,
+            "bowling": 211,
+            "fielding": 52,
+            "other": 0,
+            "mom": 0,
+            "total": 274
+          },
+          "nisarg patel": {
+            "name": "Nisarg Patel",
+            "matches": 8,
+            "batting": 185,
+            "bowling": 0,
+            "fielding": 46,
+            "other": 0,
+            "mom": 0,
+            "total": 231
+          },
+          "rovin dushraj": {
+            "name": "Rovin Dushraj",
+            "matches": 3,
+            "batting": 74,
+            "bowling": 111,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 193
+          },
+          "vasu patel": {
+            "name": "Vasu Patel",
+            "matches": 7,
+            "batting": -1,
+            "bowling": 180,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 187
+          },
+          "siddharth zala": {
+            "name": "Siddharth Zala",
+            "matches": 7,
+            "batting": 94,
+            "bowling": 20,
+            "fielding": 72,
+            "other": 0,
+            "mom": 0,
+            "total": 186
+          },
+          "isiah bruney": {
+            "name": "Isiah Bruney",
+            "matches": 3,
+            "batting": 82,
+            "bowling": 44,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 126
+          },
+          "hrishi patel": {
+            "name": "Hrishi Patel",
+            "matches": 2,
+            "batting": 25,
+            "bowling": 70,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 103
+          },
+          "chaitanya patel": {
+            "name": "Chaitanya Patel",
+            "matches": 3,
+            "batting": 3,
+            "bowling": 88,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 99
+          },
+          "ayaz rathod": {
+            "name": "Ayaz Rathod",
+            "matches": 3,
+            "batting": 8,
+            "bowling": 69,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 77
+          },
+          "prem patel": {
+            "name": "Prem Patel",
+            "matches": 5,
+            "batting": 52,
+            "bowling": 0,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 76
+          },
+          "mohit singh": {
+            "name": "Mohit Singh",
+            "matches": 6,
+            "batting": 54,
+            "bowling": 0,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 70
+          },
+          "rohan hope": {
+            "name": "Rohan Hope",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 39,
+            "fielding": 28,
+            "other": 0,
+            "mom": 0,
+            "total": 67
+          },
+          "smit patel": {
+            "name": "Smit Patel",
+            "matches": 2,
+            "batting": 3,
+            "bowling": 47,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 66
+          },
+          "rishi patel": {
+            "name": "Rishi Patel",
+            "matches": 4,
+            "batting": 50,
+            "bowling": 0,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 66
+          },
+          "hardik patel": {
+            "name": "Hardik Patel",
+            "matches": 3,
+            "batting": 16,
+            "bowling": 48,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 64
+          },
+          "nil patel": {
+            "name": "Nil Patel",
+            "matches": 1,
+            "batting": 17,
+            "bowling": 25,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 54
+          },
+          "jigar d patel": {
+            "name": "Jigar D Patel",
+            "matches": 2,
+            "batting": 11,
+            "bowling": 19,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 30
+          },
+          "hitarth soni": {
+            "name": "Hitarth Soni",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 15,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 15
+          },
+          "dhruv parekh": {
+            "name": "Dhruv Parekh",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 9
+          },
+          "roger williams": {
+            "name": "Roger Williams",
+            "matches": 1,
+            "batting": 0,
+            "bowling": -5,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 3
+          },
+          "dev gohil": {
+            "name": "Dev Gohil",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "niramy patel": {
+            "name": "Niramy Patel",
+            "matches": 4,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "samuel persaud": {
+            "name": "Samuel Persaud",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "dhruvin patel": {
+            "name": "Dhruvin Patel",
+            "matches": 2,
+            "batting": -2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -2
+          },
+          "crafton clarke": {
+            "name": "Crafton Clarke",
+            "matches": 1,
+            "batting": -2,
+            "bowling": -5,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -7
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-2813",
+      "date": "2025-09-13",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Stumperz CC",
+      "ground": "Stumperz",
+      "result": "Forfeited. Winner: Stumperz CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "East Coast CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Stumperz CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2806",
+      "date": "2025-09-06",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Phoenix CC won by 87 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Phoenix CC",
+          "runs": 207,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 120,
+          "wkts": 10,
+          "overs": "16.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Jaydevsinh Zala",
+          "r": 7,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Tirth Patel",
+          "r": 20,
+          "b": 17,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Rovin Dushraj",
+          "r": 5,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Rishi Patel",
+          "r": 7,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Mohit Singh",
+          "r": 25,
+          "b": 22,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Roger Williams",
+          "r": 6,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Arya Patel",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Crafton Clarke",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Isiah Bruney",
+          "r": 32,
+          "b": 17,
+          "f": 3,
+          "s": 3,
+          "out": true,
+          "pos": 9,
+          "how": "st"
+        },
+        {
+          "name": "Vasu Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Hitarth Soni",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Crafton Clarke",
+          "balls": 12,
+          "r": 27,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Roger Williams",
+          "balls": 12,
+          "r": 29,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "balls": 24,
+          "r": 27,
+          "w": 2,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Isiah Bruney",
+          "balls": 18,
+          "r": 28,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vasu Patel",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Hitarth Soni",
+          "balls": 12,
+          "r": 27,
+          "w": 1,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Rovin Dushraj",
+          "balls": 24,
+          "r": 32,
+          "w": 3,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rishi Patel",
+          "c",
+          1
+        ],
+        [
+          "Roger Williams",
+          "c",
+          1
+        ],
+        [
+          "Mohit Singh",
+          "k",
+          1
+        ],
+        [
+          "Rovin Dushraj",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2803",
+      "date": "2025-08-23",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "ECG2",
+      "result": "Villanova CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "East Coast CC",
+          "runs": 209,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Villanova CC",
+          "runs": 210,
+          "wkts": 6,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Rishi Patel",
+          "r": 22,
+          "b": 23,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Tirth Patel",
+          "r": 55,
+          "b": 26,
+          "f": 8,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Arya Patel",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "r": 49,
+          "b": 25,
+          "f": 3,
+          "s": 3,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Siddharth Zala",
+          "r": 36,
+          "b": 23,
+          "f": 4,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Prem Patel",
+          "r": 4,
+          "b": 2,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Nisarg Patel",
+          "r": 24,
+          "b": 13,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Mohit Singh",
+          "r": 4,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jigar D Patel",
+          "balls": 18,
+          "r": 31,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 24,
+          "r": 35,
+          "w": 0,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "balls": 11,
+          "r": 24,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Patel",
+          "balls": 24,
+          "r": 56,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vasu Patel",
+          "balls": 24,
+          "r": 35,
+          "w": 3,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Tirth Patel",
+          "balls": 18,
+          "r": 29,
+          "w": 1,
+          "dots": 2,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arya Patel",
+          "c",
+          1
+        ],
+        [
+          "Tirth Patel",
+          "c",
+          1
+        ],
+        [
+          "Vasu Patel",
+          "c",
+          1
+        ],
+        [
+          "Nisarg Patel",
+          "c",
+          1
+        ],
+        [
+          "Arya Patel",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2801",
+      "date": "2025-08-23",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Titans CC",
+      "ground": "ECG2",
+      "result": "Titans CC won by 61 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 170,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 109,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Tirth Patel",
+          "r": 18,
+          "b": 20,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Siddharth Zala",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "r": 14,
+          "b": 14,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Nisarg Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Isiah Bruney",
+          "r": 28,
+          "b": 33,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Rishi Patel",
+          "r": 16,
+          "b": 24,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Prem Patel",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Jigar D Patel",
+          "r": 9,
+          "b": 8,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Arya Patel",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jigar D Patel",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Patel",
+          "balls": 24,
+          "r": 23,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "balls": 18,
+          "r": 27,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Tirth Patel",
+          "balls": 24,
+          "r": 43,
+          "w": 3,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Isiah Bruney",
+          "balls": 24,
+          "r": 41,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 12,
+          "r": 17,
+          "w": 1,
+          "dots": 3,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prem Patel",
+          "c",
+          1
+        ],
+        [
+          "Arya Patel",
+          "c",
+          1
+        ],
+        [
+          "Rishi Patel",
+          "c",
+          1
+        ],
+        [
+          "Siddharth Zala",
+          "k",
+          1
+        ],
+        [
+          "Nisarg Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2768",
+      "date": "2025-08-02",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Prior CC",
+      "ground": "Prior Cricket Ground",
+      "result": "East Coast CC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 92,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 93,
+          "wkts": 7,
+          "overs": "17.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Tirth Patel",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Siddharth Zala",
+          "r": 11,
+          "b": 8,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "r": 42,
+          "b": 43,
+          "f": 2,
+          "s": 2,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Samuel Persaud",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Hrishi Patel",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Nisarg Patel",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Arya Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Hardik Patel",
+          "r": 11,
+          "b": 13,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "lbw"
+        },
+        {
+          "name": "Prem Patel",
+          "r": 7,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Tirth Patel",
+          "balls": 24,
+          "r": 11,
+          "w": 1,
+          "dots": 17,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vasu Patel",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Hardik Patel",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Hrishi Patel",
+          "balls": 18,
+          "r": 13,
+          "w": 1,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arya Patel",
+          "c",
+          1
+        ],
+        [
+          "Tirth Patel",
+          "r",
+          1
+        ],
+        [
+          "Prem Patel",
+          "c",
+          1
+        ],
+        [
+          "Tirth Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2756",
+      "date": "2025-07-26",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Lehigh Valley CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "East Coast CC",
+          "runs": 155,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 156,
+          "wkts": 5,
+          "overs": "18.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Tirth Patel",
+          "r": 40,
+          "b": 21,
+          "f": 6,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Siddharth Zala",
+          "r": 4,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "r": 27,
+          "b": 22,
+          "f": 3,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Samuel Persaud",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Hrishi Patel",
+          "r": 23,
+          "b": 27,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Nisarg Patel",
+          "r": 10,
+          "b": 8,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Mohit Singh",
+          "r": 17,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Prem Patel",
+          "r": 13,
+          "b": 8,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Ayaz Rathod",
+          "r": 5,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Arya Patel",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ayaz Rathod",
+          "balls": 24,
+          "r": 30,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "balls": 18,
+          "r": 31,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Tirth Patel",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 23,
+          "r": 32,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hrishi Patel",
+          "balls": 18,
+          "r": 23,
+          "w": 2,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Vasu Patel",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Jaydevsinh Zala",
+          "c",
+          1
+        ],
+        [
+          "Tirth Patel",
+          "c",
+          2
+        ],
+        [
+          "Hrishi Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2733",
+      "date": "2025-07-12",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 4 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 153,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 149,
+          "wkts": 10,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Siddharth Zala",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Tirth Patel",
+          "r": 19,
+          "b": 10,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Smit Patel",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "r": 43,
+          "b": 30,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Nisarg Patel",
+          "r": 58,
+          "b": 31,
+          "f": 5,
+          "s": 4,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Arya Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Mohit Singh",
+          "r": 4,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Vasu Patel",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "lbw"
+        },
+        {
+          "name": "Niramy Patel",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Chaitanya Patel",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Dhruv Parekh",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jaydevsinh Zala",
+          "balls": 18,
+          "r": 42,
+          "w": 1,
+          "dots": 3,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Patel",
+          "balls": 18,
+          "r": 21,
+          "w": 2,
+          "dots": 11,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Smit Patel",
+          "balls": 18,
+          "r": 24,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vasu Patel",
+          "balls": 18,
+          "r": 27,
+          "w": 0,
+          "dots": 7,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 24,
+          "r": 13,
+          "w": 3,
+          "dots": 18,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Siddharth Zala",
+          "balls": 6,
+          "r": 6,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Tirth Patel",
+          "balls": 18,
+          "r": 20,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Siddharth Zala",
+          "k",
+          2
+        ],
+        [
+          "Chaitanya Patel",
+          "c",
+          1
+        ],
+        [
+          "Dhruv Parekh",
+          "c",
+          1
+        ],
+        [
+          "Nisarg Patel",
+          "c",
+          1
+        ],
+        [
+          "Jaydevsinh Zala",
+          "c",
+          1
+        ],
+        [
+          "Nisarg Patel",
+          "r",
+          1
+        ],
+        [
+          "Siddharth Zala",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2712",
+      "date": "2025-06-21",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "NJ Challengers CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "NJ Challengers CC won by 23 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NJ Challengers CC",
+          "runs": 100,
+          "wkts": 10,
+          "overs": "19.2"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 77,
+          "wkts": 5,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Siddharth Zala",
+          "r": 6,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "st"
+        },
+        {
+          "name": "Nil Patel",
+          "r": 17,
+          "b": 25,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Tirth Patel",
+          "r": 16,
+          "b": 25,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Nisarg Patel",
+          "r": 8,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Prem Patel",
+          "r": 15,
+          "b": 19,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Mohit Singh",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Smit Patel",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Tirth Patel",
+          "balls": 14,
+          "r": 13,
+          "w": 1,
+          "dots": 5,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Smit Patel",
+          "balls": 24,
+          "r": 17,
+          "w": 2,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Dev Gohil",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 3,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Nil Patel",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 24,
+          "r": 21,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vasu Patel",
+          "balls": 24,
+          "r": 14,
+          "w": 3,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arya Patel",
+          "c",
+          2
+        ],
+        [
+          "Smit Patel",
+          "c",
+          2
+        ],
+        [
+          "Tirth Patel",
+          "c",
+          1
+        ],
+        [
+          "Nil Patel",
+          "r",
+          1
+        ],
+        [
+          "Prem Patel",
+          "c",
+          1
+        ],
+        [
+          "Nisarg Patel",
+          "c",
+          1
+        ],
+        [
+          "Siddharth Zala",
+          "r",
+          1
+        ],
+        [
+          "Tirth Patel",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2690",
+      "date": "2025-05-31",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Spartans CC",
+      "ground": "Fairmount Park - 1",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "East Coast CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2685",
+      "date": "2025-05-31",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Vikings CC",
+      "ground": "Fairmount Park - 1",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Vikings CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2671",
+      "date": "2025-05-17",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Swat Lions CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Swat Lions CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "East Coast CC",
+          "runs": 66,
+          "wkts": 10,
+          "overs": "16.2"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 67,
+          "wkts": 4,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Tirth Patel",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Rohan Hope",
+          "r": 8,
+          "b": 30,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Rovin Dushraj",
+          "r": 12,
+          "b": 18,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Nisarg Patel",
+          "r": 9,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruvin Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Arya Patel",
+          "r": 7,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Hardik Patel",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Niramy Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Rishi Patel",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Ayaz Rathod",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Mohit Singh",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rohan Hope",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ayaz Rathod",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Rovin Dushraj",
+          "balls": 18,
+          "r": 17,
+          "w": 1,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Tirth Patel",
+          "balls": 9,
+          "r": 6,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mohit Singh",
+          "k",
+          1
+        ],
+        [
+          "Tirth Patel",
+          "c",
+          1
+        ],
+        [
+          "Rohan Hope",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2669",
+      "date": "2025-05-17",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Chargers CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "East Coast CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chargers CC",
+          "runs": 166,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 167,
+          "wkts": 5,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Siddharth Zala",
+          "r": 8,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Tirth Patel",
+          "r": 19,
+          "b": 20,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Rovin Dushraj",
+          "r": 38,
+          "b": 22,
+          "f": 2,
+          "s": 4,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "r": 66,
+          "b": 38,
+          "f": 1,
+          "s": 6,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Nisarg Patel",
+          "r": 27,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Rohan Hope",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Niramy Patel",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rohan Hope",
+          "balls": 24,
+          "r": 40,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaydevsinh Zala",
+          "balls": 24,
+          "r": 26,
+          "w": 0,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Rovin Dushraj",
+          "balls": 12,
+          "r": 15,
+          "w": 1,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ayaz Rathod",
+          "balls": 18,
+          "r": 19,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Isiah Bruney",
+          "balls": 24,
+          "r": 22,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hardik Patel",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arya Patel",
+          "balls": 12,
+          "r": 31,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rohan Hope",
+          "c",
+          1
+        ],
+        [
+          "Nisarg Patel",
+          "c",
+          1
+        ],
+        [
+          "Tirth Patel",
+          "c",
+          1
+        ],
+        [
+          "Jaydevsinh Zala",
+          "c",
+          1
+        ],
+        [
+          "Rohan Hope",
+          "r",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 0
+}

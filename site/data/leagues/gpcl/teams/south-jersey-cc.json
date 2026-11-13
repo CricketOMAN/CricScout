@@ -1,0 +1,2468 @@
+{
+  "team": "South Jersey CC",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+  "logos": {
+    "PivotalTech's Rockers": "https://media.cricclubs.com/documentsRep/teamLogos/0bacbd61-e786-4be8-b7ff-391c7d4306ee.jpg",
+    "Spartans CC": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+    "Phoenix CC": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+    "Galloway CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Titans CC": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+    "British Officers CC": "https://media.cricclubs.com/documentsRep/teamLogos/0731bc29-a4b1-437a-a615-fba5caac732a.jpg",
+    "Lehigh Valley CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+    "Khyber CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-224.jpg",
+    "Echelon CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-234.jpg",
+    "Stallions CC": "https://media.cricclubs.com/documentsRep/teamLogos/50a8a599-4597-4092-85cf-7fb7aff33cac.jpg",
+    "South Jersey CC": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+    "StarSportsUS Future Stars CC": "https://media.cricclubs.com/documentsRep/teamLogos/3418eaf9-6553-424e-9a47-9e22c435e258.png",
+    "Chester County Cricket Academy Lions CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Glassboro Guns CC": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+    "Villanova CC": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+    "United XI CC": "https://media.cricclubs.com/documentsRep/teamLogos/f3a8c11c-01a1-4861-ad15-0e0cc28b71cd.jpg",
+    "Chargers CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+    "Vikings CC": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+    "Prior CC": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+    "Bensalem CC": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+    "Swat Lions CC": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+    "Stumperz CC": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+    "NJ Challengers CC": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+    "East Coast CC": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg"
+  },
+  "league": {
+    "code": "GPCL",
+    "name": "GPCL - Greater Philadelphia Cricket League"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-46",
+      "name": "2026 GPCL 40",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:32.881Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:32.881Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=46&clubId=48",
+        "players": {
+          "dipen patel": {
+            "name": "Dipen Patel",
+            "matches": 9,
+            "batting": 309,
+            "bowling": 23,
+            "fielding": 8,
+            "other": 25,
+            "mom": 1,
+            "total": 365
+          },
+          "subhash praveen": {
+            "name": "Subhash Praveen",
+            "matches": 8,
+            "batting": 11,
+            "bowling": 241,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 268
+          },
+          "melroy sequeira": {
+            "name": "Melroy Sequeira",
+            "matches": 6,
+            "batting": 107,
+            "bowling": 85,
+            "fielding": 16,
+            "other": 25,
+            "mom": 1,
+            "total": 233
+          },
+          "suroosh ghori": {
+            "name": "Suroosh Ghori",
+            "matches": 5,
+            "batting": 106,
+            "bowling": 78,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 200
+          },
+          "bhavesh planet patel": {
+            "name": "Bhavesh Planet Patel",
+            "matches": 5,
+            "batting": 88,
+            "bowling": 102,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 190
+          },
+          "varun patel": {
+            "name": "Varun Patel",
+            "matches": 5,
+            "batting": 155,
+            "bowling": 0,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 167
+          },
+          "param patel": {
+            "name": "Param Patel",
+            "matches": 4,
+            "batting": 24,
+            "bowling": 122,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 162
+          },
+          "sandeep goyal": {
+            "name": "Sandeep Goyal",
+            "matches": 7,
+            "batting": 43,
+            "bowling": 75,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 158
+          },
+          "abhyudaya eshwar": {
+            "name": "Abhyudaya Eshwar",
+            "matches": 4,
+            "batting": 88,
+            "bowling": 48,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 136
+          },
+          "shibu mathai": {
+            "name": "Shibu Mathai",
+            "matches": 3,
+            "batting": 57,
+            "bowling": 64,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 129
+          },
+          "khirbaq hassan": {
+            "name": "Khirbaq Hassan",
+            "matches": 3,
+            "batting": 85,
+            "bowling": 19,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 112
+          },
+          "bhumesh patel": {
+            "name": "Bhumesh Patel",
+            "matches": 6,
+            "batting": 102,
+            "bowling": 4,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 112
+          },
+          "arslan shaukat": {
+            "name": "Arslan Shaukat",
+            "matches": 5,
+            "batting": 82,
+            "bowling": 0,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 106
+          },
+          "nirav parikh": {
+            "name": "Nirav Parikh",
+            "matches": 6,
+            "batting": 25,
+            "bowling": 50,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 83
+          },
+          "vraj patel": {
+            "name": "Vraj Patel",
+            "matches": 1,
+            "batting": 29,
+            "bowling": 33,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 78
+          },
+          "mihir darji": {
+            "name": "Mihir Darji",
+            "matches": 5,
+            "batting": 38,
+            "bowling": 39,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 77
+          },
+          "tyler sammy": {
+            "name": "Tyler Sammy",
+            "matches": 6,
+            "batting": 61,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 69
+          },
+          "devansh veer": {
+            "name": "Devansh Veer",
+            "matches": 3,
+            "batting": 13,
+            "bowling": 23,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 36
+          },
+          "bilal hasan": {
+            "name": "Bilal Hasan",
+            "matches": 3,
+            "batting": 15,
+            "bowling": 10,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 33
+          },
+          "rishi lad": {
+            "name": "Rishi Lad",
+            "matches": 3,
+            "batting": 24,
+            "bowling": -2,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 28
+          },
+          "sunil p8atel": {
+            "name": "Sunil p8atel",
+            "matches": 1,
+            "batting": 17,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 25
+          },
+          "saugat ghimire": {
+            "name": "Saugat Ghimire",
+            "matches": 2,
+            "batting": 9,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 17
+          },
+          "amit verma": {
+            "name": "Amit Verma",
+            "matches": 1,
+            "batting": 5,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 13
+          },
+          "laxman veer": {
+            "name": "Laxman Veer",
+            "matches": 3,
+            "batting": 5,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 5
+          },
+          "debashish chaudhari": {
+            "name": "Debashish Chaudhari",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "pragya sikka": {
+            "name": "Pragya Sikka",
+            "matches": 1,
+            "batting": -1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -1
+          },
+          "sunil patel": {
+            "name": "Sunil Patel",
+            "matches": 1,
+            "batting": -1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -1
+          },
+          "amit mishra": {
+            "name": "Amit Mishra",
+            "matches": 1,
+            "batting": -3,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -3
+          },
+          "rajash pallai": {
+            "name": "Rajash Pallai",
+            "matches": 1,
+            "batting": -3,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -3
+          },
+          "pankaj patel": {
+            "name": "Pankaj Patel",
+            "matches": 1,
+            "batting": -3,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -3
+          }
+        }
+      }
+    },
+    "last": {
+      "id": "legacy-45",
+      "name": "2026 GPCL T20",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:40.269Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=45&clubId=48",
+        "players": {}
+      }
+    },
+    "prev2": {
+      "id": "legacy-43",
+      "name": "2025 GPCL T20",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:47.652Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=43&clubId=48",
+        "players": {}
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-2964",
+      "date": "2026-08-09",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Echelon CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Echelon CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 117,
+          "wkts": 10,
+          "overs": "32.5"
+        },
+        {
+          "team": "Echelon CC",
+          "runs": 118,
+          "wkts": 2,
+          "overs": "9.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mihir Darji",
+          "r": 25,
+          "b": 48,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Nirav Parikh",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Devansh Veer",
+          "r": 5,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Bhumesh Patel",
+          "r": 19,
+          "b": 38,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Tyler Sammy",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Patel",
+          "r": 28,
+          "b": 49,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Melroy Sequeira",
+          "r": 8,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Arslan Shaukat",
+          "r": 15,
+          "b": 10,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Laxman Veer",
+          "r": 2,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Sandeep Goyal",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sandeep Goyal",
+          "balls": 6,
+          "r": 15,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Melroy Sequeira",
+          "balls": 18,
+          "r": 29,
+          "w": 0,
+          "dots": 7,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Mihir Darji",
+          "balls": 18,
+          "r": 42,
+          "w": 1,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Nirav Parikh",
+          "balls": 6,
+          "r": 16,
+          "w": 1,
+          "dots": 1,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Bhumesh Patel",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 1,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Devansh Veer",
+          "balls": 1,
+          "r": 4,
+          "w": 0,
+          "dots": 0,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Melroy Sequeira",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2952",
+      "date": "2026-08-02",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Spartans CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Spartans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 44,
+          "wkts": 10,
+          "overs": "12"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 45,
+          "wkts": 1,
+          "overs": "6.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sunil Patel",
+          "r": 3,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Subhash Praveen",
+          "r": 0,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 5,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Khirbaq Hassan",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Rishi Lad",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Tyler Sammy",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Bilal Hasan",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Mihir Darji",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Melroy Sequeira",
+          "r": 7,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Arslan Shaukat",
+          "r": 13,
+          "b": 7,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Sandeep Goyal",
+          "r": 0,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ctw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sandeep Goyal",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bilal Hasan",
+          "balls": 18,
+          "r": 22,
+          "w": 1,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Khirbaq Hassan",
+          "balls": 13,
+          "r": 14,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arslan Shaukat",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2946",
+      "date": "2026-07-26",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "StarSportsUS Future Stars CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "South Jersey CC won by 88 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 252,
+          "wkts": 8,
+          "overs": "40"
+        },
+        {
+          "team": "StarSportsUS Future Stars CC",
+          "runs": 164,
+          "wkts": 10,
+          "overs": "34.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mihir Darji",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Rishi Lad",
+          "r": 30,
+          "b": 71,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "st"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 57,
+          "b": 48,
+          "f": 4,
+          "s": 4,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Bhumesh Patel",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Tyler Sammy",
+          "r": 20,
+          "b": 21,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Patel",
+          "r": 25,
+          "b": 40,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Melroy Sequeira",
+          "r": 63,
+          "b": 39,
+          "f": 1,
+          "s": 6,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Devansh Veer",
+          "r": 9,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Sandeep Goyal",
+          "r": 10,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Subhash Praveen",
+          "balls": 24,
+          "r": 23,
+          "w": 2,
+          "dots": 16,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Melroy Sequeira",
+          "balls": 48,
+          "r": 32,
+          "w": 2,
+          "dots": 37,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Bhumesh Patel",
+          "balls": 42,
+          "r": 29,
+          "w": 0,
+          "dots": 27,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nirav Parikh",
+          "balls": 34,
+          "r": 24,
+          "w": 1,
+          "dots": 15,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Devansh Veer",
+          "balls": 24,
+          "r": 25,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sandeep Goyal",
+          "balls": 18,
+          "r": 9,
+          "w": 2,
+          "dots": 13,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Dipen Patel",
+          "balls": 18,
+          "r": 20,
+          "w": 1,
+          "dots": 9,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sandeep Goyal",
+          "c",
+          2
+        ],
+        [
+          "Melroy Sequeira",
+          "c",
+          1
+        ],
+        [
+          "Rishi Lad",
+          "r",
+          1
+        ],
+        [
+          "Bhumesh Patel",
+          "r",
+          1
+        ],
+        [
+          "Subhash Praveen",
+          "c",
+          1
+        ],
+        [
+          "Nirav Parikh",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2935",
+      "date": "2026-07-19",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Forfeited. Winner: Phoenix CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Phoenix CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "South Jersey CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2926",
+      "date": "2026-07-12",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Chester County Cricket Academy Lions CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "South Jersey CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chester County Cricket Academy Lions CC",
+          "runs": 150,
+          "wkts": 1,
+          "overs": "25"
+        },
+        {
+          "team": "South Jersey CC",
+          "runs": 154,
+          "wkts": 6,
+          "overs": "19.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dipen Patel",
+          "r": 71,
+          "b": 29,
+          "f": 3,
+          "s": 7,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Abhyudaya Eshwar",
+          "r": 35,
+          "b": 55,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Arslan Shaukat",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Tyler Sammy",
+          "r": 21,
+          "b": 18,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Rishi Lad",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Bhumesh Patel",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Nirav Parikh",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Patel",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Subhash Praveen",
+          "balls": 30,
+          "r": 26,
+          "w": 0,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Mihir Darji",
+          "balls": 30,
+          "r": 49,
+          "w": 1,
+          "dots": 8,
+          "wd": 11,
+          "nb": 0
+        },
+        {
+          "name": "Bhumesh Patel",
+          "balls": 30,
+          "r": 28,
+          "w": 0,
+          "dots": 17,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Abhyudaya Eshwar",
+          "balls": 30,
+          "r": 13,
+          "w": 0,
+          "dots": 20,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rishi Lad",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 6,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Nirav Parikh",
+          "balls": 18,
+          "r": 18,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Tyler Sammy",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2911",
+      "date": "2026-06-28",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Titans CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Titans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 76,
+          "wkts": 10,
+          "overs": "21.3"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 78,
+          "wkts": 1,
+          "overs": "5.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Suroosh Ghori",
+          "r": 15,
+          "b": 16,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Sunil P8atel",
+          "r": 18,
+          "b": 31,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Melroy Sequeira",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Bhumesh Patel",
+          "r": 13,
+          "b": 16,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Laxman Veer",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Nirav Parikh",
+          "r": 5,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Subhash Praveen",
+          "r": 8,
+          "b": 33,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Tyler Sammy",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "lbw"
+        },
+        {
+          "name": "Devansh Veer",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Debashish Chaudhari",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Subhash Praveen",
+          "balls": 12,
+          "r": 34,
+          "w": 0,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Suroosh Ghori",
+          "balls": 13,
+          "r": 32,
+          "w": 0,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Melroy Sequeira",
+          "balls": 6,
+          "r": 12,
+          "w": 1,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2903",
+      "date": "2026-06-21",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Khyber CC",
+      "ground": "Delaware Cricket Ground",
+      "result": "Khyber CC won by 177 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Khyber CC",
+          "runs": 296,
+          "wkts": 8,
+          "overs": "40"
+        },
+        {
+          "team": "South Jersey CC",
+          "runs": 119,
+          "wkts": 10,
+          "overs": "19.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vraj Patel",
+          "r": 23,
+          "b": 26,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Param Patel",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Khirbaq Hassan",
+          "r": 9,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Bilal Hasan",
+          "r": 5,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Pankaj Patel",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Sandeep Goyal",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "lbw"
+        },
+        {
+          "name": "Bhumesh Patel",
+          "r": 46,
+          "b": 34,
+          "f": 6,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Subhash Praveen",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Nirav Parikh",
+          "r": 21,
+          "b": 23,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Subhash Praveen",
+          "balls": 42,
+          "r": 50,
+          "w": 4,
+          "dots": 20,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Bilal Hasan",
+          "balls": 30,
+          "r": 52,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vraj Patel",
+          "balls": 48,
+          "r": 61,
+          "w": 1,
+          "dots": 24,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "balls": 48,
+          "r": 53,
+          "w": 0,
+          "dots": 25,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Param Patel",
+          "balls": 48,
+          "r": 32,
+          "w": 2,
+          "dots": 35,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Khirbaq Hassan",
+          "balls": 18,
+          "r": 30,
+          "w": 1,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sandeep Goyal",
+          "balls": 6,
+          "r": 18,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vraj Patel",
+          "c",
+          2
+        ],
+        [
+          "Bilal Hasan",
+          "c",
+          1
+        ],
+        [
+          "Khirbaq Hassan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2884",
+      "date": "2026-06-14",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "PivotalTech's Rockers",
+      "ground": "Voorhees Cricket Ground",
+      "result": "PivotalTech's Rockers won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 178,
+          "wkts": 9,
+          "overs": "40"
+        },
+        {
+          "team": "PivotalTech's Rockers",
+          "runs": 180,
+          "wkts": 3,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Suroosh Ghori",
+          "r": 29,
+          "b": 53,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Pragya Sikka",
+          "r": 3,
+          "b": 27,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "r": 10,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Khirbaq Hassan",
+          "r": 53,
+          "b": 53,
+          "f": 5,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Mihir Darji",
+          "r": 11,
+          "b": 21,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Bilal Hasan",
+          "r": 9,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Arslan Shaukat",
+          "r": 7,
+          "b": 7,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sandeep Goyal",
+          "r": 7,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Subhash Praveen",
+          "r": 13,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Nirav Parikh",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Subhash Praveen",
+          "balls": 24,
+          "r": 53,
+          "w": 1,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Suroosh Ghori",
+          "balls": 30,
+          "r": 28,
+          "w": 1,
+          "dots": 17,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Bilal Hasan",
+          "balls": 12,
+          "r": 24,
+          "w": 0,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "balls": 30,
+          "r": 38,
+          "w": 1,
+          "dots": 11,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Khirbaq Hassan",
+          "balls": 15,
+          "r": 13,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sandeep Goyal",
+          "balls": 3,
+          "r": 12,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nirav Parikh",
+          "balls": 2,
+          "r": 11,
+          "w": 0,
+          "dots": 0,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arslan Shaukat",
+          "c",
+          2
+        ],
+        [
+          "Sandeep Goyal",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2870",
+      "date": "2026-06-07",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "British Officers CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "British Officers CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 182,
+          "wkts": 10,
+          "overs": "40"
+        },
+        {
+          "team": "British Officers CC",
+          "runs": 184,
+          "wkts": 6,
+          "overs": "24.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dipen Patel",
+          "r": 35,
+          "b": 37,
+          "f": 4,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Abhyudaya Eshwar",
+          "r": 10,
+          "b": 16,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Suroosh Ghori",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "r": 12,
+          "b": 20,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Amit Mishra",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Param Patel",
+          "r": 10,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Shibu Mathai",
+          "r": 5,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Patel",
+          "r": 56,
+          "b": 68,
+          "f": 8,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Bhumesh Patel",
+          "r": 8,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Amit Verma",
+          "r": 9,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "lbw"
+        },
+        {
+          "name": "Sandeep Goyal",
+          "r": 19,
+          "b": 34,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shibu Mathai",
+          "balls": 36,
+          "r": 45,
+          "w": 2,
+          "dots": 20,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "balls": 28,
+          "r": 33,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Suroosh Ghori",
+          "balls": 30,
+          "r": 35,
+          "w": 1,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Param Patel",
+          "balls": 30,
+          "r": 29,
+          "w": 0,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Abhyudaya Eshwar",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sandeep Goyal",
+          "balls": 12,
+          "r": 22,
+          "w": 1,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sandeep Goyal",
+          "c",
+          1
+        ],
+        [
+          "Param Patel",
+          "c",
+          1
+        ],
+        [
+          "Shibu Mathai",
+          "c",
+          1
+        ],
+        [
+          "Amit Verma",
+          "c",
+          1
+        ],
+        [
+          "Dipen Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2876",
+      "date": "2026-05-31",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Forfeited. Winner: Lehigh Valley CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "40"
+        },
+        {
+          "team": "South Jersey CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "40"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2854",
+      "date": "2026-05-17",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Stallions CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Stallions CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 160,
+          "wkts": 10,
+          "overs": "39"
+        },
+        {
+          "team": "Stallions CC",
+          "runs": 161,
+          "wkts": 5,
+          "overs": "29.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Abhyudaya Eshwar",
+          "r": 9,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Suroosh Ghori",
+          "r": 41,
+          "b": 43,
+          "f": 3,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "r": 5,
+          "b": 34,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Saugat Ghimire",
+          "r": 12,
+          "b": 24,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Param Patel",
+          "r": 12,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Shibu Mathai",
+          "r": 36,
+          "b": 44,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Melroy Sequeira",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Tyler Sammy",
+          "r": 10,
+          "b": 24,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Sandeep Goyal",
+          "r": 8,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Subhash Praveen",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ctw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shibu Mathai",
+          "balls": 30,
+          "r": 25,
+          "w": 0,
+          "dots": 16,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Subhash Praveen",
+          "balls": 36,
+          "r": 36,
+          "w": 2,
+          "dots": 18,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "balls": 36,
+          "r": 19,
+          "w": 0,
+          "dots": 22,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Suroosh Ghori",
+          "balls": 24,
+          "r": 20,
+          "w": 0,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Param Patel",
+          "balls": 25,
+          "r": 31,
+          "w": 1,
+          "dots": 13,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Abhyudaya Eshwar",
+          "balls": 18,
+          "r": 22,
+          "w": 2,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Melroy Sequeira",
+          "balls": 6,
+          "r": 5,
+          "w": 0,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sandeep Goyal",
+          "k",
+          1
+        ],
+        [
+          "Saugat Ghimire",
+          "c",
+          1
+        ],
+        [
+          "Suroosh Ghori",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2847",
+      "date": "2026-05-10",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Galloway CC",
+      "ground": "Galloway Ground",
+      "result": "Galloway CC won by 85 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Galloway CC",
+          "runs": 274,
+          "wkts": 4,
+          "overs": "40"
+        },
+        {
+          "team": "South Jersey CC",
+          "runs": 189,
+          "wkts": 10,
+          "overs": "32"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Suroosh Ghori",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Abhyudaya Eshwar",
+          "r": 27,
+          "b": 44,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 49,
+          "b": 30,
+          "f": 4,
+          "s": 4,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "r": 48,
+          "b": 46,
+          "f": 8,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Shibu Mathai",
+          "r": 8,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Param Patel",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Arslan Shaukat",
+          "r": 10,
+          "b": 6,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Saugat Ghimire",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Laxman Veer",
+          "r": 10,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Varun Patel",
+          "r": 18,
+          "b": 24,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Subhash Praveen",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shibu Mathai",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Subhash Praveen",
+          "balls": 42,
+          "r": 58,
+          "w": 1,
+          "dots": 17,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Saugat Ghimire",
+          "balls": 6,
+          "r": 17,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Bhavesh Planet Patel",
+          "balls": 48,
+          "r": 43,
+          "w": 1,
+          "dots": 29,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Param Patel",
+          "balls": 48,
+          "r": 52,
+          "w": 1,
+          "dots": 23,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Suroosh Ghori",
+          "balls": 36,
+          "r": 39,
+          "w": 1,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Abhyudaya Eshwar",
+          "balls": 36,
+          "r": 40,
+          "w": 0,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Param Patel",
+          "c",
+          1
+        ],
+        [
+          "Suroosh Ghori",
+          "c",
+          1
+        ],
+        [
+          "Subhash Praveen",
+          "c",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 1
+}

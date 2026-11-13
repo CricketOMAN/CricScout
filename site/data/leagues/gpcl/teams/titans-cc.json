@@ -1,0 +1,8564 @@
+{
+  "team": "Titans CC",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+  "logos": {
+    "PivotalTech's Rockers": "https://media.cricclubs.com/documentsRep/teamLogos/0bacbd61-e786-4be8-b7ff-391c7d4306ee.jpg",
+    "Spartans CC": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+    "Phoenix CC": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+    "Galloway CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Titans CC": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+    "British Officers CC": "https://media.cricclubs.com/documentsRep/teamLogos/0731bc29-a4b1-437a-a615-fba5caac732a.jpg",
+    "Lehigh Valley CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+    "Khyber CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-224.jpg",
+    "Echelon CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-234.jpg",
+    "Stallions CC": "https://media.cricclubs.com/documentsRep/teamLogos/50a8a599-4597-4092-85cf-7fb7aff33cac.jpg",
+    "South Jersey CC": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+    "StarSportsUS Future Stars CC": "https://media.cricclubs.com/documentsRep/teamLogos/3418eaf9-6553-424e-9a47-9e22c435e258.png",
+    "Chester County Cricket Academy Lions CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Glassboro Guns CC": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+    "Villanova CC": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+    "United XI CC": "https://media.cricclubs.com/documentsRep/teamLogos/f3a8c11c-01a1-4861-ad15-0e0cc28b71cd.jpg",
+    "Chargers CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+    "Vikings CC": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+    "Prior CC": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+    "Bensalem CC": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+    "Swat Lions CC": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+    "Stumperz CC": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+    "NJ Challengers CC": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+    "East Coast CC": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg"
+  },
+  "league": {
+    "code": "GPCL",
+    "name": "GPCL - Greater Philadelphia Cricket League"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-46",
+      "name": "2026 GPCL 40",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:32.881Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:32.881Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=46&clubId=48",
+        "players": {
+          "harikishore malireddy": {
+            "name": "Harikishore Malireddy",
+            "matches": 13,
+            "batting": 225,
+            "bowling": 802,
+            "fielding": 24,
+            "other": 50,
+            "mom": 2,
+            "total": 1101
+          },
+          "varun raj gandavarapu": {
+            "name": "Varun Raj Gandavarapu",
+            "matches": 12,
+            "batting": 85,
+            "bowling": 579,
+            "fielding": 58,
+            "other": 0,
+            "mom": 0,
+            "total": 722
+          },
+          "kashyap palivela": {
+            "name": "Kashyap Palivela",
+            "matches": 12,
+            "batting": 391,
+            "bowling": 209,
+            "fielding": 88,
+            "other": 25,
+            "mom": 1,
+            "total": 713
+          },
+          "shanmuga lakshmanan": {
+            "name": "Shanmuga Lakshmanan",
+            "matches": 12,
+            "batting": 228,
+            "bowling": 360,
+            "fielding": 60,
+            "other": 25,
+            "mom": 1,
+            "total": 673
+          },
+          "vijay i": {
+            "name": "Vijay I",
+            "matches": 9,
+            "batting": 410,
+            "bowling": 97,
+            "fielding": 14,
+            "other": 50,
+            "mom": 2,
+            "total": 571
+          },
+          "suresh singamsetti": {
+            "name": "Suresh Singamsetti",
+            "matches": 7,
+            "batting": 16,
+            "bowling": 305,
+            "fielding": 28,
+            "other": 25,
+            "mom": 1,
+            "total": 374
+          },
+          "krishna chaitanya nutukurthi": {
+            "name": "Krishna Chaitanya Nutukurthi",
+            "matches": 5,
+            "batting": 41,
+            "bowling": 284,
+            "fielding": 14,
+            "other": 0,
+            "mom": 0,
+            "total": 339
+          },
+          "hariprasath g": {
+            "name": "Hariprasath G",
+            "matches": 9,
+            "batting": 106,
+            "bowling": 173,
+            "fielding": 30,
+            "other": 0,
+            "mom": 0,
+            "total": 309
+          },
+          "sai aditya immaneni": {
+            "name": "Sai Aditya Immaneni",
+            "matches": 12,
+            "batting": 220,
+            "bowling": 0,
+            "fielding": 60,
+            "other": 25,
+            "mom": 1,
+            "total": 305
+          },
+          "vrushab d": {
+            "name": "Vrushab D",
+            "matches": 9,
+            "batting": 143,
+            "bowling": -4,
+            "fielding": 104,
+            "other": 0,
+            "mom": 0,
+            "total": 243
+          },
+          "madhusudhana baragur": {
+            "name": "Madhusudhana Baragur",
+            "matches": 10,
+            "batting": 167,
+            "bowling": 0,
+            "fielding": 76,
+            "other": 0,
+            "mom": 0,
+            "total": 243
+          },
+          "venu kumar": {
+            "name": "Venu Kumar",
+            "matches": 9,
+            "batting": 187,
+            "bowling": 0,
+            "fielding": 32,
+            "other": 0,
+            "mom": 0,
+            "total": 219
+          },
+          "satya golakoti": {
+            "name": "Satya Golakoti",
+            "matches": 7,
+            "batting": 25,
+            "bowling": 154,
+            "fielding": 32,
+            "other": 0,
+            "mom": 0,
+            "total": 211
+          },
+          "anmol arora": {
+            "name": "Anmol Arora",
+            "matches": 7,
+            "batting": 127,
+            "bowling": 2,
+            "fielding": 36,
+            "other": 0,
+            "mom": 0,
+            "total": 165
+          },
+          "aditya ramadas": {
+            "name": "Aditya Ramadas",
+            "matches": 4,
+            "batting": 3,
+            "bowling": 146,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 157
+          },
+          "bhavani sankar raju machiraju": {
+            "name": "Bhavani Sankar Raju Machiraju",
+            "matches": 4,
+            "batting": 68,
+            "bowling": 75,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 151
+          },
+          "abhinav konda": {
+            "name": "Abhinav Konda",
+            "matches": 3,
+            "batting": 0,
+            "bowling": 81,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 97
+          },
+          "aashish katipally": {
+            "name": "Aashish Katipally",
+            "matches": 2,
+            "batting": 33,
+            "bowling": 41,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 82
+          },
+          "krishna chotneeru": {
+            "name": "Krishna Chotneeru",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 39,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 47
+          },
+          "arun chandrashekar": {
+            "name": "Arun Chandrashekar",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 29,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 37
+          },
+          "lalatendu das": {
+            "name": "Lalatendu Das",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 23,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 23
+          },
+          "shyam raj kinnera": {
+            "name": "Shyam Raj Kinnera",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 19,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 20
+          },
+          "manideep paturi": {
+            "name": "Manideep Paturi",
+            "matches": 1,
+            "batting": 15,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 15
+          },
+          "pradeep kumar pattem": {
+            "name": "Pradeep Kumar Pattem",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 4,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 12
+          },
+          "sai sravan athota": {
+            "name": "Sai Sravan Athota",
+            "matches": 1,
+            "batting": 3,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 3
+          },
+          "ranjeeth kumar palacharla": {
+            "name": "Ranjeeth kumar Palacharla",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "prasanna chandramouleeswaran": {
+            "name": "Prasanna Chandramouleeswaran",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          }
+        }
+      }
+    },
+    "last": {
+      "id": "legacy-45",
+      "name": "2026 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:40.269Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:40.269Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=45&clubId=48",
+        "players": {
+          "sai aditya immaneni": {
+            "name": "Sai Aditya Immaneni",
+            "matches": 11,
+            "batting": 564,
+            "bowling": 26,
+            "fielding": 72,
+            "other": 25,
+            "mom": 1,
+            "total": 687
+          },
+          "harikishore malireddy": {
+            "name": "Harikishore Malireddy",
+            "matches": 8,
+            "batting": 217,
+            "bowling": 317,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 554
+          },
+          "bhavani sankar raju machiraju": {
+            "name": "Bhavani Sankar Raju Machiraju",
+            "matches": 5,
+            "batting": 196,
+            "bowling": 153,
+            "fielding": 14,
+            "other": 25,
+            "mom": 1,
+            "total": 388
+          },
+          "venu kumar": {
+            "name": "Venu Kumar",
+            "matches": 7,
+            "batting": 262,
+            "bowling": 0,
+            "fielding": 32,
+            "other": 0,
+            "mom": 0,
+            "total": 294
+          },
+          "anmol arora": {
+            "name": "Anmol Arora",
+            "matches": 5,
+            "batting": 162,
+            "bowling": 67,
+            "fielding": 16,
+            "other": 25,
+            "mom": 1,
+            "total": 270
+          },
+          "madhusudhana baragur": {
+            "name": "Madhusudhana Baragur",
+            "matches": 9,
+            "batting": 189,
+            "bowling": 0,
+            "fielding": 70,
+            "other": 0,
+            "mom": 0,
+            "total": 259
+          },
+          "aditya ramadas": {
+            "name": "Aditya Ramadas",
+            "matches": 7,
+            "batting": 1,
+            "bowling": 218,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 227
+          },
+          "vijay i": {
+            "name": "Vijay I",
+            "matches": 5,
+            "batting": 200,
+            "bowling": -1,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 215
+          },
+          "hariprasath g": {
+            "name": "Hariprasath G",
+            "matches": 6,
+            "batting": 89,
+            "bowling": 93,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 206
+          },
+          "shanmuga lakshmanan": {
+            "name": "Shanmuga Lakshmanan",
+            "matches": 9,
+            "batting": 7,
+            "bowling": 182,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 197
+          },
+          "satya golakoti": {
+            "name": "Satya Golakoti",
+            "matches": 7,
+            "batting": 65,
+            "bowling": 93,
+            "fielding": 36,
+            "other": 0,
+            "mom": 0,
+            "total": 194
+          },
+          "varun raj gandavarapu": {
+            "name": "Varun Raj Gandavarapu",
+            "matches": 3,
+            "batting": 54,
+            "bowling": 113,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 175
+          },
+          "pradeep kumar pattem": {
+            "name": "Pradeep Kumar Pattem",
+            "matches": 6,
+            "batting": 13,
+            "bowling": 145,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 174
+          },
+          "aashish katipally": {
+            "name": "Aashish Katipally",
+            "matches": 1,
+            "batting": 23,
+            "bowling": 113,
+            "fielding": 0,
+            "other": 25,
+            "mom": 1,
+            "total": 161
+          },
+          "krishna chaitanya nutukurthi": {
+            "name": "Krishna Chaitanya Nutukurthi",
+            "matches": 5,
+            "batting": 8,
+            "bowling": 146,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 154
+          },
+          "akshit shetty": {
+            "name": "Akshit Shetty",
+            "matches": 3,
+            "batting": 131,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 131
+          },
+          "suresh singamsetti": {
+            "name": "Suresh Singamsetti",
+            "matches": 5,
+            "batting": 28,
+            "bowling": 71,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 119
+          },
+          "kashyap palivela": {
+            "name": "Kashyap Palivela",
+            "matches": 6,
+            "batting": 76,
+            "bowling": 0,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 100
+          },
+          "abhinav konda": {
+            "name": "Abhinav Konda",
+            "matches": 5,
+            "batting": 9,
+            "bowling": 67,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 76
+          },
+          "vrushab d": {
+            "name": "Vrushab D",
+            "matches": 3,
+            "batting": 35,
+            "bowling": 0,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 51
+          },
+          "akshit peddaboodhi": {
+            "name": "Akshit Peddaboodhi",
+            "matches": 3,
+            "batting": 9,
+            "bowling": 20,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 45
+          },
+          "ranjeeth kumar palacharla": {
+            "name": "Ranjeeth kumar Palacharla",
+            "matches": 4,
+            "batting": 0,
+            "bowling": 40,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 40
+          },
+          "showri konda": {
+            "name": "Showri Konda",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 19,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 27
+          },
+          "krishna chotneeru": {
+            "name": "Krishna Chotneeru",
+            "matches": 2,
+            "batting": 1,
+            "bowling": 20,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 21
+          },
+          "santosh reddy anuga": {
+            "name": "Santosh Reddy Anuga",
+            "matches": 1,
+            "batting": 15,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 15
+          },
+          "arun chandrashekar": {
+            "name": "Arun Chandrashekar",
+            "matches": 1,
+            "batting": 2,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 10
+          },
+          "murali chigurupathi": {
+            "name": "Murali Chigurupathi",
+            "matches": 1,
+            "batting": 0,
+            "bowling": -1,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 7
+          },
+          "sourav das": {
+            "name": "Sourav Das",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 1
+          },
+          "vineet tyagi": {
+            "name": "Vineet Tyagi",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "lalatendu das": {
+            "name": "Lalatendu Das",
+            "matches": 2,
+            "batting": 0,
+            "bowling": -5,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -5
+          }
+        }
+      }
+    },
+    "prev2": {
+      "id": "legacy-43",
+      "name": "2025 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:47.652Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:47.652Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=43&clubId=48",
+        "players": {
+          "harikishore malireddy": {
+            "name": "Harikishore Malireddy",
+            "matches": 8,
+            "batting": 130,
+            "bowling": 433,
+            "fielding": 16,
+            "other": 50,
+            "mom": 2,
+            "total": 629
+          },
+          "shanmuga lakshmanan": {
+            "name": "Shanmuga Lakshmanan",
+            "matches": 9,
+            "batting": 111,
+            "bowling": 326,
+            "fielding": 32,
+            "other": 25,
+            "mom": 1,
+            "total": 494
+          },
+          "naren velaga": {
+            "name": "Naren Velaga",
+            "matches": 12,
+            "batting": 399,
+            "bowling": 0,
+            "fielding": 56,
+            "other": 25,
+            "mom": 1,
+            "total": 480
+          },
+          "sai aditya immaneni": {
+            "name": "Sai Aditya Immaneni",
+            "matches": 10,
+            "batting": 380,
+            "bowling": 22,
+            "fielding": 56,
+            "other": 0,
+            "mom": 0,
+            "total": 458
+          },
+          "aditya ramadas": {
+            "name": "Aditya Ramadas",
+            "matches": 11,
+            "batting": -3,
+            "bowling": 275,
+            "fielding": 24,
+            "other": 25,
+            "mom": 1,
+            "total": 321
+          },
+          "krishna chaitanya nutukurthi": {
+            "name": "Krishna Chaitanya Nutukurthi",
+            "matches": 6,
+            "batting": 21,
+            "bowling": 226,
+            "fielding": 40,
+            "other": 25,
+            "mom": 1,
+            "total": 312
+          },
+          "hariprasath g": {
+            "name": "Hariprasath G",
+            "matches": 7,
+            "batting": 190,
+            "bowling": 21,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 219
+          },
+          "ashok athukuri": {
+            "name": "Ashok Athukuri",
+            "matches": 5,
+            "batting": 37,
+            "bowling": 154,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 207
+          },
+          "vijay i": {
+            "name": "Vijay I",
+            "matches": 4,
+            "batting": 116,
+            "bowling": 69,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 193
+          },
+          "pradeep kumar pattem": {
+            "name": "Pradeep Kumar Pattem",
+            "matches": 4,
+            "batting": 31,
+            "bowling": 152,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 191
+          },
+          "vrushab d": {
+            "name": "Vrushab D",
+            "matches": 5,
+            "batting": 111,
+            "bowling": 19,
+            "fielding": 32,
+            "other": 0,
+            "mom": 0,
+            "total": 162
+          },
+          "sourav das": {
+            "name": "Sourav Das",
+            "matches": 8,
+            "batting": 116,
+            "bowling": 0,
+            "fielding": 32,
+            "other": 0,
+            "mom": 0,
+            "total": 148
+          },
+          "madhusudhana baragur": {
+            "name": "Madhusudhana Baragur",
+            "matches": 8,
+            "batting": 76,
+            "bowling": 5,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 121
+          },
+          "venu kumar": {
+            "name": "Venu Kumar",
+            "matches": 7,
+            "batting": 86,
+            "bowling": 0,
+            "fielding": 32,
+            "other": 0,
+            "mom": 0,
+            "total": 118
+          },
+          "puneet satija": {
+            "name": "Puneet Satija",
+            "matches": 2,
+            "batting": 1,
+            "bowling": 95,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 112
+          },
+          "akshit shetty": {
+            "name": "Akshit Shetty",
+            "matches": 2,
+            "batting": 39,
+            "bowling": 44,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 99
+          },
+          "chandrakanth dudela": {
+            "name": "Chandrakanth Dudela",
+            "matches": 2,
+            "batting": 5,
+            "bowling": 93,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 98
+          },
+          "kashyap palivela": {
+            "name": "Kashyap Palivela",
+            "matches": 2,
+            "batting": 73,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 81
+          },
+          "aashish katipally": {
+            "name": "Aashish Katipally",
+            "matches": 2,
+            "batting": 10,
+            "bowling": 60,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 78
+          },
+          "suresh singamsetti": {
+            "name": "Suresh Singamsetti",
+            "matches": 3,
+            "batting": 48,
+            "bowling": 22,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 78
+          },
+          "narendra unnava": {
+            "name": "Narendra Unnava",
+            "matches": 7,
+            "batting": 0,
+            "bowling": 42,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 58
+          },
+          "amey wadhavkar": {
+            "name": "Amey Wadhavkar",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 20,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 20
+          },
+          "vineet tyagi": {
+            "name": "Vineet Tyagi",
+            "matches": 3,
+            "batting": -4,
+            "bowling": -1,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 7
+          },
+          "vamsi krishna cherukuri": {
+            "name": "Vamsi krishna Cherukuri",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 6
+          },
+          "akshit peddaboodhi": {
+            "name": "Akshit Peddaboodhi",
+            "matches": 3,
+            "batting": 5,
+            "bowling": -1,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 4
+          },
+          "emile ramsingh": {
+            "name": "Emile Ramsingh",
+            "matches": 2,
+            "batting": 2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 2
+          },
+          "ravi kolla": {
+            "name": "Ravi Kolla",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -2
+          },
+          "vikram chatur": {
+            "name": "Vikram Chatur",
+            "matches": 3,
+            "batting": -4,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -4
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-2996",
+      "date": "2026-09-19",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Villanova CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 133,
+          "wkts": 10,
+          "overs": "18.5"
+        },
+        {
+          "team": "Villanova CC",
+          "runs": 136,
+          "wkts": 2,
+          "overs": "17.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 13,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vijay I",
+          "r": 10,
+          "b": 5,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "r": 19,
+          "b": 13,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 20,
+          "b": 23,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 30,
+          "b": 30,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 18,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 7,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 18,
+          "r": 21,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 22,
+          "r": 24,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 24,
+          "r": 30,
+          "w": 1,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 18,
+          "r": 28,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Suresh Singamsetti",
+          "c",
+          1
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2990",
+      "date": "2026-08-30",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "PivotalTech's Rockers",
+      "ground": "Rockers Cricket Ground",
+      "result": "PivotalTech's Rockers won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 91,
+          "wkts": 10,
+          "overs": "24.3"
+        },
+        {
+          "team": "PivotalTech's Rockers",
+          "runs": 92,
+          "wkts": 3,
+          "overs": "22"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vrushab D",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Kashyap Palivela",
+          "r": 27,
+          "b": 43,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 12,
+          "b": 33,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 5,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Vijay I",
+          "r": 30,
+          "b": 23,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 8,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "lbw"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "lbw"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "lbw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 30,
+          "r": 20,
+          "w": 2,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 30,
+          "r": 15,
+          "w": 0,
+          "dots": 22,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 30,
+          "r": 21,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 18,
+          "r": 12,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Harikishore Malireddy",
+          "c",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2988",
+      "date": "2026-08-29",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Titans CC won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 171,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 172,
+          "wkts": 9,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vijay I",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Kashyap Palivela",
+          "r": 6,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 15,
+          "b": 23,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 53,
+          "b": 24,
+          "f": 0,
+          "s": 6,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "r": 56,
+          "b": 27,
+          "f": 0,
+          "s": 7,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 19,
+          "b": 10,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 8,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 12,
+          "r": 25,
+          "w": 1,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 23,
+          "w": 2,
+          "dots": 13,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 12,
+          "r": 21,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 24,
+          "r": 33,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 24,
+          "r": 29,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 40,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 2
+        }
+      ],
+      "fielding": [
+        [
+          "Madhusudhana Baragur",
+          "k",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ],
+        [
+          "Bhavani Sankar Raju Machiraju",
+          "c",
+          1
+        ],
+        [
+          "Madhusudhana Baragur",
+          "r",
+          1
+        ],
+        [
+          "Bhavani Sankar Raju Machiraju",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2982",
+      "date": "2026-08-22",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Spartans CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 1 Run",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 140,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 139,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vijay I",
+          "r": 26,
+          "b": 9,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 27,
+          "b": 41,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 19,
+          "b": 21,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "r": 16,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 27,
+          "b": 14,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 7,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "r": 5,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Krishna Chotneeru",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 24,
+          "r": 30,
+          "w": 1,
+          "dots": 7,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 24,
+          "r": 32,
+          "w": 3,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 12,
+          "r": 24,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          2
+        ],
+        [
+          "Vijay I",
+          "c",
+          1
+        ],
+        [
+          "Harikishore Malireddy",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2975",
+      "date": "2026-08-16",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Galloway CC",
+      "ground": "Galloway Ground",
+      "result": "Titans CC won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Galloway CC",
+          "runs": 118,
+          "wkts": 10,
+          "overs": "30"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 119,
+          "wkts": 9,
+          "overs": "20.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 16,
+          "b": 14,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 27,
+          "b": 27,
+          "f": 4,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 4,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 20,
+          "b": 29,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Vijay I",
+          "r": 18,
+          "b": 15,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 5,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 2,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 30,
+          "r": 25,
+          "w": 1,
+          "dots": 23,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 36,
+          "r": 22,
+          "w": 3,
+          "dots": 27,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 42,
+          "r": 19,
+          "w": 2,
+          "dots": 31,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 18,
+          "r": 15,
+          "w": 0,
+          "dots": 12,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 48,
+          "r": 26,
+          "w": 4,
+          "dots": 33,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 6,
+          "r": 11,
+          "w": 0,
+          "dots": 2,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          2
+        ],
+        [
+          "Satya Golakoti",
+          "c",
+          1
+        ],
+        [
+          "Varun Raj Gandavarapu",
+          "c",
+          1
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2973",
+      "date": "2026-08-15",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Chargers CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Titans CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chargers CC",
+          "runs": 197,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 198,
+          "wkts": 4,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vijay I",
+          "r": 29,
+          "b": 12,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 54,
+          "b": 46,
+          "f": 5,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 77,
+          "b": 36,
+          "f": 2,
+          "s": 8,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 22,
+          "b": 12,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 18,
+          "r": 24,
+          "w": 2,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 12,
+          "r": 20,
+          "w": 1,
+          "dots": 5,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 18,
+          "r": 30,
+          "w": 0,
+          "dots": 5,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Lalatendu Das",
+          "balls": 12,
+          "r": 25,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ranjeeth Kumar Palacharla",
+          "balls": 18,
+          "r": 33,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 12,
+          "r": 20,
+          "w": 1,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vijay I",
+          "c",
+          1
+        ],
+        [
+          "Harikishore Malireddy",
+          "c",
+          1
+        ],
+        [
+          "Pradeep Kumar Pattem",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2967",
+      "date": "2026-08-09",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Khyber CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Titans CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Khyber CC",
+          "runs": 98,
+          "wkts": 10,
+          "overs": "20.4"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 99,
+          "wkts": 4,
+          "overs": "17.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vrushab D",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Kashyap Palivela",
+          "r": 34,
+          "b": 25,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "rt"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 11,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 28,
+          "b": 38,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 5,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 12,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 36,
+          "r": 20,
+          "w": 1,
+          "dots": 23,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 12,
+          "r": 6,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 28,
+          "r": 27,
+          "w": 5,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Lalatendu Das",
+          "balls": 24,
+          "r": 27,
+          "w": 1,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Hariprasath G",
+          "c",
+          2
+        ],
+        [
+          "Anmol Arora",
+          "c",
+          1
+        ],
+        [
+          "Vrushab D",
+          "k",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2959",
+      "date": "2026-08-08",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Phoenix CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Titans CC won by 32 Runs (D/L)",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 130,
+          "wkts": 7,
+          "overs": "18"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 97,
+          "wkts": 8,
+          "overs": "18"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 21,
+          "b": 24,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 19,
+          "b": 21,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "r": 37,
+          "b": 29,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 24,
+          "b": 19,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Abhinav Konda",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 18,
+          "r": 19,
+          "w": 2,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 18,
+          "r": 11,
+          "w": 0,
+          "dots": 13,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 12,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 18,
+          "r": 13,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 28,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ranjeeth Kumar Palacharla",
+          "balls": 6,
+          "r": 2,
+          "w": 2,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Hariprasath G",
+          "c",
+          1
+        ],
+        [
+          "Suresh Singamsetti",
+          "r",
+          1
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2953",
+      "date": "2026-08-02",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Knights Cricket Ground",
+      "result": "Titans CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 164,
+          "wkts": 10,
+          "overs": "36.1"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 167,
+          "wkts": 4,
+          "overs": "29.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vijay I",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 5,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 55,
+          "b": 57,
+          "f": 5,
+          "s": 3,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 39,
+          "b": 63,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 16,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 35,
+          "b": 22,
+          "f": 4,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 24,
+          "r": 25,
+          "w": 1,
+          "dots": 18,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 48,
+          "r": 29,
+          "w": 2,
+          "dots": 31,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 37,
+          "r": 22,
+          "w": 3,
+          "dots": 26,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 30,
+          "r": 20,
+          "w": 1,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 18,
+          "r": 16,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kashyap Palivela",
+          "balls": 24,
+          "r": 21,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 24,
+          "r": 24,
+          "w": 0,
+          "dots": 13,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 12,
+          "r": 7,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "k",
+          2
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ],
+        [
+          "Krishna Chaitanya Nutukurthi",
+          "k",
+          1
+        ],
+        [
+          "Hariprasath G",
+          "r",
+          1
+        ],
+        [
+          "Krishna Chaitanya Nutukurthi",
+          "r",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2950",
+      "date": "2026-08-01",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Villanova CC won by 42 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 201,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 159,
+          "wkts": 9,
+          "overs": "16.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Anmol Arora",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 4,
+          "b": 2,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Vijay I",
+          "r": 54,
+          "b": 25,
+          "f": 4,
+          "s": 4,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 35,
+          "b": 24,
+          "f": 7,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 22,
+          "b": 17,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 25,
+          "b": 17,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 5,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Aditya Ramadas",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 24,
+          "r": 38,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 24,
+          "r": 47,
+          "w": 4,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 18,
+          "r": 21,
+          "w": 0,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 27,
+          "w": 3,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vijay I",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 12,
+          "r": 24,
+          "w": 0,
+          "dots": 6,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 2,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Varun Raj Gandavarapu",
+          "c",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Anmol Arora",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2945",
+      "date": "2026-07-26",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Chester County Cricket Academy Lions CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Titans CC won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chester County Cricket Academy Lions CC",
+          "runs": 104,
+          "wkts": 10,
+          "overs": "32.1"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 108,
+          "wkts": 0,
+          "overs": "7.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vijay I",
+          "r": 57,
+          "b": 26,
+          "f": 4,
+          "s": 4,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 39,
+          "b": 18,
+          "f": 4,
+          "s": 2,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 18,
+          "r": 5,
+          "w": 3,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aashish Katipally",
+          "balls": 12,
+          "r": 5,
+          "w": 0,
+          "dots": 12,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Konda",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 12,
+          "r": 12,
+          "w": 1,
+          "dots": 10,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Arora",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 42,
+          "r": 21,
+          "w": 1,
+          "dots": 32,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Chotneeru",
+          "balls": 25,
+          "r": 11,
+          "w": 1,
+          "dots": 22,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Kashyap Palivela",
+          "balls": 36,
+          "r": 11,
+          "w": 4,
+          "dots": 28,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aditya Ramadas",
+          "c",
+          1
+        ],
+        [
+          "Pradeep Kumar Pattem",
+          "c",
+          1
+        ],
+        [
+          "Satya Golakoti",
+          "c",
+          1
+        ],
+        [
+          "Varun Raj Gandavarapu",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2931",
+      "date": "2026-07-19",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Stallions CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Titans CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Stallions CC",
+          "runs": 198,
+          "wkts": 7,
+          "overs": "40"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 199,
+          "wkts": 4,
+          "overs": "31"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vrushab D",
+          "r": 21,
+          "b": 21,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Kashyap Palivela",
+          "r": 35,
+          "b": 46,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 55,
+          "b": 73,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Vijay I",
+          "r": 43,
+          "b": 24,
+          "f": 5,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 24,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 30,
+          "r": 27,
+          "w": 0,
+          "dots": 17,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 36,
+          "r": 32,
+          "w": 1,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 30,
+          "r": 35,
+          "w": 1,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 48,
+          "r": 27,
+          "w": 1,
+          "dots": 30,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kashyap Palivela",
+          "balls": 30,
+          "r": 20,
+          "w": 0,
+          "dots": 20,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vijay I",
+          "balls": 30,
+          "r": 16,
+          "w": 1,
+          "dots": 20,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vrushab D",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Abhinav Konda",
+          "balls": 24,
+          "r": 24,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ],
+        [
+          "Abhinav Konda",
+          "c",
+          2
+        ],
+        [
+          "Madhusudhana Baragur",
+          "k",
+          1
+        ],
+        [
+          "Varun Raj Gandavarapu",
+          "c",
+          1
+        ],
+        [
+          "Varun Raj Gandavarapu",
+          "r",
+          1
+        ],
+        [
+          "Vijay I",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2928",
+      "date": "2026-07-18",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 5 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 161,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 156,
+          "wkts": 4,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 49,
+          "b": 27,
+          "f": 0,
+          "s": 6,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "r": 8,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 50,
+          "b": 41,
+          "f": 2,
+          "s": 2,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 28,
+          "b": 19,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 9,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Satya Golakoti",
+          "balls": 24,
+          "r": 41,
+          "w": 1,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 13,
+          "w": 3,
+          "dots": 17,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 24,
+          "r": 44,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 18,
+          "r": 22,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Chotneeru",
+          "balls": 6,
+          "r": 21,
+          "w": 1,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Akshit Peddaboodhi",
+          "c",
+          2
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Satya Golakoti",
+          "c",
+          1
+        ],
+        [
+          "Vrushab D",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2923",
+      "date": "2026-07-12",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "StarSportsUS Future Stars CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Titans CC won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "StarSportsUS Future Stars CC",
+          "runs": 61,
+          "wkts": 10,
+          "overs": "26.2"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 62,
+          "wkts": 0,
+          "overs": "6.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Venu Kumar",
+          "r": 9,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 50,
+          "b": 23,
+          "f": 1,
+          "s": 6,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 4,
+          "w": 1,
+          "dots": 22,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 12,
+          "r": 3,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 38,
+          "r": 11,
+          "w": 3,
+          "dots": 30,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Arun Chandrashekar",
+          "balls": 12,
+          "r": 5,
+          "w": 1,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Kashyap Palivela",
+          "balls": 18,
+          "r": 6,
+          "w": 1,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 30,
+          "r": 16,
+          "w": 2,
+          "dots": 23,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          3
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ],
+        [
+          "Arun Chandrashekar",
+          "c",
+          1
+        ],
+        [
+          "Madhusudhana Baragur",
+          "k",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "r",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2914",
+      "date": "2026-07-11",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Swat Lions CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Forfeited. Winner: Titans CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2911",
+      "date": "2026-06-28",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "South Jersey CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Titans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 76,
+          "wkts": 10,
+          "overs": "21.3"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 78,
+          "wkts": 1,
+          "overs": "5.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 23,
+          "b": 13,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vijay I",
+          "r": 50,
+          "b": 17,
+          "f": 5,
+          "s": 3,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 18,
+          "r": 12,
+          "w": 1,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 24,
+          "r": 23,
+          "w": 1,
+          "dots": 16,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 24,
+          "r": 23,
+          "w": 2,
+          "dots": 16,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 27,
+          "r": 1,
+          "w": 2,
+          "dots": 26,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 9,
+          "w": 2,
+          "dots": 19,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Konda",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Madhusudhana Baragur",
+          "k",
+          1
+        ],
+        [
+          "Harikishore Malireddy",
+          "c",
+          1
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ],
+        [
+          "Anmol Arora",
+          "c",
+          1
+        ],
+        [
+          "Anmol Arora",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2901",
+      "date": "2026-06-21",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Galloway CC",
+      "ground": "Galloway Ground",
+      "result": "Galloway CC won by 18 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Galloway CC",
+          "runs": 205,
+          "wkts": 10,
+          "overs": "33"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 187,
+          "wkts": 10,
+          "overs": "29.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 43,
+          "b": 42,
+          "f": 4,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 3,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Vijay I",
+          "r": 38,
+          "b": 19,
+          "f": 5,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 22,
+          "b": 21,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 10,
+          "b": 19,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 9,
+          "b": 26,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 13,
+          "b": 14,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 25,
+          "b": 20,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Aditya Ramadas",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Shyam Raj Kinnera",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 30,
+          "r": 43,
+          "w": 2,
+          "dots": 17,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 36,
+          "r": 32,
+          "w": 1,
+          "dots": 21,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 12,
+          "r": 25,
+          "w": 0,
+          "dots": 8,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shyam Raj Kinnera",
+          "balls": 12,
+          "r": 21,
+          "w": 1,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 42,
+          "r": 29,
+          "w": 1,
+          "dots": 30,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 48,
+          "r": 31,
+          "w": 4,
+          "dots": 35,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kashyap Palivela",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 2,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Suresh Singamsetti",
+          "r",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2895",
+      "date": "2026-06-20",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "United XI CC",
+      "ground": "Titans Cricket Ground",
+      "result": "United XI CC won by 11 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "United XI CC",
+          "runs": 170,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 159,
+          "wkts": 7,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vrushab D",
+          "r": 24,
+          "b": 16,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Kashyap Palivela",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Akshit Peddaboodhi",
+          "r": 10,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 40,
+          "b": 31,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 20,
+          "b": 15,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 34,
+          "b": 22,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Abhinav Konda",
+          "r": 6,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 24,
+          "r": 35,
+          "w": 1,
+          "dots": 11,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 6,
+          "r": 23,
+          "w": 0,
+          "dots": 0,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 27,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 18,
+          "r": 14,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 18,
+          "r": 25,
+          "w": 2,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Konda",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 18,
+          "r": 27,
+          "w": 1,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Hariprasath G",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ],
+        [
+          "Madhusudhana Baragur",
+          "k",
+          3
+        ],
+        [
+          "Satya Golakoti",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2887",
+      "date": "2026-06-14",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Phoenix CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Phoenix CC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 246,
+          "wkts": 8,
+          "overs": "40"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 248,
+          "wkts": 7,
+          "overs": "39.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vrushab D",
+          "r": 4,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Kashyap Palivela",
+          "r": 66,
+          "b": 89,
+          "f": 5,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Aashish Katipally",
+          "r": 29,
+          "b": 41,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Vijay I",
+          "r": 8,
+          "b": 8,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 58,
+          "b": 60,
+          "f": 7,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 31,
+          "b": 17,
+          "f": 1,
+          "s": 3,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 19,
+          "b": 7,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "hw"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 4,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 36,
+          "w": 0,
+          "dots": 17,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 46,
+          "r": 47,
+          "w": 1,
+          "dots": 26,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 48,
+          "r": 33,
+          "w": 3,
+          "dots": 28,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 42,
+          "r": 42,
+          "w": 0,
+          "dots": 18,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aashish Katipally",
+          "balls": 36,
+          "r": 33,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 42,
+          "r": 54,
+          "w": 1,
+          "dots": 21,
+          "wd": 8,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Varun Raj Gandavarapu",
+          "c",
+          1
+        ],
+        [
+          "Harikishore Malireddy",
+          "c",
+          1
+        ],
+        [
+          "Aashish Katipally",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ],
+        [
+          "Varun Raj Gandavarapu",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2879",
+      "date": "2026-06-13",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Prior CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Titans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 133,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 134,
+          "wkts": 1,
+          "overs": "13.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aashish Katipally",
+          "r": 14,
+          "b": 9,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Akshit Shetty",
+          "r": 33,
+          "b": 32,
+          "f": 3,
+          "s": 2,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 73,
+          "b": 35,
+          "f": 9,
+          "s": 4,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hariprasath G",
+          "balls": 18,
+          "r": 21,
+          "w": 1,
+          "dots": 12,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 24,
+          "r": 37,
+          "w": 0,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 18,
+          "r": 23,
+          "w": 2,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 12,
+          "r": 13,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Konda",
+          "balls": 24,
+          "r": 32,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aashish Katipally",
+          "balls": 24,
+          "r": 7,
+          "w": 4,
+          "dots": 20,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Hariprasath G",
+          "k",
+          1
+        ],
+        [
+          "Pradeep Kumar Pattem",
+          "c",
+          1
+        ],
+        [
+          "Satya Golakoti",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2873",
+      "date": "2026-06-13",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Stumperz CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Forfeited. Winner: Titans CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Stumperz CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2863",
+      "date": "2026-05-31",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Spartans CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Spartans CC won by 55 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 229,
+          "wkts": 10,
+          "overs": "38"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 174,
+          "wkts": 10,
+          "overs": "38.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 12,
+          "b": 35,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vrushab D",
+          "r": 34,
+          "b": 30,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 9,
+          "b": 27,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 7,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 37,
+          "b": 42,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 46,
+          "b": 44,
+          "f": 4,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 3,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ctw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 48,
+          "r": 55,
+          "w": 3,
+          "dots": 24,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 48,
+          "r": 44,
+          "w": 4,
+          "dots": 21,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 48,
+          "r": 39,
+          "w": 2,
+          "dots": 25,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 24,
+          "r": 33,
+          "w": 0,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 42,
+          "r": 33,
+          "w": 1,
+          "dots": 24,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Arora",
+          "balls": 18,
+          "r": 23,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Madhusudhana Baragur",
+          "c",
+          2
+        ],
+        [
+          "Vrushab D",
+          "k",
+          1
+        ],
+        [
+          "Suresh Singamsetti",
+          "c",
+          1
+        ],
+        [
+          "Vrushab D",
+          "c",
+          2
+        ],
+        [
+          "Kashyap Palivela",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2857",
+      "date": "2026-05-17",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Echelon CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Titans CC won by 26 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 196,
+          "wkts": 10,
+          "overs": "39.3"
+        },
+        {
+          "team": "Echelon CC",
+          "runs": 170,
+          "wkts": 10,
+          "overs": "38.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 53,
+          "b": 85,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 9,
+          "b": 6,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Vrushab D",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 4,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 39,
+          "b": 65,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Manideep Paturi",
+          "r": 16,
+          "b": 29,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 12,
+          "b": 7,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Aditya Ramadas",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 48,
+          "r": 31,
+          "w": 1,
+          "dots": 28,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 42,
+          "r": 29,
+          "w": 1,
+          "dots": 24,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 42,
+          "r": 38,
+          "w": 2,
+          "dots": 22,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 48,
+          "r": 25,
+          "w": 3,
+          "dots": 33,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 43,
+          "r": 40,
+          "w": 2,
+          "dots": 23,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 6,
+          "r": 7,
+          "w": 1,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Satya Golakoti",
+          "c",
+          2
+        ],
+        [
+          "Vrushab D",
+          "k",
+          3
+        ],
+        [
+          "Madhusudhana Baragur",
+          "c",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2845",
+      "date": "2026-05-10",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "PivotalTech's Rockers",
+      "ground": "GPCL Ground - Exton",
+      "result": "PivotalTech's Rockers won by 82 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "PivotalTech's Rockers",
+          "runs": 234,
+          "wkts": 10,
+          "overs": "38"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 152,
+          "wkts": 10,
+          "overs": "34.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 8,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 27,
+          "b": 45,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Vrushab D",
+          "r": 31,
+          "b": 39,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "r": 0,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 2,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Sravan Athota",
+          "r": 7,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 44,
+          "b": 40,
+          "f": 2,
+          "s": 3,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "r": 12,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Satya Golakoti",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "lbw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 36,
+          "r": 31,
+          "w": 3,
+          "dots": 19,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 36,
+          "r": 33,
+          "w": 3,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sai Sravan Athota",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 48,
+          "r": 45,
+          "w": 2,
+          "dots": 26,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 42,
+          "r": 46,
+          "w": 2,
+          "dots": 22,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 36,
+          "r": 48,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Anmol Arora",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Anmol Arora",
+          "c",
+          1
+        ],
+        [
+          "Vrushab D",
+          "k",
+          2
+        ],
+        [
+          "Hariprasath G",
+          "c",
+          1
+        ],
+        [
+          "Bhavani Sankar Raju Machiraju",
+          "c",
+          1
+        ],
+        [
+          "Madhusudhana Baragur",
+          "c",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2841",
+      "date": "2026-05-09",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Vikings CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Titans CC won by 93 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 135,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Vikings CC",
+          "runs": 42,
+          "wkts": 10,
+          "overs": "10.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "r": 9,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 22,
+          "b": 26,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Akshit Shetty",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 36,
+          "b": 20,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 29,
+          "b": 33,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Sourav Das",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 8,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Santosh Reddy Anuga",
+          "r": 13,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Akshit Peddaboodhi",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sai Aditya Immaneni",
+          "balls": 12,
+          "r": 6,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 12,
+          "r": 10,
+          "w": 2,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Arora",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 12,
+          "r": 7,
+          "w": 3,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 11,
+          "r": 5,
+          "w": 3,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akshit Peddaboodhi",
+          "balls": 6,
+          "r": 4,
+          "w": 1,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Madhusudhana Baragur",
+          "c",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          2
+        ],
+        [
+          "Aditya Ramadas",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2839",
+      "date": "2026-05-03",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "British Officers CC",
+      "ground": "ECG2",
+      "result": "Titans CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "British Officers CC",
+          "runs": 295,
+          "wkts": 7,
+          "overs": "40"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 297,
+          "wkts": 6,
+          "overs": "39.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 29,
+          "b": 24,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 62,
+          "b": 75,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Vrushab D",
+          "r": 20,
+          "b": 25,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Vijay I",
+          "r": 23,
+          "b": 16,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "r": 51,
+          "b": 43,
+          "f": 5,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 60,
+          "b": 28,
+          "f": 5,
+          "s": 3,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 38,
+          "b": 24,
+          "f": 4,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 36,
+          "r": 44,
+          "w": 2,
+          "dots": 16,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 48,
+          "r": 54,
+          "w": 1,
+          "dots": 22,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 48,
+          "r": 43,
+          "w": 3,
+          "dots": 26,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Bhavani Sankar Raju Machiraju",
+          "balls": 36,
+          "r": 50,
+          "w": 1,
+          "dots": 17,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 42,
+          "r": 62,
+          "w": 0,
+          "dots": 24,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 24,
+          "r": 29,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Varun Raj Gandavarapu",
+          "c",
+          1
+        ],
+        [
+          "Suresh Singamsetti",
+          "c",
+          1
+        ],
+        [
+          "Vijay I",
+          "c",
+          1
+        ],
+        [
+          "Madhusudhana Baragur",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2832",
+      "date": "2026-05-02",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Bensalem CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Titans CC won by 62 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 204,
+          "wkts": 3,
+          "overs": "20"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 142,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 89,
+          "b": 50,
+          "f": 5,
+          "s": 7,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Akshit Shetty",
+          "r": 59,
+          "b": 47,
+          "f": 4,
+          "s": 3,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 18,
+          "b": 9,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 6,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Abhinav Konda",
+          "r": 5,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 6,
+          "w": 1,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 24,
+          "r": 29,
+          "w": 1,
+          "dots": 11,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Arora",
+          "balls": 18,
+          "r": 35,
+          "w": 1,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Konda",
+          "balls": 18,
+          "r": 20,
+          "w": 1,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "balls": 12,
+          "r": 17,
+          "w": 1,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Showri Konda",
+          "balls": 12,
+          "r": 16,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Murali Chigurupathi",
+          "balls": 12,
+          "r": 19,
+          "w": 0,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "k",
+          1
+        ],
+        [
+          "Showri Konda",
+          "c",
+          1
+        ],
+        [
+          "Anmol Arora",
+          "c",
+          1
+        ],
+        [
+          "Murali Chigurupathi",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2825",
+      "date": "2026-04-18",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Titans CC won by 52 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 165,
+          "wkts": 4,
+          "overs": "20"
+        },
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 113,
+          "wkts": 10,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 39,
+          "b": 44,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Arun Chandrashekar",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 42,
+          "b": 38,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 71,
+          "b": 30,
+          "f": 1,
+          "s": 6,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Anmol Arora",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 18,
+          "r": 27,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Varun Raj Gandavarapu",
+          "balls": 17,
+          "r": 11,
+          "w": 4,
+          "dots": 11,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Satya Golakoti",
+          "balls": 24,
+          "r": 24,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Arora",
+          "balls": 18,
+          "r": 17,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 24,
+          "r": 23,
+          "w": 1,
+          "dots": 9,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Konda",
+          "balls": 18,
+          "r": 10,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Satya Golakoti",
+          "c",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          1
+        ],
+        [
+          "Madhusudhana Baragur",
+          "k",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          1
+        ],
+        [
+          "Arun Chandrashekar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2821",
+      "date": "2025-09-27",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Swat Lions CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Swat Lions CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 161,
+          "wkts": 10,
+          "overs": "19.1"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 163,
+          "wkts": 4,
+          "overs": "18.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Naren Velaga",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vrushab D",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 11,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Vijay I",
+          "r": 41,
+          "b": 19,
+          "f": 2,
+          "s": 4,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 20,
+          "b": 26,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 29,
+          "b": 16,
+          "f": 2,
+          "s": 3,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 27,
+          "b": 16,
+          "f": 4,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Ashok Athukuri",
+          "r": 14,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Aditya Ramadas",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 24,
+          "r": 42,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashok Athukuri",
+          "balls": 24,
+          "r": 28,
+          "w": 1,
+          "dots": 11,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vijay I",
+          "balls": 20,
+          "r": 35,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 12,
+          "r": 27,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 1,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Ashok Athukuri",
+          "c",
+          1
+        ],
+        [
+          "Aditya Ramadas",
+          "c",
+          1
+        ],
+        [
+          "Krishna Chaitanya Nutukurthi",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2816",
+      "date": "2025-09-20",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Prior CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Titans CC won by 50 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 174,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 124,
+          "wkts": 10,
+          "overs": "18.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Naren Velaga",
+          "r": 44,
+          "b": 31,
+          "f": 8,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Vrushab D",
+          "r": 27,
+          "b": 19,
+          "f": 4,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Vijay I",
+          "r": 14,
+          "b": 10,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 33,
+          "b": 28,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 8,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 16,
+          "b": 10,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 12,
+          "b": 8,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 18,
+          "r": 10,
+          "w": 2,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 31,
+          "w": 1,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 19,
+          "r": 15,
+          "w": 6,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vijay I",
+          "balls": 18,
+          "r": 19,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 18,
+          "r": 24,
+          "w": 1,
+          "dots": 3,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Amey Wadhavkar",
+          "balls": 12,
+          "r": 20,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vrushab D",
+          "c",
+          2
+        ],
+        [
+          "Madhusudhana Baragur",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2814",
+      "date": "2025-09-13",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Stumperz CC",
+      "ground": "Stumperz",
+      "result": "Titans CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Stumperz CC",
+          "runs": 93,
+          "wkts": 10,
+          "overs": "16.4"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 95,
+          "wkts": 6,
+          "overs": "13.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Naren Velaga",
+          "r": 12,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vrushab D",
+          "r": 20,
+          "b": 11,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 32,
+          "b": 29,
+          "f": 4,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Sourav Das",
+          "r": 20,
+          "b": 16,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 22,
+          "r": 16,
+          "w": 4,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 24,
+          "r": 27,
+          "w": 2,
+          "dots": 18,
+          "wd": 14,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 17,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Akshit Peddaboodhi",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Aditya Immaneni",
+          "r",
+          1
+        ],
+        [
+          "Krishna Chaitanya Nutukurthi",
+          "c",
+          3
+        ],
+        [
+          "Madhusudhana Baragur",
+          "c",
+          2
+        ],
+        [
+          "Vrushab D",
+          "k",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2807",
+      "date": "2025-09-06",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Swat Lions CC",
+      "ground": "ECG2",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 135,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 28,
+          "wkts": 2,
+          "overs": "4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amey Wadhavkar",
+          "r": 11,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 9,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 7,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "r": 9,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 37,
+          "b": 28,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 25,
+          "b": 19,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 8,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Sourav Das",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Akshit Peddaboodhi",
+          "r": 5,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 12,
+          "r": 16,
+          "w": 1,
+          "dots": 7,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 12,
+          "r": 12,
+          "w": 1,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sourav Das",
+          "c",
+          1
+        ],
+        [
+          "Suresh Singamsetti",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2801",
+      "date": "2025-08-23",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "East Coast CC",
+      "ground": "ECG2",
+      "result": "Titans CC won by 61 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 170,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 109,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Naren Velaga",
+          "r": 17,
+          "b": 18,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 21,
+          "b": 30,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 49,
+          "b": 37,
+          "f": 4,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Vijay I",
+          "r": 15,
+          "b": 9,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 36,
+          "b": 14,
+          "f": 1,
+          "s": 4,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 19,
+          "b": 8,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Chandrakanth Dudela",
+          "r": 3,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vijay I",
+          "balls": 24,
+          "r": 17,
+          "w": 2,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 12,
+          "r": 25,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 8,
+          "w": 4,
+          "dots": 18,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 7,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Amey Wadhavkar",
+          "balls": 18,
+          "r": 18,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 18,
+          "r": 19,
+          "w": 1,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Harikishore Malireddy",
+          "c",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2794",
+      "date": "2025-08-16",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Spartans CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 80,
+          "wkts": 10,
+          "overs": "19.3"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 81,
+          "wkts": 6,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Naren Velaga",
+          "r": 7,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 21,
+          "b": 19,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vijay I",
+          "r": 5,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Vikram Chatur",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "r": 21,
+          "b": 39,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Vamsi Krishna Cherukuri",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Amey Wadhavkar",
+          "r": 7,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "st"
+        },
+        {
+          "name": "Narendra Unnava",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Aditya Ramadas",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vijay I",
+          "balls": 15,
+          "r": 16,
+          "w": 1,
+          "dots": 9,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 18,
+          "r": 15,
+          "w": 0,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 18,
+          "r": 20,
+          "w": 2,
+          "dots": 9,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Suresh Singamsetti",
+          "balls": 6,
+          "r": 11,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 12,
+          "r": 10,
+          "w": 3,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Amey Wadhavkar",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aditya Ramadas",
+          "c",
+          1
+        ],
+        [
+          "Naren Velaga",
+          "k",
+          1
+        ],
+        [
+          "Vijay I",
+          "c",
+          1
+        ],
+        [
+          "Vamsi Krishna Cherukuri",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2783",
+      "date": "2025-08-09",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Chargers CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Titans CC won by 8 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 152,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "Chargers CC",
+          "runs": 144,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vrushab D",
+          "r": 29,
+          "b": 34,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Aashish Katipally",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 32,
+          "b": 25,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Naren Velaga",
+          "r": 26,
+          "b": 20,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 29,
+          "b": 23,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Sourav Das",
+          "r": 7,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Narendra Unnava",
+          "balls": 12,
+          "r": 23,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 18,
+          "r": 21,
+          "w": 1,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Aashish Katipally",
+          "balls": 18,
+          "r": 30,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Amey Wadhavkar",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vrushab D",
+          "balls": 24,
+          "r": 33,
+          "w": 1,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "balls": 18,
+          "r": 16,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sourav Das",
+          "c",
+          1
+        ],
+        [
+          "Narendra Unnava",
+          "c",
+          1
+        ],
+        [
+          "Aashish Katipally",
+          "c",
+          1
+        ],
+        [
+          "Madhusudhana Baragur",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2767",
+      "date": "2025-08-02",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "NJ Challengers CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Titans CC won by 16 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 135,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "NJ Challengers CC",
+          "runs": 119,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Naren Velaga",
+          "r": 52,
+          "b": 44,
+          "f": 3,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Madhusudhana Baragur",
+          "r": 15,
+          "b": 30,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 7,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 14,
+          "b": 8,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Ashok Athukuri",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Amey Wadhavkar",
+          "r": 13,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Sourav Das",
+          "r": 9,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "st"
+        },
+        {
+          "name": "Puneet Satija",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashok Athukuri",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 21,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Puneet Satija",
+          "balls": 24,
+          "r": 29,
+          "w": 0,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 24,
+          "r": 18,
+          "w": 4,
+          "dots": 13,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          1
+        ],
+        [
+          "Madhusudhana Baragur",
+          "c",
+          1
+        ],
+        [
+          "Sourav Das",
+          "c",
+          1
+        ],
+        [
+          "Ashok Athukuri",
+          "c",
+          1
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ],
+        [
+          "Puneet Satija",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2753",
+      "date": "2025-07-26",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Prior CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Prior CC won by 75 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 144,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 69,
+          "wkts": 10,
+          "overs": "15.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Akshit Shetty",
+          "r": 30,
+          "b": 21,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Aditya Ramadas",
+          "r": 4,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Narendra Unnava",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Naren Velaga",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sourav Das",
+          "r": 8,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Vineet Tyagi",
+          "r": 2,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Ravi Kolla",
+          "r": 0,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Emile Ramsingh",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Vikram Chatur",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "rt"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 16,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 18,
+          "r": 13,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akshit Shetty",
+          "balls": 24,
+          "r": 28,
+          "w": 2,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Vineet Tyagi",
+          "balls": 24,
+          "r": 29,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Narendra Unnava",
+          "balls": 6,
+          "r": 11,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 18,
+          "r": 34,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Sourav Das",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aditya Ramadas",
+          "c",
+          1
+        ],
+        [
+          "Pradeep Kumar Pattem",
+          "c",
+          1
+        ],
+        [
+          "Shanmuga Lakshmanan",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2741",
+      "date": "2025-07-19",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Vikings CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Titans CC won by 158 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 191,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Vikings CC",
+          "runs": 33,
+          "wkts": 10,
+          "overs": "8.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Naren Velaga",
+          "r": 59,
+          "b": 30,
+          "f": 5,
+          "s": 4,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Kashyap Palivela",
+          "r": 40,
+          "b": 35,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aashish Katipally",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 32,
+          "b": 21,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 33,
+          "b": 18,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Ashok Athukuri",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 9,
+          "b": 3,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Narendra Unnava",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Vrushab D",
+          "r": 8,
+          "b": 3,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashok Athukuri",
+          "balls": 24,
+          "r": 16,
+          "w": 4,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 12,
+          "r": 14,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 12,
+          "r": 2,
+          "w": 3,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aashish Katipally",
+          "balls": 3,
+          "r": 1,
+          "w": 2,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Harikishore Malireddy",
+          "c",
+          1
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ],
+        [
+          "Naren Velaga",
+          "k",
+          1
+        ],
+        [
+          "Vrushab D",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2725",
+      "date": "2025-06-28",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Villanova CC won by 10 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 132,
+          "wkts": 9,
+          "overs": "18"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 122,
+          "wkts": 7,
+          "overs": "18"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Naren Velaga",
+          "r": 31,
+          "b": 25,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 18,
+          "b": 12,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Hariprasath G",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 8,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sourav Das",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Ashok Athukuri",
+          "r": 7,
+          "b": 4,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 35,
+          "b": 29,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Chandrakanth Dudela",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Narendra Unnava",
+          "r": 5,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashok Athukuri",
+          "balls": 18,
+          "r": 34,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hariprasath G",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 30,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chandrakanth Dudela",
+          "balls": 24,
+          "r": 19,
+          "w": 4,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Puneet Satija",
+          "balls": 24,
+          "r": 16,
+          "w": 4,
+          "dots": 18,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 6,
+          "r": 9,
+          "w": 1,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Puneet Satija",
+          "c",
+          1
+        ],
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ],
+        [
+          "Sai Aditya Immaneni",
+          "c",
+          3
+        ],
+        [
+          "Naren Velaga",
+          "k",
+          2
+        ],
+        [
+          "Hariprasath G",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2710",
+      "date": "2025-06-21",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Phoenix CC",
+      "ground": "Knights Cricket Ground",
+      "result": "Phoenix CC won by 28 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Phoenix CC",
+          "runs": 182,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 154,
+          "wkts": 7,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 8,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Naren Velaga",
+          "r": 9,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Ashok Athukuri",
+          "r": 9,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Sourav Das",
+          "r": 35,
+          "b": 38,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 36,
+          "b": 23,
+          "f": 0,
+          "s": 4,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "r": 8,
+          "b": 4,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "r": 17,
+          "b": 14,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Narendra Unnava",
+          "r": 4,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashok Athukuri",
+          "balls": 18,
+          "r": 31,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 18,
+          "r": 23,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Pradeep Kumar Pattem",
+          "balls": 24,
+          "r": 29,
+          "w": 2,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harikishore Malireddy",
+          "balls": 24,
+          "r": 36,
+          "w": 3,
+          "dots": 11,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Vineet Tyagi",
+          "balls": 24,
+          "r": 40,
+          "w": 0,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 12,
+          "r": 19,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vineet Tyagi",
+          "r",
+          1
+        ],
+        [
+          "Sourav Das",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2692",
+      "date": "2025-06-07",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Knights Cricket Ground",
+      "result": "Titans CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 132,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 133,
+          "wkts": 6,
+          "overs": "19.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Kashyap Palivela",
+          "r": 19,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "r": 44,
+          "b": 43,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Venu Kumar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Naren Velaga",
+          "r": 33,
+          "b": 25,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Akshit Shetty",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Sourav Das",
+          "r": 15,
+          "b": 9,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "r": 5,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya Nutukurthi",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Shanmuga Lakshmanan",
+          "balls": 18,
+          "r": 14,
+          "w": 2,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sai Aditya Immaneni",
+          "balls": 12,
+          "r": 15,
+          "w": 1,
+          "dots": 7,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Narendra Unnava",
+          "balls": 24,
+          "r": 28,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aditya Ramadas",
+          "balls": 24,
+          "r": 33,
+          "w": 0,
+          "dots": 6,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Akshit Shetty",
+          "balls": 18,
+          "r": 27,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Venu Kumar",
+          "c",
+          1
+        ],
+        [
+          "Kashyap Palivela",
+          "k",
+          1
+        ],
+        [
+          "Narendra Unnava",
+          "c",
+          1
+        ],
+        [
+          "Akshit Shetty",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2691",
+      "date": "2025-05-10",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Forfeited. Winner: Titans CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    }
+  ],
+  "unresolvedFielders": 7
+}

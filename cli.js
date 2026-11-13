@@ -57,11 +57,34 @@ function finish(result, code) {
   return result;
 }
 
+const { spawnSync } = require('child_process');
+const LEGACY_REG = require('./scripts/legacy-config.json');
+
+function legacyEntry(code) {
+  const e = LEGACY_REG[String(code || '').toLowerCase()];
+  return e && e.reader === 'legacy' ? e : null;
+}
+
+function runScript(args) {
+  const r = spawnSync(process.execPath, args, { cwd: store.ROOT, stdio: ['ignore', 'pipe', 'inherit'] });
+  if (r.status !== 0) throw new Error(`Script failed (${args.join(' ')})`);
+  return String(r.stdout || '');
+}
+
 async function ensureLeague(input, { refresh = false } = {}) {
   const code = sanitizeLeague(input);
   if (!code) return { error: 'Invalid league. Use a CricClubs league code or a cricclubs.com URL.' };
   const cached = store.readLeague(code);
   if (cached && !refresh) return { league: cached, cached: true };
+  const leg = legacyEntry(code);
+  if ((cached && cached.legacy) || leg) {
+    const cCode = (cached && cached.code) || (leg && leg.code) || code;
+    const cName = (cached && cached.name) || (leg && leg.name) || cCode;
+    await cc.close();
+    runScript(['scripts/legacy-league.js', cCode, cName]);
+    runScript(['scripts/legacy-ingest.js', cCode]);
+    return { league: store.readLeague(cCode), cached: false };
+  }
   const info = await cc.leagueInfo(code);
   if (!info) return { error: `League "${code}" was not found on CricClubs.` };
   const y = Number(laDate().slice(0, 4));
@@ -87,6 +110,7 @@ async function ensureLeague(input, { refresh = false } = {}) {
 }
 
 async function refreshStandings(league, keys, { missingOnly = false } = {}) {
+  if (league && league.legacy) return;
   const seasons = [...new Set(keys)].map(k => league.seasons[k]).filter(s => s && s.id);
   const have = new Set(store.listStandings(league.code).map(d => d.series && d.series.id));
   const cur = league.seasons.current && league.seasons.current.id;
@@ -137,6 +161,15 @@ function reparseTeam(league, team) {
 async function scanTeam(league, team, { currentOnly = false } = {}) {
   const canonical = matchTeam(league, team);
   if (!canonical) return { error: `Team "${team}" is not in a cached season of ${league.name}.` };
+  if (league.legacy) {
+    const prev = store.readTeam(league.code, canonical);
+    const before = Object.keys((prev && prev.matches) || {}).length;
+    await cc.close();
+    runScript(['scripts/legacy-team.js', league.code, canonical]);
+    const next = store.readTeam(league.code, canonical);
+    const after = Object.keys((next && next.matches) || {}).length;
+    return { ok: true, team: canonical, newMatches: Math.max(0, after - before), seasons: Object.values((next && next.series) || {}).map(s => s.name) };
+  }
   const t = store.readTeam(league.code, canonical) || { team: canonical, league: league.code, series: {}, matches: {} };
   t.team = canonical;
   t.league = league.code;
@@ -247,6 +280,13 @@ async function ingestLeague(input, { force = false } = {}) {
   console.log(JSON.stringify(out));
 }
 async function ingestCore(league, { force = false } = {}) {
+  if (league && league.legacy) {
+    await cc.close();
+    const args = ['scripts/legacy-ingest.js', league.code];
+    if (force) args.push('--force');
+    const out = runScript(args).trim().split('\n').pop();
+    return out ? JSON.parse(out) : { code: league.code };
+  }
   const t0 = Date.now(); const report = {};
   const todo = ingest.plan(league, store.SEASON_KEYS, { force });
   for (const { key, s } of todo) {

@@ -1,0 +1,1459 @@
+{
+ "season": {
+  "key": "last",
+  "id": "legacy-45",
+  "name": "2026 GPCL T20"
+ },
+ "fetchedAt": "2026-11-13T18:40:40.269Z",
+ "source": [
+  "https://cricclubs.com/GPCL/listMatches.do?league=45&clubId=48",
+  "https://cricclubs.com/GPCL/fixtures.do?league=45&clubId=48"
+ ],
+ "matches": [
+  {
+   "matchId": "2997",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2997&clubId=48",
+   "date": "2026-10-03",
+   "type": "Final",
+   "teams": [
+    "Spartans CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "791",
+    "797"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Villanova CC won by 5 Runs",
+   "summary": "Villanova CC: 176/4(20) Spartans CC: 171/6(20)"
+  },
+  {
+   "matchId": "2996",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2996&clubId=48",
+   "date": "2026-09-19",
+   "type": "Semi Final",
+   "teams": [
+    "Titans CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "794",
+    "797"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Villanova CC won by 8 Wickets",
+   "summary": "Titans CC: 133/10(18.5) Villanova CC: 136/2(17.4)"
+  },
+  {
+   "matchId": "2995",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2995&clubId=48",
+   "date": "2026-09-19",
+   "type": "Semi Final",
+   "teams": [
+    "Spartans CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "791",
+    "786"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Spartans CC won by 1 Run",
+   "summary": "Spartans CC: 125/9(20) Chargers CC: 124/10(19.3)"
+  },
+  {
+   "matchId": "2993",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2993&clubId=48",
+   "date": "2026-09-12",
+   "type": "Qualifier",
+   "teams": [
+    "Villanova CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "797",
+    "788"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Villanova CC won by 8 Wickets",
+   "summary": "Lehigh Valley CC: 95/10(18.4) Villanova CC: 96/2(10.4)"
+  },
+  {
+   "matchId": "2992",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2992&clubId=48",
+   "date": "2026-09-12",
+   "type": "Qualifier",
+   "teams": [
+    "Glassboro Guns CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "787",
+    "786"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Chargers CC won by 1 Wicket",
+   "summary": "Glassboro Guns CC: 151/6(20) Chargers CC: 152/9(19.2)"
+  },
+  {
+   "matchId": "2989",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2989&clubId=48",
+   "date": "2026-08-29",
+   "type": "Qualifier",
+   "teams": [
+    "Spartans CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "791",
+    "797"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Spartans CC won by 10 Runs",
+   "summary": "Spartans CC: 156/7(20) Villanova CC: 146/10(20)"
+  },
+  {
+   "matchId": "2988",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2988&clubId=48",
+   "date": "2026-08-29",
+   "type": "Qualifier",
+   "teams": [
+    "Glassboro Guns CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "787",
+    "794"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Titans CC won by 1 Wicket",
+   "summary": "Glassboro Guns CC: 171/8(20) Titans CC: 172/9(19.5)"
+  },
+  {
+   "matchId": "2987",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2987&clubId=48",
+   "date": "2026-08-29",
+   "type": "Eliminator",
+   "teams": [
+    "United XI CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "795",
+    "788"
+   ],
+   "ground": "United XI",
+   "result": "Lehigh Valley CC won by 6 Wickets",
+   "summary": "United XI CC: 91/10(18.5) Lehigh Valley CC: 92/4(10.2)"
+  },
+  {
+   "matchId": "2986",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2986&clubId=48",
+   "date": "2026-08-29",
+   "type": "Eliminator",
+   "teams": [
+    "Phoenix CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "789",
+    "786"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Chargers CC won by 4 Wickets",
+   "summary": "Phoenix CC: 150/5(20) Chargers CC: 151/6(19.4)"
+  },
+  {
+   "matchId": "2982",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2982&clubId=48",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "791",
+    "794"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Spartans CC won by 1 Run",
+   "summary": "Spartans CC: 140/8(20) Titans CC: 139/9(20)"
+  },
+  {
+   "matchId": "2981",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2981&clubId=48",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "797",
+    "788"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Lehigh Valley CC won by 7 Wickets",
+   "summary": "Villanova CC: 121/10(19.4) Lehigh Valley CC: 122/3(11.3)"
+  },
+  {
+   "matchId": "2980",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2980&clubId=48",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "789",
+    "787"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Glassboro Guns CC won by 6 Runs",
+   "summary": "Glassboro Guns CC: 140/8(20) Phoenix CC: 134/8(20)"
+  },
+  {
+   "matchId": "2979",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2979&clubId=48",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "788",
+    "796"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Lehigh Valley CC won by 67 Runs",
+   "summary": "Lehigh Valley CC: 222/7(20) Vikings CC: 155/10(19.2)"
+  },
+  {
+   "matchId": "2970",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2970&clubId=48",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "797",
+    "793"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Forfeited. Winner: Villanova CC",
+   "summary": "Villanova CC: 0/0(20) Swat Lions CC: 0/0(20)"
+  },
+  {
+   "matchId": "2969",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2969&clubId=48",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "United XI CC"
+   ],
+   "teamIds": [
+    "792",
+    "795"
+   ],
+   "ground": "Stumperz",
+   "result": "Forfeited. Winner: United XI CC",
+   "summary": "Stumperz CC: 0/0(20) United XI CC: 0/0(20)"
+  },
+  {
+   "matchId": "2893",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2893&clubId=48",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "792",
+    "789"
+   ],
+   "ground": "Stumperz",
+   "result": "Forfeited. Winner: Phoenix CC",
+   "summary": "Stumperz CC: 0/0(20) Phoenix CC: 0/0(20)"
+  },
+  {
+   "matchId": "2974",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2974&clubId=48",
+   "date": "2026-08-15",
+   "type": "League",
+   "teams": [
+    "United XI CC",
+    "Bensalem CC"
+   ],
+   "teamIds": [
+    "795",
+    "799"
+   ],
+   "ground": "United XI",
+   "result": "United XI CC won by 179 Runs",
+   "summary": "United XI CC: 260/2(20) Bensalem CC: 81/5(16)"
+  },
+  {
+   "matchId": "2973",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2973&clubId=48",
+   "date": "2026-08-15",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "786",
+    "794"
+   ],
+   "ground": "Titans Cricket Ground",
+   "result": "Titans CC won by 6 Wickets",
+   "summary": "Chargers CC: 197/6(20) Titans CC: 198/4(20)"
+  },
+  {
+   "matchId": "2972",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2972&clubId=48",
+   "date": "2026-08-15",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "789",
+    "790"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Phoenix CC won by 5 Wickets",
+   "summary": "Prior CC: 126/8(20) Phoenix CC: 130/5(15.4)"
+  },
+  {
+   "matchId": "2971",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2971&clubId=48",
+   "date": "2026-08-15",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "793",
+    "796"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Forfeited. Winner: Vikings CC",
+   "summary": "Swat Lions CC: 0/0(20) Vikings CC: 0/0(20)"
+  },
+  {
+   "matchId": "2968",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2968&clubId=48",
+   "date": "2026-08-15",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "787",
+    "792"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Forfeited. Winner: Glassboro Guns CC",
+   "summary": "Glassboro Guns CC: 0/0(20) Stumperz CC: 0/0(20)"
+  },
+  {
+   "matchId": "2961",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2961&clubId=48",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "Bensalem CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "799",
+    "791"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Spartans CC won by 10 Wickets",
+   "summary": "Bensalem CC: 80/5(15) Spartans CC: 83/0(6.5)"
+  },
+  {
+   "matchId": "2960",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2960&clubId=48",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "788",
+    "790"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Lehigh Valley CC won by 8 Runs",
+   "summary": "Lehigh Valley CC: 163/4(20) Prior CC: 155/6(20)"
+  },
+  {
+   "matchId": "2959",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2959&clubId=48",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "794",
+    "789"
+   ],
+   "ground": "Titans Cricket Ground",
+   "result": "Titans CC won by 32 Runs (D/L)",
+   "summary": "Titans CC: 130/7(18) Phoenix CC: 97/8(18)"
+  },
+  {
+   "matchId": "2958",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2958&clubId=48",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "United XI CC"
+   ],
+   "teamIds": [
+    "797",
+    "795"
+   ],
+   "ground": "Titans Cricket Ground",
+   "result": "Villanova CC won by 8 Wickets",
+   "summary": "United XI CC: 106/7(20) Villanova CC: 107/2(15.1)"
+  },
+  {
+   "matchId": "2951",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2951&clubId=48",
+   "date": "2026-08-01",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "791",
+    "789"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Spartans CC won by 13 Runs",
+   "summary": "Spartans CC: 178/10(20) Phoenix CC: 165/7(20)"
+  },
+  {
+   "matchId": "2950",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2950&clubId=48",
+   "date": "2026-08-01",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "794",
+    "797"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Villanova CC won by 42 Runs",
+   "summary": "Villanova CC: 201/8(20) Titans CC: 159/9(16.4)"
+  },
+  {
+   "matchId": "2949",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2949&clubId=48",
+   "date": "2026-08-01",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "790",
+    "796"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Vikings CC won by 5 Wickets",
+   "summary": "Prior CC: 103/9(20) Vikings CC: 104/5(15.3)"
+  },
+  {
+   "matchId": "2948",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2948&clubId=48",
+   "date": "2026-08-01",
+   "type": "League",
+   "teams": [
+    "United XI CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "795",
+    "788"
+   ],
+   "ground": "United XI",
+   "result": "Lehigh Valley CC won by 6 Wickets",
+   "summary": "United XI CC: 136/8(20) Lehigh Valley CC: 137/4(17.3)"
+  },
+  {
+   "matchId": "2919",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2919&clubId=48",
+   "date": "2026-08-01",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "793",
+    "787"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Forfeited. Winner: Glassboro Guns CC",
+   "summary": "Swat Lions CC: 0/0(0)"
+  },
+  {
+   "matchId": "2891",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2891&clubId=48",
+   "date": "2026-08-01",
+   "type": "League",
+   "teams": [
+    "Bensalem CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "799",
+    "792"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Forfeited. Winner: Bensalem CC",
+   "summary": "Bensalem CC: 0/0(20) Stumperz CC: 0/0(20)"
+  },
+  {
+   "matchId": "2941",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2941&clubId=48",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "789",
+    "797"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Villanova CC won by 2 Wickets",
+   "summary": "Phoenix CC: 155/10(20) Villanova CC: 156/8(19.4)"
+  },
+  {
+   "matchId": "2940",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2940&clubId=48",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "796",
+    "791"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Spartans CC won by 6 Wickets",
+   "summary": "Vikings CC: 146/7(20) Spartans CC: 147/4(12.1)"
+  },
+  {
+   "matchId": "2937",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2937&clubId=48",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "793",
+    "786"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Forfeited. Winner: Chargers CC",
+   "summary": "Swat Lions CC: 0/0(0)"
+  },
+  {
+   "matchId": "2877",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2877&clubId=48",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "790",
+    "792"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Forfeited. Winner: Prior CC",
+   "summary": "Prior CC: 0/0(20) Stumperz CC: 0/0(20)"
+  },
+  {
+   "matchId": "2938",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2938&clubId=48",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "United XI CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "795",
+    "791"
+   ],
+   "ground": "United XI",
+   "result": "Abandoned.",
+   "summary": "United XI CC: 0/0(0)"
+  },
+  {
+   "matchId": "2936",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2936&clubId=48",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Bensalem CC"
+   ],
+   "teamIds": [
+    "790",
+    "799"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Winner: Prior CC",
+   "summary": "Prior CC: 0/0(0)"
+  },
+  {
+   "matchId": "2929",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2929&clubId=48",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "797",
+    "790"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Villanova CC won by 41 Runs (D/L)",
+   "summary": "Prior CC: 89/8(20) Villanova CC: 71/1(8)"
+  },
+  {
+   "matchId": "2928",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2928&clubId=48",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "787",
+    "794"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 5 Runs",
+   "summary": "Glassboro Guns CC: 161/9(20) Titans CC: 156/4(20)"
+  },
+  {
+   "matchId": "2927",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2927&clubId=48",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "786",
+    "788"
+   ],
+   "ground": "Titans Cricket Ground",
+   "result": "Chargers CC won by 3 Wickets",
+   "summary": "Lehigh Valley CC: 158/8(20) Chargers CC: 163/7(18.5)"
+  },
+  {
+   "matchId": "2875",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2875&clubId=48",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "792",
+    "796"
+   ],
+   "ground": "Stumperz",
+   "result": "Forfeited. Winner: Vikings CC",
+   "summary": "Stumperz CC: 0/0(20) Vikings CC: 0/0(20)"
+  },
+  {
+   "matchId": "2918",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2918&clubId=48",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "791",
+    "786"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Spartans CC won by 8 Wickets",
+   "summary": "Chargers CC: 103/10(16.5) Spartans CC: 104/2(9)"
+  },
+  {
+   "matchId": "2917",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2917&clubId=48",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "789",
+    "788"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Lehigh Valley CC won by 5 Runs",
+   "summary": "Lehigh Valley CC: 161/4(20) Phoenix CC: 156/8(20)"
+  },
+  {
+   "matchId": "2916",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2916&clubId=48",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Bensalem CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "799",
+    "787"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Bensalem CC: 12/0(2.5)"
+  },
+  {
+   "matchId": "2915",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2915&clubId=48",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "796",
+    "797"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Vikings CC won by 28 Runs",
+   "summary": "Vikings CC: 123/10(19.4) Villanova CC: 95/10(15.4)"
+  },
+  {
+   "matchId": "2914",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2914&clubId=48",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "794",
+    "793"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Forfeited. Winner: Titans CC",
+   "summary": "Titans CC: 0/0(0)"
+  },
+  {
+   "matchId": "2939",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2939&clubId=48",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "790",
+    "786"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Prior CC: 0/0(0)"
+  },
+  {
+   "matchId": "2920",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2920&clubId=48",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "787",
+    "788"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Forfeited. Winner: Glassboro Guns CC",
+   "summary": "Glassboro Guns CC: 0/0(20) Lehigh Valley CC: 0/0(20)"
+  },
+  {
+   "matchId": "2907",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2907&clubId=48",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "797",
+    "791"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Spartans CC won by 20 Runs",
+   "summary": "Spartans CC: 189/5(20) Villanova CC: 169/10(19.5)"
+  },
+  {
+   "matchId": "2906",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2906&clubId=48",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "United XI CC"
+   ],
+   "teamIds": [
+    "796",
+    "795"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "United XI CC won by 5 Wickets",
+   "summary": "Vikings CC: 145/6(20) United XI CC: 146/5(19.4)"
+  },
+  {
+   "matchId": "2905",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2905&clubId=48",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Bensalem CC"
+   ],
+   "teamIds": [
+    "793",
+    "799"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Forfeited. Winner: Bensalem CC",
+   "summary": "Swat Lions CC: 0/0(0)"
+  },
+  {
+   "matchId": "2898",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2898&clubId=48",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "789",
+    "796"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Phoenix CC won by 78 Runs",
+   "summary": "Phoenix CC: 194/4(20) Vikings CC: 116/10(18.5)"
+  },
+  {
+   "matchId": "2897",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2897&clubId=48",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Bensalem CC"
+   ],
+   "teamIds": [
+    "788",
+    "799"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Lehigh Valley CC won by 117 Runs",
+   "summary": "Lehigh Valley CC: 252/4(20) Bensalem CC: 135/9(18.3)"
+  },
+  {
+   "matchId": "2896",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2896&clubId=48",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "786",
+    "797"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Villanova CC won by 34 Runs",
+   "summary": "Villanova CC: 192/8(20) Chargers CC: 158/7(20)"
+  },
+  {
+   "matchId": "2895",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2895&clubId=48",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "United XI CC"
+   ],
+   "teamIds": [
+    "794",
+    "795"
+   ],
+   "ground": "Titans Cricket Ground",
+   "result": "United XI CC won by 11 Runs",
+   "summary": "United XI CC: 170/7(20) Titans CC: 159/7(20)"
+  },
+  {
+   "matchId": "2894",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2894&clubId=48",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "793",
+    "790"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Forfeited. Winner: Prior CC",
+   "summary": "Swat Lions CC: 0/0(0)"
+  },
+  {
+   "matchId": "2874",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2874&clubId=48",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "788",
+    "792"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Forfeited. Winner: Lehigh Valley CC",
+   "summary": "Lehigh Valley CC: 0/0(20) Stumperz CC: 0/0(20)"
+  },
+  {
+   "matchId": "2883",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2883&clubId=48",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "791",
+    "793"
+   ],
+   "ground": "Stallions- Exton, PA",
+   "result": "Forfeited. Winner: Spartans CC",
+   "summary": "Spartans CC: 0/0(0)"
+  },
+  {
+   "matchId": "2882",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2882&clubId=48",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Bensalem CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "799",
+    "797"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Villanova CC won by 7 Wickets",
+   "summary": "Bensalem CC: 133/10(19.1) Villanova CC: 134/3(17)"
+  },
+  {
+   "matchId": "2881",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2881&clubId=48",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "796",
+    "787"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 3 Wickets",
+   "summary": "Vikings CC: 149/7(20) Glassboro Guns CC: 153/7(16.2)"
+  },
+  {
+   "matchId": "2880",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2880&clubId=48",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "United XI CC"
+   ],
+   "teamIds": [
+    "786",
+    "795"
+   ],
+   "ground": "United XI",
+   "result": "Chargers CC won by 7 Wickets",
+   "summary": "United XI CC: 184/5(20) Chargers CC: 188/3(18.2)"
+  },
+  {
+   "matchId": "2879",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2879&clubId=48",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "790",
+    "794"
+   ],
+   "ground": "Titans Cricket Ground",
+   "result": "Titans CC won by 9 Wickets",
+   "summary": "Prior CC: 133/9(20) Titans CC: 134/1(13.1)"
+  },
+  {
+   "matchId": "2878",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2878&clubId=48",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "United XI CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "795",
+    "789"
+   ],
+   "ground": "United XI",
+   "result": "Phoenix CC won by 54 Runs",
+   "summary": "Phoenix CC: 188/3(20) United XI CC: 134/10(18)"
+  },
+  {
+   "matchId": "2873",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2873&clubId=48",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "794",
+    "792"
+   ],
+   "ground": "Titans Cricket Ground",
+   "result": "Forfeited. Winner: Titans CC",
+   "summary": "Titans CC: 0/0(20) Stumperz CC: 0/0(20)"
+  },
+  {
+   "matchId": "2866",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2866&clubId=48",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "United XI CC"
+   ],
+   "teamIds": [
+    "787",
+    "795"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 10 Wickets",
+   "summary": "United XI CC: 44/10(14.3) Glassboro Guns CC: 47/0(5.3)"
+  },
+  {
+   "matchId": "2865",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2865&clubId=48",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "788",
+    "791"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Spartans CC won by 99 Runs",
+   "summary": "Spartans CC: 220/3(20) Lehigh Valley CC: 121/10(18.3)"
+  },
+  {
+   "matchId": "2864",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2864&clubId=48",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Vikings CC"
+   ],
+   "teamIds": [
+    "786",
+    "796"
+   ],
+   "ground": "ECG 1 (Barn End)",
+   "result": "Chargers CC won by 8 Wickets",
+   "summary": "Vikings CC: 161/10(19.2) Chargers CC: 162/2(18.1)"
+  },
+  {
+   "matchId": "2890",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2890&clubId=48",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "792",
+    "786"
+   ],
+   "ground": "Stumperz",
+   "result": "Forfeited. Winner: Chargers CC",
+   "summary": "Stumperz CC: 0/0(20) Chargers CC: 0/0(20)"
+  },
+  {
+   "matchId": "2858",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2858&clubId=48",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Phoenix CC",
+    "Bensalem CC"
+   ],
+   "teamIds": [
+    "789",
+    "799"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Phoenix CC won by 136 Runs",
+   "summary": "Phoenix CC: 197/5(20) Bensalem CC: 61/10(14.1)"
+  },
+  {
+   "matchId": "2892",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2892&clubId=48",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Stumperz CC",
+    "Villanova CC"
+   ],
+   "teamIds": [
+    "792",
+    "797"
+   ],
+   "ground": "Stumperz",
+   "result": "Forfeited. Winner: Villanova CC",
+   "summary": "Stumperz CC: 0/0(20) Villanova CC: 0/0(20)"
+  },
+  {
+   "matchId": "2851",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2851&clubId=48",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "United XI CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "795",
+    "793"
+   ],
+   "ground": "United XI",
+   "result": "United XI CC won by 20 Runs",
+   "summary": "United XI CC: 172/5(18) Swat Lions CC: 152/9(18)"
+  },
+  {
+   "matchId": "2850",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2850&clubId=48",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Chargers CC"
+   ],
+   "teamIds": [
+    "787",
+    "786"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Glassboro Guns CC won by 6 Runs",
+   "summary": "Glassboro Guns CC: 136/10(19.4) Chargers CC: 130/8(20)"
+  },
+  {
+   "matchId": "2849",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2849&clubId=48",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Bensalem CC"
+   ],
+   "teamIds": [
+    "796",
+    "799"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Vikings CC won by 4 Wickets",
+   "summary": "Bensalem CC: 97/10(18.1) Vikings CC: 98/6(17)"
+  },
+  {
+   "matchId": "2842",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2842&clubId=48",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Swat Lions CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "793",
+    "789"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Phoenix CC won by 8 Wickets",
+   "summary": "Swat Lions CC: 97/10(17.2) Phoenix CC: 100/2(13.3)"
+  },
+  {
+   "matchId": "2841",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2841&clubId=48",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Vikings CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "796",
+    "794"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Titans CC won by 93 Runs",
+   "summary": "Titans CC: 135/7(20) Vikings CC: 42/10(10.5)"
+  },
+  {
+   "matchId": "2840",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2840&clubId=48",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "United XI CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "795",
+    "790"
+   ],
+   "ground": "Elkins Cricket Ground",
+   "result": "United XI CC won by 33 Runs",
+   "summary": "United XI CC: 164/8(20) Prior CC: 131/6(20)"
+  },
+  {
+   "matchId": "2833",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2833&clubId=48",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Stumperz CC"
+   ],
+   "teamIds": [
+    "791",
+    "792"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Spartans CC won by 10 Wickets",
+   "summary": "Stumperz CC: 28/10(11.3) Spartans CC: 33/0(4)"
+  },
+  {
+   "matchId": "2832",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2832&clubId=48",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Bensalem CC",
+    "Titans CC"
+   ],
+   "teamIds": [
+    "799",
+    "794"
+   ],
+   "ground": "Voorhees Cricket Ground",
+   "result": "Titans CC won by 62 Runs",
+   "summary": "Titans CC: 204/3(20) Bensalem CC: 142/6(20)"
+  },
+  {
+   "matchId": "2831",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2831&clubId=48",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Villanova CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "797",
+    "787"
+   ],
+   "ground": "Elkins Cricket Ground",
+   "result": "Glassboro Guns CC won by 6 Wickets",
+   "summary": "Villanova CC: 156/7(20) Glassboro Guns CC: 157/4(17.1)"
+  },
+  {
+   "matchId": "2830",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2830&clubId=48",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Prior CC",
+    "Spartans CC"
+   ],
+   "teamIds": [
+    "790",
+    "791"
+   ],
+   "ground": "Prior Cricket Ground",
+   "result": "Spartans CC won by 1 Run",
+   "summary": "Spartans CC: 93/10(19.3) Prior CC: 92/6(20)"
+  },
+  {
+   "matchId": "2829",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2829&clubId=48",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Lehigh Valley CC",
+    "Swat Lions CC"
+   ],
+   "teamIds": [
+    "788",
+    "793"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Lehigh Valley CC: 0/0(20) Swat Lions CC: 0/0(20)"
+  },
+  {
+   "matchId": "2828",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2828&clubId=48",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Glassboro Guns CC",
+    "Prior CC"
+   ],
+   "teamIds": [
+    "787",
+    "790"
+   ],
+   "ground": "Echelon Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "Prior CC: 151/8(20) Glassboro Guns CC: 35/0(3.3)"
+  },
+  {
+   "matchId": "2827",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2827&clubId=48",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Chargers CC",
+    "Phoenix CC"
+   ],
+   "teamIds": [
+    "786",
+    "789"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "Phoenix CC won by 5 Wickets",
+   "summary": "Chargers CC: 159/3(20) Phoenix CC: 160/5(19.1)"
+  },
+  {
+   "matchId": "2826",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2826&clubId=48",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Spartans CC",
+    "Glassboro Guns CC"
+   ],
+   "teamIds": [
+    "791",
+    "787"
+   ],
+   "ground": "GPCL Ground - Exton",
+   "result": "It is a Tie",
+   "summary": "Glassboro Guns CC: 160/10(19.4) Spartans CC: 160/7(20)"
+  },
+  {
+   "matchId": "2825",
+   "scorecard": "https://cricclubs.com/GPCL/viewScorecard.do?matchId=2825&clubId=48",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Titans CC",
+    "Lehigh Valley CC"
+   ],
+   "teamIds": [
+    "794",
+    "788"
+   ],
+   "ground": "Lehigh Valley Cricket Ground",
+   "result": "Titans CC won by 52 Runs",
+   "summary": "Titans CC: 165/4(20) Lehigh Valley CC: 113/10(19.5)"
+  }
+ ]
+}

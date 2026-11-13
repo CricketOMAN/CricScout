@@ -1,0 +1,4494 @@
+{
+  "team": "Prior CC",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+  "logos": {
+    "PivotalTech's Rockers": "https://media.cricclubs.com/documentsRep/teamLogos/0bacbd61-e786-4be8-b7ff-391c7d4306ee.jpg",
+    "Spartans CC": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+    "Phoenix CC": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+    "Galloway CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Titans CC": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+    "British Officers CC": "https://media.cricclubs.com/documentsRep/teamLogos/0731bc29-a4b1-437a-a615-fba5caac732a.jpg",
+    "Lehigh Valley CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+    "Khyber CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-224.jpg",
+    "Echelon CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-234.jpg",
+    "Stallions CC": "https://media.cricclubs.com/documentsRep/teamLogos/50a8a599-4597-4092-85cf-7fb7aff33cac.jpg",
+    "South Jersey CC": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+    "StarSportsUS Future Stars CC": "https://media.cricclubs.com/documentsRep/teamLogos/3418eaf9-6553-424e-9a47-9e22c435e258.png",
+    "Chester County Cricket Academy Lions CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Glassboro Guns CC": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+    "Villanova CC": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+    "United XI CC": "https://media.cricclubs.com/documentsRep/teamLogos/f3a8c11c-01a1-4861-ad15-0e0cc28b71cd.jpg",
+    "Chargers CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+    "Vikings CC": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+    "Prior CC": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+    "Bensalem CC": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+    "Swat Lions CC": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+    "Stumperz CC": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+    "NJ Challengers CC": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+    "East Coast CC": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg"
+  },
+  "league": {
+    "code": "GPCL",
+    "name": "GPCL - Greater Philadelphia Cricket League"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-46",
+      "name": "2026 GPCL 40",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:32.881Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=46&clubId=48",
+        "players": {}
+      }
+    },
+    "last": {
+      "id": "legacy-45",
+      "name": "2026 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:40.269Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:40.269Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=45&clubId=48",
+        "players": {
+          "vishesh arora": {
+            "name": "Vishesh Arora",
+            "matches": 8,
+            "batting": 209,
+            "bowling": 0,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 225
+          },
+          "ibrahim tahir": {
+            "name": "Ibrahim Tahir",
+            "matches": 6,
+            "batting": 134,
+            "bowling": 43,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 185
+          },
+          "shreyas srinath": {
+            "name": "Shreyas Srinath",
+            "matches": 4,
+            "batting": 113,
+            "bowling": 50,
+            "fielding": 18,
+            "other": 0,
+            "mom": 0,
+            "total": 181
+          },
+          "yermia mall": {
+            "name": "Yermia Mall",
+            "matches": 4,
+            "batting": 169,
+            "bowling": 0,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 175
+          },
+          "karan bajwa": {
+            "name": "karan bajwa",
+            "matches": 6,
+            "batting": 38,
+            "bowling": 108,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 154
+          },
+          "faraz zaidi": {
+            "name": "Faraz Zaidi",
+            "matches": 4,
+            "batting": 45,
+            "bowling": 72,
+            "fielding": 32,
+            "other": 0,
+            "mom": 0,
+            "total": 149
+          },
+          "vaibhave ubba": {
+            "name": "Vaibhave Ubba",
+            "matches": 2,
+            "batting": 4,
+            "bowling": 96,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 108
+          },
+          "anmol brar": {
+            "name": "Anmol Brar",
+            "matches": 6,
+            "batting": 43,
+            "bowling": 19,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 78
+          },
+          "pardeep singh": {
+            "name": "Pardeep Singh",
+            "matches": 6,
+            "batting": 22,
+            "bowling": 42,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 76
+          },
+          "kaamran ali": {
+            "name": "Kaamran Ali",
+            "matches": 5,
+            "batting": 31,
+            "bowling": 36,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 67
+          },
+          "vishal kumar": {
+            "name": "vishal kumar",
+            "matches": 6,
+            "batting": 21,
+            "bowling": 42,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 63
+          },
+          "vijay singh": {
+            "name": "vijay singh",
+            "matches": 6,
+            "batting": 16,
+            "bowling": 45,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 61
+          },
+          "rajash pallai": {
+            "name": "Rajash Pallai",
+            "matches": 2,
+            "batting": 45,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 53
+          },
+          "parminder singh sahota": {
+            "name": "Parminder Singh Sahota",
+            "matches": 6,
+            "batting": 10,
+            "bowling": 25,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 51
+          },
+          "prashant prashant": {
+            "name": "Prashant Prashant",
+            "matches": 3,
+            "batting": 4,
+            "bowling": 45,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 49
+          },
+          "srini chandrasekharan": {
+            "name": "Srini Chandrasekharan",
+            "matches": 4,
+            "batting": 38,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 46
+          },
+          "nihaal kochar": {
+            "name": "Nihaal Kochar",
+            "matches": 2,
+            "batting": 23,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 31
+          },
+          "umang somani": {
+            "name": "Umang Somani",
+            "matches": 4,
+            "batting": 11,
+            "bowling": 10,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 29
+          },
+          "shakil islam": {
+            "name": "Shakil islam",
+            "matches": 2,
+            "batting": 2,
+            "bowling": 2,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 20
+          },
+          "rafiq melath": {
+            "name": "Rafiq Melath",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 17,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 18
+          },
+          "lakhi anttal": {
+            "name": "Lakhi Anttal",
+            "matches": 2,
+            "batting": 2,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 10
+          },
+          "anirudh sridharan": {
+            "name": "anirudh sridharan",
+            "matches": 1,
+            "batting": 9,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 9
+          },
+          "sridhar manyem": {
+            "name": "Sridhar Manyem",
+            "matches": 2,
+            "batting": 7,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 7
+          },
+          "taranjot singh bajwa": {
+            "name": "Taranjot Singh Bajwa",
+            "matches": 3,
+            "batting": 6,
+            "bowling": -3,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 3
+          },
+          "terence fernandes": {
+            "name": "Terence Fernandes",
+            "matches": 2,
+            "batting": 1,
+            "bowling": 2,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 3
+          },
+          "sundara sukavanam": {
+            "name": "Sundara Sukavanam",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "rajesh krishnamoorthy": {
+            "name": "Rajesh Krishnamoorthy",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          }
+        }
+      }
+    },
+    "prev2": {
+      "id": "legacy-43",
+      "name": "2025 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:47.652Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:47.652Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=43&clubId=48",
+        "players": {
+          "faraz zaidi": {
+            "name": "Faraz Zaidi",
+            "matches": 6,
+            "batting": 218,
+            "bowling": 183,
+            "fielding": 36,
+            "other": 0,
+            "mom": 0,
+            "total": 437
+          },
+          "vishnu radhakrishnan": {
+            "name": "Vishnu Radhakrishnan",
+            "matches": 6,
+            "batting": 118,
+            "bowling": 266,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 408
+          },
+          "shreyas srinath": {
+            "name": "Shreyas Srinath",
+            "matches": 8,
+            "batting": 119,
+            "bowling": 200,
+            "fielding": 16,
+            "other": 25,
+            "mom": 1,
+            "total": 360
+          },
+          "rafiq melath": {
+            "name": "Rafiq Melath",
+            "matches": 3,
+            "batting": 57,
+            "bowling": 152,
+            "fielding": 46,
+            "other": 25,
+            "mom": 1,
+            "total": 280
+          },
+          "vaibhave ubba": {
+            "name": "Vaibhave Ubba",
+            "matches": 10,
+            "batting": 9,
+            "bowling": 209,
+            "fielding": 30,
+            "other": 25,
+            "mom": 1,
+            "total": 273
+          },
+          "ibrahim tahir": {
+            "name": "Ibrahim Tahir",
+            "matches": 12,
+            "batting": 129,
+            "bowling": 92,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 227
+          },
+          "rajash pallai": {
+            "name": "Rajash Pallai",
+            "matches": 10,
+            "batting": 108,
+            "bowling": 0,
+            "fielding": 86,
+            "other": 0,
+            "mom": 0,
+            "total": 194
+          },
+          "srini chandrasekharan": {
+            "name": "Srini Chandrasekharan",
+            "matches": 7,
+            "batting": 178,
+            "bowling": 0,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 190
+          },
+          "ismail asas": {
+            "name": "Ismail Asas",
+            "matches": 6,
+            "batting": 4,
+            "bowling": 164,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 176
+          },
+          "yermia mall": {
+            "name": "Yermia Mall",
+            "matches": 12,
+            "batting": 89,
+            "bowling": 17,
+            "fielding": 16,
+            "other": 25,
+            "mom": 1,
+            "total": 147
+          },
+          "umang somani": {
+            "name": "Umang Somani",
+            "matches": 9,
+            "batting": 0,
+            "bowling": 105,
+            "fielding": 28,
+            "other": 0,
+            "mom": 0,
+            "total": 133
+          },
+          "prince sangwan": {
+            "name": "Prince Sangwan",
+            "matches": 3,
+            "batting": 79,
+            "bowling": 26,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 111
+          },
+          "anmol brar": {
+            "name": "Anmol Brar",
+            "matches": 8,
+            "batting": 37,
+            "bowling": 15,
+            "fielding": 46,
+            "other": 0,
+            "mom": 0,
+            "total": 98
+          },
+          "sabeeh khan": {
+            "name": "sabeeh khan",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 70,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 78
+          },
+          "sandeep santhanem pallikonda": {
+            "name": "Sandeep Santhanem Pallikonda",
+            "matches": 3,
+            "batting": 3,
+            "bowling": 61,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 72
+          },
+          "sridhar manyem": {
+            "name": "Sridhar Manyem",
+            "matches": 4,
+            "batting": 67,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 67
+          },
+          "scott ellis": {
+            "name": "scott ellis",
+            "matches": 2,
+            "batting": 2,
+            "bowling": 21,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 39
+          },
+          "vijay singh": {
+            "name": "vijay singh",
+            "matches": 5,
+            "batting": 4,
+            "bowling": 20,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 32
+          },
+          "sanil kagalwala": {
+            "name": "Sanil Kagalwala",
+            "matches": 3,
+            "batting": 11,
+            "bowling": 0,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 31
+          },
+          "anuj poddar": {
+            "name": "Anuj Poddar",
+            "matches": 3,
+            "batting": 29,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 29
+          },
+          "terence fernandes": {
+            "name": "Terence Fernandes",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 27,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 27
+          },
+          "tremali mills": {
+            "name": "Tremali Mills",
+            "matches": 2,
+            "batting": 23,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 23
+          },
+          "vir acharya": {
+            "name": "Vir Acharya",
+            "matches": 2,
+            "batting": 17,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 17
+          },
+          "akshat mathur": {
+            "name": "Akshat Mathur",
+            "matches": 2,
+            "batting": 10,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 10
+          },
+          "iqbal rahman": {
+            "name": "Iqbal Rahman",
+            "matches": 1,
+            "batting": 6,
+            "bowling": 2,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 8
+          },
+          "joe smythe": {
+            "name": "Joe Smythe",
+            "matches": 1,
+            "batting": 5,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 5
+          },
+          "shri nambiar": {
+            "name": "Shri Nambiar",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 1
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-2972",
+      "date": "2026-08-15",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Phoenix CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 126,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 130,
+          "wkts": 5,
+          "overs": "15.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Nihaal Kochar",
+          "r": 21,
+          "b": 25,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Rafiq Melath",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vishesh Arora",
+          "r": 38,
+          "b": 34,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 11,
+          "b": 11,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Kaamran Ali",
+          "r": 14,
+          "b": 11,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Prashant Prashant",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Parminder Singh Sahota",
+          "r": 13,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Vishal Kumar",
+          "r": 10,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Shakil Islam",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Lakhi Anttal",
+          "r": 2,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vishal Kumar",
+          "balls": 6,
+          "r": 16,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Parminder Singh Sahota",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Kaamran Ali",
+          "balls": 18,
+          "r": 30,
+          "w": 1,
+          "dots": 6,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Shakil Islam",
+          "balls": 6,
+          "r": 5,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Prashant Prashant",
+          "balls": 24,
+          "r": 29,
+          "w": 2,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Rafiq Melath",
+          "balls": 22,
+          "r": 39,
+          "w": 1,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Nihaal Kochar",
+          "c",
+          1
+        ],
+        [
+          "Lakhi Anttal",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2960",
+      "date": "2026-08-08",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Lehigh Valley CC won by 8 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 163,
+          "wkts": 4,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 155,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 0,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 35,
+          "b": 30,
+          "f": 1,
+          "s": 3,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vishesh Arora",
+          "r": 45,
+          "b": 35,
+          "f": 2,
+          "s": 3,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 42,
+          "b": 31,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Kaamran Ali",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 11,
+          "b": 8,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Karan Bajwa",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Pardeep Singh",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 24,
+          "r": 31,
+          "w": 1,
+          "dots": 10,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Karan Bajwa",
+          "balls": 24,
+          "r": 43,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Parminder Singh Sahota",
+          "balls": 12,
+          "r": 19,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shakil Islam",
+          "balls": 24,
+          "r": 26,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Brar",
+          "balls": 24,
+          "r": 28,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kaamran Ali",
+          "balls": 12,
+          "r": 16,
+          "w": 1,
+          "dots": 4,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Anmol Brar",
+          "c",
+          2
+        ],
+        [
+          "Parminder Singh Sahota",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2949",
+      "date": "2026-08-01",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Vikings CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Vikings CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 103,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Vikings CC",
+          "runs": 104,
+          "wkts": 5,
+          "overs": "15.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shreyas Srinath",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 10,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 7,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Vishesh Arora",
+          "r": 10,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 13,
+          "b": 25,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Pardeep Singh",
+          "r": 11,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Karan Bajwa",
+          "r": 11,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Parminder Singh Sahota",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Umang Somani",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "lbw"
+        },
+        {
+          "name": "Vijay Singh",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Terence Fernandes",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Umang Somani",
+          "balls": 18,
+          "r": 16,
+          "w": 0,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Karan Bajwa",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 18,
+          "r": 16,
+          "w": 2,
+          "dots": 11,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Terence Fernandes",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 18,
+          "r": 20,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 12,
+          "r": 12,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Pardeep Singh",
+          "balls": 3,
+          "r": 8,
+          "w": 0,
+          "dots": 0,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Umang Somani",
+          "c",
+          1
+        ],
+        [
+          "Pardeep Singh",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2877",
+      "date": "2026-07-25",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Stumperz CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Forfeited. Winner: Prior CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Stumperz CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2936",
+      "date": "2026-07-18",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Bensalem CC",
+      "ground": "Prior Cricket Ground",
+      "result": "",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2929",
+      "date": "2026-07-18",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Villanova CC won by 41 Runs (D/L)",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 89,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Villanova CC",
+          "runs": 71,
+          "wkts": 1,
+          "overs": "8"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sridhar Manyem",
+          "r": 6,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 19,
+          "b": 23,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Bajwa",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Kaamran Ali",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Vishesh Arora",
+          "r": 33,
+          "b": 50,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Pardeep Singh",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Parminder Singh Sahota",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Vijay Singh",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Vishal Kumar",
+          "r": 10,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Taranjot Singh Bajwa",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Taranjot Singh Bajwa",
+          "balls": 12,
+          "r": 23,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Karan Bajwa",
+          "balls": 18,
+          "r": 33,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 10,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Brar",
+          "balls": 6,
+          "r": 5,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2939",
+      "date": "2026-06-27",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Chargers CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Chargers CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2894",
+      "date": "2026-06-20",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Swat Lions CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Forfeited. Winner: Prior CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2879",
+      "date": "2026-06-13",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Titans CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Titans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 133,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 134,
+          "wkts": 1,
+          "overs": "13.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 20,
+          "b": 19,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 12,
+          "b": 13,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 20,
+          "b": 13,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 39,
+          "b": 32,
+          "f": 4,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Pardeep Singh",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 10,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Bajwa",
+          "r": 7,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Prashant Prashant",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Vijay Singh",
+          "r": 4,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "st"
+        },
+        {
+          "name": "Vishal Kumar",
+          "r": 4,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Pardeep Singh",
+          "balls": 18,
+          "r": 33,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Karan Bajwa",
+          "balls": 18,
+          "r": 12,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 12,
+          "r": 19,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Yermia Mall",
+          "balls": 6,
+          "r": 17,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vijay Singh",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Brar",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 6,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Vishal Kumar",
+          "balls": 7,
+          "r": 16,
+          "w": 0,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rajash Pallai",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2840",
+      "date": "2026-05-09",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "United XI CC",
+      "ground": "Elkins Cricket Ground",
+      "result": "United XI CC won by 33 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "United XI CC",
+          "runs": 164,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 131,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 16,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 28,
+          "b": 28,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vishesh Arora",
+          "r": 41,
+          "b": 36,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Kaamran Ali",
+          "r": 9,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 11,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Pardeep Singh",
+          "r": 7,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Anirudh Sridharan",
+          "r": 8,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Parminder Singh Sahota",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 24,
+          "r": 17,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 18,
+          "r": 54,
+          "w": 0,
+          "dots": 4,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Pardeep Singh",
+          "balls": 24,
+          "r": 25,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Vishal Kumar",
+          "balls": 18,
+          "r": 24,
+          "w": 2,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vijay Singh",
+          "balls": 24,
+          "r": 28,
+          "w": 2,
+          "dots": 9,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Parminder Singh Sahota",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Ibrahim Tahir",
+          "c",
+          1
+        ],
+        [
+          "Vishesh Arora",
+          "k",
+          2
+        ],
+        [
+          "Srini Chandrasekharan",
+          "c",
+          1
+        ],
+        [
+          "Parminder Singh Sahota",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2830",
+      "date": "2026-05-02",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Spartans CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Spartans CC won by 1 Run",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 93,
+          "wkts": 10,
+          "overs": "19.3"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 92,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shreyas Srinath",
+          "r": 40,
+          "b": 42,
+          "f": 3,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 10,
+          "b": 25,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Vishesh Arora",
+          "r": 0,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Umang Somani",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 21,
+          "b": 20,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Bajwa",
+          "r": 11,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 21,
+          "r": 14,
+          "w": 2,
+          "dots": 15,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Karan Bajwa",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 24,
+          "r": 9,
+          "w": 2,
+          "dots": 17,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Umang Somani",
+          "balls": 24,
+          "r": 22,
+          "w": 0,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 24,
+          "r": 28,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Faraz Zaidi",
+          "c",
+          1
+        ],
+        [
+          "Vaibhave Ubba",
+          "c",
+          1
+        ],
+        [
+          "Yermia Mall",
+          "r",
+          1
+        ],
+        [
+          "Shreyas Srinath",
+          "r",
+          2
+        ],
+        [
+          "Faraz Zaidi",
+          "r",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2828",
+      "date": "2026-04-25",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 151,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 35,
+          "wkts": 0,
+          "overs": "3.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Faraz Zaidi",
+          "r": 26,
+          "b": 27,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Shreyas Srinath",
+          "r": 46,
+          "b": 29,
+          "f": 1,
+          "s": 3,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Vishesh Arora",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 10,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Kaamran Ali",
+          "r": 8,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Karan Bajwa",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 26,
+          "b": 19,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Umang Somani",
+          "r": 9,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Pardeep Singh",
+          "r": 6,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Karan Bajwa",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 9,
+          "r": 22,
+          "w": 0,
+          "dots": 5,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2816",
+      "date": "2025-09-20",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Titans CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Titans CC won by 50 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 174,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 124,
+          "wkts": 10,
+          "overs": "18.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Faraz Zaidi",
+          "r": 16,
+          "b": 13,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Sridhar Manyem",
+          "r": 9,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Shreyas Srinath",
+          "r": 21,
+          "b": 20,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 6,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "r": 38,
+          "b": 34,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Umang Somani",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Sandeep Santhanem Pallikonda",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "lbw"
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 24,
+          "r": 30,
+          "w": 0,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sandeep Santhanem Pallikonda",
+          "balls": 24,
+          "r": 34,
+          "w": 2,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 24,
+          "r": 39,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "balls": 24,
+          "r": 41,
+          "w": 2,
+          "dots": 8,
+          "wd": 11,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 24,
+          "r": 28,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rajash Pallai",
+          "k",
+          1
+        ],
+        [
+          "Vishnu Radhakrishnan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2808",
+      "date": "2025-09-06",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Chargers CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Chargers CC won by 15 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chargers CC",
+          "runs": 130,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 115,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Faraz Zaidi",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 4,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Sridhar Manyem",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 19,
+          "b": 26,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "r": 34,
+          "b": 30,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 9,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Umang Somani",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Iqbal Rahman",
+          "r": 5,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Umang Somani",
+          "balls": 6,
+          "r": 11,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "balls": 24,
+          "r": 25,
+          "w": 2,
+          "dots": 14,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 24,
+          "r": 31,
+          "w": 1,
+          "dots": 14,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Iqbal Rahman",
+          "balls": 24,
+          "r": 28,
+          "w": 0,
+          "dots": 14,
+          "wd": 0,
+          "nb": 4
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 18,
+          "r": 14,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Yermia Mall",
+          "c",
+          1
+        ],
+        [
+          "Faraz Zaidi",
+          "c",
+          1
+        ],
+        [
+          "Vishnu Radhakrishnan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2802",
+      "date": "2025-08-23",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Vikings CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Prior CC won by 36 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 158,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Vikings CC",
+          "runs": 122,
+          "wkts": 10,
+          "overs": "17.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Rajash Pallai",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 47,
+          "b": 41,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Sridhar Manyem",
+          "r": 23,
+          "b": 23,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Rafiq Melath",
+          "r": 34,
+          "b": 25,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 7,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Scott Ellis",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "st"
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "r": 12,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 8,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Umang Somani",
+          "balls": 18,
+          "r": 25,
+          "w": 1,
+          "dots": 10,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Sandeep Santhanem Pallikonda",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 5,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Scott Ellis",
+          "balls": 12,
+          "r": 15,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "balls": 21,
+          "r": 21,
+          "w": 3,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ismail Asas",
+          "balls": 24,
+          "r": 25,
+          "w": 3,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rafiq Melath",
+          "balls": 18,
+          "r": 19,
+          "w": 2,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rajash Pallai",
+          "k",
+          2
+        ],
+        [
+          "Rafiq Melath",
+          "c",
+          3
+        ],
+        [
+          "Rafiq Melath",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2792",
+      "date": "2025-08-16",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Swat Lions CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Swat Lions CC won by 82 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 178,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 96,
+          "wkts": 10,
+          "overs": "16.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Faraz Zaidi",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 26,
+          "b": 24,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Rafiq Melath",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sridhar Manyem",
+          "r": 27,
+          "b": 27,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Shreyas Srinath",
+          "r": 28,
+          "b": 16,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Umang Somani",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Ismail Asas",
+          "r": 5,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 24,
+          "r": 26,
+          "w": 0,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 12,
+          "r": 31,
+          "w": 0,
+          "dots": 5,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Rafiq Melath",
+          "balls": 24,
+          "r": 40,
+          "w": 3,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 24,
+          "r": 36,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ismail Asas",
+          "balls": 24,
+          "r": 27,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Umang Somani",
+          "c",
+          1
+        ],
+        [
+          "Faraz Zaidi",
+          "c",
+          2
+        ],
+        [
+          "Rafiq Melath",
+          "r",
+          1
+        ],
+        [
+          "Rajash Pallai",
+          "r",
+          1
+        ],
+        [
+          "Rajash Pallai",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2781",
+      "date": "2025-08-09",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 17 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 173,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 156,
+          "wkts": 2,
+          "overs": "19"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Faraz Zaidi",
+          "r": 84,
+          "b": 56,
+          "f": 7,
+          "s": 2,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 4,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Shreyas Srinath",
+          "r": 30,
+          "b": 33,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 19,
+          "b": 24,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 24,
+          "r": 37,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 24,
+          "r": 32,
+          "w": 1,
+          "dots": 11,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 24,
+          "r": 41,
+          "w": 2,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ismail Asas",
+          "balls": 24,
+          "r": 32,
+          "w": 0,
+          "dots": 7,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 24,
+          "r": 31,
+          "w": 3,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rajash Pallai",
+          "k",
+          1
+        ],
+        [
+          "Rajash Pallai",
+          "c",
+          1
+        ],
+        [
+          "Anmol Brar",
+          "c",
+          2
+        ],
+        [
+          "Faraz Zaidi",
+          "r",
+          1
+        ],
+        [
+          "Shreyas Srinath",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2771",
+      "date": "2025-08-02",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Villanova CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 41,
+          "wkts": 10,
+          "overs": "14.5"
+        },
+        {
+          "team": "Villanova CC",
+          "runs": 42,
+          "wkts": 2,
+          "overs": "6.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shreyas Srinath",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Anuj Poddar",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Vijay Singh",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Akshat Mathur",
+          "r": 14,
+          "b": 40,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 4,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Umang Somani",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sanil Kagalwala",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "lbw"
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Ismail Asas",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Umang Somani",
+          "balls": 6,
+          "r": 11,
+          "w": 1,
+          "dots": 4,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Brar",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 2,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Sanil Kagalwala",
+          "balls": 2,
+          "r": 4,
+          "w": 0,
+          "dots": 0,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2768",
+      "date": "2025-08-02",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "East Coast CC",
+      "ground": "Prior Cricket Ground",
+      "result": "East Coast CC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 92,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 93,
+          "wkts": 7,
+          "overs": "17.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Anmol Brar",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Anuj Poddar",
+          "r": 32,
+          "b": 47,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "st"
+        },
+        {
+          "name": "Joe Smythe",
+          "r": 4,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "r": 13,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 27,
+          "b": 29,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Umang Somani",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Vijay Singh",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Ismail Asas",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "st"
+        },
+        {
+          "name": "Shri Nambiar",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Umang Somani",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ismail Asas",
+          "balls": 24,
+          "r": 22,
+          "w": 2,
+          "dots": 15,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Joe Smythe",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shri Nambiar",
+          "balls": 4,
+          "r": 1,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vaibhave Ubba",
+          "r",
+          1
+        ],
+        [
+          "Anmol Brar",
+          "r",
+          1
+        ],
+        [
+          "Vaibhave Ubba",
+          "c",
+          1
+        ],
+        [
+          "Umang Somani",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2753",
+      "date": "2025-07-26",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Titans CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Prior CC won by 75 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 144,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 69,
+          "wkts": 10,
+          "overs": "15.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shreyas Srinath",
+          "r": 11,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vir Acharya",
+          "r": 19,
+          "b": 34,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "rt"
+        },
+        {
+          "name": "Prince Sangwan",
+          "r": 42,
+          "b": 36,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 24,
+          "b": 17,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 16,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "st"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Prince Sangwan",
+          "balls": 18,
+          "r": 26,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 18,
+          "r": 6,
+          "w": 4,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Umang Somani",
+          "balls": 12,
+          "r": 5,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ismail Asas",
+          "balls": 12,
+          "r": 9,
+          "w": 2,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Vijay Singh",
+          "balls": 9,
+          "r": 8,
+          "w": 1,
+          "dots": 7,
+          "wd": 6,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rajash Pallai",
+          "k",
+          1
+        ],
+        [
+          "Vaibhave Ubba",
+          "c",
+          1
+        ],
+        [
+          "Anmol Brar",
+          "c",
+          1
+        ],
+        [
+          "Umang Somani",
+          "r",
+          1
+        ],
+        [
+          "Ismail Asas",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2744",
+      "date": "2025-07-19",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "NJ Challengers CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "NJ Challengers CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2734",
+      "date": "2025-07-12",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Spartans CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Spartans CC won by 56 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 145,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 89,
+          "wkts": 10,
+          "overs": "17.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Rafiq Melath",
+          "r": 18,
+          "b": 33,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 11,
+          "b": 6,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "rt"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Tremali Mills",
+          "r": 21,
+          "b": 27,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "st"
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 11,
+          "b": 11,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Vijay Singh",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "st"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Scott Ellis",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Sabeeh Khan",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 18,
+          "r": 20,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Scott Ellis",
+          "balls": 24,
+          "r": 38,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rafiq Melath",
+          "balls": 24,
+          "r": 25,
+          "w": 2,
+          "dots": 13,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 24,
+          "r": 28,
+          "w": 0,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Sabeeh Khan",
+          "balls": 18,
+          "r": 14,
+          "w": 3,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Anmol Brar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2722",
+      "date": "2025-06-28",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Stumperz CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Prior CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Stumperz CC",
+          "runs": 95,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 96,
+          "wkts": 4,
+          "overs": "14.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Shreyas Srinath",
+          "r": 10,
+          "b": 17,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 25,
+          "b": 25,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "st"
+        },
+        {
+          "name": "Prince Sangwan",
+          "r": 14,
+          "b": 7,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 14,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 15,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 18,
+          "r": 16,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Prince Sangwan",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Terence Fernandes",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Anmol Brar",
+          "c",
+          1
+        ],
+        [
+          "Srini Chandrasekharan",
+          "r",
+          1
+        ],
+        [
+          "Sanil Kagalwala",
+          "c",
+          1
+        ],
+        [
+          "Sanil Kagalwala",
+          "r",
+          1
+        ],
+        [
+          "Vaibhave Ubba",
+          "c",
+          1
+        ],
+        [
+          "Ibrahim Tahir",
+          "r",
+          1
+        ],
+        [
+          "Prince Sangwan",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2714",
+      "date": "2025-06-21",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Prior CC won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 180,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 181,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Faraz Zaidi",
+          "r": 42,
+          "b": 33,
+          "f": 5,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Srini Chandrasekharan",
+          "r": 28,
+          "b": 13,
+          "f": 3,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Shreyas Srinath",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Rajash Pallai",
+          "r": 33,
+          "b": 23,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sanil Kagalwala",
+          "r": 7,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Yermia Mall",
+          "r": 27,
+          "b": 21,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "r": 26,
+          "b": 14,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Prince Sangwan",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Umang Somani",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Anuj Poddar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Anmol Brar",
+          "r": 10,
+          "b": 3,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shreyas Srinath",
+          "balls": 24,
+          "r": 46,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Umang Somani",
+          "balls": 12,
+          "r": 26,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Prince Sangwan",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Yermia Mall",
+          "balls": 12,
+          "r": 20,
+          "w": 1,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Anmol Brar",
+          "balls": 12,
+          "r": 36,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 12,
+          "r": 15,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Yermia Mall",
+          "c",
+          1
+        ],
+        [
+          "Shreyas Srinath",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2696",
+      "date": "2025-06-07",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Phoenix CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Phoenix CC",
+          "runs": 81,
+          "wkts": 4,
+          "overs": "14"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [
+        {
+          "name": "Sandeep Santhanem Pallikonda",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vaibhave Ubba",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Umang Somani",
+          "balls": 18,
+          "r": 21,
+          "w": 3,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishnu Radhakrishnan",
+          "balls": 18,
+          "r": 11,
+          "w": 0,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shreyas Srinath",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Tremali Mills",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Tahir",
+          "balls": 6,
+          "r": 5,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vishnu Radhakrishnan",
+          "c",
+          1
+        ],
+        [
+          "Sandeep Santhanem Pallikonda",
+          "c",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 10
+}

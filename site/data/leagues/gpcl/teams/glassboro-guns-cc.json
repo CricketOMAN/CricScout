@@ -1,0 +1,5052 @@
+{
+  "team": "Glassboro Guns CC",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+  "logos": {
+    "PivotalTech's Rockers": "https://media.cricclubs.com/documentsRep/teamLogos/0bacbd61-e786-4be8-b7ff-391c7d4306ee.jpg",
+    "Spartans CC": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+    "Phoenix CC": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+    "Galloway CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Titans CC": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+    "British Officers CC": "https://media.cricclubs.com/documentsRep/teamLogos/0731bc29-a4b1-437a-a615-fba5caac732a.jpg",
+    "Lehigh Valley CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+    "Khyber CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-224.jpg",
+    "Echelon CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-234.jpg",
+    "Stallions CC": "https://media.cricclubs.com/documentsRep/teamLogos/50a8a599-4597-4092-85cf-7fb7aff33cac.jpg",
+    "South Jersey CC": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+    "StarSportsUS Future Stars CC": "https://media.cricclubs.com/documentsRep/teamLogos/3418eaf9-6553-424e-9a47-9e22c435e258.png",
+    "Chester County Cricket Academy Lions CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Glassboro Guns CC": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+    "Villanova CC": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+    "United XI CC": "https://media.cricclubs.com/documentsRep/teamLogos/f3a8c11c-01a1-4861-ad15-0e0cc28b71cd.jpg",
+    "Chargers CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+    "Vikings CC": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+    "Prior CC": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+    "Bensalem CC": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+    "Swat Lions CC": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+    "Stumperz CC": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+    "NJ Challengers CC": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+    "East Coast CC": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg"
+  },
+  "league": {
+    "code": "GPCL",
+    "name": "GPCL - Greater Philadelphia Cricket League"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-46",
+      "name": "2026 GPCL 40",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:32.881Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=46&clubId=48",
+        "players": {}
+      }
+    },
+    "last": {
+      "id": "legacy-45",
+      "name": "2026 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:40.269Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:40.269Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=45&clubId=48",
+        "players": {
+          "jasz singh": {
+            "name": "Jasz Singh",
+            "matches": 7,
+            "batting": 247,
+            "bowling": 247,
+            "fielding": 46,
+            "other": 75,
+            "mom": 3,
+            "total": 615
+          },
+          "atiqul islam": {
+            "name": "Atiqul Islam",
+            "matches": 8,
+            "batting": 69,
+            "bowling": 362,
+            "fielding": 0,
+            "other": 25,
+            "mom": 1,
+            "total": 456
+          },
+          "karan patel": {
+            "name": "Karan Patel",
+            "matches": 7,
+            "batting": 163,
+            "bowling": 176,
+            "fielding": 86,
+            "other": 25,
+            "mom": 1,
+            "total": 450
+          },
+          "dhruv patel": {
+            "name": "Dhruv Patel",
+            "matches": 11,
+            "batting": 326,
+            "bowling": 20,
+            "fielding": 48,
+            "other": 25,
+            "mom": 1,
+            "total": 419
+          },
+          "akhilesh patel": {
+            "name": "Akhilesh Patel",
+            "matches": 9,
+            "batting": 84,
+            "bowling": 206,
+            "fielding": 38,
+            "other": 25,
+            "mom": 1,
+            "total": 353
+          },
+          "dipen patel": {
+            "name": "Dipen Patel",
+            "matches": 9,
+            "batting": 218,
+            "bowling": 0,
+            "fielding": 30,
+            "other": 0,
+            "mom": 0,
+            "total": 248
+          },
+          "aqeel ech shah": {
+            "name": "Aqeel Ech Shah",
+            "matches": 8,
+            "batting": 26,
+            "bowling": 103,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 149
+          },
+          "sidharth nambiar": {
+            "name": "Sidharth Nambiar",
+            "matches": 4,
+            "batting": 98,
+            "bowling": 20,
+            "fielding": 22,
+            "other": 0,
+            "mom": 0,
+            "total": 140
+          },
+          "bhavesh patel": {
+            "name": "Bhavesh Patel",
+            "matches": 5,
+            "batting": 2,
+            "bowling": 111,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 121
+          },
+          "miraj tahir": {
+            "name": "Miraj Tahir",
+            "matches": 4,
+            "batting": 110,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 110
+          },
+          "fardin nakum": {
+            "name": "Fardin Nakum",
+            "matches": 4,
+            "batting": 11,
+            "bowling": 72,
+            "fielding": 0,
+            "other": 25,
+            "mom": 1,
+            "total": 108
+          },
+          "mayank ray": {
+            "name": "Mayank Ray",
+            "matches": 4,
+            "batting": 21,
+            "bowling": 56,
+            "fielding": 28,
+            "other": 0,
+            "mom": 0,
+            "total": 105
+          },
+          "shiv patel": {
+            "name": "Shiv Patel",
+            "matches": 5,
+            "batting": 22,
+            "bowling": 74,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 104
+          },
+          "jwalit ray": {
+            "name": "Jwalit Ray",
+            "matches": 4,
+            "batting": 2,
+            "bowling": 82,
+            "fielding": 18,
+            "other": 0,
+            "mom": 0,
+            "total": 102
+          },
+          "kushal viru": {
+            "name": "Kushal Viru",
+            "matches": 1,
+            "batting": 86,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 86
+          },
+          "utkarsh patel": {
+            "name": "Utkarsh Patel",
+            "matches": 9,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 46,
+            "other": 0,
+            "mom": 0,
+            "total": 46
+          },
+          "pankaj patel": {
+            "name": "Pankaj Patel",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 45,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 45
+          },
+          "shazzad shoqe": {
+            "name": "Shazzad Shoqe",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 40,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 40
+          },
+          "dhruven patel": {
+            "name": "Dhruven Patel",
+            "matches": 4,
+            "batting": 35,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 35
+          },
+          "tamjid chowdhury": {
+            "name": "Tamjid Chowdhury",
+            "matches": 3,
+            "batting": 6,
+            "bowling": 0,
+            "fielding": 28,
+            "other": 0,
+            "mom": 0,
+            "total": 34
+          },
+          "dhaval panchal": {
+            "name": "Dhaval Panchal",
+            "matches": 2,
+            "batting": 26,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 26
+          },
+          "gaurav tyagi": {
+            "name": "Gaurav Tyagi",
+            "matches": 1,
+            "batting": 26,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 26
+          },
+          "deep patel": {
+            "name": "Deep Patel",
+            "matches": 1,
+            "batting": 10,
+            "bowling": -1,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 25
+          },
+          "soripul islam": {
+            "name": "Soripul Islam",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 19,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 25
+          },
+          "dhavalsinh dabhi": {
+            "name": "Dhavalsinh dabhi",
+            "matches": 2,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 25
+          },
+          "viraj patel": {
+            "name": "Viraj Patel",
+            "matches": 1,
+            "batting": 5,
+            "bowling": 0,
+            "fielding": 14,
+            "other": 0,
+            "mom": 0,
+            "total": 19
+          },
+          "fenil patel": {
+            "name": "Fenil Patel",
+            "matches": 2,
+            "batting": 2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 2
+          },
+          "abhishek gupta": {
+            "name": "Abhishek Gupta",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "rovin dushraj": {
+            "name": "Rovin Dushraj",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "sai vikas diddi": {
+            "name": "Sai Vikas Diddi",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -2
+          }
+        }
+      }
+    },
+    "prev2": {
+      "id": "legacy-43",
+      "name": "2025 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:47.652Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:47.652Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=43&clubId=48",
+        "players": {
+          "mayank ray": {
+            "name": "Mayank Ray",
+            "matches": 8,
+            "batting": 28,
+            "bowling": 378,
+            "fielding": 40,
+            "other": 25,
+            "mom": 1,
+            "total": 471
+          },
+          "aqeel ech shah": {
+            "name": "Aqeel Ech Shah",
+            "matches": 10,
+            "batting": 122,
+            "bowling": 315,
+            "fielding": 28,
+            "other": 0,
+            "mom": 0,
+            "total": 465
+          },
+          "fardin nakum": {
+            "name": "Fardin Nakum",
+            "matches": 10,
+            "batting": 73,
+            "bowling": 182,
+            "fielding": 88,
+            "other": 25,
+            "mom": 1,
+            "total": 368
+          },
+          "jwalit ray": {
+            "name": "Jwalit Ray",
+            "matches": 7,
+            "batting": 104,
+            "bowling": 223,
+            "fielding": 34,
+            "other": 0,
+            "mom": 0,
+            "total": 361
+          },
+          "karan patel": {
+            "name": "Karan Patel",
+            "matches": 8,
+            "batting": 186,
+            "bowling": 126,
+            "fielding": 48,
+            "other": 0,
+            "mom": 0,
+            "total": 360
+          },
+          "akhilesh patel": {
+            "name": "Akhilesh Patel",
+            "matches": 8,
+            "batting": 209,
+            "bowling": 125,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 350
+          },
+          "sidharth nambiar": {
+            "name": "Sidharth Nambiar",
+            "matches": 6,
+            "batting": 215,
+            "bowling": 17,
+            "fielding": 52,
+            "other": 0,
+            "mom": 0,
+            "total": 284
+          },
+          "fenil patel": {
+            "name": "Fenil Patel",
+            "matches": 5,
+            "batting": 211,
+            "bowling": 0,
+            "fielding": 32,
+            "other": 25,
+            "mom": 1,
+            "total": 268
+          },
+          "atiqul islam": {
+            "name": "Atiqul Islam",
+            "matches": 3,
+            "batting": 28,
+            "bowling": 227,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 255
+          },
+          "dhruv patel": {
+            "name": "Dhruv Patel",
+            "matches": 10,
+            "batting": 144,
+            "bowling": 34,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 194
+          },
+          "sanjay pandya": {
+            "name": "Sanjay Pandya",
+            "matches": 3,
+            "batting": 11,
+            "bowling": 160,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 171
+          },
+          "charanjeet singh": {
+            "name": "Charanjeet Singh",
+            "matches": 4,
+            "batting": 51,
+            "bowling": 112,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 163
+          },
+          "likith mk": {
+            "name": "Likith Mk",
+            "matches": 1,
+            "batting": 99,
+            "bowling": 19,
+            "fielding": 14,
+            "other": 25,
+            "mom": 1,
+            "total": 157
+          },
+          "gaurav tyagi": {
+            "name": "Gaurav Tyagi",
+            "matches": 5,
+            "batting": 101,
+            "bowling": 0,
+            "fielding": 54,
+            "other": 0,
+            "mom": 0,
+            "total": 155
+          },
+          "dhruven patel": {
+            "name": "Dhruven Patel",
+            "matches": 4,
+            "batting": 125,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 133
+          },
+          "tamjid chowdhury": {
+            "name": "Tamjid Chowdhury",
+            "matches": 4,
+            "batting": 96,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 25,
+            "mom": 1,
+            "total": 129
+          },
+          "bhavesh patel": {
+            "name": "Bhavesh Patel",
+            "matches": 7,
+            "batting": 72,
+            "bowling": 0,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 88
+          },
+          "subhash appari": {
+            "name": "Subhash Appari",
+            "matches": 4,
+            "batting": 41,
+            "bowling": 0,
+            "fielding": 36,
+            "other": 0,
+            "mom": 0,
+            "total": 77
+          },
+          "sai vikas diddi": {
+            "name": "Sai Vikas Diddi",
+            "matches": 6,
+            "batting": 0,
+            "bowling": 44,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 60
+          },
+          "deep patel": {
+            "name": "Deep Patel",
+            "matches": 4,
+            "batting": 3,
+            "bowling": 30,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 57
+          },
+          "bharagv varun vemuri": {
+            "name": "Bharagv Varun Vemuri",
+            "matches": 2,
+            "batting": 3,
+            "bowling": 20,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 39
+          },
+          "alpesh chaudhari": {
+            "name": "Alpesh Chaudhari",
+            "matches": 1,
+            "batting": 38,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 38
+          },
+          "teja reddy lasmaie": {
+            "name": "Teja Reddy Lasmaie",
+            "matches": 2,
+            "batting": 19,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 27
+          },
+          "kushal viru": {
+            "name": "Kushal Viru",
+            "matches": 1,
+            "batting": 9,
+            "bowling": 0,
+            "fielding": 14,
+            "other": 0,
+            "mom": 0,
+            "total": 23
+          },
+          "suman kumar oraon": {
+            "name": "Suman Kumar Oraon",
+            "matches": 3,
+            "batting": 23,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 23
+          },
+          "surendra rathod": {
+            "name": "Surendra Rathod",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 2,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 2
+          },
+          "utkarsh patel": {
+            "name": "Utkarsh Patel",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "pankaj patel": {
+            "name": "Pankaj Patel",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "dhaval patel": {
+            "name": "Dhaval Patel",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "dhavalsinh dabhi": {
+            "name": "Dhavalsinh dabhi",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -2
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-2992",
+      "date": "2026-09-12",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Chargers CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Chargers CC won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 151,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Chargers CC",
+          "runs": 152,
+          "wkts": 9,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dhruven Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jasz Singh",
+          "r": 35,
+          "b": 26,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 8,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 21,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 49,
+          "b": 33,
+          "f": 3,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Shiv Patel",
+          "r": 5,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Atiqul Islam",
+          "r": 20,
+          "b": 11,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Karan Patel",
+          "balls": 24,
+          "r": 23,
+          "w": 1,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 24,
+          "r": 34,
+          "w": 3,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jasz Singh",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 20,
+          "r": 26,
+          "w": 1,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 12,
+          "r": 20,
+          "w": 1,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mayank Ray",
+          "c",
+          1
+        ],
+        [
+          "Jasz Singh",
+          "c",
+          2
+        ],
+        [
+          "Karan Patel",
+          "c",
+          1
+        ],
+        [
+          "Dhruv Patel",
+          "c",
+          2
+        ],
+        [
+          "Dipen Patel",
+          "r",
+          1
+        ],
+        [
+          "Jwalit Ray",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2988",
+      "date": "2026-08-29",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Titans CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Titans CC won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 171,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 172,
+          "wkts": 9,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dhruven Patel",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 10,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Sidharth Nambiar",
+          "r": 30,
+          "b": 17,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 28,
+          "b": 29,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Mayank Ray",
+          "r": 19,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 46,
+          "b": 32,
+          "f": 1,
+          "s": 2,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Shiv Patel",
+          "r": 11,
+          "b": 7,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Karan Patel",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 18,
+          "r": 27,
+          "w": 1,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 24,
+          "r": 40,
+          "w": 1,
+          "dots": 5,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 12,
+          "r": 29,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 24,
+          "r": 31,
+          "w": 3,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 6,
+          "r": 16,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sidharth Nambiar",
+          "balls": 11,
+          "r": 11,
+          "w": 1,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mayank Ray",
+          "c",
+          1
+        ],
+        [
+          "Utkarsh Patel",
+          "k",
+          1
+        ],
+        [
+          "Dhruv Patel",
+          "c",
+          1
+        ],
+        [
+          "Karan Patel",
+          "c",
+          2
+        ],
+        [
+          "Utkarsh Patel",
+          "c",
+          1
+        ],
+        [
+          "Sidharth Nambiar",
+          "c",
+          1
+        ],
+        [
+          "Jwalit Ray",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2980",
+      "date": "2026-08-22",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Glassboro Guns CC won by 6 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 140,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 134,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Miraj Tahir",
+          "r": 14,
+          "b": 13,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 19,
+          "b": 13,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Sidharth Nambiar",
+          "r": 7,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 11,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Jasz Singh",
+          "r": 10,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 41,
+          "b": 35,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Atiqul Islam",
+          "r": 4,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Mayank Ray",
+          "r": 7,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Karan Patel",
+          "balls": 18,
+          "r": 26,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 24,
+          "r": 28,
+          "w": 2,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jasz Singh",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sidharth Nambiar",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Dhruv Patel",
+          "c",
+          1
+        ],
+        [
+          "Dipen Patel",
+          "c",
+          1
+        ],
+        [
+          "Sidharth Nambiar",
+          "r",
+          1
+        ],
+        [
+          "Jasz Singh",
+          "r",
+          1
+        ],
+        [
+          "Karan Patel",
+          "c",
+          1
+        ],
+        [
+          "Tamjid Chowdhury",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2968",
+      "date": "2026-08-15",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Stumperz CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Forfeited. Winner: Glassboro Guns CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Stumperz CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2919",
+      "date": "2026-08-01",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Swat Lions CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Forfeited. Winner: Glassboro Guns CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2928",
+      "date": "2026-07-18",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Titans CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 5 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 161,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 156,
+          "wkts": 4,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dipen Patel",
+          "r": 8,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruven Patel",
+          "r": 21,
+          "b": 12,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Miraj Tahir",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Dhaval Panchal",
+          "r": 18,
+          "b": 14,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 18,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Jasz Singh",
+          "r": 45,
+          "b": 33,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 18,
+          "b": 13,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Atiqul Islam",
+          "r": 24,
+          "b": 12,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Karan Patel",
+          "balls": 24,
+          "r": 31,
+          "w": 0,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jasz Singh",
+          "balls": 24,
+          "r": 25,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 12,
+          "r": 29,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 24,
+          "r": 24,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 24,
+          "r": 31,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 12,
+          "r": 15,
+          "w": 0,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Karan Patel",
+          "c",
+          2
+        ],
+        [
+          "Akhilesh Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2916",
+      "date": "2026-07-11",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Bensalem CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Bensalem CC",
+          "runs": 12,
+          "wkts": 0,
+          "overs": "2.5"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [
+        {
+          "name": "Karan Patel",
+          "balls": 11,
+          "r": 9,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2920",
+      "date": "2026-06-27",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Forfeited. Winner: Glassboro Guns CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2881",
+      "date": "2026-06-13",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Vikings CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Vikings CC",
+          "runs": 149,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 153,
+          "wkts": 7,
+          "overs": "16.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dhruven Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 47,
+          "b": 20,
+          "f": 3,
+          "s": 4,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Miraj Tahir",
+          "r": 53,
+          "b": 33,
+          "f": 4,
+          "s": 3,
+          "out": true,
+          "pos": 3,
+          "how": "st"
+        },
+        {
+          "name": "Jasz Singh",
+          "r": 2,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 18,
+          "b": 7,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 12,
+          "b": 15,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Utkarsh Patel",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Deep Patel",
+          "r": 8,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Deep Patel",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 24,
+          "r": 32,
+          "w": 3,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jasz Singh",
+          "balls": 24,
+          "r": 23,
+          "w": 1,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 24,
+          "r": 30,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bhavesh Patel",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 24,
+          "r": 22,
+          "w": 3,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Utkarsh Patel",
+          "c",
+          1
+        ],
+        [
+          "Deep Patel",
+          "c",
+          2
+        ],
+        [
+          "Dipen Patel",
+          "c",
+          1
+        ],
+        [
+          "Jasz Singh",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2866",
+      "date": "2026-06-06",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "United XI CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "United XI CC",
+          "runs": 44,
+          "wkts": 10,
+          "overs": "14.3"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 47,
+          "wkts": 0,
+          "overs": "5.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Gaurav Tyagi",
+          "r": 20,
+          "b": 20,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 22,
+          "b": 13,
+          "f": 3,
+          "s": 1,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Karan Patel",
+          "balls": 15,
+          "r": 7,
+          "w": 2,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 18,
+          "r": 12,
+          "w": 5,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shiv Patel",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Pankaj Patel",
+          "balls": 18,
+          "r": 5,
+          "w": 1,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 18,
+          "r": 5,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 6,
+          "r": 6,
+          "w": 1,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Karan Patel",
+          "c",
+          2
+        ],
+        [
+          "Karan Patel",
+          "r",
+          1
+        ],
+        [
+          "Utkarsh Patel",
+          "r",
+          1
+        ],
+        [
+          "Akhilesh Patel",
+          "c",
+          2
+        ],
+        [
+          "Dipen Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2850",
+      "date": "2026-05-16",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Chargers CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 6 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 136,
+          "wkts": 10,
+          "overs": "19.4"
+        },
+        {
+          "team": "Chargers CC",
+          "runs": 130,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sidharth Nambiar",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Miraj Tahir",
+          "r": 7,
+          "b": 4,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jasz Singh",
+          "r": 4,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 6,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 66,
+          "b": 55,
+          "f": 3,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 23,
+          "b": 19,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 4,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Bhavesh Patel",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Shiv Patel",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Utkarsh Patel",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Karan Patel",
+          "balls": 24,
+          "r": 29,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Jasz Singh",
+          "balls": 24,
+          "r": 33,
+          "w": 2,
+          "dots": 9,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 24,
+          "r": 9,
+          "w": 0,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shiv Patel",
+          "balls": 24,
+          "r": 25,
+          "w": 3,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Bhavesh Patel",
+          "balls": 12,
+          "r": 12,
+          "w": 2,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Akhilesh Patel",
+          "c",
+          1
+        ],
+        [
+          "Karan Patel",
+          "c",
+          2
+        ],
+        [
+          "Dhruv Patel",
+          "c",
+          1
+        ],
+        [
+          "Sidharth Nambiar",
+          "c",
+          1
+        ],
+        [
+          "Tamjid Chowdhury",
+          "c",
+          1
+        ],
+        [
+          "Utkarsh Patel",
+          "k",
+          1
+        ],
+        [
+          "Shiv Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2831",
+      "date": "2026-05-02",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "Elkins Cricket Ground",
+      "result": "Glassboro Guns CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 156,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 157,
+          "wkts": 4,
+          "overs": "17.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Dipen Patel",
+          "r": 35,
+          "b": 25,
+          "f": 4,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jasz Singh",
+          "r": 91,
+          "b": 59,
+          "f": 11,
+          "s": 2,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Fenil Patel",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavesh Patel",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 16,
+          "b": 9,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Atiqul Islam",
+          "balls": 24,
+          "r": 36,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 24,
+          "r": 33,
+          "w": 1,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Jasz Singh",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Shiv Patel",
+          "balls": 24,
+          "r": 24,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bhavesh Patel",
+          "balls": 24,
+          "r": 28,
+          "w": 3,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aqeel Ech Shah",
+          "r",
+          1
+        ],
+        [
+          "Jasz Singh",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2828",
+      "date": "2026-04-25",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Prior CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 151,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 35,
+          "wkts": 0,
+          "overs": "3.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sidharth Nambiar",
+          "r": 30,
+          "b": 18,
+          "f": 4,
+          "s": 1,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shazzad Shoqe",
+          "balls": 24,
+          "r": 43,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 18,
+          "r": 29,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 24,
+          "r": 15,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 24,
+          "r": 18,
+          "w": 3,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 24,
+          "r": 36,
+          "w": 1,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Aqeel Ech Shah",
+          "c",
+          1
+        ],
+        [
+          "Utkarsh Patel",
+          "k",
+          1
+        ],
+        [
+          "Mayank Ray",
+          "r",
+          1
+        ],
+        [
+          "Bhavesh Patel",
+          "c",
+          1
+        ],
+        [
+          "Tamjid Chowdhury",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2820",
+      "date": "2025-09-27",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Villanova CC won by 87 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 211,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 124,
+          "wkts": 10,
+          "overs": "17.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dhruven Patel",
+          "r": 4,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sidharth Nambiar",
+          "r": 7,
+          "b": 4,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 45,
+          "b": 31,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Fenil Patel",
+          "r": 9,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Subhash Appari",
+          "r": 20,
+          "b": 12,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 10,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 13,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Mayank Ray",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 3,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 12,
+          "r": 24,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Karan Patel",
+          "balls": 18,
+          "r": 36,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 11,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 24,
+          "r": 42,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 18,
+          "r": 32,
+          "w": 2,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 12,
+          "r": 26,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 12,
+          "r": 21,
+          "w": 1,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Jwalit Ray",
+          "c",
+          3
+        ],
+        [
+          "Karan Patel",
+          "c",
+          1
+        ],
+        [
+          "Dhruv Patel",
+          "c",
+          1
+        ],
+        [
+          "Dhruven Patel",
+          "c",
+          1
+        ],
+        [
+          "Mayank Ray",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2819",
+      "date": "2025-09-20",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "NJ Challengers CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NJ Challengers CC",
+          "runs": 152,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 153,
+          "wkts": 3,
+          "overs": "17.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dhruven Patel",
+          "r": 68,
+          "b": 49,
+          "f": 3,
+          "s": 3,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Sidharth Nambiar",
+          "r": 38,
+          "b": 27,
+          "f": 6,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 11,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Fenil Patel",
+          "r": 27,
+          "b": 21,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 4,
+          "b": 1,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jwalit Ray",
+          "balls": 24,
+          "r": 39,
+          "w": 1,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Karan Patel",
+          "balls": 24,
+          "r": 24,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sanjay Pandya",
+          "balls": 24,
+          "r": 26,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 24,
+          "r": 28,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 6,
+          "r": 15,
+          "w": 0,
+          "dots": 2,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Fardin Nakum",
+          "c",
+          1
+        ],
+        [
+          "Bhavesh Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2815",
+      "date": "2025-09-13",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "NJ Challengers CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Glassboro Guns CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NJ Challengers CC",
+          "runs": 71,
+          "wkts": 10,
+          "overs": "18.4"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 72,
+          "wkts": 5,
+          "overs": "13.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dhruven Patel",
+          "r": 16,
+          "b": 14,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 13,
+          "b": 27,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Utkarsh Patel",
+          "r": 5,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 18,
+          "b": 13,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Mayank Ray",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 24,
+          "r": 16,
+          "w": 2,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Karan Patel",
+          "balls": 18,
+          "r": 13,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sanjay Pandya",
+          "balls": 24,
+          "r": 17,
+          "w": 3,
+          "dots": 16,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 24,
+          "r": 7,
+          "w": 2,
+          "dots": 19,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 10,
+          "r": 5,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aqeel Ech Shah",
+          "r",
+          1
+        ],
+        [
+          "Mayank Ray",
+          "c",
+          1
+        ],
+        [
+          "Dhruv Patel",
+          "c",
+          1
+        ],
+        [
+          "Karan Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2781",
+      "date": "2025-08-09",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Prior CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 17 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 173,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 156,
+          "wkts": 2,
+          "overs": "19"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Bhavesh Patel",
+          "r": 27,
+          "b": 20,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Alpesh Chaudhari",
+          "r": 32,
+          "b": 31,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 54,
+          "b": 35,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 10,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Charanjeet Singh",
+          "r": 8,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Suman Kumar Oraon",
+          "r": 8,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "r": 15,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 4,
+          "b": 1,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Charanjeet Singh",
+          "balls": 24,
+          "r": 40,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 24,
+          "r": 29,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 24,
+          "r": 25,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 12,
+          "r": 24,
+          "w": 0,
+          "dots": 3,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 18,
+          "r": 17,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aqeel Ech Shah",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2772",
+      "date": "2025-08-02",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Stumperz CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 93 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 172,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Stumperz CC",
+          "runs": 79,
+          "wkts": 8,
+          "overs": "17.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sidharth Nambiar",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Mayank Ray",
+          "r": 19,
+          "b": 26,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Fenil Patel",
+          "r": 32,
+          "b": 16,
+          "f": 1,
+          "s": 4,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 38,
+          "b": 27,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "r": 14,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Charanjeet Singh",
+          "r": 25,
+          "b": 17,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 27,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 12,
+          "r": 8,
+          "w": 2,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 22,
+          "r": 5,
+          "w": 2,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Deep Patel",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Charanjeet Singh",
+          "balls": 18,
+          "r": 17,
+          "w": 1,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Karan Patel",
+          "balls": 12,
+          "r": 3,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sidharth Nambiar",
+          "balls": 12,
+          "r": 21,
+          "w": 1,
+          "dots": 4,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Fenil Patel",
+          "k",
+          2
+        ],
+        [
+          "Tamjid Chowdhury",
+          "c",
+          1
+        ],
+        [
+          "Fardin Nakum",
+          "c",
+          4
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2755",
+      "date": "2025-07-26",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Glassboro Guns CC won by 25 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 199,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 174,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Gaurav Tyagi",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sidharth Nambiar",
+          "r": 42,
+          "b": 21,
+          "f": 6,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 15,
+          "b": 13,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Fenil Patel",
+          "r": 76,
+          "b": 39,
+          "f": 2,
+          "s": 8,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 23,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Charanjeet Singh",
+          "r": 7,
+          "b": 4,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 6,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavesh Patel",
+          "r": 11,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Charanjeet Singh",
+          "balls": 24,
+          "r": 28,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 18,
+          "r": 46,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Karan Patel",
+          "balls": 24,
+          "r": 31,
+          "w": 4,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 24,
+          "r": 31,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 24,
+          "r": 34,
+          "w": 2,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sai Vikas Diddi",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Fardin Nakum",
+          "c",
+          1
+        ],
+        [
+          "Fenil Patel",
+          "k",
+          1
+        ],
+        [
+          "Karan Patel",
+          "c",
+          1
+        ],
+        [
+          "Sidharth Nambiar",
+          "c",
+          3
+        ],
+        [
+          "Fenil Patel",
+          "c",
+          1
+        ],
+        [
+          "Sai Vikas Diddi",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2742",
+      "date": "2025-07-19",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 123,
+          "wkts": 10,
+          "overs": "19.4"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 125,
+          "wkts": 7,
+          "overs": "18.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Gaurav Tyagi",
+          "r": 18,
+          "b": 20,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Bhavesh Patel",
+          "r": 6,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "r": 45,
+          "b": 47,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Karan Patel",
+          "r": 13,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Mayank Ray",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 16,
+          "b": 12,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Sai Vikas Diddi",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 18,
+          "b": 10,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Deep Patel",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 22,
+          "r": 25,
+          "w": 3,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Surendra Rathod",
+          "balls": 18,
+          "r": 21,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 24,
+          "r": 16,
+          "w": 3,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Karan Patel",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 24,
+          "r": 22,
+          "w": 3,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 2,
+          "wd": 5,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Karan Patel",
+          "c",
+          2
+        ],
+        [
+          "Deep Patel",
+          "c",
+          1
+        ],
+        [
+          "Fardin Nakum",
+          "r",
+          1
+        ],
+        [
+          "Mayank Ray",
+          "c",
+          1
+        ],
+        [
+          "Fardin Nakum",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2733",
+      "date": "2025-07-12",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "East Coast CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 4 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 153,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "East Coast CC",
+          "runs": 149,
+          "wkts": 10,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sidharth Nambiar",
+          "r": 56,
+          "b": 30,
+          "f": 6,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Gaurav Tyagi",
+          "r": 7,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 13,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Atiqul Islam",
+          "r": 26,
+          "b": 35,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 12,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 5,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Bhavesh Patel",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 5,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Charanjeet Singh",
+          "balls": 24,
+          "r": 27,
+          "w": 2,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 24,
+          "r": 33,
+          "w": 2,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atiqul Islam",
+          "balls": 24,
+          "r": 5,
+          "w": 5,
+          "dots": 20,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 20,
+          "r": 31,
+          "w": 1,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 12,
+          "r": 19,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Tamjid Chowdhury",
+          "balls": 6,
+          "r": 21,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Gaurav Tyagi",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Tyagi",
+          "k",
+          2
+        ],
+        [
+          "Sidharth Nambiar",
+          "c",
+          2
+        ],
+        [
+          "Akhilesh Patel",
+          "c",
+          1
+        ],
+        [
+          "Fardin Nakum",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2711",
+      "date": "2025-06-21",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Spartans CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Spartans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 139,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 140,
+          "wkts": 1,
+          "overs": "14.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dhruven Patel",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Tyagi",
+          "r": 37,
+          "b": 30,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 28,
+          "b": 24,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 37,
+          "b": 24,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "st"
+        },
+        {
+          "name": "Sai Vikas Diddi",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Dhavalsinh Dabhi",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Deep Patel",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 13,
+          "b": 5,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 18,
+          "r": 13,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 12,
+          "r": 15,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Deep Patel",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sai Vikas Diddi",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 1,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Karan Patel",
+          "balls": 6,
+          "r": 21,
+          "w": 0,
+          "dots": 0,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 12,
+          "r": 24,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 12,
+          "r": 20,
+          "w": 0,
+          "dots": 4,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhavalsinh Dabhi",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhruven Patel",
+          "balls": 1,
+          "r": 4,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Vikas Diddi",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2705",
+      "date": "2025-06-14",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Villanova CC won by 2 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 99,
+          "wkts": 9,
+          "overs": "17.3"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 97,
+          "wkts": 10,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Fenil Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Tyagi",
+          "r": 20,
+          "b": 14,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Mayank Ray",
+          "r": 1,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Karan Patel",
+          "r": 34,
+          "b": 40,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Suman Kumar Oraon",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Subhash Appari",
+          "r": 6,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 8,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Bhavesh Patel",
+          "r": 12,
+          "b": 13,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "lbw"
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 9,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Fardin Nakum",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 24,
+          "r": 16,
+          "w": 2,
+          "dots": 15,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 18,
+          "r": 26,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Karan Patel",
+          "balls": 18,
+          "r": 26,
+          "w": 0,
+          "dots": 7,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Subhash Appari",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Fardin Nakum",
+          "balls": 15,
+          "r": 12,
+          "w": 3,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Fardin Nakum",
+          "c",
+          1
+        ],
+        [
+          "Bhavesh Patel",
+          "c",
+          1
+        ],
+        [
+          "Jwalit Ray",
+          "r",
+          1
+        ],
+        [
+          "Gaurav Tyagi",
+          "r",
+          1
+        ],
+        [
+          "Subhash Appari",
+          "c",
+          1
+        ],
+        [
+          "Mayank Ray",
+          "c",
+          1
+        ],
+        [
+          "Karan Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2687",
+      "date": "2025-05-31",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Swat Lions CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2670",
+      "date": "2025-05-17",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Vikings CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 64 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 145,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Vikings CC",
+          "runs": 81,
+          "wkts": 10,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sidharth Nambiar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Subhash Appari",
+          "r": 11,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Mayank Ray",
+          "r": 17,
+          "b": 32,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 8,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Jwalit Ray",
+          "r": 48,
+          "b": 30,
+          "f": 5,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 19,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Suman Kumar Oraon",
+          "r": 11,
+          "b": 9,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "st"
+        },
+        {
+          "name": "Teja Reddy Lasmaie",
+          "r": 18,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Bharagv Varun Vemuri",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 18,
+          "r": 15,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jwalit Ray",
+          "balls": 18,
+          "r": 10,
+          "w": 3,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Deep Patel",
+          "balls": 18,
+          "r": 13,
+          "w": 0,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sai Vikas Diddi",
+          "balls": 24,
+          "r": 18,
+          "w": 1,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Mayank Ray",
+          "balls": 24,
+          "r": 14,
+          "w": 4,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Suman Kumar Oraon",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 1,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Bharagv Varun Vemuri",
+          "balls": 3,
+          "r": 3,
+          "w": 1,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Deep Patel",
+          "c",
+          2
+        ],
+        [
+          "Subhash Appari",
+          "k",
+          1
+        ],
+        [
+          "Bharagv Varun Vemuri",
+          "c",
+          1
+        ],
+        [
+          "Mayank Ray",
+          "c",
+          1
+        ],
+        [
+          "Sidharth Nambiar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2691",
+      "date": "2025-05-10",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Titans CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Forfeited. Winner: Titans CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2653",
+      "date": "2025-05-03",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Chargers CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Glassboro Guns CC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chargers CC",
+          "runs": 156,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 157,
+          "wkts": 7,
+          "overs": "19.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Teja Reddy Lasmaie",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Subhash Appari",
+          "r": 0,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Akhilesh Patel",
+          "r": 42,
+          "b": 41,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "rt"
+        },
+        {
+          "name": "Sanjay Pandya",
+          "r": 12,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Likith Mk",
+          "r": 64,
+          "b": 34,
+          "f": 4,
+          "s": 4,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruv Patel",
+          "r": 17,
+          "b": 10,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Kushal Viru",
+          "r": 7,
+          "b": 2,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Aqeel Ech Shah",
+          "r": 7,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Bharagv Varun Vemuri",
+          "r": 2,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Aqeel Ech Shah",
+          "balls": 24,
+          "r": 28,
+          "w": 3,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Likith Mk",
+          "balls": 18,
+          "r": 26,
+          "w": 1,
+          "dots": 9,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Sai Vikas Diddi",
+          "balls": 18,
+          "r": 26,
+          "w": 1,
+          "dots": 6,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Teja Reddy Lasmaie",
+          "balls": 6,
+          "r": 11,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sanjay Pandya",
+          "balls": 24,
+          "r": 25,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akhilesh Patel",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhruv Patel",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Likith Mk",
+          "c",
+          1
+        ],
+        [
+          "Aqeel Ech Shah",
+          "c",
+          1
+        ],
+        [
+          "Teja Reddy Lasmaie",
+          "c",
+          1
+        ],
+        [
+          "Subhash Appari",
+          "c",
+          1
+        ],
+        [
+          "Bharagv Varun Vemuri",
+          "c",
+          1
+        ],
+        [
+          "Kushal Viru",
+          "c",
+          1
+        ],
+        [
+          "Akhilesh Patel",
+          "c",
+          1
+        ],
+        [
+          "Likith Mk",
+          "r",
+          1
+        ],
+        [
+          "Kushal Viru",
+          "r",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 6
+}

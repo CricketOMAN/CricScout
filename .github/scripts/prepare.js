@@ -30,7 +30,12 @@ if (event === 'schedule') {
 }
 
 if (event === 'workflow_dispatch') {
-  const code = sanitizeLeague(process.env.INPUT_LEAGUE || '');
+  const rawLeague = (process.env.INPUT_LEAGUE || '').trim();
+  if (!rawLeague) {
+    emit({ proceed: 'true', mode: 'weekly', league: '', team: '', error: '' });
+    process.exit(0);
+  }
+  const code = sanitizeLeague(rawLeague);
   if (!code) stop('Invalid league. Use a CricClubs league code or a cricclubs.com URL.');
   const team = sanitizeTeam(process.env.INPUT_TEAM || '');
   if (!team.ok) stop(team.error);

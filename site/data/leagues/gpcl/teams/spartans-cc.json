@@ -1,0 +1,8471 @@
+{
+  "team": "Spartans CC",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+  "logos": {
+    "PivotalTech's Rockers": "https://media.cricclubs.com/documentsRep/teamLogos/0bacbd61-e786-4be8-b7ff-391c7d4306ee.jpg",
+    "Spartans CC": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+    "Phoenix CC": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+    "Galloway CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Titans CC": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+    "British Officers CC": "https://media.cricclubs.com/documentsRep/teamLogos/0731bc29-a4b1-437a-a615-fba5caac732a.jpg",
+    "Lehigh Valley CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+    "Khyber CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-224.jpg",
+    "Echelon CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-234.jpg",
+    "Stallions CC": "https://media.cricclubs.com/documentsRep/teamLogos/50a8a599-4597-4092-85cf-7fb7aff33cac.jpg",
+    "South Jersey CC": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+    "StarSportsUS Future Stars CC": "https://media.cricclubs.com/documentsRep/teamLogos/3418eaf9-6553-424e-9a47-9e22c435e258.png",
+    "Chester County Cricket Academy Lions CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Glassboro Guns CC": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+    "Villanova CC": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+    "United XI CC": "https://media.cricclubs.com/documentsRep/teamLogos/f3a8c11c-01a1-4861-ad15-0e0cc28b71cd.jpg",
+    "Chargers CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+    "Vikings CC": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+    "Prior CC": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+    "Bensalem CC": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+    "Swat Lions CC": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+    "Stumperz CC": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+    "NJ Challengers CC": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+    "East Coast CC": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg"
+  },
+  "league": {
+    "code": "GPCL",
+    "name": "GPCL - Greater Philadelphia Cricket League"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-46",
+      "name": "2026 GPCL 40",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:32.881Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:32.881Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=46&clubId=48",
+        "players": {
+          "krishna bhatia": {
+            "name": "Krishna Bhatia",
+            "matches": 16,
+            "batting": 16,
+            "bowling": 1063,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 1099
+          },
+          "jaykishan parwani": {
+            "name": "jaykishan parwani",
+            "matches": 9,
+            "batting": 452,
+            "bowling": 313,
+            "fielding": 36,
+            "other": 50,
+            "mom": 2,
+            "total": 851
+          },
+          "gaurav pandoh": {
+            "name": "Gaurav Pandoh",
+            "matches": 15,
+            "batting": 315,
+            "bowling": 445,
+            "fielding": 64,
+            "other": 25,
+            "mom": 1,
+            "total": 849
+          },
+          "mario ramparsaud": {
+            "name": "Mario Ramparsaud",
+            "matches": 12,
+            "batting": 663,
+            "bowling": 0,
+            "fielding": 186,
+            "other": 0,
+            "mom": 0,
+            "total": 849
+          },
+          "corne dry": {
+            "name": "Corne Dry",
+            "matches": 10,
+            "batting": 288,
+            "bowling": 412,
+            "fielding": 44,
+            "other": 50,
+            "mom": 2,
+            "total": 794
+          },
+          "harish koduri": {
+            "name": "Harish Koduri",
+            "matches": 10,
+            "batting": 72,
+            "bowling": 345,
+            "fielding": 56,
+            "other": 50,
+            "mom": 2,
+            "total": 523
+          },
+          "faraz zaidi": {
+            "name": "Faraz Zaidi",
+            "matches": 11,
+            "batting": 290,
+            "bowling": 128,
+            "fielding": 56,
+            "other": 0,
+            "mom": 0,
+            "total": 474
+          },
+          "ayush patel": {
+            "name": "Ayush Patel",
+            "matches": 4,
+            "batting": 34,
+            "bowling": 329,
+            "fielding": 8,
+            "other": 50,
+            "mom": 2,
+            "total": 421
+          },
+          "krunal bhange": {
+            "name": "Krunal Bhange",
+            "matches": 9,
+            "batting": 356,
+            "bowling": 0,
+            "fielding": 48,
+            "other": 0,
+            "mom": 0,
+            "total": 404
+          },
+          "rathin rao": {
+            "name": "Rathin Rao",
+            "matches": 14,
+            "batting": 241,
+            "bowling": 25,
+            "fielding": 64,
+            "other": 0,
+            "mom": 0,
+            "total": 330
+          },
+          "nirmay vashi": {
+            "name": "Nirmay Vashi",
+            "matches": 5,
+            "batting": 116,
+            "bowling": 154,
+            "fielding": 24,
+            "other": 25,
+            "mom": 1,
+            "total": 319
+          },
+          "prerak patel": {
+            "name": "Prerak Patel",
+            "matches": 11,
+            "batting": 124,
+            "bowling": 104,
+            "fielding": 76,
+            "other": 0,
+            "mom": 0,
+            "total": 304
+          },
+          "hayat khan": {
+            "name": "Hayat Khan",
+            "matches": 3,
+            "batting": 36,
+            "bowling": 206,
+            "fielding": 16,
+            "other": 25,
+            "mom": 1,
+            "total": 283
+          },
+          "dhruvil dagli": {
+            "name": "Dhruvil Dagli",
+            "matches": 5,
+            "batting": 21,
+            "bowling": 189,
+            "fielding": 60,
+            "other": 0,
+            "mom": 0,
+            "total": 270
+          },
+          "nikhil pargaonkar": {
+            "name": "Nikhil Pargaonkar",
+            "matches": 9,
+            "batting": 130,
+            "bowling": 58,
+            "fielding": 54,
+            "other": 0,
+            "mom": 0,
+            "total": 242
+          },
+          "vimal patel": {
+            "name": "Vimal Patel",
+            "matches": 4,
+            "batting": 178,
+            "bowling": 2,
+            "fielding": 24,
+            "other": 25,
+            "mom": 1,
+            "total": 229
+          },
+          "ritesh bhawsar": {
+            "name": "Ritesh Bhawsar",
+            "matches": 9,
+            "batting": 188,
+            "bowling": 0,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 212
+          },
+          "manan rana": {
+            "name": "Manan Rana",
+            "matches": 5,
+            "batting": 2,
+            "bowling": 162,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 172
+          },
+          "vansh patel": {
+            "name": "Vansh Patel",
+            "matches": 5,
+            "batting": 71,
+            "bowling": 55,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 146
+          },
+          "sreekar pappu": {
+            "name": "Sreekar Pappu",
+            "matches": 3,
+            "batting": 1,
+            "bowling": 62,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 79
+          },
+          "varun prakash mariappan": {
+            "name": "Varun Prakash Mariappan",
+            "matches": 2,
+            "batting": 78,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 78
+          },
+          "samson bhatti": {
+            "name": "Samson Bhatti",
+            "matches": 1,
+            "batting": 17,
+            "bowling": 26,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 43
+          },
+          "goldy singh": {
+            "name": "Goldy Singh",
+            "matches": 1,
+            "batting": 29,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 37
+          },
+          "venkata aluri": {
+            "name": "Venkata Aluri",
+            "matches": 2,
+            "batting": 8,
+            "bowling": 0,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 24
+          },
+          "rajat verma": {
+            "name": "Rajat Verma",
+            "matches": 1,
+            "batting": 1,
+            "bowling": -4,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -3
+          }
+        }
+      }
+    },
+    "last": {
+      "id": "legacy-45",
+      "name": "2026 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:40.269Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:40.269Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=45&clubId=48",
+        "players": {
+          "mario ramparsaud": {
+            "name": "Mario Ramparsaud",
+            "matches": 11,
+            "batting": 604,
+            "bowling": 20,
+            "fielding": 136,
+            "other": 100,
+            "mom": 4,
+            "total": 860
+          },
+          "nikhil pargaonkar": {
+            "name": "Nikhil Pargaonkar",
+            "matches": 9,
+            "batting": 62,
+            "bowling": 318,
+            "fielding": 96,
+            "other": 75,
+            "mom": 3,
+            "total": 551
+          },
+          "jaykishan parwani": {
+            "name": "jaykishan parwani",
+            "matches": 6,
+            "batting": 168,
+            "bowling": 93,
+            "fielding": 76,
+            "other": 50,
+            "mom": 2,
+            "total": 387
+          },
+          "gaurav pandoh": {
+            "name": "Gaurav Pandoh",
+            "matches": 7,
+            "batting": 176,
+            "bowling": 179,
+            "fielding": 6,
+            "other": 25,
+            "mom": 1,
+            "total": 386
+          },
+          "prerak patel": {
+            "name": "Prerak Patel",
+            "matches": 12,
+            "batting": 112,
+            "bowling": 96,
+            "fielding": 130,
+            "other": 25,
+            "mom": 1,
+            "total": 363
+          },
+          "krishna bhatia": {
+            "name": "Krishna Bhatia",
+            "matches": 6,
+            "batting": 2,
+            "bowling": 309,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 327
+          },
+          "ashish bhagwat": {
+            "name": "Ashish Bhagwat",
+            "matches": 9,
+            "batting": 93,
+            "bowling": 211,
+            "fielding": 14,
+            "other": 0,
+            "mom": 0,
+            "total": 318
+          },
+          "rathin rao": {
+            "name": "Rathin Rao",
+            "matches": 10,
+            "batting": 221,
+            "bowling": 45,
+            "fielding": 46,
+            "other": 0,
+            "mom": 0,
+            "total": 312
+          },
+          "sreekar pappu": {
+            "name": "Sreekar Pappu",
+            "matches": 7,
+            "batting": 41,
+            "bowling": 181,
+            "fielding": 22,
+            "other": 0,
+            "mom": 0,
+            "total": 244
+          },
+          "raviteja motaparthi": {
+            "name": "Raviteja Motaparthi",
+            "matches": 10,
+            "batting": 139,
+            "bowling": 41,
+            "fielding": 32,
+            "other": 0,
+            "mom": 0,
+            "total": 212
+          },
+          "vansh patel": {
+            "name": "Vansh Patel",
+            "matches": 4,
+            "batting": 88,
+            "bowling": 87,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 199
+          },
+          "ritesh bhawsar": {
+            "name": "Ritesh Bhawsar",
+            "matches": 6,
+            "batting": 163,
+            "bowling": 0,
+            "fielding": 30,
+            "other": 0,
+            "mom": 0,
+            "total": 193
+          },
+          "manan rana": {
+            "name": "Manan Rana",
+            "matches": 7,
+            "batting": -1,
+            "bowling": 152,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 167
+          },
+          "hayat khan": {
+            "name": "Hayat Khan",
+            "matches": 4,
+            "batting": 17,
+            "bowling": 104,
+            "fielding": 28,
+            "other": 0,
+            "mom": 0,
+            "total": 149
+          },
+          "anil manick": {
+            "name": "Anil Manick",
+            "matches": 2,
+            "batting": 96,
+            "bowling": 0,
+            "fielding": 16,
+            "other": 25,
+            "mom": 1,
+            "total": 137
+          },
+          "nirmay vashi": {
+            "name": "Nirmay Vashi",
+            "matches": 4,
+            "batting": 37,
+            "bowling": 72,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 117
+          },
+          "aswath ganesh": {
+            "name": "Aswath Ganesh",
+            "matches": 7,
+            "batting": 0,
+            "bowling": 83,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 99
+          },
+          "naresh chintala": {
+            "name": "Naresh Chintala",
+            "matches": 7,
+            "batting": 27,
+            "bowling": 20,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 63
+          },
+          "aryan kukarni": {
+            "name": "Aryan Kukarni",
+            "matches": 4,
+            "batting": 34,
+            "bowling": 20,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 62
+          },
+          "vaibhav katkade": {
+            "name": "Vaibhav Katkade",
+            "matches": 4,
+            "batting": 5,
+            "bowling": 39,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 44
+          },
+          "omkar das": {
+            "name": "Omkar Das",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 25,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 37
+          },
+          "vimal patel": {
+            "name": "Vimal Patel",
+            "matches": 1,
+            "batting": 15,
+            "bowling": 20,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 35
+          },
+          "rishi makar": {
+            "name": "Rishi Makar",
+            "matches": 1,
+            "batting": 2,
+            "bowling": 25,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 27
+          },
+          "venkata aluri": {
+            "name": "Venkata Aluri",
+            "matches": 2,
+            "batting": 23,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 23
+          },
+          "vineeth tummala": {
+            "name": "Vineeth Tummala",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 20,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 20
+          },
+          "sirish guntaka": {
+            "name": "Sirish Guntaka",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 19,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 19
+          },
+          "dineshkumar ragunathan": {
+            "name": "Dineshkumar Ragunathan",
+            "matches": 1,
+            "batting": 5,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 13
+          },
+          "yogesh dahale": {
+            "name": "Yogesh Dahale",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 10,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 10
+          },
+          "pratik chavan": {
+            "name": "Pratik Chavan",
+            "matches": 1,
+            "batting": 0,
+            "bowling": -5,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 3
+          },
+          "digvijay shinde": {
+            "name": "Digvijay Shinde",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 1
+          },
+          "pranav pradeep": {
+            "name": "Pranav Pradeep",
+            "matches": 3,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 1
+          },
+          "ayush patel": {
+            "name": "Ayush Patel",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "vaibhav gangal": {
+            "name": "Vaibhav Gangal",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "corne dry": {
+            "name": "Corne Dry",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "dhruvil dagli": {
+            "name": "Dhruvil Dagli",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          }
+        }
+      }
+    },
+    "prev2": {
+      "id": "legacy-43",
+      "name": "2025 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:47.652Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:47.652Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=43&clubId=48",
+        "players": {
+          "mario ramparsaud": {
+            "name": "Mario Ramparsaud",
+            "matches": 7,
+            "batting": 443,
+            "bowling": 0,
+            "fielding": 174,
+            "other": 25,
+            "mom": 1,
+            "total": 642
+          },
+          "jaykishan parwani": {
+            "name": "jaykishan parwani",
+            "matches": 9,
+            "batting": 304,
+            "bowling": 234,
+            "fielding": 104,
+            "other": 0,
+            "mom": 0,
+            "total": 642
+          },
+          "hayat khan": {
+            "name": "Hayat Khan",
+            "matches": 6,
+            "batting": 73,
+            "bowling": 244,
+            "fielding": 8,
+            "other": 25,
+            "mom": 1,
+            "total": 350
+          },
+          "prerak patel": {
+            "name": "Prerak Patel",
+            "matches": 9,
+            "batting": 218,
+            "bowling": 67,
+            "fielding": 38,
+            "other": 25,
+            "mom": 1,
+            "total": 348
+          },
+          "nikhil pargaonkar": {
+            "name": "Nikhil Pargaonkar",
+            "matches": 5,
+            "batting": 79,
+            "bowling": 132,
+            "fielding": 24,
+            "other": 25,
+            "mom": 1,
+            "total": 260
+          },
+          "gaurav pandoh": {
+            "name": "Gaurav Pandoh",
+            "matches": 5,
+            "batting": 108,
+            "bowling": 69,
+            "fielding": 44,
+            "other": 25,
+            "mom": 1,
+            "total": 246
+          },
+          "sreekar pappu": {
+            "name": "Sreekar Pappu",
+            "matches": 6,
+            "batting": 19,
+            "bowling": 194,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 233
+          },
+          "ashish bhagwat": {
+            "name": "Ashish Bhagwat",
+            "matches": 5,
+            "batting": 29,
+            "bowling": 147,
+            "fielding": 0,
+            "other": 25,
+            "mom": 1,
+            "total": 201
+          },
+          "vansh patel": {
+            "name": "Vansh Patel",
+            "matches": 5,
+            "batting": 65,
+            "bowling": 112,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 201
+          },
+          "rathin rao": {
+            "name": "Rathin Rao",
+            "matches": 8,
+            "batting": 142,
+            "bowling": 41,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 199
+          },
+          "nirmay vashi": {
+            "name": "Nirmay Vashi",
+            "matches": 5,
+            "batting": 33,
+            "bowling": 137,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 194
+          },
+          "krishna shelke": {
+            "name": "Krishna Shelke",
+            "matches": 5,
+            "batting": 44,
+            "bowling": 115,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 183
+          },
+          "raviteja motaparthi": {
+            "name": "Raviteja Motaparthi",
+            "matches": 11,
+            "batting": 115,
+            "bowling": 38,
+            "fielding": 28,
+            "other": 0,
+            "mom": 0,
+            "total": 181
+          },
+          "piyush kumbare": {
+            "name": "Piyush Kumbare",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 139,
+            "fielding": 8,
+            "other": 25,
+            "mom": 1,
+            "total": 172
+          },
+          "venkata aluri": {
+            "name": "Venkata Aluri",
+            "matches": 6,
+            "batting": 44,
+            "bowling": 50,
+            "fielding": 76,
+            "other": 0,
+            "mom": 0,
+            "total": 170
+          },
+          "krishna bhatia": {
+            "name": "Krishna Bhatia",
+            "matches": 5,
+            "batting": 19,
+            "bowling": 97,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 124
+          },
+          "ayush patel": {
+            "name": "Ayush Patel",
+            "matches": 3,
+            "batting": 2,
+            "bowling": 97,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 115
+          },
+          "ritesh bhawsar": {
+            "name": "Ritesh Bhawsar",
+            "matches": 4,
+            "batting": 42,
+            "bowling": 0,
+            "fielding": 48,
+            "other": 0,
+            "mom": 0,
+            "total": 90
+          },
+          "akhil g": {
+            "name": "Akhil G",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 60,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 68
+          },
+          "imran khan": {
+            "name": "Imran Khan",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 50,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 58
+          },
+          "pranav pradeep": {
+            "name": "Pranav Pradeep",
+            "matches": 4,
+            "batting": 0,
+            "bowling": 20,
+            "fielding": 36,
+            "other": 0,
+            "mom": 0,
+            "total": 56
+          },
+          "jomel warrican": {
+            "name": "Jomel Warrican",
+            "matches": 1,
+            "batting": 4,
+            "bowling": 50,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 54
+          },
+          "sneh patel": {
+            "name": "Sneh Patel",
+            "matches": 3,
+            "batting": 4,
+            "bowling": 40,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 44
+          },
+          "dev thakkar": {
+            "name": "Dev Thakkar",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 43,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 43
+          },
+          "vaibhav katkade": {
+            "name": "Vaibhav Katkade",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 25,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 25
+          },
+          "raviteja chilakamarthi": {
+            "name": "Raviteja Chilakamarthi",
+            "matches": 3,
+            "batting": 1,
+            "bowling": 2,
+            "fielding": 14,
+            "other": 0,
+            "mom": 0,
+            "total": 17
+          },
+          "aryan kukarni": {
+            "name": "Aryan Kukarni",
+            "matches": 1,
+            "batting": 14,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 14
+          },
+          "digvijay shinde": {
+            "name": "Digvijay Shinde",
+            "matches": 3,
+            "batting": 3,
+            "bowling": 5,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 8
+          },
+          "chaitanya katta": {
+            "name": "Chaitanya Katta",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 6
+          },
+          "varender singh": {
+            "name": "Varender Singh",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 5,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 5
+          },
+          "navtej mateti": {
+            "name": "Navtej Mateti",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "pratik chavan": {
+            "name": "Pratik Chavan",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "anirudh badugu": {
+            "name": "Anirudh Badugu",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "sirish guntaka": {
+            "name": "Sirish Guntaka",
+            "matches": 1,
+            "batting": 0,
+            "bowling": -1,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -1
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-2997",
+      "date": "2026-10-03",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Villanova CC won by 5 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 176,
+          "wkts": 4,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 171,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 15,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Mario Ramparsaud",
+          "r": 38,
+          "b": 23,
+          "f": 2,
+          "s": 3,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 12,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 39,
+          "b": 30,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 28,
+          "b": 20,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 19,
+          "b": 12,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 28,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 18,
+          "r": 23,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 18,
+          "r": 23,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 24,
+          "r": 42,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 24,
+          "r": 30,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 12,
+          "r": 30,
+          "w": 1,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "r",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2995",
+      "date": "2026-09-19",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Chargers CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 1 Run",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 125,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Chargers CC",
+          "runs": 124,
+          "wkts": 10,
+          "overs": "19.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 18,
+          "b": 20,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 17,
+          "b": 12,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "r": 20,
+          "b": 24,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Naresh Chintala",
+          "r": 16,
+          "b": 24,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 22,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Sreekar Pappu",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Vaibhav Katkade",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Aswath Ganesh",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 24,
+          "r": 13,
+          "w": 4,
+          "dots": 17,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 24,
+          "r": 27,
+          "w": 1,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vaibhav Katkade",
+          "balls": 12,
+          "r": 20,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 24,
+          "r": 28,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 21,
+          "r": 23,
+          "w": 2,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prerak Patel",
+          "c",
+          3
+        ],
+        [
+          "Ritesh Bhawsar",
+          "k",
+          2
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Rathin Rao",
+          "r",
+          1
+        ],
+        [
+          "Vansh Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2994",
+      "date": "2026-09-13",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "PivotalTech's Rockers",
+      "ground": "GPCL Ground - Exton",
+      "result": "Spartans CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "PivotalTech's Rockers",
+          "runs": 193,
+          "wkts": 9,
+          "overs": "36"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 199,
+          "wkts": 5,
+          "overs": "32.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 35,
+          "b": 64,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 41,
+          "b": 49,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 47,
+          "b": 32,
+          "f": 3,
+          "s": 3,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Corne Dry",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 10,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 40,
+          "b": 22,
+          "f": 1,
+          "s": 4,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ayush Patel",
+          "balls": 42,
+          "r": 44,
+          "w": 2,
+          "dots": 26,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Corne Dry",
+          "balls": 42,
+          "r": 34,
+          "w": 0,
+          "dots": 25,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 48,
+          "r": 41,
+          "w": 2,
+          "dots": 28,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 42,
+          "r": 32,
+          "w": 4,
+          "dots": 28,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 42,
+          "r": 37,
+          "w": 0,
+          "dots": 24,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Harish Koduri",
+          "c",
+          1
+        ],
+        [
+          "Ritesh Bhawsar",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          2
+        ],
+        [
+          "Faraz Zaidi",
+          "c",
+          1
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          2
+        ],
+        [
+          "Gaurav Pandoh",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2991",
+      "date": "2026-08-30",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Phoenix CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 126 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 220,
+          "wkts": 10,
+          "overs": "40"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 94,
+          "wkts": 10,
+          "overs": "27.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 9,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Krunal Bhange",
+          "r": 30,
+          "b": 49,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 66,
+          "b": 79,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 48,
+          "b": 48,
+          "f": 2,
+          "s": 3,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 22,
+          "b": 33,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Corne Dry",
+          "r": 23,
+          "b": 12,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Harish Koduri",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Dhruvil Dagli",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Corne Dry",
+          "balls": 36,
+          "r": 12,
+          "w": 3,
+          "dots": 25,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 24,
+          "r": 15,
+          "w": 1,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 48,
+          "r": 39,
+          "w": 3,
+          "dots": 27,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 30,
+          "r": 9,
+          "w": 1,
+          "dots": 23,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Dhruvil Dagli",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 17,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 2,
+          "r": 0,
+          "w": 1,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Dhruvil Dagli",
+          "c",
+          2
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          2
+        ],
+        [
+          "Faraz Zaidi",
+          "c",
+          1
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2989",
+      "date": "2026-08-29",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Spartans CC won by 10 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 156,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Villanova CC",
+          "runs": 146,
+          "wkts": 10,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 33,
+          "b": 25,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 34,
+          "b": 33,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 40,
+          "b": 32,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 4,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 21,
+          "b": 19,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 7,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Naresh Chintala",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 17,
+          "w": 3,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 31,
+          "w": 1,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 24,
+          "r": 36,
+          "w": 2,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Prerak Patel",
+          "balls": 12,
+          "r": 25,
+          "w": 0,
+          "dots": 1,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "balls": 12,
+          "r": 18,
+          "w": 2,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          2
+        ],
+        [
+          "Krishna Bhatia",
+          "c",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ],
+        [
+          "Raviteja Motaparthi",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2984",
+      "date": "2026-08-23",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Spartans CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 115,
+          "wkts": 10,
+          "overs": "27.1"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 116,
+          "wkts": 2,
+          "overs": "20.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 12,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Krunal Bhange",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 68,
+          "b": 62,
+          "f": 7,
+          "s": 2,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 29,
+          "b": 49,
+          "f": 5,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Corne Dry",
+          "balls": 30,
+          "r": 20,
+          "w": 0,
+          "dots": 23,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 30,
+          "r": 20,
+          "w": 3,
+          "dots": 23,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 36,
+          "r": 34,
+          "w": 1,
+          "dots": 21,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 30,
+          "r": 26,
+          "w": 2,
+          "dots": 19,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 37,
+          "r": 15,
+          "w": 4,
+          "dots": 26,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ],
+        [
+          "Harish Koduri",
+          "c",
+          2
+        ],
+        [
+          "Corne Dry",
+          "c",
+          2
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2982",
+      "date": "2026-08-22",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Titans CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 1 Run",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 140,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 139,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 11,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 27,
+          "b": 28,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 49,
+          "b": 32,
+          "f": 1,
+          "s": 4,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 11,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Anil Manick",
+          "r": 10,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "r": 6,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Naresh Chintala",
+          "r": 4,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 23,
+          "w": 2,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 34,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vaibhav Gangal",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 1,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 24,
+          "r": 22,
+          "w": 2,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 6,
+          "r": 11,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Prerak Patel",
+          "balls": 6,
+          "r": 16,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Mario Ramparsaud",
+          "balls": 6,
+          "r": 6,
+          "w": 1,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prerak Patel",
+          "c",
+          2
+        ],
+        [
+          "Ashish Bhagwat",
+          "c",
+          1
+        ],
+        [
+          "Ritesh Bhawsar",
+          "c",
+          1
+        ],
+        [
+          "Anil Manick",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "r",
+          1
+        ],
+        [
+          "Ritesh Bhawsar",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2966",
+      "date": "2026-08-09",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Spartans CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Phoenix CC",
+          "runs": 183,
+          "wkts": 9,
+          "overs": "40"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 184,
+          "wkts": 5,
+          "overs": "33.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 24,
+          "b": 23,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Krunal Bhange",
+          "r": 49,
+          "b": 59,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 4,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Corne Dry",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 40,
+          "b": 56,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 24,
+          "b": 27,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Ayush Patel",
+          "r": 27,
+          "b": 30,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ayush Patel",
+          "balls": 42,
+          "r": 26,
+          "w": 3,
+          "dots": 26,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Corne Dry",
+          "balls": 48,
+          "r": 37,
+          "w": 2,
+          "dots": 28,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 48,
+          "r": 37,
+          "w": 1,
+          "dots": 30,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hayat Khan",
+          "balls": 30,
+          "r": 21,
+          "w": 1,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dhruvil Dagli",
+          "balls": 36,
+          "r": 28,
+          "w": 1,
+          "dots": 25,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 18,
+          "r": 19,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Harish Koduri",
+          "c",
+          1
+        ],
+        [
+          "Hayat Khan",
+          "c",
+          1
+        ],
+        [
+          "Dhruvil Dagli",
+          "c",
+          3
+        ],
+        [
+          "Faraz Zaidi",
+          "c",
+          1
+        ],
+        [
+          "Corne Dry",
+          "r",
+          1
+        ],
+        [
+          "Ayush Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2961",
+      "date": "2026-08-08",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Bensalem CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Spartans CC won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Bensalem CC",
+          "runs": 80,
+          "wkts": 5,
+          "overs": "15"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 83,
+          "wkts": 0,
+          "overs": "6.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Anil Manick",
+          "r": 50,
+          "b": 17,
+          "f": 2,
+          "s": 5,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Aryan Kukarni",
+          "r": 23,
+          "b": 25,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Bhatia",
+          "balls": 18,
+          "r": 9,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Omkar Das",
+          "balls": 18,
+          "r": 5,
+          "w": 0,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aryan Kukarni",
+          "balls": 6,
+          "r": 12,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Naresh Chintala",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Vineeth Tummala",
+          "balls": 6,
+          "r": 8,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Naresh Chintala",
+          "c",
+          1
+        ],
+        [
+          "Anil Manick",
+          "c",
+          1
+        ],
+        [
+          "Omkar Das",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2952",
+      "date": "2026-08-02",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "South Jersey CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Spartans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "South Jersey CC",
+          "runs": 44,
+          "wkts": 10,
+          "overs": "12"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 45,
+          "wkts": 1,
+          "overs": "6.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Nirmay Vashi",
+          "r": 17,
+          "b": 12,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Vimal Patel",
+          "r": 19,
+          "b": 16,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Venkata Aluri",
+          "r": 7,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Corne Dry",
+          "balls": 36,
+          "r": 27,
+          "w": 3,
+          "dots": 30,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Hayat Khan",
+          "balls": 36,
+          "r": 17,
+          "w": 6,
+          "dots": 30,
+          "wd": 8,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mario Ramparsaud",
+          "k",
+          3
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Venkata Aluri",
+          "c",
+          2
+        ],
+        [
+          "Mario Ramparsaud",
+          "r",
+          1
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2951",
+      "date": "2026-08-01",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Phoenix CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 13 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 178,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 165,
+          "wkts": 7,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 58,
+          "b": 35,
+          "f": 7,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 5,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Venkata Aluri",
+          "r": 22,
+          "b": 28,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "st"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 3,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 30,
+          "b": 17,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 16,
+          "b": 9,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 7,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sreekar Pappu",
+          "r": 8,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ctw"
+        },
+        {
+          "name": "Manan Rana",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 25,
+          "w": 1,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 24,
+          "r": 46,
+          "w": 2,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 29,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 24,
+          "r": 24,
+          "w": 3,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 18,
+          "r": 30,
+          "w": 1,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mario Ramparsaud",
+          "k",
+          2
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Raviteja Motaparthi",
+          "c",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2943",
+      "date": "2026-07-26",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "PivotalTech's Rockers",
+      "ground": "Stumperz",
+      "result": "Spartans CC won by 34 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 148,
+          "wkts": 10,
+          "overs": "40"
+        },
+        {
+          "team": "PivotalTech's Rockers",
+          "runs": 114,
+          "wkts": 10,
+          "overs": "34.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Krunal Bhange",
+          "r": 16,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 29,
+          "b": 56,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 2,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 8,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 36,
+          "b": 46,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Dhruvil Dagli",
+          "r": 18,
+          "b": 30,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 5,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Harish Koduri",
+          "r": 13,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Ayush Patel",
+          "r": 8,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ayush Patel",
+          "balls": 42,
+          "r": 18,
+          "w": 1,
+          "dots": 29,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 36,
+          "r": 20,
+          "w": 1,
+          "dots": 30,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Dhruvil Dagli",
+          "balls": 30,
+          "r": 20,
+          "w": 0,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 30,
+          "r": 18,
+          "w": 3,
+          "dots": 17,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 42,
+          "r": 21,
+          "w": 3,
+          "dots": 29,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 25,
+          "r": 16,
+          "w": 2,
+          "dots": 18,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Krunal Bhange",
+          "c",
+          2
+        ],
+        [
+          "Faraz Zaidi",
+          "c",
+          1
+        ],
+        [
+          "Dhruvil Dagli",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2940",
+      "date": "2026-07-25",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Vikings CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Spartans CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Vikings CC",
+          "runs": 146,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 147,
+          "wkts": 4,
+          "overs": "12.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 91,
+          "b": 29,
+          "f": 9,
+          "s": 8,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 14,
+          "b": 17,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 9,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 12,
+          "b": 9,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Naresh Chintala",
+          "r": 6,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 12,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 18,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vaibhav Katkade",
+          "balls": 24,
+          "r": 31,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "balls": 24,
+          "r": 32,
+          "w": 0,
+          "dots": 6,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Prerak Patel",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aryan Kukarni",
+          "balls": 6,
+          "r": 17,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ],
+        [
+          "Rathin Rao",
+          "r",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "r",
+          1
+        ],
+        [
+          "Raviteja Motaparthi",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2930",
+      "date": "2026-07-19",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "StarSportsUS Future Stars CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Spartans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "StarSportsUS Future Stars CC",
+          "runs": 67,
+          "wkts": 10,
+          "overs": "26.2"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 68,
+          "wkts": 1,
+          "overs": "4.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Krunal Bhange",
+          "r": 7,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 5,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Corne Dry",
+          "r": 53,
+          "b": 18,
+          "f": 4,
+          "s": 5,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 24,
+          "r": 9,
+          "w": 1,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ayush Patel",
+          "balls": 30,
+          "r": 15,
+          "w": 5,
+          "dots": 27,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 24,
+          "r": 17,
+          "w": 0,
+          "dots": 14,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 32,
+          "r": 4,
+          "w": 1,
+          "dots": 28,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 24,
+          "r": 4,
+          "w": 1,
+          "dots": 20,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prerak Patel",
+          "k",
+          2
+        ],
+        [
+          "Vansh Patel",
+          "r",
+          1
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Manan Rana",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2938",
+      "date": "2026-07-18",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "United XI CC",
+      "ground": "United XI",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "United XI CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2921",
+      "date": "2026-07-12",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Spartans CC won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 247,
+          "wkts": 9,
+          "overs": "40"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 248,
+          "wkts": 9,
+          "overs": "39.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 16,
+          "b": 10,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Goldy Singh",
+          "r": 22,
+          "b": 19,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 21,
+          "b": 41,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 20,
+          "b": 31,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 44,
+          "b": 39,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 38,
+          "b": 46,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 55,
+          "b": 33,
+          "f": 3,
+          "s": 3,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Harish Koduri",
+          "r": 15,
+          "b": 11,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sreekar Pappu",
+          "r": 4,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "lbw"
+        },
+        {
+          "name": "Manan Rana",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 42,
+          "r": 41,
+          "w": 2,
+          "dots": 23,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 30,
+          "r": 44,
+          "w": 0,
+          "dots": 17,
+          "wd": 12,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 24,
+          "r": 29,
+          "w": 0,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 48,
+          "r": 33,
+          "w": 4,
+          "dots": 31,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 30,
+          "r": 42,
+          "w": 1,
+          "dots": 19,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 30,
+          "r": 32,
+          "w": 1,
+          "dots": 12,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 36,
+          "r": 26,
+          "w": 1,
+          "dots": 23,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Harish Koduri",
+          "c",
+          2
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Sreekar Pappu",
+          "c",
+          1
+        ],
+        [
+          "Goldy Singh",
+          "c",
+          1
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Ritesh Bhawsar",
+          "c",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2918",
+      "date": "2026-07-11",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Chargers CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Spartans CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chargers CC",
+          "runs": 103,
+          "wkts": 10,
+          "overs": "16.5"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 104,
+          "wkts": 2,
+          "overs": "9"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aryan Kukarni",
+          "r": 7,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Mario Ramparsaud",
+          "r": 52,
+          "b": 23,
+          "f": 6,
+          "s": 3,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 30,
+          "b": 24,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 12,
+          "r": 9,
+          "w": 1,
+          "dots": 7,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Aswath Ganesh",
+          "balls": 17,
+          "r": 18,
+          "w": 2,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 6,
+          "r": 15,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 18,
+          "r": 12,
+          "w": 0,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 24,
+          "r": 21,
+          "w": 4,
+          "dots": 13,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 18,
+          "r": 13,
+          "w": 3,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mario Ramparsaud",
+          "c",
+          1
+        ],
+        [
+          "Manan Rana",
+          "c",
+          1
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Aryan Kukarni",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2907",
+      "date": "2026-06-27",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Spartans CC won by 20 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 189,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "Villanova CC",
+          "runs": 169,
+          "wkts": 10,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 106,
+          "b": 63,
+          "f": 9,
+          "s": 4,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "r": 43,
+          "b": 39,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "st"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 34,
+          "b": 17,
+          "f": 1,
+          "s": 2,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Aryan Kukarni",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 18,
+          "r": 38,
+          "w": 1,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vaibhav Katkade",
+          "balls": 12,
+          "r": 27,
+          "w": 0,
+          "dots": 4,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 18,
+          "r": 20,
+          "w": 2,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aswath Ganesh",
+          "balls": 12,
+          "r": 20,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 24,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 24,
+          "r": 26,
+          "w": 3,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Naresh Chintala",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aryan Kukarni",
+          "balls": 5,
+          "r": 8,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          2
+        ],
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ],
+        [
+          "Sreekar Pappu",
+          "r",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "r",
+          2
+        ],
+        [
+          "Nirmay Vashi",
+          "c",
+          1
+        ],
+        [
+          "Sreekar Pappu",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2904",
+      "date": "2026-06-21",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "British Officers CC",
+      "ground": "ECG2",
+      "result": "British Officers CC won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 291,
+          "wkts": 9,
+          "overs": "40"
+        },
+        {
+          "team": "British Officers CC",
+          "runs": 292,
+          "wkts": 9,
+          "overs": "40"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Krunal Bhange",
+          "r": 14,
+          "b": 23,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Hayat Khan",
+          "r": 32,
+          "b": 50,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 56,
+          "b": 52,
+          "f": 8,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 25,
+          "b": 30,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 71,
+          "b": 45,
+          "f": 8,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 12,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 23,
+          "b": 11,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 18,
+          "b": 9,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 48,
+          "r": 69,
+          "w": 1,
+          "dots": 16,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Hayat Khan",
+          "balls": 30,
+          "r": 40,
+          "w": 0,
+          "dots": 13,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 48,
+          "r": 54,
+          "w": 4,
+          "dots": 21,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 48,
+          "r": 39,
+          "w": 0,
+          "dots": 23,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 24,
+          "r": 31,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 42,
+          "r": 56,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Hayat Khan",
+          "c",
+          1
+        ],
+        [
+          "Krunal Bhange",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "c",
+          1
+        ],
+        [
+          "Ritesh Bhawsar",
+          "c",
+          1
+        ],
+        [
+          "Nirmay Vashi",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2889",
+      "date": "2026-06-14",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Khyber CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Spartans CC won by 126 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 251,
+          "wkts": 5,
+          "overs": "40"
+        },
+        {
+          "team": "Khyber CC",
+          "runs": 125,
+          "wkts": 10,
+          "overs": "31.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 66,
+          "b": 66,
+          "f": 7,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Krunal Bhange",
+          "r": 6,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 41,
+          "b": 52,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 52,
+          "b": 54,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 35,
+          "b": 37,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Corne Dry",
+          "r": 18,
+          "b": 11,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 20,
+          "b": 8,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Corne Dry",
+          "balls": 30,
+          "r": 12,
+          "w": 0,
+          "dots": 22,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 24,
+          "r": 21,
+          "w": 0,
+          "dots": 15,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 48,
+          "r": 26,
+          "w": 4,
+          "dots": 33,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 36,
+          "r": 24,
+          "w": 2,
+          "dots": 23,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Dhruvil Dagli",
+          "balls": 34,
+          "r": 29,
+          "w": 4,
+          "dots": 19,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 18,
+          "r": 12,
+          "w": 0,
+          "dots": 12,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mario Ramparsaud",
+          "k",
+          2
+        ],
+        [
+          "Vansh Patel",
+          "c",
+          1
+        ],
+        [
+          "Dhruvil Dagli",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "c",
+          1
+        ],
+        [
+          "Faraz Zaidi",
+          "c",
+          1
+        ],
+        [
+          "Krunal Bhange",
+          "c",
+          2
+        ],
+        [
+          "Corne Dry",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2883",
+      "date": "2026-06-13",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Swat Lions CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Forfeited. Winner: Spartans CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2872",
+      "date": "2026-06-07",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Stallions CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Stallions CC",
+          "runs": 83,
+          "wkts": 10,
+          "overs": "34.3"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 84,
+          "wkts": 2,
+          "overs": "13.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 9,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 18,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 38,
+          "b": 43,
+          "f": 2,
+          "s": 3,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 42,
+          "r": 23,
+          "w": 2,
+          "dots": 33,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 30,
+          "r": 17,
+          "w": 1,
+          "dots": 21,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 18,
+          "r": 7,
+          "w": 0,
+          "dots": 15,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Dhruvil Dagli",
+          "balls": 42,
+          "r": 10,
+          "w": 1,
+          "dots": 35,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 36,
+          "r": 18,
+          "w": 0,
+          "dots": 26,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 33,
+          "r": 5,
+          "w": 4,
+          "dots": 30,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prerak Patel",
+          "r",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          3
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Krishna Bhatia",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2865",
+      "date": "2026-06-06",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Lehigh Valley CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Spartans CC won by 99 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 220,
+          "wkts": 3,
+          "overs": "20"
+        },
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 121,
+          "wkts": 10,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 41,
+          "b": 25,
+          "f": 7,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 66,
+          "b": 47,
+          "f": 8,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 32,
+          "b": 16,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 19,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 33,
+          "b": 16,
+          "f": 1,
+          "s": 3,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hayat Khan",
+          "balls": 18,
+          "r": 23,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 18,
+          "r": 13,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aswath Ganesh",
+          "balls": 18,
+          "r": 24,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 29,
+          "w": 4,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 12,
+          "r": 5,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Prerak Patel",
+          "balls": 6,
+          "r": 8,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Naresh Chintala",
+          "balls": 3,
+          "r": 4,
+          "w": 1,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prerak Patel",
+          "c",
+          2
+        ],
+        [
+          "Krishna Bhatia",
+          "c",
+          1
+        ],
+        [
+          "Naresh Chintala",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ],
+        [
+          "Hayat Khan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2863",
+      "date": "2026-05-31",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Titans CC",
+      "ground": "Titans Cricket Ground",
+      "result": "Spartans CC won by 55 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 229,
+          "wkts": 10,
+          "overs": "38"
+        },
+        {
+          "team": "Titans CC",
+          "runs": 174,
+          "wkts": 10,
+          "overs": "38.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Krunal Bhange",
+          "r": 24,
+          "b": 13,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 12,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 29,
+          "b": 34,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Vimal Patel",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Corne Dry",
+          "r": 109,
+          "b": 94,
+          "f": 5,
+          "s": 4,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 6,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 17,
+          "b": 30,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 11,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Harish Koduri",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 4,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Corne Dry",
+          "balls": 48,
+          "r": 26,
+          "w": 1,
+          "dots": 30,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 18,
+          "r": 21,
+          "w": 0,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 36,
+          "r": 28,
+          "w": 2,
+          "dots": 24,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 48,
+          "r": 24,
+          "w": 5,
+          "dots": 32,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vimal Patel",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 34,
+          "r": 28,
+          "w": 2,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 2
+        }
+      ],
+      "fielding": [
+        [
+          "Corne Dry",
+          "c",
+          1
+        ],
+        [
+          "Faraz Zaidi",
+          "c",
+          2
+        ],
+        [
+          "Krunal Bhange",
+          "c",
+          1
+        ],
+        [
+          "Vimal Patel",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2852",
+      "date": "2026-05-17",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Galloway CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Spartans CC won by 48 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 177,
+          "wkts": 9,
+          "overs": "40"
+        },
+        {
+          "team": "Galloway CC",
+          "runs": 129,
+          "wkts": 10,
+          "overs": "36"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 5,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 11,
+          "b": 30,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 13,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Corne Dry",
+          "r": 5,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "st"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 50,
+          "b": 51,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 18,
+          "b": 41,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 30,
+          "b": 33,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Harish Koduri",
+          "r": 26,
+          "b": 25,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Sreekar Pappu",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Manan Rana",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Corne Dry",
+          "balls": 42,
+          "r": 19,
+          "w": 4,
+          "dots": 30,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 36,
+          "r": 22,
+          "w": 0,
+          "dots": 25,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 48,
+          "r": 28,
+          "w": 1,
+          "dots": 34,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 48,
+          "r": 20,
+          "w": 4,
+          "dots": 33,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prerak Patel",
+          "r",
+          1
+        ],
+        [
+          "Nirmay Vashi",
+          "c",
+          2
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Harish Koduri",
+          "c",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "k",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2844",
+      "date": "2026-05-10",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Echelon CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Echelon CC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 149,
+          "wkts": 10,
+          "overs": "28.1"
+        },
+        {
+          "team": "Echelon CC",
+          "runs": 151,
+          "wkts": 7,
+          "overs": "35.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 23,
+          "b": 25,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 9,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Faraz Zaidi",
+          "r": 13,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 25,
+          "b": 26,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Varun Prakash Mariappan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Rajat Verma",
+          "r": 5,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 35,
+          "b": 20,
+          "f": 6,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 9,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ctw"
+        },
+        {
+          "name": "Manan Rana",
+          "r": 6,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Bhatia",
+          "balls": 48,
+          "r": 23,
+          "w": 2,
+          "dots": 37,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Rajat Verma",
+          "balls": 18,
+          "r": 24,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 48,
+          "r": 30,
+          "w": 2,
+          "dots": 29,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Faraz Zaidi",
+          "balls": 42,
+          "r": 32,
+          "w": 3,
+          "dots": 25,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 35,
+          "r": 21,
+          "w": 0,
+          "dots": 23,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 18,
+          "r": 12,
+          "w": 0,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Prerak Patel",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Gaurav Pandoh",
+          "c",
+          1
+        ],
+        [
+          "Krishna Bhatia",
+          "c",
+          1
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2836",
+      "date": "2026-05-03",
+      "series": "2026 GPCL 40",
+      "seriesId": "legacy-46",
+      "opponent": "Chester County Cricket Academy Lions CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Spartans CC won by 292 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 343,
+          "wkts": 6,
+          "overs": "40"
+        },
+        {
+          "team": "Chester County Cricket Academy Lions CC",
+          "runs": 51,
+          "wkts": 10,
+          "overs": "22.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 64,
+          "b": 50,
+          "f": 5,
+          "s": 3,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Samson Bhatti",
+          "r": 15,
+          "b": 19,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Varun Prakash Mariappan",
+          "r": 58,
+          "b": 54,
+          "f": 5,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Vimal Patel",
+          "r": 120,
+          "b": 80,
+          "f": 9,
+          "s": 5,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 26,
+          "b": 13,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 28,
+          "b": 20,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Harish Koduri",
+          "r": 7,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 6,
+          "w": 1,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harish Koduri",
+          "balls": 24,
+          "r": 21,
+          "w": 2,
+          "dots": 15,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 24,
+          "r": 7,
+          "w": 1,
+          "dots": 22,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 24,
+          "r": 14,
+          "w": 3,
+          "dots": 15,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Prerak Patel",
+          "balls": 21,
+          "r": 2,
+          "w": 3,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Samson Bhatti",
+          "balls": 18,
+          "r": 1,
+          "w": 0,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          3
+        ],
+        [
+          "Sreekar Pappu",
+          "c",
+          1
+        ],
+        [
+          "Vimal Patel",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2833",
+      "date": "2026-05-02",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Stumperz CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Spartans CC won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Stumperz CC",
+          "runs": 28,
+          "wkts": 10,
+          "overs": "11.3"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 33,
+          "wkts": 0,
+          "overs": "4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dineshkumar Ragunathan",
+          "r": 9,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Vimal Patel",
+          "r": 11,
+          "b": 11,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hayat Khan",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 7,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 12,
+          "r": 9,
+          "w": 3,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 12,
+          "r": 2,
+          "w": 3,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aswath Ganesh",
+          "balls": 12,
+          "r": 5,
+          "w": 1,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Yogesh Dahale",
+          "balls": 12,
+          "r": 2,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vimal Patel",
+          "balls": 9,
+          "r": 1,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "r",
+          1
+        ],
+        [
+          "Hayat Khan",
+          "r",
+          1
+        ],
+        [
+          "Dineshkumar Ragunathan",
+          "k",
+          1
+        ],
+        [
+          "Aswath Ganesh",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "c",
+          1
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2830",
+      "date": "2026-05-02",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Prior CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Spartans CC won by 1 Run",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 93,
+          "wkts": 10,
+          "overs": "19.3"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 92,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 4,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 35,
+          "b": 47,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Hayat Khan",
+          "r": 14,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 20,
+          "b": 18,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "r": 2,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Digvijay Shinde",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Vaibhav Katkade",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "lbw"
+        },
+        {
+          "name": "Rishi Makar",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Manan Rana",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Aswath Ganesh",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hayat Khan",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vaibhav Katkade",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Manan Rana",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Prerak Patel",
+          "balls": 24,
+          "r": 10,
+          "w": 3,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rishi Makar",
+          "balls": 18,
+          "r": 14,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Mario Ramparsaud",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 4,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aswath Ganesh",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "r",
+          1
+        ],
+        [
+          "Manan Rana",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2822",
+      "date": "2025-10-04",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Villanova CC won by 34 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 158,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 124,
+          "wkts": 10,
+          "overs": "19.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Rathin Rao",
+          "r": 38,
+          "b": 36,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Venkata Aluri",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 15,
+          "b": 12,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 9,
+          "b": 8,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 14,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 8,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 13,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 5,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Sreekar Pappu",
+          "r": 9,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 12,
+          "r": 29,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 18,
+          "r": 36,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 24,
+          "r": 31,
+          "w": 2,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 18,
+          "r": 22,
+          "w": 2,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2818",
+      "date": "2025-09-20",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Swat Lions CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Spartans CC won by 6 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 158,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 152,
+          "wkts": 10,
+          "overs": "19.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Rathin Rao",
+          "r": 12,
+          "b": 11,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 6,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 13,
+          "b": 11,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 35,
+          "b": 29,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "r": 21,
+          "b": 27,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 41,
+          "b": 21,
+          "f": 2,
+          "s": 3,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Krishna Bhatia",
+          "r": 10,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Sreekar Pappu",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Raviteja Chilakamarthi",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 24,
+          "r": 37,
+          "w": 2,
+          "dots": 12,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 24,
+          "r": 31,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 15,
+          "r": 27,
+          "w": 2,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 24,
+          "r": 26,
+          "w": 3,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 2,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Prerak Patel",
+          "c",
+          2
+        ],
+        [
+          "Ritesh Bhawsar",
+          "c",
+          1
+        ],
+        [
+          "Raviteja Chilakamarthi",
+          "k",
+          1
+        ],
+        [
+          "Krishna Bhatia",
+          "c",
+          1
+        ],
+        [
+          "Sreekar Pappu",
+          "r",
+          1
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2810",
+      "date": "2025-09-06",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 71,
+          "wkts": 2,
+          "overs": "8.1"
+        },
+        {
+          "team": "Villanova CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Prerak Patel",
+          "r": 21,
+          "b": 20,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Venkata Aluri",
+          "r": 30,
+          "b": 24,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 10,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2799",
+      "date": "2025-08-23",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Chargers CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 49 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 143,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Chargers CC",
+          "runs": 94,
+          "wkts": 10,
+          "overs": "18.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 75,
+          "b": 52,
+          "f": 8,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 17,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Hayat Khan",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ayush Patel",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 28,
+          "b": 31,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Vansh Patel",
+          "r": 8,
+          "b": 3,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Sneh Patel",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hayat Khan",
+          "balls": 18,
+          "r": 25,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ayush Patel",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 24,
+          "r": 29,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Imran Khan",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vansh Patel",
+          "balls": 12,
+          "r": 5,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vaibhav Katkade",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sneh Patel",
+          "balls": 4,
+          "r": 3,
+          "w": 1,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ],
+        [
+          "Raviteja Motaparthi",
+          "c",
+          1
+        ],
+        [
+          "Vansh Patel",
+          "c",
+          2
+        ],
+        [
+          "Mario Ramparsaud",
+          "r",
+          1
+        ],
+        [
+          "Ayush Patel",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "c",
+          1
+        ],
+        [
+          "Imran Khan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2794",
+      "date": "2025-08-16",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Titans CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 80,
+          "wkts": 10,
+          "overs": "19.3"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 81,
+          "wkts": 6,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 27,
+          "b": 27,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Shelke",
+          "r": 25,
+          "b": 23,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Digvijay Shinde",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hayat Khan",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 12,
+          "r": 15,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 24,
+          "r": 12,
+          "w": 4,
+          "dots": 21,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Shelke",
+          "balls": 18,
+          "r": 18,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Piyush Kumbare",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 15,
+          "r": 8,
+          "w": 2,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Digvijay Shinde",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mario Ramparsaud",
+          "k",
+          3
+        ],
+        [
+          "Ritesh Bhawsar",
+          "c",
+          2
+        ],
+        [
+          "Nirmay Vashi",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2782",
+      "date": "2025-08-09",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Phoenix CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 42 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 171,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 129,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 11,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 8,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 36,
+          "b": 29,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Hayat Khan",
+          "r": 43,
+          "b": 31,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "r": 7,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sneh Patel",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 42,
+          "b": 21,
+          "f": 3,
+          "s": 3,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 10,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ayush Patel",
+          "balls": 24,
+          "r": 21,
+          "w": 3,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hayat Khan",
+          "balls": 18,
+          "r": 24,
+          "w": 2,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Shelke",
+          "balls": 18,
+          "r": 21,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Bhagwat",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sneh Patel",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Pranav Pradeep",
+          "balls": 6,
+          "r": 6,
+          "w": 1,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Pranav Pradeep",
+          "k",
+          2
+        ],
+        [
+          "Krishna Shelke",
+          "c",
+          2
+        ],
+        [
+          "Ritesh Bhawsar",
+          "c",
+          1
+        ],
+        [
+          "Ayush Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2769",
+      "date": "2025-08-02",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Spartans CC won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 148,
+          "wkts": 10,
+          "overs": "19.1"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 149,
+          "wkts": 3,
+          "overs": "17.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Jaykishan Parwani",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 38,
+          "b": 19,
+          "f": 3,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 56,
+          "b": 58,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 26,
+          "b": 18,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 13,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 24,
+          "r": 44,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hayat Khan",
+          "balls": 24,
+          "r": 30,
+          "w": 3,
+          "dots": 17,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 25,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Prerak Patel",
+          "balls": 18,
+          "r": 23,
+          "w": 3,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 1,
+          "r": 0,
+          "w": 1,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Nirmay Vashi",
+          "k",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "c",
+          1
+        ],
+        [
+          "Pranav Pradeep",
+          "k",
+          1
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Nirmay Vashi",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2757",
+      "date": "2025-07-26",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Swat Lions CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Swat Lions CC won by 33 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 172,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 139,
+          "wkts": 10,
+          "overs": "18.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 40,
+          "b": 26,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 37,
+          "b": 34,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Sreekar Pappu",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 9,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Jomel Warrican",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "r": 9,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Nirmay Vashi",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Hayat Khan",
+          "r": 12,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Digvijay Shinde",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hayat Khan",
+          "balls": 24,
+          "r": 40,
+          "w": 3,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 24,
+          "r": 44,
+          "w": 2,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 24,
+          "r": 42,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jomel Warrican",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 18,
+          "r": 18,
+          "w": 2,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 6,
+          "r": 16,
+          "w": 0,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "c",
+          2
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          2
+        ],
+        [
+          "Raviteja Motaparthi",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2734",
+      "date": "2025-07-12",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Prior CC",
+      "ground": "Prior Cricket Ground",
+      "result": "Spartans CC won by 56 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 145,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 89,
+          "wkts": 10,
+          "overs": "17.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 65,
+          "b": 59,
+          "f": 6,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ritesh Bhawsar",
+          "r": 17,
+          "b": 21,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Shelke",
+          "r": 15,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Aryan Kukarni",
+          "r": 12,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Raviteja Chilakamarthi",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Sreekar Pappu",
+          "r": 5,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hayat Khan",
+          "balls": 18,
+          "r": 10,
+          "w": 1,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Shelke",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Raviteja Chilakamarthi",
+          "balls": 18,
+          "r": 23,
+          "w": 0,
+          "dots": 8,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Nirmay Vashi",
+          "balls": 24,
+          "r": 8,
+          "w": 2,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 18,
+          "r": 16,
+          "w": 3,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Dev Thakkar",
+          "balls": 2,
+          "r": 1,
+          "w": 2,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Ritesh Bhawsar",
+          "c",
+          2
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ],
+        [
+          "Raviteja Chilakamarthi",
+          "r",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "r",
+          1
+        ],
+        [
+          "Hayat Khan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2711",
+      "date": "2025-06-21",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Spartans CC won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 139,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 140,
+          "wkts": 1,
+          "overs": "14.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 58,
+          "b": 38,
+          "f": 4,
+          "s": 2,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Venkata Aluri",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 63,
+          "b": 41,
+          "f": 7,
+          "s": 2,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Raviteja Motaparthi",
+          "balls": 12,
+          "r": 16,
+          "w": 1,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Bhatia",
+          "balls": 18,
+          "r": 19,
+          "w": 0,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 27,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sirish Guntaka",
+          "balls": 18,
+          "r": 29,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Akhil G",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Piyush Kumbare",
+          "balls": 24,
+          "r": 16,
+          "w": 5,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Venkata Aluri",
+          "c",
+          1
+        ],
+        [
+          "Akhil G",
+          "c",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "r",
+          1
+        ],
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ],
+        [
+          "Piyush Kumbare",
+          "c",
+          1
+        ],
+        [
+          "Vansh Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2704",
+      "date": "2025-06-14",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "NJ Challengers CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "NJ Challengers CC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 159,
+          "wkts": 3,
+          "overs": "18"
+        },
+        {
+          "team": "NJ Challengers CC",
+          "runs": 160,
+          "wkts": 7,
+          "overs": "17.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Mario Ramparsaud",
+          "r": 58,
+          "b": 38,
+          "f": 5,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Venkata Aluri",
+          "r": 7,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "r": 72,
+          "b": 41,
+          "f": 3,
+          "s": 3,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 14,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Rathin Rao",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Shelke",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 12,
+          "r": 19,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sreekar Pappu",
+          "balls": 12,
+          "r": 20,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 24,
+          "r": 47,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "balls": 23,
+          "r": 39,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Mario Ramparsaud",
+          "k",
+          1
+        ],
+        [
+          "Rathin Rao",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "r",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ],
+        [
+          "Sreekar Pappu",
+          "c",
+          1
+        ],
+        [
+          "Raviteja Motaparthi",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2693",
+      "date": "2025-06-07",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Vikings CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Spartans CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Vikings CC",
+          "runs": 78,
+          "wkts": 10,
+          "overs": "19"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 79,
+          "wkts": 2,
+          "overs": "9.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Gaurav Pandoh",
+          "r": 41,
+          "b": 23,
+          "f": 4,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Mario Ramparsaud",
+          "r": 16,
+          "b": 14,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Prerak Patel",
+          "r": 14,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Raviteja Motaparthi",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Gaurav Pandoh",
+          "balls": 12,
+          "r": 3,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nikhil Pargaonkar",
+          "balls": 18,
+          "r": 17,
+          "w": 2,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rathin Rao",
+          "balls": 12,
+          "r": 14,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Varender Singh",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 7,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Venkata Aluri",
+          "balls": 18,
+          "r": 10,
+          "w": 2,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Krishna Shelke",
+          "balls": 18,
+          "r": 10,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Jaykishan Parwani",
+          "balls": 18,
+          "r": 7,
+          "w": 2,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Anirudh Badugu",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Venkata Aluri",
+          "c",
+          1
+        ],
+        [
+          "Nikhil Pargaonkar",
+          "c",
+          1
+        ],
+        [
+          "Venkata Aluri",
+          "r",
+          1
+        ],
+        [
+          "Krishna Shelke",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Pandoh",
+          "c",
+          1
+        ],
+        [
+          "Prerak Patel",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2690",
+      "date": "2025-05-31",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "East Coast CC",
+      "ground": "Fairmount Park - 1",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "East Coast CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2678",
+      "date": "2025-05-17",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Stumperz CC",
+      "ground": "Stumperz",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Stumperz CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    }
+  ],
+  "unresolvedFielders": 25
+}

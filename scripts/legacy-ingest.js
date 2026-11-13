@@ -68,8 +68,14 @@ async function results(s, sid, clubId, idName) {
   return { matches, unmapped: [...unmapped] };
 }
 async function rankings(s, sid, clubId) {
-  const h = await pager.html(`${base}/playerRankings.do?divisions=all&league=${sid}&clubId=${clubId}`, { kind: 'rankings', ready: '#tablePlayerRankings, .footer, footer' });
-  let rows = rankRows(RANK(h)); let perTeam = false;
+  const div = (s.groups || []).length > 1 ? 'divisions=all&' : '';
+  let h = await pager.html(`${base}/playerRankings.do?${div}league=${sid}&clubId=${clubId}`, { kind: 'rankings', ready: '#tablePlayerRankings, .footer, footer' });
+  let rows = rankRows(RANK(h));
+  if (!rows.length && div) {
+    h = await pager.html(`${base}/playerRankings.do?league=${sid}&clubId=${clubId}`, { kind: 'rankings', ready: '#tablePlayerRankings, .footer, footer' });
+    rows = rankRows(RANK(h));
+  }
+  let perTeam = false;
   if (rows.length >= CAP) {
     perTeam = true; const all = new Map();
     const n = concurrency(); const slots = Array.from({ length: n }, () => ({ pg: null }));

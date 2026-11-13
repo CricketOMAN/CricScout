@@ -1,0 +1,181 @@
+{
+  "series": {
+    "id": "legacy-43",
+    "name": "2025 GPCL T20"
+  },
+  "playoffs": {
+    "found": false,
+    "pending": false
+  },
+  "teams": {
+    "Villanova CC": {
+      "position": 1,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 9,
+      "lost": 1,
+      "nr": 2,
+      "points": 100,
+      "nrr": 1.731,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+      "playoff": null
+    },
+    "Spartans CC": {
+      "position": 2,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 7,
+      "lost": 2,
+      "nr": 3,
+      "points": 85,
+      "nrr": 1.8367,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+      "playoff": null
+    },
+    "Swat Lions CC": {
+      "position": 3,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 7,
+      "lost": 2,
+      "nr": 3,
+      "points": 85,
+      "nrr": 1.7872,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+      "playoff": null
+    },
+    "Phoenix CC": {
+      "position": 4,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 6,
+      "lost": 3,
+      "nr": 3,
+      "points": 75,
+      "nrr": 0.7266,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+      "playoff": null
+    },
+    "Titans CC": {
+      "position": 5,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 7,
+      "lost": 4,
+      "nr": 1,
+      "points": 75,
+      "nrr": 0.6929,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+      "playoff": null
+    },
+    "Glassboro Guns CC": {
+      "position": 6,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 8,
+      "lost": 3,
+      "nr": 1,
+      "points": 0,
+      "nrr": 0.4409,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+      "playoff": null
+    },
+    "NJ Challengers CC": {
+      "position": 7,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 4,
+      "lost": 4,
+      "nr": 4,
+      "points": 60,
+      "nrr": -0.1255,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+      "playoff": null
+    },
+    "Prior CC": {
+      "position": 8,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 4,
+      "lost": 6,
+      "nr": 2,
+      "points": 50,
+      "nrr": -0.6582,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+      "playoff": null
+    },
+    "Chargers CC": {
+      "position": 9,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 3,
+      "lost": 7,
+      "nr": 2,
+      "points": 40,
+      "nrr": -0.3864,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+      "playoff": null
+    },
+    "Vikings CC": {
+      "position": 10,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 3,
+      "lost": 8,
+      "nr": 1,
+      "points": 35,
+      "nrr": -2.44,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+      "playoff": null
+    },
+    "Lehigh Valley CC": {
+      "position": 11,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 2,
+      "lost": 8,
+      "nr": 2,
+      "points": 30,
+      "nrr": -1.5722,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+      "playoff": null
+    },
+    "East Coast CC": {
+      "position": 12,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 2,
+      "lost": 8,
+      "nr": 2,
+      "points": 30,
+      "nrr": -1.9054,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg",
+      "playoff": null
+    },
+    "Stumperz CC": {
+      "position": 13,
+      "of": 13,
+      "group": null,
+      "played": 12,
+      "won": 2,
+      "lost": 8,
+      "nr": 2,
+      "points": 0,
+      "nrr": -2.3954,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+      "playoff": null
+    }
+  }
+}

@@ -57,13 +57,15 @@ function groupsFromStandings(s, standings) {
     // Past seasons never change: reuse the saved season + standings instead of reloading every group page.
     const old = prev && Object.values(prev.seasons || {}).find(o => o.id === 'legacy-' + s.id);
     if (k !== 'current' && old && prevStandings.some(d => d.series && d.series.id === old.id) && process.env.FULL !== '1') {
-      league.seasons[k] = old.teamGroups ? old : { ...old, teamGroups: groupsFromStandings(old, prevStandings) }; for (const [n, l] of Object.entries(prev.logos || {})) if (!league.logos[n]) league.logos[n] = l;
+      league.seasons[k] = old.teamGroups ? old : { ...old, teamGroups: groupsFromStandings(old, prevStandings) };
+      for (const [n, l] of Object.entries(prev.logos || {})) if (!league.logos[n]) league.logos[n] = l;
+      for (const n of Object.keys(old.teams || {})) names.add(n);
       console.error(' reuse', k, s.name); continue;
     }
     const r = await season(s.id);
     const year = Number((s.name.match(/20\d\d/) || [])[0]) || null;
     league.seasons[k] = { id: 'legacy-' + s.id, name: s.name, startDate: null, year, teams: r.teams, teamGroups: r.teamGroups, groups: r.groups.map(g => ({ id: g.id, name: g.name })) };
-    for (const x of r.all) { if (x.logo && !league.logos[x.name]) league.logos[x.name] = x.logo; if (k === 'current') names.add(x.name); }
+    for (const x of r.all) { if (x.logo && !league.logos[x.name]) league.logos[x.name] = x.logo; names.add(x.name); }
     const doc = { series: { id: 'legacy-' + s.id, name: s.name }, playoffs: { found: false, pending: false }, teams: {} };
     for (const x of r.all) doc.teams[x.name] = { position: x.position, of: x.of, group: x.group, played: x.played, won: x.won, lost: x.lost, nr: x.nr, points: x.points, nrr: x.nrr, logo: x.logo, playoff: null };
     store.writeStandings(code, s.name, doc);

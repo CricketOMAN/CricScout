@@ -1,0 +1,1718 @@
+{
+  "team": "Bensalem CC",
+  "logo": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+  "logos": {
+    "PivotalTech's Rockers": "https://media.cricclubs.com/documentsRep/teamLogos/0bacbd61-e786-4be8-b7ff-391c7d4306ee.jpg",
+    "Spartans CC": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+    "Phoenix CC": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+    "Galloway CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Titans CC": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+    "British Officers CC": "https://media.cricclubs.com/documentsRep/teamLogos/0731bc29-a4b1-437a-a615-fba5caac732a.jpg",
+    "Lehigh Valley CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+    "Khyber CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-224.jpg",
+    "Echelon CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-234.jpg",
+    "Stallions CC": "https://media.cricclubs.com/documentsRep/teamLogos/50a8a599-4597-4092-85cf-7fb7aff33cac.jpg",
+    "South Jersey CC": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+    "StarSportsUS Future Stars CC": "https://media.cricclubs.com/documentsRep/teamLogos/3418eaf9-6553-424e-9a47-9e22c435e258.png",
+    "Chester County Cricket Academy Lions CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Glassboro Guns CC": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+    "Villanova CC": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+    "United XI CC": "https://media.cricclubs.com/documentsRep/teamLogos/f3a8c11c-01a1-4861-ad15-0e0cc28b71cd.jpg",
+    "Chargers CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+    "Vikings CC": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+    "Prior CC": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+    "Bensalem CC": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+    "Swat Lions CC": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+    "Stumperz CC": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+    "NJ Challengers CC": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+    "East Coast CC": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg"
+  },
+  "league": {
+    "code": "GPCL",
+    "name": "GPCL - Greater Philadelphia Cricket League"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-46",
+      "name": "2026 GPCL 40",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:32.881Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=46&clubId=48",
+        "players": {}
+      }
+    },
+    "last": {
+      "id": "legacy-45",
+      "name": "2026 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:40.269Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:40.269Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=45&clubId=48",
+        "players": {
+          "m zafir": {
+            "name": "M Zafir",
+            "matches": 8,
+            "batting": 295,
+            "bowling": 98,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 401
+          },
+          "raza malik": {
+            "name": "Raza Malik",
+            "matches": 6,
+            "batting": 94,
+            "bowling": 94,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 228
+          },
+          "imran ali": {
+            "name": "Imran Ali",
+            "matches": 6,
+            "batting": 28,
+            "bowling": 139,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 167
+          },
+          "qazi ahmad": {
+            "name": "Qazi Ahmad",
+            "matches": 6,
+            "batting": 71,
+            "bowling": 19,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 90
+          },
+          "tamaas khan": {
+            "name": "Tamaas Khan",
+            "matches": 5,
+            "batting": 45,
+            "bowling": 34,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 87
+          },
+          "muhammad usman": {
+            "name": "Muhammad Usman",
+            "matches": 4,
+            "batting": 50,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 58
+          },
+          "humza jut": {
+            "name": "Humza Jut",
+            "matches": 3,
+            "batting": 49,
+            "bowling": -2,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 55
+          },
+          "moaz mumtaz": {
+            "name": "Moaz Mumtaz",
+            "matches": 8,
+            "batting": 15,
+            "bowling": 34,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 49
+          },
+          "shah meer": {
+            "name": "Shah Meer",
+            "matches": 2,
+            "batting": 37,
+            "bowling": 2,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 39
+          },
+          "ashhad bin shahid": {
+            "name": "Ashhad Bin Shahid",
+            "matches": 8,
+            "batting": 23,
+            "bowling": -9,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 26
+          },
+          "arslan shaukat": {
+            "name": "Arslan Shaukat",
+            "matches": 2,
+            "batting": 21,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 21
+          },
+          "anas jut": {
+            "name": "Anas jut",
+            "matches": 4,
+            "batting": 23,
+            "bowling": -5,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 18
+          },
+          "iqbal sofi": {
+            "name": "Iqbal Sofi",
+            "matches": 5,
+            "batting": 3,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 11
+          },
+          "fahad ali": {
+            "name": "Fahad Ali",
+            "matches": 2,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 1
+          },
+          "waqas choudhary": {
+            "name": "Waqas Choudhary",
+            "matches": 3,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "asjad bin shahid": {
+            "name": "Asjad Bin Shahid",
+            "matches": 8,
+            "batting": 4,
+            "bowling": -5,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -1
+          },
+          "fahad ghafoor": {
+            "name": "Fahad Ghafoor",
+            "matches": 4,
+            "batting": -11,
+            "bowling": -3,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": -6
+          }
+        }
+      }
+    },
+    "prev2": {
+      "id": "legacy-43",
+      "name": "2025 GPCL T20",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:47.652Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=43&clubId=48",
+        "players": {}
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-2974",
+      "date": "2026-08-15",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "United XI CC",
+      "ground": "United XI",
+      "result": "United XI CC won by 179 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "United XI CC",
+          "runs": 260,
+          "wkts": 2,
+          "overs": "20"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 81,
+          "wkts": 5,
+          "overs": "16"
+        }
+      ],
+      "batting": [
+        {
+          "name": "M Zafir",
+          "r": 16,
+          "b": 12,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "r": 1,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Qazi Ahmad",
+          "r": 30,
+          "b": 38,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Iqbal Sofi",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "r": 5,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Fahad Ghafoor",
+          "r": 1,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashhad Bin Shahid",
+          "balls": 24,
+          "r": 49,
+          "w": 0,
+          "dots": 6,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "M Zafir",
+          "balls": 24,
+          "r": 55,
+          "w": 1,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Asjad Bin Shahid",
+          "balls": 24,
+          "r": 79,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Qazi Ahmad",
+          "balls": 24,
+          "r": 33,
+          "w": 1,
+          "dots": 7,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "balls": 24,
+          "r": 44,
+          "w": 0,
+          "dots": 4,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Iqbal Sofi",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2961",
+      "date": "2026-08-08",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Spartans CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Spartans CC won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bensalem CC",
+          "runs": 80,
+          "wkts": 5,
+          "overs": "15"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 83,
+          "wkts": 0,
+          "overs": "6.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Asjad Bin Shahid",
+          "r": 9,
+          "b": 29,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Waqas Choudhary",
+          "r": 6,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Arslan Shaukat",
+          "r": 12,
+          "b": 8,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "M Zafir",
+          "r": 33,
+          "b": 23,
+          "f": 0,
+          "s": 5,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Qazi Ahmad",
+          "r": 8,
+          "b": 14,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Iqbal Sofi",
+          "r": 6,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashhad Bin Shahid",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "M Zafir",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 4,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Qazi Ahmad",
+          "balls": 11,
+          "r": 27,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "balls": 6,
+          "r": 23,
+          "w": 0,
+          "dots": 0,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2891",
+      "date": "2026-08-01",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Stumperz CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Forfeited. Winner: Bensalem CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bensalem CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Stumperz CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2936",
+      "date": "2026-07-18",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Prior CC",
+      "ground": "Prior Cricket Ground",
+      "result": "",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Prior CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2916",
+      "date": "2026-07-11",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bensalem CC",
+          "runs": 12,
+          "wkts": 0,
+          "overs": "2.5"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Raza Malik",
+          "r": 2,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Tamaas Khan",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2905",
+      "date": "2026-06-27",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Swat Lions CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Forfeited. Winner: Bensalem CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2897",
+      "date": "2026-06-20",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Lehigh Valley CC won by 117 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 252,
+          "wkts": 4,
+          "overs": "20"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 135,
+          "wkts": 9,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Asjad Bin Shahid",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Raza Malik",
+          "r": 15,
+          "b": 15,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Fahad Ghafoor",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "r": 7,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "M Zafir",
+          "r": 37,
+          "b": 24,
+          "f": 2,
+          "s": 4,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Muhammad Usman",
+          "r": 14,
+          "b": 27,
+          "f": 2,
+          "s": 4,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Imran Ali",
+          "r": 16,
+          "b": 15,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Anas Jut",
+          "r": 15,
+          "b": 7,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "r": 4,
+          "b": 2,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Waqas Choudhary",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashhad Bin Shahid",
+          "balls": 6,
+          "r": 15,
+          "w": 0,
+          "dots": 4,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Imran Ali",
+          "balls": 24,
+          "r": 22,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "M Zafir",
+          "balls": 24,
+          "r": 63,
+          "w": 1,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Raza Malik",
+          "balls": 24,
+          "r": 54,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Asjad Bin Shahid",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 4,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "balls": 18,
+          "r": 34,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Anas Jut",
+          "balls": 18,
+          "r": 49,
+          "w": 0,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "M Zafir",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2882",
+      "date": "2026-06-13",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Villanova CC won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bensalem CC",
+          "runs": 133,
+          "wkts": 10,
+          "overs": "19.1"
+        },
+        {
+          "team": "Villanova CC",
+          "runs": 134,
+          "wkts": 3,
+          "overs": "17"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Raza Malik",
+          "r": 32,
+          "b": 33,
+          "f": 1,
+          "s": 3,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Humza Jut",
+          "r": 24,
+          "b": 9,
+          "f": 0,
+          "s": 4,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "M Zafir",
+          "r": 25,
+          "b": 16,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Tamaas Khan",
+          "r": 15,
+          "b": 14,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Shah Meer",
+          "r": 20,
+          "b": 8,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Asjad Bin Shahid",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Anas Jut",
+          "r": 3,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Qazi Ahmad",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Imran Ali",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Raza Malik",
+          "balls": 24,
+          "r": 27,
+          "w": 0,
+          "dots": 13,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Shah Meer",
+          "balls": 18,
+          "r": 21,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "M Zafir",
+          "balls": 12,
+          "r": 14,
+          "w": 1,
+          "dots": 7,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 12,
+          "r": 27,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Imran Ali",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Humza Jut",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Asjad Bin Shahid",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Tamaas Khan",
+          "c",
+          1
+        ],
+        [
+          "Humza Jut",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2858",
+      "date": "2026-05-30",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Phoenix CC won by 136 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Phoenix CC",
+          "runs": 197,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 61,
+          "wkts": 10,
+          "overs": "14.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Tamaas Khan",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Raza Malik",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Waqas Choudhary",
+          "r": 1,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "M Zafir",
+          "r": 24,
+          "b": 19,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Iqbal Sofi",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Qazi Ahmad",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Imran Ali",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "r": 11,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Asjad Bin Shahid",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Fahad Ali",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Raza Malik",
+          "balls": 24,
+          "r": 28,
+          "w": 0,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "balls": 24,
+          "r": 61,
+          "w": 0,
+          "dots": 4,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Waqas Choudhary",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 24,
+          "r": 33,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Imran Ali",
+          "balls": 24,
+          "r": 29,
+          "w": 1,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "M Zafir",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Iqbal Sofi",
+          "balls": 6,
+          "r": 17,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Raza Malik",
+          "r",
+          2
+        ],
+        [
+          "Raza Malik",
+          "k",
+          1
+        ],
+        [
+          "Ashhad Bin Shahid",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2849",
+      "date": "2026-05-16",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Vikings CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Vikings CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bensalem CC",
+          "runs": 97,
+          "wkts": 10,
+          "overs": "18.1"
+        },
+        {
+          "team": "Vikings CC",
+          "runs": 98,
+          "wkts": 6,
+          "overs": "17"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Tamaas Khan",
+          "r": 10,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Raza Malik",
+          "r": 25,
+          "b": 16,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Fahad Ghafoor",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Muhammad Usman",
+          "r": 19,
+          "b": 22,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "M Zafir",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Anas Jut",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Imran Ali",
+          "r": 7,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Qazi Ahmad",
+          "r": 5,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "r": 8,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ctw"
+        },
+        {
+          "name": "Asjad Bin Shahid",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Raza Malik",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 18,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "balls": 18,
+          "r": 25,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "M Zafir",
+          "balls": 24,
+          "r": 19,
+          "w": 2,
+          "dots": 13,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Asjad Bin Shahid",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Imran Ali",
+          "balls": 18,
+          "r": 17,
+          "w": 1,
+          "dots": 8,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 12,
+          "r": 11,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Muhammad Usman",
+          "c",
+          1
+        ],
+        [
+          "Fahad Ghafoor",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2832",
+      "date": "2026-05-02",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Titans CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Titans CC won by 62 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 204,
+          "wkts": 3,
+          "overs": "20"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 142,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Tamaas Khan",
+          "r": 10,
+          "b": 11,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Fahad Ghafoor",
+          "r": 1,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Raza Malik",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Muhammad Usman",
+          "r": 10,
+          "b": 15,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "M Zafir",
+          "r": 61,
+          "b": 38,
+          "f": 1,
+          "s": 7,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Moaz Mumtaz",
+          "r": 19,
+          "b": 20,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Humza Jut",
+          "r": 5,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Qazi Ahmad",
+          "r": 16,
+          "b": 10,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Raza Malik",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 11,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 12,
+          "r": 30,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Ashhad Bin Shahid",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "M Zafir",
+          "balls": 18,
+          "r": 28,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Imran Ali",
+          "balls": 18,
+          "r": 24,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Humza Jut",
+          "balls": 18,
+          "r": 25,
+          "w": 0,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Fahad Ghafoor",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Qazi Ahmad",
+          "balls": 6,
+          "r": 23,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Raza Malik",
+          "c",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 0
+}

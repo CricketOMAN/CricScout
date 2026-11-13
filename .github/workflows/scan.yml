@@ -1,20 +1,16 @@
 name: Scan
 
 on:
-  schedule:
-    - cron: '0 10 * * 1'
   workflow_dispatch:
     inputs:
       league:
-        description: League code or cricclubs.com URL
-        required: true
+        description: League code or cricclubs.com URL (leave empty to rescan all cached leagues/teams)
+        required: false
         type: string
       team:
         description: Team name. Leave empty to only add or refresh the league.
         required: false
         type: string
-  issues:
-    types: [opened, labeled]
 
 permissions: {}
 

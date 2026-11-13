@@ -1,0 +1,3695 @@
+{
+  "team": "Swat Lions CC",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+  "logos": {
+    "PivotalTech's Rockers": "https://media.cricclubs.com/documentsRep/teamLogos/0bacbd61-e786-4be8-b7ff-391c7d4306ee.jpg",
+    "Spartans CC": "https://media.cricclubs.com/documentsRep/teamLogos/116589b9-f0db-466f-8e7d-2fda8a0ee755.jpg",
+    "Phoenix CC": "https://media.cricclubs.com/documentsRep/teamLogos/7c4b25b4-188f-4a9c-9207-87779acdcd7e.jpg",
+    "Galloway CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Titans CC": "https://media.cricclubs.com/documentsRep/teamLogos/009c0b77-15ab-4441-bcae-a5512f28d2aa.jpg",
+    "British Officers CC": "https://media.cricclubs.com/documentsRep/teamLogos/0731bc29-a4b1-437a-a615-fba5caac732a.jpg",
+    "Lehigh Valley CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-237.jpg",
+    "Khyber CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-224.jpg",
+    "Echelon CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-234.jpg",
+    "Stallions CC": "https://media.cricclubs.com/documentsRep/teamLogos/50a8a599-4597-4092-85cf-7fb7aff33cac.jpg",
+    "South Jersey CC": "https://media.cricclubs.com/documentsRep/teamLogos/07979c0e-48c6-48df-a260-e5d7712bafb7.jpg",
+    "StarSportsUS Future Stars CC": "https://media.cricclubs.com/documentsRep/teamLogos/3418eaf9-6553-424e-9a47-9e22c435e258.png",
+    "Chester County Cricket Academy Lions CC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Glassboro Guns CC": "https://media.cricclubs.com/documentsRep/teamLogos/ed86837a-637b-41f5-a437-e46fb7a03c9c.jpg",
+    "Villanova CC": "https://media.cricclubs.com/documentsRep/teamLogos/740fe471-4d0f-403f-831e-61b25d8f52e4.jpg",
+    "United XI CC": "https://media.cricclubs.com/documentsRep/teamLogos/f3a8c11c-01a1-4861-ad15-0e0cc28b71cd.jpg",
+    "Chargers CC": "https://media.cricclubs.com/documentsRep/teamLogos/48-teamLogo-228.jpg",
+    "Vikings CC": "https://media.cricclubs.com/documentsRep/teamLogos/d877dd63-9711-4741-a1d7-1bdbd6dd0476.jpg",
+    "Prior CC": "https://media.cricclubs.com/documentsRep/teamLogos/d6cfa940-d8ae-4cb2-89e9-aa4290125884.jpg",
+    "Bensalem CC": "https://media.cricclubs.com/documentsRep/documents/4d8ba493-5837-4f42-9568-9bef2c557afc.webp",
+    "Swat Lions CC": "https://media.cricclubs.com/documentsRep/teamLogos/72afa0cc-1680-4a25-a2d0-a40f976bba20.png",
+    "Stumperz CC": "https://media.cricclubs.com/documentsRep/teamLogos/1acbf849-de8b-4606-b003-700738b042e5.jpg",
+    "NJ Challengers CC": "https://media.cricclubs.com/documentsRep/teamLogos/dd7c6811-96eb-4def-b1ed-2fe0d2f8b917.jpg",
+    "East Coast CC": "https://media.cricclubs.com/documentsRep/teamLogos/38e118d7-a3d4-4810-8dc8-eb2248fd6df2.jpg"
+  },
+  "league": {
+    "code": "GPCL",
+    "name": "GPCL - Greater Philadelphia Cricket League"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-46",
+      "name": "2026 GPCL 40",
+      "inSeason": false,
+      "scrapedAt": null,
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:32.881Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=46&clubId=48",
+        "players": {}
+      }
+    },
+    "last": {
+      "id": "legacy-45",
+      "name": "2026 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:40.269Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:40.269Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=45&clubId=48",
+        "players": {
+          "austin mathew": {
+            "name": "Austin Mathew",
+            "matches": 2,
+            "batting": 105,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 113
+          },
+          "yousef khan": {
+            "name": "Yousef Khan (Yuzi)",
+            "matches": 1,
+            "batting": 2,
+            "bowling": 64,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 66
+          },
+          "adalat khan": {
+            "name": "Adalat Khan",
+            "matches": 1,
+            "batting": 65,
+            "bowling": -3,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 62
+          },
+          "aziz wali": {
+            "name": "Aziz Wali",
+            "matches": 2,
+            "batting": 23,
+            "bowling": 27,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 62
+          },
+          "fahad butt": {
+            "name": "Fahad Butt",
+            "matches": 1,
+            "batting": 31,
+            "bowling": 5,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 36
+          },
+          "sayed ali abbas": {
+            "name": "Sayed Ali Abbas",
+            "matches": 1,
+            "batting": 7,
+            "bowling": 17,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 32
+          },
+          "hashim bajwa": {
+            "name": "Hashim Bajwa",
+            "matches": 1,
+            "batting": 16,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 16
+          },
+          "nawaz khan": {
+            "name": "Nawaz Khan",
+            "matches": 1,
+            "batting": 8,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 16
+          },
+          "muhammad ayaz": {
+            "name": "Muhammad Ayaz",
+            "matches": 1,
+            "batting": 14,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 14
+          },
+          "irfanullah khan": {
+            "name": "Irfanullah Khan",
+            "matches": 1,
+            "batting": 14,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 14
+          },
+          "asad khan": {
+            "name": "Asad Khan",
+            "matches": 2,
+            "batting": -1,
+            "bowling": 14,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 13
+          },
+          "zafar khan": {
+            "name": "Zafar Khan",
+            "matches": 2,
+            "batting": 4,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 4
+          },
+          "adnan khan": {
+            "name": "Adnan Khan",
+            "matches": 1,
+            "batting": 3,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 3
+          },
+          "liaqat khan": {
+            "name": "Liaqat Khan",
+            "matches": 1,
+            "batting": 2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 2
+          },
+          "santhosh ks": {
+            "name": "Santhosh Ks",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 1
+          },
+          "imad khan": {
+            "name": "Imad Khan",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 2,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "mohsin ali": {
+            "name": "Mohsin Ali",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 2,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "zakaria khan": {
+            "name": "Zakaria Khan",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -2
+          }
+        }
+      }
+    },
+    "prev2": {
+      "id": "legacy-43",
+      "name": "2025 GPCL T20",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T18:40:47.652Z",
+      "points": {
+        "fetchedAt": "2026-11-13T18:40:47.652Z",
+        "source": "https://cricclubs.com/GPCL/playerRankings.do?divisions=all&league=43&clubId=48",
+        "players": {
+          "aziz wali": {
+            "name": "Aziz Wali",
+            "matches": 11,
+            "batting": 429,
+            "bowling": 155,
+            "fielding": 36,
+            "other": 50,
+            "mom": 2,
+            "total": 670
+          },
+          "habib shah": {
+            "name": "Habib Shah",
+            "matches": 9,
+            "batting": 233,
+            "bowling": 272,
+            "fielding": 66,
+            "other": 50,
+            "mom": 2,
+            "total": 621
+          },
+          "sarwar shah": {
+            "name": "Sarwar Shah",
+            "matches": 8,
+            "batting": 210,
+            "bowling": 311,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 561
+          },
+          "austin mathew": {
+            "name": "Austin Mathew",
+            "matches": 8,
+            "batting": 418,
+            "bowling": -1,
+            "fielding": 24,
+            "other": 25,
+            "mom": 1,
+            "total": 466
+          },
+          "yousef khan": {
+            "name": "Yousef Khan (Yuzi)",
+            "matches": 13,
+            "batting": 100,
+            "bowling": 282,
+            "fielding": 66,
+            "other": 0,
+            "mom": 0,
+            "total": 448
+          },
+          "imad khan": {
+            "name": "Imad Khan",
+            "matches": 11,
+            "batting": 24,
+            "bowling": 312,
+            "fielding": 78,
+            "other": 25,
+            "mom": 1,
+            "total": 439
+          },
+          "zakaria khan": {
+            "name": "Zakaria Khan",
+            "matches": 11,
+            "batting": 292,
+            "bowling": 20,
+            "fielding": 76,
+            "other": 0,
+            "mom": 0,
+            "total": 388
+          },
+          "adalat khan": {
+            "name": "Adalat Khan",
+            "matches": 9,
+            "batting": 94,
+            "bowling": 203,
+            "fielding": 26,
+            "other": 0,
+            "mom": 0,
+            "total": 323
+          },
+          "ibrar alam": {
+            "name": "Ibrar Alam",
+            "matches": 6,
+            "batting": 82,
+            "bowling": 176,
+            "fielding": 14,
+            "other": 25,
+            "mom": 1,
+            "total": 297
+          },
+          "tamaas khan": {
+            "name": "Tamaas Khan",
+            "matches": 7,
+            "batting": 183,
+            "bowling": 38,
+            "fielding": 30,
+            "other": 0,
+            "mom": 0,
+            "total": 251
+          },
+          "abid aziz": {
+            "name": "Abid Aziz",
+            "matches": 7,
+            "batting": 39,
+            "bowling": 61,
+            "fielding": 60,
+            "other": 25,
+            "mom": 1,
+            "total": 185
+          },
+          "nawaz khan": {
+            "name": "Nawaz Khan",
+            "matches": 13,
+            "batting": 125,
+            "bowling": 0,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 165
+          },
+          "waqas khan": {
+            "name": "Waqas Khan",
+            "matches": 7,
+            "batting": 5,
+            "bowling": 115,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 136
+          },
+          "fawad khan": {
+            "name": "Fawad Khan",
+            "matches": 5,
+            "batting": 82,
+            "bowling": 22,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 124
+          },
+          "muhammad ayaz": {
+            "name": "Muhammad Ayaz",
+            "matches": 6,
+            "batting": 53,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 61
+          },
+          "mushtaq khan": {
+            "name": "Mushtaq Khan",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 42,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 42
+          },
+          "ihsan ali": {
+            "name": "Ihsan Ali",
+            "matches": 1,
+            "batting": -2,
+            "bowling": 43,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 41
+          },
+          "asad khan": {
+            "name": "Asad Khan",
+            "matches": 4,
+            "batting": -4,
+            "bowling": 22,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 26
+          },
+          "fahad butt": {
+            "name": "Fahad Butt",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 8
+          },
+          "liaqat khan": {
+            "name": "Liaqat Khan",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 8
+          },
+          "fazlullah shakoor": {
+            "name": "Fazlullah Shakoor",
+            "matches": 3,
+            "batting": 0,
+            "bowling": 7,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 7
+          },
+          "azmat rasheed": {
+            "name": "Azmat Rasheed",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-2970",
+      "date": "2026-08-22",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Forfeited. Winner: Villanova CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2971",
+      "date": "2026-08-15",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Vikings CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Forfeited. Winner: Vikings CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Vikings CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2919",
+      "date": "2026-08-01",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Forfeited. Winner: Glassboro Guns CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2937",
+      "date": "2026-07-25",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Chargers CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Forfeited. Winner: Chargers CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Chargers CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2914",
+      "date": "2026-07-11",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Titans CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Forfeited. Winner: Titans CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2905",
+      "date": "2026-06-27",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Bensalem CC",
+      "ground": "ECG 1 (Barn End)",
+      "result": "Forfeited. Winner: Bensalem CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Bensalem CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2894",
+      "date": "2026-06-20",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Prior CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Forfeited. Winner: Prior CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2883",
+      "date": "2026-06-13",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Spartans CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Forfeited. Winner: Spartans CC",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2851",
+      "date": "2026-05-16",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "United XI CC",
+      "ground": "United XI",
+      "result": "United XI CC won by 20 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "United XI CC",
+          "runs": 172,
+          "wkts": 5,
+          "overs": "18"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 152,
+          "wkts": 9,
+          "overs": "18"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Hashim Bajwa",
+          "r": 12,
+          "b": 10,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Austin Mathew",
+          "r": 49,
+          "b": 26,
+          "f": 5,
+          "s": 3,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Muhammad Ayaz",
+          "r": 11,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Aziz Wali",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sayed Ali Abbas",
+          "r": 6,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 6,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Asad Khan",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Irfanullah Khan",
+          "r": 11,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Adalat Khan",
+          "r": 41,
+          "b": 20,
+          "f": 1,
+          "s": 4,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Adnan Khan",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 38,
+          "w": 3,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 18,
+          "r": 31,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aziz Wali",
+          "balls": 24,
+          "r": 27,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sayed Ali Abbas",
+          "balls": 24,
+          "r": 40,
+          "w": 1,
+          "dots": 4,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Asad Khan",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Austin Mathew",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sayed Ali Abbas",
+          "c",
+          1
+        ],
+        [
+          "Austin Mathew",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2842",
+      "date": "2026-05-09",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Phoenix CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 97,
+          "wkts": 10,
+          "overs": "17.2"
+        },
+        {
+          "team": "Phoenix CC",
+          "runs": 100,
+          "wkts": 2,
+          "overs": "13.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aziz Wali",
+          "r": 17,
+          "b": 15,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Fahad Butt",
+          "r": 26,
+          "b": 23,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Austin Mathew",
+          "r": 28,
+          "b": 24,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 7,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Santhosh Ks",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Mohsin Ali",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Zafar Khan",
+          "r": 4,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Asad Khan",
+          "r": 2,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Imad Khan",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Liaqat Khan",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Imad Khan",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Fahad Butt",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aziz Wali",
+          "balls": 18,
+          "r": 15,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Mohsin Ali",
+          "balls": 18,
+          "r": 23,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Asad Khan",
+          "balls": 12,
+          "r": 22,
+          "w": 1,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Zakaria Khan",
+          "balls": 3,
+          "r": 9,
+          "w": 0,
+          "dots": 0,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Nawaz Khan",
+          "c",
+          1
+        ],
+        [
+          "Aziz Wali",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2829",
+      "date": "2026-04-25",
+      "series": "2026 GPCL T20",
+      "seriesId": "legacy-45",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2824",
+      "date": "2025-10-11",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Swat Lions CC won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 161,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 164,
+          "wkts": 6,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aziz Wali",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Austin Mathew",
+          "r": 54,
+          "b": 24,
+          "f": 3,
+          "s": 5,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Habib Shah",
+          "r": 43,
+          "b": 47,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 4,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Abid Aziz",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 15,
+          "b": 8,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 21,
+          "b": 15,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Adalat Khan",
+          "r": 10,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 46,
+          "w": 1,
+          "dots": 7,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Habib Shah",
+          "balls": 24,
+          "r": 21,
+          "w": 4,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 24,
+          "r": 19,
+          "w": 2,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Waqas Khan",
+          "balls": 24,
+          "r": 33,
+          "w": 1,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 12,
+          "r": 20,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aziz Wali",
+          "c",
+          1
+        ],
+        [
+          "Waqas Khan",
+          "c",
+          1
+        ],
+        [
+          "Austin Mathew",
+          "c",
+          1
+        ],
+        [
+          "Abid Aziz",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2823",
+      "date": "2025-10-04",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Swat Lions CC won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Phoenix CC",
+          "runs": 159,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 163,
+          "wkts": 5,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aziz Wali",
+          "r": 44,
+          "b": 18,
+          "f": 2,
+          "s": 5,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Austin Mathew",
+          "r": 43,
+          "b": 18,
+          "f": 4,
+          "s": 4,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Tamaas Khan",
+          "r": 8,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Habib Shah",
+          "r": 17,
+          "b": 10,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 39,
+          "b": 16,
+          "f": 4,
+          "s": 3,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Muhammad Ayaz",
+          "r": 4,
+          "b": 1,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 33,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Habib Shah",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 24,
+          "r": 34,
+          "w": 1,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Abid Aziz",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aziz Wali",
+          "balls": 12,
+          "r": 18,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 24,
+          "r": 27,
+          "w": 1,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Habib Shah",
+          "r",
+          2
+        ],
+        [
+          "Imad Khan",
+          "c",
+          1
+        ],
+        [
+          "Habib Shah",
+          "c",
+          2
+        ],
+        [
+          "Zakaria Khan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2821",
+      "date": "2025-09-27",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Titans CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Swat Lions CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 161,
+          "wkts": 10,
+          "overs": "19.1"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 163,
+          "wkts": 4,
+          "overs": "18.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aziz Wali",
+          "r": 33,
+          "b": 14,
+          "f": 2,
+          "s": 4,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 35,
+          "b": 30,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Habib Shah",
+          "r": 50,
+          "b": 39,
+          "f": 1,
+          "s": 3,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Abid Aziz",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 10,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 22,
+          "b": 8,
+          "f": 0,
+          "s": 3,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 29,
+          "w": 3,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 24,
+          "r": 43,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Habib Shah",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 19,
+          "r": 38,
+          "w": 1,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Aziz Wali",
+          "balls": 24,
+          "r": 29,
+          "w": 3,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Adalat Khan",
+          "c",
+          1
+        ],
+        [
+          "Yousef Khan (Yuzi)",
+          "c",
+          2
+        ],
+        [
+          "Adalat Khan",
+          "r",
+          1
+        ],
+        [
+          "Zakaria Khan",
+          "c",
+          1
+        ],
+        [
+          "Habib Shah",
+          "c",
+          1
+        ],
+        [
+          "Imad Khan",
+          "c",
+          1
+        ],
+        [
+          "Imad Khan",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2818",
+      "date": "2025-09-20",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Spartans CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Spartans CC won by 6 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Spartans CC",
+          "runs": 158,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 152,
+          "wkts": 10,
+          "overs": "19.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Austin Mathew",
+          "r": 8,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Tamaas Khan",
+          "r": 6,
+          "b": 4,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Sarwar Shah",
+          "r": 65,
+          "b": 38,
+          "f": 7,
+          "s": 3,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Aziz Wali",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 14,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Habib Shah",
+          "r": 11,
+          "b": 8,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Adalat Khan",
+          "r": 13,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Muhammad Ayaz",
+          "r": 6,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Waqas Khan",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 35,
+          "w": 1,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Sarwar Shah",
+          "balls": 24,
+          "r": 26,
+          "w": 4,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Habib Shah",
+          "balls": 18,
+          "r": 25,
+          "w": 0,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Waqas Khan",
+          "balls": 24,
+          "r": 37,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aziz Wali",
+          "balls": 24,
+          "r": 26,
+          "w": 2,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Zakaria Khan",
+          "k",
+          3
+        ],
+        [
+          "Yousef Khan (Yuzi)",
+          "c",
+          1
+        ],
+        [
+          "Sarwar Shah",
+          "c",
+          1
+        ],
+        [
+          "Waqas Khan",
+          "c",
+          1
+        ],
+        [
+          "Yousef Khan (Yuzi)",
+          "r",
+          1
+        ],
+        [
+          "Aziz Wali",
+          "r",
+          2
+        ],
+        [
+          "Tamaas Khan",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2807",
+      "date": "2025-09-06",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Titans CC",
+      "ground": "ECG2",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Titans CC",
+          "runs": 135,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 28,
+          "wkts": 2,
+          "overs": "4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Austin Mathew",
+          "r": 16,
+          "b": 11,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Aziz Wali",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Sarwar Shah",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 25,
+          "w": 0,
+          "dots": 11,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Habib Shah",
+          "balls": 24,
+          "r": 18,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sarwar Shah",
+          "balls": 24,
+          "r": 25,
+          "w": 3,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 24,
+          "r": 24,
+          "w": 3,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 12,
+          "r": 19,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Abid Aziz",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Zakaria Khan",
+          "k",
+          1
+        ],
+        [
+          "Imad Khan",
+          "r",
+          1
+        ],
+        [
+          "Habib Shah",
+          "r",
+          1
+        ],
+        [
+          "Austin Mathew",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2800",
+      "date": "2025-08-23",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Stumperz CC",
+      "ground": "Stumperz",
+      "result": "Swat Lions CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Stumperz CC",
+          "runs": 142,
+          "wkts": 2,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 145,
+          "wkts": 2,
+          "overs": "13.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Austin Mathew",
+          "r": 100,
+          "b": 47,
+          "f": 11,
+          "s": 6,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 4,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Muhammad Ayaz",
+          "r": 13,
+          "b": 20,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 21,
+          "b": 8,
+          "f": 1,
+          "s": 2,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 24,
+          "r": 24,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Waqas Khan",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 2,
+          "wd": 11,
+          "nb": 0
+        },
+        {
+          "name": "Mushtaq Khan",
+          "balls": 24,
+          "r": 36,
+          "w": 2,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Fazlullah Shakoor",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 5,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Austin Mathew",
+          "balls": 12,
+          "r": 19,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Fawad Khan",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Yousef Khan (Yuzi)",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2792",
+      "date": "2025-08-16",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Prior CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Swat Lions CC won by 82 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 178,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Prior CC",
+          "runs": 96,
+          "wkts": 10,
+          "overs": "16.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Austin Mathew",
+          "r": 45,
+          "b": 23,
+          "f": 4,
+          "s": 4,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Aziz Wali",
+          "r": 42,
+          "b": 43,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Fawad Khan",
+          "r": 23,
+          "b": 21,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "st"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 17,
+          "b": 9,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Abid Aziz",
+          "r": 22,
+          "b": 14,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "rt"
+        },
+        {
+          "name": "Muhammad Ayaz",
+          "r": 16,
+          "b": 8,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Adalat Khan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 20,
+          "r": 12,
+          "w": 2,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 18,
+          "r": 15,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 18,
+          "r": 16,
+          "w": 3,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Abid Aziz",
+          "balls": 18,
+          "r": 21,
+          "w": 3,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Fazlullah Shakoor",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aziz Wali",
+          "balls": 12,
+          "r": 24,
+          "w": 1,
+          "dots": 4,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Imad Khan",
+          "c",
+          1
+        ],
+        [
+          "Abid Aziz",
+          "c",
+          5
+        ],
+        [
+          "Austin Mathew",
+          "c",
+          1
+        ],
+        [
+          "Nawaz Khan",
+          "c",
+          1
+        ],
+        [
+          "Muhammad Ayaz",
+          "c",
+          1
+        ],
+        [
+          "Fahad Butt",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2779",
+      "date": "2025-08-09",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Lehigh Valley CC",
+      "ground": "Lehigh Valley Cricket Ground",
+      "result": "Forfeited. Winner: Swat Lions CC",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Lehigh Valley CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2757",
+      "date": "2025-07-26",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Spartans CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Swat Lions CC won by 33 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 172,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Spartans CC",
+          "runs": 139,
+          "wkts": 10,
+          "overs": "18.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Nawaz Khan",
+          "r": 10,
+          "b": 8,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Tamaas Khan",
+          "r": 33,
+          "b": 22,
+          "f": 1,
+          "s": 4,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Sarwar Shah",
+          "r": 34,
+          "b": 20,
+          "f": 4,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Habib Shah",
+          "r": 39,
+          "b": 26,
+          "f": 1,
+          "s": 3,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Adalat Khan",
+          "r": 38,
+          "b": 31,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Waqas Khan",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Asad Khan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Abid Aziz",
+          "r": 4,
+          "b": 1,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Imad Khan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Habib Shah",
+          "balls": 12,
+          "r": 26,
+          "w": 1,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sarwar Shah",
+          "balls": 18,
+          "r": 27,
+          "w": 0,
+          "dots": 4,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 20,
+          "r": 26,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Waqas Khan",
+          "balls": 12,
+          "r": 9,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 18,
+          "r": 17,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 24,
+          "r": 19,
+          "w": 4,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 3
+        }
+      ],
+      "fielding": [
+        [
+          "Sarwar Shah",
+          "c",
+          2
+        ],
+        [
+          "Nawaz Khan",
+          "c",
+          1
+        ],
+        [
+          "Tamaas Khan",
+          "c",
+          2
+        ],
+        [
+          "Abid Aziz",
+          "c",
+          1
+        ],
+        [
+          "Habib Shah",
+          "r",
+          2
+        ],
+        [
+          "Adalat Khan",
+          "r",
+          1
+        ],
+        [
+          "Yousef Khan (Yuzi)",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2745",
+      "date": "2025-07-12",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "NJ Challengers CC",
+      "ground": "Voorhees Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NJ Challengers CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2724",
+      "date": "2025-06-28",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Phoenix CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Phoenix CC won by 14 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Phoenix CC",
+          "runs": 187,
+          "wkts": 3,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 173,
+          "wkts": 10,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Habib Shah",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sarwar Shah",
+          "r": 33,
+          "b": 17,
+          "f": 5,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Aziz Wali",
+          "r": 21,
+          "b": 17,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ibrar Alam",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 11,
+          "b": 7,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Tamaas Khan",
+          "r": 32,
+          "b": 17,
+          "f": 1,
+          "s": 4,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Adalat Khan",
+          "r": 10,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 31,
+          "b": 16,
+          "f": 1,
+          "s": 3,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Imad Khan",
+          "r": 12,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Asad Khan",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "other"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Habib Shah",
+          "balls": 18,
+          "r": 31,
+          "w": 0,
+          "dots": 9,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Sarwar Shah",
+          "balls": 12,
+          "r": 24,
+          "w": 0,
+          "dots": 5,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 35,
+          "w": 1,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Adalat Khan",
+          "balls": 18,
+          "r": 25,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 1,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Ibrar Alam",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 24,
+          "r": 33,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Ibrar Alam",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2723",
+      "date": "2025-06-28",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Villanova CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Villanova CC won by 47 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Villanova CC",
+          "runs": 129,
+          "wkts": 5,
+          "overs": "17"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 82,
+          "wkts": 7,
+          "overs": "16"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ibrar Alam",
+          "r": 27,
+          "b": 43,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Aziz Wali",
+          "r": 24,
+          "b": 23,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Tamaas Khan",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "rt"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 18,
+          "b": 8,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sarwar Shah",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Habib Shah",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Imad Khan",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sarwar Shah",
+          "balls": 18,
+          "r": 26,
+          "w": 1,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Habib Shah",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 18,
+          "r": 12,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 12,
+          "r": 33,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Waqas Khan",
+          "balls": 18,
+          "r": 16,
+          "w": 2,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ibrar Alam",
+          "balls": 18,
+          "r": 10,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Zakaria Khan",
+          "k",
+          1
+        ],
+        [
+          "Nawaz Khan",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2713",
+      "date": "2025-06-21",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Chargers CC",
+      "ground": "Knights Cricket Ground",
+      "result": "Swat Lions CC won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chargers CC",
+          "runs": 129,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 130,
+          "wkts": 2,
+          "overs": "13.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aziz Wali",
+          "r": 90,
+          "b": 49,
+          "f": 6,
+          "s": 9,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 5,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Fawad Khan",
+          "r": 19,
+          "b": 18,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 10,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 18,
+          "r": 12,
+          "w": 2,
+          "dots": 13,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Ibrar Alam",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sarwar Shah",
+          "balls": 24,
+          "r": 23,
+          "w": 2,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 18,
+          "r": 15,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Habib Shah",
+          "balls": 24,
+          "r": 22,
+          "w": 3,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Tamaas Khan",
+          "balls": 18,
+          "r": 35,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Azmat Rasheed",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Zakaria Khan",
+          "c",
+          1
+        ],
+        [
+          "Nawaz Khan",
+          "k",
+          1
+        ],
+        [
+          "Imad Khan",
+          "c",
+          1
+        ],
+        [
+          "Yousef Khan (Yuzi)",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2703",
+      "date": "2025-06-14",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Vikings CC",
+      "ground": "Stallions- Exton, PA",
+      "result": "Swat Lions CC won by 56 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Swat Lions CC",
+          "runs": 166,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Vikings CC",
+          "runs": 110,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aziz Wali",
+          "r": 17,
+          "b": 8,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Fawad Khan",
+          "r": 22,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Sarwar Shah",
+          "r": 11,
+          "b": 13,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 12,
+          "b": 15,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Zakaria Khan",
+          "r": 12,
+          "b": 7,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Tamaas Khan",
+          "r": 42,
+          "b": 25,
+          "f": 1,
+          "s": 3,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Ibrar Alam",
+          "r": 30,
+          "b": 18,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 10,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Asad Khan",
+          "balls": 12,
+          "r": 12,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Waqas Khan",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sarwar Shah",
+          "balls": 18,
+          "r": 14,
+          "w": 2,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 24,
+          "r": 22,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ibrar Alam",
+          "balls": 18,
+          "r": 11,
+          "w": 3,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aziz Wali",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Zakaria Khan",
+          "balls": 6,
+          "r": 11,
+          "w": 1,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Fawad Khan",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Tamaas Khan",
+          "c",
+          1
+        ],
+        [
+          "Asad Khan",
+          "c",
+          1
+        ],
+        [
+          "Sarwar Shah",
+          "c",
+          1
+        ],
+        [
+          "Aziz Wali",
+          "c",
+          1
+        ],
+        [
+          "Zakaria Khan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2687",
+      "date": "2025-05-31",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "Glassboro Guns CC",
+      "ground": "Echelon Cricket Ground",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Glassboro Guns CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2671",
+      "date": "2025-05-17",
+      "series": "2025 GPCL T20",
+      "seriesId": "legacy-43",
+      "opponent": "East Coast CC",
+      "ground": "GPCL Ground - Exton",
+      "result": "Swat Lions CC won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "East Coast CC",
+          "runs": 66,
+          "wkts": 10,
+          "overs": "16.2"
+        },
+        {
+          "team": "Swat Lions CC",
+          "runs": 67,
+          "wkts": 4,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ihsan Ali",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Fawad Khan",
+          "r": 10,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Nawaz Khan",
+          "r": 7,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "r": 19,
+          "b": 29,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Aziz Wali",
+          "r": 19,
+          "b": 19,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Ibrar Alam",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sarwar Shah",
+          "balls": 12,
+          "r": 1,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aziz Wali",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Waqas Khan",
+          "balls": 12,
+          "r": 15,
+          "w": 0,
+          "dots": 7,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Imad Khan",
+          "balls": 18,
+          "r": 13,
+          "w": 3,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Yousef Khan (Yuzi)",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ibrar Alam",
+          "balls": 18,
+          "r": 5,
+          "w": 2,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ihsan Ali",
+          "balls": 8,
+          "r": 12,
+          "w": 2,
+          "dots": 3,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Liaqat Khan",
+          "c",
+          1
+        ],
+        [
+          "Imad Khan",
+          "c",
+          3
+        ],
+        [
+          "Fawad Khan",
+          "c",
+          1
+        ],
+        [
+          "Sarwar Shah",
+          "c",
+          1
+        ],
+        [
+          "Aziz Wali",
+          "c",
+          1
+        ],
+        [
+          "Ibrar Alam",
+          "r",
+          1
+        ],
+        [
+          "Yousef Khan (Yuzi)",
+          "r",
+          1
+        ],
+        [
+          "Yousef Khan (Yuzi)",
+          "c",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 1
+}
