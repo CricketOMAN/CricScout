@@ -14,6 +14,7 @@ const { Pager, pool, stats, state, concurrency } = require('../lib/pager');
 const argv = process.argv.slice(2);
 const REPARSE = process.env.REPARSE === '1' || argv.includes('--reparse');
 const FULL = process.env.FULL === '1' || argv.includes('--full');
+const ALL = argv.includes('--all');
 const [code, ...teams] = argv.filter(a => !/^--/.test(a));
 const base = `https://cricclubs.com/${code}`;
 const rawDir = path.join(store.STORE, 'leagues', store.codeKey(code), 'raw');
@@ -99,10 +100,27 @@ function buildMatch(sc, mid, s, team) {
 }
 
 const pager = new Pager();
+const fetchSlot = { pg: null };
+async function get(url, kind = 'page', ready = 'table, .footer, footer, body') {
+  for (let i = 0; i < 2 && fetchSlot.pg && fetchSlot.pg.url().startsWith('https://cricclubs.com/'); i++) {
+    try {
+      const res = await fetchSlot.pg.evaluate(async u => {
+        const r = await fetch(u);
+        return { status: r.status, text: await r.text() };
+      }, url);
+      if (res && res.status === 200 && res.text && !/just a moment|security verification/i.test(res.text.slice(0, 1000))) {
+        stats.pages++; stats.ok++; stats.byKind[kind] = (stats.byKind[kind] || 0) + 1;
+        return res.text;
+      }
+    } catch {}
+    await new Promise(r => setTimeout(r, 500));
+  }
+  return pager.html(url, fetchSlot.pg ? { kind, ready } : { slot: fetchSlot, kind, ready });
+}
 async function clubIdFor(league) {
   if (league.clubId) return league.clubId;
   if (REPARSE) throw new Error('reparse: clubId not saved in league.json');
-  const h = await pager.html(`${base}/viewPointsTable.do`, { kind: 'pointsTable' });
+  const h = await get(`${base}/viewPointsTable.do`, 'pointsTable');
   league.clubId = h.match(/clubId=(\d+)/)[1];
   store.writeLeague(league);
   return league.clubId;
@@ -115,7 +133,7 @@ const FIXTURE_ROWS = () => [...document.querySelectorAll('tr')].map(tr => {
 }).filter(Boolean);
 async function fixtures(s, tid, gid, clubId) {
   // Server-rendered; wait for the fixtures table body before reading so a slow render can't return a short list.
-  const h = await pager.html(`${base}/fixtures.do?league=${gid}&teamId=${tid}&clubId=${clubId}&year=${s.year || ''}`, { kind: 'fixtures', ready: 'table tbody tr' });
+  const h = await get(`${base}/fixtures.do?league=${gid}&teamId=${tid}&clubId=${clubId}&year=${s.year || ''}`, 'fixtures', 'table, .footer, footer, body');
   const rows = await pager.parse(h, FIXTURE_ROWS); const out = new Map();
   for (const r of rows) if (r.mid && !out.has(r.mid)) out.set(r.mid, r.ground);
   out.scheduled = rows.length; return out;
@@ -135,31 +153,35 @@ async function matchList(s, team, standings, clubId, grounds) {
     if (fx.size) { if (g !== gid) console.error(`  fallback: ${s.name} matches found in group ${g}, not ${gid}`); for (const [m, gr] of fx) if (gr) grounds[m] = gr; return [...fx.keys()]; }
   }
   console.error(`  fallback: ${s.name} fixtures empty in all groups, using listMatches.do`);
-  const h = await pager.html(`${base}/listMatches.do?league=${gid}&teamId=${tid}&internalClubId=null&year=null&clubId=${clubId}`, { kind: 'listMatches', ready: 'table' });
+  const h = await get(`${base}/listMatches.do?league=${gid}&teamId=${tid}&internalClubId=null&year=null&clubId=${clubId}`, 'listMatches', 'table');
   return [...new Set(h.match(/viewScorecard\.do\?matchId=\d+/g) || [])].map(x => x.split('=')[1]);
 }
 async function download(mids, clubId) {
   const need = mids.filter(m => !fs.existsSync(rawFile(m)));
   stats.cached += mids.length - need.length;
-  const n = concurrency();
-  const slots = Array.from({ length: n }, () => ({ pg: null }));
-  await pool(need, n, async (mid, w) => {
+  if (!need.length) return;
+  await pool(need, concurrency(), async mid => {
     try {
-      const h = await pager.html(`${base}/viewScorecard.do?matchId=${mid}&clubId=${clubId}`, { ready: 'table', slot: slots[w], kind: 'scorecard' });
+      const h = await get(`${base}/viewScorecard.do?matchId=${mid}&clubId=${clubId}`, 'scorecard', 'table');
       if (isFinal(h)) writeRaw(mid, h); else console.error('  not final yet, not cached', mid);
       return h;
     } catch (e) { console.error('  scorecard failed', mid, e.message); }
   });
-  for (const s of slots) if (s.pg) await pager.closeTab(s.pg);
 }
+
+let sharedGrounds = null;
+let sharedStandings = null;
+const resultsCache = new Map();
+const parsedCache = new Map();
 
 async function scanTeam(league, team, clubId) {
   const prev = store.readTeam(code, team) || { series: {}, matches: {} };
-  const grounds = readJSON(groundsFile, {});
-  const standings = store.listStandings(code);
+  const grounds = sharedGrounds || (sharedGrounds = readJSON(groundsFile, {}));
+  const standings = sharedStandings || (sharedStandings = store.listStandings(code));
   const doc = { team, league: { code, name: league.name }, series: {}, matches: {} };
   const seen = new Set();
-  for (const k of store.SEASON_KEYS) {
+  const seasonKeys = Object.keys(league.seasons || {});
+  for (const k of seasonKeys) {
     const s = league.seasons[k]; if (!s || !s.teams || !s.teams[team]) continue;
     if (league.excludeSeries && new RegExp(league.excludeSeries, 'i').test(s.name)) continue;
     if (seen.has(s.id)) continue; seen.add(s.id);
@@ -167,12 +189,19 @@ async function scanTeam(league, team, clubId) {
     // Past seasons are fixed: reuse the saved list. Current season (or FULL) refetches the list only.
     let mids, scrapedAt;
     // League ingest (scripts/legacy-ingest.js) saved every match of the season: no list page needed.
-    const idx = REPARSE ? null : ingest.readResults(code, s);
+    let idx = null;
+    if (!REPARSE) {
+      if (!resultsCache.has(s.id)) resultsCache.set(s.id, ingest.readResults(code, s));
+      idx = resultsCache.get(s.id);
+    }
     const fromIdx = idx && ingest.teamMatchIds(idx, team, s.teams[team]);
-    if (fromIdx && fromIdx.length) {
+    if (fromIdx) {
       mids = fromIdx; scrapedAt = idx.fetchedAt; Object.assign(grounds, ingest.groundsFrom(idx));
-      console.error(`  ${k} ${s.name}: ${mids.length} matches from results index`);
-      await download(mids, clubId);
+      if (mids.length) {
+        console.error(`  ${k} ${s.name}: ${mids.length} matches from results index`);
+        const toDl = (REPARSE || FULL) ? mids : mids.filter(m => !prev.matches['legacy-' + m]);
+        if (toDl.length) await download(toDl, clubId);
+      }
     } else if (REPARSE || (old && k !== 'current' && !FULL)) {
       if (!old) { console.error(`  ${k} ${s.name}: not scanned before, skipped in reparse`); continue; }
       mids = old.matchIds.map(id => id.replace(/^legacy-/, '')); scrapedAt = old.scrapedAt;
@@ -182,16 +211,24 @@ async function scanTeam(league, team, clubId) {
         for (const id of old.matchIds) if (prev.matches[id] && !readRaw(id.replace(/^legacy-/, ''))) doc.matches[id] = prev.matches[id];
       }
     } else {
-      if (idx) console.error(`  fallback: ${s.name} results index has no ${team} matches, loading fixtures`);
       mids = await matchList(s, team, standings, clubId, grounds); scrapedAt = new Date().toISOString();
       await download(mids, clubId);
     }
     const ids = []; const noGround = [];
     for (const mid of mids) {
       const id = 'legacy-' + mid;
-      const html = readRaw(mid);
-      if (!html) { if (doc.matches[id]) ids.push(id); else if (prev.matches[id]) { doc.matches[id] = prev.matches[id]; ids.push(id); } else console.error('  missing scorecard', mid); continue; }
-      const sc = await pager.parse(html, PARSE);
+      if (!REPARSE && prev.matches[id] && (prev.matches[id].ground !== undefined || grounds[mid] !== undefined)) {
+        doc.matches[id] = prev.matches[id].ground !== undefined ? prev.matches[id] : { ...prev.matches[id], ground: grounds[mid] };
+        ids.push(id);
+        continue;
+      }
+      let sc = parsedCache.get(mid);
+      if (!sc) {
+        const html = readRaw(mid);
+        if (!html) { if (doc.matches[id]) ids.push(id); else if (prev.matches[id]) { doc.matches[id] = prev.matches[id]; ids.push(id); } else console.error('  missing scorecard', mid); continue; }
+        sc = await pager.parse(html, PARSE);
+        parsedCache.set(mid, sc);
+      }
       const m = buildMatch(sc, mid, s, team);
       if (!m) { console.error('  no innings', mid); continue; }
       m.ground = grounds[mid] !== undefined ? grounds[mid] : prev.matches[id] ? prev.matches[id].ground : undefined;
@@ -203,7 +240,7 @@ async function scanTeam(league, team, clubId) {
     if (noGround.length && !REPARSE) {
       try {
         const gid = groupOf(s, team, standings);
-        const h = await pager.html(`${base}/fixtures.do?league=${gid}&teamId=${s.teams[team]}&clubId=${clubId}&year=${s.year}`, { kind: 'fixtures' });
+        const h = await get(`${base}/fixtures.do?league=${gid}&teamId=${s.teams[team]}&clubId=${clubId}&year=${s.year}`, 'fixtures');
         const fx = await pager.parse(h, FIXTURES);
         for (const m of noGround) { const r = m._hm && fx.find(r => r.includes(m._hm) && r.includes(m.opponent)); m.ground = r ? r[r.indexOf(m._hm) + 4] || null : null; if (m.ground) grounds[m.id.slice(7)] = m.ground; }
       } catch (e) { console.error('  fixtures failed', e.message); }
@@ -212,21 +249,24 @@ async function scanTeam(league, team, clubId) {
     for (const id of ids) { const m = doc.matches[id]; if (m && m.ground !== undefined && grounds[id.slice(7)] === undefined && readRaw(id.slice(7))) grounds[id.slice(7)] = m.ground; delete m._hm; }
     for (const id of ids) { const m = doc.matches[id]; console.error(' ', k, id, m.date, m.opponent, '|', m.result, '| ground', m.ground, '| bat', m.batting.length, 'bowl', m.bowling.length); }
     doc.series[s.id] = { name: s.name, scrapedAt, matchIds: ids };
-    if (!REPARSE) writeJSON(groundsFile, grounds);
-    store.writeTeam(code, team, { ...doc, series: { ...prev.series, ...doc.series }, matches: { ...prev.matches, ...doc.matches } }); // partial progress
   }
   store.writeTeam(code, team, doc);
-  if (!REPARSE) writeJSON(groundsFile, grounds);
   return Object.keys(doc.matches).length;
 }
 
 (async () => {
   const t0 = Date.now();
+  const deadline = Number(process.env.DEADLINE_MS || 0);
   const league = store.readLeague(code);
   if (!league) throw new Error('league not indexed: ' + code);
   const clubId = await clubIdFor(league);
   const report = {};
-  for (const team of teams) report[team] = await scanTeam(league, team, clubId);
+  const list = ALL ? (league.teams || []) : teams;
+  for (const team of list) {
+    if (deadline && Date.now() > deadline) { console.error('team scan deadline reached; saving progress'); break; }
+    report[team] = await scanTeam(league, team, clubId);
+  }
+  if (!REPARSE && sharedGrounds) writeJSON(groundsFile, sharedGrounds);
   store.publish();
   const secs = ((Date.now() - t0) / 1000).toFixed(1);
   console.error('stats', JSON.stringify({ ...stats, concurrency: concurrency(), slowMode: state.slow, secs, reparse: REPARSE }));

@@ -6,10 +6,12 @@ on:
       league:
         description: League code or cricclubs.com URL (leave empty to rescan all cached leagues/teams)
         required: false
+        default: USACricketJunior
         type: string
       team:
-        description: Team name. Leave empty to only add or refresh the league.
+        description: Team name, or ALL to scan every team in the league (leave empty to only refresh league/standings)
         required: false
+        default: ALL
         type: string
 
 permissions: {}
@@ -68,6 +70,7 @@ jobs:
     needs: prepare
     if: needs.prepare.outputs.proceed == 'true' && needs.prepare.outputs.mode != 'invalid' && needs.prepare.outputs.mode != 'skip'
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     permissions:
       contents: write
       pages: write
@@ -116,6 +119,7 @@ jobs:
           LEAGUE: ${{ needs.prepare.outputs.league }}
           TEAM: ${{ needs.prepare.outputs.team }}
           SITE_URL: https://cricketoman.github.io/CricScout/
+          MAX_RUN_MIN: '300'
         run: |
           set +e
           node cli.js run

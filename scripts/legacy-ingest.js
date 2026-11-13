@@ -14,6 +14,23 @@ const FORCE = process.env.FORCE === '1' || argv.includes('--force');
 const [code] = argv.filter(a => !/^--/.test(a));
 const base = `https://cricclubs.com/${code}`;
 const pager = new Pager();
+const slot = { pg: null };
+async function get(url, kind = 'page', ready = '#tablePlayerRankings, table, .footer, footer, body') {
+  for (let i = 0; i < 2 && slot.pg && slot.pg.url().startsWith('https://cricclubs.com/'); i++) {
+    try {
+      const res = await slot.pg.evaluate(async u => {
+        const r = await fetch(u);
+        return { status: r.status, text: await r.text() };
+      }, url);
+      if (res && res.status === 200 && res.text && !/just a moment|security verification/i.test(res.text.slice(0, 1000))) {
+        stats.pages++; stats.ok++; stats.byKind[kind] = (stats.byKind[kind] || 0) + 1;
+        return res.text;
+      }
+    } catch {}
+    await new Promise(r => setTimeout(r, 500));
+  }
+  return pager.html(url, slot.pg ? { kind, ready } : { slot, kind, ready });
+}
 const CAP = 200;
 const lite = h => h.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '').replace(/<link[^>]*>/gi, '');
 const txt = h => String(h || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/\s+/g, ' ').trim();
@@ -51,9 +68,17 @@ function rankRows(r) {
     matches: num(x.cells[col.matches]), batting: num(x.cells[col.batting]), bowling: num(x.cells[col.bowling]), fielding: num(x.cells[col.fielding]), other: col.other >= 0 ? num(x.cells[col.other]) : null, mom: col.mom >= 0 ? num(x.cells[col.mom]) : null, total: num(x.cells[col.total]) }));
 }
 async function results(s, sid, clubId, idName) {
-  const lm = await pager.html(`${base}/listMatches.do?league=${sid}&clubId=${clubId}`, { kind: 'results', ready: 'table tbody tr' });
-  const fx = await pager.html(`${base}/fixtures.do?league=${sid}&clubId=${clubId}`, { kind: 'fixtures', ready: 'table tbody tr' });
+  const lm = await get(`${base}/listMatches.do?league=${sid}&clubId=${clubId}`, 'results');
+  const fx = await get(`${base}/fixtures.do?league=${sid}&clubId=${clubId}`, 'fixtures');
   const lr = ROWS(lm), fr = ROWS(fx);
+  if (!lr.length && !fr.length && (s.groups || []).length > 1) {
+    for (const g of s.groups) {
+      if (String(g.id) === String(sid)) continue;
+      const glm = await get(`${base}/listMatches.do?league=${g.id}&clubId=${clubId}`, 'results');
+      const gfx = await get(`${base}/fixtures.do?league=${g.id}&clubId=${clubId}`, 'fixtures');
+      lr.push(...ROWS(glm)); fr.push(...ROWS(gfx));
+    }
+  }
   const fxBy = new Map(); for (const r of fr) if (!fxBy.has(r.mid)) fxBy.set(r.mid, r);
   const matches = []; const seen = new Set(); const unmapped = new Set();
   for (const r of lr) { if (seen.has(r.mid)) continue; seen.add(r.mid);
@@ -69,33 +94,43 @@ async function results(s, sid, clubId, idName) {
 }
 async function rankings(s, sid, clubId) {
   const div = (s.groups || []).length > 1 ? 'divisions=all&' : '';
-  let h = await pager.html(`${base}/playerRankings.do?${div}league=${sid}&clubId=${clubId}`, { kind: 'rankings', ready: '#tablePlayerRankings, .footer, footer' });
+  let h = await get(`${base}/playerRankings.do?${div}league=${sid}&clubId=${clubId}`, 'rankings');
   let rows = rankRows(RANK(h));
   if (!rows.length && div) {
-    h = await pager.html(`${base}/playerRankings.do?league=${sid}&clubId=${clubId}`, { kind: 'rankings', ready: '#tablePlayerRankings, .footer, footer' });
+    h = await get(`${base}/playerRankings.do?league=${sid}&clubId=${clubId}`, 'rankings');
     rows = rankRows(RANK(h));
   }
   let perTeam = false;
+  if (rows.length >= CAP && (s.groups || []).length > 1) {
+    const byGroup = new Map(); let cappedGroup = false;
+    for (const g of s.groups) {
+      const gh = await get(`${base}/playerRankings.do?league=${g.id}&clubId=${clubId}`, 'rankings');
+      const gr = rankRows(RANK(gh));
+      if (gr.length >= CAP) { cappedGroup = true; break; }
+      for (const r of gr) byGroup.set(r.playerId + '|' + r.team, r);
+    }
+    if (!cappedGroup && byGroup.size) rows = [...byGroup.values()].sort((a, b) => (b.total || 0) - (a.total || 0));
+  }
   if (rows.length >= CAP) {
     perTeam = true; const all = new Map();
-    const n = concurrency(); const slots = Array.from({ length: n }, () => ({ pg: null }));
-    await pool(Object.entries(s.teams || {}), n, async ([team, tid], w) => {
-      try { const th = await pager.html(`${base}/playerRankings.do?league=${sid}&teamId=${tid}&clubId=${clubId}`, { kind: 'rankingsTeam', ready: '#tablePlayerRankings, .footer, footer', slot: slots[w] });
+    await pool(Object.entries(s.teams || {}), concurrency(), async ([team, tid]) => {
+      try { const th = await get(`${base}/playerRankings.do?league=${sid}&teamId=${tid}&clubId=${clubId}`, 'rankingsTeam');
         for (const r of rankRows(RANK(th))) all.set(r.playerId + '|' + r.team, r);
       } catch (e) { console.error('  rankings failed', team, e.message); }
     });
-    for (const sl of slots) if (sl.pg) await pager.closeTab(sl.pg);
     rows = [...all.values()].sort((a, b) => (b.total || 0) - (a.total || 0));
   }
   return { players: rows, perTeam };
 }
 (async () => {
   const t0 = Date.now();
+  const deadline = Number(process.env.DEADLINE_MS || 0);
   const league = store.readLeague(code);
   if (!league) throw new Error('league not indexed: ' + code + ' (run legacy-league.js first)');
-  const clubId = league.clubId; const report = {};
-  const todo = ingest.plan(league, store.SEASON_KEYS, { force: FORCE });
+  const clubId = league.clubId; const report = {}; const doneKeys = [];
+  const todo = ingest.plan(league, Object.keys(league.seasons || {}), { force: FORCE });
   for (const { key, s } of todo) {
+    if (deadline && Date.now() > deadline) { console.error('ingest deadline reached; saving progress'); break; }
     const ts = Date.now(), p0 = stats.pages; const sid = s.id.replace(/^legacy-/, '');
     const idName = Object.fromEntries(Object.entries(s.teams || {}).map(([n, id]) => [String(id), n]));
     const r = await results(s, sid, clubId, idName);
@@ -105,10 +140,11 @@ async function rankings(s, sid, clubId) {
     const fetchedAt = new Date().toISOString();
     ingest.writeSeason(code, 'results', s, { season: { key, id: s.id, name: s.name }, fetchedAt, source: [`${base}/listMatches.do?league=${sid}&clubId=${clubId}`, `${base}/fixtures.do?league=${sid}&clubId=${clubId}`], matches: r.matches });
     ingest.writeSeason(code, 'rankings', s, { season: { key, id: s.id, name: s.name }, fetchedAt, source: `${base}/playerRankings.do?divisions=all&league=${sid}&clubId=${clubId}`, perTeam: rk.perTeam, players: rk.players });
+    doneKeys.push(key);
     report[key] = { season: s.name, pages: stats.pages - p0, secs: +((Date.now() - ts) / 1000).toFixed(1), matches: r.matches.length, noGround: r.matches.filter(m => !m.ground).length, players: rk.players.length, perTeam: rk.perTeam, renamed: r.unmapped, rankTeamsUnknown };
     console.error(' ', key, JSON.stringify(report[key]));
   }
-  if (todo.length) { ingest.markRefreshed(league, todo.map(t => t.key), stats.pages, +((Date.now() - t0) / 1000).toFixed(1)); store.writeLeague(league); }
+  if (doneKeys.length) { ingest.markRefreshed(league, doneKeys, stats.pages, +((Date.now() - t0) / 1000).toFixed(1)); store.writeLeague(league); }
   store.publish();
   console.log(JSON.stringify({ code, secs: +((Date.now() - t0) / 1000).toFixed(1), stats: { pages: stats.pages, byKind: stats.byKind, retries: stats.retries, failures: stats.failures }, seasons: report }));
   await pager.close();

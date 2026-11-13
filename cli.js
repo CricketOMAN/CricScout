@@ -59,6 +59,7 @@ function finish(result, code) {
 
 const { spawnSync } = require('child_process');
 const LEGACY_REG = require('./scripts/legacy-config.json');
+const DEADLINE_MS = process.env.DEADLINE_MS || (process.env.MAX_RUN_MIN ? String(Date.now() + Number(process.env.MAX_RUN_MIN) * 60 * 1000) : '');
 
 function legacyEntry(code) {
   const e = LEGACY_REG[String(code || '').toLowerCase()];
@@ -66,7 +67,8 @@ function legacyEntry(code) {
 }
 
 function runScript(args) {
-  const r = spawnSync(process.execPath, args, { cwd: store.ROOT, stdio: ['ignore', 'pipe', 'inherit'] });
+  const env = DEADLINE_MS ? { ...process.env, DEADLINE_MS } : process.env;
+  const r = spawnSync(process.execPath, args, { cwd: store.ROOT, env, stdio: ['ignore', 'pipe', 'inherit'] });
   if (r.status !== 0) throw new Error(`Script failed (${args.join(' ')})`);
   return String(r.stdout || '');
 }
@@ -238,6 +240,23 @@ async function scanOne(input, teamInput, { refreshLeague = false, currentOnly = 
   const teamCheck = sanitizeTeam(teamInput);
   if (!teamCheck.ok) return finish({ ok: false, error: teamCheck.error }, 2);
   if (!teamCheck.value) return addLeague(input, { refresh: true });
+  if (teamCheck.value.toUpperCase() === 'ALL' || teamCheck.value === '*') {
+    const res = await ensureLeague(input, { refresh: true });
+    if (res.error) return finish({ ok: false, error: res.error }, 2);
+    const league = res.league;
+    if (league.legacy) {
+      runScript(['scripts/legacy-team.js', league.code, '--all']);
+    } else {
+      try { await ingestCore(league); } catch (e) { console.error('league ingest failed', league.code, e.message); }
+      const deadline = Number(DEADLINE_MS || 0);
+      for (const t of league.teams || []) {
+        if (deadline && Date.now() > deadline) { console.error('team scan deadline reached; saving progress'); break; }
+        await scanTeam(league, t, { currentOnly });
+      }
+    }
+    store.publish();
+    return finish(leagueResult(league), 0);
+  }
   let res = await ensureLeague(input, { refresh: refreshLeague });
   if (res.error) return finish({ ok: false, error: res.error }, 2);
   let league = res.league;
