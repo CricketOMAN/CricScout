@@ -1,0 +1,5595 @@
+{
+  "team": "Austin Blasters U13",
+  "logo": null,
+  "logos": {
+    "Bluegrass Stallions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Hoosier Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Bluegrass chargers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Hoosier Racers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "MVP Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/9eef718a-8164-4039-8c8a-e654aaf45d5d.jpg",
+    "MYCA Blizzards": "https://media.cricclubs.com/documentsRep/teamLogos/edac2f9d-7d09-4abe-abfa-4e472df88b46.jpg",
+    "MVP Gladiators": "https://media.cricclubs.com/documentsRep/teamLogos/0b9b69c6-b4ae-4d7d-ae4f-6b8225b46e1f.jpg",
+    "MYCA Hurricane": "https://media.cricclubs.com/documentsRep/teamLogos/edac2f9d-7d09-4abe-abfa-4e472df88b46.jpg",
+    "U15 Georgia A": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "U15 Georgia B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Austin Starz": "https://media.cricclubs.com/documentsRep/teamLogos/f69c1de9-8dc4-4192-bcdd-d0601840489a.jpg",
+    "Austin Blasters": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CricOne ATOMIC FORCE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "GWCA THUNDERS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "GWCA COSMOS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "SKA BOSTON TITANS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "NJYCA Aurora - U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "QUCA U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ICUSA - U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "NY Ovals U11": "https://media.cricclubs.com/documentsRep/teamLogos/6d16cda4-7201-4a09-a7b2-1ce4216fd730.jpg",
+    "ACAC Eagles": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "KYCA - U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Cardinals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Falcons": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Coyotes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Timberwolves": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Ospreys": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "SKA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "AZYCA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ANYCA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "WYCA - NextGen": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "San Diego Bolts BLUE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SCYCA BLUE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Surf Riders - SCYCA RED": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "SCVCA - SCCAY": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "San Diego Bolts RED": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "JMCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "FSSC Lions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "BRSS Cavaliers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Sunrisers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RYC Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/b7518b7b-79aa-48d7-8a75-67ad4cb923cb.jpg",
+    "SOCA Marvels": "https://media.cricclubs.com/documentsRep/teamLogos/0ef6c835-9a2e-41ef-a99f-d3836d9056c2.jpg",
+    "HCYC Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRAW Titans": "https://media.cricclubs.com/documentsRep/teamLogos/51846b67-c9f0-43cd-8f78-fd9a4ccdbf2c.jpg",
+    "BRSS Royals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/b7025654-c867-4512-ad37-42f17fd5d3c8.jpg",
+    "RRAW Capitals": "https://media.cricclubs.com/documentsRep/teamLogos/c891e5aa-27b6-4e3b-86f9-33f3edf4f79e.jpg",
+    "WSK": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "U15 2026 Socal Hub Team Blue": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "U15 2026 Socal Hub Team Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "U15 2026 AZ Hub": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KRCA CT Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "NMCC Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "PCA Wildcats": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "NMCC Bears": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "DreamCricket Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Knight Riders Dominators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "RRA NJ Cosmos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Gameday Lions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "FJSC Blazers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Gameday Firebirds": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Knight Riders Challengers": "https://media.cricclubs.com/documentsRep/teamLogos/0fc8ab73-6cfb-401b-a532-6edd3ec14dff.jpg",
+    "RRA NJ - Phoenix": "https://media.cricclubs.com/documentsRep/teamLogos/9fc3bc9d-dcaf-4dd2-9acd-eaf72b9f5d7a.jpg",
+    "Jersey Titans Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SKA Lions": "https://media.cricclubs.com/documentsRep/teamLogos/a42a9151-f594-437a-a407-e9adc62dc43a.jpg",
+    "DreamCricket Drona Elite": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Gameday Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "RRA NJ Polaris": "https://media.cricclubs.com/documentsRep/teamLogos/82b0f788-122b-4518-bd73-befe6ad1c15d.jpg",
+    "DreamCricket Pumas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Princeton Yodhas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "CCCA Pumas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "StarSportsUS Crushers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Rising Stars Mavericks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Delhi Capitals Giants": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KCR Raptors": "https://media.cricclubs.com/documentsRep/teamLogos/1985d259-852d-43ef-9c6f-a3be663a7af6.jpg",
+    "22 Yards Strikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Rising Stars Chargers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Delhi Capitals Raiders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Panthers": "https://media.cricclubs.com/documentsRep/teamLogos/340509e3-678a-441e-84dc-1d4a8bb21fa0.jpg",
+    "Jersey Titans Gladiators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA SuperStars": "https://media.cricclubs.com/documentsRep/teamLogos/0089f0ed-90d7-4ff7-9932-bbe1365e2398.jpg",
+    "RRA NJ Superpulsers": "https://media.cricclubs.com/documentsRep/teamLogos/5f187f43-6a2e-45ad-bb56-b8bf1be3d978.jpg",
+    "Knight Riders Leopards": "https://media.cricclubs.com/documentsRep/teamLogos/231c357e-9ef4-4933-b3fb-365264928363.jpg",
+    "Gameday SuperStrikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "DreamCricket Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Drona Centaurus": "https://media.cricclubs.com/documentsRep/teamLogos/f460f839-05ac-44a5-aa87-db6e1fa5f6c1.jpg",
+    "ICUSA Sons Of Liberty": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Cosmos": "https://media.cricclubs.com/documentsRep/teamLogos/9312cd98-b690-41ed-b836-728cfc626e05.jpg",
+    "CCCA Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Sparta Cricket Club": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "StarSports US Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Stelton DC Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "DreamCricket Colts Jr": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA SuperRadients": "https://media.cricclubs.com/documentsRep/teamLogos/49a29ff4-3ab7-451c-837c-50bb671f3308.jpg",
+    "SKA Roar": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Staten Island Cricket club": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "KCR Trailblazers": "https://media.cricclubs.com/documentsRep/teamLogos/ff0e953e-672e-47a7-bf54-898b053887fd.jpg",
+    "Jersey Titans Destroyers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Delhi Capitals Dragons": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Cardinals": "https://media.cricclubs.com/documentsRep/teamLogos/08f35d12-0643-42e2-8c8b-c5114a985c76.jpg",
+    "DreamCricket Drona Thunderbolts": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "KCR Cobras": "https://media.cricclubs.com/documentsRep/teamLogos/6966800f-8396-4df8-9513-6fbb550b999e.jpg",
+    "CCCA Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "FJSC Titans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Stelton DC Acers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "StarSportsUS Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Asteroids": "https://media.cricclubs.com/documentsRep/teamLogos/72a0b5a4-1dec-42eb-813e-df9f5e649d80.jpg",
+    "RRA NJ Nebula": "https://media.cricclubs.com/documentsRep/teamLogos/b17049bd-ee36-4886-8d4e-11ac98b67ee2.jpg",
+    "Rising Stars Strikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "RRA NJ Apex": "https://media.cricclubs.com/documentsRep/teamLogos/8834b512-afcf-4a93-8f9c-bcb0bc81f8df.jpg",
+    "DreamCricket Whirlwind Girls": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Drona Sports Aviators": "https://media.cricclubs.com/documentsRep/teamLogos/fb3a0c5f-b346-492c-a690-37a66437798a.jpg",
+    "DreamCricket Thunder": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Atlas": "https://media.cricclubs.com/documentsRep/teamLogos/b53e575e-1410-439a-b275-e1cf41f9db9c.jpg",
+    "SparC Rising Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA NJ Asteroids": "https://media.cricclubs.com/documentsRep/teamLogos/f98ef952-5719-46e0-b09d-c290ff9b2999.jpg",
+    "StarSportsUS Rising Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KCR Pythons": "https://media.cricclubs.com/documentsRep/teamLogos/8fc34fa1-2ace-4fa0-bbd5-44d64245547f.jpg",
+    "Jersey Titans Defenders": "https://media.cricclubs.com/documentsRep/teamLogos/31d51510-7a5f-4f19-a7ee-54a3827057ee.jpg",
+    "Knight Riders Phoenix": "https://media.cricclubs.com/documentsRep/teamLogos/beb5f229-ca58-4e2f-bcca-2fbf900ac692.jpg",
+    "Gameday Bears": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Jersey Titans Cronus": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Jersey City Blue Jays": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Roy Silva Academy": "https://media.cricclubs.com/documentsRep/teamLogos/bf6d568d-6c99-4e62-b9f3-2a49bc76cf20.jpg",
+    "Tampa Cricket League": "https://media.cricclubs.com/documentsRep/teamLogos/86342db5-565a-4c95-828b-87397d349a56.jpg",
+    "Young Genius Academy": "https://media.cricclubs.com/documentsRep/teamLogos/68a196b8-bcbb-4724-8b84-f3257792d31c.jpg",
+    "Angelo's Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/e2f99cd4-c855-4e7a-aa6f-5485d1131243.jpg",
+    "Florida Panthers Youth Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/d69b7d81-927f-45bd-b64e-83c8b0631637.jpg",
+    "Excel Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/89b9290a-c224-473c-9cfc-1798b3463ecd.jpg",
+    "HCCA Starz U15": "https://media.cricclubs.com/documentsRep/teamLogos/b422a408-6aa7-42c3-9e48-896561047c72.jpg",
+    "SuperKings Academy U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SA Elites U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Austin Blasters U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "RCA Sparks U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Baba Cricket Coaching School Raptors U11E": "https://media.cricclubs.com/documentsRep/teamLogos/09c52204-db5a-4d03-af45-4adb8470354c.jpg",
+    "SAC Foals U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "All Stars Sparklers U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Knights U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "CCA Rising Stars U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "TCC SKA Cubs U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Elite Rangers U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "LCA Vikings U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "VKCA Volts": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Strikers Tensors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "BCA Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "USCA Islanders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Yorkers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "SRCA Spartans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SRCA Daredevils": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Tornadoes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Team Blue": "https://media.cricclubs.com/documentsRep/teamLogos/652d6a1a-6793-47ae-811e-6704f1c070bd.jpg",
+    "Team Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ACAC U15 Team A": "https://media.cricclubs.com/documentsRep/teamLogos/65b601df-edc1-40a6-9c9f-801822bb47e7.jpg",
+    "KYCA U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "ACAC U15 Team B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Blue": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Green": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Cricmax Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "22 Yards": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DAS Mavericks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "DreamCricket Drona Troopers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "NJYCA Cosmos": "https://media.cricclubs.com/documentsRep/teamLogos/4e526196-1afe-436d-94a8-0f7968f45862.jpg",
+    "RRA NJ Superradiant": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DAS Raiders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cricmax Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Rising Stars Asteroids": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ICUSA Whippany Wolves": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Criclanes B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Cricmax B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "EYCL B1": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "EYCL B2": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DYCA-Denver Dynamites U13": "https://media.cricclubs.com/documentsRep/teamLogos/5988ff15-ee38-40dc-8cf8-0ccdfed30f7e.jpg",
+    "DYCA-Littleton Gladiators U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "DYCA-Parker Patriots U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "DYCA-Broomfield Bears U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Sunnyvale Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cupertino Comets": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Fremont Vikings": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "NACL": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "San Jose Lightning": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "San Ramon Royals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Fremont Thunder": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Cricket for Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "TVCC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Windemere Legends": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Fremont Kings": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SRCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Evergreen Lightning": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Dublin Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "MCCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Mission Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "AYCA MAVERICKS": "https://media.cricclubs.com/documentsRep/teamLogos/941b4570-7a4a-405b-a560-56af82efa074.jpg",
+    "PRIME STRIKERS DETROIT": "https://media.cricclubs.com/documentsRep/teamLogos/49a7b3c2-d20a-4245-a80b-6eb97b2853c6.jpg",
+    "MYCA": "https://media.cricclubs.com/documentsRep/teamLogos/ed88e2c3-6e82-41b0-9ae3-aa44835a82d1.jpg",
+    "MCA MAVERICKS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "EYCA Vikings": "https://media.cricclubs.com/documentsRep/teamLogos/776d29fd-5346-496a-9422-0a546f3e83af.jpg",
+    "Dublin Cricket League": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Los Gatos Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Hyderabad Heroes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Fremont Vulcans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Dublin Rhinos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cupertino Bravos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Davis Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "PCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SYCA Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/0f4b65f4-396d-4f42-bdb3-f3cdf444ba6c.jpg",
+    "Avalon Heights Blasters": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MYCA LIONS": "https://media.cricclubs.com/documentsRep/teamLogos/0af29e6a-253c-467b-9e9a-ca0f99edcc5b.jpg",
+    "AYCA BLASTERS": "https://media.cricclubs.com/documentsRep/teamLogos/c4e31f04-84eb-4ba5-adcc-f8afbd6e3cb6.jpg",
+    "MCA GLADIATORS": "https://media.cricclubs.com/documentsRep/teamLogos/6486adeb-d762-4021-a20a-4679d29e8ee6.jpg",
+    "PRIME STRIKERS NOVI": "https://media.cricclubs.com/documentsRep/teamLogos/781e0619-d374-450d-9a85-562793c5e9cd.jpg",
+    "MYCA TIGERS": "https://media.cricclubs.com/documentsRep/teamLogos/556ae420-0d8f-44cf-9281-8151c1a124bb.jpg",
+    "MCA CONQUERORS": "https://media.cricclubs.com/documentsRep/teamLogos/d436fb45-199a-4e98-93a0-3366c4086c59.jpg",
+    "AYCA STRIKERS": "https://media.cricclubs.com/documentsRep/teamLogos/6164f233-2ccd-4790-95ed-c0d9a17f99d0.jpg",
+    "PRIME STRIKERS TROY": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "ICY WARRIORS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MYCA HAWKS": "https://media.cricclubs.com/documentsRep/teamLogos/124f3ab0-8930-4c94-9036-137da8afe6b9.jpg",
+    "PRIME STRIKERS CANTON": "https://media.cricclubs.com/documentsRep/teamLogos/2a606a62-81d3-403d-9079-27c4423e9978.jpg",
+    "AYCA STARS": "https://media.cricclubs.com/documentsRep/teamLogos/3cc5e334-1dc7-4d0c-a500-f89b4104a64c.jpg",
+    "ICY KNIGHTS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "MCA RISERS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ACAC Spartans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KYCA U-17": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ACAC Gladiators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KYCA ICON U-15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg"
+  },
+  "league": {
+    "code": "USACricketJunior",
+    "name": "USA Cricket Junior Pathway"
+  },
+  "seasons": {
+    "s117": {
+      "id": "legacy-452",
+      "name": "USAC 2026 - Austin - U13",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T21:57:27.911Z",
+      "points": {
+        "fetchedAt": "2026-11-13T21:57:27.911Z",
+        "source": "https://cricclubs.com/USACricketJunior/playerRankings.do?divisions=all&league=452&clubId=40319",
+        "players": {
+          "virat bathla": {
+            "name": "Virat Bathla",
+            "matches": 6,
+            "batting": 381,
+            "bowling": 286,
+            "fielding": 38,
+            "other": 75,
+            "mom": 3,
+            "total": 780
+          },
+          "hridhay barapati": {
+            "name": "Hridhay Barapati",
+            "matches": 4,
+            "batting": 347,
+            "bowling": 82,
+            "fielding": 44,
+            "other": 75,
+            "mom": 3,
+            "total": 548
+          },
+          "vihaan brahmbatt": {
+            "name": "Vihaan Brahmbatt",
+            "matches": 4,
+            "batting": 187,
+            "bowling": 54,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 249
+          },
+          "avneesh balaji": {
+            "name": "Avneesh Balaji",
+            "matches": 6,
+            "batting": 117,
+            "bowling": 120,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 245
+          },
+          "jayneel patel": {
+            "name": "Jayneel patel",
+            "matches": 6,
+            "batting": 6,
+            "bowling": 205,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 217
+          },
+          "hiran ramakrishnan": {
+            "name": "Hiran Ramakrishnan",
+            "matches": 5,
+            "batting": 4,
+            "bowling": 176,
+            "fielding": 22,
+            "other": 0,
+            "mom": 0,
+            "total": 202
+          },
+          "taanisha sen": {
+            "name": "Taanisha Sen",
+            "matches": 4,
+            "batting": 93,
+            "bowling": 0,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 109
+          },
+          "tessie singh": {
+            "name": "Tessie Singh",
+            "matches": 3,
+            "batting": 0,
+            "bowling": 101,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 109
+          },
+          "kian dharampuria": {
+            "name": "Kian Dharampuria",
+            "matches": 6,
+            "batting": 1,
+            "bowling": 81,
+            "fielding": 14,
+            "other": 0,
+            "mom": 0,
+            "total": 96
+          },
+          "ekagra saksham": {
+            "name": "Ekagra Saksham",
+            "matches": 3,
+            "batting": 0,
+            "bowling": 76,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 88
+          },
+          "khushi kadam": {
+            "name": "Khushi Kadam",
+            "matches": 4,
+            "batting": 30,
+            "bowling": 0,
+            "fielding": 42,
+            "other": 0,
+            "mom": 0,
+            "total": 72
+          },
+          "srikrishna reddy": {
+            "name": "Srikrishna Reddy",
+            "matches": 4,
+            "batting": 63,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 71
+          },
+          "vihaan tandra": {
+            "name": "Vihaan Tandra",
+            "matches": 5,
+            "batting": -6,
+            "bowling": 0,
+            "fielding": 38,
+            "other": 0,
+            "mom": 0,
+            "total": 32
+          },
+          "vihaan kumar": {
+            "name": "Vihaan Kumar",
+            "matches": 3,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          }
+        }
+      }
+    },
+    "s192": {
+      "id": "legacy-309",
+      "name": "2025 USAC Austin HUB U13",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T22:25:59.218Z",
+      "points": {
+        "fetchedAt": "2026-11-13T22:25:59.218Z",
+        "source": "https://cricclubs.com/USACricketJunior/playerRankings.do?divisions=all&league=309&clubId=40319",
+        "players": {
+          "hridhay barapati": {
+            "name": "Hridhay Barapati",
+            "matches": 6,
+            "batting": 338,
+            "bowling": 305,
+            "fielding": 30,
+            "other": 75,
+            "mom": 3,
+            "total": 748
+          },
+          "virat bathla": {
+            "name": "Virat Bathla",
+            "matches": 6,
+            "batting": 211,
+            "bowling": 232,
+            "fielding": 38,
+            "other": 50,
+            "mom": 2,
+            "total": 531
+          },
+          "avneesh balaji": {
+            "name": "Avneesh Balaji",
+            "matches": 6,
+            "batting": 117,
+            "bowling": 131,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 256
+          },
+          "taanisha sen": {
+            "name": "Taanisha Sen",
+            "matches": 4,
+            "batting": 31,
+            "bowling": 97,
+            "fielding": 22,
+            "other": 0,
+            "mom": 0,
+            "total": 150
+          },
+          "vihaan tandra": {
+            "name": "Vihaan Tandra",
+            "matches": 6,
+            "batting": 64,
+            "bowling": 0,
+            "fielding": 58,
+            "other": 0,
+            "mom": 0,
+            "total": 122
+          },
+          "khushi kadam": {
+            "name": "Khushi Kadam",
+            "matches": 4,
+            "batting": 58,
+            "bowling": 52,
+            "fielding": 12,
+            "other": 0,
+            "mom": 0,
+            "total": 122
+          },
+          "tessie singh": {
+            "name": "Tessie Singh",
+            "matches": 4,
+            "batting": 2,
+            "bowling": 101,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 109
+          },
+          "jayneel patel": {
+            "name": "Jayneel patel",
+            "matches": 5,
+            "batting": -5,
+            "bowling": 113,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 108
+          },
+          "saaketh gorugantu": {
+            "name": "Saaketh Gorugantu",
+            "matches": 6,
+            "batting": 8,
+            "bowling": 41,
+            "fielding": 34,
+            "other": 0,
+            "mom": 0,
+            "total": 83
+          },
+          "ekagra saksham": {
+            "name": "Ekagra Saksham",
+            "matches": 3,
+            "batting": 0,
+            "bowling": 68,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 68
+          },
+          "ansh bhargava": {
+            "name": "Ansh Bhargava",
+            "matches": 6,
+            "batting": 15,
+            "bowling": 41,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 64
+          },
+          "paarth joshi": {
+            "name": "Paarth Joshi",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 41,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 47
+          },
+          "soham sthitpragya": {
+            "name": "Soham Sthitpragya",
+            "matches": 5,
+            "batting": 17,
+            "bowling": 0,
+            "fielding": 6,
+            "other": 0,
+            "mom": 0,
+            "total": 23
+          },
+          "virat bondla": {
+            "name": "Virat Bondla",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 22,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 22
+          },
+          "badra p": {
+            "name": "Badra p",
+            "matches": 1,
+            "batting": 2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 2
+          }
+        }
+      }
+    },
+    "s270": {
+      "id": "legacy-176",
+      "name": "USAC Youth 2024 - Austin Hub",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T22:44:32.963Z",
+      "points": {
+        "fetchedAt": "2026-11-13T22:44:32.963Z",
+        "source": "https://cricclubs.com/USACricketJunior/playerRankings.do?divisions=all&league=176&clubId=40319",
+        "players": {
+          "hridhay barapati": {
+            "name": "Hridhay Barapati",
+            "matches": 6,
+            "batting": 185,
+            "bowling": 240,
+            "fielding": 20,
+            "other": 50,
+            "mom": 1,
+            "total": 495
+          },
+          "sinan maredia": {
+            "name": "Sinan Maredia",
+            "matches": 4,
+            "batting": 266,
+            "bowling": 140,
+            "fielding": 30,
+            "other": 50,
+            "mom": 1,
+            "total": 486
+          },
+          "rajiv ranganath": {
+            "name": "Rajiv Ranganath",
+            "matches": 6,
+            "batting": 55,
+            "bowling": 170,
+            "fielding": 40,
+            "other": 50,
+            "mom": 1,
+            "total": 315
+          },
+          "keyan sharma": {
+            "name": "Keyan Sharma",
+            "matches": 6,
+            "batting": 273,
+            "bowling": 0,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 283
+          },
+          "abhinav aravind": {
+            "name": "Abhinav Aravind",
+            "matches": 5,
+            "batting": -6,
+            "bowling": 170,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 174
+          },
+          "ansh bhargava": {
+            "name": "Ansh Bhargava",
+            "matches": 6,
+            "batting": 8,
+            "bowling": 130,
+            "fielding": 30,
+            "other": 0,
+            "mom": 0,
+            "total": 168
+          },
+          "atharv nakhate": {
+            "name": "Atharv Nakhate",
+            "matches": 5,
+            "batting": 12,
+            "bowling": 140,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 162
+          },
+          "aarav gupta": {
+            "name": "Aarav Gupta",
+            "matches": 6,
+            "batting": 87,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 87
+          },
+          "aadit patel": {
+            "name": "Aadit Patel",
+            "matches": 5,
+            "batting": -9,
+            "bowling": 60,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 71
+          },
+          "maiwand afghan": {
+            "name": "Maiwand Afghan",
+            "matches": 3,
+            "batting": -10,
+            "bowling": 80,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 70
+          },
+          "pradyun rameshkrishnan": {
+            "name": "Pradyun RameshKrishnan",
+            "matches": 1,
+            "batting": -10,
+            "bowling": 60,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 60
+          },
+          "riaan deshpande": {
+            "name": "Riaan Deshpande",
+            "matches": 2,
+            "batting": 2,
+            "bowling": 40,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 52
+          },
+          "nayan penugonda": {
+            "name": "Nayan Penugonda",
+            "matches": 5,
+            "batting": -16,
+            "bowling": 20,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 14
+          },
+          "yuvraj parmar": {
+            "name": "Yuvraj Parmar",
+            "matches": 6,
+            "batting": -8,
+            "bowling": 0,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 12
+          },
+          "lakshay lucky mannuru": {
+            "name": "Lakshay 'Lucky' Mannuru",
+            "matches": 2,
+            "batting": 2,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 2
+          }
+        }
+      }
+    },
+    "s320": {
+      "id": "legacy-50",
+      "name": "USAC Junior 2023 -Austin Hub U13",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T23:10:48.129Z",
+      "points": {
+        "fetchedAt": "2026-11-13T23:10:48.129Z",
+        "source": "https://cricclubs.com/USACricketJunior/playerRankings.do?divisions=all&league=50&clubId=40319",
+        "players": {
+          "hridhay barapati": {
+            "name": "Hridhay Barapati",
+            "matches": 5,
+            "batting": 207,
+            "bowling": 40,
+            "fielding": 20,
+            "other": 50,
+            "mom": 1,
+            "total": 317
+          },
+          "soham shah": {
+            "name": "Soham Shah",
+            "matches": 6,
+            "batting": 1,
+            "bowling": 130,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 131
+          },
+          "pradyun rameshkrishnan": {
+            "name": "Pradyun RameshKrishnan",
+            "matches": 5,
+            "batting": 106,
+            "bowling": 10,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 126
+          },
+          "ibrahim qazi": {
+            "name": "Ibrahim Qazi",
+            "matches": 3,
+            "batting": 103,
+            "bowling": 20,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 123
+          },
+          "saaketh gorugantu": {
+            "name": "Saaketh Gorugantu",
+            "matches": 3,
+            "batting": 18,
+            "bowling": 70,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 98
+          },
+          "abhinav aravind": {
+            "name": "Abhinav Aravind",
+            "matches": 3,
+            "batting": -3,
+            "bowling": 100,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 97
+          },
+          "aarav gupta": {
+            "name": "Aarav Gupta",
+            "matches": 4,
+            "batting": -4,
+            "bowling": 80,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 96
+          },
+          "atharv nakhate": {
+            "name": "Atharv Nakhate",
+            "matches": 5,
+            "batting": 18,
+            "bowling": 30,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 68
+          },
+          "shorye jain": {
+            "name": "Shorye Jain",
+            "matches": 5,
+            "batting": 6,
+            "bowling": 0,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 46
+          },
+          "d shankar": {
+            "name": "D Shankar",
+            "matches": 2,
+            "batting": 41,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 41
+          },
+          "rajiv ranganath": {
+            "name": "Rajiv Ranganath",
+            "matches": 4,
+            "batting": -5,
+            "bowling": 10,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 5
+          },
+          "yuvraj parmar": {
+            "name": "Yuvraj Parmar",
+            "matches": 4,
+            "batting": 4,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 4
+          },
+          "daksh daksh": {
+            "name": "Daksh Daksh",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 1
+          },
+          "vishnu nair": {
+            "name": "Vishnu Nair",
+            "matches": 2,
+            "batting": -10,
+            "bowling": 0,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "aadit patel": {
+            "name": "Aadit Patel",
+            "matches": 4,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 0
+          },
+          "aarvin vasanthu": {
+            "name": "Aarvin Vasanthu",
+            "matches": 1,
+            "batting": -10,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -10
+          },
+          "keyan sharma": {
+            "name": "Keyan Sharma",
+            "matches": 5,
+            "batting": -4,
+            "bowling": -30,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -34
+          },
+          "samay khetani": {
+            "name": "Samay Khetani",
+            "matches": 2,
+            "batting": -20,
+            "bowling": -30,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -50
+          },
+          "shiv vemuri": {
+            "name": "Shiv Vemuri",
+            "matches": 3,
+            "batting": -21,
+            "bowling": -30,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -51
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-8352",
+      "date": "2026-05-30",
+      "series": "USAC 2026 - Austin - U13",
+      "seriesId": "legacy-452",
+      "opponent": "San Antonio Road Runners",
+      "ground": "TCCG",
+      "result": "Austin Blasters U13 won by 90 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 167,
+          "wkts": 6,
+          "overs": "30"
+        },
+        {
+          "team": "San Antonio Road Runners",
+          "runs": 77,
+          "wkts": 8,
+          "overs": "24"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Taanisha Sen",
+          "r": 13,
+          "b": 19,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Srikrishna Reddy",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Khushi Kadam",
+          "r": 9,
+          "b": 25,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Avneesh Balaji",
+          "r": 37,
+          "b": 45,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 54,
+          "b": 48,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 22,
+          "b": 19,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Jayneel Patel",
+          "r": 5,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Hiran Ramakrishnan",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Tessie Singh",
+          "balls": 24,
+          "r": 8,
+          "w": 1,
+          "dots": 19,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Jayneel Patel",
+          "balls": 24,
+          "r": 11,
+          "w": 0,
+          "dots": 19,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Kian Dharampuria",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Avneesh Balaji",
+          "balls": 18,
+          "r": 9,
+          "w": 1,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 19,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Hiran Ramakrishnan",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 0,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Taanisha Sen",
+          "c",
+          1
+        ],
+        [
+          "Hridhay Barapati",
+          "c",
+          1
+        ],
+        [
+          "Avneesh Balaji",
+          "c",
+          1
+        ],
+        [
+          "Tessie Singh",
+          "c",
+          1
+        ],
+        [
+          "Hiran Ramakrishnan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-8124",
+      "date": "2026-05-16",
+      "series": "USAC 2026 - Austin - U13",
+      "seriesId": "legacy-452",
+      "opponent": "San Antonio Road Runners",
+      "ground": "CPCG",
+      "result": "Austin Blasters U13 won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "San Antonio Road Runners",
+          "runs": 148,
+          "wkts": 8,
+          "overs": "29.2"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 150,
+          "wkts": 3,
+          "overs": "20.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Khushi Kadam",
+          "r": 0,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Taanisha Sen",
+          "r": 12,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 70,
+          "b": 48,
+          "f": 7,
+          "s": 3,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Vihaan Tandra",
+          "r": 4,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 54,
+          "b": 36,
+          "f": 9,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jayneel Patel",
+          "balls": 30,
+          "r": 19,
+          "w": 2,
+          "dots": 23,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Avneesh Balaji",
+          "balls": 24,
+          "r": 25,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Kian Dharampuria",
+          "balls": 30,
+          "r": 19,
+          "w": 1,
+          "dots": 21,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ekagra Saksham",
+          "balls": 26,
+          "r": 29,
+          "w": 3,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hiran Ramakrishnan",
+          "balls": 30,
+          "r": 14,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 5,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Khushi Kadam",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Khushi Kadam",
+          "c",
+          1
+        ],
+        [
+          "Hridhay Barapati",
+          "c",
+          2
+        ],
+        [
+          "Kian Dharampuria",
+          "r",
+          1
+        ],
+        [
+          "Hiran Ramakrishnan",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7954",
+      "date": "2026-05-10",
+      "series": "USAC 2026 - Austin - U13",
+      "seriesId": "legacy-452",
+      "opponent": "San Antonio Ninjas",
+      "ground": "San Antonio Culbera Ground",
+      "result": "Austin Blasters U13 won by 9 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 202,
+          "wkts": 7,
+          "overs": "30"
+        },
+        {
+          "team": "San Antonio Ninjas",
+          "runs": 193,
+          "wkts": 3,
+          "overs": "30"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vihaan Tandra",
+          "r": 2,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Vihaan Brahmbatt",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 100,
+          "b": 76,
+          "f": 8,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Srikrishna Reddy",
+          "r": 47,
+          "b": 61,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 30,
+          "b": 24,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "st"
+        },
+        {
+          "name": "Avneesh Balaji",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Jayneel Patel",
+          "r": 5,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Hiran Ramakrishnan",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Kian Dharampuria",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Avneesh Balaji",
+          "balls": 36,
+          "r": 30,
+          "w": 1,
+          "dots": 20,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Jayneel Patel",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 24,
+          "r": 30,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Kian Dharampuria",
+          "balls": 24,
+          "r": 34,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Hiran Ramakrishnan",
+          "balls": 30,
+          "r": 36,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ekagra Saksham",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 24,
+          "r": 23,
+          "w": 0,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vihaan Brahmbatt",
+          "c",
+          1
+        ],
+        [
+          "Ekagra Saksham",
+          "r",
+          1
+        ],
+        [
+          "Srikrishna Reddy",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7932",
+      "date": "2026-05-09",
+      "series": "USAC 2026 - Austin - U13",
+      "seriesId": "legacy-452",
+      "opponent": "Super Kings Academy U13",
+      "ground": "RRCG",
+      "result": "Austin Blasters U13 won by 111 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 197,
+          "wkts": 5,
+          "overs": "20.1"
+        },
+        {
+          "team": "Super Kings Academy U13",
+          "runs": 86,
+          "wkts": 10,
+          "overs": "17.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Srikrishna Reddy",
+          "r": 7,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Vihaan Brahmbatt",
+          "r": 9,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 64,
+          "b": 38,
+          "f": 5,
+          "s": 3,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Avneesh Balaji",
+          "r": 13,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 66,
+          "b": 30,
+          "f": 8,
+          "s": 2,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Vihaan Tandra",
+          "r": 3,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Vihaan Kumar",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jayneel Patel",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 17,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Kian Dharampuria",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 18,
+          "r": 8,
+          "w": 4,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Vihaan Brahmbatt",
+          "balls": 17,
+          "r": 13,
+          "w": 2,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 15,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Avneesh Balaji",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Hridhay Barapati",
+          "r",
+          1
+        ],
+        [
+          "Hridhay Barapati",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7137",
+      "date": "2026-03-29",
+      "series": "USAC 2026 - Austin - U13",
+      "seriesId": "legacy-452",
+      "opponent": "Austin Elites U13",
+      "ground": "LPCL G6",
+      "result": "Austin Blasters U13 won by 78 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 254,
+          "wkts": 6,
+          "overs": "30"
+        },
+        {
+          "team": "Austin Elites U13",
+          "runs": 176,
+          "wkts": 9,
+          "overs": "30"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Khushi Kadam",
+          "r": 12,
+          "b": 21,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vihaan Tandra",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Vihaan Brahmbatt",
+          "r": 73,
+          "b": 53,
+          "f": 11,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Taanisha Sen",
+          "r": 33,
+          "b": 25,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 64,
+          "b": 46,
+          "f": 7,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Avneesh Balaji",
+          "r": 44,
+          "b": 31,
+          "f": 8,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "st"
+        },
+        {
+          "name": "Jayneel Patel",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Hiran Ramakrishnan",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Virat Bathla",
+          "balls": 24,
+          "r": 10,
+          "w": 2,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Avneesh Balaji",
+          "balls": 24,
+          "r": 21,
+          "w": 1,
+          "dots": 16,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Tessie Singh",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 7,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Jayneel Patel",
+          "balls": 30,
+          "r": 30,
+          "w": 2,
+          "dots": 19,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Hiran Ramakrishnan",
+          "balls": 30,
+          "r": 16,
+          "w": 1,
+          "dots": 22,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ekagra Saksham",
+          "balls": 30,
+          "r": 34,
+          "w": 0,
+          "dots": 12,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Kian Dharampuria",
+          "balls": 30,
+          "r": 38,
+          "w": 0,
+          "dots": 16,
+          "wd": 7,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vihaan Tandra",
+          "r",
+          2
+        ],
+        [
+          "Taanisha Sen",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7112",
+      "date": "2026-03-27",
+      "series": "USAC 2026 - Austin - U13",
+      "seriesId": "legacy-452",
+      "opponent": "HCCA Starz U13",
+      "ground": "CPCG",
+      "result": "Austin Blasters U13 won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "HCCA Starz U13",
+          "runs": 88,
+          "wkts": 9,
+          "overs": "21.5"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 90,
+          "wkts": 1,
+          "overs": "11.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vihaan Brahmbatt",
+          "r": 50,
+          "b": 31,
+          "f": 9,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Taanisha Sen",
+          "r": 21,
+          "b": 29,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Khushi Kadam",
+          "r": 10,
+          "b": 9,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jayneel Patel",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Tessie Singh",
+          "balls": 24,
+          "r": 9,
+          "w": 2,
+          "dots": 19,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 18,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Avneesh Balaji",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kian Dharampuria",
+          "balls": 18,
+          "r": 15,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Hiran Ramakrishnan",
+          "balls": 17,
+          "r": 9,
+          "w": 1,
+          "dots": 15,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Khushi Kadam",
+          "r",
+          1
+        ],
+        [
+          "Vihaan Tandra",
+          "r",
+          1
+        ],
+        [
+          "Vihaan Tandra",
+          "k",
+          1
+        ],
+        [
+          "Khushi Kadam",
+          "c",
+          3
+        ],
+        [
+          "Kian Dharampuria",
+          "c",
+          1
+        ],
+        [
+          "Hiran Ramakrishnan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-5334",
+      "date": "2025-05-18",
+      "series": "2025 USAC Austin HUB U13",
+      "seriesId": "legacy-309",
+      "opponent": "Austin Elites",
+      "ground": "HUTTO",
+      "result": "Austin Blasters U13 won by 39 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 186,
+          "wkts": 7,
+          "overs": "30"
+        },
+        {
+          "team": "Austin Elites",
+          "runs": 147,
+          "wkts": 5,
+          "overs": "30"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Avneesh Balaji",
+          "r": 65,
+          "b": 71,
+          "f": 7,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ansh Bhargava",
+          "r": 4,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 4,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 62,
+          "b": 57,
+          "f": 8,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Vihaan Tandra",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Jayneel Patel",
+          "r": 2,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "rt"
+        },
+        {
+          "name": "Khushi Kadam",
+          "r": 10,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Taanisha Sen",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Virat Bathla",
+          "balls": 18,
+          "r": 8,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Tessie Singh",
+          "balls": 24,
+          "r": 17,
+          "w": 0,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Taanisha Sen",
+          "balls": 12,
+          "r": 6,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 30,
+          "r": 23,
+          "w": 0,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 24,
+          "r": 24,
+          "w": 1,
+          "dots": 11,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 30,
+          "r": 28,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Avneesh Balaji",
+          "balls": 18,
+          "r": 21,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jayneel Patel",
+          "balls": 24,
+          "r": 18,
+          "w": 3,
+          "dots": 12,
+          "wd": 5,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Hridhay Barapati",
+          "c",
+          1
+        ],
+        [
+          "Saaketh Gorugantu",
+          "c",
+          1
+        ],
+        [
+          "Avneesh Balaji",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4953",
+      "date": "2025-05-04",
+      "series": "2025 USAC Austin HUB U13",
+      "seriesId": "legacy-309",
+      "opponent": "Austin Elites",
+      "ground": "Florence Cricket Ground",
+      "result": "Austin Blasters U13 won by 10 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 128,
+          "wkts": 4,
+          "overs": "30"
+        },
+        {
+          "team": "Austin Elites",
+          "runs": 118,
+          "wkts": 9,
+          "overs": "30"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Taanisha Sen",
+          "r": 21,
+          "b": 63,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "rt"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 6,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 44,
+          "b": 67,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Ansh Bhargava",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Avneesh Balaji",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Vihaan Tandra",
+          "r": 10,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "rt"
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Khushi Kadam",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Avneesh Balaji",
+          "balls": 36,
+          "r": 36,
+          "w": 0,
+          "dots": 17,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 30,
+          "r": 20,
+          "w": 0,
+          "dots": 21,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 36,
+          "r": 10,
+          "w": 3,
+          "dots": 32,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 36,
+          "r": 24,
+          "w": 0,
+          "dots": 22,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Paarth Joshi",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 14,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Tessie Singh",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 19,
+          "wd": 5,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vihaan Tandra",
+          "k",
+          1
+        ],
+        [
+          "Vihaan Tandra",
+          "r",
+          2
+        ],
+        [
+          "Saaketh Gorugantu",
+          "r",
+          1
+        ],
+        [
+          "Khushi Kadam",
+          "r",
+          1
+        ],
+        [
+          "Taanisha Sen",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4725",
+      "date": "2025-04-27",
+      "series": "2025 USAC Austin HUB U13",
+      "seriesId": "legacy-309",
+      "opponent": "San Antonio Road Runners",
+      "ground": "San Antonio Monterrey Park",
+      "result": "Austin Blasters U13 won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "San Antonio Road Runners",
+          "runs": 152,
+          "wkts": 8,
+          "overs": "30"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 153,
+          "wkts": 9,
+          "overs": "29.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ansh Bhargava",
+          "r": 10,
+          "b": 7,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Vihaan Tandra",
+          "r": 45,
+          "b": 79,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 32,
+          "b": 27,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Avneesh Balaji",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Taanisha Sen",
+          "r": 10,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "r": 7,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Jayneel Patel",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Soham Sthitpragya",
+          "r": 10,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Tessie Singh",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Badra P",
+          "r": 2,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Avneesh Balaji",
+          "balls": 30,
+          "r": 24,
+          "w": 1,
+          "dots": 20,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 12,
+          "r": 6,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Tessie Singh",
+          "balls": 18,
+          "r": 17,
+          "w": 2,
+          "dots": 9,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 18,
+          "r": 20,
+          "w": 0,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 36,
+          "r": 27,
+          "w": 1,
+          "dots": 22,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jayneel Patel",
+          "balls": 24,
+          "r": 21,
+          "w": 1,
+          "dots": 13,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bondla",
+          "balls": 12,
+          "r": 7,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Taanisha Sen",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Badra P",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vihaan Tandra",
+          "k",
+          1
+        ],
+        [
+          "Taanisha Sen",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4627",
+      "date": "2025-04-20",
+      "series": "2025 USAC Austin HUB U13",
+      "seriesId": "legacy-309",
+      "opponent": "San Antonio Road Runners",
+      "ground": "San Antonio Monterrey Park",
+      "result": "Austin Blasters U13 won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "San Antonio Road Runners",
+          "runs": 215,
+          "wkts": 6,
+          "overs": "30.2"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 219,
+          "wkts": 0,
+          "overs": "24"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Hridhay Barapati",
+          "r": 109,
+          "b": 69,
+          "f": 15,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Avneesh Balaji",
+          "r": 27,
+          "b": 51,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "rt"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 51,
+          "b": 31,
+          "f": 7,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Avneesh Balaji",
+          "balls": 36,
+          "r": 28,
+          "w": 0,
+          "dots": 24,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 30,
+          "r": 38,
+          "w": 1,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Ekagra Saksham",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 15,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 18,
+          "r": 30,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jayneel Patel",
+          "balls": 20,
+          "r": 23,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 1,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bondla",
+          "balls": 12,
+          "r": 26,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Khushi Kadam",
+          "balls": 12,
+          "r": 9,
+          "w": 2,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Saaketh Gorugantu",
+          "r",
+          1
+        ],
+        [
+          "Saaketh Gorugantu",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4553",
+      "date": "2025-04-19",
+      "series": "2025 USAC Austin HUB U13",
+      "seriesId": "legacy-309",
+      "opponent": "Superkings Cricket Academy",
+      "ground": "CPCG",
+      "result": "Austin Blasters U13 won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Superkings Cricket Academy",
+          "runs": 125,
+          "wkts": 9,
+          "overs": "29.5"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 129,
+          "wkts": 3,
+          "overs": "13.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ansh Bhargava",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Virat Bathla",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 78,
+          "b": 39,
+          "f": 12,
+          "s": 1,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Soham Sthitpragya",
+          "r": 2,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Khushi Kadam",
+          "r": 31,
+          "b": 22,
+          "f": 5,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Avneesh Balaji",
+          "balls": 36,
+          "r": 21,
+          "w": 3,
+          "dots": 31,
+          "wd": 10,
+          "nb": 0
+        },
+        {
+          "name": "Virat Bathla",
+          "balls": 23,
+          "r": 14,
+          "w": 0,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 30,
+          "r": 16,
+          "w": 5,
+          "dots": 23,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 36,
+          "r": 28,
+          "w": 0,
+          "dots": 28,
+          "wd": 11,
+          "nb": 0
+        },
+        {
+          "name": "Jayneel Patel",
+          "balls": 18,
+          "r": 7,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Khushi Kadam",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 10,
+          "wd": 10,
+          "nb": 0
+        },
+        {
+          "name": "Ekagra Saksham",
+          "balls": 12,
+          "r": 4,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vihaan Tandra",
+          "c",
+          1
+        ],
+        [
+          "Vihaan Tandra",
+          "k",
+          1
+        ],
+        [
+          "Hridhay Barapati",
+          "c",
+          2
+        ],
+        [
+          "Hridhay Barapati",
+          "r",
+          1
+        ],
+        [
+          "Ansh Bhargava",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4389",
+      "date": "2025-03-30",
+      "series": "2025 USAC Austin HUB U13",
+      "seriesId": "legacy-309",
+      "opponent": "Austin HCCA Starz",
+      "ground": "HUTTO",
+      "result": "Austin Blasters U13 won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Austin HCCA Starz",
+          "runs": 58,
+          "wkts": 10,
+          "overs": "28.4"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 59,
+          "wkts": 1,
+          "overs": "6.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Soham Sthitpragya",
+          "r": 13,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "rt"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 26,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Avneesh Balaji",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Virat Bathla",
+          "balls": 24,
+          "r": 7,
+          "w": 5,
+          "dots": 23,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Avneesh Balaji",
+          "balls": 24,
+          "r": 12,
+          "w": 0,
+          "dots": 19,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 24,
+          "r": 4,
+          "w": 0,
+          "dots": 23,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Paarth Joshi",
+          "balls": 18,
+          "r": 7,
+          "w": 1,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 24,
+          "r": 11,
+          "w": 0,
+          "dots": 19,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Jayneel Patel",
+          "balls": 18,
+          "r": 6,
+          "w": 0,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Tessie Singh",
+          "balls": 12,
+          "r": 2,
+          "w": 0,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Taanisha Sen",
+          "balls": 12,
+          "r": 3,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 10,
+          "r": 0,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ekagra Saksham",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 6,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Paarth Joshi",
+          "r",
+          1
+        ],
+        [
+          "Tessie Singh",
+          "r",
+          1
+        ],
+        [
+          "Vihaan Tandra",
+          "r",
+          1
+        ],
+        [
+          "Vihaan Tandra",
+          "k",
+          1
+        ],
+        [
+          "Taanisha Sen",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3222",
+      "date": "2024-05-19",
+      "series": "USAC Youth 2024 - Austin Hub",
+      "seriesId": "legacy-176",
+      "opponent": "Austin Bullets U13",
+      "ground": "HUTTO",
+      "result": "Austin Bullets U13 won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 162,
+          "wkts": 5,
+          "overs": "25"
+        },
+        {
+          "team": "Austin Bullets U13",
+          "runs": 166,
+          "wkts": 3,
+          "overs": "24.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Keyan Sharma",
+          "r": 48,
+          "b": 58,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Aarav Gupta",
+          "r": 31,
+          "b": 43,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 36,
+          "b": 36,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sinan Maredia",
+          "r": 10,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Atharv Nakhate",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "st"
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Nayan Penugonda",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sinan Maredia",
+          "balls": 30,
+          "r": 37,
+          "w": 1,
+          "dots": 13,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 15,
+          "r": 22,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 18,
+          "r": 23,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Atharv Nakhate",
+          "balls": 30,
+          "r": 21,
+          "w": 0,
+          "dots": 19,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 24,
+          "r": 25,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Nayan Penugonda",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Maiwand Afghan",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 3,
+          "wd": 6,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Yuvraj Parmar",
+          "k",
+          1
+        ],
+        [
+          "Yuvraj Parmar",
+          "r",
+          1
+        ],
+        [
+          "Ansh Bhargava",
+          "r",
+          1
+        ],
+        [
+          "Rajiv Ranganath",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3098",
+      "date": "2024-05-11",
+      "series": "USAC Youth 2024 - Austin Hub",
+      "seriesId": "legacy-176",
+      "opponent": "SanAustin Starz U13",
+      "ground": "RRCG",
+      "result": "Austin Blasters U13 won by 39 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 160,
+          "wkts": 5,
+          "overs": "25"
+        },
+        {
+          "team": "SanAustin Starz U13",
+          "runs": 121,
+          "wkts": 8,
+          "overs": "25"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Keyan Sharma",
+          "r": 40,
+          "b": 51,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "r": 1,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "rt"
+        },
+        {
+          "name": "Sinan Maredia",
+          "r": 72,
+          "b": 51,
+          "f": 10,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 6,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Ansh Bhargava",
+          "r": 6,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Atharv Nakhate",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 18,
+          "r": 23,
+          "w": 1,
+          "dots": 11,
+          "wd": 10,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Aravind",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 10,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Atharv Nakhate",
+          "balls": 18,
+          "r": 22,
+          "w": 2,
+          "dots": 7,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Sinan Maredia",
+          "balls": 30,
+          "r": 16,
+          "w": 1,
+          "dots": 21,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 24,
+          "r": 18,
+          "w": 3,
+          "dots": 16,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 30,
+          "r": 17,
+          "w": 0,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Maiwand Afghan",
+          "balls": 12,
+          "r": 1,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Atharv Nakhate",
+          "c",
+          1
+        ],
+        [
+          "Rajiv Ranganath",
+          "c",
+          1
+        ],
+        [
+          "Sinan Maredia",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3005",
+      "date": "2024-05-04",
+      "series": "USAC Youth 2024 - Austin Hub",
+      "seriesId": "legacy-176",
+      "opponent": "Austin Bullets U13",
+      "ground": "RRCG",
+      "result": "Austin Bullets U13 won by 42 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Austin Bullets U13",
+          "runs": 110,
+          "wkts": 7,
+          "overs": "25"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 68,
+          "wkts": 10,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Pradyun RameshKrishnan",
+          "r": 0,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "st"
+        },
+        {
+          "name": "Aarav Gupta",
+          "r": 3,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Keyan Sharma",
+          "r": 13,
+          "b": 27,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "r": 3,
+          "b": 32,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Nayan Penugonda",
+          "r": 2,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Sinan Maredia",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "st"
+        },
+        {
+          "name": "Ansh Bhargava",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "r": 0,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Atharv Nakhate",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Abhinav Aravind",
+          "r": 3,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "st"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 18,
+          "r": 12,
+          "w": 1,
+          "dots": 12,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 18,
+          "r": 15,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 30,
+          "r": 19,
+          "w": 1,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Aravind",
+          "balls": 24,
+          "r": 19,
+          "w": 2,
+          "dots": 15,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Atharv Nakhate",
+          "balls": 30,
+          "r": 14,
+          "w": 0,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Pradyun RameshKrishnan",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 14,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Nayan Penugonda",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Pradyun RameshKrishnan",
+          "c",
+          1
+        ],
+        [
+          "Sinan Maredia",
+          "c",
+          1
+        ],
+        [
+          "Hridhay Barapati",
+          "c",
+          1
+        ],
+        [
+          "Nayan Penugonda",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2910",
+      "date": "2024-04-27",
+      "series": "USAC Youth 2024 - Austin Hub",
+      "seriesId": "legacy-176",
+      "opponent": "SanAustin Starz U13",
+      "ground": "RRCG",
+      "result": "Austin Blasters U13 won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "SanAustin Starz U13",
+          "runs": 71,
+          "wkts": 10,
+          "overs": "18"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 72,
+          "wkts": 3,
+          "overs": "14.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Rajiv Ranganath",
+          "r": 16,
+          "b": 42,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "rt"
+        },
+        {
+          "name": "Aarav Gupta",
+          "r": 15,
+          "b": 30,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "rt"
+        },
+        {
+          "name": "Abhinav Aravind",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Maiwand Afghan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Aadit Patel",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ansh Bhargava",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Sinan Maredia",
+          "balls": 18,
+          "r": 9,
+          "w": 1,
+          "dots": 14,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 7,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Riaan Deshpande",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 12,
+          "r": 5,
+          "w": 3,
+          "dots": 11,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Maiwand Afghan",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Nayan Penugonda",
+          "balls": 6,
+          "r": 2,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Aravind",
+          "balls": 12,
+          "r": 3,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aadit Patel",
+          "balls": 12,
+          "r": 8,
+          "w": 2,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sinan Maredia",
+          "c",
+          1
+        ],
+        [
+          "Aadit Patel",
+          "c",
+          2
+        ],
+        [
+          "Riaan Deshpande",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2742",
+      "date": "2024-04-14",
+      "series": "USAC Youth 2024 - Austin Hub",
+      "seriesId": "legacy-176",
+      "opponent": "SanAustin Starz U13",
+      "ground": "Culebra park ground(San Antonio)",
+      "result": "Austin Blasters U13 won by 29 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 146,
+          "wkts": 8,
+          "overs": "25"
+        },
+        {
+          "team": "SanAustin Starz U13",
+          "runs": 117,
+          "wkts": 6,
+          "overs": "25"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharv Nakhate",
+          "r": 5,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Gupta",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "r": 25,
+          "b": 41,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 33,
+          "b": 38,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Keyan Sharma",
+          "r": 23,
+          "b": 29,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Abhinav Aravind",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Aadit Patel",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "rt"
+        },
+        {
+          "name": "Nayan Penugonda",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "r": 7,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "rt"
+        },
+        {
+          "name": "Ansh Bhargava",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Lakshay 'Lucky' Mannuru",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ansh Bhargava",
+          "balls": 30,
+          "r": 26,
+          "w": 1,
+          "dots": 19,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 14,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Atharv Nakhate",
+          "balls": 24,
+          "r": 15,
+          "w": 0,
+          "dots": 18,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 30,
+          "r": 11,
+          "w": 2,
+          "dots": 21,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Nayan Penugonda",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Aravind",
+          "balls": 24,
+          "r": 24,
+          "w": 1,
+          "dots": 15,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Keyan Sharma",
+          "r",
+          1
+        ],
+        [
+          "Rajiv Ranganath",
+          "r",
+          1
+        ],
+        [
+          "Hridhay Barapati",
+          "c",
+          1
+        ],
+        [
+          "Ansh Bhargava",
+          "r",
+          1
+        ],
+        [
+          "Abhinav Aravind",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2664",
+      "date": "2024-04-06",
+      "series": "USAC Youth 2024 - Austin Hub",
+      "seriesId": "legacy-176",
+      "opponent": "Austin Bullets U13",
+      "ground": "RRCG",
+      "result": "Austin Bullets U13 won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 102,
+          "wkts": 8,
+          "overs": "22"
+        },
+        {
+          "team": "Austin Bullets U13",
+          "runs": 103,
+          "wkts": 1,
+          "overs": "17.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aarav Gupta",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Abhinav Aravind",
+          "r": 9,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 22,
+          "b": 42,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Keyan Sharma",
+          "r": 24,
+          "b": 34,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Atharv Nakhate",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Riaan Deshpande",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Ansh Bhargava",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Nayan Penugonda",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "st"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Nayan Penugonda",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 4,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atharv Nakhate",
+          "balls": 24,
+          "r": 24,
+          "w": 0,
+          "dots": 10,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Riaan Deshpande",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 8,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Bhargava",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Aravind",
+          "balls": 3,
+          "r": 4,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-1947",
+      "date": "2023-06-24",
+      "series": "USAC Junior 2023 -Austin Hub U13",
+      "seriesId": "legacy-50",
+      "opponent": "HCCA Invincibles",
+      "ground": "TBD",
+      "result": "HCCA Invincibles won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 85,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "HCCA Invincibles",
+          "runs": 86,
+          "wkts": 0,
+          "overs": "9.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ibrahim Qazi",
+          "r": 6,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Shiv Vemuri",
+          "r": 4,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Soham Shah",
+          "r": 10,
+          "b": 32,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "rt"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 7,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Shorye Jain",
+          "r": 6,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "D Shankar",
+          "r": 12,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Keyan Sharma",
+          "r": 7,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Keyan Sharma",
+          "balls": 6,
+          "r": 15,
+          "w": 0,
+          "dots": 1,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Ibrahim Qazi",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Soham Shah",
+          "balls": 12,
+          "r": 19,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shiv Vemuri",
+          "balls": 12,
+          "r": 28,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Atharv Nakhate",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishnu Nair",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "D Shankar",
+          "balls": 4,
+          "r": 1,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-1904",
+      "date": "2023-06-18",
+      "series": "USAC Junior 2023 -Austin Hub U13",
+      "seriesId": "legacy-50",
+      "opponent": "HCCA Invincibles",
+      "ground": "RRCG",
+      "result": "HCCA Invincibles won by 9 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "HCCA Invincibles",
+          "runs": 137,
+          "wkts": 3,
+          "overs": "20"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 128,
+          "wkts": 2,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Pradyun RameshKrishnan",
+          "r": 17,
+          "b": 19,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "r": 10,
+          "b": 31,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "rt"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 50,
+          "b": 44,
+          "f": 6,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "rt"
+        },
+        {
+          "name": "Shorye Jain",
+          "r": 4,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "rt"
+        },
+        {
+          "name": "Aarav Gupta",
+          "r": 5,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Atharv Nakhate",
+          "r": 6,
+          "b": 3,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "D Shankar",
+          "r": 8,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Atharv Nakhate",
+          "balls": 24,
+          "r": 12,
+          "w": 0,
+          "dots": 18,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Pradyun RameshKrishnan",
+          "balls": 18,
+          "r": 22,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Soham Shah",
+          "balls": 24,
+          "r": 21,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 24,
+          "r": 44,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Keyan Sharma",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 6,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "D Shankar",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Atharv Nakhate",
+          "r",
+          1
+        ],
+        [
+          "Aarav Gupta",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1760",
+      "date": "2023-06-10",
+      "series": "USAC Junior 2023 -Austin Hub U13",
+      "seriesId": "legacy-50",
+      "opponent": "IPI-Thunder",
+      "ground": "RRCG",
+      "result": "IPI-Thunder won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 88,
+          "wkts": 10,
+          "overs": "22"
+        },
+        {
+          "team": "IPI-Thunder",
+          "runs": 89,
+          "wkts": 2,
+          "overs": "15"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ibrahim Qazi",
+          "r": 18,
+          "b": 30,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Shiv Vemuri",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 7,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Shorye Jain",
+          "r": 5,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Pradyun RameshKrishnan",
+          "r": 19,
+          "b": 30,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "r": 7,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "r": 2,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "r": 3,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Atharv Nakhate",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Soham Shah",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Samay Khetani",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ibrahim Qazi",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Soham Shah",
+          "balls": 18,
+          "r": 13,
+          "w": 0,
+          "dots": 11,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Pradyun RameshKrishnan",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 18,
+          "r": 15,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atharv Nakhate",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 7,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shiv Vemuri",
+          "balls": 6,
+          "r": 19,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Shorye Jain",
+          "k",
+          1
+        ],
+        [
+          "Pradyun RameshKrishnan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1218",
+      "date": "2023-04-30",
+      "series": "USAC Junior 2023 -Austin Hub U13",
+      "seriesId": "legacy-50",
+      "opponent": "IPI-Thunder",
+      "ground": "RRCG",
+      "result": "IPI-Thunder won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 133,
+          "wkts": 9,
+          "overs": "25"
+        },
+        {
+          "team": "IPI-Thunder",
+          "runs": 134,
+          "wkts": 7,
+          "overs": "22.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ibrahim Qazi",
+          "r": 32,
+          "b": 43,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 15,
+          "b": 25,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Shorye Jain",
+          "r": 16,
+          "b": 36,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "rt"
+        },
+        {
+          "name": "Pradyun RameshKrishnan",
+          "r": 4,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Keyan Sharma",
+          "r": 8,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Soham Shah",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Abhinav Aravind",
+          "r": 7,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "rt"
+        },
+        {
+          "name": "Atharv Nakhate",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Yuvraj Parmar",
+          "r": 4,
+          "b": 2,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Aarav Gupta",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Aravind",
+          "balls": 18,
+          "r": 18,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Atharv Nakhate",
+          "balls": 6,
+          "r": 18,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ibrahim Qazi",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Pradyun RameshKrishnan",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Keyan Sharma",
+          "balls": 12,
+          "r": 20,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 30,
+          "r": 25,
+          "w": 2,
+          "dots": 15,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Soham Shah",
+          "balls": 22,
+          "r": 11,
+          "w": 4,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 15,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aarav Gupta",
+          "balls": 12,
+          "r": 5,
+          "w": 1,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Hridhay Barapati",
+          "c",
+          2
+        ],
+        [
+          "Saaketh Gorugantu",
+          "c",
+          1
+        ],
+        [
+          "Shorye Jain",
+          "c",
+          3
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1100",
+      "date": "2023-04-22",
+      "series": "USAC Junior 2023 -Austin Hub U13",
+      "seriesId": "legacy-50",
+      "opponent": "HCCA Invincibles",
+      "ground": "RRCG",
+      "result": "HCCA Invincibles won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Austin Blasters U13",
+          "runs": 98,
+          "wkts": 9,
+          "overs": "25"
+        },
+        {
+          "team": "HCCA Invincibles",
+          "runs": 100,
+          "wkts": 3,
+          "overs": "18.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Yuvraj Parmar",
+          "r": 5,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Keyan Sharma",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Shiv Vemuri",
+          "r": 5,
+          "b": 31,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "rt"
+        },
+        {
+          "name": "Hridhay Barapati",
+          "r": 10,
+          "b": 25,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Pradyun RameshKrishnan",
+          "r": 27,
+          "b": 31,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "st"
+        },
+        {
+          "name": "Shorye Jain",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Soham Shah",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Abhinav Aravind",
+          "r": 1,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "lbw"
+        },
+        {
+          "name": "Atharv Nakhate",
+          "r": 4,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Vishnu Nair",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Atharv Nakhate",
+          "balls": 18,
+          "r": 20,
+          "w": 0,
+          "dots": 10,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Pradyun RameshKrishnan",
+          "balls": 18,
+          "r": 22,
+          "w": 0,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Abhinav Aravind",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vishnu Nair",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Keyan Sharma",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Hridhay Barapati",
+          "balls": 12,
+          "r": 7,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Soham Shah",
+          "balls": 10,
+          "r": 9,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Shiv Vemuri",
+          "balls": 6,
+          "r": 2,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vishnu Nair",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-940",
+      "date": "2023-04-02",
+      "series": "USAC Junior 2023 -Austin Hub U13",
+      "seriesId": "legacy-50",
+      "opponent": "IPI-Thunder",
+      "ground": "RRCG",
+      "result": "IPI-Thunder won by 256 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "IPI-Thunder",
+          "runs": 315,
+          "wkts": 0,
+          "overs": "25"
+        },
+        {
+          "team": "Austin Blasters U13",
+          "runs": 59,
+          "wkts": 10,
+          "overs": "15.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Pradyun RameshKrishnan",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Daksh Daksh",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Gupta",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Keyan Sharma",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Abhinav Aravind",
+          "r": 7,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "r": 1,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "r": 10,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Soham Shah",
+          "r": 9,
+          "b": 31,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Aarvin Vasanthu",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Samay Khetani",
+          "r": 0,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Aadit Patel",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Pradyun RameshKrishnan",
+          "balls": 12,
+          "r": 24,
+          "w": 0,
+          "dots": 4,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Keyan Sharma",
+          "balls": 18,
+          "r": 54,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Abhinav Aravind",
+          "balls": 24,
+          "r": 42,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Soham Shah",
+          "balls": 24,
+          "r": 40,
+          "w": 0,
+          "dots": 2,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Rajiv Ranganath",
+          "balls": 24,
+          "r": 33,
+          "w": 0,
+          "dots": 4,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Samay Khetani",
+          "balls": 18,
+          "r": 47,
+          "w": 0,
+          "dots": 1,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Saaketh Gorugantu",
+          "balls": 18,
+          "r": 33,
+          "w": 0,
+          "dots": 2,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Daksh Daksh",
+          "balls": 6,
+          "r": 11,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aarav Gupta",
+          "balls": 6,
+          "r": 24,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": []
+    }
+  ],
+  "unresolvedFielders": 13
+}

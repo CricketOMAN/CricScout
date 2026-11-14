@@ -112,6 +112,13 @@ jobs:
           sudo apt-get install -y google-chrome-stable
           echo "CHROME_PATH=/usr/bin/google-chrome-stable" >> "$GITHUB_ENV"
           google-chrome-stable --version
+      - name: Restore raw scorecard cache
+        uses: actions/cache/restore@v4
+        with:
+          path: data/store/leagues/*/raw
+          key: raw-scorecards-${{ github.run_id }}
+          restore-keys: |
+            raw-scorecards-
       - name: Run scraper
         id: run
         env:
@@ -127,6 +134,12 @@ jobs:
           echo "code=$code" >> "$GITHUB_OUTPUT"
           if [ "$code" -eq 1 ]; then echo "status=error" >> "$GITHUB_OUTPUT"; else echo "status=ok" >> "$GITHUB_OUTPUT"; fi
           exit 0
+      - name: Save raw scorecard cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/store/leagues/*/raw
+          key: raw-scorecards-${{ github.run_id }}
       - name: Publish result
         id: emit
         if: always()

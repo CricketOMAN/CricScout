@@ -100,23 +100,7 @@ function buildMatch(sc, mid, s, team) {
 }
 
 const pager = new Pager();
-const fetchSlot = { pg: null };
-async function get(url, kind = 'page', ready = 'table, .footer, footer, body') {
-  for (let i = 0; i < 2 && fetchSlot.pg && fetchSlot.pg.url().startsWith('https://cricclubs.com/'); i++) {
-    try {
-      const res = await fetchSlot.pg.evaluate(async u => {
-        const r = await fetch(u);
-        return { status: r.status, text: await r.text() };
-      }, url);
-      if (res && res.status === 200 && res.text && !/just a moment|security verification/i.test(res.text.slice(0, 1000))) {
-        stats.pages++; stats.ok++; stats.byKind[kind] = (stats.byKind[kind] || 0) + 1;
-        return res.text;
-      }
-    } catch {}
-    await new Promise(r => setTimeout(r, 500));
-  }
-  return pager.html(url, fetchSlot.pg ? { kind, ready } : { slot: fetchSlot, kind, ready });
-}
+const get = (url, kind = 'page', ready = 'table, .footer, footer, body') => pager.fetchHtml(url, { kind, ready });
 async function clubIdFor(league) {
   if (league.clubId) return league.clubId;
   if (REPARSE) throw new Error('reparse: clubId not saved in league.json');
@@ -195,6 +179,11 @@ async function scanTeam(league, team, clubId) {
       idx = resultsCache.get(s.id);
     }
     const fromIdx = idx && ingest.teamMatchIds(idx, team, s.teams[team]);
+    if (!REPARSE && !FULL && old && idx && old.scrapedAt === idx.fetchedAt && (old.matchIds || []).every(id => prev.matches[id])) {
+      for (const id of old.matchIds || []) doc.matches[id] = prev.matches[id];
+      doc.series[s.id] = old;
+      continue;
+    }
     if (fromIdx) {
       mids = fromIdx; scrapedAt = idx.fetchedAt; Object.assign(grounds, ingest.groundsFrom(idx));
       if (mids.length) {
@@ -226,8 +215,7 @@ async function scanTeam(league, team, clubId) {
       if (!sc) {
         const html = readRaw(mid);
         if (!html) { if (doc.matches[id]) ids.push(id); else if (prev.matches[id]) { doc.matches[id] = prev.matches[id]; ids.push(id); } else console.error('  missing scorecard', mid); continue; }
-        sc = await pager.parse(html, PARSE);
-        parsedCache.set(mid, sc);
+        try { sc = await pager.parse(html, PARSE); parsedCache.set(mid, sc); } catch (e) { console.error('  parse failed', mid, e.message); continue; }
       }
       const m = buildMatch(sc, mid, s, team);
       if (!m) { console.error('  no innings', mid); continue; }
@@ -264,7 +252,7 @@ async function scanTeam(league, team, clubId) {
   const list = ALL ? (league.teams || []) : teams;
   for (const team of list) {
     if (deadline && Date.now() > deadline) { console.error('team scan deadline reached; saving progress'); break; }
-    report[team] = await scanTeam(league, team, clubId);
+    try { report[team] = await scanTeam(league, team, clubId); } catch (e) { console.error('team failed', team, e.message); }
   }
   if (!REPARSE && sharedGrounds) writeJSON(groundsFile, sharedGrounds);
   store.publish();
@@ -272,4 +260,4 @@ async function scanTeam(league, team, clubId) {
   console.error('stats', JSON.stringify({ ...stats, concurrency: concurrency(), slowMode: state.slow, secs, reparse: REPARSE }));
   console.log(JSON.stringify(report));
   await pager.close();
-})().catch(async e => { console.error(e); await pager.close(); process.exit(1); });
+})().catch(async e => { console.error(e); try { store.publish(); } catch {} await pager.close(); process.exit(1); });

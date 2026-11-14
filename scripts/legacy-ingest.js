@@ -14,23 +14,7 @@ const FORCE = process.env.FORCE === '1' || argv.includes('--force');
 const [code] = argv.filter(a => !/^--/.test(a));
 const base = `https://cricclubs.com/${code}`;
 const pager = new Pager();
-const slot = { pg: null };
-async function get(url, kind = 'page', ready = '#tablePlayerRankings, table, .footer, footer, body') {
-  for (let i = 0; i < 2 && slot.pg && slot.pg.url().startsWith('https://cricclubs.com/'); i++) {
-    try {
-      const res = await slot.pg.evaluate(async u => {
-        const r = await fetch(u);
-        return { status: r.status, text: await r.text() };
-      }, url);
-      if (res && res.status === 200 && res.text && !/just a moment|security verification/i.test(res.text.slice(0, 1000))) {
-        stats.pages++; stats.ok++; stats.byKind[kind] = (stats.byKind[kind] || 0) + 1;
-        return res.text;
-      }
-    } catch {}
-    await new Promise(r => setTimeout(r, 500));
-  }
-  return pager.html(url, slot.pg ? { kind, ready } : { slot, kind, ready });
-}
+const get = (url, kind = 'page', ready = '#tablePlayerRankings, table, .footer, footer, body') => pager.fetchHtml(url, { kind, ready });
 const CAP = 200;
 const lite = h => h.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '').replace(/<link[^>]*>/gi, '');
 const txt = h => String(h || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/\s+/g, ' ').trim();
