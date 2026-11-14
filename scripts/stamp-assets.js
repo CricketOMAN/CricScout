@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const sha = String(process.env.GITHUB_SHA || process.argv[2] || 'dev').slice(0, 7);
 const root = path.join(__dirname, '..');
-for (const rel of ['site/index.html', 'site/sw.js']) {
+for (const rel of ['site/index.html', 'site/players.html', 'site/sw.js']) {
   const file = path.join(root, rel);
   const text = fs.readFileSync(file, 'utf8');
   if (!text.includes('__ASSET_VERSION__')) continue;

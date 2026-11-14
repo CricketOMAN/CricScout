@@ -256,6 +256,8 @@ function fillTeams(league, keep) {
   LEAGUE = league;
   teamGroups = {};
   $('#league').textContent = `${league.name} · ${league.seasons.current?.name || ''}`;
+  const navP = $('#navPlayers');
+  if (navP) navP.href = 'players.html?league=' + encodeURIComponent(league.code);
   fillPeriod(league.seasons);
   const teams = league.teams || [];
   indexTeams(teams);
