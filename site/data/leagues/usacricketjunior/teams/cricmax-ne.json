@@ -1,0 +1,5594 @@
+{
+  "team": "Cricmax NE",
+  "logo": null,
+  "logos": {
+    "Bluegrass Stallions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Hoosier Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Bluegrass chargers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Hoosier Racers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "MVP Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/9eef718a-8164-4039-8c8a-e654aaf45d5d.jpg",
+    "MYCA Blizzards": "https://media.cricclubs.com/documentsRep/teamLogos/edac2f9d-7d09-4abe-abfa-4e472df88b46.jpg",
+    "MVP Gladiators": "https://media.cricclubs.com/documentsRep/teamLogos/0b9b69c6-b4ae-4d7d-ae4f-6b8225b46e1f.jpg",
+    "MYCA Hurricane": "https://media.cricclubs.com/documentsRep/teamLogos/edac2f9d-7d09-4abe-abfa-4e472df88b46.jpg",
+    "U15 Georgia A": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "U15 Georgia B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Austin Starz": "https://media.cricclubs.com/documentsRep/teamLogos/f69c1de9-8dc4-4192-bcdd-d0601840489a.jpg",
+    "Austin Blasters": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CricOne ATOMIC FORCE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "GWCA THUNDERS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "GWCA COSMOS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "SKA BOSTON TITANS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "NJYCA Aurora - U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "QUCA U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ICUSA - U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "NY Ovals U11": "https://media.cricclubs.com/documentsRep/teamLogos/6d16cda4-7201-4a09-a7b2-1ce4216fd730.jpg",
+    "ACAC Eagles": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "KYCA - U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Cardinals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Falcons": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Coyotes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Timberwolves": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Ospreys": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "SKA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "AZYCA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ANYCA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "WYCA - NextGen": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "San Diego Bolts BLUE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SCYCA BLUE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Surf Riders - SCYCA RED": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "SCVCA - SCCAY": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "San Diego Bolts RED": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "JMCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "FSSC Lions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "BRSS Cavaliers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Sunrisers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RYC Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/b7518b7b-79aa-48d7-8a75-67ad4cb923cb.jpg",
+    "SOCA Marvels": "https://media.cricclubs.com/documentsRep/teamLogos/0ef6c835-9a2e-41ef-a99f-d3836d9056c2.jpg",
+    "HCYC Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRAW Titans": "https://media.cricclubs.com/documentsRep/teamLogos/51846b67-c9f0-43cd-8f78-fd9a4ccdbf2c.jpg",
+    "BRSS Royals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/b7025654-c867-4512-ad37-42f17fd5d3c8.jpg",
+    "RRAW Capitals": "https://media.cricclubs.com/documentsRep/teamLogos/c891e5aa-27b6-4e3b-86f9-33f3edf4f79e.jpg",
+    "WSK": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "U15 2026 Socal Hub Team Blue": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "U15 2026 Socal Hub Team Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "U15 2026 AZ Hub": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KRCA CT Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "NMCC Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "PCA Wildcats": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "NMCC Bears": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "DreamCricket Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Knight Riders Dominators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "RRA NJ Cosmos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Gameday Lions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "FJSC Blazers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Gameday Firebirds": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Knight Riders Challengers": "https://media.cricclubs.com/documentsRep/teamLogos/0fc8ab73-6cfb-401b-a532-6edd3ec14dff.jpg",
+    "RRA NJ - Phoenix": "https://media.cricclubs.com/documentsRep/teamLogos/9fc3bc9d-dcaf-4dd2-9acd-eaf72b9f5d7a.jpg",
+    "Jersey Titans Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SKA Lions": "https://media.cricclubs.com/documentsRep/teamLogos/a42a9151-f594-437a-a407-e9adc62dc43a.jpg",
+    "DreamCricket Drona Elite": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Gameday Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "RRA NJ Polaris": "https://media.cricclubs.com/documentsRep/teamLogos/82b0f788-122b-4518-bd73-befe6ad1c15d.jpg",
+    "DreamCricket Pumas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Princeton Yodhas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "CCCA Pumas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "StarSportsUS Crushers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Rising Stars Mavericks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Delhi Capitals Giants": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KCR Raptors": "https://media.cricclubs.com/documentsRep/teamLogos/1985d259-852d-43ef-9c6f-a3be663a7af6.jpg",
+    "22 Yards Strikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Rising Stars Chargers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Delhi Capitals Raiders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Panthers": "https://media.cricclubs.com/documentsRep/teamLogos/340509e3-678a-441e-84dc-1d4a8bb21fa0.jpg",
+    "Jersey Titans Gladiators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA SuperStars": "https://media.cricclubs.com/documentsRep/teamLogos/0089f0ed-90d7-4ff7-9932-bbe1365e2398.jpg",
+    "RRA NJ Superpulsers": "https://media.cricclubs.com/documentsRep/teamLogos/5f187f43-6a2e-45ad-bb56-b8bf1be3d978.jpg",
+    "Knight Riders Leopards": "https://media.cricclubs.com/documentsRep/teamLogos/231c357e-9ef4-4933-b3fb-365264928363.jpg",
+    "Gameday SuperStrikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "DreamCricket Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Drona Centaurus": "https://media.cricclubs.com/documentsRep/teamLogos/f460f839-05ac-44a5-aa87-db6e1fa5f6c1.jpg",
+    "ICUSA Sons Of Liberty": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Cosmos": "https://media.cricclubs.com/documentsRep/teamLogos/9312cd98-b690-41ed-b836-728cfc626e05.jpg",
+    "CCCA Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Sparta Cricket Club": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "StarSports US Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Stelton DC Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "DreamCricket Colts Jr": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA SuperRadients": "https://media.cricclubs.com/documentsRep/teamLogos/49a29ff4-3ab7-451c-837c-50bb671f3308.jpg",
+    "SKA Roar": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Staten Island Cricket club": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "KCR Trailblazers": "https://media.cricclubs.com/documentsRep/teamLogos/ff0e953e-672e-47a7-bf54-898b053887fd.jpg",
+    "Jersey Titans Destroyers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Delhi Capitals Dragons": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Cardinals": "https://media.cricclubs.com/documentsRep/teamLogos/08f35d12-0643-42e2-8c8b-c5114a985c76.jpg",
+    "DreamCricket Drona Thunderbolts": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "KCR Cobras": "https://media.cricclubs.com/documentsRep/teamLogos/6966800f-8396-4df8-9513-6fbb550b999e.jpg",
+    "CCCA Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "FJSC Titans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Stelton DC Acers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "StarSportsUS Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Asteroids": "https://media.cricclubs.com/documentsRep/teamLogos/72a0b5a4-1dec-42eb-813e-df9f5e649d80.jpg",
+    "RRA NJ Nebula": "https://media.cricclubs.com/documentsRep/teamLogos/b17049bd-ee36-4886-8d4e-11ac98b67ee2.jpg",
+    "Rising Stars Strikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "RRA NJ Apex": "https://media.cricclubs.com/documentsRep/teamLogos/8834b512-afcf-4a93-8f9c-bcb0bc81f8df.jpg",
+    "DreamCricket Whirlwind Girls": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Drona Sports Aviators": "https://media.cricclubs.com/documentsRep/teamLogos/fb3a0c5f-b346-492c-a690-37a66437798a.jpg",
+    "DreamCricket Thunder": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Atlas": "https://media.cricclubs.com/documentsRep/teamLogos/b53e575e-1410-439a-b275-e1cf41f9db9c.jpg",
+    "SparC Rising Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA NJ Asteroids": "https://media.cricclubs.com/documentsRep/teamLogos/f98ef952-5719-46e0-b09d-c290ff9b2999.jpg",
+    "StarSportsUS Rising Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KCR Pythons": "https://media.cricclubs.com/documentsRep/teamLogos/8fc34fa1-2ace-4fa0-bbd5-44d64245547f.jpg",
+    "Jersey Titans Defenders": "https://media.cricclubs.com/documentsRep/teamLogos/31d51510-7a5f-4f19-a7ee-54a3827057ee.jpg",
+    "Knight Riders Phoenix": "https://media.cricclubs.com/documentsRep/teamLogos/beb5f229-ca58-4e2f-bcca-2fbf900ac692.jpg",
+    "Gameday Bears": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Jersey Titans Cronus": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Jersey City Blue Jays": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Roy Silva Academy": "https://media.cricclubs.com/documentsRep/teamLogos/bf6d568d-6c99-4e62-b9f3-2a49bc76cf20.jpg",
+    "Tampa Cricket League": "https://media.cricclubs.com/documentsRep/teamLogos/86342db5-565a-4c95-828b-87397d349a56.jpg",
+    "Young Genius Academy": "https://media.cricclubs.com/documentsRep/teamLogos/68a196b8-bcbb-4724-8b84-f3257792d31c.jpg",
+    "Angelo's Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/e2f99cd4-c855-4e7a-aa6f-5485d1131243.jpg",
+    "Florida Panthers Youth Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/d69b7d81-927f-45bd-b64e-83c8b0631637.jpg",
+    "Excel Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/89b9290a-c224-473c-9cfc-1798b3463ecd.jpg",
+    "HCCA Starz U15": "https://media.cricclubs.com/documentsRep/teamLogos/b422a408-6aa7-42c3-9e48-896561047c72.jpg",
+    "SuperKings Academy U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SA Elites U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Austin Blasters U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "RCA Sparks U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Baba Cricket Coaching School Raptors U11E": "https://media.cricclubs.com/documentsRep/teamLogos/09c52204-db5a-4d03-af45-4adb8470354c.jpg",
+    "SAC Foals U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "All Stars Sparklers U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Knights U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "CCA Rising Stars U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "TCC SKA Cubs U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Elite Rangers U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "LCA Vikings U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "VKCA Volts": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Strikers Tensors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "BCA Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "USCA Islanders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Yorkers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "SRCA Spartans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SRCA Daredevils": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Tornadoes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Team Blue": "https://media.cricclubs.com/documentsRep/teamLogos/652d6a1a-6793-47ae-811e-6704f1c070bd.jpg",
+    "Team Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ACAC U15 Team A": "https://media.cricclubs.com/documentsRep/teamLogos/65b601df-edc1-40a6-9c9f-801822bb47e7.jpg",
+    "KYCA U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "ACAC U15 Team B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Blue": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Green": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Cricmax Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "22 Yards": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DAS Mavericks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "DreamCricket Drona Troopers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "NJYCA Cosmos": "https://media.cricclubs.com/documentsRep/teamLogos/4e526196-1afe-436d-94a8-0f7968f45862.jpg",
+    "RRA NJ Superradiant": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DAS Raiders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cricmax Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Rising Stars Asteroids": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ICUSA Whippany Wolves": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Criclanes B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Cricmax B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "EYCL B1": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "EYCL B2": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DYCA-Denver Dynamites U13": "https://media.cricclubs.com/documentsRep/teamLogos/5988ff15-ee38-40dc-8cf8-0ccdfed30f7e.jpg",
+    "DYCA-Littleton Gladiators U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "DYCA-Parker Patriots U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "DYCA-Broomfield Bears U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Sunnyvale Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cupertino Comets": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Fremont Vikings": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "NACL": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "San Jose Lightning": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "San Ramon Royals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Fremont Thunder": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Cricket for Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "TVCC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Windemere Legends": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Fremont Kings": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SRCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Evergreen Lightning": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Dublin Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "MCCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Mission Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "AYCA MAVERICKS": "https://media.cricclubs.com/documentsRep/teamLogos/941b4570-7a4a-405b-a560-56af82efa074.jpg",
+    "PRIME STRIKERS DETROIT": "https://media.cricclubs.com/documentsRep/teamLogos/49a7b3c2-d20a-4245-a80b-6eb97b2853c6.jpg",
+    "MYCA": "https://media.cricclubs.com/documentsRep/teamLogos/ed88e2c3-6e82-41b0-9ae3-aa44835a82d1.jpg",
+    "MCA MAVERICKS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "EYCA Vikings": "https://media.cricclubs.com/documentsRep/teamLogos/776d29fd-5346-496a-9422-0a546f3e83af.jpg",
+    "Dublin Cricket League": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Los Gatos Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Hyderabad Heroes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Fremont Vulcans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Dublin Rhinos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cupertino Bravos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Davis Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "PCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SYCA Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/0f4b65f4-396d-4f42-bdb3-f3cdf444ba6c.jpg",
+    "Avalon Heights Blasters": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MYCA LIONS": "https://media.cricclubs.com/documentsRep/teamLogos/0af29e6a-253c-467b-9e9a-ca0f99edcc5b.jpg",
+    "AYCA BLASTERS": "https://media.cricclubs.com/documentsRep/teamLogos/c4e31f04-84eb-4ba5-adcc-f8afbd6e3cb6.jpg",
+    "MCA GLADIATORS": "https://media.cricclubs.com/documentsRep/teamLogos/6486adeb-d762-4021-a20a-4679d29e8ee6.jpg",
+    "PRIME STRIKERS NOVI": "https://media.cricclubs.com/documentsRep/teamLogos/781e0619-d374-450d-9a85-562793c5e9cd.jpg",
+    "MYCA TIGERS": "https://media.cricclubs.com/documentsRep/teamLogos/556ae420-0d8f-44cf-9281-8151c1a124bb.jpg",
+    "MCA CONQUERORS": "https://media.cricclubs.com/documentsRep/teamLogos/d436fb45-199a-4e98-93a0-3366c4086c59.jpg",
+    "AYCA STRIKERS": "https://media.cricclubs.com/documentsRep/teamLogos/6164f233-2ccd-4790-95ed-c0d9a17f99d0.jpg",
+    "PRIME STRIKERS TROY": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "ICY WARRIORS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MYCA HAWKS": "https://media.cricclubs.com/documentsRep/teamLogos/124f3ab0-8930-4c94-9036-137da8afe6b9.jpg",
+    "PRIME STRIKERS CANTON": "https://media.cricclubs.com/documentsRep/teamLogos/2a606a62-81d3-403d-9079-27c4423e9978.jpg",
+    "AYCA STARS": "https://media.cricclubs.com/documentsRep/teamLogos/3cc5e334-1dc7-4d0c-a500-f89b4104a64c.jpg",
+    "ICY KNIGHTS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "MCA RISERS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ACAC Spartans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KYCA U-17": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ACAC Gladiators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KYCA ICON U-15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg"
+  },
+  "league": {
+    "code": "USACricketJunior",
+    "name": "USA Cricket Junior Pathway"
+  },
+  "seasons": {
+    "s271": {
+      "id": "legacy-159",
+      "name": "USAC Youth 2024 - New Jersey Hub",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T22:49:34.329Z",
+      "points": {
+        "fetchedAt": "2026-11-13T22:49:34.329Z",
+        "source": "https://cricclubs.com/USACricketJunior/playerRankings.do?divisions=all&league=159&clubId=40319",
+        "players": {}
+      }
+    },
+    "s287": {
+      "id": "legacy-66",
+      "name": "USAC Junior 2023 -New Jersey Hub U13",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T23:00:14.506Z",
+      "points": {
+        "fetchedAt": "2026-11-13T23:00:14.506Z",
+        "source": "https://cricclubs.com/USACricketJunior/playerRankings.do?divisions=all&league=66&clubId=40319",
+        "players": {
+          "atharva dhok": {
+            "name": "Atharva Dhok",
+            "matches": 10,
+            "batting": 327,
+            "bowling": 920,
+            "fielding": 70,
+            "other": 150,
+            "mom": 3,
+            "total": 1467
+          },
+          "abhinav ramesh kumar": {
+            "name": "Abhinav Ramesh Kumar",
+            "matches": 11,
+            "batting": -2,
+            "bowling": 710,
+            "fielding": 90,
+            "other": 50,
+            "mom": 1,
+            "total": 848
+          },
+          "vishva vinodh": {
+            "name": "Vishva Vinodh",
+            "matches": 9,
+            "batting": 2,
+            "bowling": 620,
+            "fielding": 40,
+            "other": 50,
+            "mom": 1,
+            "total": 712
+          },
+          "aayush patil": {
+            "name": "Aayush Patil",
+            "matches": 8,
+            "batting": 505,
+            "bowling": 0,
+            "fielding": 80,
+            "other": 0,
+            "mom": 0,
+            "total": 585
+          },
+          "aarav ahuja": {
+            "name": "Aarav Ahuja",
+            "matches": 11,
+            "batting": 291,
+            "bowling": 110,
+            "fielding": 90,
+            "other": 0,
+            "mom": 0,
+            "total": 491
+          },
+          "niranjan rajeev": {
+            "name": "Niranjan Rajeev",
+            "matches": 9,
+            "batting": 118,
+            "bowling": 280,
+            "fielding": 10,
+            "other": 50,
+            "mom": 1,
+            "total": 458
+          },
+          "vedant jarhad": {
+            "name": "Vedant Jarhad",
+            "matches": 11,
+            "batting": 207,
+            "bowling": 110,
+            "fielding": 80,
+            "other": 50,
+            "mom": 1,
+            "total": 447
+          },
+          "armaan qureshi": {
+            "name": "Armaan Qureshi",
+            "matches": 10,
+            "batting": -27,
+            "bowling": 330,
+            "fielding": 80,
+            "other": 50,
+            "mom": 1,
+            "total": 433
+          },
+          "avyakth garuda dwajan": {
+            "name": "Avyakth Garuda Dwajan",
+            "matches": 10,
+            "batting": 209,
+            "bowling": 0,
+            "fielding": 140,
+            "other": 50,
+            "mom": 1,
+            "total": 399
+          },
+          "saket karthik": {
+            "name": "Saket Karthik",
+            "matches": 5,
+            "batting": 7,
+            "bowling": 320,
+            "fielding": 30,
+            "other": 0,
+            "mom": 0,
+            "total": 357
+          },
+          "shrey thigale": {
+            "name": "Shrey Thigale",
+            "matches": 4,
+            "batting": 0,
+            "bowling": 200,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 200
+          },
+          "arul padmanaban": {
+            "name": "Arul Padmanaban",
+            "matches": 7,
+            "batting": 4,
+            "bowling": 120,
+            "fielding": 30,
+            "other": 0,
+            "mom": 0,
+            "total": 154
+          },
+          "vihaan pandya": {
+            "name": "Vihaan Pandya",
+            "matches": 6,
+            "batting": 94,
+            "bowling": 0,
+            "fielding": 50,
+            "other": 0,
+            "mom": 0,
+            "total": 144
+          },
+          "ashvanth ramesh kumar": {
+            "name": "Ashvanth Ramesh Kumar",
+            "matches": 5,
+            "batting": -10,
+            "bowling": 140,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 130
+          },
+          "neel pandit": {
+            "name": "Neel Pandit",
+            "matches": 5,
+            "batting": 74,
+            "bowling": 0,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 114
+          },
+          "adithya karthik": {
+            "name": "Adithya Karthik",
+            "matches": 6,
+            "batting": 41,
+            "bowling": 40,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 101
+          },
+          "hridaan mehta": {
+            "name": "Hridaan Mehta",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 50,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 50
+          },
+          "anish rudravajhala": {
+            "name": "Anish Rudravajhala",
+            "matches": 1,
+            "batting": 0,
+            "bowling": 20,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 30
+          },
+          "manish jonnalagadda": {
+            "name": "Manish Jonnalagadda",
+            "matches": 2,
+            "batting": 4,
+            "bowling": 0,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 14
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-4073",
+      "date": "2024-09-14",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "FJSC Supergiants",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "FJSC Supergiants",
+          "runs": 39,
+          "wkts": 10,
+          "overs": "22.1"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 41,
+          "wkts": 1,
+          "overs": "4.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 30,
+          "b": 21,
+          "f": 3,
+          "s": 2,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Manish Jonnalagadda",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 36,
+          "r": 12,
+          "w": 4,
+          "dots": 32,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 18,
+          "r": 10,
+          "w": 0,
+          "dots": 15,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 18,
+          "r": 3,
+          "w": 0,
+          "dots": 17,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vihaan Pandya",
+          "balls": 12,
+          "r": 0,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shrikar Ganta",
+          "balls": 13,
+          "r": 2,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "balls": 18,
+          "r": 3,
+          "w": 0,
+          "dots": 18,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aayush Patil",
+          "c",
+          1
+        ],
+        [
+          "Niranjan Rajeev",
+          "c",
+          1
+        ],
+        [
+          "Niranjan Rajeev",
+          "r",
+          1
+        ],
+        [
+          "Manish Jonnalagadda",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4058",
+      "date": "2024-09-08",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "ICUSA Sons of Liberty",
+      "ground": "TBD",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "ICUSA Sons of Liberty",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-4050",
+      "date": "2024-09-08",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "StarSportsUS Crushers",
+      "ground": "TBD",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "StarSportsUS Crushers",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-4038",
+      "date": "2024-09-08",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "DreamCricket Colts Jr",
+      "ground": "Marshall St Park, Branchburg",
+      "result": "DreamCricket Colts Jr won by 24 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "DreamCricket Colts Jr",
+          "runs": 137,
+          "wkts": 6,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 113,
+          "wkts": 10,
+          "overs": "27.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 23,
+          "b": 22,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 15,
+          "b": 38,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 6,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 10,
+          "b": 37,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Ivaan Panchal",
+          "r": 0,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Shrey Thigale",
+          "r": 4,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Adhvaith Partheeban",
+          "r": 10,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Arnav Shah",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Arul Padmanaban",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shrey Thigale",
+          "balls": 36,
+          "r": 24,
+          "w": 1,
+          "dots": 18,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 16,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 30,
+          "r": 26,
+          "w": 0,
+          "dots": 19,
+          "wd": 0,
+          "nb": 4
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "balls": 18,
+          "r": 10,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "balls": 18,
+          "r": 15,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Adhvaith Partheeban",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vihaan Pandya",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 15,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Arnav Shah",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 4
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Shrey Thigale",
+          "c",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ],
+        [
+          "Aarav Ahuja",
+          "k",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "r",
+          1
+        ],
+        [
+          "Ashvanth Ramesh Kumar",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4037",
+      "date": "2024-09-08",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "CCCA Jaguars",
+      "ground": "TBD",
+      "result": "Forfeited. Winner: CCCA Jaguars",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "CCCA Jaguars",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-3942",
+      "date": "2024-08-18",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "NJYCA Comets",
+      "ground": "Conover (Post Rd)",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NJYCA Comets",
+          "runs": 45,
+          "wkts": 8,
+          "overs": "18.1"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 2,
+          "wkts": 0,
+          "overs": "1.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aarav Ahuja",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Arul Padmanaban",
+          "balls": 24,
+          "r": 12,
+          "w": 0,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 17,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Shrikar Ganta",
+          "balls": 24,
+          "r": 8,
+          "w": 2,
+          "dots": 18,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "balls": 24,
+          "r": 6,
+          "w": 0,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 7,
+          "r": 0,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 6,
+          "r": 1,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aarav Ahuja",
+          "c",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "k",
+          2
+        ],
+        [
+          "Niranjan Rajeev",
+          "r",
+          1
+        ],
+        [
+          "Arul Padmanaban",
+          "r",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "r",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "r",
+          1
+        ],
+        [
+          "Aarav Ahuja",
+          "r",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3939",
+      "date": "2024-08-18",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "RRA NJ Supergiants",
+      "ground": "Conover (Post Rd)",
+      "result": "RRA NJ Supergiants won by 18 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "RRA NJ Supergiants",
+          "runs": 124,
+          "wkts": 3,
+          "overs": "25"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 106,
+          "wkts": 10,
+          "overs": "22.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vihaan Pandya",
+          "r": 4,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 10,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Atharva Dhok",
+          "r": 45,
+          "b": 56,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "st"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 11,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 9,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Shrey Thigale",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Shrikar Ganta",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Arul Padmanaban",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 24,
+          "r": 28,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 30,
+          "r": 33,
+          "w": 0,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vihaan Pandya",
+          "balls": 30,
+          "r": 16,
+          "w": 2,
+          "dots": 19,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 30,
+          "r": 16,
+          "w": 0,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 30,
+          "r": 15,
+          "w": 0,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Abhinav Ramesh Kumar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3879",
+      "date": "2024-08-11",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "Cricmax Lions",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 85 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 171,
+          "wkts": 6,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax Lions",
+          "runs": 86,
+          "wkts": 9,
+          "overs": "30"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Niranjan Rajeev",
+          "r": 24,
+          "b": 31,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 27,
+          "b": 48,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Atharva Dhok",
+          "r": 47,
+          "b": 40,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 19,
+          "b": 31,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 39,
+          "b": 31,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Manish Jonnalagadda",
+          "r": 3,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 24,
+          "r": 8,
+          "w": 1,
+          "dots": 19,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 18,
+          "r": 8,
+          "w": 0,
+          "dots": 13,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 24,
+          "r": 11,
+          "w": 2,
+          "dots": 18,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shrikar Ganta",
+          "balls": 24,
+          "r": 6,
+          "w": 1,
+          "dots": 19,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 18,
+          "r": 7,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Vihaan Pandya",
+          "balls": 30,
+          "r": 12,
+          "w": 0,
+          "dots": 26,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 18,
+          "r": 9,
+          "w": 2,
+          "dots": 15,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "r",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "c",
+          1
+        ],
+        [
+          "Shrey Thigale",
+          "r",
+          1
+        ],
+        [
+          "Manish Jonnalagadda",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3838",
+      "date": "2024-08-04",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "DAS Challengers",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 15 Runs (D/L)",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 134,
+          "wkts": 7,
+          "overs": "25"
+        },
+        {
+          "team": "DAS Challengers",
+          "runs": 61,
+          "wkts": 4,
+          "overs": "15"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Niranjan Rajeev",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 56,
+          "b": 80,
+          "f": 7,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Atharva Dhok",
+          "r": 9,
+          "b": 22,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 35,
+          "b": 28,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Shrey Thigale",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Arul Padmanaban",
+          "r": 3,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 24,
+          "r": 14,
+          "w": 1,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 24,
+          "r": 6,
+          "w": 1,
+          "dots": 20,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 12,
+          "r": 13,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shrikar Ganta",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aarav Ahuja",
+          "c",
+          1
+        ],
+        [
+          "Armaan Qureshi",
+          "c",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3779",
+      "date": "2024-07-28",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "DreamCricket Blue Jays",
+      "ground": "TBD",
+      "result": "DreamCricket Blue Jays won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 96,
+          "wkts": 10,
+          "overs": "29.1"
+        },
+        {
+          "team": "DreamCricket Blue Jays",
+          "runs": 97,
+          "wkts": 2,
+          "overs": "20.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Manish Jonnalagadda",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Nihaar Gaikwad",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 58,
+          "b": 89,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Ivaan Panchal",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Arjun Dhok",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Ayush Sabade",
+          "r": 5,
+          "b": 33,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "r": 2,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Varan Tamilselvan",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Adhvaith Partheeban",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Arnav Shah",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 21,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 12,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 18,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Varan Tamilselvan",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Ayush Sabade",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arnav Shah",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Adhvaith Partheeban",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Arjun Dhok",
+          "balls": 3,
+          "r": 3,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Manish Jonnalagadda",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3682",
+      "date": "2024-07-14",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "RRA NJ Supernova",
+      "ground": "TBD",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "RRA NJ Supernova",
+          "runs": 88,
+          "wkts": 10,
+          "overs": "24"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 30,
+          "r": 21,
+          "w": 2,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 30,
+          "r": 12,
+          "w": 0,
+          "dots": 22,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 12,
+          "r": 17,
+          "w": 1,
+          "dots": 5,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 24,
+          "r": 10,
+          "w": 0,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 18,
+          "r": 10,
+          "w": 0,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Vihaan Pandya",
+          "balls": 30,
+          "r": 13,
+          "w": 3,
+          "dots": 21,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Armaan Qureshi",
+          "r",
+          1
+        ],
+        [
+          "Shrey Thigale",
+          "c",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "c",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "k",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "r",
+          2
+        ],
+        [
+          "Manish Jonnalagadda",
+          "r",
+          1
+        ],
+        [
+          "Niranjan Rajeev",
+          "r",
+          1
+        ],
+        [
+          "Vihaan Pandya",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3551",
+      "date": "2024-06-23",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "DreamCricket Cubs",
+      "ground": "Kennedy P Sayreville",
+      "result": "DreamCricket Cubs won by 78 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "DreamCricket Cubs",
+          "runs": 234,
+          "wkts": 5,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 156,
+          "wkts": 8,
+          "overs": "30"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 43,
+          "b": 48,
+          "f": 7,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 25,
+          "b": 33,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Rohin Turaga",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 16,
+          "b": 17,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 13,
+          "b": 24,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 23,
+          "b": 26,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 7,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Shrey Thigale",
+          "r": 14,
+          "b": 7,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Arul Padmanaban",
+          "r": 2,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Arul Padmanaban",
+          "balls": 24,
+          "r": 45,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 36,
+          "r": 30,
+          "w": 2,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 36,
+          "r": 35,
+          "w": 1,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 36,
+          "r": 47,
+          "w": 0,
+          "dots": 12,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Vihaan Pandya",
+          "balls": 24,
+          "r": 36,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 24,
+          "r": 40,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 2
+        }
+      ],
+      "fielding": [
+        [
+          "Aayush Patil",
+          "k",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ],
+        [
+          "Rohin Turaga",
+          "c",
+          1
+        ],
+        [
+          "Shrey Thigale",
+          "r",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3448",
+      "date": "2024-06-16",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "Royal Titans",
+      "ground": "Staten island",
+      "result": "Cricmax NE won by 180 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 270,
+          "wkts": 3,
+          "overs": "30"
+        },
+        {
+          "team": "Royal Titans",
+          "runs": 90,
+          "wkts": 8,
+          "overs": "28.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 64,
+          "b": 50,
+          "f": 5,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 100,
+          "b": 85,
+          "f": 9,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "rt"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 11,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 16,
+          "b": 13,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 27,
+          "b": 21,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Manish Jonnalagadda",
+          "r": 4,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Armaan Qureshi",
+          "balls": 36,
+          "r": 8,
+          "w": 2,
+          "dots": 31,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 36,
+          "r": 19,
+          "w": 2,
+          "dots": 27,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Shrikar Ganta",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 18,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Vihaan Pandya",
+          "balls": 27,
+          "r": 12,
+          "w": 2,
+          "dots": 23,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 18,
+          "r": 15,
+          "w": 2,
+          "dots": 14,
+          "wd": 11,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 12,
+          "r": 4,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 6,
+          "r": 1,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arul Padmanaban",
+          "c",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3317",
+      "date": "2024-06-02",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "Cricmax Tigers",
+      "ground": "Staten island",
+      "result": "Cricmax Tigers won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 43,
+          "wkts": 10,
+          "overs": "25.2"
+        },
+        {
+          "team": "Cricmax Tigers",
+          "runs": 44,
+          "wkts": 3,
+          "overs": "11"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 8,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 12,
+          "b": 34,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 12,
+          "b": 40,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Shrey Thigale",
+          "r": 5,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Arul Padmanaban",
+          "r": 0,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Shrikar Ganta",
+          "r": 0,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Adhvaith Partheeban",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "lbw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Armaan Qureshi",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 18,
+          "r": 9,
+          "w": 1,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Dakshith Dinesh Kumar",
+          "balls": 12,
+          "r": 5,
+          "w": 1,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shrikar Ganta",
+          "balls": 12,
+          "r": 4,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arul Padmanaban",
+          "c",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "r",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3199",
+      "date": "2024-05-19",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "DreamCricket Dragons",
+      "ground": "Marshall St Park, Branchburg",
+      "result": "Cricmax NE won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "DreamCricket Dragons",
+          "runs": 42,
+          "wkts": 10,
+          "overs": "25"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 43,
+          "wkts": 4,
+          "overs": "7.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vihaan Pandya",
+          "r": 8,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 7,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Manish Jonnalagadda",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Atharva Dhok",
+          "r": 12,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "rt"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 30,
+          "r": 4,
+          "w": 4,
+          "dots": 27,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 18,
+          "r": 7,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 24,
+          "r": 2,
+          "w": 1,
+          "dots": 22,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 18,
+          "r": 7,
+          "w": 2,
+          "dots": 16,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 12,
+          "r": 3,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 12,
+          "r": 2,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "balls": 18,
+          "r": 4,
+          "w": 0,
+          "dots": 18,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Vihaan Pandya",
+          "balls": 12,
+          "r": 5,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 5,
+          "wd": 5,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Armaan Qureshi",
+          "c",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "r",
+          1
+        ],
+        [
+          "Manish Jonnalagadda",
+          "r",
+          1
+        ],
+        [
+          "Arul Padmanaban",
+          "c",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "c",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2927",
+      "date": "2024-04-28",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "NJYCA Comets",
+      "ground": "Monte Irvin Orange Park",
+      "result": "NJYCA Comets won by 214 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NJYCA Comets",
+          "runs": 268,
+          "wkts": 10,
+          "overs": "29.5"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 54,
+          "wkts": 10,
+          "overs": "17"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aarin Patkar",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Nayak",
+          "r": 1,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Raihan Mashal",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "lbw"
+        },
+        {
+          "name": "Vikrant Kawadkar",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Dev Patel",
+          "r": 6,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Vishisht Agarwal",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Vivaan Mathur",
+          "r": 14,
+          "b": 31,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Nihaal Kota",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "lbw"
+        },
+        {
+          "name": "Kathit Shah",
+          "r": 3,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Aviv Raval",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Nishan Bhattacharya",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vivaan Mathur",
+          "balls": 18,
+          "r": 32,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 5
+        },
+        {
+          "name": "Kathit Shah",
+          "balls": 18,
+          "r": 26,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Raihan Mashal",
+          "balls": 36,
+          "r": 29,
+          "w": 1,
+          "dots": 20,
+          "wd": 0,
+          "nb": 5
+        },
+        {
+          "name": "Aviv Raval",
+          "balls": 23,
+          "r": 31,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aarav Nayak",
+          "balls": 6,
+          "r": 19,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishisht Agarwal",
+          "balls": 36,
+          "r": 46,
+          "w": 3,
+          "dots": 15,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Vikrant Kawadkar",
+          "balls": 18,
+          "r": 32,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Nihaal Kota",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 4,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Nishan Bhattacharya",
+          "balls": 6,
+          "r": 17,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 7
+        },
+        {
+          "name": "Aarin Patkar",
+          "balls": 12,
+          "r": 24,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 3
+        }
+      ],
+      "fielding": [
+        [
+          "Vivaan Mathur",
+          "c",
+          1
+        ],
+        [
+          "Aarav Nayak",
+          "r",
+          1
+        ],
+        [
+          "Aarin Patkar",
+          "r",
+          1
+        ],
+        [
+          "Aarin Patkar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2832",
+      "date": "2024-04-21",
+      "series": "USAC Youth 2024 - New Jersey Hub",
+      "seriesId": "legacy-159",
+      "opponent": "RRA NJ Supergiants",
+      "ground": "Conover (Post Rd)",
+      "result": "RRA NJ Supergiants won by 272 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "RRA NJ Supergiants",
+          "runs": 354,
+          "wkts": 1,
+          "overs": "30.1"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 82,
+          "wkts": 7,
+          "overs": "30"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aarnav Dave",
+          "r": 0,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Dev Patel",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Aarav Nayak",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Aarin Patkar",
+          "r": 18,
+          "b": 86,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Raihan Mashal",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "lbw"
+        },
+        {
+          "name": "Vikrant Kawadkar",
+          "r": 6,
+          "b": 33,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Vivaan Mathur",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "st"
+        },
+        {
+          "name": "Kavya Patel",
+          "r": 17,
+          "b": 35,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Aviv Raval",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vivaan Mathur",
+          "balls": 24,
+          "r": 38,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Dev Patel",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Aviv Raval",
+          "balls": 18,
+          "r": 33,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Kathit Shah",
+          "balls": 12,
+          "r": 47,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 6
+        },
+        {
+          "name": "Aarav Nayak",
+          "balls": 18,
+          "r": 22,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Nihaal Kota",
+          "balls": 24,
+          "r": 50,
+          "w": 0,
+          "dots": 3,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Vikrant Kawadkar",
+          "balls": 18,
+          "r": 25,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Kavya Patel",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 4,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Raihan Mashal",
+          "balls": 18,
+          "r": 37,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Aarin Patkar",
+          "balls": 12,
+          "r": 33,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aarnav Dave",
+          "balls": 12,
+          "r": 22,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2356",
+      "date": "2023-08-27",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "Cricmax Panthers",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Cricmax Panthers",
+          "runs": 83,
+          "wkts": 7,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 84,
+          "wkts": 3,
+          "overs": "24.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vedant Jarhad",
+          "r": 34,
+          "b": 65,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Atharva Dhok",
+          "r": 18,
+          "b": 37,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 6,
+          "b": 27,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Adithya Karthik",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 14,
+          "b": 13,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 36,
+          "r": 14,
+          "w": 1,
+          "dots": 25,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Saket Karthik",
+          "balls": 12,
+          "r": 15,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 36,
+          "r": 11,
+          "w": 0,
+          "dots": 27,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 36,
+          "r": 11,
+          "w": 0,
+          "dots": 26,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 36,
+          "r": 11,
+          "w": 3,
+          "dots": 29,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Aayush Patil",
+          "r",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "r",
+          1
+        ],
+        [
+          "Aarav Ahuja",
+          "c",
+          1
+        ],
+        [
+          "Aarav Ahuja",
+          "r",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "r",
+          1
+        ],
+        [
+          "Neel Pandit",
+          "c",
+          1
+        ],
+        [
+          "Adithya Karthik",
+          "c",
+          1
+        ],
+        [
+          "Vedant Jarhad",
+          "c",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2336",
+      "date": "2023-08-20",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "DAS Raiders",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "DAS Raiders",
+          "runs": 53,
+          "wkts": 10,
+          "overs": "20.1"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 54,
+          "wkts": 3,
+          "overs": "9.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Avyakth Garuda Dwajan",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Neel Pandit",
+          "r": 0,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Adithya Karthik",
+          "r": 4,
+          "b": 23,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 35,
+          "b": 14,
+          "f": 5,
+          "s": 2,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Saket Karthik",
+          "balls": 24,
+          "r": 11,
+          "w": 2,
+          "dots": 18,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 36,
+          "r": 14,
+          "w": 3,
+          "dots": 28,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 31,
+          "r": 11,
+          "w": 2,
+          "dots": 25,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 6,
+          "r": 1,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Armaan Qureshi",
+          "c",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "k",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "r",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "r",
+          2
+        ],
+        [
+          "Neel Pandit",
+          "c",
+          1
+        ],
+        [
+          "Saket Karthik",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2295",
+      "date": "2023-08-13",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "CCP 13",
+      "ground": "Chester Valley (Malvern, PA)",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "CCP 13",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2294",
+      "date": "2023-08-13",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "DAS Raiders",
+      "ground": "NJ - Avenel 2 (Avenel)",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "DAS Raiders",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-2283",
+      "date": "2023-08-13",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "Dream Cricket Cheetahs",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 2 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Dream Cricket Cheetahs",
+          "runs": 103,
+          "wkts": 7,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 106,
+          "wkts": 8,
+          "overs": "29"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Neel Pandit",
+          "r": 10,
+          "b": 33,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 15,
+          "b": 10,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Adithya Karthik",
+          "r": 10,
+          "b": 23,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Vedant Jarhad",
+          "r": 15,
+          "b": 41,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 17,
+          "b": 9,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Atharva Dhok",
+          "r": 15,
+          "b": 21,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Avyakth Garuda Dwajan",
+          "r": 4,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 4,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 6,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 36,
+          "r": 20,
+          "w": 2,
+          "dots": 21,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 36,
+          "r": 9,
+          "w": 1,
+          "dots": 33,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 18,
+          "r": 15,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 36,
+          "r": 17,
+          "w": 2,
+          "dots": 26,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 36,
+          "r": 29,
+          "w": 0,
+          "dots": 19,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 18,
+          "r": 13,
+          "w": 0,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vishva Vinodh",
+          "c",
+          1
+        ],
+        [
+          "Neel Pandit",
+          "c",
+          2
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "r",
+          1
+        ],
+        [
+          "Aarav Ahuja",
+          "r",
+          1
+        ],
+        [
+          "Armaan Qureshi",
+          "r",
+          1
+        ],
+        [
+          "Vishva Vinodh",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2222",
+      "date": "2023-08-06",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "Cricmax Panthers",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 11 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 173,
+          "wkts": 8,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax Panthers",
+          "runs": 162,
+          "wkts": 10,
+          "overs": "29.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 12,
+          "b": 20,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Vedant Jarhad",
+          "r": 6,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 5,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Neel Pandit",
+          "r": 38,
+          "b": 62,
+          "f": 6,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 33,
+          "b": 31,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 19,
+          "b": 26,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Manish Jonnalagadda",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Avyakth Garuda Dwajan",
+          "r": 15,
+          "b": 14,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Arul Padmanaban",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 36,
+          "r": 26,
+          "w": 2,
+          "dots": 20,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 22,
+          "r": 28,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 36,
+          "r": 18,
+          "w": 3,
+          "dots": 27,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 6,
+          "r": 17,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 36,
+          "r": 25,
+          "w": 0,
+          "dots": 22,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 36,
+          "r": 30,
+          "w": 1,
+          "dots": 20,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Vedant Jarhad",
+          "balls": 6,
+          "r": 16,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Abhinav Ramesh Kumar",
+          "r",
+          1
+        ],
+        [
+          "Manish Jonnalagadda",
+          "r",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "k",
+          1
+        ],
+        [
+          "Aarav Ahuja",
+          "r",
+          2
+        ],
+        [
+          "Atharva Dhok",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-2110",
+      "date": "2023-07-23",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "Criclanes Supernova",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Criclanes Supernova",
+          "runs": 106,
+          "wkts": 9,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 112,
+          "wkts": 4,
+          "overs": "17"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Vedant Jarhad",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 5,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 40,
+          "b": 52,
+          "f": 7,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 10,
+          "b": 28,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Adithya Karthik",
+          "r": 18,
+          "b": 17,
+          "f": 1,
+          "s": 2,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Neel Pandit",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 36,
+          "r": 21,
+          "w": 1,
+          "dots": 29,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Hridaan Mehta",
+          "balls": 30,
+          "r": 30,
+          "w": 2,
+          "dots": 20,
+          "wd": 15,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 36,
+          "r": 12,
+          "w": 3,
+          "dots": 32,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "balls": 18,
+          "r": 11,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 36,
+          "r": 14,
+          "w": 1,
+          "dots": 29,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Anish Rudravajhala",
+          "balls": 12,
+          "r": 5,
+          "w": 0,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Anish Rudravajhala",
+          "r",
+          1
+        ],
+        [
+          "Vihaan Pandya",
+          "r",
+          2
+        ],
+        [
+          "Adithya Karthik",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1894",
+      "date": "2023-06-18",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "Criclanes Supernova",
+      "ground": "Pacers (NJ)",
+      "result": "Cricmax NE won by 141 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 209,
+          "wkts": 10,
+          "overs": "29.5"
+        },
+        {
+          "team": "Criclanes Supernova",
+          "runs": 68,
+          "wkts": 10,
+          "overs": "22.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aayush Patil",
+          "r": 23,
+          "b": 20,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Atharva Dhok",
+          "r": 15,
+          "b": 12,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Vedant Jarhad",
+          "r": 19,
+          "b": 26,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Avyakth Garuda Dwajan",
+          "r": 56,
+          "b": 73,
+          "f": 6,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 31,
+          "b": 39,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Saket Karthik",
+          "r": 6,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Vishva Vinodh",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 24,
+          "r": 6,
+          "w": 0,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Saket Karthik",
+          "balls": 14,
+          "r": 4,
+          "w": 3,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 20,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 24,
+          "r": 3,
+          "w": 2,
+          "dots": 22,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 18,
+          "r": 5,
+          "w": 1,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vedant Jarhad",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Saket Karthik",
+          "r",
+          1
+        ],
+        [
+          "Vedant Jarhad",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1782",
+      "date": "2023-06-11",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "NJYCA Cosmos",
+      "ground": "Kimberly Field",
+      "result": "Cricmax NE won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NJYCA Cosmos",
+          "runs": 46,
+          "wkts": 9,
+          "overs": "23.4"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 48,
+          "wkts": 2,
+          "overs": "7.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 15,
+          "b": 23,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 8,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Adithya Karthik",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 28,
+          "r": 5,
+          "w": 3,
+          "dots": 26,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Saket Karthik",
+          "balls": 12,
+          "r": 4,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 30,
+          "r": 10,
+          "w": 0,
+          "dots": 27,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 36,
+          "r": 10,
+          "w": 2,
+          "dots": 34,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Vedant Jarhad",
+          "balls": 6,
+          "r": 2,
+          "w": 1,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 6,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 12,
+          "r": 6,
+          "w": 0,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "balls": 12,
+          "r": 2,
+          "w": 1,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Abhinav Ramesh Kumar",
+          "c",
+          1
+        ],
+        [
+          "Vedant Jarhad",
+          "r",
+          1
+        ],
+        [
+          "Aarav Ahuja",
+          "r",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ],
+        [
+          "Vedant Jarhad",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1654",
+      "date": "2023-06-04",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "Dream Cricket Cheetahs",
+      "ground": "Rowland Small",
+      "result": "Dream Cricket Cheetahs won by 5 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Dream Cricket Cheetahs",
+          "runs": 177,
+          "wkts": 9,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 172,
+          "wkts": 10,
+          "overs": "29.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 14,
+          "b": 17,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 44,
+          "b": 50,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Vedant Jarhad",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 30,
+          "b": 26,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 0,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Avyakth Garuda Dwajan",
+          "r": 12,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "st"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 28,
+          "b": 35,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Arul Padmanaban",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Vishva Vinodh",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ctw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 18,
+          "r": 28,
+          "w": 0,
+          "dots": 10,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 36,
+          "r": 16,
+          "w": 2,
+          "dots": 24,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 36,
+          "r": 30,
+          "w": 1,
+          "dots": 21,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vedant Jarhad",
+          "balls": 36,
+          "r": 27,
+          "w": 0,
+          "dots": 25,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "balls": 24,
+          "r": 39,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 3,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 12,
+          "r": 13,
+          "w": 2,
+          "dots": 6,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arul Padmanaban",
+          "c",
+          1
+        ],
+        [
+          "Aarav Ahuja",
+          "c",
+          1
+        ],
+        [
+          "Vishva Vinodh",
+          "r",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "r",
+          2
+        ],
+        [
+          "Vihaan Pandya",
+          "r",
+          1
+        ],
+        [
+          "Vedant Jarhad",
+          "r",
+          2
+        ],
+        [
+          "Arul Padmanaban",
+          "r",
+          1
+        ],
+        [
+          "Armaan Qureshi",
+          "c",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "c",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1522",
+      "date": "2023-05-21",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "Cricmax Panthers",
+      "ground": "NJ - Avenel 2 (Avenel)",
+      "result": "Cricmax NE won by 42 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 167,
+          "wkts": 7,
+          "overs": "30"
+        },
+        {
+          "team": "Cricmax Panthers",
+          "runs": 125,
+          "wkts": 9,
+          "overs": "30"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aayush Patil",
+          "r": 21,
+          "b": 29,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Atharva Dhok",
+          "r": 18,
+          "b": 14,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Avyakth Garuda Dwajan",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Vedant Jarhad",
+          "r": 36,
+          "b": 56,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "r": 9,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 11,
+          "b": 34,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 7,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 16,
+          "b": 16,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 18,
+          "r": 18,
+          "w": 0,
+          "dots": 11,
+          "wd": 14,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 36,
+          "r": 13,
+          "w": 2,
+          "dots": 31,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 36,
+          "r": 11,
+          "w": 0,
+          "dots": 32,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Ashvanth Ramesh Kumar",
+          "balls": 36,
+          "r": 22,
+          "w": 1,
+          "dots": 25,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Vedant Jarhad",
+          "balls": 30,
+          "r": 24,
+          "w": 0,
+          "dots": 22,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Niranjan Rajeev",
+          "balls": 6,
+          "r": 15,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Armaan Qureshi",
+          "balls": 6,
+          "r": 4,
+          "w": 2,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Armaan Qureshi",
+          "r",
+          3
+        ],
+        [
+          "Vedant Jarhad",
+          "r",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "c",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "c",
+          1
+        ],
+        [
+          "Niranjan Rajeev",
+          "c",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "r",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "r",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1422",
+      "date": "2023-05-14",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "CCP 13",
+      "ground": "TBD",
+      "result": "Cricmax NE won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "CCP 13",
+          "runs": 40,
+          "wkts": 10,
+          "overs": "20.4"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 41,
+          "wkts": 0,
+          "overs": "1.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 11,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 22,
+          "b": 8,
+          "f": 4,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 31,
+          "r": 9,
+          "w": 2,
+          "dots": 27,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Saket Karthik",
+          "balls": 24,
+          "r": 7,
+          "w": 2,
+          "dots": 22,
+          "wd": 0,
+          "nb": 4
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 18,
+          "r": 5,
+          "w": 0,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 24,
+          "r": 11,
+          "w": 2,
+          "dots": 20,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Vedant Jarhad",
+          "balls": 12,
+          "r": 1,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adithya Karthik",
+          "balls": 6,
+          "r": 0,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 9,
+          "r": 7,
+          "w": 3,
+          "dots": 8,
+          "wd": 6,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aayush Patil",
+          "c",
+          1
+        ],
+        [
+          "Abhinav Ramesh Kumar",
+          "c",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "r",
+          1
+        ],
+        [
+          "Avyakth Garuda Dwajan",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1299",
+      "date": "2023-05-07",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "DAS Raiders",
+      "ground": "Hillsborough Cricket Ground",
+      "result": "DAS Raiders won by 2 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Cricmax NE",
+          "runs": 111,
+          "wkts": 9,
+          "overs": "30"
+        },
+        {
+          "team": "DAS Raiders",
+          "runs": 112,
+          "wkts": 8,
+          "overs": "24.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Atharva Dhok",
+          "r": 22,
+          "b": 48,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Aayush Patil",
+          "r": 5,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Avyakth Garuda Dwajan",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Vedant Jarhad",
+          "r": 22,
+          "b": 54,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Armaan Qureshi",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Aarav Ahuja",
+          "r": 6,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "r": 6,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Manish Jonnalagadda",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Vihaan Pandya",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Shrey Thigale",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Abhinav Ramesh Kumar",
+          "balls": 30,
+          "r": 27,
+          "w": 1,
+          "dots": 15,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Shrey Thigale",
+          "balls": 36,
+          "r": 36,
+          "w": 4,
+          "dots": 21,
+          "wd": 11,
+          "nb": 0
+        },
+        {
+          "name": "Vishva Vinodh",
+          "balls": 36,
+          "r": 17,
+          "w": 0,
+          "dots": 27,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aarav Ahuja",
+          "balls": 18,
+          "r": 12,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Arul Padmanaban",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Atharva Dhok",
+          "balls": 11,
+          "r": 5,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vishva Vinodh",
+          "c",
+          1
+        ],
+        [
+          "Atharva Dhok",
+          "c",
+          1
+        ],
+        [
+          "Armaan Qureshi",
+          "r",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "c",
+          1
+        ],
+        [
+          "Aayush Patil",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-1123",
+      "date": "2023-04-23",
+      "series": "USAC Junior 2023 -New Jersey Hub U13",
+      "seriesId": "legacy-66",
+      "opponent": "NJYCA Cosmos",
+      "ground": "NJYCA",
+      "result": "Abandoned.",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NJYCA Cosmos",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "Cricmax NE",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    }
+  ],
+  "unresolvedFielders": 1
+}

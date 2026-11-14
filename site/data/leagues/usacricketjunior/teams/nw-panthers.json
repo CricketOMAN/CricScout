@@ -1,0 +1,3267 @@
+{
+  "team": "NW Panthers",
+  "logo": null,
+  "logos": {
+    "Bluegrass Stallions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Hoosier Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Bluegrass chargers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Hoosier Racers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "MVP Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/9eef718a-8164-4039-8c8a-e654aaf45d5d.jpg",
+    "MYCA Blizzards": "https://media.cricclubs.com/documentsRep/teamLogos/edac2f9d-7d09-4abe-abfa-4e472df88b46.jpg",
+    "MVP Gladiators": "https://media.cricclubs.com/documentsRep/teamLogos/0b9b69c6-b4ae-4d7d-ae4f-6b8225b46e1f.jpg",
+    "MYCA Hurricane": "https://media.cricclubs.com/documentsRep/teamLogos/edac2f9d-7d09-4abe-abfa-4e472df88b46.jpg",
+    "U15 Georgia A": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "U15 Georgia B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Austin Starz": "https://media.cricclubs.com/documentsRep/teamLogos/f69c1de9-8dc4-4192-bcdd-d0601840489a.jpg",
+    "Austin Blasters": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CricOne ATOMIC FORCE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "GWCA THUNDERS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "GWCA COSMOS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "SKA BOSTON TITANS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "NJYCA Aurora - U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "QUCA U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ICUSA - U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "NY Ovals U11": "https://media.cricclubs.com/documentsRep/teamLogos/6d16cda4-7201-4a09-a7b2-1ce4216fd730.jpg",
+    "ACAC Eagles": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "KYCA - U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Cardinals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Falcons": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Coyotes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Timberwolves": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Ospreys": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "SKA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "AZYCA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ANYCA U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "WYCA - NextGen": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "San Diego Bolts BLUE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SCYCA BLUE": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Surf Riders - SCYCA RED": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "SCVCA - SCCAY": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "San Diego Bolts RED": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "JMCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "FSSC Lions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "BRSS Cavaliers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Sunrisers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RYC Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/b7518b7b-79aa-48d7-8a75-67ad4cb923cb.jpg",
+    "SOCA Marvels": "https://media.cricclubs.com/documentsRep/teamLogos/0ef6c835-9a2e-41ef-a99f-d3836d9056c2.jpg",
+    "HCYC Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRAW Titans": "https://media.cricclubs.com/documentsRep/teamLogos/51846b67-c9f0-43cd-8f78-fd9a4ccdbf2c.jpg",
+    "BRSS Royals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "BRSS Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/b7025654-c867-4512-ad37-42f17fd5d3c8.jpg",
+    "RRAW Capitals": "https://media.cricclubs.com/documentsRep/teamLogos/c891e5aa-27b6-4e3b-86f9-33f3edf4f79e.jpg",
+    "WSK": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "U15 2026 Socal Hub Team Blue": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "U15 2026 Socal Hub Team Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "U15 2026 AZ Hub": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KRCA CT Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "NMCC Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "PCA Wildcats": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "NMCC Bears": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "DreamCricket Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Knight Riders Dominators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "RRA NJ Cosmos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Gameday Lions": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "FJSC Blazers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Gameday Firebirds": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Knight Riders Challengers": "https://media.cricclubs.com/documentsRep/teamLogos/0fc8ab73-6cfb-401b-a532-6edd3ec14dff.jpg",
+    "RRA NJ - Phoenix": "https://media.cricclubs.com/documentsRep/teamLogos/9fc3bc9d-dcaf-4dd2-9acd-eaf72b9f5d7a.jpg",
+    "Jersey Titans Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SKA Lions": "https://media.cricclubs.com/documentsRep/teamLogos/a42a9151-f594-437a-a407-e9adc62dc43a.jpg",
+    "DreamCricket Drona Elite": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Gameday Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "RRA NJ Polaris": "https://media.cricclubs.com/documentsRep/teamLogos/82b0f788-122b-4518-bd73-befe6ad1c15d.jpg",
+    "DreamCricket Pumas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Princeton Yodhas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "CCCA Pumas": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "StarSportsUS Crushers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Rising Stars Mavericks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Delhi Capitals Giants": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KCR Raptors": "https://media.cricclubs.com/documentsRep/teamLogos/1985d259-852d-43ef-9c6f-a3be663a7af6.jpg",
+    "22 Yards Strikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Rising Stars Chargers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Delhi Capitals Raiders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Panthers": "https://media.cricclubs.com/documentsRep/teamLogos/340509e3-678a-441e-84dc-1d4a8bb21fa0.jpg",
+    "Jersey Titans Gladiators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA SuperStars": "https://media.cricclubs.com/documentsRep/teamLogos/0089f0ed-90d7-4ff7-9932-bbe1365e2398.jpg",
+    "RRA NJ Superpulsers": "https://media.cricclubs.com/documentsRep/teamLogos/5f187f43-6a2e-45ad-bb56-b8bf1be3d978.jpg",
+    "Knight Riders Leopards": "https://media.cricclubs.com/documentsRep/teamLogos/231c357e-9ef4-4933-b3fb-365264928363.jpg",
+    "Gameday SuperStrikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "DreamCricket Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Drona Centaurus": "https://media.cricclubs.com/documentsRep/teamLogos/f460f839-05ac-44a5-aa87-db6e1fa5f6c1.jpg",
+    "ICUSA Sons Of Liberty": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Cosmos": "https://media.cricclubs.com/documentsRep/teamLogos/9312cd98-b690-41ed-b836-728cfc626e05.jpg",
+    "CCCA Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Sparta Cricket Club": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "StarSports US Knights": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Stelton DC Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "DreamCricket Colts Jr": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA SuperRadients": "https://media.cricclubs.com/documentsRep/teamLogos/49a29ff4-3ab7-451c-837c-50bb671f3308.jpg",
+    "SKA Roar": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Staten Island Cricket club": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "KCR Trailblazers": "https://media.cricclubs.com/documentsRep/teamLogos/ff0e953e-672e-47a7-bf54-898b053887fd.jpg",
+    "Jersey Titans Destroyers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Delhi Capitals Dragons": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Cardinals": "https://media.cricclubs.com/documentsRep/teamLogos/08f35d12-0643-42e2-8c8b-c5114a985c76.jpg",
+    "DreamCricket Drona Thunderbolts": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "KCR Cobras": "https://media.cricclubs.com/documentsRep/teamLogos/6966800f-8396-4df8-9513-6fbb550b999e.jpg",
+    "CCCA Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "FJSC Titans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Stelton DC Acers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "StarSportsUS Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Asteroids": "https://media.cricclubs.com/documentsRep/teamLogos/72a0b5a4-1dec-42eb-813e-df9f5e649d80.jpg",
+    "RRA NJ Nebula": "https://media.cricclubs.com/documentsRep/teamLogos/b17049bd-ee36-4886-8d4e-11ac98b67ee2.jpg",
+    "Rising Stars Strikers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "RRA NJ Apex": "https://media.cricclubs.com/documentsRep/teamLogos/8834b512-afcf-4a93-8f9c-bcb0bc81f8df.jpg",
+    "DreamCricket Whirlwind Girls": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Drona Sports Aviators": "https://media.cricclubs.com/documentsRep/teamLogos/fb3a0c5f-b346-492c-a690-37a66437798a.jpg",
+    "DreamCricket Thunder": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Drona Sports Atlas": "https://media.cricclubs.com/documentsRep/teamLogos/b53e575e-1410-439a-b275-e1cf41f9db9c.jpg",
+    "SparC Rising Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "RRA NJ Asteroids": "https://media.cricclubs.com/documentsRep/teamLogos/f98ef952-5719-46e0-b09d-c290ff9b2999.jpg",
+    "StarSportsUS Rising Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KCR Pythons": "https://media.cricclubs.com/documentsRep/teamLogos/8fc34fa1-2ace-4fa0-bbd5-44d64245547f.jpg",
+    "Jersey Titans Defenders": "https://media.cricclubs.com/documentsRep/teamLogos/31d51510-7a5f-4f19-a7ee-54a3827057ee.jpg",
+    "Knight Riders Phoenix": "https://media.cricclubs.com/documentsRep/teamLogos/beb5f229-ca58-4e2f-bcca-2fbf900ac692.jpg",
+    "Gameday Bears": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Jersey Titans Cronus": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Knight Riders Jersey City Blue Jays": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Roy Silva Academy": "https://media.cricclubs.com/documentsRep/teamLogos/bf6d568d-6c99-4e62-b9f3-2a49bc76cf20.jpg",
+    "Tampa Cricket League": "https://media.cricclubs.com/documentsRep/teamLogos/86342db5-565a-4c95-828b-87397d349a56.jpg",
+    "Young Genius Academy": "https://media.cricclubs.com/documentsRep/teamLogos/68a196b8-bcbb-4724-8b84-f3257792d31c.jpg",
+    "Angelo's Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/e2f99cd4-c855-4e7a-aa6f-5485d1131243.jpg",
+    "Florida Panthers Youth Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/d69b7d81-927f-45bd-b64e-83c8b0631637.jpg",
+    "Excel Cricket Academy": "https://media.cricclubs.com/documentsRep/teamLogos/89b9290a-c224-473c-9cfc-1798b3463ecd.jpg",
+    "HCCA Starz U15": "https://media.cricclubs.com/documentsRep/teamLogos/b422a408-6aa7-42c3-9e48-896561047c72.jpg",
+    "SuperKings Academy U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SA Elites U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Austin Blasters U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "RCA Sparks U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Baba Cricket Coaching School Raptors U11E": "https://media.cricclubs.com/documentsRep/teamLogos/09c52204-db5a-4d03-af45-4adb8470354c.jpg",
+    "SAC Foals U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "All Stars Sparklers U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Knights U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "CCA Rising Stars U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "TCC SKA Cubs U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Elite Rangers U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "LCA Vikings U11E": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "VKCA Volts": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Strikers Tensors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "BCA Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "USCA Islanders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Yorkers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "SRCA Spartans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SRCA Daredevils": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "CCA Tornadoes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Team Blue": "https://media.cricclubs.com/documentsRep/teamLogos/652d6a1a-6793-47ae-811e-6704f1c070bd.jpg",
+    "Team Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ACAC U15 Team A": "https://media.cricclubs.com/documentsRep/teamLogos/65b601df-edc1-40a6-9c9f-801822bb47e7.jpg",
+    "KYCA U15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "ACAC U15 Team B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Red": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Blue": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Green": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Cricmax Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "22 Yards": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DAS Mavericks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "DreamCricket Drona Troopers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "NJYCA Cosmos": "https://media.cricclubs.com/documentsRep/teamLogos/4e526196-1afe-436d-94a8-0f7968f45862.jpg",
+    "RRA NJ Superradiant": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DAS Raiders": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cricmax Cheetahs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Rising Stars Asteroids": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ICUSA Whippany Wolves": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Criclanes B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Cricmax B": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "EYCL B1": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "EYCL B2": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "DYCA-Denver Dynamites U13": "https://media.cricclubs.com/documentsRep/teamLogos/5988ff15-ee38-40dc-8cf8-0ccdfed30f7e.jpg",
+    "DYCA-Littleton Gladiators U13": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "DYCA-Parker Patriots U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "DYCA-Broomfield Bears U11": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Sunnyvale Stars": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cupertino Comets": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Fremont Vikings": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "NACL": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "San Jose Lightning": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "San Ramon Royals": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Fremont Thunder": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Cricket for Cubs": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "TVCC": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Windemere Legends": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Fremont Kings": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "SRCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Evergreen Lightning": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Dublin Panthers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "MCCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Mission Warriors": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "AYCA MAVERICKS": "https://media.cricclubs.com/documentsRep/teamLogos/941b4570-7a4a-405b-a560-56af82efa074.jpg",
+    "PRIME STRIKERS DETROIT": "https://media.cricclubs.com/documentsRep/teamLogos/49a7b3c2-d20a-4245-a80b-6eb97b2853c6.jpg",
+    "MYCA": "https://media.cricclubs.com/documentsRep/teamLogos/ed88e2c3-6e82-41b0-9ae3-aa44835a82d1.jpg",
+    "MCA MAVERICKS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "EYCA Vikings": "https://media.cricclubs.com/documentsRep/teamLogos/776d29fd-5346-496a-9422-0a546f3e83af.jpg",
+    "Dublin Cricket League": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Los Gatos Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Hyderabad Heroes": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Fremont Vulcans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Dublin Rhinos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Cupertino Bravos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Davis Avengers": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "PCA": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "SYCA Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/0f4b65f4-396d-4f42-bdb3-f3cdf444ba6c.jpg",
+    "Avalon Heights Blasters": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MYCA LIONS": "https://media.cricclubs.com/documentsRep/teamLogos/0af29e6a-253c-467b-9e9a-ca0f99edcc5b.jpg",
+    "AYCA BLASTERS": "https://media.cricclubs.com/documentsRep/teamLogos/c4e31f04-84eb-4ba5-adcc-f8afbd6e3cb6.jpg",
+    "MCA GLADIATORS": "https://media.cricclubs.com/documentsRep/teamLogos/6486adeb-d762-4021-a20a-4679d29e8ee6.jpg",
+    "PRIME STRIKERS NOVI": "https://media.cricclubs.com/documentsRep/teamLogos/781e0619-d374-450d-9a85-562793c5e9cd.jpg",
+    "MYCA TIGERS": "https://media.cricclubs.com/documentsRep/teamLogos/556ae420-0d8f-44cf-9281-8151c1a124bb.jpg",
+    "MCA CONQUERORS": "https://media.cricclubs.com/documentsRep/teamLogos/d436fb45-199a-4e98-93a0-3366c4086c59.jpg",
+    "AYCA STRIKERS": "https://media.cricclubs.com/documentsRep/teamLogos/6164f233-2ccd-4790-95ed-c0d9a17f99d0.jpg",
+    "PRIME STRIKERS TROY": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "ICY WARRIORS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MYCA HAWKS": "https://media.cricclubs.com/documentsRep/teamLogos/124f3ab0-8930-4c94-9036-137da8afe6b9.jpg",
+    "PRIME STRIKERS CANTON": "https://media.cricclubs.com/documentsRep/teamLogos/2a606a62-81d3-403d-9079-27c4423e9978.jpg",
+    "AYCA STARS": "https://media.cricclubs.com/documentsRep/teamLogos/3cc5e334-1dc7-4d0c-a500-f89b4104a64c.jpg",
+    "ICY KNIGHTS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "MCA RISERS": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "ACAC Spartans": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KYCA U-17": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "ACAC Gladiators": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "KYCA ICON U-15": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg"
+  },
+  "league": {
+    "code": "USACricketJunior",
+    "name": "USA Cricket Junior Pathway"
+  },
+  "seasons": {
+    "s126": {
+      "id": "legacy-440",
+      "name": "USAC 2026 - Houston - U15",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T22:05:42.169Z",
+      "points": {
+        "fetchedAt": "2026-11-13T22:05:42.169Z",
+        "source": "https://cricclubs.com/USACricketJunior/playerRankings.do?divisions=all&league=440&clubId=40319",
+        "players": {
+          "ansh shetty": {
+            "name": "Ansh Shetty",
+            "matches": 5,
+            "batting": 212,
+            "bowling": 160,
+            "fielding": 22,
+            "other": 0,
+            "mom": 0,
+            "total": 394
+          },
+          "laasya bandaru": {
+            "name": "Laasya Bandaru",
+            "matches": 5,
+            "batting": 153,
+            "bowling": 112,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 281
+          },
+          "vikram rajagopal": {
+            "name": "Vikram Rajagopal",
+            "matches": 5,
+            "batting": 58,
+            "bowling": 204,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 270
+          },
+          "aayush singh": {
+            "name": "Aayush Singh",
+            "matches": 6,
+            "batting": 205,
+            "bowling": -6,
+            "fielding": 58,
+            "other": 0,
+            "mom": 0,
+            "total": 257
+          },
+          "ajitesh kowkuntla": {
+            "name": "Ajitesh Kowkuntla",
+            "matches": 5,
+            "batting": 153,
+            "bowling": 52,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 213
+          },
+          "svanik repala": {
+            "name": "Svanik Repala",
+            "matches": 5,
+            "batting": 0,
+            "bowling": 138,
+            "fielding": 24,
+            "other": 0,
+            "mom": 0,
+            "total": 162
+          },
+          "akash selvakumar": {
+            "name": "Akash Selvakumar",
+            "matches": 6,
+            "batting": 32,
+            "bowling": 106,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 146
+          },
+          "vivaan mishra": {
+            "name": "Vivaan Mishra",
+            "matches": 4,
+            "batting": 45,
+            "bowling": 78,
+            "fielding": 22,
+            "other": 0,
+            "mom": 0,
+            "total": 145
+          },
+          "karn wayangankar": {
+            "name": "Karn Wayangankar",
+            "matches": 3,
+            "batting": 34,
+            "bowling": 64,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 114
+          },
+          "devesh chaudhary": {
+            "name": "Devesh Chaudhary",
+            "matches": 6,
+            "batting": 47,
+            "bowling": 0,
+            "fielding": 14,
+            "other": 0,
+            "mom": 0,
+            "total": 61
+          },
+          "atharva sai shivaprasad": {
+            "name": "Atharva Sai Shivaprasad",
+            "matches": 4,
+            "batting": 6,
+            "bowling": 37,
+            "fielding": 16,
+            "other": 0,
+            "mom": 0,
+            "total": 59
+          },
+          "srinikesh kowkuntla": {
+            "name": "Srinikesh Kowkuntla",
+            "matches": 1,
+            "batting": 1,
+            "bowling": 27,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 28
+          },
+          "satvik sai vummuti": {
+            "name": "Satvik Sai Vummuti",
+            "matches": 1,
+            "batting": 25,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 25
+          },
+          "viraat premkumar": {
+            "name": "Viraat Premkumar",
+            "matches": 5,
+            "batting": 19,
+            "bowling": -7,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 20
+          },
+          "nithya jalumuri": {
+            "name": "Nithya Jalumuri",
+            "matches": 2,
+            "batting": 2,
+            "bowling": -6,
+            "fielding": 22,
+            "other": 0,
+            "mom": 0,
+            "total": 18
+          },
+          "thishanth ram balaji": {
+            "name": "Thishanth Ram Balaji",
+            "matches": 1,
+            "batting": -2,
+            "bowling": -2,
+            "fielding": 14,
+            "other": 0,
+            "mom": 0,
+            "total": 10
+          },
+          "nw5 panthers": {
+            "name": "NW5 Panthers",
+            "matches": 2,
+            "batting": 0,
+            "bowling": 0,
+            "fielding": 8,
+            "other": 0,
+            "mom": 0,
+            "total": 8
+          }
+        }
+      }
+    },
+    "s210": {
+      "id": "legacy-275",
+      "name": "USAC Youth 2025 - Houston Hub U15",
+      "inSeason": true,
+      "scrapedAt": "2026-11-13T22:36:29.039Z",
+      "points": {
+        "fetchedAt": "2026-11-13T22:36:29.039Z",
+        "source": "https://cricclubs.com/USACricketJunior/playerRankings.do?divisions=all&league=275&clubId=40319",
+        "players": {
+          "risheel alluri": {
+            "name": "Risheel Alluri",
+            "matches": 7,
+            "batting": 761,
+            "bowling": 370,
+            "fielding": 70,
+            "other": 0,
+            "mom": 0,
+            "total": 1201
+          },
+          "laksh ngangom": {
+            "name": "Laksh Ngangom",
+            "matches": 6,
+            "batting": 428,
+            "bowling": 170,
+            "fielding": 110,
+            "other": 0,
+            "mom": 0,
+            "total": 708
+          },
+          "ansh shetty": {
+            "name": "Ansh Shetty",
+            "matches": 6,
+            "batting": 524,
+            "bowling": 80,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 644
+          },
+          "aayush singh": {
+            "name": "Aayush Singh",
+            "matches": 6,
+            "batting": 455,
+            "bowling": 0,
+            "fielding": 70,
+            "other": 0,
+            "mom": 0,
+            "total": 525
+          },
+          "svanik repala": {
+            "name": "Svanik Repala",
+            "matches": 6,
+            "batting": -30,
+            "bowling": 430,
+            "fielding": 50,
+            "other": 0,
+            "mom": 0,
+            "total": 450
+          },
+          "akash selvakumar": {
+            "name": "Akash Selvakumar",
+            "matches": 7,
+            "batting": 0,
+            "bowling": 450,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 450
+          },
+          "keerthana boya": {
+            "name": "Keerthana Boya",
+            "matches": 5,
+            "batting": 32,
+            "bowling": 300,
+            "fielding": 30,
+            "other": 0,
+            "mom": 0,
+            "total": 362
+          },
+          "ajitesh kowkuntla": {
+            "name": "Ajitesh Kowkuntla",
+            "matches": 6,
+            "batting": 10,
+            "bowling": 280,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 300
+          },
+          "karn wayangankar": {
+            "name": "Karn Wayangankar",
+            "matches": 6,
+            "batting": 15,
+            "bowling": 110,
+            "fielding": 50,
+            "other": 0,
+            "mom": 0,
+            "total": 175
+          },
+          "krish lakhani": {
+            "name": "Krish Lakhani",
+            "matches": 6,
+            "batting": -8,
+            "bowling": 180,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": 172
+          },
+          "nithya jalumuri": {
+            "name": "Nithya Jalumuri",
+            "matches": 5,
+            "batting": 3,
+            "bowling": 110,
+            "fielding": 40,
+            "other": 0,
+            "mom": 0,
+            "total": 153
+          },
+          "sohum jhingran": {
+            "name": "Sohum Jhingran",
+            "matches": 5,
+            "batting": 24,
+            "bowling": 0,
+            "fielding": 20,
+            "other": 0,
+            "mom": 0,
+            "total": 44
+          },
+          "aarush karnati": {
+            "name": "Aarush Karnati",
+            "matches": 3,
+            "batting": 12,
+            "bowling": 0,
+            "fielding": 10,
+            "other": 0,
+            "mom": 0,
+            "total": 22
+          },
+          "viraat premkumar": {
+            "name": "Viraat Premkumar",
+            "matches": 1,
+            "batting": -10,
+            "bowling": 0,
+            "fielding": 0,
+            "other": 0,
+            "mom": 0,
+            "total": -10
+          }
+        }
+      }
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-8092",
+      "date": "2026-05-16",
+      "series": "USAC 2026 - Houston - U15",
+      "seriesId": "legacy-440",
+      "opponent": "EY Knights",
+      "ground": "JPLN",
+      "result": "EY Knights won by 99 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "EY Knights",
+          "runs": 237,
+          "wkts": 8,
+          "overs": "35"
+        },
+        {
+          "team": "NW Panthers",
+          "runs": 138,
+          "wkts": 8,
+          "overs": "27.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aayush Singh",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 14,
+          "b": 20,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Karn Wayangankar",
+          "r": 13,
+          "b": 10,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Vivaan Mishra",
+          "r": 33,
+          "b": 59,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Viraat Premkumar",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Devesh Chaudhary",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Srinikesh Kowkuntla",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Satvik Sai Vummuti",
+          "r": 25,
+          "b": 64,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Akash Selvakumar",
+          "balls": 42,
+          "r": 46,
+          "w": 2,
+          "dots": 19,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Srinikesh Kowkuntla",
+          "balls": 36,
+          "r": 32,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Laasya Bandaru",
+          "balls": 24,
+          "r": 31,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Vivaan Mishra",
+          "balls": 36,
+          "r": 38,
+          "w": 3,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 42,
+          "r": 41,
+          "w": 2,
+          "dots": 21,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Karn Wayangankar",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Satvik Sai Vummuti",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aayush Singh",
+          "balls": 12,
+          "r": 23,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Karn Wayangankar",
+          "c",
+          2
+        ],
+        [
+          "Devesh Chaudhary",
+          "c",
+          1
+        ],
+        [
+          "Atharva Sai Shivaprasad",
+          "c",
+          2
+        ],
+        [
+          "Laasya Bandaru",
+          "c",
+          1
+        ],
+        [
+          "Viraat Premkumar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7884",
+      "date": "2026-05-09",
+      "series": "USAC 2026 - Houston - U15",
+      "seriesId": "legacy-440",
+      "opponent": "KY Eagles",
+      "ground": "Al-Huda",
+      "result": "KY Eagles won by 49 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "KY Eagles",
+          "runs": 201,
+          "wkts": 10,
+          "overs": "35.3"
+        },
+        {
+          "team": "NW Panthers",
+          "runs": 152,
+          "wkts": 9,
+          "overs": "31.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aayush Singh",
+          "r": 31,
+          "b": 31,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Devesh Chaudhary",
+          "r": 14,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 13,
+          "b": 22,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Viraat Premkumar",
+          "r": 0,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Vivaan Mishra",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Ansh Shetty",
+          "r": 24,
+          "b": 30,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 18,
+          "b": 23,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Vikram Rajagopal",
+          "r": 2,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Thishanth Ram Balaji",
+          "r": 2,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vikram Rajagopal",
+          "balls": 48,
+          "r": 32,
+          "w": 4,
+          "dots": 31,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 48,
+          "r": 47,
+          "w": 2,
+          "dots": 21,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 16,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Thishanth Ram Balaji",
+          "balls": 36,
+          "r": 36,
+          "w": 0,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "balls": 18,
+          "r": 19,
+          "w": 0,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Shetty",
+          "balls": 33,
+          "r": 38,
+          "w": 3,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Vivaan Mishra",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Thishanth Ram Balaji",
+          "r",
+          1
+        ],
+        [
+          "Aayush Singh",
+          "r",
+          1
+        ],
+        [
+          "Nithya Jalumuri",
+          "c",
+          2
+        ],
+        [
+          "Ajitesh Kowkuntla",
+          "c",
+          1
+        ],
+        [
+          "Vivaan Mishra",
+          "c",
+          1
+        ],
+        [
+          "Aayush Singh",
+          "k",
+          2
+        ],
+        [
+          "Vikram Rajagopal",
+          "c",
+          1
+        ],
+        [
+          "Thishanth Ram Balaji",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7664",
+      "date": "2026-05-02",
+      "series": "USAC 2026 - Houston - U15",
+      "seriesId": "legacy-440",
+      "opponent": "EY Knights",
+      "ground": "JCP",
+      "result": "NW Panthers won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "EY Knights",
+          "runs": 252,
+          "wkts": 6,
+          "overs": "35"
+        },
+        {
+          "team": "NW Panthers",
+          "runs": 254,
+          "wkts": 6,
+          "overs": "32.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Laasya Bandaru",
+          "r": 86,
+          "b": 80,
+          "f": 10,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "lbw"
+        },
+        {
+          "name": "Devesh Chaudhary",
+          "r": 22,
+          "b": 31,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Ansh Shetty",
+          "r": 57,
+          "b": 29,
+          "f": 6,
+          "s": 4,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Viraat Premkumar",
+          "r": 7,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "lbw"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 35,
+          "b": 24,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Atharva Sai Shivaprasad",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 13,
+          "b": 14,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Svanik Repala",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Laasya Bandaru",
+          "balls": 30,
+          "r": 29,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Shetty",
+          "balls": 36,
+          "r": 25,
+          "w": 3,
+          "dots": 22,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 6,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Karn Wayangankar",
+          "balls": 36,
+          "r": 42,
+          "w": 1,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 30,
+          "r": 49,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Sai Shivaprasad",
+          "balls": 30,
+          "r": 33,
+          "w": 0,
+          "dots": 15,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 24,
+          "r": 30,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Viraat Premkumar",
+          "balls": 12,
+          "r": 30,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 2
+        }
+      ],
+      "fielding": [
+        [
+          "Svanik Repala",
+          "c",
+          1
+        ],
+        [
+          "Ansh Shetty",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7290",
+      "date": "2026-04-18",
+      "series": "USAC 2026 - Houston - U15",
+      "seriesId": "legacy-440",
+      "opponent": "SL Pulsars",
+      "ground": "JCP",
+      "result": "SL Pulsars won by 51 Runs (D/L)",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "NW Panthers",
+          "runs": 216,
+          "wkts": 10,
+          "overs": "40"
+        },
+        {
+          "team": "SL Pulsars",
+          "runs": 118,
+          "wkts": 1,
+          "overs": "18"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ansh Shetty",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Aayush Singh",
+          "r": 99,
+          "b": 102,
+          "f": 6,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Devesh Chaudhary",
+          "r": 9,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 5,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Laasya Bandaru",
+          "r": 6,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Svanik Repala",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Vikram Rajagopal",
+          "r": 37,
+          "b": 57,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "lbw"
+        },
+        {
+          "name": "Viraat Premkumar",
+          "r": 13,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Vivaan Mishra",
+          "r": 5,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Atharva Sai Shivaprasad",
+          "r": 5,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Svanik Repala",
+          "balls": 18,
+          "r": 17,
+          "w": 0,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 24,
+          "r": 34,
+          "w": 0,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Vikram Rajagopal",
+          "balls": 30,
+          "r": 32,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Laasya Bandaru",
+          "balls": 24,
+          "r": 22,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Atharva Sai Shivaprasad",
+          "balls": 6,
+          "r": 1,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 5,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Vivaan Mishra",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7209",
+      "date": "2026-04-11",
+      "series": "USAC 2026 - Houston - U15",
+      "seriesId": "legacy-440",
+      "opponent": "NC Superwarriors",
+      "ground": "JPLE",
+      "result": "NC Superwarriors won by 82 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NC Superwarriors",
+          "runs": 157,
+          "wkts": 10,
+          "overs": "38"
+        },
+        {
+          "team": "NW Panthers",
+          "runs": 75,
+          "wkts": 8,
+          "overs": "21.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ansh Shetty",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Aayush Singh",
+          "r": 11,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Devesh Chaudhary",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Laasya Bandaru",
+          "r": 7,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Karn Wayangankar",
+          "r": 15,
+          "b": 30,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Viraat Premkumar",
+          "r": 6,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "st"
+        },
+        {
+          "name": "Vikram Rajagopal",
+          "r": 9,
+          "b": 29,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 6,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Svanik Repala",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Akash Selvakumar",
+          "balls": 36,
+          "r": 19,
+          "w": 0,
+          "dots": 23,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vivaan Mishra",
+          "balls": 36,
+          "r": 28,
+          "w": 0,
+          "dots": 23,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 48,
+          "r": 47,
+          "w": 5,
+          "dots": 28,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Vikram Rajagopal",
+          "balls": 42,
+          "r": 20,
+          "w": 2,
+          "dots": 29,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Karn Wayangankar",
+          "balls": 30,
+          "r": 17,
+          "w": 1,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Laasya Bandaru",
+          "balls": 36,
+          "r": 23,
+          "w": 1,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aayush Singh",
+          "k",
+          2
+        ],
+        [
+          "Svanik Repala",
+          "c",
+          2
+        ],
+        [
+          "Laasya Bandaru",
+          "c",
+          1
+        ],
+        [
+          "Ansh Shetty",
+          "c",
+          1
+        ],
+        [
+          "Vivaan Mishra",
+          "r",
+          1
+        ],
+        [
+          "Aayush Singh",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-7042",
+      "date": "2026-03-21",
+      "series": "USAC 2026 - Houston - U15",
+      "seriesId": "legacy-440",
+      "opponent": "NW Titans",
+      "ground": "JPLE",
+      "result": "NW Panthers won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NW Titans",
+          "runs": 240,
+          "wkts": 5,
+          "overs": "40"
+        },
+        {
+          "team": "NW Panthers",
+          "runs": 241,
+          "wkts": 5,
+          "overs": "33.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Devesh Chaudhary",
+          "r": 7,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Ansh Shetty",
+          "r": 70,
+          "b": 49,
+          "f": 8,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Aayush Singh",
+          "r": 26,
+          "b": 26,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Laasya Bandaru",
+          "r": 29,
+          "b": 29,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 50,
+          "b": 41,
+          "f": 5,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Vikram Rajagopal",
+          "r": 17,
+          "b": 36,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Atharva Sai Shivaprasad",
+          "balls": 30,
+          "r": 15,
+          "w": 1,
+          "dots": 19,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 42,
+          "r": 39,
+          "w": 0,
+          "dots": 24,
+          "wd": 11,
+          "nb": 0
+        },
+        {
+          "name": "Laasya Bandaru",
+          "balls": 42,
+          "r": 26,
+          "w": 2,
+          "dots": 22,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 30,
+          "r": 45,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Vikram Rajagopal",
+          "balls": 30,
+          "r": 32,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 36,
+          "r": 39,
+          "w": 0,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "balls": 18,
+          "r": 29,
+          "w": 0,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ansh Shetty",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Akash Selvakumar",
+          "c",
+          1
+        ],
+        [
+          "Aayush Singh",
+          "k",
+          1
+        ],
+        [
+          "Nithya Jalumuri",
+          "r",
+          1
+        ],
+        [
+          "Aayush Singh",
+          "r",
+          1
+        ],
+        [
+          "Devesh Chaudhary",
+          "r",
+          1
+        ],
+        [
+          "Ansh Shetty",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-5361",
+      "date": "2025-05-31",
+      "series": "USAC Youth 2025 - Houston Hub U15",
+      "seriesId": "legacy-275",
+      "opponent": "SL Pulsars",
+      "ground": "JPLW",
+      "result": "NW Panthers won by 34 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "NW Panthers",
+          "runs": 117,
+          "wkts": 8,
+          "overs": "26"
+        },
+        {
+          "team": "SL Pulsars",
+          "runs": 83,
+          "wkts": 10,
+          "overs": "22"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 5,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "r": 12,
+          "b": 26,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "st"
+        },
+        {
+          "name": "Karn Wayangankar",
+          "r": 14,
+          "b": 35,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Ansh Shetty",
+          "r": 17,
+          "b": 23,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Risheel Alluri",
+          "r": 19,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Aayush Singh",
+          "r": 18,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Krish Lakhani",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Svanik Repala",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "lbw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Risheel Alluri",
+          "balls": 12,
+          "r": 7,
+          "w": 2,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krish Lakhani",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 7,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Karn Wayangankar",
+          "balls": 36,
+          "r": 22,
+          "w": 0,
+          "dots": 27,
+          "wd": 9,
+          "nb": 0
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 16,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 18,
+          "r": 6,
+          "w": 3,
+          "dots": 15,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "balls": 6,
+          "r": 0,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Svanik Repala",
+          "c",
+          2
+        ],
+        [
+          "Aayush Singh",
+          "k",
+          1
+        ],
+        [
+          "Karn Wayangankar",
+          "c",
+          1
+        ],
+        [
+          "Risheel Alluri",
+          "c",
+          1
+        ],
+        [
+          "Ansh Shetty",
+          "c",
+          1
+        ],
+        [
+          "Aayush Singh",
+          "r",
+          1
+        ],
+        [
+          "Risheel Alluri",
+          "r",
+          2
+        ],
+        [
+          "Karn Wayangankar",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4996",
+      "date": "2025-05-10",
+      "series": "USAC Youth 2025 - Houston Hub U15",
+      "seriesId": "legacy-275",
+      "opponent": "EY Cavaliers",
+      "ground": "MatzkeW",
+      "result": "NW Panthers won by 111 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "NW Panthers",
+          "runs": 192,
+          "wkts": 7,
+          "overs": "33.5"
+        },
+        {
+          "team": "EY Cavaliers",
+          "runs": 81,
+          "wkts": 10,
+          "overs": "18.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Aayush Singh",
+          "r": 17,
+          "b": 31,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Ansh Shetty",
+          "r": 39,
+          "b": 39,
+          "f": 6,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Laksh Ngangom",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Keerthana Boya",
+          "r": 14,
+          "b": 28,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Risheel Alluri",
+          "r": 71,
+          "b": 52,
+          "f": 8,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 9,
+          "b": 25,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Svanik Repala",
+          "r": 6,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 9,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Risheel Alluri",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 15,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 18,
+          "r": 17,
+          "w": 2,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Laksh Ngangom",
+          "balls": 18,
+          "r": 15,
+          "w": 1,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 23,
+          "r": 15,
+          "w": 2,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Keerthana Boya",
+          "balls": 18,
+          "r": 8,
+          "w": 3,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Aayush Singh",
+          "k",
+          2
+        ],
+        [
+          "Keerthana Boya",
+          "c",
+          1
+        ],
+        [
+          "Laksh Ngangom",
+          "c",
+          1
+        ],
+        [
+          "Risheel Alluri",
+          "c",
+          1
+        ],
+        [
+          "Svanik Repala",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4658",
+      "date": "2025-04-26",
+      "series": "USAC Youth 2025 - Houston Hub U15",
+      "seriesId": "legacy-275",
+      "opponent": "EY Knights",
+      "ground": "MatzkeW",
+      "result": "NW Panthers won by 210 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "NW Panthers",
+          "runs": 247,
+          "wkts": 6,
+          "overs": "35"
+        },
+        {
+          "team": "EY Knights",
+          "runs": 37,
+          "wkts": 7,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Karn Wayangankar",
+          "r": 8,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sohum Jhingran",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Aayush Singh",
+          "r": 71,
+          "b": 82,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Ansh Shetty",
+          "r": 62,
+          "b": 44,
+          "f": 6,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Risheel Alluri",
+          "r": 73,
+          "b": 55,
+          "f": 7,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Laksh Ngangom",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Keerthana Boya",
+          "balls": 18,
+          "r": 9,
+          "w": 0,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Risheel Alluri",
+          "balls": 12,
+          "r": 5,
+          "w": 1,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krish Lakhani",
+          "balls": 18,
+          "r": 12,
+          "w": 1,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 18,
+          "r": 10,
+          "w": 3,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "balls": 6,
+          "r": 1,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 3,
+          "r": 0,
+          "w": 2,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Karn Wayangankar",
+          "c",
+          2
+        ],
+        [
+          "Ansh Shetty",
+          "c",
+          1
+        ],
+        [
+          "Aayush Singh",
+          "c",
+          1
+        ],
+        [
+          "Laksh Ngangom",
+          "c",
+          1
+        ],
+        [
+          "Nithya Jalumuri",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4558",
+      "date": "2025-04-19",
+      "series": "USAC Youth 2025 - Houston Hub U15",
+      "seriesId": "legacy-275",
+      "opponent": "KY Eagles",
+      "ground": "JPLW",
+      "result": "NW Panthers won by 12 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "NW Panthers",
+          "runs": 202,
+          "wkts": 9,
+          "overs": "34.4"
+        },
+        {
+          "team": "KY Eagles",
+          "runs": 190,
+          "wkts": 10,
+          "overs": "33.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Karn Wayangankar",
+          "r": 5,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Aayush Singh",
+          "r": 30,
+          "b": 56,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "lbw"
+        },
+        {
+          "name": "Sohum Jhingran",
+          "r": 13,
+          "b": 26,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Aarush Karnati",
+          "r": 10,
+          "b": 33,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Ansh Shetty",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Risheel Alluri",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Laksh Ngangom",
+          "r": 81,
+          "b": 53,
+          "f": 7,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "lbw"
+        },
+        {
+          "name": "Svanik Repala",
+          "r": 3,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Risheel Alluri",
+          "balls": 30,
+          "r": 46,
+          "w": 0,
+          "dots": 15,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ansh Shetty",
+          "balls": 42,
+          "r": 27,
+          "w": 1,
+          "dots": 28,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Laksh Ngangom",
+          "balls": 42,
+          "r": 31,
+          "w": 4,
+          "dots": 27,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 36,
+          "r": 32,
+          "w": 2,
+          "dots": 24,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 29,
+          "r": 28,
+          "w": 1,
+          "dots": 17,
+          "wd": 10,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 24,
+          "r": 25,
+          "w": 0,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Risheel Alluri",
+          "c",
+          2
+        ],
+        [
+          "Laksh Ngangom",
+          "c",
+          2
+        ],
+        [
+          "Aayush Singh",
+          "k",
+          1
+        ],
+        [
+          "Aarush Karnati",
+          "c",
+          1
+        ],
+        [
+          "Svanik Repala",
+          "c",
+          1
+        ],
+        [
+          "Laksh Ngangom",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4457",
+      "date": "2025-04-12",
+      "series": "USAC Youth 2025 - Houston Hub U15",
+      "seriesId": "legacy-275",
+      "opponent": "SL Suns",
+      "ground": "MatzkeW",
+      "result": "NW Panthers won by 43 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "NW Panthers",
+          "runs": 170,
+          "wkts": 10,
+          "overs": "33.4"
+        },
+        {
+          "team": "SL Suns",
+          "runs": 127,
+          "wkts": 9,
+          "overs": "31.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sohum Jhingran",
+          "r": 7,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Karn Wayangankar",
+          "r": 5,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "r": 5,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Aarush Karnati",
+          "r": 2,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Laksh Ngangom",
+          "r": 37,
+          "b": 44,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "r": 13,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "lbw"
+        },
+        {
+          "name": "Risheel Alluri",
+          "r": 65,
+          "b": 58,
+          "f": 3,
+          "s": 2,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 2,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Krish Lakhani",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Svanik Repala",
+          "r": 1,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Keerthana Boya",
+          "r": 6,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Risheel Alluri",
+          "balls": 24,
+          "r": 10,
+          "w": 2,
+          "dots": 19,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Keerthana Boya",
+          "balls": 36,
+          "r": 22,
+          "w": 3,
+          "dots": 24,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 35,
+          "r": 23,
+          "w": 2,
+          "dots": 17,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Krish Lakhani",
+          "balls": 30,
+          "r": 19,
+          "w": 0,
+          "dots": 19,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 41,
+          "r": 23,
+          "w": 1,
+          "dots": 25,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aarush Karnati",
+          "balls": 6,
+          "r": 16,
+          "w": 0,
+          "dots": 1,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Laksh Ngangom",
+          "r",
+          1
+        ],
+        [
+          "Keerthana Boya",
+          "c",
+          1
+        ],
+        [
+          "Ajitesh Kowkuntla",
+          "c",
+          1
+        ],
+        [
+          "Karn Wayangankar",
+          "c",
+          1
+        ],
+        [
+          "Laksh Ngangom",
+          "k",
+          1
+        ],
+        [
+          "Svanik Repala",
+          "c",
+          1
+        ],
+        [
+          "Nithya Jalumuri",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4352",
+      "date": "2025-03-29",
+      "series": "USAC Youth 2025 - Houston Hub U15",
+      "seriesId": "legacy-275",
+      "opponent": "NC Superwarriors",
+      "ground": "MatzkeW",
+      "result": "NW Panthers won by 10 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NC Superwarriors",
+          "runs": 76,
+          "wkts": 9,
+          "overs": "18.2"
+        },
+        {
+          "team": "NW Panthers",
+          "runs": 77,
+          "wkts": 0,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ansh Shetty",
+          "r": 47,
+          "b": 47,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Aayush Singh",
+          "r": 21,
+          "b": 28,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Risheel Alluri",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Keerthana Boya",
+          "balls": 18,
+          "r": 13,
+          "w": 1,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Svanik Repala",
+          "balls": 18,
+          "r": 7,
+          "w": 2,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krish Lakhani",
+          "balls": 18,
+          "r": 13,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 18,
+          "r": 7,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "balls": 18,
+          "r": 17,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ajitesh Kowkuntla",
+          "balls": 2,
+          "r": 1,
+          "w": 1,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sohum Jhingran",
+          "c",
+          1
+        ],
+        [
+          "Ansh Shetty",
+          "c",
+          1
+        ],
+        [
+          "Risheel Alluri",
+          "c",
+          1
+        ],
+        [
+          "Keerthana Boya",
+          "c",
+          1
+        ],
+        [
+          "Aayush Singh",
+          "r",
+          1
+        ],
+        [
+          "Sohum Jhingran",
+          "r",
+          1
+        ],
+        [
+          "Ansh Shetty",
+          "r",
+          1
+        ],
+        [
+          "Nithya Jalumuri",
+          "r",
+          1
+        ],
+        [
+          "Nithya Jalumuri",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4299",
+      "date": "2025-03-22",
+      "series": "USAC Youth 2025 - Houston Hub U15",
+      "seriesId": "legacy-275",
+      "opponent": "NW TItans",
+      "ground": "JPLE",
+      "result": "NW Panthers won by 2 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "NW TItans",
+          "runs": 158,
+          "wkts": 10,
+          "overs": "30.1"
+        },
+        {
+          "team": "NW Panthers",
+          "runs": 159,
+          "wkts": 8,
+          "overs": "28.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ansh Shetty",
+          "r": 32,
+          "b": 22,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Aayush Singh",
+          "r": 38,
+          "b": 42,
+          "f": 4,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Sohum Jhingran",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Viraat Premkumar",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Risheel Alluri",
+          "r": 16,
+          "b": 22,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "st"
+        },
+        {
+          "name": "Laksh Ngangom",
+          "r": 39,
+          "b": 41,
+          "f": 5,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "r": 6,
+          "b": 26,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Karn Wayangankar",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Akash Selvakumar",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Krish Lakhani",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Risheel Alluri",
+          "balls": 30,
+          "r": 15,
+          "w": 2,
+          "dots": 23,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Keerthana Boya",
+          "balls": 19,
+          "r": 29,
+          "w": 1,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Krish Lakhani",
+          "balls": 30,
+          "r": 18,
+          "w": 2,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Karn Wayangankar",
+          "balls": 24,
+          "r": 24,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Akash Selvakumar",
+          "balls": 30,
+          "r": 20,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Nithya Jalumuri",
+          "balls": 24,
+          "r": 32,
+          "w": 2,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Laksh Ngangom",
+          "balls": 24,
+          "r": 20,
+          "w": 0,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Laksh Ngangom",
+          "c",
+          2
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 1
+}
