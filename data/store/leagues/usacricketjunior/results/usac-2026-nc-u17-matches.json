@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s23",
+  "id": "legacy-572",
+  "name": "USAC 2026 NC U17 Matches"
+ },
+ "fetchedAt": "2026-11-13T21:40:25.204Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=572&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=572&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8938",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8938&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3358",
+    "3359"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Green won by 8 Wickets",
+   "summary": "Team Red: 176/7(35) Team Green: 182/2(25.2)"
+  },
+  {
+   "matchId": "8911",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8911&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3359",
+    "3358"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Green: 115/1 (18/35 ov)",
+   "summary": "Team Green: 115/1(18) Live"
+  },
+  {
+   "matchId": "8887",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8887&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3358",
+    "3359"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Team Green won by 155 Runs",
+   "summary": "Team Green: 284/5(40) Team Red: 129/10(24)"
+  }
+ ]
+}

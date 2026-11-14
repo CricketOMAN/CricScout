@@ -1,0 +1,31 @@
+{
+ "season": {
+  "key": "s78",
+  "id": "legacy-500",
+  "name": "USAC 2026 Austin HUB U17"
+ },
+ "fetchedAt": "2026-11-13T21:47:25.341Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=500&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=500&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "7604",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7604&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Austin Starz",
+    "Austin Blasters"
+   ],
+   "teamIds": [
+    "3047",
+    "3048"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Starz won by 19 Runs",
+   "summary": "Austin Starz: 132/9(18.1) Austin Blasters: 113/9(20)"
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+{
+ "season": {
+  "key": "s148",
+  "id": "legacy-378",
+  "name": "USAC 2025 - U15 East Conference Championship"
+ },
+ "fetchedAt": "2026-11-13T22:15:44.445Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=378&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=378&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6211",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6211&clubId=40319",
+   "date": "2025-08-05",
+   "type": "League",
+   "teams": [
+    "DC",
+    "North Carolina"
+   ],
+   "teamIds": [
+    "2187",
+    "2191"
+   ],
+   "ground": "PARAM - G5",
+   "result": "DC won by 4 Runs",
+   "summary": "DC: 102/10(18.4) North Carolina: 98/9(25)"
+  },
+  {
+   "matchId": "6210",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6210&clubId=40319",
+   "date": "2025-08-05",
+   "type": "League",
+   "teams": [
+    "New York",
+    "EMW"
+   ],
+   "teamIds": [
+    "2188",
+    "2193"
+   ],
+   "ground": "PARAM - G6",
+   "result": "New York won by 21 Runs",
+   "summary": "New York: 117/8(25) EMW: 96/10(23.5)"
+  },
+  {
+   "matchId": "6209",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6209&clubId=40319",
+   "date": "2025-08-05",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "Georgia"
+   ],
+   "teamIds": [
+    "2189",
+    "2192"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Georgia won by 5 Wickets",
+   "summary": "New Jersey: 97/10(24.4) Georgia: 101/5(24.2)"
+  },
+  {
+   "matchId": "6208",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6208&clubId=40319",
+   "date": "2025-08-05",
+   "type": "League",
+   "teams": [
+    "DC_NJ_NY Combined",
+    "GA_FL_EMW Combined"
+   ],
+   "teamIds": [
+    "2190",
+    "2194"
+   ],
+   "ground": "PARAM - G3",
+   "result": "DC_NJ_NY Combined won by 9 Wickets",
+   "summary": "GA_FL_EMW Combined: 56/10(22) DC_NJ_NY Combined: 57/1(12.4)"
+  },
+  {
+   "matchId": "6199",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6199&clubId=40319",
+   "date": "2025-08-04",
+   "type": "League",
+   "teams": [
+    "New York",
+    "North Carolina"
+   ],
+   "teamIds": [
+    "2188",
+    "2191"
+   ],
+   "ground": "PARAM - G4",
+   "result": "North Carolina won by 32 Runs",
+   "summary": "North Carolina: 171/9(40) New York: 139/10(35.2)"
+  },
+  {
+   "matchId": "6198",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6198&clubId=40319",
+   "date": "2025-08-04",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "GA_FL_EMW Combined"
+   ],
+   "teamIds": [
+    "2189",
+    "2194"
+   ],
+   "ground": "PARAM - G2",
+   "result": "New Jersey won by 10 Wickets",
+   "summary": "GA_FL_EMW Combined: 70/10(24.4) New Jersey: 71/0(6.2)"
+  },
+  {
+   "matchId": "6197",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6197&clubId=40319",
+   "date": "2025-08-04",
+   "type": "League",
+   "teams": [
+    "DC",
+    "EMW"
+   ],
+   "teamIds": [
+    "2187",
+    "2193"
+   ],
+   "ground": "PARAM - G3",
+   "result": "EMW won by 1 Wicket",
+   "summary": "DC: 165/8(40) EMW: 171/9(40)"
+  },
+  {
+   "matchId": "6196",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6196&clubId=40319",
+   "date": "2025-08-04",
+   "type": "League",
+   "teams": [
+    "DC_NJ_NY Combined",
+    "Georgia"
+   ],
+   "teamIds": [
+    "2190",
+    "2192"
+   ],
+   "ground": "PARAM - G5",
+   "result": "Georgia won by 5 Wickets",
+   "summary": "DC_NJ_NY Combined: 77/10(35.2) Georgia: 78/5(24.4)"
+  },
+  {
+   "matchId": "6193",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6193&clubId=40319",
+   "date": "2025-08-03",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "North Carolina"
+   ],
+   "teamIds": [
+    "2189",
+    "2191"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Abandoned.",
+   "summary": "New Jersey: 0/0(0)"
+  },
+  {
+   "matchId": "6192",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6192&clubId=40319",
+   "date": "2025-08-03",
+   "type": "League",
+   "teams": [
+    "New York",
+    "GA_FL_EMW Combined"
+   ],
+   "teamIds": [
+    "2188",
+    "2194"
+   ],
+   "ground": "PARAM - G5",
+   "result": "Abandoned.",
+   "summary": "New York: 0/0(0)"
+  },
+  {
+   "matchId": "6191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6191&clubId=40319",
+   "date": "2025-08-03",
+   "type": "League",
+   "teams": [
+    "DC_NJ_NY Combined",
+    "EMW"
+   ],
+   "teamIds": [
+    "2190",
+    "2193"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Abandoned.",
+   "summary": "DC_NJ_NY Combined: 0/0(0)"
+  },
+  {
+   "matchId": "6190",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6190&clubId=40319",
+   "date": "2025-08-03",
+   "type": "League",
+   "teams": [
+    "DC",
+    "Georgia"
+   ],
+   "teamIds": [
+    "2187",
+    "2192"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Abandoned.",
+   "summary": "DC: 0/0(0)"
+  },
+  {
+   "matchId": "6170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6170&clubId=40319",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "DC",
+    "GA_FL_EMW Combined"
+   ],
+   "teamIds": [
+    "2187",
+    "2194"
+   ],
+   "ground": "PARAM - G4",
+   "result": "DC won by 107 Runs",
+   "summary": "DC: 141/11(36.2) GA_FL_EMW Combined: 34/10(15)"
+  },
+  {
+   "matchId": "6169",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6169&clubId=40319",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "EMW"
+   ],
+   "teamIds": [
+    "2189",
+    "2193"
+   ],
+   "ground": "PARAM - G5",
+   "result": "New Jersey won by 9 Wickets",
+   "summary": "EMW: 81/10(30.3) New Jersey: 82/1(14.4)"
+  },
+  {
+   "matchId": "6166",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6166&clubId=40319",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "New York",
+    "Georgia"
+   ],
+   "teamIds": [
+    "2188",
+    "2192"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Georgia won by 3 Wickets",
+   "summary": "New York: 161/10(36.1) Georgia: 162/7(39.4)"
+  },
+  {
+   "matchId": "6165",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6165&clubId=40319",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "DC_NJ_NY Combined",
+    "North Carolina"
+   ],
+   "teamIds": [
+    "2190",
+    "2191"
+   ],
+   "ground": "PARAM - G2",
+   "result": "North Carolina won by 6 Wickets",
+   "summary": "DC_NJ_NY Combined: 93/10(33.4) North Carolina: 94/4(22.2)"
+  },
+  {
+   "matchId": "6157",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6157&clubId=40319",
+   "date": "2025-08-01",
+   "type": "League",
+   "teams": [
+    "Georgia",
+    "GA_FL_EMW Combined"
+   ],
+   "teamIds": [
+    "2192",
+    "2194"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Georgia won by 69 Runs",
+   "summary": "Georgia: 200/8(40) GA_FL_EMW Combined: 131/10(36.2)"
+  },
+  {
+   "matchId": "6156",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6156&clubId=40319",
+   "date": "2025-08-01",
+   "type": "League",
+   "teams": [
+    "EMW",
+    "North Carolina"
+   ],
+   "teamIds": [
+    "2193",
+    "2191"
+   ],
+   "ground": "PARAM - G2",
+   "result": "North Carolina won by 4 Wickets",
+   "summary": "EMW: 179/8(40) North Carolina: 183/6(38.3)"
+  },
+  {
+   "matchId": "6073",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6073&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "North Carolina",
+    "GA_FL_EMW Combined"
+   ],
+   "teamIds": [
+    "2191",
+    "2194"
+   ],
+   "ground": "PARAM - G6",
+   "result": "North Carolina won by 86 Runs",
+   "summary": "North Carolina: 143/4(20) GA_FL_EMW Combined: 57/11(16.1)"
+  },
+  {
+   "matchId": "6063",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6063&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "EMW",
+    "GA_FL_EMW Combined"
+   ],
+   "teamIds": [
+    "2193",
+    "2194"
+   ],
+   "ground": "PARAM - G6",
+   "result": "EMW won by 8 Wickets",
+   "summary": "GA_FL_EMW Combined: 66/11(22.1) EMW: 70/2(9.1)"
+  },
+  {
+   "matchId": "6062",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6062&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "Georgia",
+    "North Carolina"
+   ],
+   "teamIds": [
+    "2192",
+    "2191"
+   ],
+   "ground": "PARAM - G3",
+   "result": "North Carolina won by 5 Wickets",
+   "summary": "Georgia: 67/10(21.2) North Carolina: 71/5(17.1)"
+  },
+  {
+   "matchId": "6061",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6061&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "DC"
+   ],
+   "teamIds": [
+    "2189",
+    "2187"
+   ],
+   "ground": "NY Ovals",
+   "result": "New Jersey won by 6 Wickets",
+   "summary": "DC: 77/10(34.1) New Jersey: 81/4(18)"
+  },
+  {
+   "matchId": "6060",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6060&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "New York",
+    "DC_NJ_NY Combined"
+   ],
+   "teamIds": [
+    "2188",
+    "2190"
+   ],
+   "ground": "NY Ovals",
+   "result": "DC_NJ_NY Combined won by 27 Runs (D/L)",
+   "summary": "New York: 135/10(37) DC_NJ_NY Combined: 125/4(32)"
+  },
+  {
+   "matchId": "6056",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6056&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Georgia",
+    "EMW"
+   ],
+   "teamIds": [
+    "2192",
+    "2193"
+   ],
+   "ground": "TBD",
+   "result": "Georgia won by 8 Wickets",
+   "summary": "EMW: 102/9(20) Georgia: 103/2(11.5)"
+  },
+  {
+   "matchId": "6041",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6041&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "DC_NJ_NY Combined",
+    "DC"
+   ],
+   "teamIds": [
+    "2190",
+    "2187"
+   ],
+   "ground": "NY Ovals",
+   "result": "DC_NJ_NY Combined won by 11 Runs",
+   "summary": "DC_NJ_NY Combined: 155/11(39.3) DC: 144/10(37.4)"
+  },
+  {
+   "matchId": "6040",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6040&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "New York"
+   ],
+   "teamIds": [
+    "2189",
+    "2188"
+   ],
+   "ground": "NY Ovals",
+   "result": "New Jersey won by 107 Runs",
+   "summary": "New Jersey: 204/8(40) New York: 97/10(27)"
+  },
+  {
+   "matchId": "6032",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6032&clubId=40319",
+   "date": "2025-07-18",
+   "type": "League",
+   "teams": [
+    "DC",
+    "New York"
+   ],
+   "teamIds": [
+    "2187",
+    "2188"
+   ],
+   "ground": "NY Ovals",
+   "result": "New York won by 1 Wicket",
+   "summary": "DC: 121/10(32) New York: 125/9(32)"
+  },
+  {
+   "matchId": "6031",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6031&clubId=40319",
+   "date": "2025-07-18",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "DC_NJ_NY Combined"
+   ],
+   "teamIds": [
+    "2189",
+    "2190"
+   ],
+   "ground": "NY Ovals",
+   "result": "New Jersey won by 34 Runs",
+   "summary": "New Jersey: 183/6(35) DC_NJ_NY Combined: 149/8(35)"
+  }
+ ]
+}

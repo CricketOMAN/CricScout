@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s72",
+  "id": "legacy-510",
+  "name": "USAC 2026 - MN HUB- U15"
+ },
+ "fetchedAt": "2026-11-13T21:45:01.310Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=510&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=510&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8675",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8675&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "MVP Trailblazers",
+    "MYCA Thunderstorm"
+   ],
+   "teamIds": [
+    "3113",
+    "3112"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm won by 9 Wickets",
+   "summary": "MVP Trailblazers: 96/10(29.4) MYCA Thunderstorm: 97/1(14.2)"
+  },
+  {
+   "matchId": "8579",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8579&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "MVP Trailblazers"
+   ],
+   "teamIds": [
+    "3112",
+    "3113"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm won by 63 Runs",
+   "summary": "MYCA Thunderstorm: 224/9(40) MVP Trailblazers: 161/10(32.5)"
+  },
+  {
+   "matchId": "8503",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8503&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "MVP Trailblazers"
+   ],
+   "teamIds": [
+    "3112",
+    "3113"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm won by 101 Runs",
+   "summary": "MYCA Thunderstorm: 240/8(40) MVP Trailblazers: 139/9(33)"
+  },
+  {
+   "matchId": "8402",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8402&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "ICA TheYouthMonks",
+    "MVP Trailblazers"
+   ],
+   "teamIds": [
+    "3115",
+    "3113"
+   ],
+   "ground": "IOWA ISU Ames",
+   "result": "ICA TheYouthMonks won by 7 Wickets",
+   "summary": "MVP Trailblazers: 201/8(40) ICA TheYouthMonks: 202/3(39.3)"
+  },
+  {
+   "matchId": "8330",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8330&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "ICA TheYouthMonks",
+    "MYCA Thunderstorm"
+   ],
+   "teamIds": [
+    "3115",
+    "3112"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MYCA Thunderstorm won by 216 Runs",
+   "summary": "MYCA Thunderstorm: 361/8(40) ICA TheYouthMonks: 145/4(40)"
+  },
+  {
+   "matchId": "8190",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8190&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "MVP Trailblazers",
+    "ICA TheYouthMonks"
+   ],
+   "teamIds": [
+    "3113",
+    "3115"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MVP Trailblazers won by 132 Runs",
+   "summary": "MVP Trailblazers: 241/10(35.3) ICA TheYouthMonks: 109/10(29.4)"
+  },
+  {
+   "matchId": "8086",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8086&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "ICA TheYouthMonks"
+   ],
+   "teamIds": [
+    "3112",
+    "3115"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm won by 159 Runs",
+   "summary": "MYCA Thunderstorm: 229/10(36.3) ICA TheYouthMonks: 70/10(23.3)"
+  },
+  {
+   "matchId": "7540",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7540&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "ICA TheYouthMonks"
+   ],
+   "teamIds": [
+    "3112",
+    "3115"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm won by 296 Runs",
+   "summary": "MYCA Thunderstorm: 351/5(40) ICA TheYouthMonks: 55/9(21)"
+  },
+  {
+   "matchId": "7476",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7476&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "MVP Trailblazers",
+    "ICA TheYouthMonks"
+   ],
+   "teamIds": [
+    "3113",
+    "3115"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Trailblazers won by 173 Runs",
+   "summary": "MVP Trailblazers: 237/3(40) ICA TheYouthMonks: 64/7(25.1)"
+  }
+ ]
+}

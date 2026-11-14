@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s63",
+  "id": "legacy-521",
+  "name": "USAC 2026 - Illinois Hub U15"
+ },
+ "fetchedAt": "2026-11-13T21:42:25.286Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=521&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=521&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8664",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8664&clubId=40319",
+   "date": "2026-06-13",
+   "type": "Super League",
+   "teams": [
+    "HUB U15 1",
+    "HUB U15 2"
+   ],
+   "teamIds": [
+    "3154",
+    "3155"
+   ],
+   "ground": "BPL",
+   "result": "HUB U15 1 won by 13 Runs",
+   "summary": "HUB U15 1: 127/9(35) HUB U15 2: 114/10(32.5)"
+  },
+  {
+   "matchId": "8657",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8657&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "BPL-B",
+    "CYCA U15 B"
+   ],
+   "teamIds": [
+    "3178",
+    "3151"
+   ],
+   "ground": "Nike Park",
+   "result": "BPL-B won by 78 Runs",
+   "summary": "BPL-B: 172/9(33.5) CYCA U15 B: 94/10(29.5)"
+  },
+  {
+   "matchId": "8609",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8609&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "CYCA U15 B",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "3151",
+    "3153"
+   ],
+   "ground": "BPL",
+   "result": "CHICAGO U15 won by 75 Runs",
+   "summary": "CHICAGO U15: 111/8(35) CYCA U15 B: 36/0(4.4)"
+  },
+  {
+   "matchId": "8547",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8547&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "BPL-B",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "3178",
+    "3153"
+   ],
+   "ground": "BPL",
+   "result": "BPL-B won by 21 Runs",
+   "summary": "BPL-B: 134/10(34) CHICAGO U15: 113/8(26.2)"
+  },
+  {
+   "matchId": "8494",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8494&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "BPL-B",
+    "CYCA U15 B"
+   ],
+   "teamIds": [
+    "3178",
+    "3151"
+   ],
+   "ground": "BPL",
+   "result": "BPL-B won by 5 Wickets",
+   "summary": "CYCA U15 B: 41/10(15.4) BPL-B: 44/5(19)"
+  },
+  {
+   "matchId": "8380",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8380&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "BPL-B",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "3178",
+    "3153"
+   ],
+   "ground": "Commissioners Park East Cricket Field",
+   "result": "BPL-B won by 7 Wickets",
+   "summary": "CHICAGO U15: 127/9(30.4) BPL-B: 128/3(24.4)"
+  },
+  {
+   "matchId": "8373",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8373&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "CYCA U15 A",
+    "BPL U15"
+   ],
+   "teamIds": [
+    "3150",
+    "3152"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA U15 A won by 2 Wickets",
+   "summary": "BPL U15: 79/10(29.5) CYCA U15 A: 80/8(31.2)"
+  },
+  {
+   "matchId": "8344",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8344&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "CYCA U15 B",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "3151",
+    "3153"
+   ],
+   "ground": "BPL",
+   "result": "CYCA U15 B won by 3 Wickets",
+   "summary": "CHICAGO U15: 134/10(32.4) CYCA U15 B: 135/7(29.2)"
+  },
+  {
+   "matchId": "8284",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8284&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "BPL U15",
+    "BPL-B"
+   ],
+   "teamIds": [
+    "3152",
+    "3178"
+   ],
+   "ground": "BPL",
+   "result": "BPL U15 won by 141 Runs",
+   "summary": "BPL U15: 199/2(35) BPL-B: 58/9(19.1)"
+  },
+  {
+   "matchId": "8168",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8168&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CYCA U15 A",
+    "BPL U15"
+   ],
+   "teamIds": [
+    "3150",
+    "3152"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA U15 A won by 7 Wickets",
+   "summary": "BPL U15: 75/10(26.5) CYCA U15 A: 76/3(22.1)"
+  },
+  {
+   "matchId": "8128",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8128&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CYCA U15 A",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "3150",
+    "3153"
+   ],
+   "ground": "BPL",
+   "result": "CYCA U15 A won by 8 Wickets (D/L)",
+   "summary": "CHICAGO U15: 138/10(35) CYCA U15 A: 133/2(14.1)"
+  },
+  {
+   "matchId": "8045",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8045&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CYCA U15 A",
+    "CYCA U15 B"
+   ],
+   "teamIds": [
+    "3150",
+    "3151"
+   ],
+   "ground": "BPL",
+   "result": "CYCA U15 A won by 8 Wickets",
+   "summary": "CYCA U15 B: 101/9(27) CYCA U15 A: 102/2(15.1)"
+  },
+  {
+   "matchId": "7952",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7952&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "BPL U15",
+    "CYCA U15 A"
+   ],
+   "teamIds": [
+    "3152",
+    "3150"
+   ],
+   "ground": "Commissioners Park East Cricket Field",
+   "result": "BPL U15 won by 6 Wickets",
+   "summary": "CYCA U15 A: 121/10(32.5) BPL U15: 123/4(27.1)"
+  },
+  {
+   "matchId": "7922",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7922&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CYCA U15 A",
+    "CYCA U15 B"
+   ],
+   "teamIds": [
+    "3150",
+    "3151"
+   ],
+   "ground": "BPL",
+   "result": "CYCA U15 A won by 7 Wickets",
+   "summary": "CYCA U15 B: 103/10(34.5) CYCA U15 A: 104/3(14.5)"
+  },
+  {
+   "matchId": "7852",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7852&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "BPL U15",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "3152",
+    "3153"
+   ],
+   "ground": "BPL",
+   "result": "BPL U15 won by 189 Runs",
+   "summary": "BPL U15: 238/4(35) CHICAGO U15: 49/10(16.5)"
+  },
+  {
+   "matchId": "7697",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7697&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BPL U15",
+    "CYCA U15 A"
+   ],
+   "teamIds": [
+    "3152",
+    "3150"
+   ],
+   "ground": "BPL",
+   "result": "BPL U15 won by 7 Wickets",
+   "summary": "CYCA U15 A: 126/10(29.2) BPL U15: 127/3(33.4)"
+  }
+ ]
+}

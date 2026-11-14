@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s153",
+  "id": "legacy-370",
+  "name": "USAC 2025 Houston Regional U15"
+ },
+ "fetchedAt": "2026-11-13T22:15:48.665Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=370&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=370&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5919",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5919&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Houston Blue",
+    "Austin"
+   ],
+   "teamIds": [
+    "2158",
+    "2159"
+   ],
+   "ground": "PV4",
+   "result": "Houston Blue won by 2 Wickets",
+   "summary": "Austin: 151/10(37.5) Houston Blue: 152/8(36)"
+  },
+  {
+   "matchId": "5886",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5886&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Houston Red",
+    "Austin"
+   ],
+   "teamIds": [
+    "2157",
+    "2159"
+   ],
+   "ground": "PV4",
+   "result": "Houston Red won by 92 Runs",
+   "summary": "Houston Red: 228/9(40) Austin: 136/12(38.5)"
+  },
+  {
+   "matchId": "5866",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5866&clubId=40319",
+   "date": "2025-06-27",
+   "type": "League",
+   "teams": [
+    "Houston Red",
+    "Houston Blue"
+   ],
+   "teamIds": [
+    "2157",
+    "2158"
+   ],
+   "ground": "PV4",
+   "result": "Houston Red won by -1 Wickets (D/L)",
+   "summary": "Houston Blue: 95/12(28.4) Houston Red: 137/11(38.2)"
+  }
+ ]
+}

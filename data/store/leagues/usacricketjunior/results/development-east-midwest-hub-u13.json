@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s260",
+  "id": "legacy-199",
+  "name": "Development - East Midwest Hub U13"
+ },
+ "fetchedAt": "2026-11-13T22:42:28.210Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=199&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=199&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6280",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6280&clubId=40319",
+   "date": "2025-08-24",
+   "type": "League",
+   "teams": [
+    "MCA - U13",
+    "ICY - U13"
+   ],
+   "teamIds": [
+    "1210",
+    "1208"
+   ],
+   "ground": "TBD",
+   "result": "MCA - U13 won by 63 Runs",
+   "summary": "MCA - U13: 167/6(30) ICY - U13: 104/7(24.3)"
+  },
+  {
+   "matchId": "4350",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4350&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "ICY - U13",
+    "MCA - U13"
+   ],
+   "teamIds": [
+    "1208",
+    "1210"
+   ],
+   "ground": "TBD",
+   "result": "ICY - U13 won by 104 Runs",
+   "summary": "ICY - U13: 162/10(36.4) MCA - U13: 58/10(20.3)"
+  },
+  {
+   "matchId": "4317",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4317&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "ICY - U13",
+    "AYCA - Strikers"
+   ],
+   "teamIds": [
+    "1208",
+    "1492"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "AYCA - Strikers won by 28 Runs",
+   "summary": "AYCA - Strikers: 104/5(15) ICY - U13: 76/2(15)"
+  },
+  {
+   "matchId": "4303",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4303&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "ICY - U13",
+    "AYCA - Strikers"
+   ],
+   "teamIds": [
+    "1208",
+    "1492"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "ICY - U13 won by 4 Wickets",
+   "summary": "AYCA - Strikers: 140/1(20) ICY - U13: 143/6(19.5)"
+  },
+  {
+   "matchId": "4190",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4190&clubId=40319",
+   "date": "2024-10-26",
+   "type": "League",
+   "teams": [
+    "ICY - U13",
+    "AYCA - Strikers"
+   ],
+   "teamIds": [
+    "1208",
+    "1492"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "AYCA - Strikers won by 13 Runs",
+   "summary": "AYCA - Strikers: 149/5(16) ICY - U13: 136/8(16)"
+  },
+  {
+   "matchId": "4179",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4179&clubId=40319",
+   "date": "2024-10-26",
+   "type": "League",
+   "teams": [
+    "ICY - U13",
+    "AYCA - Strikers"
+   ],
+   "teamIds": [
+    "1208",
+    "1492"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "AYCA - Strikers won by 17 Runs",
+   "summary": "AYCA - Strikers: 193/6(25) ICY - U13: 176/3(25)"
+  },
+  {
+   "matchId": "4124",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4124&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "AYCA - Strikers",
+    "ICY - U13"
+   ],
+   "teamIds": [
+    "1492",
+    "1208"
+   ],
+   "ground": "TBD",
+   "result": "AYCA - Strikers won by 33 Runs",
+   "summary": "AYCA - Strikers: 130/4(20) ICY - U13: 97/6(20)"
+  },
+  {
+   "matchId": "4111",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4111&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "AYCA - Strikers",
+    "ICY - U13"
+   ],
+   "teamIds": [
+    "1492",
+    "1208"
+   ],
+   "ground": "TBD",
+   "result": "AYCA - Strikers won by 14 Runs",
+   "summary": "AYCA - Strikers: 127/6(25) ICY - U13: 113/5(25)"
+  },
+  {
+   "matchId": "3013",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3013&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "ICY - U13",
+    "LCC - U13"
+   ],
+   "teamIds": [
+    "1208",
+    "1211"
+   ],
+   "ground": "Medlar Park Ground",
+   "result": "ICY - U13 won by 6 Wickets",
+   "summary": "LCC - U13: 127/9(30) ICY - U13: 128/4(24.5)"
+  },
+  {
+   "matchId": "3003",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3003&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "ICY - U13",
+    "MCA - U13"
+   ],
+   "teamIds": [
+    "1208",
+    "1210"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Super Over. Winner: MCA - U13",
+   "summary": "MCA - U13: 70/10(14.5) ICY - U13: 70/10(22.4)"
+  },
+  {
+   "matchId": "2922",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2922&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "MCA - U13",
+    "ICY - U13"
+   ],
+   "teamIds": [
+    "1210",
+    "1208"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "MCA - U13 won by 7 Wickets",
+   "summary": "ICY - U13: 152/10(27.5) MCA - U13: 156/3(22.1)"
+  }
+ ]
+}

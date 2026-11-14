@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s120",
+  "id": "legacy-449",
+  "name": "USAC 2026 - Dev - Dallas U13"
+ },
+ "fetchedAt": "2026-11-13T21:57:30.542Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=449&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=449&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8298",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8298&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers U13E",
+    "SAC Mavericks U13E"
+   ],
+   "teamIds": [
+    "2684",
+    "2686"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Mavericks U13E won by 71 Runs",
+   "summary": "SAC Mavericks U13E: 141/6(20) All Stars Strikers U13E: 70/9(20)"
+  },
+  {
+   "matchId": "8245",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8245&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers U13E",
+    "SAC Mavericks U13E"
+   ],
+   "teamIds": [
+    "2684",
+    "2686"
+   ],
+   "ground": "Stallions CG3",
+   "result": "SAC Mavericks U13E won by 8 Wickets",
+   "summary": "All Stars Strikers U13E: 56/8(20) SAC Mavericks U13E: 57/2(9.3)"
+  },
+  {
+   "matchId": "8123",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8123&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers U13E",
+    "SAC Mavericks U13E"
+   ],
+   "teamIds": [
+    "2684",
+    "2686"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Mavericks U13E won by 22 Runs",
+   "summary": "SAC Mavericks U13E: 174/5(20) All Stars Strikers U13E: 152/5(20)"
+  },
+  {
+   "matchId": "7817",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7817&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "SAC Mavericks U13E",
+    "All Stars Strikers U13E"
+   ],
+   "teamIds": [
+    "2686",
+    "2684"
+   ],
+   "ground": "Stallions CG1",
+   "result": "SAC Mavericks U13E won by 9 Wickets",
+   "summary": "All Stars Strikers U13E: 83/10(17.5) SAC Mavericks U13E: 84/1(7.5)"
+  },
+  {
+   "matchId": "7269",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7269&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers U13E",
+    "SAC Mavericks U13E"
+   ],
+   "teamIds": [
+    "2684",
+    "2686"
+   ],
+   "ground": "Stallions CG1",
+   "result": "SAC Mavericks U13E won by 50 Runs",
+   "summary": "SAC Mavericks U13E: 165/10(16.1) All Stars Strikers U13E: 115/8(12.5)"
+  },
+  {
+   "matchId": "7035",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7035&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers U13E",
+    "SAC Mavericks U13E"
+   ],
+   "teamIds": [
+    "2684",
+    "2686"
+   ],
+   "ground": "Warriors CG",
+   "result": "SAC Mavericks U13E won by 50 Runs",
+   "summary": "SAC Mavericks U13E: 175/7(20) All Stars Strikers U13E: 125/8(20)"
+  }
+ ]
+}

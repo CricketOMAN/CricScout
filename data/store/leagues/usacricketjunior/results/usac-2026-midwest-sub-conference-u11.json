@@ -1,0 +1,337 @@
+{
+ "season": {
+  "key": "s15",
+  "id": "legacy-588",
+  "name": "USAC 2026 Midwest sub conference U11"
+ },
+ "fetchedAt": "2026-11-13T21:40:00.447Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=588&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=588&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9228",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9228&clubId=40319",
+   "date": "2026-07-26",
+   "type": "Eliminator",
+   "teams": [
+    "North Central Rangers",
+    "North Central Stars"
+   ],
+   "teamIds": [
+    "3491",
+    "3489"
+   ],
+   "ground": "Bales Park",
+   "result": "North Central Rangers won by 83 Runs",
+   "summary": "North Central Rangers: 137/3(20) North Central Stars: 54/8(16.4)"
+  },
+  {
+   "matchId": "9227",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9227&clubId=40319",
+   "date": "2026-07-25",
+   "type": "3rd Position",
+   "teams": [
+    "CYCA Cubs",
+    "Houston Rockets"
+   ],
+   "teamIds": [
+    "3481",
+    "3482"
+   ],
+   "ground": "Bales Park",
+   "result": "CYCA Cubs won by 7 Wickets",
+   "summary": "Houston Rockets: 92/6(20) CYCA Cubs: 97/3(15.5)"
+  },
+  {
+   "matchId": "9219",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9219&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Final",
+   "teams": [
+    "ATX Dominators",
+    "Vikings"
+   ],
+   "teamIds": [
+    "3486",
+    "3480"
+   ],
+   "ground": "Bales Park",
+   "result": "Vikings won by 8 Wickets",
+   "summary": "ATX Dominators: 76/10(24) Vikings: 77/2(19.4)"
+  },
+  {
+   "matchId": "9206",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9206&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Eliminator",
+   "teams": [
+    "North Central Mavericks",
+    "ATX Warriors"
+   ],
+   "teamIds": [
+    "3490",
+    "3484"
+   ],
+   "ground": "Bales Park",
+   "result": "North Central Mavericks won by 5 Runs (D/L)",
+   "summary": "North Central Mavericks: 110/2(20) ATX Warriors: 85/7(16)"
+  },
+  {
+   "matchId": "9196",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9196&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "BPL Rising Stars",
+    "North Central Mavericks"
+   ],
+   "teamIds": [
+    "3450",
+    "3490"
+   ],
+   "ground": "Hazel 1",
+   "result": "North Central Mavericks won by 36 Runs",
+   "summary": "North Central Mavericks: 100/10(24.4) BPL Rising Stars: 64/10(20.3)"
+  },
+  {
+   "matchId": "9194",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9194&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "North Central Stars"
+   ],
+   "teamIds": [
+    "3481",
+    "3489"
+   ],
+   "ground": "Bales Park",
+   "result": "CYCA Cubs won by 5 Wickets",
+   "summary": "North Central Stars: 117/6(25) CYCA Cubs: 120/5(15.4)"
+  },
+  {
+   "matchId": "9193",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9193&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "ATX Warriors",
+    "ACAC Crushers"
+   ],
+   "teamIds": [
+    "3484",
+    "3483"
+   ],
+   "ground": "Hazel 6",
+   "result": "ATX Warriors won by 8 Wickets",
+   "summary": "ACAC Crushers: 133/6(25) ATX Warriors: 134/2(18.2)"
+  },
+  {
+   "matchId": "9192",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9192&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "ATX Dominators",
+    "Vikings"
+   ],
+   "teamIds": [
+    "3486",
+    "3480"
+   ],
+   "ground": "MSE Stadium",
+   "result": "Vikings won by 15 Runs",
+   "summary": "Vikings: 109/9(25) ATX Dominators: 94/10(22.3)"
+  },
+  {
+   "matchId": "9184",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9184&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "North Central Rangers",
+    "Houston Rockets"
+   ],
+   "teamIds": [
+    "3491",
+    "3482"
+   ],
+   "ground": "Bales Park",
+   "result": "Houston Rockets won by 11 Runs",
+   "summary": "Houston Rockets: 181/6(25) North Central Rangers: 170/6(25)"
+  },
+  {
+   "matchId": "9183",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9183&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "ATX Dominators",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "3486",
+    "3450"
+   ],
+   "ground": "Hazel 1",
+   "result": "ATX Dominators won by 7 Wickets",
+   "summary": "BPL Rising Stars: 80/10(24.5) ATX Dominators: 81/3(14.1)"
+  },
+  {
+   "matchId": "9181",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9181&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "North Central Mavericks",
+    "CYCA Cubs"
+   ],
+   "teamIds": [
+    "3490",
+    "3481"
+   ],
+   "ground": "Hazel 6",
+   "result": "North Central Mavericks won by 2 Wickets",
+   "summary": "CYCA Cubs: 71/10(16) North Central Mavericks: 72/8(20.1)"
+  },
+  {
+   "matchId": "9180",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9180&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers",
+    "Vikings"
+   ],
+   "teamIds": [
+    "3483",
+    "3480"
+   ],
+   "ground": "MSE Stadium",
+   "result": "Vikings won by 157 Runs",
+   "summary": "Vikings: 205/7(25) ACAC Crushers: 48/10(16.1)"
+  },
+  {
+   "matchId": "9177",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9177&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "North Central Rangers",
+    "ATX Warriors"
+   ],
+   "teamIds": [
+    "3491",
+    "3484"
+   ],
+   "ground": "Hazel - 1, Hazelwood",
+   "result": "North Central Rangers won by 8 Wickets",
+   "summary": "ATX Warriors: 122/9(25) North Central Rangers: 123/2(16.3)"
+  },
+  {
+   "matchId": "9176",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9176&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "North Central Stars",
+    "ACAC Crushers"
+   ],
+   "teamIds": [
+    "3489",
+    "3483"
+   ],
+   "ground": "MSE Stadium, Hazelwood",
+   "result": "North Central Stars won by 74 Runs",
+   "summary": "North Central Stars: 188/3(25) ACAC Crushers: 114/6(25)"
+  },
+  {
+   "matchId": "9175",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9175&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "Houston Rockets",
+    "Vikings"
+   ],
+   "teamIds": [
+    "3482",
+    "3480"
+   ],
+   "ground": "Bales Park, St. Charles",
+   "result": "Vikings won by 34 Runs",
+   "summary": "Vikings: 168/5(25) Houston Rockets: 134/8(25)"
+  },
+  {
+   "matchId": "9167",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9167&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "North Central Stars",
+    "Houston Rockets"
+   ],
+   "teamIds": [
+    "3489",
+    "3482"
+   ],
+   "ground": "Hazel 1",
+   "result": "Houston Rockets won by 7 Wickets",
+   "summary": "North Central Stars: 54/10(18.4) Houston Rockets: 55/3(13.1)"
+  },
+  {
+   "matchId": "9165",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9165&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "North Central Rangers",
+    "CYCA Cubs"
+   ],
+   "teamIds": [
+    "3491",
+    "3481"
+   ],
+   "ground": "MSE Stadium",
+   "result": "CYCA Cubs won by 32 Runs",
+   "summary": "CYCA Cubs: 140/10(25) North Central Rangers: 108/10(21.5)"
+  },
+  {
+   "matchId": "9164",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9164&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "ATX Warriors",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "3484",
+    "3450"
+   ],
+   "ground": "Bales Park",
+   "result": "ATX Warriors won by 3 Wickets",
+   "summary": "BPL Rising Stars: 136/6(25) ATX Warriors: 140/7(24.5)"
+  },
+  {
+   "matchId": "9163",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9163&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "North Central Mavericks",
+    "ATX Dominators"
+   ],
+   "teamIds": [
+    "3490",
+    "3486"
+   ],
+   "ground": "Hazel 6",
+   "result": "ATX Dominators won by 10 Wickets",
+   "summary": "North Central Mavericks: 87/10(25) ATX Dominators: 88/0(13.1)"
+  }
+ ]
+}

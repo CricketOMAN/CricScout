@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s198",
+  "id": "legacy-300",
+  "name": "2025 USAC St. Louis Hub - U13"
+ },
+ "fetchedAt": "2026-11-13T22:26:04.790Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=300&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=300&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5641",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5641&clubId=40319",
+   "date": "2025-06-12",
+   "type": "League",
+   "teams": [
+    "ACAC U13",
+    "KYCA U13"
+   ],
+   "teamIds": [
+    "2050",
+    "2051"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U13 won by 5 Wickets",
+   "summary": "KYCA U13: 154/6(30) ACAC U13: 155/5(20.5)"
+  },
+  {
+   "matchId": "5636",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5636&clubId=40319",
+   "date": "2025-06-12",
+   "type": "League",
+   "teams": [
+    "ACAC U13",
+    "KYCA U13"
+   ],
+   "teamIds": [
+    "2050",
+    "2051"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U13 won by 6 Wickets",
+   "summary": "KYCA U13: 74/10(24.1) ACAC U13: 75/4(14.1)"
+  },
+  {
+   "matchId": "5634",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5634&clubId=40319",
+   "date": "2025-06-11",
+   "type": "League",
+   "teams": [
+    "ACAC U13",
+    "KYCA U13"
+   ],
+   "teamIds": [
+    "2050",
+    "2051"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U13 won by 65 Runs",
+   "summary": "ACAC U13: 163/9(26.4) KYCA U13: 98/9(25)"
+  },
+  {
+   "matchId": "5629",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5629&clubId=40319",
+   "date": "2025-06-11",
+   "type": "League",
+   "teams": [
+    "ACAC U13",
+    "KYCA U13"
+   ],
+   "teamIds": [
+    "2050",
+    "2051"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U13 won by 84 Runs",
+   "summary": "ACAC U13: 215/4(30) KYCA U13: 131/8(29.5)"
+  },
+  {
+   "matchId": "4906",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4906&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "ACAC U13",
+    "KYCA U13"
+   ],
+   "teamIds": [
+    "2050",
+    "2051"
+   ],
+   "ground": "TBD",
+   "result": "ACAC U13 won by 9 Wickets",
+   "summary": "KYCA U13: 88/4(30) ACAC U13: 89/1(19)"
+  },
+  {
+   "matchId": "4850",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4850&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "ACAC U13",
+    "KYCA U13"
+   ],
+   "teamIds": [
+    "2050",
+    "2051"
+   ],
+   "ground": "TBD",
+   "result": "ACAC U13 won by 29 Runs",
+   "summary": "ACAC U13: 87/10(27) KYCA U13: 58/10(19.4)"
+  }
+ ]
+}

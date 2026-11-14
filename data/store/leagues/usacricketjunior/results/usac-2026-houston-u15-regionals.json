@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s32",
+  "id": "legacy-561",
+  "name": "USAC 2026 - Houston U15 Regionals"
+ },
+ "fetchedAt": "2026-11-13T21:40:51.123Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=561&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=561&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8812",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8812&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Houston Red",
+    "Austin"
+   ],
+   "teamIds": [
+    "3312",
+    "3314"
+   ],
+   "ground": "PVCC #3",
+   "result": "Houston Red won by 5 Wickets",
+   "summary": "Austin: 162/10(37.4) Houston Red: 163/5(27.4)"
+  },
+  {
+   "matchId": "8776",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8776&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Houston Blue",
+    "Austin"
+   ],
+   "teamIds": [
+    "3313",
+    "3314"
+   ],
+   "ground": "PVCC #3",
+   "result": "Abandoned. Winner: Houston Blue",
+   "summary": "Houston Blue: 252/8(40) Austin: 57/5(10.3)"
+  },
+  {
+   "matchId": "8755",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8755&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "Houston Blue",
+    "Houston Red"
+   ],
+   "teamIds": [
+    "3313",
+    "3312"
+   ],
+   "ground": "Katy East",
+   "result": "Houston Red won by 2 Wickets",
+   "summary": "Houston Blue: 174/10(38.5) Houston Red: 175/8(37.1)"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s43",
+  "id": "legacy-549",
+  "name": "USAC 2026 - Dallas U15 Phase 2"
+ },
+ "fetchedAt": "2026-11-13T21:41:25.364Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=549&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=549&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8682",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8682&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Dallas Green"
+   ],
+   "teamIds": [
+    "3265",
+    "3264"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Dallas Green won by 3 Wickets",
+   "summary": "Dallas Red: 122/10(33.3) Dallas Green: 123/7(30.5)"
+  },
+  {
+   "matchId": "8644",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8644&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "Dallas Brown",
+    "Dallas Orange"
+   ],
+   "teamIds": [
+    "3262",
+    "3263"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Dallas Orange won by 7 Wickets",
+   "summary": "Dallas Brown: 131/9(32.5) Dallas Orange: 135/3(26.5)"
+  },
+  {
+   "matchId": "8643",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8643&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "Dallas Teal",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "3266",
+    "3261"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Blue won by 10 Wickets",
+   "summary": "Dallas Teal: 82/10(24) Dallas Blue: 85/0(17)"
+  },
+  {
+   "matchId": "8630",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8630&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Dallas Brown"
+   ],
+   "teamIds": [
+    "3265",
+    "3262"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Red won by 4 Wickets",
+   "summary": "Dallas Brown: 204/10(39.1) Dallas Red: 208/6(29.5)"
+  },
+  {
+   "matchId": "8629",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8629&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "Dallas Blue",
+    "Dallas Orange"
+   ],
+   "teamIds": [
+    "3261",
+    "3263"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Dallas Orange won by 19 Runs",
+   "summary": "Dallas Orange: 130/8(40) Dallas Blue: 111/10(35.5)"
+  },
+  {
+   "matchId": "8628",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8628&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "Dallas Teal",
+    "Dallas Green"
+   ],
+   "teamIds": [
+    "3266",
+    "3264"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Dallas Green won by 121 Runs",
+   "summary": "Dallas Green: 201/3(40) Dallas Teal: 80/11(24.1)"
+  },
+  {
+   "matchId": "8625",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8625&clubId=40319",
+   "date": "2026-06-10",
+   "type": "League",
+   "teams": [
+    "Dallas Blue",
+    "Dallas Brown"
+   ],
+   "teamIds": [
+    "3261",
+    "3262"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Dallas Brown won by 9 Runs",
+   "summary": "Dallas Brown: 129/10(34.2) Dallas Blue: 120/10(36.4)"
+  },
+  {
+   "matchId": "8623",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8623&clubId=40319",
+   "date": "2026-06-10",
+   "type": "League",
+   "teams": [
+    "Dallas Orange",
+    "Dallas Green"
+   ],
+   "teamIds": [
+    "3263",
+    "3264"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Orange won by 52 Runs",
+   "summary": "Dallas Orange: 242/9(40) Dallas Green: 190/7(40)"
+  },
+  {
+   "matchId": "8622",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8622&clubId=40319",
+   "date": "2026-06-10",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Dallas Teal"
+   ],
+   "teamIds": [
+    "3265",
+    "3266"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Dallas Red won by 142 Runs",
+   "summary": "Dallas Red: 240/10(40) Dallas Teal: 98/10(18)"
+  }
+ ]
+}

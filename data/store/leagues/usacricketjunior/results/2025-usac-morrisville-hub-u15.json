@@ -1,0 +1,252 @@
+{
+ "season": {
+  "key": "s194",
+  "id": "legacy-305",
+  "name": "2025 USAC Morrisville -Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T22:26:01.388Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=305&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=305&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5612",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5612&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "U15-Newlands",
+    "U15-Victorians"
+   ],
+   "teamIds": [
+    "1720",
+    "1719"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "U15-Newlands won by 8 Wickets",
+   "summary": "U15-Victorians: 83/9(17.4) U15-Newlands: 84/2(12.3)"
+  },
+  {
+   "matchId": "5611",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5611&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "U15-Traffords",
+    "U15-Ovals"
+   ],
+   "teamIds": [
+    "1721",
+    "1722"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "U15-Traffords won by 4 Wickets",
+   "summary": "U15-Ovals: 81/8(20) U15-Traffords: 82/6(19.3)"
+  },
+  {
+   "matchId": "5576",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5576&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "U15-Ovals",
+    "U15-Traffords"
+   ],
+   "teamIds": [
+    "1722",
+    "1721"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "U15-Ovals won by 2 Wickets",
+   "summary": "U15-Traffords: 99/9(20) U15-Ovals: 102/8(19.5)"
+  },
+  {
+   "matchId": "5575",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5575&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "U15-Newlands",
+    "U15-Victorians"
+   ],
+   "teamIds": [
+    "1720",
+    "1719"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "U15-Newlands won by 9 Runs",
+   "summary": "U15-Newlands: 90/5(20) U15-Victorians: 81/5(20)"
+  },
+  {
+   "matchId": "5298",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5298&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "U15-Newlands",
+    "U15-Traffords"
+   ],
+   "teamIds": [
+    "1720",
+    "1721"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "U15-Traffords won by 51 Runs",
+   "summary": "U15-Traffords: 224/7(40) U15-Newlands: 173/6(40)"
+  },
+  {
+   "matchId": "5297",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5297&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "U15-Victorians",
+    "U15-Ovals"
+   ],
+   "teamIds": [
+    "1719",
+    "1722"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "U15-Ovals won by 8 Wickets",
+   "summary": "U15-Victorians: 138/11(31) U15-Ovals: 139/2(24)"
+  },
+  {
+   "matchId": "5217",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5217&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "U15-Traffords",
+    "U15-Victorians"
+   ],
+   "teamIds": [
+    "1721",
+    "1719"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "U15-Traffords: 230/10 (35/35 ov) U15-Victorians: 155/10 (34.2/35 ov)",
+   "summary": "U15-Traffords: 230/10(35) U15-Victorians: 155/10(34.2) Live"
+  },
+  {
+   "matchId": "5213",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5213&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "U15-Newlands",
+    "U15-Ovals"
+   ],
+   "teamIds": [
+    "1720",
+    "1722"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "U15-Ovals won by 5 Wickets",
+   "summary": "U15-Newlands: 113/12(25.2) U15-Ovals: 114/5(28.2)"
+  },
+  {
+   "matchId": "4937",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4937&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "U15-Ovals",
+    "U15-Traffords"
+   ],
+   "teamIds": [
+    "1722",
+    "1721"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "U15-Ovals won by 2 Wickets",
+   "summary": "U15-Traffords: 190/10(33.3) U15-Ovals: 191/8(28.5)"
+  },
+  {
+   "matchId": "4844",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4844&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "U15-Victorians",
+    "U15-Newlands"
+   ],
+   "teamIds": [
+    "1719",
+    "1720"
+   ],
+   "ground": "NC Hub - Weston Park",
+   "result": "It is a Tie (D/L)",
+   "summary": "U15-Victorians: 164/10(34.3) U15-Newlands: 128/7(23.2)"
+  },
+  {
+   "matchId": "4565",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4565&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "U15-Victorians",
+    "U15-Traffords"
+   ],
+   "teamIds": [
+    "1719",
+    "1721"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "U15-Traffords won by 98 Runs",
+   "summary": "U15-Traffords: 225/7(40) U15-Victorians: 127/10(26.3)"
+  },
+  {
+   "matchId": "4561",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4561&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "U15-Newlands",
+    "U15-Ovals"
+   ],
+   "teamIds": [
+    "1720",
+    "1722"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "U15-Ovals won by 2 Wickets",
+   "summary": "U15-Newlands: 139/10(27.2) U15-Ovals: 140/8(24.2)"
+  },
+  {
+   "matchId": "4509",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4509&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "U15-Newlands",
+    "U15-Traffords"
+   ],
+   "teamIds": [
+    "1720",
+    "1721"
+   ],
+   "ground": "NC Hub - Weston Park",
+   "result": "U15-Traffords won by 8 Runs",
+   "summary": "U15-Traffords: 223/10(34.3) U15-Newlands: 215/10(38.1)"
+  },
+  {
+   "matchId": "4473",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4473&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "U15-Victorians",
+    "U15-Ovals"
+   ],
+   "teamIds": [
+    "1719",
+    "1722"
+   ],
+   "ground": "NC Hub - Weston Park",
+   "result": "U15-Ovals won by 1 Wicket",
+   "summary": "U15-Victorians: 192/10(34.3) U15-Ovals: 193/9(39.1)"
+  }
+ ]
+}

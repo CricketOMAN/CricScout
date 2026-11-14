@@ -1,0 +1,1102 @@
+{
+ "season": {
+  "key": "s348",
+  "id": "legacy-23",
+  "name": "USAC Junior 2023 - Bay Area Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:16:08.030Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=23&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=23&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1745",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1745&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Mission Warriors",
+    "Fremont Thunder"
+   ],
+   "teamIds": [
+    "492",
+    "484"
+   ],
+   "ground": "Northgate",
+   "result": "Mission Warriors won by 8 Wickets",
+   "summary": "Fremont Thunder: 105/10(29.5) Mission Warriors: 107/2(27.2)"
+  },
+  {
+   "matchId": "1634",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1634&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Sunnyvale Stars",
+    "TVCC"
+   ],
+   "teamIds": [
+    "488",
+    "497"
+   ],
+   "ground": "Library",
+   "result": "Forfeited. Winner: Sunnyvale Stars",
+   "summary": "Sunnyvale Stars: 0/0(0)"
+  },
+  {
+   "matchId": "1622",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1622&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "SRCA",
+    "San Ramon Royals"
+   ],
+   "teamIds": [
+    "494",
+    "482"
+   ],
+   "ground": "Alisal",
+   "result": "SRCA won by 10 Wickets",
+   "summary": "San Ramon Royals: 71/10(27.3) SRCA: 72/0(10.2)"
+  },
+  {
+   "matchId": "1615",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1615&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "MCCA",
+    "Fremont Vikings"
+   ],
+   "teamIds": [
+    "490",
+    "486"
+   ],
+   "ground": "Murphy",
+   "result": "Fremont Vikings won by 18 Runs",
+   "summary": "Fremont Vikings: 170/9(30) MCCA: 152/5(30)"
+  },
+  {
+   "matchId": "1606",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1606&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Fremont Thunder",
+    "Windemere Legends"
+   ],
+   "teamIds": [
+    "484",
+    "495"
+   ],
+   "ground": "Dilworth",
+   "result": "Windemere Legends won by 8 Wickets",
+   "summary": "Fremont Thunder: 69/10(26.4) Windemere Legends: 70/2(14.1)"
+  },
+  {
+   "matchId": "1601",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1601&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Fremont Kings",
+    "Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "496",
+    "488"
+   ],
+   "ground": "Cupertino Library",
+   "result": "Sunnyvale Stars won by 9 Wickets",
+   "summary": "Fremont Kings: 36/8(21.5) Sunnyvale Stars: 37/1(9.4)"
+  },
+  {
+   "matchId": "1559",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1559&clubId=40319",
+   "date": "2023-05-29",
+   "type": "League",
+   "teams": [
+    "Cricket for Cubs",
+    "TVCC"
+   ],
+   "teamIds": [
+    "483",
+    "497"
+   ],
+   "ground": "WRMS",
+   "result": "Forfeited. Winner: TVCC",
+   "summary": "Cricket for Cubs: 0/0(0)"
+  },
+  {
+   "matchId": "1558",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1558&clubId=40319",
+   "date": "2023-05-29",
+   "type": "League",
+   "teams": [
+    "MCCA",
+    "San Ramon Royals"
+   ],
+   "teamIds": [
+    "490",
+    "482"
+   ],
+   "ground": "Murphy",
+   "result": "Forfeited. Winner: San Ramon Royals",
+   "summary": "MCCA: 0/0(0)"
+  },
+  {
+   "matchId": "1557",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1557&clubId=40319",
+   "date": "2023-05-29",
+   "type": "League",
+   "teams": [
+    "Mission Warriors",
+    "Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "492",
+    "488"
+   ],
+   "ground": "Challenger",
+   "result": "Sunnyvale Stars won by 188 Runs",
+   "summary": "Sunnyvale Stars: 233/2(30) Mission Warriors: 45/10(22.2)"
+  },
+  {
+   "matchId": "1556",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1556&clubId=40319",
+   "date": "2023-05-29",
+   "type": "League",
+   "teams": [
+    "SRCA",
+    "Fremont Vikings"
+   ],
+   "teamIds": [
+    "494",
+    "486"
+   ],
+   "ground": "WRMS",
+   "result": "Fremont Vikings won by 81 Runs",
+   "summary": "Fremont Vikings: 146/8(30) SRCA: 65/10(26)"
+  },
+  {
+   "matchId": "1555",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1555&clubId=40319",
+   "date": "2023-05-29",
+   "type": "League",
+   "teams": [
+    "Dublin Panthers",
+    "Cupertino Comets"
+   ],
+   "teamIds": [
+    "491",
+    "489"
+   ],
+   "ground": "Emerald Glen",
+   "result": "Cupertino Comets won by 9 Wickets",
+   "summary": "Dublin Panthers: 54/8(30) Cupertino Comets: 55/1(14.5)"
+  },
+  {
+   "matchId": "1554",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1554&clubId=40319",
+   "date": "2023-05-29",
+   "type": "League",
+   "teams": [
+    "Fremont Kings",
+    "Fremont Thunder"
+   ],
+   "teamIds": [
+    "496",
+    "484"
+   ],
+   "ground": "Easter Brook",
+   "result": "Fremont Kings won by 4 Wickets",
+   "summary": "Fremont Thunder: 96/5(30) Fremont Kings: 97/6(23.2)"
+  },
+  {
+   "matchId": "1553",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1553&clubId=40319",
+   "date": "2023-05-29",
+   "type": "League",
+   "teams": [
+    "Windemere Legends",
+    "San Jose Lightning"
+   ],
+   "teamIds": [
+    "495",
+    "485"
+   ],
+   "ground": "Alisal",
+   "result": "Windemere Legends won by 59 Runs",
+   "summary": "Windemere Legends: 104/7(30) San Jose Lightning: 45/10(23.5)"
+  },
+  {
+   "matchId": "1552",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1552&clubId=40319",
+   "date": "2023-05-29",
+   "type": "League",
+   "teams": [
+    "Evergreen Lightning",
+    "NACL"
+   ],
+   "teamIds": [
+    "493",
+    "487"
+   ],
+   "ground": "Challenger",
+   "result": "NACL won by 5 Wickets",
+   "summary": "Evergreen Lightning: 106/10(30) NACL: 110/5(23.3)"
+  },
+  {
+   "matchId": "1548",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1548&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "Mission Warriors",
+    "Cupertino Comets"
+   ],
+   "teamIds": [
+    "492",
+    "489"
+   ],
+   "ground": "Challenger",
+   "result": "Cupertino Comets won by 169 Runs",
+   "summary": "Cupertino Comets: 222/3(30) Mission Warriors: 53/8(17.5)"
+  },
+  {
+   "matchId": "1547",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1547&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "San Jose Lightning",
+    "Fremont Kings"
+   ],
+   "teamIds": [
+    "485",
+    "496"
+   ],
+   "ground": "Dilworth",
+   "result": "Fremont Kings won by 73 Runs",
+   "summary": "Fremont Kings: 221/3(30) San Jose Lightning: 148/6(30)"
+  },
+  {
+   "matchId": "1546",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1546&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "NACL",
+    "SRCA"
+   ],
+   "teamIds": [
+    "487",
+    "494"
+   ],
+   "ground": "Kathryn Hughes",
+   "result": "NACL won by 13 Runs",
+   "summary": "NACL: 85/9(30) SRCA: 72/9(28.2)"
+  },
+  {
+   "matchId": "1545",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1545&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "MCCA",
+    "Cricket for Cubs"
+   ],
+   "teamIds": [
+    "490",
+    "483"
+   ],
+   "ground": "Murphy",
+   "result": "MCCA won by 124 Runs",
+   "summary": "MCCA: 265/5(30) Cricket for Cubs: 141/8(30)"
+  },
+  {
+   "matchId": "1543",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1543&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "Fremont Thunder",
+    "TVCC"
+   ],
+   "teamIds": [
+    "484",
+    "497"
+   ],
+   "ground": "Library",
+   "result": "TVCC won by 10 Wickets",
+   "summary": "Fremont Thunder: 37/7(15.2) TVCC: 38/0(6.5)"
+  },
+  {
+   "matchId": "1542",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1542&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "Fremont Vikings",
+    "Windemere Legends"
+   ],
+   "teamIds": [
+    "486",
+    "495"
+   ],
+   "ground": "WRMS",
+   "result": "Fremont Vikings won by 41 Runs",
+   "summary": "Fremont Vikings: 123/6(30) Windemere Legends: 82/10(26.2)"
+  },
+  {
+   "matchId": "1541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1541&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "San Ramon Royals",
+    "Dublin Panthers"
+   ],
+   "teamIds": [
+    "482",
+    "491"
+   ],
+   "ground": "Bay Point",
+   "result": "Dublin Panthers won by 114 Runs",
+   "summary": "Dublin Panthers: 190/8(30) San Ramon Royals: 76/9(24.4)"
+  },
+  {
+   "matchId": "1540",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1540&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "Evergreen Lightning",
+    "Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "493",
+    "488"
+   ],
+   "ground": "Challenger",
+   "result": "Sunnyvale Stars won by 145 Runs",
+   "summary": "Sunnyvale Stars: 221/3(30) Evergreen Lightning: 76/8(26.3)"
+  },
+  {
+   "matchId": "1494",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1494&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "Cricket for Cubs",
+    "Dublin Panthers"
+   ],
+   "teamIds": [
+    "483",
+    "491"
+   ],
+   "ground": "WRMS",
+   "result": "Dublin Panthers won by 49 Runs",
+   "summary": "Dublin Panthers: 155/5(30) Cricket for Cubs: 106/10(27.2)"
+  },
+  {
+   "matchId": "1493",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1493&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "TVCC",
+    "San Jose Lightning"
+   ],
+   "teamIds": [
+    "497",
+    "485"
+   ],
+   "ground": "Davis",
+   "result": "TVCC won by 50 Runs",
+   "summary": "TVCC: 154/4(30) San Jose Lightning: 104/9(28.3)"
+  },
+  {
+   "matchId": "1492",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1492&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "Evergreen Lightning",
+    "Cupertino Comets"
+   ],
+   "teamIds": [
+    "493",
+    "489"
+   ],
+   "ground": "Challenger",
+   "result": "Cupertino Comets won by 9 Wickets",
+   "summary": "Evergreen Lightning: 66/10(27.3) Cupertino Comets: 67/1(9.1)"
+  },
+  {
+   "matchId": "1478",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1478&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "Windemere Legends",
+    "NACL"
+   ],
+   "teamIds": [
+    "495",
+    "487"
+   ],
+   "ground": "Alisal",
+   "result": "Windemere Legends won by 10 Wickets",
+   "summary": "NACL: 52/10(20.2) Windemere Legends: 56/0(10.1)"
+  },
+  {
+   "matchId": "1472",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1472&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "Mission Warriors",
+    "San Ramon Royals"
+   ],
+   "teamIds": [
+    "492",
+    "482"
+   ],
+   "ground": "Easter Brook",
+   "result": "San Ramon Royals won by 5 Wickets",
+   "summary": "Mission Warriors: 113/10(26.5) San Ramon Royals: 114/5(28.2)"
+  },
+  {
+   "matchId": "1467",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1467&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "MCCA",
+    "Fremont Thunder"
+   ],
+   "teamIds": [
+    "490",
+    "484"
+   ],
+   "ground": "Murphy",
+   "result": "MCCA won by 9 Wickets",
+   "summary": "Fremont Thunder: 106/6(30) MCCA: 107/1(16)"
+  },
+  {
+   "matchId": "1465",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1465&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "SRCA",
+    "Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "494",
+    "488"
+   ],
+   "ground": "WRMS",
+   "result": "Sunnyvale Stars won by 57 Runs",
+   "summary": "Sunnyvale Stars: 117/5(30) SRCA: 60/10(21.3)"
+  },
+  {
+   "matchId": "1463",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1463&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "Fremont Kings",
+    "Fremont Vikings"
+   ],
+   "teamIds": [
+    "496",
+    "486"
+   ],
+   "ground": "Challenger",
+   "result": "Fremont Vikings won by 71 Runs",
+   "summary": "Fremont Vikings: 145/5(30) Fremont Kings: 74/9(20.3)"
+  },
+  {
+   "matchId": "1395",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1395&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Cupertino Comets",
+    "SRCA"
+   ],
+   "teamIds": [
+    "489",
+    "494"
+   ],
+   "ground": "Library",
+   "result": "Cupertino Comets won by 47 Runs",
+   "summary": "Cupertino Comets: 129/7(30) SRCA: 82/10(23.1)"
+  },
+  {
+   "matchId": "1394",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1394&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Sunnyvale Stars",
+    "Windemere Legends"
+   ],
+   "teamIds": [
+    "488",
+    "495"
+   ],
+   "ground": "Dilworth",
+   "result": "Sunnyvale Stars won by 86 Runs",
+   "summary": "Sunnyvale Stars: 147/5(30) Windemere Legends: 61/10(20)"
+  },
+  {
+   "matchId": "1393",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1393&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Fremont Vikings",
+    "TVCC"
+   ],
+   "teamIds": [
+    "486",
+    "497"
+   ],
+   "ground": "WRMS",
+   "result": "TVCC won by 4 Wickets",
+   "summary": "Fremont Vikings: 73/10(28) TVCC: 74/6(24.4)"
+  },
+  {
+   "matchId": "1383",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1383&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "San Ramon Royals",
+    "Evergreen Lightning"
+   ],
+   "teamIds": [
+    "482",
+    "493"
+   ],
+   "ground": "Easterbrook",
+   "result": "Evergreen Lightning won by 40 Runs",
+   "summary": "Evergreen Lightning: 85/10(22) San Ramon Royals: 45/10(18.1)"
+  },
+  {
+   "matchId": "1378",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1378&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "NACL",
+    "Fremont Kings"
+   ],
+   "teamIds": [
+    "487",
+    "496"
+   ],
+   "ground": "Sierramont",
+   "result": "NACL won by 7 Runs",
+   "summary": "NACL: 98/10(30) Fremont Kings: 91/7(28)"
+  },
+  {
+   "matchId": "1365",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1365&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Fremont Thunder",
+    "Dublin Panthers"
+   ],
+   "teamIds": [
+    "484",
+    "491"
+   ],
+   "ground": "Library",
+   "result": "Dublin Panthers won by 60 Runs",
+   "summary": "Dublin Panthers: 158/3(30) Fremont Thunder: 98/10(29.2)"
+  },
+  {
+   "matchId": "1362",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1362&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "San Jose Lightning",
+    "MCCA"
+   ],
+   "teamIds": [
+    "485",
+    "490"
+   ],
+   "ground": "Dilworth",
+   "result": "San Jose Lightning won by 7 Wickets",
+   "summary": "MCCA: 102/9(30) San Jose Lightning: 103/3(24.2)"
+  },
+  {
+   "matchId": "1358",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1358&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Cricket for Cubs",
+    "Mission Warriors"
+   ],
+   "teamIds": [
+    "483",
+    "492"
+   ],
+   "ground": "WRMS",
+   "result": "Mission Warriors won by 22 Runs",
+   "summary": "Mission Warriors: 132/5(30) Cricket for Cubs: 110/5(30)"
+  },
+  {
+   "matchId": "1286",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1286&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Cricket for Cubs",
+    "Evergreen Lightning"
+   ],
+   "teamIds": [
+    "483",
+    "493"
+   ],
+   "ground": "WRMS",
+   "result": "Evergreen Lightning won by 8 Wickets",
+   "summary": "Cricket for Cubs: 81/6(30) Evergreen Lightning: 82/2(14.2)"
+  },
+  {
+   "matchId": "1283",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1283&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Dublin Panthers",
+    "San Jose Lightning"
+   ],
+   "teamIds": [
+    "491",
+    "485"
+   ],
+   "ground": "Emerald Glen",
+   "result": "It is a Tie",
+   "summary": "San Jose Lightning: 85/9(30) Dublin Panthers: 85/7(30)"
+  },
+  {
+   "matchId": "1269",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1269&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Cupertino Comets",
+    "Windemere Legends"
+   ],
+   "teamIds": [
+    "489",
+    "495"
+   ],
+   "ground": "Dilworth",
+   "result": "Cupertino Comets won by 103 Runs",
+   "summary": "Cupertino Comets: 168/6(30) Windemere Legends: 65/10(27.1)"
+  },
+  {
+   "matchId": "1264",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1264&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "TVCC",
+    "NACL"
+   ],
+   "teamIds": [
+    "497",
+    "487"
+   ],
+   "ground": "WRMS",
+   "result": "TVCC won by 3 Wickets",
+   "summary": "NACL: 88/7(30) TVCC: 94/7(28)"
+  },
+  {
+   "matchId": "1190",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1190&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "San Jose Lightning",
+    "Mission Warriors"
+   ],
+   "teamIds": [
+    "485",
+    "492"
+   ],
+   "ground": "Library",
+   "result": "San Jose Lightning won by 7 Wickets",
+   "summary": "Mission Warriors: 100/7(30) San Jose Lightning: 101/3(20.3)"
+  },
+  {
+   "matchId": "1189",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1189&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "Fremont Vikings",
+    "Dublin Panthers"
+   ],
+   "teamIds": [
+    "486",
+    "491"
+   ],
+   "ground": "WRMS",
+   "result": "Fremont Vikings won by 5 Wickets",
+   "summary": "Dublin Panthers: 61/10(26.1) Fremont Vikings: 62/5(14.5)"
+  },
+  {
+   "matchId": "1177",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1177&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "NACL",
+    "MCCA"
+   ],
+   "teamIds": [
+    "487",
+    "490"
+   ],
+   "ground": "Sierramont",
+   "result": "MCCA won by 19 Runs",
+   "summary": "MCCA: 99/7(30) NACL: 80/10(26.3)"
+  },
+  {
+   "matchId": "1168",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1168&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "SRCA",
+    "Cricket for Cubs"
+   ],
+   "teamIds": [
+    "494",
+    "483"
+   ],
+   "ground": "Alisal",
+   "result": "SRCA won by 179 Runs",
+   "summary": "SRCA: 230/9(30) Cricket for Cubs: 51/10(14)"
+  },
+  {
+   "matchId": "1167",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1167&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "Cupertino Comets",
+    "Fremont Kings"
+   ],
+   "teamIds": [
+    "489",
+    "496"
+   ],
+   "ground": "Library",
+   "result": "Cupertino Comets won by 32 Runs",
+   "summary": "Cupertino Comets: 123/6(30) Fremont Kings: 91/9(28)"
+  },
+  {
+   "matchId": "1162",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1162&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "Fremont Thunder",
+    "Evergreen Lightning"
+   ],
+   "teamIds": [
+    "484",
+    "493"
+   ],
+   "ground": "Dilworth",
+   "result": "Evergreen Lightning won by 6 Wickets",
+   "summary": "Fremont Thunder: 90/10(28.1) Evergreen Lightning: 91/4(20.1)"
+  },
+  {
+   "matchId": "1157",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1157&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "San Ramon Royals",
+    "Windemere Legends"
+   ],
+   "teamIds": [
+    "482",
+    "495"
+   ],
+   "ground": "WRMS",
+   "result": "Windemere Legends won by 9 Wickets",
+   "summary": "San Ramon Royals: 34/10(23) Windemere Legends: 36/1(6.1)"
+  },
+  {
+   "matchId": "1103",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1103&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Cricket for Cubs",
+    "Windemere Legends"
+   ],
+   "teamIds": [
+    "483",
+    "495"
+   ],
+   "ground": "WRMS",
+   "result": "Windemere Legends won by 103 Runs",
+   "summary": "Windemere Legends: 156/8(30) Cricket for Cubs: 53/10(22.4)"
+  },
+  {
+   "matchId": "1102",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1102&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Mission Warriors",
+    "Fremont Vikings"
+   ],
+   "teamIds": [
+    "492",
+    "486"
+   ],
+   "ground": "Challenger",
+   "result": "Fremont Vikings won by 100 Runs",
+   "summary": "Fremont Vikings: 166/9(30) Mission Warriors: 66/8(30)"
+  },
+  {
+   "matchId": "1094",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1094&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Dublin Panthers",
+    "NACL"
+   ],
+   "teamIds": [
+    "491",
+    "487"
+   ],
+   "ground": "Sierramont",
+   "result": "NACL won by 41 Runs",
+   "summary": "NACL: 194/9(30) Dublin Panthers: 153/4(30)"
+  },
+  {
+   "matchId": "1092",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1092&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "SRCA",
+    "Fremont Thunder"
+   ],
+   "teamIds": [
+    "494",
+    "484"
+   ],
+   "ground": "Alisal",
+   "result": "SRCA won by 134 Runs",
+   "summary": "SRCA: 200/3(30) Fremont Thunder: 66/10(30)"
+  },
+  {
+   "matchId": "1088",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1088&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "MCCA",
+    "Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "490",
+    "488"
+   ],
+   "ground": "Murphy",
+   "result": "Sunnyvale Stars won by 84 Runs",
+   "summary": "Sunnyvale Stars: 152/5(30) MCCA: 68/8(30)"
+  },
+  {
+   "matchId": "1083",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1083&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Fremont Kings",
+    "San Ramon Royals"
+   ],
+   "teamIds": [
+    "496",
+    "482"
+   ],
+   "ground": "Challenger",
+   "result": "Fremont Kings won by 176 Runs",
+   "summary": "Fremont Kings: 230/5(30) San Ramon Royals: 54/10(19.4)"
+  },
+  {
+   "matchId": "1082",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1082&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "San Jose Lightning",
+    "Evergreen Lightning"
+   ],
+   "teamIds": [
+    "485",
+    "493"
+   ],
+   "ground": "Dilworth",
+   "result": "Evergreen Lightning won by 8 Wickets",
+   "summary": "San Jose Lightning: 150/8(30) Evergreen Lightning: 153/2(26.3)"
+  },
+  {
+   "matchId": "1081",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1081&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "TVCC",
+    "Cupertino Comets"
+   ],
+   "teamIds": [
+    "497",
+    "489"
+   ],
+   "ground": "WRMS",
+   "result": "Cupertino Comets won by 22 Runs",
+   "summary": "Cupertino Comets: 116/5(30) TVCC: 94/10(26.3)"
+  },
+  {
+   "matchId": "1438",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1438&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "San Ramon Royals",
+    "TVCC"
+   ],
+   "teamIds": [
+    "482",
+    "497"
+   ],
+   "ground": "Anthony Ochoa 2",
+   "result": "Forfeited. Winner: TVCC",
+   "summary": "San Ramon Royals: 0/0(0)"
+  },
+  {
+   "matchId": "1019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1019&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Fremont Vikings",
+    "Evergreen Lightning"
+   ],
+   "teamIds": [
+    "486",
+    "493"
+   ],
+   "ground": "Challenger",
+   "result": "Fremont Vikings won by 177 Runs",
+   "summary": "Fremont Vikings: 204/5(30) Evergreen Lightning: 27/6(9.2)"
+  },
+  {
+   "matchId": "1016",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1016&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "San Jose Lightning",
+    "SRCA"
+   ],
+   "teamIds": [
+    "485",
+    "494"
+   ],
+   "ground": "Dilworth",
+   "result": "SRCA won by 39 Runs",
+   "summary": "SRCA: 163/10(29.3) San Jose Lightning: 124/10(29.5)"
+  },
+  {
+   "matchId": "1010",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1010&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "NACL",
+    "Mission Warriors"
+   ],
+   "teamIds": [
+    "487",
+    "492"
+   ],
+   "ground": "Sierramont",
+   "result": "NACL won by 10 Wickets",
+   "summary": "Mission Warriors: 83/8(28.3) NACL: 86/0(12.3)"
+  },
+  {
+   "matchId": "1004",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1004&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Sunnyvale Stars",
+    "Dublin Panthers"
+   ],
+   "teamIds": [
+    "488",
+    "491"
+   ],
+   "ground": "Library",
+   "result": "Sunnyvale Stars won by 114 Runs",
+   "summary": "Sunnyvale Stars: 163/5(30) Dublin Panthers: 49/10(30)"
+  },
+  {
+   "matchId": "995",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=995&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Fremont Kings",
+    "Cricket for Cubs"
+   ],
+   "teamIds": [
+    "496",
+    "483"
+   ],
+   "ground": "Challenger",
+   "result": "Fremont Kings won by 184 Runs",
+   "summary": "Fremont Kings: 254/4(30) Cricket for Cubs: 70/10(28.3)"
+  },
+  {
+   "matchId": "991",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=991&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Cupertino Comets",
+    "MCCA"
+   ],
+   "teamIds": [
+    "489",
+    "490"
+   ],
+   "ground": "Dilworth",
+   "result": "Cupertino Comets won by 138 Runs",
+   "summary": "Cupertino Comets: 196/2(30) MCCA: 58/10(24.2)"
+  }
+ ]
+}

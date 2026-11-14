@@ -1,0 +1,490 @@
+{
+ "season": {
+  "key": "s91",
+  "id": "legacy-486",
+  "name": "USAC 2026 - North Carolina - U11"
+ },
+ "fetchedAt": "2026-11-13T21:49:41.166Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=486&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=486&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8666",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8666&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Alphas",
+    "Mavericks"
+   ],
+   "teamIds": [
+    "2875",
+    "2877"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Mavericks won by 39 Runs",
+   "summary": "Mavericks: 203/8(30) Alphas: 164/9(30)"
+  },
+  {
+   "matchId": "8577",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8577&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Hawks",
+    "Warriors"
+   ],
+   "teamIds": [
+    "2879",
+    "2881"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Hawks won by 4 Wickets",
+   "summary": "Warriors: 146/5(30) Hawks: 148/6(26)"
+  },
+  {
+   "matchId": "8573",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8573&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Bolts",
+    "Mavericks"
+   ],
+   "teamIds": [
+    "2876",
+    "2877"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Bolts won by 3 Wickets",
+   "summary": "Mavericks: 124/10(22.4) Bolts: 125/7(27.4)"
+  },
+  {
+   "matchId": "8570",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8570&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Aces",
+    "Strikers"
+   ],
+   "teamIds": [
+    "2882",
+    "2878"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Strikers won by 2 Wickets",
+   "summary": "Aces: 150/7(23.2) Strikers: 156/8(24.4)"
+  },
+  {
+   "matchId": "8509",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8509&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Warriors",
+    "Strikers"
+   ],
+   "teamIds": [
+    "2881",
+    "2878"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Warriors won by 37 Runs",
+   "summary": "Warriors: 168/9(30) Strikers: 131/8(26.5)"
+  },
+  {
+   "matchId": "8505",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8505&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Hawks",
+    "Aces"
+   ],
+   "teamIds": [
+    "2879",
+    "2882"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Hawks won by 92 Runs",
+   "summary": "Hawks: 224/8(30) Aces: 132/10(29.3)"
+  },
+  {
+   "matchId": "8497",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8497&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Alphas",
+    "Bolts"
+   ],
+   "teamIds": [
+    "2875",
+    "2876"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Alphas won by 6 Wickets",
+   "summary": "Bolts: 134/10(28.2) Alphas: 136/4(19)"
+  },
+  {
+   "matchId": "8387",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8387&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Bolts",
+    "Hawks"
+   ],
+   "teamIds": [
+    "2876",
+    "2879"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Bolts won by 50 Runs",
+   "summary": "Bolts: 213/10(30) Hawks: 163/9(28.5)"
+  },
+  {
+   "matchId": "8383",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8383&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Warriors",
+    "Alphas"
+   ],
+   "teamIds": [
+    "2881",
+    "2875"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Alphas won by 6 Wickets",
+   "summary": "Warriors: 152/10(27.1) Alphas: 153/4(25.3)"
+  },
+  {
+   "matchId": "8381",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8381&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Aces",
+    "Strikers"
+   ],
+   "teamIds": [
+    "2882",
+    "2878"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Aces won by 6 Wickets",
+   "summary": "Strikers: 148/9(30) Aces: 151/4(22)"
+  },
+  {
+   "matchId": "8303",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8303&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Strikers",
+    "Bolts"
+   ],
+   "teamIds": [
+    "2878",
+    "2876"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Bolts won by 46 Runs",
+   "summary": "Bolts: 147/8(30) Strikers: 101/10(27.1)"
+  },
+  {
+   "matchId": "8296",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8296&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Alphas",
+    "Mavericks"
+   ],
+   "teamIds": [
+    "2875",
+    "2877"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Mavericks won by 4 Wickets",
+   "summary": "Alphas: 114/10(23.1) Mavericks: 115/6(17.5)"
+  },
+  {
+   "matchId": "8178",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8178&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Mavericks",
+    "Warriors"
+   ],
+   "teamIds": [
+    "2877",
+    "2881"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Mavericks won by 100 Runs",
+   "summary": "Mavericks: 245/7(30.3) Warriors: 145/8(30)"
+  },
+  {
+   "matchId": "8173",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8173&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Aces",
+    "Hawks"
+   ],
+   "teamIds": [
+    "2882",
+    "2879"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Hawks won by 7 Wickets",
+   "summary": "Aces: 172/8(30.1) Hawks: 173/3(17)"
+  },
+  {
+   "matchId": "8169",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8169&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Alphas",
+    "Bolts"
+   ],
+   "teamIds": [
+    "2875",
+    "2876"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Alphas won by 7 Wickets",
+   "summary": "Bolts: 100/10(21.5) Alphas: 103/3(14.2)"
+  },
+  {
+   "matchId": "7962",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7962&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Hawks",
+    "Strikers"
+   ],
+   "teamIds": [
+    "2879",
+    "2878"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Hawks won by 8 Wickets",
+   "summary": "Strikers: 38/8(12.2) Hawks: 39/2(4.5)"
+  },
+  {
+   "matchId": "7959",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7959&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Bolts",
+    "Warriors"
+   ],
+   "teamIds": [
+    "2876",
+    "2881"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Bolts won by 97 Runs",
+   "summary": "Bolts: 150/10(24) Warriors: 53/10(13.4)"
+  },
+  {
+   "matchId": "7957",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7957&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Aces",
+    "Alphas"
+   ],
+   "teamIds": [
+    "2882",
+    "2875"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Alphas won by 156 Runs",
+   "summary": "Alphas: 242/8(30) Aces: 86/10(16)"
+  },
+  {
+   "matchId": "7757",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7757&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Bolts",
+    "Mavericks"
+   ],
+   "teamIds": [
+    "2876",
+    "2877"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Mavericks won by 2 Wickets",
+   "summary": "Bolts: 175/9(30) Mavericks: 179/8(24)"
+  },
+  {
+   "matchId": "7756",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7756&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Alphas",
+    "Strikers"
+   ],
+   "teamIds": [
+    "2875",
+    "2878"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Alphas won by 76 Runs",
+   "summary": "Alphas: 242/10(30) Strikers: 166/8(30)"
+  },
+  {
+   "matchId": "7754",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7754&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Aces",
+    "Warriors"
+   ],
+   "teamIds": [
+    "2882",
+    "2881"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Aces won by 93 Runs",
+   "summary": "Aces: 254/7(30) Warriors: 161/10(27.4)"
+  },
+  {
+   "matchId": "7547",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7547&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Aces",
+    "Mavericks"
+   ],
+   "teamIds": [
+    "2882",
+    "2877"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Mavericks won by 77 Runs",
+   "summary": "Mavericks: 260/9(30) Aces: 183/10(27.3)"
+  },
+  {
+   "matchId": "7545",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7545&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Alphas",
+    "Hawks"
+   ],
+   "teamIds": [
+    "2875",
+    "2879"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Alphas won by 119 Runs",
+   "summary": "Alphas: 208/9(30) Hawks: 89/9(28.1)"
+  },
+  {
+   "matchId": "7534",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7534&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Strikers",
+    "Warriors"
+   ],
+   "teamIds": [
+    "2878",
+    "2881"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Warriors won by 1 Wicket",
+   "summary": "Strikers: 117/10(18.3) Warriors: 120/9(25.5)"
+  },
+  {
+   "matchId": "7379",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7379&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Hawks",
+    "Warriors"
+   ],
+   "teamIds": [
+    "2879",
+    "2881"
+   ],
+   "ground": "Hayes-Taylor YMCA 2",
+   "result": "Hawks won by 16 Runs",
+   "summary": "Hawks: 126/10(18.4) Warriors: 110/10(19)"
+  },
+  {
+   "matchId": "7376",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7376&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Aces",
+    "Bolts"
+   ],
+   "teamIds": [
+    "2882",
+    "2876"
+   ],
+   "ground": "Hayes-Taylor YMCA 1",
+   "result": "Bolts won by 117 Runs",
+   "summary": "Bolts: 313/8(30) Aces: 196/9(30)"
+  },
+  {
+   "matchId": "7367",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7367&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Mavericks",
+    "Strikers"
+   ],
+   "teamIds": [
+    "2877",
+    "2878"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Strikers won by 20 Runs",
+   "summary": "Strikers: 201/9(29.2) Mavericks: 181/9(30.1)"
+  },
+  {
+   "matchId": "7253",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7253&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "Mavericks",
+    "Hawks"
+   ],
+   "teamIds": [
+    "2877",
+    "2879"
+   ],
+   "ground": "Spears YMCA 3",
+   "result": "Hawks won by 68 Runs",
+   "summary": "Hawks: 222/9(30) Mavericks: 154/8(30.1)"
+  }
+ ]
+}

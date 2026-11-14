@@ -1,0 +1,1646 @@
+{
+ "season": {
+  "key": "s290",
+  "id": "legacy-67",
+  "name": "USAC Junior 2023 -New Jersey Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:02:36.476Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=67&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=67&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2400",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2400&clubId=40319",
+   "date": "2023-09-16",
+   "type": "Final",
+   "teams": [
+    "Cricmax Destroyers",
+    "DAS Dominators"
+   ],
+   "teamIds": [
+    "458",
+    "452"
+   ],
+   "ground": "TBD",
+   "result": "Cricmax Destroyers won by 29 Runs",
+   "summary": "Cricmax Destroyers: 118/10(38.4) DAS Dominators: 89/9(35.3)"
+  },
+  {
+   "matchId": "2349",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2349&clubId=40319",
+   "date": "2023-08-26",
+   "type": "Final",
+   "teams": [
+    "Cricmax Rangers",
+    "DAS Giants"
+   ],
+   "teamIds": [
+    "465",
+    "466"
+   ],
+   "ground": "TBD",
+   "result": "DAS Giants won by 4 Wickets",
+   "summary": "Cricmax Rangers: 66/10(29.2) DAS Giants: 70/6(30.2)"
+  },
+  {
+   "matchId": "2318",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2318&clubId=40319",
+   "date": "2023-08-19",
+   "type": "Semi Final",
+   "teams": [
+    "Cricmax Destroyers",
+    "Dream Cricket Jaguars"
+   ],
+   "teamIds": [
+    "458",
+    "456"
+   ],
+   "ground": "TBD",
+   "result": "Cricmax Destroyers won by 6 Wickets",
+   "summary": "Dream Cricket Jaguars: 119/10(40) Cricmax Destroyers: 123/4(31.1)"
+  },
+  {
+   "matchId": "2317",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2317&clubId=40319",
+   "date": "2023-08-19",
+   "type": "Semi Final",
+   "teams": [
+    "DAS Dominators",
+    "Dream Cricket Panthers"
+   ],
+   "teamIds": [
+    "452",
+    "454"
+   ],
+   "ground": "TBD",
+   "result": "DAS Dominators won by 5 Wickets",
+   "summary": "Dream Cricket Panthers: 66/8(22) DAS Dominators: 67/5(29.2)"
+  },
+  {
+   "matchId": "2303",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2303&clubId=40319",
+   "date": "2023-08-15",
+   "type": "League",
+   "teams": [
+    "DAS Dominators",
+    "Cricmax Crushers"
+   ],
+   "teamIds": [
+    "452",
+    "455"
+   ],
+   "ground": "Kilmer Field, Edison, New Jersey (Kilmer)",
+   "result": "DAS Dominators won by 7 Wickets",
+   "summary": "Cricmax Crushers: 68/10(23.4) DAS Dominators: 69/3(17.1)"
+  },
+  {
+   "matchId": "2292",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2292&clubId=40319",
+   "date": "2023-08-13",
+   "type": "League",
+   "teams": [
+    "Cricmax Destroyers",
+    "DAS Dominators"
+   ],
+   "teamIds": [
+    "458",
+    "452"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "Cricmax Destroyers: 0/0(0)"
+  },
+  {
+   "matchId": "2290",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2290&clubId=40319",
+   "date": "2023-08-13",
+   "type": "League",
+   "teams": [
+    "QUCA Wildcats",
+    "Royal Smashers"
+   ],
+   "teamIds": [
+    "459",
+    "451"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "QUCA Wildcats: 0/0(0)"
+  },
+  {
+   "matchId": "2270",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2270&clubId=40319",
+   "date": "2023-08-12",
+   "type": "Semi Final",
+   "teams": [
+    "Cricmax Rangers",
+    "Criclanes Lynx"
+   ],
+   "teamIds": [
+    "465",
+    "463"
+   ],
+   "ground": "TBD",
+   "result": "Cricmax Rangers won by 23 Runs",
+   "summary": "Cricmax Rangers: 162/8(39) Criclanes Lynx: 139/10(38.3)"
+  },
+  {
+   "matchId": "2267",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2267&clubId=40319",
+   "date": "2023-08-12",
+   "type": "Semi Final",
+   "teams": [
+    "Dream Cricket Pumas",
+    "DAS Giants"
+   ],
+   "teamIds": [
+    "464",
+    "466"
+   ],
+   "ground": "TBD",
+   "result": "DAS Giants won by 7 Wickets",
+   "summary": "Dream Cricket Pumas: 156/7(40) DAS Giants: 157/3(26.5)"
+  },
+  {
+   "matchId": "2219",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2219&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Jaguars",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "456",
+    "457"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: Dream Cricket Jaguars",
+   "summary": "Dream Cricket Jaguars: 0/0(0)"
+  },
+  {
+   "matchId": "2199",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2199&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "Criclanes Orions",
+    "Royal Smashers"
+   ],
+   "teamIds": [
+    "453",
+    "451"
+   ],
+   "ground": "Woodrow Wilson Middle School (Edison, NJ)",
+   "result": "Forfeited. Winner: Criclanes Orions",
+   "summary": "Criclanes Orions: 0/0(0)"
+  },
+  {
+   "matchId": "2128",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2128&clubId=40319",
+   "date": "2023-07-29",
+   "type": "League",
+   "teams": [
+    "Cricmax Rangers",
+    "DAS Giants"
+   ],
+   "teamIds": [
+    "465",
+    "466"
+   ],
+   "ground": "TBD",
+   "result": "Cricmax Rangers won by 5 Wickets",
+   "summary": "DAS Giants: 139/9(29.3) Cricmax Rangers: 140/5(28.3)"
+  },
+  {
+   "matchId": "2129",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2129&clubId=40319",
+   "date": "2023-07-29",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Jaguars",
+    "Dream Cricket Panthers"
+   ],
+   "teamIds": [
+    "456",
+    "454"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "Dream Cricket Panthers won by 6 Wickets",
+   "summary": "Dream Cricket Jaguars: 128/10(37.4) Dream Cricket Panthers: 129/4(29.1)"
+  },
+  {
+   "matchId": "2124",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2124&clubId=40319",
+   "date": "2023-07-29",
+   "type": "League",
+   "teams": [
+    "Dream Cricket PRO",
+    "Cricmax Crushers"
+   ],
+   "teamIds": [
+    "462",
+    "455"
+   ],
+   "ground": "TBD",
+   "result": "Winner: Cricmax Crushers (D/L)",
+   "summary": "Cricmax Crushers: 253/6(40) Dream Cricket PRO: 130/3(29)"
+  },
+  {
+   "matchId": "2118",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2118&clubId=40319",
+   "date": "2023-07-28",
+   "type": "League",
+   "teams": [
+    "Criclanes Lynx",
+    "Dream Cricket Pumas"
+   ],
+   "teamIds": [
+    "463",
+    "464"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Criclanes Lynx won by 103 Runs",
+   "summary": "Criclanes Lynx: 172/7(40) Dream Cricket Pumas: 69/10(25.3)"
+  },
+  {
+   "matchId": "2099",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2099&clubId=40319",
+   "date": "2023-07-22",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Pumas",
+    "Criclanes Lynx"
+   ],
+   "teamIds": [
+    "464",
+    "463"
+   ],
+   "ground": "TBD",
+   "result": "Criclanes Lynx won by 57 Runs",
+   "summary": "Criclanes Lynx: 160/10(37) Dream Cricket Pumas: 103/10(29.3)"
+  },
+  {
+   "matchId": "2094",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2094&clubId=40319",
+   "date": "2023-07-22",
+   "type": "League",
+   "teams": [
+    "DAS Giants",
+    "Cricmax Rangers"
+   ],
+   "teamIds": [
+    "466",
+    "465"
+   ],
+   "ground": "TBD",
+   "result": "DAS Giants won by 5 Wickets",
+   "summary": "Cricmax Rangers: 154/9(37) DAS Giants: 155/5(24.2)"
+  },
+  {
+   "matchId": "2061",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2061&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Criclanes Lynx",
+    "Cricmax Rangers"
+   ],
+   "teamIds": [
+    "463",
+    "465"
+   ],
+   "ground": "Pacers (NJ)",
+   "result": "No Result",
+   "summary": "Cricmax Rangers: 169/5(26)"
+  },
+  {
+   "matchId": "2056",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2056&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Pumas",
+    "DAS Giants"
+   ],
+   "teamIds": [
+    "464",
+    "466"
+   ],
+   "ground": "Marshall St Park, Branchburg",
+   "result": "Abandoned.",
+   "summary": "DAS Giants: 105/10(30) Dream Cricket Pumas: 26/7(11)"
+  },
+  {
+   "matchId": "2062",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2062&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Criclanes Orions",
+    "NJYCA Voyagers"
+   ],
+   "teamIds": [
+    "453",
+    "460"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Criclanes Orions won by 72 Runs (D/L)",
+   "summary": "Criclanes Orions: 176/9(40) NJYCA Voyagers: 64/7(20)"
+  },
+  {
+   "matchId": "2059",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2059&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "DAS Dominators",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "452",
+    "461"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "DAS Dominators won by 9 Wickets",
+   "summary": "ICUSA Black Mambas: 41/9(25.5) DAS Dominators: 42/1(7.3)"
+  },
+  {
+   "matchId": "2057",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2057&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Cricmax Crushers",
+    "Cricmax Destroyers"
+   ],
+   "teamIds": [
+    "455",
+    "458"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Abandoned.",
+   "summary": "Cricmax Destroyers: 275/4(40) Cricmax Crushers: 22/1(5.2)"
+  },
+  {
+   "matchId": "2052",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2052&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Panthers",
+    "QUCA Wildcats"
+   ],
+   "teamIds": [
+    "454",
+    "459"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "Abandoned.",
+   "summary": "QUCA Wildcats: 107/9(40) Dream Cricket Panthers: 26/1(4)"
+  },
+  {
+   "matchId": "2041",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2041&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Dream Cricket PRO",
+    "Royal Smashers"
+   ],
+   "teamIds": [
+    "462",
+    "451"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: Dream Cricket PRO",
+   "summary": "Dream Cricket PRO: 0/0(0)"
+  },
+  {
+   "matchId": "2039",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2039&clubId=40319",
+   "date": "2023-07-11",
+   "type": "League",
+   "teams": [
+    "NJYCA Voyagers",
+    "Cricmax Destroyers"
+   ],
+   "teamIds": [
+    "460",
+    "458"
+   ],
+   "ground": "NJYCA",
+   "result": "Cricmax Destroyers won by 93 Runs",
+   "summary": "Cricmax Destroyers: 198/9(39.3) NJYCA Voyagers: 105/10(30.5)"
+  },
+  {
+   "matchId": "2003",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2003&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "DAS Giants",
+    "Criclanes Lynx"
+   ],
+   "teamIds": [
+    "466",
+    "463"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "DAS Giants: 157/3(28.4)"
+  },
+  {
+   "matchId": "1999",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1999&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "Cricmax Rangers",
+    "Dream Cricket Pumas"
+   ],
+   "teamIds": [
+    "465",
+    "464"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "Dream Cricket Pumas: 90/0(20)"
+  },
+  {
+   "matchId": "2036",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2036&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "Royal Smashers",
+    "DAS Dominators"
+   ],
+   "teamIds": [
+    "451",
+    "452"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: DAS Dominators",
+   "summary": "Royal Smashers: 0/0(0)"
+  },
+  {
+   "matchId": "2014",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2014&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "NJYCA Voyagers",
+    "Dream Cricket Panthers"
+   ],
+   "teamIds": [
+    "460",
+    "454"
+   ],
+   "ground": "TBD",
+   "result": "Dream Cricket Panthers won by 8 Wickets",
+   "summary": "NJYCA Voyagers: 40/9(19.2) Dream Cricket Panthers: 41/2(7.1)"
+  },
+  {
+   "matchId": "2004",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2004&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "QUCA Wildcats",
+    "Cricmax Crushers"
+   ],
+   "teamIds": [
+    "459",
+    "455"
+   ],
+   "ground": "TBD",
+   "result": "Cricmax Crushers won by 4 Wickets",
+   "summary": "QUCA Wildcats: 177/10(33.2) Cricmax Crushers: 178/6(39.3)"
+  },
+  {
+   "matchId": "2001",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2001&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "Cricmax Destroyers",
+    "Dream Cricket Jaguars"
+   ],
+   "teamIds": [
+    "458",
+    "456"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "Cricmax Destroyers: 167/1(35.1)"
+  },
+  {
+   "matchId": "1997",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1997&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "ICUSA Black Mambas",
+    "Criclanes Orions"
+   ],
+   "teamIds": [
+    "461",
+    "453"
+   ],
+   "ground": "TBD",
+   "result": "Criclanes Orions won by 8 Wickets",
+   "summary": "ICUSA Black Mambas: 102/10(35) Criclanes Orions: 103/2(24.1)"
+  },
+  {
+   "matchId": "1996",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1996&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "Dream Cricket PRO"
+   ],
+   "teamIds": [
+    "457",
+    "462"
+   ],
+   "ground": "TBD",
+   "result": "Dream Cricket PRO won by 26 Runs",
+   "summary": "Dream Cricket PRO: 129/10(32.5) StarSportsUS Crushers: 103/10(27.2)"
+  },
+  {
+   "matchId": "1970",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1970&clubId=40319",
+   "date": "2023-07-06",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "Criclanes Orions"
+   ],
+   "teamIds": [
+    "457",
+    "453"
+   ],
+   "ground": "TBD",
+   "result": "Criclanes Orions won by 3 Wickets",
+   "summary": "StarSportsUS Crushers: 45/10(21.2) Criclanes Orions: 46/7(14.5)"
+  },
+  {
+   "matchId": "1949",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1949&clubId=40319",
+   "date": "2023-06-25",
+   "type": "League",
+   "teams": [
+    "NJYCA Voyagers",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "460",
+    "461"
+   ],
+   "ground": "NJYCA",
+   "result": "ICUSA Black Mambas won by 5 Wickets",
+   "summary": "NJYCA Voyagers: 122/10(35.1) ICUSA Black Mambas: 124/5(32.1)"
+  },
+  {
+   "matchId": "1939",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1939&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Pumas",
+    "Criclanes Lynx"
+   ],
+   "teamIds": [
+    "464",
+    "463"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "Abandoned.",
+   "summary": "Criclanes Lynx: 29/0(10.3)"
+  },
+  {
+   "matchId": "1938",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1938&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "DAS Giants",
+    "Cricmax Rangers"
+   ],
+   "teamIds": [
+    "466",
+    "465"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "Cricmax Rangers won by 131 Runs",
+   "summary": "Cricmax Rangers: 170/6(30) DAS Giants: 39/10(12.5)"
+  },
+  {
+   "matchId": "1943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1943&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "Royal Smashers",
+    "Dream Cricket Jaguars"
+   ],
+   "teamIds": [
+    "451",
+    "456"
+   ],
+   "ground": "Dwyer",
+   "result": "Dream Cricket Jaguars won by 247 Runs",
+   "summary": "Dream Cricket Jaguars: 300/9(40) Royal Smashers: 53/10(18.3)"
+  },
+  {
+   "matchId": "1941",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1941&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "Criclanes Orions",
+    "Dream Cricket Panthers"
+   ],
+   "teamIds": [
+    "453",
+    "454"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Abandoned.",
+   "summary": "Dream Cricket Panthers: 54/1(11.1)"
+  },
+  {
+   "matchId": "1940",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1940&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "QUCA Wildcats",
+    "Dream Cricket PRO"
+   ],
+   "teamIds": [
+    "459",
+    "462"
+   ],
+   "ground": "Idlewild",
+   "result": "QUCA Wildcats won by 229 Runs",
+   "summary": "QUCA Wildcats: 324/2(40) Dream Cricket PRO: 95/9(40)"
+  },
+  {
+   "matchId": "1936",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1936&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "ICUSA Black Mambas",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "461",
+    "457"
+   ],
+   "ground": "Naaman Willams",
+   "result": "Abandoned.",
+   "summary": "StarSportsUS Crushers: 64/3(12)"
+  },
+  {
+   "matchId": "1857",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1857&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "Cricmax Rangers",
+    "DAS Giants"
+   ],
+   "teamIds": [
+    "465",
+    "466"
+   ],
+   "ground": "MLK Edison",
+   "result": "DAS Giants won by 6 Wickets",
+   "summary": "Cricmax Rangers: 154/9(40) DAS Giants: 156/4(28.4)"
+  },
+  {
+   "matchId": "1853",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1853&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "Criclanes Lynx",
+    "Dream Cricket Pumas"
+   ],
+   "teamIds": [
+    "463",
+    "464"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Dream Cricket Pumas won by 5 Wickets",
+   "summary": "Criclanes Lynx: 160/8(40) Dream Cricket Pumas: 161/5(33.3)"
+  },
+  {
+   "matchId": "1859",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1859&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "Dream Cricket PRO",
+    "DAS Dominators"
+   ],
+   "teamIds": [
+    "462",
+    "452"
+   ],
+   "ground": "Mercer County Park Cricket Ground",
+   "result": "DAS Dominators won by 7 Wickets",
+   "summary": "Dream Cricket PRO: 84/10(29.1) DAS Dominators: 85/3(12.2)"
+  },
+  {
+   "matchId": "1858",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1858&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Panthers",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "454",
+    "461"
+   ],
+   "ground": "Marshall St Park, Branchburg",
+   "result": "Dream Cricket Panthers won by 118 Runs",
+   "summary": "Dream Cricket Panthers: 198/8(40) ICUSA Black Mambas: 80/10(30.2)"
+  },
+  {
+   "matchId": "1855",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1855&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Jaguars",
+    "QUCA Wildcats"
+   ],
+   "teamIds": [
+    "456",
+    "459"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "Dream Cricket Jaguars won by 5 Wickets",
+   "summary": "QUCA Wildcats: 212/6(40) Dream Cricket Jaguars: 213/5(37.4)"
+  },
+  {
+   "matchId": "1852",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1852&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "Cricmax Crushers",
+    "NJYCA Voyagers"
+   ],
+   "teamIds": [
+    "455",
+    "460"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Cricmax Crushers won by 47 Runs",
+   "summary": "Cricmax Crushers: 173/7(40) NJYCA Voyagers: 126/10(29)"
+  },
+  {
+   "matchId": "1847",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1847&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "Cricmax Destroyers"
+   ],
+   "teamIds": [
+    "457",
+    "458"
+   ],
+   "ground": "Evansburg Cricket Ground (BOCC - Collegeville, PA)",
+   "result": "Cricmax Destroyers won by 107 Runs",
+   "summary": "Cricmax Destroyers: 290/5(40) StarSportsUS Crushers: 183/10(40)"
+  },
+  {
+   "matchId": "1730",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1730&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "DAS Giants",
+    "Dream Cricket Pumas"
+   ],
+   "teamIds": [
+    "466",
+    "464"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "Dream Cricket Pumas won by 11 Runs",
+   "summary": "Dream Cricket Pumas: 161/10(35.2) DAS Giants: 150/10(30.2)"
+  },
+  {
+   "matchId": "1727",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1727&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Cricmax Rangers",
+    "Criclanes Lynx"
+   ],
+   "teamIds": [
+    "465",
+    "463"
+   ],
+   "ground": "Deerwood Park (Howell, NJ)",
+   "result": "Cricmax Rangers won by 7 Wickets",
+   "summary": "Criclanes Lynx: 117/10(33) Cricmax Rangers: 119/3(15.3)"
+  },
+  {
+   "matchId": "1741",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1741&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Royal Smashers",
+    "Dream Cricket Panthers"
+   ],
+   "teamIds": [
+    "451",
+    "454"
+   ],
+   "ground": "Dwyer",
+   "result": "Dream Cricket Panthers won by 8 Wickets",
+   "summary": "Royal Smashers: 158/4(40) Dream Cricket Panthers: 159/2(16.3)"
+  },
+  {
+   "matchId": "1736",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1736&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "NJYCA Voyagers",
+    "Dream Cricket Jaguars"
+   ],
+   "teamIds": [
+    "460",
+    "456"
+   ],
+   "ground": "NJYCA",
+   "result": "Dream Cricket Jaguars won by 52 Runs",
+   "summary": "Dream Cricket Jaguars: 205/10(37.2) NJYCA Voyagers: 153/10(33.4)"
+  },
+  {
+   "matchId": "1732",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1732&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "QUCA Wildcats",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "459",
+    "457"
+   ],
+   "ground": "Idlewild",
+   "result": "StarSportsUS Crushers won by 3 Wickets",
+   "summary": "QUCA Wildcats: 129/10(27.2) StarSportsUS Crushers: 130/7(36.4)"
+  },
+  {
+   "matchId": "1731",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1731&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "ICUSA Black Mambas",
+    "Cricmax Crushers"
+   ],
+   "teamIds": [
+    "461",
+    "455"
+   ],
+   "ground": "Naaman Willams",
+   "result": "Cricmax Crushers won by 19 Runs",
+   "summary": "Cricmax Crushers: 194/4(40) ICUSA Black Mambas: 175/10(33)"
+  },
+  {
+   "matchId": "1729",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1729&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "DAS Dominators",
+    "Criclanes Orions"
+   ],
+   "teamIds": [
+    "452",
+    "453"
+   ],
+   "ground": "Veterans Park, Monroe, NJ",
+   "result": "DAS Dominators won by 7 Wickets",
+   "summary": "Criclanes Orions: 117/10(38.3) DAS Dominators: 118/3(22)"
+  },
+  {
+   "matchId": "1726",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1726&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Cricmax Destroyers",
+    "Dream Cricket PRO"
+   ],
+   "teamIds": [
+    "458",
+    "462"
+   ],
+   "ground": "Mercer County Park Cricket Ground",
+   "result": "Cricmax Destroyers won by 9 Wickets",
+   "summary": "Dream Cricket PRO: 66/10(26) Cricmax Destroyers: 67/1(9.1)"
+  },
+  {
+   "matchId": "1599",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1599&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Pumas",
+    "Cricmax Rangers"
+   ],
+   "teamIds": [
+    "464",
+    "465"
+   ],
+   "ground": "Marshall St Park, Branchburg",
+   "result": "Cricmax Rangers won by 92 Runs",
+   "summary": "Cricmax Rangers: 170/7(40) Dream Cricket Pumas: 78/10(35.5)"
+  },
+  {
+   "matchId": "1593",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1593&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Criclanes Lynx",
+    "DAS Giants"
+   ],
+   "teamIds": [
+    "463",
+    "466"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Criclanes Lynx won by 5 Runs",
+   "summary": "Criclanes Lynx: 147/10(38) DAS Giants: 142/10(34.2)"
+  },
+  {
+   "matchId": "1610",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1610&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Cricmax Crushers",
+    "Royal Smashers"
+   ],
+   "teamIds": [
+    "455",
+    "451"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Cricmax Crushers won by 69 Runs",
+   "summary": "Cricmax Crushers: 142/8(40) Royal Smashers: 73/10(29.3)"
+  },
+  {
+   "matchId": "1609",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1609&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Jaguars",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "456",
+    "461"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "ICUSA Black Mambas won by 31 Runs",
+   "summary": "ICUSA Black Mambas: 194/7(40) Dream Cricket Jaguars: 163/10(33.4)"
+  },
+  {
+   "matchId": "1605",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1605&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Dream Cricket PRO",
+    "Criclanes Orions"
+   ],
+   "teamIds": [
+    "462",
+    "453"
+   ],
+   "ground": "Volunteers Park",
+   "result": "Criclanes Orions won by 7 Wickets",
+   "summary": "Dream Cricket PRO: 113/10(38.2) Criclanes Orions: 114/3(25.4)"
+  },
+  {
+   "matchId": "1602",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1602&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Panthers",
+    "DAS Dominators"
+   ],
+   "teamIds": [
+    "454",
+    "452"
+   ],
+   "ground": "Veterans Park, Monroe, NJ",
+   "result": "Dream Cricket Panthers won by 8 Wickets",
+   "summary": "DAS Dominators: 87/10(31.4) Dream Cricket Panthers: 88/2(12.4)"
+  },
+  {
+   "matchId": "1597",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1597&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Cricmax Destroyers",
+    "QUCA Wildcats"
+   ],
+   "teamIds": [
+    "458",
+    "459"
+   ],
+   "ground": "Idlewild",
+   "result": "Cricmax Destroyers won by 96 Runs",
+   "summary": "Cricmax Destroyers: 307/3(40) QUCA Wildcats: 211/10(36.5)"
+  },
+  {
+   "matchId": "1596",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1596&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "NJYCA Voyagers"
+   ],
+   "teamIds": [
+    "457",
+    "460"
+   ],
+   "ground": "Chamounix Dr, PA",
+   "result": "NJYCA Voyagers won by 2 Wickets",
+   "summary": "StarSportsUS Crushers: 86/10(31.1) NJYCA Voyagers: 87/8(26.3)"
+  },
+  {
+   "matchId": "1380",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1380&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Pumas",
+    "DAS Giants"
+   ],
+   "teamIds": [
+    "464",
+    "466"
+   ],
+   "ground": "Cedar Brook Cricket Ground (Plainfield, NJ)",
+   "result": "DAS Giants won by 5 Wickets",
+   "summary": "Dream Cricket Pumas: 72/7(20) DAS Giants: 73/5(18.2)"
+  },
+  {
+   "matchId": "1356",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1356&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Criclanes Lynx",
+    "Cricmax Rangers"
+   ],
+   "teamIds": [
+    "463",
+    "465"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Cricmax Rangers won by 8 Wickets",
+   "summary": "Criclanes Lynx: 85/10(34.1) Cricmax Rangers: 86/2(17.3)"
+  },
+  {
+   "matchId": "1367",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1367&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Cricmax Crushers",
+    "Criclanes Orions"
+   ],
+   "teamIds": [
+    "455",
+    "453"
+   ],
+   "ground": "Mercer County Park Cricket Ground",
+   "result": "Criclanes Orions won by 33 Runs",
+   "summary": "Criclanes Orions: 125/10(39) Cricmax Crushers: 92/10(34.1)"
+  },
+  {
+   "matchId": "1364",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1364&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Cricmax Destroyers",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "458",
+    "461"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Cricmax Destroyers won by 204 Runs",
+   "summary": "Cricmax Destroyers: 300/5(40) ICUSA Black Mambas: 96/10(30.2)"
+  },
+  {
+   "matchId": "1361",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1361&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Jaguars",
+    "DAS Dominators"
+   ],
+   "teamIds": [
+    "456",
+    "452"
+   ],
+   "ground": "Princeton Research (4 Research Way, Princeton, NJ 08540)",
+   "result": "DAS Dominators won by 61 Runs",
+   "summary": "DAS Dominators: 177/8(40) Dream Cricket Jaguars: 116/10(32.4)"
+  },
+  {
+   "matchId": "1360",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1360&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Dream Cricket PRO",
+    "Dream Cricket Panthers"
+   ],
+   "teamIds": [
+    "462",
+    "454"
+   ],
+   "ground": "Volunteers Park",
+   "result": "Dream Cricket Panthers won by 239 Runs",
+   "summary": "Dream Cricket Panthers: 273/5(40) Dream Cricket PRO: 34/10(17)"
+  },
+  {
+   "matchId": "1354",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1354&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "Royal Smashers"
+   ],
+   "teamIds": [
+    "457",
+    "451"
+   ],
+   "ground": "Evansburg Cricket Ground (BOCC - Collegeville, PA)",
+   "result": "StarSportsUS Crushers won by 2 Wickets",
+   "summary": "Royal Smashers: 99/10(23.3) StarSportsUS Crushers: 100/8(25.2)"
+  },
+  {
+   "matchId": "1351",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1351&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "QUCA Wildcats",
+    "NJYCA Voyagers"
+   ],
+   "teamIds": [
+    "459",
+    "460"
+   ],
+   "ground": "Roy A. Sweeney Cricket Oval, Erskine Street, Brooklyn, NY",
+   "result": "QUCA Wildcats won by 232 Runs",
+   "summary": "QUCA Wildcats: 340/9(40) NJYCA Voyagers: 108/10(27.2)"
+  },
+  {
+   "matchId": "1254",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1254&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Cricmax Rangers",
+    "Dream Cricket Pumas"
+   ],
+   "teamIds": [
+    "465",
+    "464"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Dream Cricket Pumas won by 7 Runs",
+   "summary": "Dream Cricket Pumas: 120/10(37.5) Cricmax Rangers: 113/10(34.2)"
+  },
+  {
+   "matchId": "1246",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1246&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "DAS Giants",
+    "Criclanes Lynx"
+   ],
+   "teamIds": [
+    "466",
+    "463"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "DAS Giants won by 5 Wickets",
+   "summary": "Criclanes Lynx: 39/10(18.2) DAS Giants: 40/5(7)"
+  },
+  {
+   "matchId": "1265",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1265&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Criclanes Orions",
+    "Dream Cricket Jaguars"
+   ],
+   "teamIds": [
+    "453",
+    "456"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Dream Cricket Jaguars won by 6 Wickets",
+   "summary": "Criclanes Orions: 90/10(31.2) Dream Cricket Jaguars: 91/4(24.2)"
+  },
+  {
+   "matchId": "1263",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1263&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "DAS Dominators",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "452",
+    "457"
+   ],
+   "ground": "Veterans Park, Monroe, NJ",
+   "result": "DAS Dominators won by 95 Runs",
+   "summary": "DAS Dominators: 162/10(36.2) StarSportsUS Crushers: 67/10(26.2)"
+  },
+  {
+   "matchId": "1259",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1259&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Royal Smashers",
+    "Cricmax Destroyers"
+   ],
+   "teamIds": [
+    "451",
+    "458"
+   ],
+   "ground": "TBD",
+   "result": "Cricmax Destroyers won by 96 Runs",
+   "summary": "Cricmax Destroyers: 168/10(37.2) Royal Smashers: 72/10(29.5)"
+  },
+  {
+   "matchId": "1256",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1256&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "ICUSA Black Mambas",
+    "QUCA Wildcats"
+   ],
+   "teamIds": [
+    "461",
+    "459"
+   ],
+   "ground": "TBD",
+   "result": "QUCA Wildcats won by 123 Runs",
+   "summary": "QUCA Wildcats: 208/8(40) ICUSA Black Mambas: 85/10(27.4)"
+  },
+  {
+   "matchId": "1255",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1255&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Panthers",
+    "Cricmax Crushers"
+   ],
+   "teamIds": [
+    "454",
+    "455"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "Dream Cricket Panthers won by 10 Wickets",
+   "summary": "Cricmax Crushers: 122/10(36.5) Dream Cricket Panthers: 123/0(19.4)"
+  },
+  {
+   "matchId": "1238",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1238&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "NJYCA Voyagers",
+    "Dream Cricket PRO"
+   ],
+   "teamIds": [
+    "460",
+    "462"
+   ],
+   "ground": "NJYCA",
+   "result": "Dream Cricket PRO won by 25 Runs",
+   "summary": "Dream Cricket PRO: 195/5(40) NJYCA Voyagers: 170/10(39.1)"
+  },
+  {
+   "matchId": "1072",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1072&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "DAS Giants",
+    "Dream Cricket Pumas"
+   ],
+   "teamIds": [
+    "466",
+    "464"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "Dream Cricket Pumas won by 7 Wickets",
+   "summary": "DAS Giants: 129/10(34.1) Dream Cricket Pumas: 130/3(35.5)"
+  },
+  {
+   "matchId": "1070",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1070&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Cricmax Rangers",
+    "Criclanes Lynx"
+   ],
+   "teamIds": [
+    "465",
+    "463"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Cricmax Rangers won by 123 Runs",
+   "summary": "Cricmax Rangers: 193/7(40) Criclanes Lynx: 70/10(28)"
+  },
+  {
+   "matchId": "1086",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1086&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Royal Smashers",
+    "NJYCA Voyagers"
+   ],
+   "teamIds": [
+    "451",
+    "460"
+   ],
+   "ground": "NJYCA",
+   "result": "NJYCA Voyagers won by 139 Runs",
+   "summary": "NJYCA Voyagers: 185/10(37.1) Royal Smashers: 46/10(23.2)"
+  },
+  {
+   "matchId": "1079",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1079&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Panthers",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "454",
+    "457"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "Dream Cricket Panthers won by 198 Runs",
+   "summary": "Dream Cricket Panthers: 305/1(40) StarSportsUS Crushers: 107/10(32.3)"
+  },
+  {
+   "matchId": "1078",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1078&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "ICUSA Black Mambas",
+    "Dream Cricket PRO"
+   ],
+   "teamIds": [
+    "461",
+    "462"
+   ],
+   "ground": "Volunteers Park",
+   "result": "ICUSA Black Mambas won by 74 Runs",
+   "summary": "ICUSA Black Mambas: 143/10(39.3) Dream Cricket PRO: 69/10(31.2)"
+  },
+  {
+   "matchId": "1076",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1076&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "DAS Dominators",
+    "QUCA Wildcats"
+   ],
+   "teamIds": [
+    "452",
+    "459"
+   ],
+   "ground": "Veterans Park, Monroe, NJ",
+   "result": "DAS Dominators won by 79 Runs",
+   "summary": "DAS Dominators: 199/8(40) QUCA Wildcats: 120/10(28)"
+  },
+  {
+   "matchId": "1075",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1075&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Criclanes Orions",
+    "Cricmax Destroyers"
+   ],
+   "teamIds": [
+    "453",
+    "458"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Cricmax Destroyers won by 197 Runs",
+   "summary": "Cricmax Destroyers: 275/5(40) Criclanes Orions: 78/10(27.5)"
+  },
+  {
+   "matchId": "1065",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1065&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Cricmax Crushers",
+    "Dream Cricket Jaguars"
+   ],
+   "teamIds": [
+    "455",
+    "456"
+   ],
+   "ground": "North Brunswick Community Park",
+   "result": "Dream Cricket Jaguars won by 5 Wickets",
+   "summary": "Cricmax Crushers: 117/10(35.2) Dream Cricket Jaguars: 118/5(27.2)"
+  },
+  {
+   "matchId": "990",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=990&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Dream Cricket Pumas",
+    "Cricmax Rangers"
+   ],
+   "teamIds": [
+    "464",
+    "465"
+   ],
+   "ground": "Marshall St Park, Branchburg",
+   "result": "Abandoned.",
+   "summary": "Cricmax Rangers: 132/10(39.5) Dream Cricket Pumas: 34/1(13)"
+  },
+  {
+   "matchId": "989",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=989&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Criclanes Lynx",
+    "DAS Giants"
+   ],
+   "teamIds": [
+    "463",
+    "466"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "Abandoned. (D/L)",
+   "summary": "Criclanes Lynx: 128/3(26) DAS Giants: 20/0(3.4)"
+  },
+  {
+   "matchId": "996",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=996&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Cricmax Destroyers",
+    "Dream Cricket Panthers"
+   ],
+   "teamIds": [
+    "458",
+    "454"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Cricmax Destroyers won by 28 Runs (D/L)",
+   "summary": "Cricmax Destroyers: 266/4(40) Dream Cricket Panthers: 141/4(27)"
+  },
+  {
+   "matchId": "992",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=992&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "NJYCA Voyagers",
+    "DAS Dominators"
+   ],
+   "teamIds": [
+    "460",
+    "452"
+   ],
+   "ground": "NJYCA",
+   "result": "DAS Dominators won by 121 Runs",
+   "summary": "DAS Dominators: 162/8(30) NJYCA Voyagers: 41/10(16)"
+  },
+  {
+   "matchId": "988",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=988&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "ICUSA Black Mambas",
+    "Royal Smashers"
+   ],
+   "teamIds": [
+    "461",
+    "451"
+   ],
+   "ground": "Dwyer",
+   "result": "ICUSA Black Mambas won by 10 Wickets",
+   "summary": "Royal Smashers: 82/10(17) ICUSA Black Mambas: 84/0(12)"
+  },
+  {
+   "matchId": "987",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=987&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Dream Cricket PRO",
+    "Dream Cricket Jaguars"
+   ],
+   "teamIds": [
+    "462",
+    "456"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "Abandoned.",
+   "summary": "Dream Cricket PRO: 104/5(32)"
+  },
+  {
+   "matchId": "985",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=985&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "QUCA Wildcats",
+    "Criclanes Orions"
+   ],
+   "teamIds": [
+    "459",
+    "453"
+   ],
+   "ground": "Idlewild",
+   "result": "QUCA Wildcats won by 4 Wickets",
+   "summary": "Criclanes Orions: 128/7(40) QUCA Wildcats: 130/6(26.5)"
+  },
+  {
+   "matchId": "983",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=983&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "Cricmax Crushers"
+   ],
+   "teamIds": [
+    "457",
+    "455"
+   ],
+   "ground": "Chamounix Dr, PA",
+   "result": "Cricmax Crushers won by 94 Runs",
+   "summary": "Cricmax Crushers: 167/10(31.5) StarSportsUS Crushers: 73/7(21.1)"
+  }
+ ]
+}

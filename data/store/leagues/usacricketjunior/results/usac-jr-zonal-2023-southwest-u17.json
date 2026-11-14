@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s302",
+  "id": "legacy-106",
+  "name": "USAC JR Zonal 2023 - SouthWest U17"
+ },
+ "fetchedAt": "2026-11-13T23:08:20.707Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=106&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=106&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2197",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2197&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Houston"
+   ],
+   "teamIds": [
+    "700",
+    "702"
+   ],
+   "ground": "PV1",
+   "result": "Dallas Red won by 3 Wickets",
+   "summary": "Houston: 153/10(33) Dallas Red: 154/7(38.2)"
+  },
+  {
+   "matchId": "2191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2191&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "699",
+    "701"
+   ],
+   "ground": "PV2",
+   "result": "Dallas Blue won by 9 Wickets",
+   "summary": "Austin: 69/10(22.5) Dallas Blue: 71/1(5.1)"
+  },
+  {
+   "matchId": "2182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2182&clubId=40319",
+   "date": "2023-08-03",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "699",
+    "700"
+   ],
+   "ground": "PV1",
+   "result": "Dallas Red won by 9 Wickets",
+   "summary": "Austin: 64/8(18.5) Dallas Red: 65/1(7.3)"
+  },
+  {
+   "matchId": "2181",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2181&clubId=40319",
+   "date": "2023-08-03",
+   "type": "League",
+   "teams": [
+    "Dallas Blue",
+    "Houston"
+   ],
+   "teamIds": [
+    "701",
+    "702"
+   ],
+   "ground": "PV2",
+   "result": "Houston won by 8 Wickets",
+   "summary": "Dallas Blue: 84/10(22) Houston: 87/2(13.4)"
+  },
+  {
+   "matchId": "2165",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2165&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "Dallas Blue",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "701",
+    "700"
+   ],
+   "ground": "PV1",
+   "result": "Dallas Blue won by 5 Wickets",
+   "summary": "Dallas Red: 173/10(42.3) Dallas Blue: 174/5(37.4)"
+  },
+  {
+   "matchId": "2164",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2164&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Houston"
+   ],
+   "teamIds": [
+    "699",
+    "702"
+   ],
+   "ground": "PV2",
+   "result": "Houston won by 500 Runs",
+   "summary": "Houston: 532/5(50) Austin: 32/8(8.1)"
+  }
+ ]
+}

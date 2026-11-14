@@ -1,0 +1,48 @@
+{
+ "season": {
+  "key": "s31",
+  "id": "legacy-562",
+  "name": "USAC 2026 - Great Lakes Regionals - U15"
+ },
+ "fetchedAt": "2026-11-13T21:40:49.776Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=562&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=562&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8809",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8809&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "U15 - MI",
+    "U15 - OH"
+   ],
+   "teamIds": [
+    "3315",
+    "3316"
+   ],
+   "ground": "BOULAN PARK",
+   "result": "U15 - OH won by 48 Runs",
+   "summary": "U15 - OH: 94/10(27.1) U15 - MI: 46/10(20.5)"
+  },
+  {
+   "matchId": "8773",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8773&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "U15 - MI",
+    "U15 - OH"
+   ],
+   "teamIds": [
+    "3315",
+    "3316"
+   ],
+   "ground": "BOULAN PARK",
+   "result": "U15 - MI won by 46 Runs",
+   "summary": "U15 - MI: 119/10(28.4) U15 - OH: 73/10(27.1)"
+  }
+ ]
+}

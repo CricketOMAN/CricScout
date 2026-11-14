@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s74",
+  "id": "legacy-508",
+  "name": "USAC 2026 - MN HUB- U11"
+ },
+ "fetchedAt": "2026-11-13T21:45:03.203Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=508&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=508&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8811",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8811&clubId=40319",
+   "date": "2026-06-21",
+   "type": "Semi Final",
+   "teams": [
+    "MYCA Twisters",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "3106",
+    "3107"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 85 Runs",
+   "summary": "MYCA Vortex: 221/10(25) MYCA Twisters: 136/6(25)"
+  },
+  {
+   "matchId": "8731",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8731&clubId=40319",
+   "date": "2026-06-14",
+   "type": "Semi Final",
+   "teams": [
+    "ICA Warriors",
+    "MVP Little Stars"
+   ],
+   "teamIds": [
+    "3104",
+    "3118"
+   ],
+   "ground": "IOWA Wilson Park",
+   "result": "MVP Little Stars won by 50 Runs",
+   "summary": "MVP Little Stars: 127/8(25) ICA Warriors: 77/10(18.4)"
+  },
+  {
+   "matchId": "8715",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8715&clubId=40319",
+   "date": "2026-06-14",
+   "type": "Semi Final",
+   "teams": [
+    "MVP Superheroes",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "3105",
+    "3106"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MVP Superheroes won by 62 Runs",
+   "summary": "MVP Superheroes: 199/7(25) MYCA Twisters: 137/10(21.5)"
+  },
+  {
+   "matchId": "8690",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8690&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "MVP Little Stars",
+    "ICA Warriors"
+   ],
+   "teamIds": [
+    "3118",
+    "3104"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "ICA Warriors won by 7 Runs",
+   "summary": "ICA Warriors: 115/8(22.3) MVP Little Stars: 108/10(22.5)"
+  },
+  {
+   "matchId": "8662",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8662&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MVP Superheroes"
+   ],
+   "teamIds": [
+    "3107",
+    "3105"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Vortex won by 2 Wickets",
+   "summary": "MVP Superheroes: 70/10(20.3) MYCA Vortex: 71/8(20.1)"
+  },
+  {
+   "matchId": "8608",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8608&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "MVP Little Stars",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "3118",
+    "3107"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Vortex won by 178 Runs",
+   "summary": "MYCA Vortex: 205/5(25) MVP Little Stars: 27/10(10.3)"
+  },
+  {
+   "matchId": "8471",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8471&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MVP Superheroes"
+   ],
+   "teamIds": [
+    "3104",
+    "3105"
+   ],
+   "ground": "IOWA Wilson Park",
+   "result": "No Result",
+   "summary": "ICA Warriors: 0/0(0)"
+  },
+  {
+   "matchId": "8378",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8378&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "3107",
+    "3106"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 7 Wickets",
+   "summary": "MYCA Twisters: 89/10(20.2) MYCA Vortex: 90/3(11.1)"
+  },
+  {
+   "matchId": "8320",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8320&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "3104",
+    "3106"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Twisters won by 38 Runs",
+   "summary": "MYCA Twisters: 189/10(21.4) ICA Warriors: 151/10(21.5)"
+  },
+  {
+   "matchId": "8229",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8229&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "MVP Superheroes",
+    "MVP Little Stars"
+   ],
+   "teamIds": [
+    "3105",
+    "3118"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Superheroes won by 209 Runs",
+   "summary": "MVP Superheroes: 249/0(25) MVP Little Stars: 40/10(14)"
+  },
+  {
+   "matchId": "8205",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8205&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "3104",
+    "3107"
+   ],
+   "ground": "IOWA Wilson Park",
+   "result": "MYCA Vortex won by 132 Runs",
+   "summary": "MYCA Vortex: 250/5(25) ICA Warriors: 118/7(25)"
+  },
+  {
+   "matchId": "8090",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8090&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MVP Little Stars"
+   ],
+   "teamIds": [
+    "3104",
+    "3118"
+   ],
+   "ground": "IOWA ISU Ames",
+   "result": "ICA Warriors won by 15 Runs",
+   "summary": "ICA Warriors: 131/10(21.5) MVP Little Stars: 116/10(23.1)"
+  },
+  {
+   "matchId": "8056",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8056&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MVP Superheroes",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "3105",
+    "3107"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Superheroes won by 22 Runs",
+   "summary": "MVP Superheroes: 107/8(25) MYCA Vortex: 85/9(25)"
+  },
+  {
+   "matchId": "7862",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7862&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "MVP Superheroes",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "3105",
+    "3106"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Superheroes won by 70 Runs",
+   "summary": "MVP Superheroes: 150/5(25) MYCA Twisters: 80/10(22.1)"
+  },
+  {
+   "matchId": "7666",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7666&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "MVP Little Stars",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "3118",
+    "3106"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Twisters won by 210 Runs",
+   "summary": "MYCA Twisters: 265/5(25) MVP Little Stars: 55/10(16.3)"
+  }
+ ]
+}

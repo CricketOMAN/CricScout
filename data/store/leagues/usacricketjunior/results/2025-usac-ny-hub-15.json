@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s168",
+  "id": "legacy-345",
+  "name": "2025 USAC - NY Hub 15"
+ },
+ "fetchedAt": "2026-11-13T22:18:14.454Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=345&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=345&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5727",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5727&clubId=40319",
+   "date": "2025-06-13",
+   "type": "League",
+   "teams": [
+    "ICUSA - U15 - Black Mambas",
+    "NJYCA - U15"
+   ],
+   "teamIds": [
+    "2062",
+    "2096"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "ICUSA - U15 - Black Mambas: 0/0(0)"
+  },
+  {
+   "matchId": "5619",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5619&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "QUCA U15",
+    "NJYCA - U15"
+   ],
+   "teamIds": [
+    "2056",
+    "2096"
+   ],
+   "ground": "NJYCA",
+   "result": "QUCA U15: 123/5 (30/30 ov) NJYCA - U15: 19/2 (3.3/30 ov)",
+   "summary": "QUCA U15: 123/5(30) NJYCA - U15: 19/2(3.3) Live"
+  },
+  {
+   "matchId": "5431",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5431&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "ICUSA - U15 - Black Mambas",
+    "NJYCA - U15"
+   ],
+   "teamIds": [
+    "2062",
+    "2096"
+   ],
+   "ground": "TBD",
+   "result": "NJYCA - U15 won by 111 Runs",
+   "summary": "NJYCA - U15: 148/8(30) ICUSA - U15 - Black Mambas: 37/10(20.4)"
+  },
+  {
+   "matchId": "5335",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5335&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "NJYCA - U15",
+    "QUCA U15"
+   ],
+   "teamIds": [
+    "2096",
+    "2056"
+   ],
+   "ground": "NJYCA",
+   "result": "QUCA U15 won by 4 Wickets",
+   "summary": "NJYCA - U15: 97/9(30) QUCA U15: 98/6(28)"
+  },
+  {
+   "matchId": "5048",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5048&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "ICUSA - U15 - Black Mambas",
+    "QUCA U15"
+   ],
+   "teamIds": [
+    "2062",
+    "2056"
+   ],
+   "ground": "Idlewild",
+   "result": "QUCA U15 won by 7 Wickets",
+   "summary": "ICUSA - U15 - Black Mambas: 87/10(28.3) QUCA U15: 88/3(26.1)"
+  },
+  {
+   "matchId": "4884",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4884&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "ICUSA - U15 - Black Mambas",
+    "QUCA U15"
+   ],
+   "teamIds": [
+    "2062",
+    "2056"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U15 won by 87 Runs",
+   "summary": "QUCA U15: 185/8(30) ICUSA - U15 - Black Mambas: 98/9(17.5)"
+  }
+ ]
+}

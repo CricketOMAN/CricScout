@@ -1,0 +1,31 @@
+{
+ "season": {
+  "key": "s281",
+  "id": "legacy-131",
+  "name": "USAC JR Zonal 2023 - Midwest U17 Final Selection"
+ },
+ "fetchedAt": "2026-11-13T22:57:16.856Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=131&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=131&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2441",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2441&clubId=40319",
+   "date": "2023-09-24",
+   "type": "League",
+   "teams": [
+    "MW Lions",
+    "MW Tigers"
+   ],
+   "teamIds": [
+    "835",
+    "836"
+   ],
+   "ground": "TBD",
+   "result": "MW Lions won by 40 Runs",
+   "summary": "MW Lions: 226/9(50) MW Tigers: 186/11(47.1)"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s26",
+  "id": "legacy-569",
+  "name": "USAC 2026 Dallas Regional U13"
+ },
+ "fetchedAt": "2026-11-13T21:40:33.128Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=569&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=569&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8956",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8956&clubId=40319",
+   "date": "2026-06-30",
+   "type": "League",
+   "teams": [
+    "Dallas Titans",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "3345",
+    "3346"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas Titans won by 7 Runs",
+   "summary": "Dallas Titans: 136/7(30) Dallas Red: 129/10(26)"
+  },
+  {
+   "matchId": "8954",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8954&clubId=40319",
+   "date": "2026-06-30",
+   "type": "League",
+   "teams": [
+    "Dallas Kings",
+    "Colorado"
+   ],
+   "teamIds": [
+    "3344",
+    "3347"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Kings won by 207 Runs",
+   "summary": "Dallas Kings: 246/5(30) Colorado: 39/10(15.4)"
+  },
+  {
+   "matchId": "8951",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8951&clubId=40319",
+   "date": "2026-06-29",
+   "type": "League",
+   "teams": [
+    "Dallas Kings",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "3344",
+    "3346"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Red won by 71 Runs",
+   "summary": "Dallas Red: 193/9(30) Dallas Kings: 122/10(30)"
+  },
+  {
+   "matchId": "8950",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8950&clubId=40319",
+   "date": "2026-06-29",
+   "type": "League",
+   "teams": [
+    "Dallas Titans",
+    "Colorado"
+   ],
+   "teamIds": [
+    "3345",
+    "3347"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas Titans won by 10 Wickets",
+   "summary": "Colorado: 38/10(20.4) Dallas Titans: 39/0(4.2)"
+  },
+  {
+   "matchId": "8944",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8944&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Colorado"
+   ],
+   "teamIds": [
+    "3346",
+    "3347"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas Red won by 187 Runs",
+   "summary": "Dallas Red: 286/6(30.1) Colorado: 99/10(25.5)"
+  },
+  {
+   "matchId": "8943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8943&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Dallas Kings",
+    "Dallas Titans"
+   ],
+   "teamIds": [
+    "3344",
+    "3345"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Kings won by 72 Runs",
+   "summary": "Dallas Kings: 158/5(30) Dallas Titans: 86/10(23.4)"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s223",
+  "id": "legacy-247",
+  "name": "2024 - NC Regionals U13"
+ },
+ "fetchedAt": "2026-11-13T22:39:12.325Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=247&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=247&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3932&clubId=40319",
+   "date": "2024-08-18",
+   "type": "League",
+   "teams": [
+    "FL",
+    "NC Green"
+   ],
+   "teamIds": [
+    "1383",
+    "1382"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "NC Green won by 2 Runs",
+   "summary": "NC Green: 147/7(30) FL: 145/8(30)"
+  },
+  {
+   "matchId": "3923",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3923&clubId=40319",
+   "date": "2024-08-17",
+   "type": "League",
+   "teams": [
+    "NC Red",
+    "FL"
+   ],
+   "teamIds": [
+    "1381",
+    "1383"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "NC Red won by 65 Runs",
+   "summary": "NC Red: 158/8(30) FL: 93/10(29)"
+  },
+  {
+   "matchId": "3914",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3914&clubId=40319",
+   "date": "2024-08-16",
+   "type": "League",
+   "teams": [
+    "NC Green",
+    "NC Red"
+   ],
+   "teamIds": [
+    "1382",
+    "1381"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "NC Green won by 17 Runs",
+   "summary": "NC Green: 173/3(30) NC Red: 156/10(30)"
+  }
+ ]
+}

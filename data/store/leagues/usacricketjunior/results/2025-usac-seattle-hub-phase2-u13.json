@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s164",
+  "id": "legacy-350",
+  "name": "2025 USAC Seattle - Hub Phase2 - U13"
+ },
+ "fetchedAt": "2026-11-13T22:18:10.608Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=350&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=350&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5414",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5414&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "U13 Team Green",
+    "U13 Team Red"
+   ],
+   "teamIds": [
+    "2069",
+    "2068"
+   ],
+   "ground": "CMS - NSD",
+   "result": "U13 Team Red won by 5 Runs",
+   "summary": "U13 Team Red: 142/6(30) U13 Team Green: 137/12(26.3)"
+  },
+  {
+   "matchId": "5389",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5389&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "U13 Team Blue",
+    "U13 Team Yellow"
+   ],
+   "teamIds": [
+    "2070",
+    "2071"
+   ],
+   "ground": "CMS - NSD",
+   "result": "U13 Team Blue won by 7 Wickets (D/L)",
+   "summary": "U13 Team Yellow: 98/11(16.3) U13 Team Blue: 153/3(24.4)"
+  },
+  {
+   "matchId": "5344",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5344&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "U13 Team Blue",
+    "U13 Team Green"
+   ],
+   "teamIds": [
+    "2070",
+    "2069"
+   ],
+   "ground": "Ron Regis",
+   "result": "U13 Team Green won by 2 Runs (D/L)",
+   "summary": "U13 Team Blue: 93/8(30) U13 Team Green: 155/5(30)"
+  },
+  {
+   "matchId": "5315",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5315&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "U13 Team Orange",
+    "U13 Team Yellow"
+   ],
+   "teamIds": [
+    "2072",
+    "2071"
+   ],
+   "ground": "Ron Regis",
+   "result": "U13 Team Yellow won by 1 Run (D/L)",
+   "summary": "U13 Team Orange: 154/8(26) U13 Team Yellow: 170/3(26)"
+  },
+  {
+   "matchId": "5229",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5229&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "U13 Team Green",
+    "U13 Team Yellow"
+   ],
+   "teamIds": [
+    "2069",
+    "2071"
+   ],
+   "ground": "Vally View",
+   "result": "Abandoned.",
+   "summary": "U13 Team Green: 166/5(23)"
+  },
+  {
+   "matchId": "5161",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5161&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "U13 Team Blue",
+    "U13 Team Red"
+   ],
+   "teamIds": [
+    "2070",
+    "2068"
+   ],
+   "ground": "Ron Regis",
+   "result": "U13 Team Red won by 4 Runs (D/L)",
+   "summary": "U13 Team Red: 110/4(25) U13 Team Blue: 120/7(25)"
+  },
+  {
+   "matchId": "5122",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5122&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "U13 Team Orange",
+    "U13 Team Green"
+   ],
+   "teamIds": [
+    "2072",
+    "2069"
+   ],
+   "ground": "Ron Regis",
+   "result": "U13 Team Orange won by 69 Runs",
+   "summary": "U13 Team Orange: 159/7(30) U13 Team Green: 90/9(27.5)"
+  },
+  {
+   "matchId": "5079",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5079&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "U13 Team Red",
+    "U13 Team Yellow"
+   ],
+   "teamIds": [
+    "2068",
+    "2071"
+   ],
+   "ground": "Ron Regis",
+   "result": "U13 Team Yellow won by 34 Runs",
+   "summary": "U13 Team Yellow: 160/9(30.1) U13 Team Red: 126/5(30)"
+  },
+  {
+   "matchId": "5021",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5021&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "U13 Team Orange",
+    "U13 Team Blue"
+   ],
+   "teamIds": [
+    "2072",
+    "2070"
+   ],
+   "ground": "Ron Regis",
+   "result": "U13 Team Orange won by 3 Wickets",
+   "summary": "U13 Team Blue: 108/3(30) U13 Team Orange: 112/7(25.4)"
+  }
+ ]
+}

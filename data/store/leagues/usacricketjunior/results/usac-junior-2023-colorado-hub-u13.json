@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s345",
+  "id": "legacy-46",
+  "name": "USAC Junior 2023 -Colorado Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:13:21.847Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=46&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=46&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2114",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2114&clubId=40319",
+   "date": "2023-07-24",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Littleton Gladiators U13"
+   ],
+   "teamIds": [
+    "521",
+    "522"
+   ],
+   "ground": "Cornerstone Ground",
+   "result": "DYCA-Littleton Gladiators U13 won by 9 Wickets",
+   "summary": "DYCA-Denver Dynamites U13: 91/7(30) DYCA-Littleton Gladiators U13: 92/1(19.2)"
+  },
+  {
+   "matchId": "2023",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2023&clubId=40319",
+   "date": "2023-07-09",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Littleton Gladiators U13"
+   ],
+   "teamIds": [
+    "521",
+    "522"
+   ],
+   "ground": "Longmont",
+   "result": "DYCA-Denver Dynamites U13 won by 5 Wickets",
+   "summary": "DYCA-Littleton Gladiators U13: 61/8(16.2) DYCA-Denver Dynamites U13: 62/5(23.2)"
+  },
+  {
+   "matchId": "1935",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1935&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Littleton Gladiators U13"
+   ],
+   "teamIds": [
+    "521",
+    "522"
+   ],
+   "ground": "Longmont",
+   "result": "DYCA-Littleton Gladiators U13 won by 6 Wickets",
+   "summary": "DYCA-Denver Dynamites U13: 122/6(30) DYCA-Littleton Gladiators U13: 123/4(29.5)"
+  },
+  {
+   "matchId": "1913",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1913&clubId=40319",
+   "date": "2023-06-20",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Littleton Gladiators U13"
+   ],
+   "teamIds": [
+    "521",
+    "522"
+   ],
+   "ground": "Cornerstone Ground",
+   "result": "DYCA-Denver Dynamites U13 won by 39 Runs",
+   "summary": "DYCA-Denver Dynamites U13: 136/8(30) DYCA-Littleton Gladiators U13: 97/9(28.1)"
+  },
+  {
+   "matchId": "1827",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1827&clubId=40319",
+   "date": "2023-06-15",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Littleton Gladiators U13"
+   ],
+   "teamIds": [
+    "521",
+    "522"
+   ],
+   "ground": "GVR",
+   "result": "DYCA-Denver Dynamites U13 won by 6 Wickets",
+   "summary": "DYCA-Littleton Gladiators U13: 91/5(30) DYCA-Denver Dynamites U13: 92/4(24.1)"
+  },
+  {
+   "matchId": "1302",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1302&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Littleton Gladiators U13"
+   ],
+   "teamIds": [
+    "521",
+    "522"
+   ],
+   "ground": "CrickWorld Colorado",
+   "result": "DYCA-Denver Dynamites U13 won by 21 Runs",
+   "summary": "DYCA-Denver Dynamites U13: 100/6(30) DYCA-Littleton Gladiators U13: 79/9(18.3)"
+  }
+ ]
+}

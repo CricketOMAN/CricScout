@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s344",
+  "id": "legacy-47",
+  "name": "USAC Junior 2023 -Colorado Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:13:20.995Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=47&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=47&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2080",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2080&clubId=40319",
+   "date": "2023-07-17",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "519",
+    "520"
+   ],
+   "ground": "Cornerstone Ground",
+   "result": "DYCA-Highlands Ranch Hurricanes U15 won by 3 Wickets",
+   "summary": "DYCA-Castle Rock Super Kings U15: 131/6(40) DYCA-Highlands Ranch Hurricanes U15: 132/7(38.2)"
+  },
+  {
+   "matchId": "2068",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2068&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "519",
+    "520"
+   ],
+   "ground": "CrickWorld Colorado",
+   "result": "DYCA-Castle Rock Super Kings U15 won by 6 Wickets (D/L)",
+   "summary": "DYCA-Highlands Ranch Hurricanes U15: 165/8(34.2) DYCA-Castle Rock Super Kings U15: 147/4(26.2)"
+  },
+  {
+   "matchId": "2017",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2017&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "519",
+    "520"
+   ],
+   "ground": "Longmont",
+   "result": "DYCA-Castle Rock Super Kings U15 won by 36 Runs",
+   "summary": "DYCA-Castle Rock Super Kings U15: 117/8(20) DYCA-Highlands Ranch Hurricanes U15: 81/8(20)"
+  },
+  {
+   "matchId": "1921",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1921&clubId=40319",
+   "date": "2023-06-22",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "519",
+    "520"
+   ],
+   "ground": "GVR",
+   "result": "DYCA-Castle Rock Super Kings U15 won by 8 Wickets (D/L)",
+   "summary": "DYCA-Highlands Ranch Hurricanes U15: 85/8(28.5) DYCA-Castle Rock Super Kings U15: 60/2(23)"
+  },
+  {
+   "matchId": "1903",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1903&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "519",
+    "520"
+   ],
+   "ground": "Longmont",
+   "result": "DYCA-Castle Rock Super Kings U15 won by 46 Runs",
+   "summary": "DYCA-Castle Rock Super Kings U15: 116/8(35) DYCA-Highlands Ranch Hurricanes U15: 70/9(29.1)"
+  },
+  {
+   "matchId": "1618",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1618&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "519",
+    "520"
+   ],
+   "ground": "Lincoln Park",
+   "result": "Abandoned.",
+   "summary": "DYCA-Castle Rock Super Kings U15: 36/2(8)"
+  },
+  {
+   "matchId": "1252",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1252&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "519",
+    "520"
+   ],
+   "ground": "CrickWorld Colorado",
+   "result": "DYCA-Highlands Ranch Hurricanes U15 won by 36 Runs",
+   "summary": "DYCA-Highlands Ranch Hurricanes U15: 218/8(40) DYCA-Castle Rock Super Kings U15: 182/10(37.1)"
+  }
+ ]
+}

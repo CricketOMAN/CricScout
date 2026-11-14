@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s276",
+  "id": "legacy-144",
+  "name": "USAC Junior 2024 -Houston Hub U11"
+ },
+ "fetchedAt": "2026-11-13T22:57:12.325Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=144&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=144&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3134",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3134&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "NW1 Stallions",
+    "SY1 Cosmos"
+   ],
+   "teamIds": [
+    "907",
+    "905"
+   ],
+   "ground": "JPLW",
+   "result": "Forfeited. Winner: SY1 Cosmos",
+   "summary": "NW1 Stallions: 0/0(0)"
+  },
+  {
+   "matchId": "3091",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3091&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NW1 Warriors",
+    "KY1 Falcons"
+   ],
+   "teamIds": [
+    "908",
+    "906"
+   ],
+   "ground": "MatzkeW",
+   "result": "KY1 Falcons won by 27 Runs",
+   "summary": "KY1 Falcons: 119/9(25) NW1 Warriors: 92/6(25)"
+  },
+  {
+   "matchId": "3043",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3043&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NW1 Stallions",
+    "NC1 Titans"
+   ],
+   "teamIds": [
+    "907",
+    "904"
+   ],
+   "ground": "MatzkeW",
+   "result": "NC1 Titans won by 188 Runs",
+   "summary": "NC1 Titans: 268/5(25) NW1 Stallions: 80/7(16.2)"
+  },
+  {
+   "matchId": "2965",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2965&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "NC1 Titans",
+    "SY1 Cosmos"
+   ],
+   "teamIds": [
+    "904",
+    "905"
+   ],
+   "ground": "MWP",
+   "result": "SY1 Cosmos won by 22 Runs",
+   "summary": "SY1 Cosmos: 114/2(25) NC1 Titans: 92/8(23.3)"
+  },
+  {
+   "matchId": "2960",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2960&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "NW1 Warriors",
+    "KY1 Falcons"
+   ],
+   "teamIds": [
+    "908",
+    "906"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW1 Warriors won by 48 Runs",
+   "summary": "NW1 Warriors: 150/6(25) KY1 Falcons: 102/8(25)"
+  },
+  {
+   "matchId": "2907",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2907&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "NW1 Warriors",
+    "NC1 Titans"
+   ],
+   "teamIds": [
+    "908",
+    "904"
+   ],
+   "ground": "MatzkeW",
+   "result": "NC1 Titans won by 7 Wickets",
+   "summary": "NW1 Warriors: 87/9(20.1) NC1 Titans: 88/3(18.4)"
+  },
+  {
+   "matchId": "2865",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2865&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "NW1 Stallions",
+    "KY1 Falcons"
+   ],
+   "teamIds": [
+    "907",
+    "906"
+   ],
+   "ground": "MatzkeW",
+   "result": "KY1 Falcons won by 7 Wickets",
+   "summary": "NW1 Stallions: 71/7(21.4) KY1 Falcons: 72/3(10.1)"
+  },
+  {
+   "matchId": "2812",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2812&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "KY1 Falcons",
+    "NW1 Stallions"
+   ],
+   "teamIds": [
+    "906",
+    "907"
+   ],
+   "ground": "JPLW",
+   "result": "KY1 Falcons won by 9 Wickets",
+   "summary": "NW1 Stallions: 104/6(25) KY1 Falcons: 105/1(17.2)"
+  },
+  {
+   "matchId": "2772",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2772&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "SY1 Cosmos",
+    "NW1 Warriors"
+   ],
+   "teamIds": [
+    "905",
+    "908"
+   ],
+   "ground": "JPLW",
+   "result": "NW1 Warriors won by 4 Wickets",
+   "summary": "SY1 Cosmos: 65/10(20.2) NW1 Warriors: 67/6(16.1)"
+  },
+  {
+   "matchId": "2727",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2727&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "NC1 Titans",
+    "KY1 Falcons"
+   ],
+   "teamIds": [
+    "904",
+    "906"
+   ],
+   "ground": "MWP",
+   "result": "KY1 Falcons won by 5 Runs",
+   "summary": "KY1 Falcons: 94/10(21) NC1 Titans: 89/6(23.4)"
+  },
+  {
+   "matchId": "2705",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2705&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "SY1 Cosmos",
+    "NW1 Stallions"
+   ],
+   "teamIds": [
+    "905",
+    "907"
+   ],
+   "ground": "4CP",
+   "result": "SY1 Cosmos won by 9 Wickets",
+   "summary": "NW1 Stallions: 64/9(22) SY1 Cosmos: 65/1(10)"
+  },
+  {
+   "matchId": "2662",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2662&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "NW1 Warriors",
+    "SY1 Cosmos"
+   ],
+   "teamIds": [
+    "908",
+    "905"
+   ],
+   "ground": "JPLW",
+   "result": "SY1 Cosmos won by 6 Wickets",
+   "summary": "NW1 Warriors: 111/9(25) SY1 Cosmos: 113/4(21)"
+  },
+  {
+   "matchId": "2595",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2595&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "NW1 Stallions",
+    "NC1 Titans"
+   ],
+   "teamIds": [
+    "907",
+    "904"
+   ],
+   "ground": "JPLW",
+   "result": "NC1 Titans won by 5 Wickets",
+   "summary": "NW1 Stallions: 89/4(25) NC1 Titans: 90/5(14.4)"
+  },
+  {
+   "matchId": "2553",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2553&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "KY1 Falcons",
+    "SY1 Cosmos"
+   ],
+   "teamIds": [
+    "906",
+    "905"
+   ],
+   "ground": "JPLW",
+   "result": "SY1 Cosmos won by 21 Runs",
+   "summary": "SY1 Cosmos: 115/9(25) KY1 Falcons: 94/9(25)"
+  },
+  {
+   "matchId": "2547",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2547&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "NC1 Titans",
+    "NW1 Warriors"
+   ],
+   "teamIds": [
+    "904",
+    "908"
+   ],
+   "ground": "MWP",
+   "result": "NW1 Warriors won by 3 Wickets",
+   "summary": "NC1 Titans: 67/9(22.3) NW1 Warriors: 68/7(24.2)"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s69",
+  "id": "legacy-515",
+  "name": "USAC 2026 - OH HUB - U15"
+ },
+ "fetchedAt": "2026-11-13T21:44:58.420Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=515&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=515&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8495",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8495&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "AYCA Blasters",
+    "MCA Gladiators"
+   ],
+   "teamIds": [
+    "3132",
+    "3133"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Blasters won by 73 Runs",
+   "summary": "AYCA Blasters: 162/5(25) MCA Gladiators: 89/6(20.1)"
+  },
+  {
+   "matchId": "8448",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8448&clubId=40319",
+   "date": "2026-06-01",
+   "type": "League",
+   "teams": [
+    "AYCA Blasters",
+    "MCA Gladiators"
+   ],
+   "teamIds": [
+    "3132",
+    "3133"
+   ],
+   "ground": "TBD",
+   "result": "AYCA Blasters won by 83 Runs",
+   "summary": "AYCA Blasters: 172/10(35.3) MCA Gladiators: 89/10(29.1)"
+  },
+  {
+   "matchId": "8389",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8389&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "MCA Gladiators",
+    "AYCA Blasters"
+   ],
+   "teamIds": [
+    "3133",
+    "3132"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "AYCA Blasters won by 8 Wickets",
+   "summary": "MCA Gladiators: 91/10(33.5) AYCA Blasters: 92/2(17.1)"
+  },
+  {
+   "matchId": "8172",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8172&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "AYCA Blasters",
+    "MCA Gladiators"
+   ],
+   "teamIds": [
+    "3132",
+    "3133"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Blasters won by 27 Runs",
+   "summary": "AYCA Blasters: 176/10(25.5) MCA Gladiators: 149/10(38.2)"
+  },
+  {
+   "matchId": "7970",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7970&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "AYCA Blasters",
+    "PYCA Gladiators"
+   ],
+   "teamIds": [
+    "3132",
+    "3134"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Blasters won by 9 Wickets",
+   "summary": "PYCA Gladiators: 50/10(30) AYCA Blasters: 54/1(8)"
+  },
+  {
+   "matchId": "7883",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7883&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "MCA Gladiators",
+    "PYCA Gladiators"
+   ],
+   "teamIds": [
+    "3133",
+    "3134"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA Gladiators won by 136 Runs",
+   "summary": "MCA Gladiators: 186/8(40) PYCA Gladiators: 50/9(19.1)"
+  }
+ ]
+}

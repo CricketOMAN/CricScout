@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s176",
+  "id": "legacy-326",
+  "name": "2025 USAC Colorado Rockies Hub - U13"
+ },
+ "fetchedAt": "2026-11-13T22:23:05.150Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=326&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=326&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4962",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4962&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Thornton Trojans U13"
+   ],
+   "teamIds": [
+    "1884",
+    "1885"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Denver Dynamites U13 won by 10 Wickets",
+   "summary": "DYCA-Thornton Trojans U13: 154/5(20) DYCA-Denver Dynamites U13: 155/0(18)"
+  },
+  {
+   "matchId": "4946",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4946&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Thornton Trojans U13"
+   ],
+   "teamIds": [
+    "1884",
+    "1885"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Thornton Trojans U13 won by 14 Runs",
+   "summary": "DYCA-Thornton Trojans U13: 94/9(20) DYCA-Denver Dynamites U13: 80/9(15.3)"
+  },
+  {
+   "matchId": "4634",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4634&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "DYCA-Thornton Trojans U13",
+    "DYCA-Denver Dynamites U13"
+   ],
+   "teamIds": [
+    "1885",
+    "1884"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Thornton Trojans U13 won by 3 Wickets",
+   "summary": "DYCA-Denver Dynamites U13: 104/4(16) DYCA-Thornton Trojans U13: 105/7(15.5)"
+  },
+  {
+   "matchId": "4613",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4613&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Thornton Trojans U13"
+   ],
+   "teamIds": [
+    "1884",
+    "1885"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Denver Dynamites U13 won by 4 Runs",
+   "summary": "DYCA-Denver Dynamites U13: 136/4(20) DYCA-Thornton Trojans U13: 132/7(20)"
+  },
+  {
+   "matchId": "4532",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4532&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "DYCA-Thornton Trojans U13",
+    "DYCA-Denver Dynamites U13"
+   ],
+   "teamIds": [
+    "1885",
+    "1884"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Denver Dynamites U13 won by 8 Wickets (D/L)",
+   "summary": "DYCA-Thornton Trojans U13: 69/8(12.3) DYCA-Denver Dynamites U13: 43/2(7)"
+  },
+  {
+   "matchId": "4519",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4519&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U13",
+    "DYCA-Thornton Trojans U13"
+   ],
+   "teamIds": [
+    "1884",
+    "1885"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Thornton Trojans U13 won by 8 Runs",
+   "summary": "DYCA-Thornton Trojans U13: 122/7(20) DYCA-Denver Dynamites U13: 114/4(20)"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s221",
+  "id": "legacy-249",
+  "name": "USAC Junior 2024 -New York Hub U11"
+ },
+ "fetchedAt": "2026-11-13T22:36:41.030Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=249&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=249&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4102",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4102&clubId=40319",
+   "date": "2024-09-22",
+   "type": "League",
+   "teams": [
+    "NY Blue",
+    "NY Red"
+   ],
+   "teamIds": [
+    "1394",
+    "1392"
+   ],
+   "ground": "TBD",
+   "result": "NY Red won by 1 Wicket",
+   "summary": "NY Blue: 107/7(20) NY Red: 108/9(17.2)"
+  },
+  {
+   "matchId": "4095",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4095&clubId=40319",
+   "date": "2024-09-22",
+   "type": "League",
+   "teams": [
+    "NY Green",
+    "NY Grey"
+   ],
+   "teamIds": [
+    "1393",
+    "1395"
+   ],
+   "ground": "TBD",
+   "result": "NY Green won by 1 Wicket",
+   "summary": "NY Grey: 97/7(20) NY Green: 98/9(18.5)"
+  },
+  {
+   "matchId": "4092",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4092&clubId=40319",
+   "date": "2024-09-21",
+   "type": "League",
+   "teams": [
+    "NY Blue",
+    "NY Red"
+   ],
+   "teamIds": [
+    "1394",
+    "1392"
+   ],
+   "ground": "TBD",
+   "result": "It is a Tie",
+   "summary": "NY Blue: 112/1(20) NY Red: 112/9(20)"
+  },
+  {
+   "matchId": "4083",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4083&clubId=40319",
+   "date": "2024-09-21",
+   "type": "League",
+   "teams": [
+    "NY Green",
+    "NY Grey"
+   ],
+   "teamIds": [
+    "1393",
+    "1395"
+   ],
+   "ground": "TBD",
+   "result": "NY Grey won by 1 Run",
+   "summary": "NY Grey: 105/4(20) NY Green: 104/9(20)"
+  },
+  {
+   "matchId": "3947",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3947&clubId=40319",
+   "date": "2024-08-20",
+   "type": "League",
+   "teams": [
+    "NY Red",
+    "NY Green"
+   ],
+   "teamIds": [
+    "1392",
+    "1393"
+   ],
+   "ground": "Idlewild",
+   "result": "NY Red won by 59 Runs",
+   "summary": "NY Red: 101/5(20) NY Green: 42/9(20)"
+  },
+  {
+   "matchId": "3945",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3945&clubId=40319",
+   "date": "2024-08-20",
+   "type": "League",
+   "teams": [
+    "NY Blue",
+    "NY Grey"
+   ],
+   "teamIds": [
+    "1394",
+    "1395"
+   ],
+   "ground": "Idlewild",
+   "result": "NY Grey won by 8 Runs",
+   "summary": "NY Grey: 97/2(20) NY Blue: 89/8(18)"
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s117",
+  "id": "legacy-452",
+  "name": "USAC 2026 - Austin - U13"
+ },
+ "fetchedAt": "2026-11-13T21:57:27.911Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=452&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=452&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8352",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8352&clubId=40319",
+   "date": "2026-05-30",
+   "type": "Final",
+   "teams": [
+    "Austin Blasters U13",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "2746",
+    "2742"
+   ],
+   "ground": "TCCG",
+   "result": "Austin Blasters U13 won by 90 Runs",
+   "summary": "Austin Blasters U13: 167/6(30) San Antonio Road Runners: 77/8(24)"
+  },
+  {
+   "matchId": "8221",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8221&clubId=40319",
+   "date": "2026-05-17",
+   "type": "Eliminator",
+   "teams": [
+    "HCCA Starz U13",
+    "Super Kings Academy U13"
+   ],
+   "teamIds": [
+    "2745",
+    "2747"
+   ],
+   "ground": "Hutto",
+   "result": "Super Kings Academy U13 won by 28 Runs",
+   "summary": "Super Kings Academy U13: 143/5(30) HCCA Starz U13: 115/10(27)"
+  },
+  {
+   "matchId": "8133",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8133&clubId=40319",
+   "date": "2026-05-16",
+   "type": "3rd Position",
+   "teams": [
+    "San Antonio Ninjas",
+    "Austin Elites U13"
+   ],
+   "teamIds": [
+    "2743",
+    "2744"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Ninjas won by 64 Runs",
+   "summary": "San Antonio Ninjas: 175/6(25) Austin Elites U13: 111/8(25)"
+  },
+  {
+   "matchId": "8124",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8124&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "Austin Blasters U13"
+   ],
+   "teamIds": [
+    "2742",
+    "2746"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Blasters U13 won by 7 Wickets",
+   "summary": "San Antonio Road Runners: 148/8(29.2) Austin Blasters U13: 150/3(20.4)"
+  },
+  {
+   "matchId": "8047",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8047&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "Super Kings Academy U13"
+   ],
+   "teamIds": [
+    "2743",
+    "2747"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "San Antonio Ninjas won by 63 Runs",
+   "summary": "San Antonio Ninjas: 230/3(30) Super Kings Academy U13: 167/4(30)"
+  },
+  {
+   "matchId": "7996",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7996&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Austin Elites U13",
+    "Super Kings Academy U13"
+   ],
+   "teamIds": [
+    "2744",
+    "2747"
+   ],
+   "ground": "LPCL G6",
+   "result": "Austin Elites U13 won by 134 Runs",
+   "summary": "Austin Elites U13: 255/6(30) Super Kings Academy U13: 121/10(28)"
+  },
+  {
+   "matchId": "7954",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7954&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "Austin Blasters U13"
+   ],
+   "teamIds": [
+    "2743",
+    "2746"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "Austin Blasters U13 won by 9 Runs",
+   "summary": "Austin Blasters U13: 202/7(30) San Antonio Ninjas: 193/3(30)"
+  },
+  {
+   "matchId": "7932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7932&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "Super Kings Academy U13"
+   ],
+   "teamIds": [
+    "2746",
+    "2747"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blasters U13 won by 111 Runs",
+   "summary": "Austin Blasters U13: 197/5(20.1) Super Kings Academy U13: 86/10(17.5)"
+  },
+  {
+   "matchId": "7499",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7499&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Super Kings Academy U13",
+    "HCCA Starz U13"
+   ],
+   "teamIds": [
+    "2747",
+    "2745"
+   ],
+   "ground": "CPCG",
+   "result": "HCCA Starz U13 won by 25 Runs",
+   "summary": "HCCA Starz U13: 228/10(29.3) Super Kings Academy U13: 203/9(30)"
+  },
+  {
+   "matchId": "7462",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7462&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "Austin Elites U13"
+   ],
+   "teamIds": [
+    "2742",
+    "2744"
+   ],
+   "ground": "CPCG",
+   "result": "San Antonio Road Runners won by 8 Wickets",
+   "summary": "Austin Elites U13: 175/10(27.5) San Antonio Road Runners: 177/2(22.2)"
+  },
+  {
+   "matchId": "7396",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7396&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Austin Elites U13",
+    "HCCA Starz U13"
+   ],
+   "teamIds": [
+    "2744",
+    "2745"
+   ],
+   "ground": "LPCL G6",
+   "result": "Austin Elites U13 won by 8 Wickets",
+   "summary": "HCCA Starz U13: 117/10(24.4) Austin Elites U13: 118/2(14.2)"
+  },
+  {
+   "matchId": "7346",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7346&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "HCCA Starz U13"
+   ],
+   "teamIds": [
+    "2742",
+    "2745"
+   ],
+   "ground": "TCCG",
+   "result": "San Antonio Road Runners won by 8 Wickets",
+   "summary": "HCCA Starz U13: 151/10(26.5) San Antonio Road Runners: 152/2(17.5)"
+  },
+  {
+   "matchId": "7288",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7288&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "Austin Elites U13"
+   ],
+   "teamIds": [
+    "2743",
+    "2744"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "San Antonio Ninjas won by 70 Runs",
+   "summary": "San Antonio Ninjas: 226/2(30) Austin Elites U13: 156/8(30)"
+  },
+  {
+   "matchId": "7206",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7206&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "HCCA Starz U13",
+    "San Antonio Ninjas"
+   ],
+   "teamIds": [
+    "2745",
+    "2743"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Ninjas won by 104 Runs",
+   "summary": "San Antonio Ninjas: 173/5(30) HCCA Starz U13: 69/10(20.3)"
+  },
+  {
+   "matchId": "7137",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7137&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "Austin Elites U13",
+    "Austin Blasters U13"
+   ],
+   "teamIds": [
+    "2744",
+    "2746"
+   ],
+   "ground": "LPCL G6",
+   "result": "Austin Blasters U13 won by 78 Runs",
+   "summary": "Austin Blasters U13: 254/6(30) Austin Elites U13: 176/9(30)"
+  },
+  {
+   "matchId": "7124",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7124&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "Super Kings Academy U13"
+   ],
+   "teamIds": [
+    "2742",
+    "2747"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Road Runners won by 10 Wickets",
+   "summary": "Super Kings Academy U13: 116/10(24.2) San Antonio Road Runners: 117/0(14.2)"
+  },
+  {
+   "matchId": "7112",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7112&clubId=40319",
+   "date": "2026-03-27",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "HCCA Starz U13"
+   ],
+   "teamIds": [
+    "2746",
+    "2745"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Blasters U13 won by 9 Wickets",
+   "summary": "HCCA Starz U13: 88/9(21.5) Austin Blasters U13: 90/1(11.2)"
+  },
+  {
+   "matchId": "7064",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7064&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "2743",
+    "2742"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "San Antonio Road Runners won by 41 Runs",
+   "summary": "San Antonio Road Runners: 222/0(30) San Antonio Ninjas: 181/10(30)"
+  }
+ ]
+}

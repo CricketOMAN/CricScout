@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s300",
+  "id": "legacy-120",
+  "name": "USAC JR Zonal 2023 - Midwest U17"
+ },
+ "fetchedAt": "2026-11-13T23:05:34.199Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=120&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=120&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2428",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2428&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "Chicago",
+    "EastMidwest"
+   ],
+   "teamIds": [
+    "820",
+    "821"
+   ],
+   "ground": "CYCAP",
+   "result": "Chicago won by 91 Runs",
+   "summary": "Chicago: 186/2(30) EastMidwest: 95/10(28.1)"
+  },
+  {
+   "matchId": "2425",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2425&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "EastMidwest",
+    "Chicago"
+   ],
+   "teamIds": [
+    "821",
+    "820"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "EastMidwest: 72/12 (28/50 ov)",
+   "summary": "EastMidwest: 72/12(28) Live"
+  },
+  {
+   "matchId": "2411",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2411&clubId=40319",
+   "date": "2023-09-17",
+   "type": "League",
+   "teams": [
+    "St Louis-WIM",
+    "Chicago"
+   ],
+   "teamIds": [
+    "822",
+    "820"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Chicago won by 3 Wickets",
+   "summary": "St Louis-WIM: 136/10(48.3) Chicago: 137/7(31.3)"
+  },
+  {
+   "matchId": "2398",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2398&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "St Louis-WIM",
+    "EastMidwest"
+   ],
+   "teamIds": [
+    "822",
+    "821"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "St Louis-WIM won by 1 Wicket",
+   "summary": "EastMidwest: 124/10(39.3) St Louis-WIM: 125/9(43.3)"
+  }
+ ]
+}

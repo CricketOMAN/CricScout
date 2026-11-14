@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s361",
+  "id": "legacy-33",
+  "name": "USAC Junior 2023 -Chicago Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:16:19.214Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=33&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=33&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2103",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2103&clubId=40319",
+   "date": "2023-07-22",
+   "type": "League",
+   "teams": [
+    "BPL Rising Star",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "612",
+    "610"
+   ],
+   "ground": "CMPRK",
+   "result": "BPL Rising Star won by 20 Runs",
+   "summary": "BPL Rising Star: 149/6(30) CMCE Falcons: 129/8(30)"
+  },
+  {
+   "matchId": "2081",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2081&clubId=40319",
+   "date": "2023-07-17",
+   "type": "League",
+   "teams": [
+    "BPL Rising Star",
+    "CYCA Cubs"
+   ],
+   "teamIds": [
+    "612",
+    "611"
+   ],
+   "ground": "BPL",
+   "result": "Abandoned. Winner: CYCA Cubs",
+   "summary": "BPL Rising Star: 163/6(30) CYCA Cubs: 131/1(24)"
+  },
+  {
+   "matchId": "2048",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2048&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "CMCE Falcons",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "610",
+    "609"
+   ],
+   "ground": "BPL",
+   "result": "CMCE Falcons won by 10 Wickets",
+   "summary": "CMCE Dragons: 45/8(23.2) CMCE Falcons: 49/0(7.2)"
+  },
+  {
+   "matchId": "1987",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1987&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "611",
+    "609"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Cubs won by 128 Runs",
+   "summary": "CYCA Cubs: 187/6(24.5) CMCE Dragons: 59/5(19)"
+  },
+  {
+   "matchId": "1983",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1983&clubId=40319",
+   "date": "2023-07-07",
+   "type": "League",
+   "teams": [
+    "CMCE Dragons",
+    "BPL Rising Star"
+   ],
+   "teamIds": [
+    "609",
+    "612"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Rising Star won by 7 Wickets",
+   "summary": "CMCE Dragons: 36/7(12.3) BPL Rising Star: 37/3(13.1)"
+  },
+  {
+   "matchId": "1946",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1946&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "BPL Rising Star"
+   ],
+   "teamIds": [
+    "611",
+    "612"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Cubs won by 10 Wickets",
+   "summary": "BPL Rising Star: 182/10(29.3) CYCA Cubs: 183/0(19.4)"
+  },
+  {
+   "matchId": "1932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1932&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "CMCE Dragons",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "609",
+    "610"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Falcons won by 208 Runs",
+   "summary": "CMCE Falcons: 230/6(30) CMCE Dragons: 22/8(11.5)"
+  },
+  {
+   "matchId": "1929",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1929&clubId=40319",
+   "date": "2023-06-23",
+   "type": "League",
+   "teams": [
+    "CMCE Falcons",
+    "CYCA Cubs"
+   ],
+   "teamIds": [
+    "610",
+    "611"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Cubs won by 120 Runs",
+   "summary": "CYCA Cubs: 226/7(30) CMCE Falcons: 106/10(20.1)"
+  },
+  {
+   "matchId": "1881",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1881&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "BPL Rising Star",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "612",
+    "609"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Rising Star won by 7 Wickets",
+   "summary": "CMCE Dragons: 59/9(29.3) BPL Rising Star: 60/3(9.1)"
+  },
+  {
+   "matchId": "1867",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1867&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "611",
+    "610"
+   ],
+   "ground": "DEEPRK",
+   "result": "CMCE Falcons won by 7 Wickets",
+   "summary": "CYCA Cubs: 129/7(27.4) CMCE Falcons: 130/3(25.5)"
+  },
+  {
+   "matchId": "1833",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1833&clubId=40319",
+   "date": "2023-06-16",
+   "type": "League",
+   "teams": [
+    "BPL Rising Star",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "612",
+    "610"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Rising Star won by 33 Runs",
+   "summary": "BPL Rising Star: 182/5(30) CMCE Falcons: 149/9(30)"
+  },
+  {
+   "matchId": "1696",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1696&clubId=40319",
+   "date": "2023-06-09",
+   "type": "League",
+   "teams": [
+    "CMCE Dragons",
+    "CYCA Cubs"
+   ],
+   "teamIds": [
+    "609",
+    "611"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Cubs won by 10 Wickets",
+   "summary": "CMCE Dragons: 88/6(27) CYCA Cubs: 89/0(7.4)"
+  }
+ ]
+}

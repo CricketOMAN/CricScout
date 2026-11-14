@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s106",
+  "id": "legacy-471",
+  "name": "USAC 2026 - New Jersey - U15"
+ },
+ "fetchedAt": "2026-11-13T21:52:05.701Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=471&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=471&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9082",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9082&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team MAROON"
+   ],
+   "teamIds": [
+    "3363",
+    "3366"
+   ],
+   "ground": "TBD",
+   "result": "Team MAROON won by 93 Runs",
+   "summary": "Team MAROON: 196/10(50) Team BLUE: 103/10(25.5)"
+  },
+  {
+   "matchId": "9081",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9081&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "Team RED",
+    "Team PURPLE"
+   ],
+   "teamIds": [
+    "3360",
+    "3364"
+   ],
+   "ground": "TBD",
+   "result": "It is a Tie (D/L)",
+   "summary": "Team RED: 138/11(35.4) Team PURPLE: 299/13(50)"
+  },
+  {
+   "matchId": "9080",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9080&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "Team YELLOW",
+    "Team ORANGE"
+   ],
+   "teamIds": [
+    "3361",
+    "3365"
+   ],
+   "ground": "TBD",
+   "result": "Team YELLOW won by 171 Runs",
+   "summary": "Team YELLOW: 248/7(50) Team ORANGE: 77/13(20.5)"
+  },
+  {
+   "matchId": "8912",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8912&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team MAROON"
+   ],
+   "teamIds": [
+    "3363",
+    "3366"
+   ],
+   "ground": "TBD",
+   "result": "Team BLUE: 217/8 (50/50 ov) Team MAROON: 18/1 (7/50 ov)",
+   "summary": "Team BLUE: 217/8(50) Team MAROON: 18/1(7) Live"
+  },
+  {
+   "matchId": "8910",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8910&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Team RED",
+    "Team PURPLE"
+   ],
+   "teamIds": [
+    "3360",
+    "3364"
+   ],
+   "ground": "TBD",
+   "result": "Team PURPLE: 241/10 (50/50 ov) Team RED: 16/1 (6/50 ov)",
+   "summary": "Team PURPLE: 241/10(50) Team RED: 16/1(6) Live"
+  },
+  {
+   "matchId": "8913",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8913&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "Team YELLOW",
+    "Team ORANGE"
+   ],
+   "teamIds": [
+    "3361",
+    "3365"
+   ],
+   "ground": "TBD",
+   "result": "Team YELLOW won by 1 Run (D/L)",
+   "summary": "Team ORANGE: 206/13(49.4) Team YELLOW: 272/9(50)"
+  },
+  {
+   "matchId": "8965",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8965&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "Team RED",
+    "Team ORANGE"
+   ],
+   "teamIds": [
+    "3360",
+    "3365"
+   ],
+   "ground": "TBD",
+   "result": "Team ORANGE won by 67 Runs (D/L)",
+   "summary": "Team ORANGE: 166/13(49.3) Team RED: 232/8(50)"
+  },
+  {
+   "matchId": "8962",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8962&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "Team YELLOW",
+    "Team MAROON"
+   ],
+   "teamIds": [
+    "3361",
+    "3366"
+   ],
+   "ground": "TBD",
+   "result": "Team YELLOW won by 187 Runs",
+   "summary": "Team YELLOW: 273/13(50) Team MAROON: 86/13(28)"
+  },
+  {
+   "matchId": "8961",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8961&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team PURPLE"
+   ],
+   "teamIds": [
+    "3363",
+    "3364"
+   ],
+   "ground": "TBD",
+   "result": "Team PURPLE won by 3 Runs",
+   "summary": "Team PURPLE: 192/13(41.5) Team BLUE: 189/11(50)"
+  },
+  {
+   "matchId": "8937",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8937&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Team PURPLE",
+    "Team MAROON"
+   ],
+   "teamIds": [
+    "3364",
+    "3366"
+   ],
+   "ground": "TBD",
+   "result": "Team MAROON won by 144 Runs (D/L)",
+   "summary": "Team MAROON: 257/6(50) Team PURPLE: 355/6(49.5)"
+  },
+  {
+   "matchId": "8935",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8935&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team ORANGE"
+   ],
+   "teamIds": [
+    "3363",
+    "3365"
+   ],
+   "ground": "TBD",
+   "result": "Team ORANGE won by 113 Runs",
+   "summary": "Team ORANGE: 193/12(45.4) Team BLUE: 80/12(26.3)"
+  },
+  {
+   "matchId": "8934",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8934&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Team RED",
+    "Team YELLOW"
+   ],
+   "teamIds": [
+    "3360",
+    "3361"
+   ],
+   "ground": "TBD",
+   "result": "Team YELLOW won by 3 Runs (D/L)",
+   "summary": "Team RED: 221/14(48.1) Team YELLOW: 232/11(50)"
+  },
+  {
+   "matchId": "8893",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8893&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "Team MAROON",
+    "Team RED"
+   ],
+   "teamIds": [
+    "3366",
+    "3360"
+   ],
+   "ground": "TBD",
+   "result": "Team RED won by 3 Runs (D/L)",
+   "summary": "Team RED: 194/12(39.4) Team MAROON: 242/6(45)"
+  },
+  {
+   "matchId": "8892",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8892&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team YELLOW"
+   ],
+   "teamIds": [
+    "3363",
+    "3361"
+   ],
+   "ground": "TBD",
+   "result": "Team YELLOW won by 6 Runs",
+   "summary": "Team YELLOW: 216/12(45) Team BLUE: 210/12(44.3)"
+  },
+  {
+   "matchId": "8891",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8891&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "Team PURPLE",
+    "Team ORANGE"
+   ],
+   "teamIds": [
+    "3364",
+    "3365"
+   ],
+   "ground": "TBD",
+   "result": "Team ORANGE won by 13 Runs",
+   "summary": "Team ORANGE: 139/12(40.3) Team PURPLE: 126/12(36.3)"
+  },
+  {
+   "matchId": "8875",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8875&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team RED",
+    "Team BLUE"
+   ],
+   "teamIds": [
+    "3360",
+    "3363"
+   ],
+   "ground": "Thomas Jefferson",
+   "result": "Team RED won by 4 Runs (D/L)",
+   "summary": "Team RED: 127/10(28) Team BLUE: 265/12(42.5)"
+  },
+  {
+   "matchId": "8874",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8874&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team ORANGE",
+    "Team MAROON"
+   ],
+   "teamIds": [
+    "3365",
+    "3366"
+   ],
+   "ground": "TBD",
+   "result": "Team MAROON won by 79 Runs",
+   "summary": "Team MAROON: 239/10(45) Team ORANGE: 160/12(32)"
+  },
+  {
+   "matchId": "8873",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8873&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team YELLOW",
+    "Team PURPLE"
+   ],
+   "teamIds": [
+    "3361",
+    "3364"
+   ],
+   "ground": "TBD",
+   "result": "Team YELLOW won by 21 Runs",
+   "summary": "Team YELLOW: 201/12(42.5) Team PURPLE: 180/11(45)"
+  }
+ ]
+}

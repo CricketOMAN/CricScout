@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s35",
+  "id": "legacy-558",
+  "name": "USAC 2026 - DC - U13 Phase 2"
+ },
+ "fetchedAt": "2026-11-13T21:41:02.496Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=558&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=558&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8880",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8880&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3298",
+    "3300"
+   ],
+   "ground": "Bolen 19",
+   "result": "Team Green won by 6 Wickets",
+   "summary": "Team Red: 131/10(24) Team Green: 132/4(21.2)"
+  },
+  {
+   "matchId": "8879",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8879&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3299",
+    "3301"
+   ],
+   "ground": "Bolen 18",
+   "result": "Team Blue won by 69 Runs",
+   "summary": "Team Blue: 154/5(25) Team Yellow: 85/10(19.3)"
+  },
+  {
+   "matchId": "8869",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8869&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3298",
+    "3301"
+   ],
+   "ground": "Bolen 18",
+   "result": "Team Red won by 34 Runs",
+   "summary": "Team Red: 190/8(30) Team Yellow: 156/9(30)"
+  },
+  {
+   "matchId": "8867",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8867&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3299",
+    "3300"
+   ],
+   "ground": "Bolen 19",
+   "result": "Team Green won by 60 Runs",
+   "summary": "Team Green: 173/7(30) Team Blue: 113/8(30)"
+  },
+  {
+   "matchId": "8856",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8856&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3298",
+    "3300"
+   ],
+   "ground": "Bolen 18",
+   "result": "Team Red won by 4 Wickets",
+   "summary": "Team Green: 227/4(40) Team Red: 228/6(38.3)"
+  },
+  {
+   "matchId": "8855",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8855&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3299",
+    "3301"
+   ],
+   "ground": "Bolen 19",
+   "result": "Team Blue won by 2 Wickets (D/L)",
+   "summary": "Team Yellow: 106/10(33) Team Blue: 142/8(28.1)"
+  },
+  {
+   "matchId": "8840",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8840&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3300",
+    "3301"
+   ],
+   "ground": "Bolen 19",
+   "result": "Team Green won by 6 Wickets (D/L)",
+   "summary": "Team Yellow: 189/9(36) Team Green: 250/4(39.5)"
+  },
+  {
+   "matchId": "8839",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8839&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3298",
+    "3299"
+   ],
+   "ground": "Bolen 18",
+   "result": "Team Red won by 1 Wicket",
+   "summary": "Team Blue: 243/7(40) Team Red: 244/9(38.2)"
+  }
+ ]
+}

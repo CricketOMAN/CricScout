@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s232",
+  "id": "legacy-235",
+  "name": "USAC Junior 2024 - Seattle Hub U13 Phase 2"
+ },
+ "fetchedAt": "2026-11-13T22:39:19.939Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=235&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=235&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3912",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3912&clubId=40319",
+   "date": "2024-08-15",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Red"
+   ],
+   "teamIds": [
+    "1355",
+    "1354"
+   ],
+   "ground": "Marymoor Park",
+   "result": "Red won by 18 Runs (D/L)",
+   "summary": "Red: 94/12(32.5) Blue: 161/10(30.5)"
+  },
+  {
+   "matchId": "3907",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3907&clubId=40319",
+   "date": "2024-08-14",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "1354",
+    "1355"
+   ],
+   "ground": "Marymoor Park",
+   "result": "Blue won by 94 Runs",
+   "summary": "Blue: 175/9(35) Red: 81/12(32.1)"
+  },
+  {
+   "matchId": "3900",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3900&clubId=40319",
+   "date": "2024-08-13",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Red"
+   ],
+   "teamIds": [
+    "1355",
+    "1354"
+   ],
+   "ground": "Marymoor Park",
+   "result": "Red won by 17 Runs (D/L)",
+   "summary": "Red: 168/3(35) Blue: 192/9(35)"
+  }
+ ]
+}

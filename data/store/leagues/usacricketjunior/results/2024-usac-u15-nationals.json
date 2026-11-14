@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s217",
+  "id": "legacy-254",
+  "name": "2024 USAC U15 - Nationals"
+ },
+ "fetchedAt": "2026-11-13T22:36:37.532Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=254&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=254&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4222",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4222&clubId=40319",
+   "date": "2024-11-11",
+   "type": "Final",
+   "teams": [
+    "Bay Area - Warriors",
+    "Team NJ"
+   ],
+   "teamIds": [
+    "1426",
+    "1429"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Team NJ won by 2 Wickets",
+   "summary": "Bay Area - Warriors: 165/9(39) Team NJ: 166/8(38.2)"
+  },
+  {
+   "matchId": "4221",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4221&clubId=40319",
+   "date": "2024-11-11",
+   "type": "3rd Position",
+   "teams": [
+    "Team DC",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1428",
+    "1427"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Team DC won by 72 Runs",
+   "summary": "Team DC: 190/8(40) Missouri: 118/10(26.4)"
+  },
+  {
+   "matchId": "4220",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4220&clubId=40319",
+   "date": "2024-11-10",
+   "type": "League",
+   "teams": [
+    "Bay Area - Warriors",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1426",
+    "1427"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Bay Area - Warriors won by 3 Runs (D/L)",
+   "summary": "Bay Area - Warriors: 211/5(38) Missouri: 152/6(26)"
+  },
+  {
+   "matchId": "4219",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4219&clubId=40319",
+   "date": "2024-11-10",
+   "type": "League",
+   "teams": [
+    "Team DC",
+    "Team NJ"
+   ],
+   "teamIds": [
+    "1428",
+    "1429"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Team NJ won by 27 Runs (D/L)",
+   "summary": "Team NJ: 184/9(35) Team DC: 92/7(20)"
+  },
+  {
+   "matchId": "4210",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4210&clubId=40319",
+   "date": "2024-11-09",
+   "type": "League",
+   "teams": [
+    "Bay Area - Warriors",
+    "Team NJ"
+   ],
+   "teamIds": [
+    "1426",
+    "1429"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Bay Area - Warriors won by 4 Wickets",
+   "summary": "Team NJ: 111/10(40) Bay Area - Warriors: 112/6(33.5)"
+  },
+  {
+   "matchId": "4209",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4209&clubId=40319",
+   "date": "2024-11-09",
+   "type": "League",
+   "teams": [
+    "Missouri",
+    "Team DC"
+   ],
+   "teamIds": [
+    "1427",
+    "1428"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Team DC won by 1 Wicket",
+   "summary": "Missouri: 131/10(34.5) Team DC: 134/9(37.4)"
+  },
+  {
+   "matchId": "4206",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4206&clubId=40319",
+   "date": "2024-11-08",
+   "type": "League",
+   "teams": [
+    "Missouri",
+    "Team NJ"
+   ],
+   "teamIds": [
+    "1427",
+    "1429"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Team NJ won by 4 Wickets",
+   "summary": "Missouri: 146/9(40) Team NJ: 147/6(35.4)"
+  },
+  {
+   "matchId": "4205",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4205&clubId=40319",
+   "date": "2024-11-08",
+   "type": "League",
+   "teams": [
+    "Bay Area - Warriors",
+    "Team DC"
+   ],
+   "teamIds": [
+    "1426",
+    "1428"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Bay Area - Warriors won by 41 Runs",
+   "summary": "Bay Area - Warriors: 219/7(40) Team DC: 178/10(37.4)"
+  }
+ ]
+}

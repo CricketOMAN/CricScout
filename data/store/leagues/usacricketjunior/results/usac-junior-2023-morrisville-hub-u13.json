@@ -1,0 +1,252 @@
+{
+ "season": {
+  "key": "s332",
+  "id": "legacy-74",
+  "name": "USAC Junior 2023 -Morrisville Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:10:59.110Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=74&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=74&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2076",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2076&clubId=40319",
+   "date": "2023-07-16",
+   "type": "League",
+   "teams": [
+    "The NC Lords",
+    "The NC Edens"
+   ],
+   "teamIds": [
+    "581",
+    "579"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "The NC Edens won by 7 Wickets",
+   "summary": "The NC Lords: 96/10(29.1) The NC Edens: 97/3(22.2)"
+  },
+  {
+   "matchId": "2071",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2071&clubId=40319",
+   "date": "2023-07-16",
+   "type": "League",
+   "teams": [
+    "The NC Bourdas",
+    "The NC Gabbas"
+   ],
+   "teamIds": [
+    "578",
+    "577"
+   ],
+   "ground": "NC Hub Harvel Park",
+   "result": "The NC Bourdas won by 5 Wickets",
+   "summary": "The NC Gabbas: 117/10(21.5) The NC Bourdas: 118/5(27.1)"
+  },
+  {
+   "matchId": "2020",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2020&clubId=40319",
+   "date": "2023-07-09",
+   "type": "League",
+   "teams": [
+    "The NC Bourdas",
+    "The NC Gabbas"
+   ],
+   "teamIds": [
+    "578",
+    "577"
+   ],
+   "ground": "NC Hub - CCNP",
+   "result": "The NC Gabbas: 139/9 (27.3/30 ov) The NC Bourdas: 54/0 (6.5/30 ov)",
+   "summary": "The NC Gabbas: 139/9(27.3) The NC Bourdas: 54/0(6.5) Live"
+  },
+  {
+   "matchId": "1953",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1953&clubId=40319",
+   "date": "2023-06-25",
+   "type": "League",
+   "teams": [
+    "The NC Edens",
+    "The NC Lords"
+   ],
+   "teamIds": [
+    "579",
+    "581"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "The NC Edens won by 9 Runs",
+   "summary": "The NC Edens: 164/4(30) The NC Lords: 155/8(30)"
+  },
+  {
+   "matchId": "1952",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1952&clubId=40319",
+   "date": "2023-06-25",
+   "type": "League",
+   "teams": [
+    "The NC Bourdas",
+    "The NC Gabbas"
+   ],
+   "teamIds": [
+    "578",
+    "577"
+   ],
+   "ground": "NC Hub Harvel Park",
+   "result": "The NC Bourdas won by 58 Runs",
+   "summary": "The NC Bourdas: 148/7(30) The NC Gabbas: 90/10(22)"
+  },
+  {
+   "matchId": "1900",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1900&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "The NC Lords",
+    "The NC Edens"
+   ],
+   "teamIds": [
+    "581",
+    "579"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "The NC Edens won by 6 Wickets",
+   "summary": "The NC Lords: 135/8(30) The NC Edens: 136/4(25.4)"
+  },
+  {
+   "matchId": "1884",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1884&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "The NC Bourdas",
+    "The NC Gabbas"
+   ],
+   "teamIds": [
+    "578",
+    "577"
+   ],
+   "ground": "NC Hub Harvel Park",
+   "result": "The NC Gabbas won by 8 Wickets",
+   "summary": "The NC Bourdas: 123/8(18.2) The NC Gabbas: 124/2(19)"
+  },
+  {
+   "matchId": "1774",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1774&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "The NC Bourdas",
+    "The NC Gabbas"
+   ],
+   "teamIds": [
+    "578",
+    "577"
+   ],
+   "ground": "NC Hub - CCNP",
+   "result": "The NC Gabbas won by 29 Runs",
+   "summary": "The NC Gabbas: 147/10(22.1) The NC Bourdas: 118/10(21.4)"
+  },
+  {
+   "matchId": "1669",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1669&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "The NC Edens",
+    "The NC Lords"
+   ],
+   "teamIds": [
+    "579",
+    "581"
+   ],
+   "ground": "NC Hub - Piney Grove",
+   "result": "The NC Edens: 126/5 (20/20 ov)",
+   "summary": "The NC Edens: 126/5(20) Live"
+  },
+  {
+   "matchId": "1668",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1668&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "The NC Lords",
+    "The NC Edens"
+   ],
+   "teamIds": [
+    "581",
+    "579"
+   ],
+   "ground": "NC Hub-Shiloh Baseball",
+   "result": "The NC Edens won by 9 Wickets",
+   "summary": "The NC Lords: 93/10(23.1) The NC Edens: 94/1(13)"
+  },
+  {
+   "matchId": "1649",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1649&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "The NC Gabbas",
+    "The NC Bourdas"
+   ],
+   "teamIds": [
+    "577",
+    "578"
+   ],
+   "ground": "NC Hub Harvel Park",
+   "result": "The NC Bourdas won by 3 Wickets",
+   "summary": "The NC Gabbas: 172/3(30) The NC Bourdas: 178/7(27.4)"
+  },
+  {
+   "matchId": "1385",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1385&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "The NC Gabbas",
+    "The NC Saharas"
+   ],
+   "teamIds": [
+    "577",
+    "580"
+   ],
+   "ground": "NC Hub-Shiloh Baseball",
+   "result": "The NC Gabbas won by 4 Wickets",
+   "summary": "The NC Saharas: 132/6(17.2) The NC Gabbas: 133/6(18.5)"
+  },
+  {
+   "matchId": "1384",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1384&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "The NC Edens",
+    "The NC Sabinas"
+   ],
+   "teamIds": [
+    "579",
+    "582"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "The NC Edens won by 1 Run",
+   "summary": "The NC Edens: 203/5(21.5) The NC Sabinas: 202/8(29.2)"
+  },
+  {
+   "matchId": "1338",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1338&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "The NC Bourdas",
+    "The NC Lords"
+   ],
+   "teamIds": [
+    "578",
+    "581"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "The NC Bourdas won by 165 Runs",
+   "summary": "The NC Bourdas: 209/6(30) The NC Lords: 44/7(9.2)"
+  }
+ ]
+}

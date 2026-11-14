@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s6",
+  "id": "legacy-601",
+  "name": "USAC 2026 - Eastern Sub-conference U13 Dev"
+ },
+ "fetchedAt": "2026-11-13T21:39:51.911Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=601&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=601&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9416",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9416&clubId=40319",
+   "date": "2026-08-30",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "3519",
+    "3520"
+   ],
+   "ground": "TBD",
+   "result": "AYCA U13 won by 36 Runs",
+   "summary": "AYCA U13: 152/5(25) ICY U13: 116/9(24)"
+  },
+  {
+   "matchId": "9397",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9397&clubId=40319",
+   "date": "2026-08-30",
+   "type": "League",
+   "teams": [
+    "AYCA U13",
+    "ICY U13"
+   ],
+   "teamIds": [
+    "3520",
+    "3519"
+   ],
+   "ground": "TBD",
+   "result": "ICY U13 won by 7 Wickets",
+   "summary": "AYCA U13: 100/8(25) ICY U13: 101/3(21.5)"
+  },
+  {
+   "matchId": "9355",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9355&clubId=40319",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "3519",
+    "3520"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "ICY U13 won by 4 Wickets",
+   "summary": "AYCA U13: 110/11(23.1) ICY U13: 111/6(24.2)"
+  },
+  {
+   "matchId": "9353",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9353&clubId=40319",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "AYCA U13",
+    "ICY U13"
+   ],
+   "teamIds": [
+    "3520",
+    "3519"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "ICY U13 won by 5 Wickets",
+   "summary": "AYCA U13: 82/11(16.4) ICY U13: 83/5(18)"
+  }
+ ]
+}

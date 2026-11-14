@@ -1,0 +1,694 @@
+{
+ "season": {
+  "key": "s308",
+  "id": "legacy-87",
+  "name": "USAC Youth 2023 - Dallas Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:08:25.926Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=87&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=87&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1880",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1880&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks",
+    "MCA Toyger"
+   ],
+   "teamIds": [
+    "208",
+    "213"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Toyger won by 289 Runs",
+   "summary": "MCA Toyger: 451/7(40) DYCL Sharks: 162/8(40)"
+  },
+  {
+   "matchId": "1879",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1879&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers",
+    "MCA Serval"
+   ],
+   "teamIds": [
+    "207",
+    "212"
+   ],
+   "ground": "Garland CG3",
+   "result": "MCA Serval won by 8 Wickets",
+   "summary": "DYCL Panthers: 60/9(18.3) MCA Serval: 61/2(9.2)"
+  },
+  {
+   "matchId": "1765",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1765&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "TCA Knights",
+    "DYCL Sharks"
+   ],
+   "teamIds": [
+    "214",
+    "208"
+   ],
+   "ground": "Russell Creek G7",
+   "result": "TCA Knights won by 208 Runs",
+   "summary": "TCA Knights: 282/7(40) DYCL Sharks: 74/10(31.2)"
+  },
+  {
+   "matchId": "1722",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1722&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "DYCL Jaguars"
+   ],
+   "teamIds": [
+    "213",
+    "206"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Toyger won by 28 Runs",
+   "summary": "MCA Toyger: 187/9(40) DYCL Jaguars: 159/10(31.3)"
+  },
+  {
+   "matchId": "1712",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1712&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "TIC Hi-Riders",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "215",
+    "207"
+   ],
+   "ground": "NMCG 2",
+   "result": "TIC Hi-Riders won by 216 Runs",
+   "summary": "TIC Hi-Riders: 264/8(40) DYCL Panthers: 48/10(18.2)"
+  },
+  {
+   "matchId": "1643",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1643&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "TCA Knights",
+    "MCA Cheetahs"
+   ],
+   "teamIds": [
+    "214",
+    "211"
+   ],
+   "ground": "Garland CG3",
+   "result": "TCA Knights won by 8 Wickets",
+   "summary": "MCA Cheetahs: 291/8(40) TCA Knights: 292/2(36.1)"
+  },
+  {
+   "matchId": "1636",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1636&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks",
+    "TIC Hi-Riders"
+   ],
+   "teamIds": [
+    "208",
+    "215"
+   ],
+   "ground": "Sandy Lake",
+   "result": "Forfeited. Winner: TIC Hi-Riders",
+   "summary": "DYCL Sharks: 0/0(0)"
+  },
+  {
+   "matchId": "1635",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1635&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "206",
+    "207"
+   ],
+   "ground": "Garland CG3",
+   "result": "Forfeited. Winner: DYCL Jaguars",
+   "summary": "DYCL Jaguars: 0/0(0)"
+  },
+  {
+   "matchId": "1578",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1578&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "213",
+    "210"
+   ],
+   "ground": "Sandy Lake",
+   "result": "HPC Avengers won by 96 Runs",
+   "summary": "HPC Avengers: 248/4(35) MCA Toyger: 152/9(26)"
+  },
+  {
+   "matchId": "1514",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1514&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "HPC Avengers",
+    "TCA Knights"
+   ],
+   "teamIds": [
+    "210",
+    "214"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Knights won by 4 Wickets",
+   "summary": "HPC Avengers: 201/4(40) TCA Knights: 205/6(37.1)"
+  },
+  {
+   "matchId": "1469",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1469&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers",
+    "MCA Cheetahs"
+   ],
+   "teamIds": [
+    "207",
+    "211"
+   ],
+   "ground": "Russell Creek G7",
+   "result": "Forfeited. Winner: MCA Cheetahs",
+   "summary": "DYCL Panthers: 0/0(0)"
+  },
+  {
+   "matchId": "1460",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1460&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "TIC Hi-Riders",
+    "FCCA Commanders"
+   ],
+   "teamIds": [
+    "215",
+    "209"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "TIC Hi-Riders won by 7 Wickets",
+   "summary": "FCCA Commanders: 55/10(19.2) TIC Hi-Riders: 56/3(8.3)"
+  },
+  {
+   "matchId": "1402",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1402&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers",
+    "DYCL Sharks"
+   ],
+   "teamIds": [
+    "207",
+    "208"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Panthers won by 134 Runs",
+   "summary": "DYCL Panthers: 230/6(35) DYCL Sharks: 96/10(22.2)"
+  },
+  {
+   "matchId": "1401",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1401&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "TCA Knights"
+   ],
+   "teamIds": [
+    "213",
+    "214"
+   ],
+   "ground": "Garland CG3",
+   "result": "Abandoned.",
+   "summary": "TCA Knights: 290/8(37)"
+  },
+  {
+   "matchId": "1352",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1352&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars",
+    "MCA Serval"
+   ],
+   "teamIds": [
+    "206",
+    "212"
+   ],
+   "ground": "Lewisville CG",
+   "result": "DYCL Jaguars won by 6 Wickets",
+   "summary": "MCA Serval: 186/9(36) DYCL Jaguars: 189/4(30.5)"
+  },
+  {
+   "matchId": "1337",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1337&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "MCA Cheetahs"
+   ],
+   "teamIds": [
+    "209",
+    "211"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Cheetahs won by 4 Wickets",
+   "summary": "FCCA Commanders: 162/11(39.1) MCA Cheetahs: 165/6(31)"
+  },
+  {
+   "matchId": "1812",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1812&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "209",
+    "207"
+   ],
+   "ground": "BF Philips",
+   "result": "Abandoned.",
+   "summary": "FCCA Commanders: 0/0(0)"
+  },
+  {
+   "matchId": "1298",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1298&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "HPC Avengers",
+    "TIC Hi-Riders"
+   ],
+   "teamIds": [
+    "210",
+    "215"
+   ],
+   "ground": "Horseshoe",
+   "result": "TIC Hi-Riders won by 29 Runs",
+   "summary": "TIC Hi-Riders: 242/5(40) HPC Avengers: 213/9(40)"
+  },
+  {
+   "matchId": "1195",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1195&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "HPC Avengers",
+    "MCA Serval"
+   ],
+   "teamIds": [
+    "210",
+    "212"
+   ],
+   "ground": "Garland CG3",
+   "result": "HPC Avengers won by 91 Runs",
+   "summary": "HPC Avengers: 192/9(40) MCA Serval: 101/10(25.4)"
+  },
+  {
+   "matchId": "1194",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1194&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "TIC Hi-Riders",
+    "MCA Toyger"
+   ],
+   "teamIds": [
+    "215",
+    "213"
+   ],
+   "ground": "Horseshoe",
+   "result": "TIC Hi-Riders won by 98 Runs",
+   "summary": "TIC Hi-Riders: 218/10(38.2) MCA Toyger: 120/10(23.5)"
+  },
+  {
+   "matchId": "1813",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1813&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks",
+    "FCCA Commanders"
+   ],
+   "teamIds": [
+    "208",
+    "209"
+   ],
+   "ground": "BF Philips",
+   "result": "Abandoned.",
+   "summary": "DYCL Sharks: 0/0(0)"
+  },
+  {
+   "matchId": "1127",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1127&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "TCA Knights"
+   ],
+   "teamIds": [
+    "212",
+    "214"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Knights won by 8 Wickets",
+   "summary": "MCA Serval: 171/10(36) TCA Knights: 172/2(23.3)"
+  },
+  {
+   "matchId": "1101",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1101&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "DYCL Jaguars"
+   ],
+   "teamIds": [
+    "211",
+    "206"
+   ],
+   "ground": "Sandy Lake",
+   "result": "DYCL Jaguars won by 8 Wickets",
+   "summary": "MCA Cheetahs: 122/10(28) DYCL Jaguars: 123/2(28.2)"
+  },
+  {
+   "matchId": "1046",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1046&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "TCA Knights",
+    "TIC Hi-Riders"
+   ],
+   "teamIds": [
+    "214",
+    "215"
+   ],
+   "ground": "NMCG 1",
+   "result": "TIC Hi-Riders won by 12 Runs",
+   "summary": "TIC Hi-Riders: 289/7(40) TCA Knights: 277/6(40)"
+  },
+  {
+   "matchId": "1045",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1045&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "FCCA Commanders"
+   ],
+   "teamIds": [
+    "212",
+    "209"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Commanders won by 7 Wickets",
+   "summary": "MCA Serval: 207/10(38.4) FCCA Commanders: 211/3(38.1)"
+  },
+  {
+   "matchId": "1034",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1034&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "MCA Toyger"
+   ],
+   "teamIds": [
+    "211",
+    "213"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Toyger won by 6 Wickets",
+   "summary": "MCA Cheetahs: 230/8(40) MCA Toyger: 233/4(33.5)"
+  },
+  {
+   "matchId": "1013",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1013&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "206",
+    "210"
+   ],
+   "ground": "Garland CG3",
+   "result": "HPC Avengers won by 75 Runs",
+   "summary": "HPC Avengers: 194/10(38) DYCL Jaguars: 119/10(33.1)"
+  },
+  {
+   "matchId": "960",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=960&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "TIC Hi-Riders"
+   ],
+   "teamIds": [
+    "211",
+    "215"
+   ],
+   "ground": "NMCG 1",
+   "result": "TIC Hi-Riders won by 118 Runs",
+   "summary": "TIC Hi-Riders: 230/4(40) MCA Cheetahs: 112/10(26.2)"
+  },
+  {
+   "matchId": "951",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=951&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "MCA Toyger"
+   ],
+   "teamIds": [
+    "212",
+    "213"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Toyger won by 74 Runs",
+   "summary": "MCA Toyger: 208/10(36.2) MCA Serval: 134/10(24.3)"
+  },
+  {
+   "matchId": "950",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=950&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks",
+    "DYCL Jaguars"
+   ],
+   "teamIds": [
+    "208",
+    "206"
+   ],
+   "ground": "Alma Ground",
+   "result": "DYCL Jaguars won by 90 Runs",
+   "summary": "DYCL Jaguars: 161/10(33.2) DYCL Sharks: 71/10(22)"
+  },
+  {
+   "matchId": "949",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=949&clubId=40319",
+   "date": "2023-04-08",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "209",
+    "210"
+   ],
+   "ground": "BF Philips",
+   "result": "HPC Avengers won by 6 Wickets",
+   "summary": "FCCA Commanders: 159/10(38) HPC Avengers: 160/4(21.5)"
+  },
+  {
+   "matchId": "944",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=944&clubId=40319",
+   "date": "2023-04-08",
+   "type": "League",
+   "teams": [
+    "TCA Knights",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "214",
+    "207"
+   ],
+   "ground": "Alma Ground",
+   "result": "TCA Knights won by 216 Runs",
+   "summary": "TCA Knights: 269/5(40) DYCL Panthers: 53/10(15.2)"
+  },
+  {
+   "matchId": "941",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=941&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "FCCA Commanders"
+   ],
+   "teamIds": [
+    "213",
+    "209"
+   ],
+   "ground": "BF Philips",
+   "result": "Abandoned.",
+   "summary": "MCA Toyger: 67/1(12)"
+  },
+  {
+   "matchId": "934",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=934&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "TIC Hi-Riders",
+    "MCA Serval"
+   ],
+   "teamIds": [
+    "215",
+    "212"
+   ],
+   "ground": "Horseshoe",
+   "result": "TIC Hi-Riders won by 114 Runs",
+   "summary": "TIC Hi-Riders: 262/10(38.1) MCA Serval: 148/10(28.5)"
+  },
+  {
+   "matchId": "933",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=933&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "207",
+    "210"
+   ],
+   "ground": "Grand Prairie CG",
+   "result": "HPC Avengers won by 7 Wickets",
+   "summary": "DYCL Panthers: 152/9(40) HPC Avengers: 153/3(17.1)"
+  },
+  {
+   "matchId": "932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=932&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars",
+    "TCA Knights"
+   ],
+   "teamIds": [
+    "206",
+    "214"
+   ],
+   "ground": "Alma Ground",
+   "result": "TCA Knights won by 98 Runs",
+   "summary": "TCA Knights: 219/7(40) DYCL Jaguars: 121/10(26.1)"
+  },
+  {
+   "matchId": "929",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=929&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "DYCL Sharks"
+   ],
+   "teamIds": [
+    "211",
+    "208"
+   ],
+   "ground": "Alma Ground",
+   "result": "MCA Cheetahs won by 10 Wickets",
+   "summary": "DYCL Sharks: 45/10(15.3) MCA Cheetahs: 47/0(3.3)"
+  },
+  {
+   "matchId": "914",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=914&clubId=40319",
+   "date": "2023-03-26",
+   "type": "League",
+   "teams": [
+    "HPC Avengers",
+    "MCA Cheetahs"
+   ],
+   "teamIds": [
+    "210",
+    "211"
+   ],
+   "ground": "Horseshoe",
+   "result": "HPC Avengers won by 3 Wickets",
+   "summary": "MCA Cheetahs: 229/5(40) HPC Avengers: 230/7(39.2)"
+  },
+  {
+   "matchId": "913",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=913&clubId=40319",
+   "date": "2023-03-26",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "DYCL Jaguars"
+   ],
+   "teamIds": [
+    "209",
+    "206"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL Jaguars won by 5 Wickets",
+   "summary": "FCCA Commanders: 168/10(32.4) DYCL Jaguars: 171/5(32.3)"
+  },
+  {
+   "matchId": "911",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=911&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "DYCL Sharks"
+   ],
+   "teamIds": [
+    "212",
+    "208"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Serval won by 368 Runs",
+   "summary": "MCA Serval: 394/3(40) DYCL Sharks: 26/9(11.2)"
+  }
+ ]
+}

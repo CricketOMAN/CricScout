@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s225",
+  "id": "legacy-245",
+  "name": "USAC Junior 2024 - Missouri Inter-Hub Regionals U15"
+ },
+ "fetchedAt": "2026-11-13T22:39:14.019Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=245&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=245&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3934",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3934&clubId=40319",
+   "date": "2024-08-18",
+   "type": "League",
+   "teams": [
+    "STL_U15",
+    "ICE ROYALS - U15"
+   ],
+   "teamIds": [
+    "1375",
+    "1377"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE ROYALS - U15 won by 28 Runs",
+   "summary": "ICE ROYALS - U15: 114/7(30) STL_U15: 86/10(28.2)"
+  },
+  {
+   "matchId": "3933",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3933&clubId=40319",
+   "date": "2024-08-18",
+   "type": "League",
+   "teams": [
+    "WIM_U15",
+    "ICE SUPERKINGS - U15"
+   ],
+   "teamIds": [
+    "1376",
+    "1378"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE SUPERKINGS - U15 won by 163 Runs",
+   "summary": "ICE SUPERKINGS - U15: 195/4(30) WIM_U15: 32/10(10.4)"
+  },
+  {
+   "matchId": "3931",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3931&clubId=40319",
+   "date": "2024-08-17",
+   "type": "League",
+   "teams": [
+    "ICE ROYALS - U15",
+    "ICE SUPERKINGS - U15"
+   ],
+   "teamIds": [
+    "1377",
+    "1378"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE ROYALS - U15 won by 6 Runs",
+   "summary": "ICE ROYALS - U15: 122/6(30) ICE SUPERKINGS - U15: 116/7(30)"
+  },
+  {
+   "matchId": "3921",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3921&clubId=40319",
+   "date": "2024-08-17",
+   "type": "League",
+   "teams": [
+    "STL_U15",
+    "ICE SUPERKINGS - U15"
+   ],
+   "teamIds": [
+    "1375",
+    "1378"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE SUPERKINGS - U15 won by 8 Runs",
+   "summary": "ICE SUPERKINGS - U15: 155/7(30) STL_U15: 147/8(30)"
+  },
+  {
+   "matchId": "3920",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3920&clubId=40319",
+   "date": "2024-08-17",
+   "type": "League",
+   "teams": [
+    "WIM_U15",
+    "ICE ROYALS - U15"
+   ],
+   "teamIds": [
+    "1376",
+    "1377"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE ROYALS - U15 won by 148 Runs",
+   "summary": "ICE ROYALS - U15: 184/9(30) WIM_U15: 36/9(15)"
+  },
+  {
+   "matchId": "3916",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3916&clubId=40319",
+   "date": "2024-08-16",
+   "type": "League",
+   "teams": [
+    "STL_U15",
+    "WIM_U15"
+   ],
+   "teamIds": [
+    "1375",
+    "1376"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "STL_U15 won by 9 Wickets",
+   "summary": "WIM_U15: 67/10(26.5) STL_U15: 68/1(10)"
+  }
+ ]
+}

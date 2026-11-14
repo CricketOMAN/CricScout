@@ -1,0 +1,524 @@
+{
+ "season": {
+  "key": "s104",
+  "id": "legacy-473",
+  "name": "USAC 2026 - CT Hub U13"
+ },
+ "fetchedAt": "2026-11-13T21:49:54.485Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=473&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=473&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8905",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8905&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors A",
+    "CCA Warriors"
+   ],
+   "teamIds": [
+    "2757",
+    "2753"
+   ],
+   "ground": "Danbury",
+   "result": "KRCA CT Warriors A won by 10 Wickets",
+   "summary": "CCA Warriors: 25/10(14.4) KRCA CT Warriors A: 26/0(4.1)"
+  },
+  {
+   "matchId": "8806",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8806&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors A",
+    "NMCC Dragon"
+   ],
+   "teamIds": [
+    "2757",
+    "2755"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Warriors A won by 7 Wickets",
+   "summary": "NMCC Dragon: 76/10(25) KRCA CT Warriors A: 77/3(12.2)"
+  },
+  {
+   "matchId": "8774",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8774&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "CCA Warriors",
+    "KRCA CT Warriors B"
+   ],
+   "teamIds": [
+    "2753",
+    "2758"
+   ],
+   "ground": "New Milford",
+   "result": "CCA Warriors won by 7 Wickets",
+   "summary": "KRCA CT Warriors B: 128/10(23.1) CCA Warriors: 132/3(20.1)"
+  },
+  {
+   "matchId": "8709",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8709&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors A",
+    "NMCC Lions"
+   ],
+   "teamIds": [
+    "2757",
+    "2754"
+   ],
+   "ground": "Maxwell",
+   "result": "NMCC Lions won by 1 Run",
+   "summary": "NMCC Lions: 125/7(25) KRCA CT Warriors A: 124/7(25)"
+  },
+  {
+   "matchId": "8708",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8708&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "NMCC Dragon",
+    "PCA Panthers"
+   ],
+   "teamIds": [
+    "2755",
+    "2756"
+   ],
+   "ground": "Danbury",
+   "result": "PCA Panthers won by 74 Runs",
+   "summary": "PCA Panthers: 147/5(25) NMCC Dragon: 73/8(25)"
+  },
+  {
+   "matchId": "8670",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8670&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "NMCC Lions",
+    "KRCA CT Warriors B"
+   ],
+   "teamIds": [
+    "2754",
+    "2758"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Lions won by 9 Wickets",
+   "summary": "KRCA CT Warriors B: 84/9(24.3) NMCC Lions: 85/1(7.4)"
+  },
+  {
+   "matchId": "8667",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8667&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors A",
+    "CCA Warriors"
+   ],
+   "teamIds": [
+    "2757",
+    "2753"
+   ],
+   "ground": "WATERBURY",
+   "result": "KRCA CT Warriors A won by 117 Runs",
+   "summary": "KRCA CT Warriors A: 187/4(25) CCA Warriors: 70/10(20)"
+  },
+  {
+   "matchId": "8571",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8571&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "CCA Warriors",
+    "NMCC Dragon"
+   ],
+   "teamIds": [
+    "2753",
+    "2755"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Dragon won by 7 Wickets",
+   "summary": "CCA Warriors: 78/10(24.5) NMCC Dragon: 80/3(15)"
+  },
+  {
+   "matchId": "8566",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8566&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors A",
+    "PCA Panthers"
+   ],
+   "teamIds": [
+    "2757",
+    "2756"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Warriors A won by 71 Runs",
+   "summary": "KRCA CT Warriors A: 162/6(25) PCA Panthers: 91/6(25.1)"
+  },
+  {
+   "matchId": "8540",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8540&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "NMCC Lions",
+    "KRCA CT Warriors B"
+   ],
+   "teamIds": [
+    "2754",
+    "2758"
+   ],
+   "ground": "New Milford",
+   "result": "NMCC Lions won by 169 Runs",
+   "summary": "NMCC Lions: 202/4(25) KRCA CT Warriors B: 33/10(16.4)"
+  },
+  {
+   "matchId": "8490",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8490&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "PCA Panthers",
+    "CCA Warriors"
+   ],
+   "teamIds": [
+    "2756",
+    "2753"
+   ],
+   "ground": "WATERBURY",
+   "result": "PCA Panthers won by 8 Wickets",
+   "summary": "CCA Warriors: 77/10(24.2) PCA Panthers: 79/2(11.2)"
+  },
+  {
+   "matchId": "8488",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8488&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "NMCC Dragon",
+    "KRCA CT Warriors A"
+   ],
+   "teamIds": [
+    "2755",
+    "2757"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Warriors A won by 109 Runs",
+   "summary": "KRCA CT Warriors A: 172/6(25) NMCC Dragon: 63/6(25)"
+  },
+  {
+   "matchId": "8384",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8384&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "NMCC Dragon",
+    "NMCC Lions"
+   ],
+   "teamIds": [
+    "2755",
+    "2754"
+   ],
+   "ground": "New Milford",
+   "result": "NMCC Lions won by 100 Runs",
+   "summary": "NMCC Lions: 156/7(25) NMCC Dragon: 56/10(25)"
+  },
+  {
+   "matchId": "8377",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8377&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors B",
+    "PCA Panthers"
+   ],
+   "teamIds": [
+    "2758",
+    "2756"
+   ],
+   "ground": "Maxwell",
+   "result": "PCA Panthers won by 9 Wickets",
+   "summary": "KRCA CT Warriors B: 105/8(25) PCA Panthers: 107/1(18.5)"
+  },
+  {
+   "matchId": "8354",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8354&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "PCA Panthers",
+    "NMCC Lions"
+   ],
+   "teamIds": [
+    "2756",
+    "2754"
+   ],
+   "ground": "WATERBURY",
+   "result": "NMCC Lions won by 7 Wickets",
+   "summary": "PCA Panthers: 74/5(20) NMCC Lions: 75/3(13)"
+  },
+  {
+   "matchId": "8230",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8230&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "PCA Panthers",
+    "NMCC Dragon"
+   ],
+   "teamIds": [
+    "2756",
+    "2755"
+   ],
+   "ground": "New Milford",
+   "result": "PCA Panthers won by 9 Wickets",
+   "summary": "NMCC Dragon: 87/7(25) PCA Panthers: 88/1(15.4)"
+  },
+  {
+   "matchId": "8224",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8224&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors B",
+    "KRCA CT Warriors A"
+   ],
+   "teamIds": [
+    "2758",
+    "2757"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Warriors A won by 140 Runs",
+   "summary": "KRCA CT Warriors A: 213/3(25) KRCA CT Warriors B: 73/6(25)"
+  },
+  {
+   "matchId": "8171",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8171&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CCA Warriors",
+    "NMCC Lions"
+   ],
+   "teamIds": [
+    "2753",
+    "2754"
+   ],
+   "ground": "New Milford",
+   "result": "NMCC Lions won by 151 Runs",
+   "summary": "NMCC Lions: 199/4(25) CCA Warriors: 48/9(23.5)"
+  },
+  {
+   "matchId": "8103",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8103&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "NMCC Dragon",
+    "NMCC Lions"
+   ],
+   "teamIds": [
+    "2755",
+    "2754"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Lions won by 111 Runs",
+   "summary": "NMCC Lions: 179/9(25.1) NMCC Dragon: 68/10(18)"
+  },
+  {
+   "matchId": "8046",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8046&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors B",
+    "KRCA CT Warriors A"
+   ],
+   "teamIds": [
+    "2758",
+    "2757"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Warriors A won by 162 Runs",
+   "summary": "KRCA CT Warriors A: 191/5(25) KRCA CT Warriors B: 29/10(17)"
+  },
+  {
+   "matchId": "8044",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8044&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CCA Warriors",
+    "PCA Panthers"
+   ],
+   "teamIds": [
+    "2753",
+    "2756"
+   ],
+   "ground": "New Milford",
+   "result": "PCA Panthers won by 92 Runs",
+   "summary": "PCA Panthers: 184/5(25) CCA Warriors: 92/5(25)"
+  },
+  {
+   "matchId": "8000",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8000&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "NMCC Dragon",
+    "KRCA CT Warriors B"
+   ],
+   "teamIds": [
+    "2755",
+    "2758"
+   ],
+   "ground": "Maxwell",
+   "result": "NMCC Dragon won by 4 Runs (D/L)",
+   "summary": "NMCC Dragon: 110/7(25) KRCA CT Warriors B: 29/2(8)"
+  },
+  {
+   "matchId": "7948",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7948&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "NMCC Lions",
+    "PCA Panthers"
+   ],
+   "teamIds": [
+    "2754",
+    "2756"
+   ],
+   "ground": "New Milford",
+   "result": "NMCC Lions won by 9 Wickets",
+   "summary": "PCA Panthers: 74/10(25) NMCC Lions: 75/1(16.4)"
+  },
+  {
+   "matchId": "7792",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7792&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors B",
+    "NMCC Dragon"
+   ],
+   "teamIds": [
+    "2758",
+    "2755"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Warriors B won by 4 Wickets",
+   "summary": "NMCC Dragon: 106/7(25) KRCA CT Warriors B: 107/6(23)"
+  },
+  {
+   "matchId": "7751",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7751&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "CCA Warriors",
+    "NMCC Lions"
+   ],
+   "teamIds": [
+    "2753",
+    "2754"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Lions won by 187 Runs",
+   "summary": "NMCC Lions: 224/5(25) CCA Warriors: 37/10(11)"
+  },
+  {
+   "matchId": "7701",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7701&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NMCC Lions",
+    "KRCA CT Warriors A"
+   ],
+   "teamIds": [
+    "2754",
+    "2757"
+   ],
+   "ground": "WATERBURY",
+   "result": "It is a Tie",
+   "summary": "NMCC Lions: 137/6(25) KRCA CT Warriors A: 137/8(25)"
+  },
+  {
+   "matchId": "7694",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7694&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "CCA Warriors",
+    "NMCC Dragon"
+   ],
+   "teamIds": [
+    "2753",
+    "2755"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Dragon won by 27 Runs",
+   "summary": "NMCC Dragon: 118/6(25) CCA Warriors: 91/8(25)"
+  },
+  {
+   "matchId": "7637",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7637&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors B",
+    "PCA Panthers"
+   ],
+   "teamIds": [
+    "2758",
+    "2756"
+   ],
+   "ground": "Maxwell",
+   "result": "PCA Panthers won by 81 Runs",
+   "summary": "PCA Panthers: 153/3(25) KRCA CT Warriors B: 72/2(16.2)"
+  },
+  {
+   "matchId": "7452",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7452&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "KRCA CT Warriors B",
+    "CCA Warriors"
+   ],
+   "teamIds": [
+    "2758",
+    "2753"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Warriors B won by 56 Runs",
+   "summary": "KRCA CT Warriors B: 141/5(25) CCA Warriors: 85/6(25)"
+  },
+  {
+   "matchId": "7445",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7445&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "PCA Panthers",
+    "KRCA CT Warriors A"
+   ],
+   "teamIds": [
+    "2756",
+    "2757"
+   ],
+   "ground": "WATERBURY",
+   "result": "KRCA CT Warriors A won by 9 Wickets",
+   "summary": "PCA Panthers: 96/7(25) KRCA CT Warriors A: 97/1(14)"
+  }
+ ]
+}

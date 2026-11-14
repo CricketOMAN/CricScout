@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s234",
+  "id": "legacy-233",
+  "name": "USAC 2024 Houston Regional U13"
+ },
+ "fetchedAt": "2026-11-13T22:39:21.654Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=233&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=233&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3895",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3895&clubId=40319",
+   "date": "2024-08-13",
+   "type": "League",
+   "teams": [
+    "Houston Reds",
+    "Austin"
+   ],
+   "teamIds": [
+    "1345",
+    "1346"
+   ],
+   "ground": "Katy East",
+   "result": "Houston Reds won by 6 Wickets",
+   "summary": "Austin: 148/7(30) Houston Reds: 149/4(19.2)"
+  },
+  {
+   "matchId": "3886",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3886&clubId=40319",
+   "date": "2024-08-12",
+   "type": "League",
+   "teams": [
+    "Houston Blues",
+    "Austin"
+   ],
+   "teamIds": [
+    "1344",
+    "1346"
+   ],
+   "ground": "Katy East",
+   "result": "Houston Blues won by 6 Wickets",
+   "summary": "Austin: 142/5(30) Houston Blues: 143/4(15.1)"
+  },
+  {
+   "matchId": "3855",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3855&clubId=40319",
+   "date": "2024-08-07",
+   "type": "League",
+   "teams": [
+    "Houston Reds",
+    "Houston Blues"
+   ],
+   "teamIds": [
+    "1345",
+    "1344"
+   ],
+   "ground": "Katy East",
+   "result": "Houston Blues won by 5 Wickets",
+   "summary": "Houston Reds: 154/10(28.3) Houston Blues: 155/5(29.2)"
+  }
+ ]
+}

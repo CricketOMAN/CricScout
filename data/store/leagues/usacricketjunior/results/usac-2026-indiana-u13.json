@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s75",
+  "id": "legacy-507",
+  "name": "USAC 2026 - INDIANA - U13"
+ },
+ "fetchedAt": "2026-11-13T21:45:04.176Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=507&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=507&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8166",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8166&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Hoosier Racers",
+    "Bluegrass Chargers"
+   ],
+   "teamIds": [
+    "3098",
+    "3097"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Hoosier Racers: 187/7 (29.2/30 ov) Bluegrass Chargers: 128/7 (24/30 ov)",
+   "summary": "Hoosier Racers: 187/7(29.2) Bluegrass Chargers: 128/7(24) Live"
+  },
+  {
+   "matchId": "7924",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7924&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Bluegrass Chargers",
+    "Hoosier Racers"
+   ],
+   "teamIds": [
+    "3097",
+    "3098"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Hoosier Racers won by 5 Wickets",
+   "summary": "Bluegrass Chargers: 136/4(20) Hoosier Racers: 140/5(19.2)"
+  },
+  {
+   "matchId": "7856",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7856&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Hoosier Racers",
+    "Bluegrass Chargers"
+   ],
+   "teamIds": [
+    "3098",
+    "3097"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Bluegrass Chargers won by 3 Wickets",
+   "summary": "Hoosier Racers: 134/7(26) Bluegrass Chargers: 135/7(26.1)"
+  },
+  {
+   "matchId": "7479",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7479&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Hoosier Racers",
+    "Bluegrass Chargers"
+   ],
+   "teamIds": [
+    "3098",
+    "3097"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Hoosier Racers won by 127 Runs",
+   "summary": "Hoosier Racers: 256/4(35) Bluegrass Chargers: 129/7(25.1)"
+  },
+  {
+   "matchId": "7455",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7455&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Bluegrass Chargers",
+    "Hoosier Racers"
+   ],
+   "teamIds": [
+    "3097",
+    "3098"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Hoosier Racers won by 8 Wickets",
+   "summary": "Bluegrass Chargers: 76/7(14.3) Hoosier Racers: 78/2(11.3)"
+  },
+  {
+   "matchId": "7385",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7385&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Hoosier Racers",
+    "Bluegrass Chargers"
+   ],
+   "teamIds": [
+    "3098",
+    "3097"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Bluegrass Chargers won by 2 Wickets",
+   "summary": "Hoosier Racers: 257/7(35) Bluegrass Chargers: 259/8(31.4)"
+  }
+ ]
+}

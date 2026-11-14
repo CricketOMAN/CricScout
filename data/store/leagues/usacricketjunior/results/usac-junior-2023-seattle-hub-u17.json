@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s374",
+  "id": "legacy-17",
+  "name": "USAC Junior 2023 - Seattle Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:18:32.102Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=17&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=17&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1907",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1907&clubId=40319",
+   "date": "2023-06-19",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "642",
+    "643"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Team Red won by 1 Run",
+   "summary": "Team Red: 152/7(25) Team Green: 151/10(25)"
+  },
+  {
+   "matchId": "1896",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1896&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "643",
+    "642"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Team Green won by 16 Runs",
+   "summary": "Team Green: 151/9(30) Team Red: 135/12(28.5)"
+  },
+  {
+   "matchId": "1878",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1878&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "642",
+    "643"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Team Red won by 98 Runs",
+   "summary": "Team Red: 176/9(30) Team Green: 78/12(19.2)"
+  },
+  {
+   "matchId": "1864",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1864&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "643",
+    "642"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Team Green won by 29 Runs",
+   "summary": "Team Green: 155/8(30) Team Red: 126/11(30)"
+  }
+ ]
+}

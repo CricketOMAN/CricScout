@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s132",
+  "id": "legacy-416",
+  "name": "2025 USAC Seattle HUB Phase 2 - U11"
+ },
+ "fetchedAt": "2026-11-13T22:05:47.760Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=416&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=416&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6495",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6495&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Blue"
+   ],
+   "teamIds": [
+    "2517",
+    "2518"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Blue won by 5 Wickets",
+   "summary": "Green: 172/10(30) Blue: 173/5(30)"
+  },
+  {
+   "matchId": "6449",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6449&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Green"
+   ],
+   "teamIds": [
+    "2516",
+    "2517"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Red won by 2 Runs",
+   "summary": "Red: 186/6(30) Green: 184/10(30)"
+  },
+  {
+   "matchId": "6466",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6466&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "Orange",
+    "Yellow"
+   ],
+   "teamIds": [
+    "2519",
+    "2520"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Yellow won by 3 Wickets",
+   "summary": "Orange: 84/10(20) Yellow: 85/7(18)"
+  },
+  {
+   "matchId": "6430",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6430&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "2516",
+    "2518"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Blue won by 7 Wickets",
+   "summary": "Red: 173/4(30) Blue: 174/3(28.4)"
+  },
+  {
+   "matchId": "6406",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6406&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Blue"
+   ],
+   "teamIds": [
+    "2517",
+    "2518"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Green won by 3 Wickets",
+   "summary": "Blue: 151/8(30) Green: 152/7(27.1)"
+  },
+  {
+   "matchId": "6407",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6407&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "Yellow",
+    "Orange"
+   ],
+   "teamIds": [
+    "2520",
+    "2519"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Yellow won by 37 Runs",
+   "summary": "Yellow: 182/5(25) Orange: 145/6(25)"
+  },
+  {
+   "matchId": "6396",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6396&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "2516",
+    "2518"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Red won by 5 Wickets",
+   "summary": "Blue: 120/9(30) Red: 122/5(23)"
+  },
+  {
+   "matchId": "6352",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6352&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Green"
+   ],
+   "teamIds": [
+    "2516",
+    "2517"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Red won by 35 Runs",
+   "summary": "Red: 190/5(30) Green: 155/10(27.3)"
+  },
+  {
+   "matchId": "6367",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6367&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "Orange",
+    "Yellow"
+   ],
+   "teamIds": [
+    "2519",
+    "2520"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Yellow won by 30 Runs",
+   "summary": "Yellow: 151/8(30) Orange: 121/5(20)"
+  }
+ ]
+}

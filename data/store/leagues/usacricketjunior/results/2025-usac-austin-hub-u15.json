@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s191",
+  "id": "legacy-310",
+  "name": "2025 USAC Austin HUB U15"
+ },
+ "fetchedAt": "2026-11-13T22:25:58.349Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=310&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=310&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5140",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5140&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "Austin Bullets"
+   ],
+   "teamIds": [
+    "1745",
+    "1746"
+   ],
+   "ground": "Wilco",
+   "result": "Austin Blasters U15 won by 96 Runs",
+   "summary": "Austin Blasters U15: 200/8(35) Austin Bullets: 104/10(25.3)"
+  },
+  {
+   "matchId": "5020",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5020&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "Austin Bullets"
+   ],
+   "teamIds": [
+    "1745",
+    "1746"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Blasters U15 won by 61 Runs",
+   "summary": "Austin Blasters U15: 228/10(35) Austin Bullets: 167/9(29.1)"
+  },
+  {
+   "matchId": "4951",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4951&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Austin Bullets"
+   ],
+   "teamIds": [
+    "1739",
+    "1746"
+   ],
+   "ground": "Hutto",
+   "result": "Austin HCCA Starz won by 33 Runs",
+   "summary": "Austin HCCA Starz: 204/10(32.5) Austin Bullets: 171/6(35)"
+  },
+  {
+   "matchId": "4859",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4859&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Austin Bullets"
+   ],
+   "teamIds": [
+    "1739",
+    "1746"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Bullets won by 8 Wickets",
+   "summary": "Austin HCCA Starz: 211/8(26.4) Austin Bullets: 212/2(27.5)"
+  },
+  {
+   "matchId": "4795",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4795&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Austin Bullets"
+   ],
+   "teamIds": [
+    "1739",
+    "1746"
+   ],
+   "ground": "Wilco",
+   "result": "Austin HCCA Starz won by 9 Wickets",
+   "summary": "Austin Bullets: 24/10(17) Austin HCCA Starz: 27/1(4.4)"
+  },
+  {
+   "matchId": "4677",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4677&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "Austin HCCA Starz"
+   ],
+   "teamIds": [
+    "1745",
+    "1739"
+   ],
+   "ground": "CPCG",
+   "result": "Austin HCCA Starz won by 98 Runs",
+   "summary": "Austin HCCA Starz: 247/7(35) Austin Blasters U15: 149/8(33.3)"
+  },
+  {
+   "matchId": "4543",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4543&clubId=40319",
+   "date": "2025-04-18",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Austin Blasters U15"
+   ],
+   "teamIds": [
+    "1739",
+    "1745"
+   ],
+   "ground": "Hutto",
+   "result": "Austin HCCA Starz won by 7 Wickets",
+   "summary": "Austin Blasters U15: 88/10(24.1) Austin HCCA Starz: 91/3(14.1)"
+  },
+  {
+   "matchId": "4520",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4520&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Austin Blasters U15"
+   ],
+   "teamIds": [
+    "1739",
+    "1745"
+   ],
+   "ground": "Wilco",
+   "result": "Austin HCCA Starz won by 102 Runs",
+   "summary": "Austin HCCA Starz: 183/10(29.1) Austin Blasters U15: 81/10(19.4)"
+  },
+  {
+   "matchId": "4475",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4475&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "Austin Bullets"
+   ],
+   "teamIds": [
+    "1745",
+    "1746"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "Austin Blasters U15 won by 3 Wickets",
+   "summary": "Austin Bullets: 108/8(23.3) Austin Blasters U15: 109/7(31.4)"
+  }
+ ]
+}

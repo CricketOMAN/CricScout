@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s10",
+  "id": "legacy-596",
+  "name": "USAC 2026 Western Conference U15 Leg 2"
+ },
+ "fetchedAt": "2026-11-13T21:39:55.608Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=596&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=596&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9173",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9173&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "Bay Area Challengers",
+    "North Central Warriors"
+   ],
+   "teamIds": [
+    "3455",
+    "3453"
+   ],
+   "ground": "PV5",
+   "result": "Bay Area Challengers won by 3 Wickets",
+   "summary": "North Central Warriors: 159/10(35.1) Bay Area Challengers: 160/7(31.3)"
+  },
+  {
+   "matchId": "9172",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9172&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "Northwest Blazers",
+    "Mid West Red"
+   ],
+   "teamIds": [
+    "3459",
+    "3451"
+   ],
+   "ground": "PV6",
+   "result": "Northwest Blazers won by 86 Runs",
+   "summary": "Northwest Blazers: 228/9(40) Mid West Red: 142/10(33.1)"
+  },
+  {
+   "matchId": "9171",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9171&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "LA Avengers",
+    "North Central Titans"
+   ],
+   "teamIds": [
+    "3457",
+    "3452"
+   ],
+   "ground": "PV1",
+   "result": "LA Avengers won by 4 Wickets",
+   "summary": "North Central Titans: 173/10(40) LA Avengers: 174/6(36.3)"
+  },
+  {
+   "matchId": "9166",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9166&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "Bay Area Warriors",
+    "South Central Fire"
+   ],
+   "teamIds": [
+    "3456",
+    "3454"
+   ],
+   "ground": "PV4",
+   "result": "Bay Area Warriors won by 39 Runs",
+   "summary": "Bay Area Warriors: 196/9(40) South Central Fire: 157/9(40)"
+  },
+  {
+   "matchId": "9158",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9158&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "South Central Fire",
+    "Bay Area Challengers"
+   ],
+   "teamIds": [
+    "3454",
+    "3455"
+   ],
+   "ground": "PV6",
+   "result": "Bay Area Challengers won by 78 Runs",
+   "summary": "Bay Area Challengers: 252/7(40) South Central Fire: 174/7(40)"
+  },
+  {
+   "matchId": "9157",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9157&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "North Central Warriors",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3453",
+    "3459"
+   ],
+   "ground": "PV1",
+   "result": "Super Over. Winner: Northwest Blazers",
+   "summary": "North Central Warriors: 207/10(40) Northwest Blazers: 207/9(40)"
+  },
+  {
+   "matchId": "9156",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9156&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "Mid West Red",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3451",
+    "3457"
+   ],
+   "ground": "PV4",
+   "result": "LA Avengers won by 3 Wickets",
+   "summary": "Mid West Red: 161/10(40) LA Avengers: 165/7(33.5)"
+  },
+  {
+   "matchId": "9153",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9153&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "North Central Titans",
+    "Bay Area Warriors"
+   ],
+   "teamIds": [
+    "3452",
+    "3456"
+   ],
+   "ground": "PV5",
+   "result": "Bay Area Warriors won by 9 Wickets",
+   "summary": "North Central Titans: 54/11(24.3) Bay Area Warriors: 58/1(8.4)"
+  },
+  {
+   "matchId": "9149",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9149&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "LA Avengers",
+    "North Central Warriors"
+   ],
+   "teamIds": [
+    "3457",
+    "3453"
+   ],
+   "ground": "PV6",
+   "result": "North Central Warriors won by 2 Wickets",
+   "summary": "LA Avengers: 171/10(36.5) North Central Warriors: 173/8(38)"
+  },
+  {
+   "matchId": "9148",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9148&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "Northwest Blazers",
+    "South Central Fire"
+   ],
+   "teamIds": [
+    "3459",
+    "3454"
+   ],
+   "ground": "PV5",
+   "result": "South Central Fire won by 4 Wickets",
+   "summary": "Northwest Blazers: 214/10(39.5) South Central Fire: 215/6(39.5)"
+  },
+  {
+   "matchId": "9147",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9147&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "Bay Area Challengers",
+    "North Central Titans"
+   ],
+   "teamIds": [
+    "3455",
+    "3452"
+   ],
+   "ground": "PV4",
+   "result": "Bay Area Challengers won by 123 Runs",
+   "summary": "Bay Area Challengers: 224/8(40) North Central Titans: 101/9(40)"
+  },
+  {
+   "matchId": "9145",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9145&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "Bay Area Warriors",
+    "Mid West Red"
+   ],
+   "teamIds": [
+    "3456",
+    "3451"
+   ],
+   "ground": "PV1",
+   "result": "Bay Area Warriors won by 8 Wickets",
+   "summary": "Mid West Red: 54/10(27.4) Bay Area Warriors: 60/2(9.1)"
+  },
+  {
+   "matchId": "9138",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9138&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "Mid West Red",
+    "Bay Area Challengers"
+   ],
+   "teamIds": [
+    "3451",
+    "3455"
+   ],
+   "ground": "PV5",
+   "result": "Bay Area Challengers won by 39 Runs",
+   "summary": "Bay Area Challengers: 192/8(40) Mid West Red: 153/10(36.1)"
+  },
+  {
+   "matchId": "9136",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9136&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "North Central Titans",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3452",
+    "3459"
+   ],
+   "ground": "PV6",
+   "result": "Northwest Blazers won by 57 Runs",
+   "summary": "Northwest Blazers: 223/8(40) North Central Titans: 166/11(36.2)"
+  },
+  {
+   "matchId": "9135",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9135&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "South Central Fire",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3454",
+    "3457"
+   ],
+   "ground": "PV1",
+   "result": "South Central Fire won by 5 Wickets",
+   "summary": "LA Avengers: 128/10(35.1) South Central Fire: 134/5(28.3)"
+  },
+  {
+   "matchId": "9132",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9132&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "North Central Warriors",
+    "Bay Area Warriors"
+   ],
+   "teamIds": [
+    "3453",
+    "3456"
+   ],
+   "ground": "PV4",
+   "result": "Bay Area Warriors won by 74 Runs",
+   "summary": "Bay Area Warriors: 255/7(40) North Central Warriors: 181/10(40)"
+  }
+ ]
+}

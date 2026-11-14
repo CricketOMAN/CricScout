@@ -1,0 +1,31 @@
+{
+ "season": {
+  "key": "s283",
+  "id": "legacy-129",
+  "name": "USAC Mens Zonal 2023 - MidAtlantic U23"
+ },
+ "fetchedAt": "2026-11-13T22:57:18.456Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=129&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=129&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2423",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2423&clubId=40319",
+   "date": "2023-09-22",
+   "type": "League",
+   "teams": [
+    "MAZ U23 Blue Team",
+    "MAZ U23 Purple Team"
+   ],
+   "teamIds": [
+    "832",
+    "831"
+   ],
+   "ground": "TBD",
+   "result": "MAZ U23 Purple Team won by 4 Wickets",
+   "summary": "MAZ U23 Blue Team: 235/8(45.3) MAZ U23 Purple Team: 236/6(30.5)"
+  }
+ ]
+}

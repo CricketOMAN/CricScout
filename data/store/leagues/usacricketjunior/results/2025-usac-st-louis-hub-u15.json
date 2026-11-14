@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s197",
+  "id": "legacy-301",
+  "name": "2025 USAC St. Louis Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T22:26:03.952Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=301&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=301&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5639",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5639&clubId=40319",
+   "date": "2025-06-12",
+   "type": "League",
+   "teams": [
+    "ACAC U15 Team A",
+    "KYCA U15"
+   ],
+   "teamIds": [
+    "2047",
+    "2049"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U15 Team A won by 10 Wickets",
+   "summary": "KYCA U15: 51/10(21.1) ACAC U15 Team A: 52/0(7.5)"
+  },
+  {
+   "matchId": "5633",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5633&clubId=40319",
+   "date": "2025-06-11",
+   "type": "League",
+   "teams": [
+    "ACAC U15 Team A",
+    "KYCA U15"
+   ],
+   "teamIds": [
+    "2047",
+    "2049"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U15 Team A won by 104 Runs",
+   "summary": "ACAC U15 Team A: 201/9(24.5) KYCA U15: 97/10(26.2)"
+  },
+  {
+   "matchId": "5630",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5630&clubId=40319",
+   "date": "2025-06-11",
+   "type": "League",
+   "teams": [
+    "ACAC U15 Team A",
+    "KYCA U15"
+   ],
+   "teamIds": [
+    "2047",
+    "2049"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U15 Team A won by 168 Runs",
+   "summary": "ACAC U15 Team A: 220/2(25) KYCA U15: 52/10(17.2)"
+  },
+  {
+   "matchId": "5481",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5481&clubId=40319",
+   "date": "2025-06-04",
+   "type": "League",
+   "teams": [
+    "ACAC U15 Team A",
+    "KYCA U15"
+   ],
+   "teamIds": [
+    "2047",
+    "2049"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U15 Team A won by 118 Runs",
+   "summary": "ACAC U15 Team A: 184/7(30) KYCA U15: 66/10(18.5)"
+  },
+  {
+   "matchId": "5480",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5480&clubId=40319",
+   "date": "2025-06-03",
+   "type": "League",
+   "teams": [
+    "ACAC U15 Team A",
+    "KYCA U15"
+   ],
+   "teamIds": [
+    "2047",
+    "2049"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U15 Team A won by 8 Wickets",
+   "summary": "KYCA U15: 48/11(22.4) ACAC U15 Team A: 49/2(11.2)"
+  },
+  {
+   "matchId": "5476",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5476&clubId=40319",
+   "date": "2025-06-02",
+   "type": "League",
+   "teams": [
+    "ACAC U15 Team A",
+    "KYCA U15"
+   ],
+   "teamIds": [
+    "2047",
+    "2049"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC U15 Team A won by 194 Runs",
+   "summary": "ACAC U15 Team A: 250/7(35) KYCA U15: 56/10(20)"
+  }
+ ]
+}

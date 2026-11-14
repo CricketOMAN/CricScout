@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s303",
+  "id": "legacy-118",
+  "name": "USAC JR Zonal 2023 - South U13"
+ },
+ "fetchedAt": "2026-11-13T23:08:21.579Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=118&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=118&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2329",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2329&clubId=40319",
+   "date": "2023-08-20",
+   "type": "League",
+   "teams": [
+    "North Carolina U13",
+    "Florida U13"
+   ],
+   "teamIds": [
+    "777",
+    "775"
+   ],
+   "ground": "ACF - G2",
+   "result": "North Carolina U13 won by 39 Runs",
+   "summary": "North Carolina U13: 209/10(29.5) Florida U13: 170/7(30)"
+  },
+  {
+   "matchId": "2328",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2328&clubId=40319",
+   "date": "2023-08-20",
+   "type": "League",
+   "teams": [
+    "Georgia U13",
+    "Tennessee U13"
+   ],
+   "teamIds": [
+    "776",
+    "778"
+   ],
+   "ground": "ACF - G1",
+   "result": "Georgia U13 won by 102 Runs",
+   "summary": "Georgia U13: 233/8(30) Tennessee U13: 131/10(30)"
+  },
+  {
+   "matchId": "2325",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2325&clubId=40319",
+   "date": "2023-08-19",
+   "type": "League",
+   "teams": [
+    "North Carolina U13",
+    "Georgia U13"
+   ],
+   "teamIds": [
+    "777",
+    "776"
+   ],
+   "ground": "ACF - G5",
+   "result": "Georgia U13 won by 5 Runs",
+   "summary": "Georgia U13: 167/10(29.3) North Carolina U13: 162/9(30)"
+  },
+  {
+   "matchId": "2322",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2322&clubId=40319",
+   "date": "2023-08-19",
+   "type": "League",
+   "teams": [
+    "Tennessee U13",
+    "Florida U13"
+   ],
+   "teamIds": [
+    "778",
+    "775"
+   ],
+   "ground": "ACF - G4",
+   "result": "Tennessee U13 won by 7 Wickets",
+   "summary": "Florida U13: 163/9(30) Tennessee U13: 164/3(26.2)"
+  },
+  {
+   "matchId": "2312",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2312&clubId=40319",
+   "date": "2023-08-18",
+   "type": "League",
+   "teams": [
+    "North Carolina U13",
+    "Tennessee U13"
+   ],
+   "teamIds": [
+    "777",
+    "778"
+   ],
+   "ground": "ACF - G2",
+   "result": "North Carolina U13 won by 7 Wickets",
+   "summary": "Tennessee U13: 147/7(30) North Carolina U13: 150/3(21)"
+  },
+  {
+   "matchId": "2311",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2311&clubId=40319",
+   "date": "2023-08-18",
+   "type": "League",
+   "teams": [
+    "Georgia U13",
+    "Florida U13"
+   ],
+   "teamIds": [
+    "776",
+    "775"
+   ],
+   "ground": "ACF - G5",
+   "result": "Georgia U13 won by 64 Runs",
+   "summary": "Georgia U13: 234/2(30) Florida U13: 170/4(30)"
+  }
+ ]
+}

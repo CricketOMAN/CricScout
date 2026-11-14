@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s192",
+  "id": "legacy-309",
+  "name": "2025 USAC Austin HUB U13"
+ },
+ "fetchedAt": "2026-11-13T22:25:59.218Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=309&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=309&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5698",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5698&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Superkings Cricket Academy"
+   ],
+   "teamIds": [
+    "1747",
+    "1756"
+   ],
+   "ground": "TBD",
+   "result": "Superkings Cricket Academy won by 179 Runs",
+   "summary": "Superkings Cricket Academy: 248/8(30) Austin HCCA Starz: 69/4(19.5)"
+  },
+  {
+   "matchId": "5334",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5334&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "Austin Elites"
+   ],
+   "teamIds": [
+    "1750",
+    "1748"
+   ],
+   "ground": "HUTTO",
+   "result": "Austin Blasters U13 won by 39 Runs",
+   "summary": "Austin Blasters U13: 186/7(30) Austin Elites: 147/5(30)"
+  },
+  {
+   "matchId": "5291",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5291&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "Superkings Cricket Academy",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1756",
+    "1749"
+   ],
+   "ground": "San Antonio Monterrey Park",
+   "result": "San Antonio Road Runners won by 7 Runs",
+   "summary": "San Antonio Road Runners: 173/10(30) Superkings Cricket Academy: 166/8(30)"
+  },
+  {
+   "matchId": "5201",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5201&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Superkings Cricket Academy"
+   ],
+   "teamIds": [
+    "1747",
+    "1756"
+   ],
+   "ground": "WCG",
+   "result": "Superkings Cricket Academy won by 10 Wickets",
+   "summary": "Austin HCCA Starz: 65/10(28.5) Superkings Cricket Academy: 66/0(7.5)"
+  },
+  {
+   "matchId": "5104",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5104&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "Austin HCCA Starz"
+   ],
+   "teamIds": [
+    "1749",
+    "1747"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "San Antonio Road Runners won by 206 Runs",
+   "summary": "San Antonio Road Runners: 245/7(30) Austin HCCA Starz: 39/9(18.4)"
+  },
+  {
+   "matchId": "4953",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4953&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "Austin Elites"
+   ],
+   "teamIds": [
+    "1750",
+    "1748"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "Austin Blasters U13 won by 10 Runs",
+   "summary": "Austin Blasters U13: 128/4(30) Austin Elites: 118/9(30)"
+  },
+  {
+   "matchId": "4727",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4727&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "Austin Elites",
+    "Austin HCCA Starz"
+   ],
+   "teamIds": [
+    "1748",
+    "1747"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "Austin Elites won by 277 Runs",
+   "summary": "Austin Elites: 316/2(25) Austin HCCA Starz: 39/9(20.5)"
+  },
+  {
+   "matchId": "4725",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4725&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "Austin Blasters U13"
+   ],
+   "teamIds": [
+    "1749",
+    "1750"
+   ],
+   "ground": "San Antonio Monterrey Park",
+   "result": "Austin Blasters U13 won by 1 Wicket",
+   "summary": "San Antonio Road Runners: 152/8(30) Austin Blasters U13: 153/9(29.3)"
+  },
+  {
+   "matchId": "4627",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4627&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1750",
+    "1749"
+   ],
+   "ground": "San Antonio Monterrey Park",
+   "result": "Austin Blasters U13 won by 10 Wickets",
+   "summary": "San Antonio Road Runners: 215/6(30.2) Austin Blasters U13: 219/0(24)"
+  },
+  {
+   "matchId": "4553",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4553&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "Superkings Cricket Academy"
+   ],
+   "teamIds": [
+    "1750",
+    "1756"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Blasters U13 won by 7 Wickets",
+   "summary": "Superkings Cricket Academy: 125/9(29.5) Austin Blasters U13: 129/3(13.1)"
+  },
+  {
+   "matchId": "4525",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4525&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Superkings Cricket Academy"
+   ],
+   "teamIds": [
+    "1747",
+    "1756"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "Superkings Cricket Academy won by 216 Runs",
+   "summary": "Superkings Cricket Academy: 299/1(25) Austin HCCA Starz: 83/10(14.3)"
+  },
+  {
+   "matchId": "4515",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4515&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "Austin Elites",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1748",
+    "1749"
+   ],
+   "ground": "WCG",
+   "result": "Austin Elites won by 22 Runs",
+   "summary": "Austin Elites: 118/9(30) San Antonio Road Runners: 96/10(23.2)"
+  },
+  {
+   "matchId": "4429",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4429&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "Superkings Cricket Academy",
+    "Austin Elites"
+   ],
+   "teamIds": [
+    "1756",
+    "1748"
+   ],
+   "ground": "HUTTO",
+   "result": "Austin Elites won by 34 Runs",
+   "summary": "Austin Elites: 222/6(25) Superkings Cricket Academy: 188/7(25)"
+  },
+  {
+   "matchId": "4389",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4389&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Austin Blasters U13"
+   ],
+   "teamIds": [
+    "1747",
+    "1750"
+   ],
+   "ground": "HUTTO",
+   "result": "Austin Blasters U13 won by 9 Wickets",
+   "summary": "Austin HCCA Starz: 58/10(28.4) Austin Blasters U13: 59/1(6.4)"
+  },
+  {
+   "matchId": "4380",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4380&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "Austin Elites",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1748",
+    "1749"
+   ],
+   "ground": "San Antonio Monterrey Park",
+   "result": "Austin Elites won by 8 Runs",
+   "summary": "Austin Elites: 184/5(30) San Antonio Road Runners: 176/6(30)"
+  }
+ ]
+}

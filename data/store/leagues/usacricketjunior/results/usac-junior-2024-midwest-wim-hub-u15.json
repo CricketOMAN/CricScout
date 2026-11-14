@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s257",
+  "id": "legacy-202",
+  "name": "USAC JUNIOR 2024 -MIDWEST WIM HUB U15"
+ },
+ "fetchedAt": "2026-11-13T22:42:25.536Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=202&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=202&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3545",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3545&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "1218",
+    "1219"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm won by 8 Wickets",
+   "summary": "WIM U15: 68/8(26.5) MYCA Thunderstorm: 69/2(9.1)"
+  },
+  {
+   "matchId": "3522",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3522&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "1218",
+    "1219"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm won by 9 Wickets",
+   "summary": "WIM U15: 50/8(14.2) MYCA Thunderstorm: 51/1(5)"
+  },
+  {
+   "matchId": "3439",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3439&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "WIM U15",
+    "MYCA Thunderstorm"
+   ],
+   "teamIds": [
+    "1219",
+    "1218"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MYCA Thunderstorm won by 206 Runs",
+   "summary": "MYCA Thunderstorm: 262/3(30) WIM U15: 56/9(14.3)"
+  },
+  {
+   "matchId": "3430",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3430&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "WIM U15",
+    "MYCA Thunderstorm"
+   ],
+   "teamIds": [
+    "1219",
+    "1218"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MYCA Thunderstorm won by 9 Wickets",
+   "summary": "WIM U15: 67/9(15) MYCA Thunderstorm: 71/1(8.1)"
+  },
+  {
+   "matchId": "3415",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3415&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "WIM U15",
+    "MYCA Thunderstorm"
+   ],
+   "teamIds": [
+    "1219",
+    "1218"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MYCA Thunderstorm won by 143 Runs",
+   "summary": "MYCA Thunderstorm: 235/5(30) WIM U15: 92/10(23.3)"
+  },
+  {
+   "matchId": "3053",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3053&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "1218",
+    "1219"
+   ],
+   "ground": "Ojibway Park Lacrosse Fields",
+   "result": "MYCA Thunderstorm won by 93 Runs",
+   "summary": "MYCA Thunderstorm: 152/8(30) WIM U15: 59/8(20)"
+  }
+ ]
+}

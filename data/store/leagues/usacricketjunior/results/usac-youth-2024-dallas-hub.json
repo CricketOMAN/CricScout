@@ -1,0 +1,3312 @@
+{
+ "season": {
+  "key": "s275",
+  "id": "legacy-134",
+  "name": "USAC Youth 2024 - Dallas Hub"
+ },
+ "fetchedAt": "2026-11-13T22:57:11.498Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=134&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=134&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3541&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "TCA Warriors",
+    "DYCL Bolts"
+   ],
+   "teamIds": [
+    "885",
+    "886"
+   ],
+   "ground": "Oak Point CG1",
+   "result": "TCA Warriors won by 3 Wickets",
+   "summary": "DYCL Bolts: 208/10(39.5) TCA Warriors: 211/7(39.4)"
+  },
+  {
+   "matchId": "3458",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3458&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "TCA Colts",
+    "Superkings Cubs U13"
+   ],
+   "teamIds": [
+    "860",
+    "870"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "TCA Colts: 0/0(30) Superkings Cubs U13: 0/0(30)"
+  },
+  {
+   "matchId": "3468",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3468&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "MCA Felis",
+    "HiQ CCA"
+   ],
+   "teamIds": [
+    "875",
+    "880"
+   ],
+   "ground": "Oak Point CG1",
+   "result": "Abandoned.",
+   "summary": "MCA Felis: 0/0(40) HiQ CCA: 0/0(40)"
+  },
+  {
+   "matchId": "3334",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3334&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "SAC Colts",
+    "CCA Rangers"
+   ],
+   "teamIds": [
+    "902",
+    "899"
+   ],
+   "ground": "Warriors CG",
+   "result": "SAC Colts won by 181 Runs",
+   "summary": "SAC Colts: 237/5(30) CCA Rangers: 56/9(12.5)"
+  },
+  {
+   "matchId": "3462",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3462&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "TIC Little Masters",
+    "RCA Thunders"
+   ],
+   "teamIds": [
+    "866",
+    "869"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "TIC Little Masters: 0/0(30) RCA Thunders: 0/0(30)"
+  },
+  {
+   "matchId": "3461",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3461&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "TCA Colts",
+    "SAC Rahvans"
+   ],
+   "teamIds": [
+    "860",
+    "868"
+   ],
+   "ground": "Oak Point CG1",
+   "result": "Abandoned.",
+   "summary": "TCA Colts: 0/0(30) SAC Rahvans: 0/0(30)"
+  },
+  {
+   "matchId": "3460",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3460&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "TIC Evolution"
+   ],
+   "teamIds": [
+    "857",
+    "865"
+   ],
+   "ground": "Oak Point CG1",
+   "result": "Abandoned.",
+   "summary": "MCA Lynx: 0/0(30) TIC Evolution: 0/0(30)"
+  },
+  {
+   "matchId": "3459",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3459&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "TCA Broncos"
+   ],
+   "teamIds": [
+    "855",
+    "858"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "MCA Jaguars: 0/0(30) TCA Broncos: 0/0(30)"
+  },
+  {
+   "matchId": "3372",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3372&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "856",
+    "862"
+   ],
+   "ground": "Denton CG2",
+   "result": "MCA Puma won by 9 Wickets",
+   "summary": "WCA Longhorn: 146/10(20.5) MCA Puma: 149/1(11.4)"
+  },
+  {
+   "matchId": "3335",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3335&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "TCA Stallions",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "859",
+    "863"
+   ],
+   "ground": "Denton CG2",
+   "result": "TCA Stallions won by 7 Wickets",
+   "summary": "CCA Titans: 197/5(30) TCA Stallions: 198/3(21.3)"
+  },
+  {
+   "matchId": "3374",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3374&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "873",
+    "878"
+   ],
+   "ground": "Denton CG1",
+   "result": "MCA Cheetahs won by 40 Runs",
+   "summary": "MCA Cheetahs: 182/10(30.4) DYCL Panthers: 142/8(33)"
+  },
+  {
+   "matchId": "3336",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3336&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "WCA Comets",
+    "Superkings Cubs U15"
+   ],
+   "teamIds": [
+    "879",
+    "883"
+   ],
+   "ground": "Denton CG1",
+   "result": "WCA Comets won by 5 Wickets",
+   "summary": "Superkings Cubs U15: 215/7(33) WCA Comets: 216/5(23.1)"
+  },
+  {
+   "matchId": "3321",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3321&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "MCA Leopards"
+   ],
+   "teamIds": [
+    "896",
+    "892"
+   ],
+   "ground": "Warriors CG",
+   "result": "Abandoned.",
+   "summary": "CCA Strikers: 0/0(0)"
+  },
+  {
+   "matchId": "3464",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3464&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "TCA Stallions",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "859",
+    "862"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "TCA Stallions: 0/0(30) WCA Longhorn: 0/0(30)"
+  },
+  {
+   "matchId": "3463",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3463&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "TCA Colts"
+   ],
+   "teamIds": [
+    "857",
+    "860"
+   ],
+   "ground": "Oak Point CG1",
+   "result": "Abandoned.",
+   "summary": "MCA Lynx: 0/0(30) TCA Colts: 0/0(30)"
+  },
+  {
+   "matchId": "3322",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3322&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "MCA Leopards"
+   ],
+   "teamIds": [
+    "894",
+    "892"
+   ],
+   "ground": "Warriors CG",
+   "result": "No Result",
+   "summary": "DYCL Eagles: 0/0(0)"
+  },
+  {
+   "matchId": "3323",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3323&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "SAC Colts",
+    "TIC Legends"
+   ],
+   "teamIds": [
+    "902",
+    "900"
+   ],
+   "ground": "Warriors CG",
+   "result": "No Result",
+   "summary": "SAC Colts: 0/0(0)"
+  },
+  {
+   "matchId": "3467",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3467&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "CCA Giants",
+    "SAC Rahvans"
+   ],
+   "teamIds": [
+    "864",
+    "868"
+   ],
+   "ground": "Oak Point CG1",
+   "result": "Abandoned.",
+   "summary": "CCA Giants: 0/0(30) SAC Rahvans: 0/0(30)"
+  },
+  {
+   "matchId": "3466",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3466&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "TIC Evolution",
+    "HPC-VCA U13"
+   ],
+   "teamIds": [
+    "865",
+    "867"
+   ],
+   "ground": "Coppell CG",
+   "result": "Abandoned.",
+   "summary": "TIC Evolution: 0/0(30) HPC-VCA U13: 0/0(30)"
+  },
+  {
+   "matchId": "3465",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3465&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "854",
+    "863"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "MCA Lions: 0/0(30) CCA Titans: 0/0(30)"
+  },
+  {
+   "matchId": "3472",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3472&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "TCA Gladiators",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "877",
+    "879"
+   ],
+   "ground": "Denton CG1",
+   "result": "Abandoned.",
+   "summary": "TCA Gladiators: 0/0(40) WCA Comets: 0/0(40)"
+  },
+  {
+   "matchId": "3471",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3471&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "MCA Felis",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "875",
+    "878"
+   ],
+   "ground": "Denton CG2",
+   "result": "Abandoned.",
+   "summary": "MCA Felis: 0/0(40) DYCL Panthers: 0/0(40)"
+  },
+  {
+   "matchId": "3470",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3470&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "Superkings Cubs U15"
+   ],
+   "teamIds": [
+    "873",
+    "883"
+   ],
+   "ground": "Denton CG2",
+   "result": "Abandoned.",
+   "summary": "MCA Cheetahs: 0/0(40) Superkings Cubs U15: 0/0(40)"
+  },
+  {
+   "matchId": "3469",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3469&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "872",
+    "882"
+   ],
+   "ground": "Denton CG1",
+   "result": "Abandoned.",
+   "summary": "MCA Toyger: 0/0(40) HPC Avengers: 0/0(40)"
+  },
+  {
+   "matchId": "3475",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3475&clubId=40319",
+   "date": "2024-05-31",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "TIC Supernova"
+   ],
+   "teamIds": [
+    "874",
+    "881"
+   ],
+   "ground": "Denton CG2",
+   "result": "Abandoned.",
+   "summary": "MCA Serval: 0/0(40) TIC Supernova: 0/0(40)"
+  },
+  {
+   "matchId": "3474",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3474&clubId=40319",
+   "date": "2024-05-31",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "TCA Gladiators"
+   ],
+   "teamIds": [
+    "872",
+    "877"
+   ],
+   "ground": "NMCG 1",
+   "result": "Abandoned.",
+   "summary": "MCA Toyger: 0/0(40) TCA Gladiators: 0/0(40)"
+  },
+  {
+   "matchId": "3473",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3473&clubId=40319",
+   "date": "2024-05-31",
+   "type": "League",
+   "teams": [
+    "WCA Comets",
+    "TCA Knights"
+   ],
+   "teamIds": [
+    "879",
+    "876"
+   ],
+   "ground": "NMCG 2",
+   "result": "Abandoned.",
+   "summary": "WCA Comets: 0/0(40) TCA Knights: 0/0(40)"
+  },
+  {
+   "matchId": "3477",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3477&clubId=40319",
+   "date": "2024-05-30",
+   "type": "League",
+   "teams": [
+    "MCA Felis",
+    "TCA Gladiators"
+   ],
+   "teamIds": [
+    "875",
+    "877"
+   ],
+   "ground": "NMCG 2",
+   "result": "Abandoned.",
+   "summary": "MCA Felis: 0/0(40) TCA Gladiators: 0/0(40)"
+  },
+  {
+   "matchId": "3476",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3476&clubId=40319",
+   "date": "2024-05-30",
+   "type": "League",
+   "teams": [
+    "TCA Knights",
+    "HiQ CCA"
+   ],
+   "teamIds": [
+    "876",
+    "880"
+   ],
+   "ground": "NMCG 1",
+   "result": "Abandoned.",
+   "summary": "TCA Knights: 0/0(40) HiQ CCA: 0/0(40)"
+  },
+  {
+   "matchId": "3248",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3248&clubId=40319",
+   "date": "2024-05-30",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "874",
+    "879"
+   ],
+   "ground": "Denton CG1",
+   "result": "MCA Serval won by 10 Wickets",
+   "summary": "WCA Comets: 55/8(15.2) MCA Serval: 56/0(5)"
+  },
+  {
+   "matchId": "3480",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3480&clubId=40319",
+   "date": "2024-05-29",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "TIC Supernova"
+   ],
+   "teamIds": [
+    "871",
+    "881"
+   ],
+   "ground": "NMCG 1",
+   "result": "Abandoned.",
+   "summary": "FCCA Commanders: 0/0(40) TIC Supernova: 0/0(40)"
+  },
+  {
+   "matchId": "3479",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3479&clubId=40319",
+   "date": "2024-05-29",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "TCA Knights"
+   ],
+   "teamIds": [
+    "873",
+    "876"
+   ],
+   "ground": "Denton CG2",
+   "result": "Abandoned.",
+   "summary": "MCA Cheetahs: 0/0(40) TCA Knights: 0/0(40)"
+  },
+  {
+   "matchId": "3478",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3478&clubId=40319",
+   "date": "2024-05-29",
+   "type": "League",
+   "teams": [
+    "TCA Gladiators",
+    "HiQ CCA"
+   ],
+   "teamIds": [
+    "877",
+    "880"
+   ],
+   "ground": "Denton CG1",
+   "result": "Abandoned.",
+   "summary": "TCA Gladiators: 0/0(40) HiQ CCA: 0/0(40)"
+  },
+  {
+   "matchId": "3229",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3229&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "FCCA Giants",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "890",
+    "895"
+   ],
+   "ground": "BF Philips",
+   "result": "WCA Aggies won by 1 Wicket",
+   "summary": "FCCA Giants: 60/8(19.3) WCA Aggies: 61/9(21.4)"
+  },
+  {
+   "matchId": "3220",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3220&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "893",
+    "897"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Bolts won by 6 Wickets",
+   "summary": "HPC Rising Stars: 104/9(30) TCA Bolts: 105/4(14.5)"
+  },
+  {
+   "matchId": "3221",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3221&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "Superkings Cubs U13"
+   ],
+   "teamIds": [
+    "855",
+    "870"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 55 Runs",
+   "summary": "MCA Jaguars: 237/8(30) Superkings Cubs U13: 182/5(30)"
+  },
+  {
+   "matchId": "3193",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3193&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "TCA Broncos"
+   ],
+   "teamIds": [
+    "853",
+    "858"
+   ],
+   "ground": "BF Philips",
+   "result": "TCA Broncos won by 52 Runs",
+   "summary": "TCA Broncos: 172/8(30) FCCA Jets: 120/10(29)"
+  },
+  {
+   "matchId": "3189",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3189&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "CCA Giants",
+    "TIC Little Masters"
+   ],
+   "teamIds": [
+    "864",
+    "866"
+   ],
+   "ground": "Horseshoe",
+   "result": "TIC Little Masters won by 34 Runs",
+   "summary": "TIC Little Masters: 178/8(30) CCA Giants: 144/10(29)"
+  },
+  {
+   "matchId": "3175",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3175&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "893",
+    "891"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Tigers won by 73 Runs",
+   "summary": "MCA Tigers: 213/5(30) TCA Bolts: 140/9(29.4)"
+  },
+  {
+   "matchId": "3142",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3142&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "WCA Aggies",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "895",
+    "890"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Giants won by 11 Runs",
+   "summary": "FCCA Giants: 92/9(26.4) WCA Aggies: 81/10(30)"
+  },
+  {
+   "matchId": "3136",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3136&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "MCA Leopards",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "892",
+    "897"
+   ],
+   "ground": "Warriors CG",
+   "result": "It is a Tie",
+   "summary": "HPC Rising Stars: 66/10(17.2) MCA Leopards: 66/9(20)"
+  },
+  {
+   "matchId": "3187",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3187&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "TIC Legends",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "900",
+    "898"
+   ],
+   "ground": "BF Philips",
+   "result": "TIC Legends won by 37 Runs",
+   "summary": "TIC Legends: 101/10(24.1) FCCA Titans: 64/10(17.3)"
+  },
+  {
+   "matchId": "3146",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3146&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "Superkings Cubs U11",
+    "VCA U11"
+   ],
+   "teamIds": [
+    "903",
+    "901"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U11 won by 132 Runs",
+   "summary": "VCA U11: 174/7(30) Superkings Cubs U11: 42/10(16)"
+  },
+  {
+   "matchId": "3184",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3184&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "856",
+    "863"
+   ],
+   "ground": "Denton CG1",
+   "result": "MCA Puma won by 8 Wickets",
+   "summary": "CCA Titans: 195/4(27) MCA Puma: 199/2(21.2)"
+  },
+  {
+   "matchId": "3182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3182&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "TCA Stallions"
+   ],
+   "teamIds": [
+    "854",
+    "859"
+   ],
+   "ground": "Denton CG2",
+   "result": "MCA Lions won by 14 Runs",
+   "summary": "MCA Lions: 229/3(27) TCA Stallions: 215/6(27)"
+  },
+  {
+   "matchId": "3176",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3176&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "Superkings Cubs U13"
+   ],
+   "teamIds": [
+    "857",
+    "870"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Lynx won by 7 Wickets",
+   "summary": "Superkings Cubs U13: 132/10(28.4) MCA Lynx: 133/3(17.2)"
+  },
+  {
+   "matchId": "3138",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3138&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "858",
+    "862"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Broncos won by 5 Wickets",
+   "summary": "WCA Longhorn: 74/9(24.2) TCA Broncos: 75/5(15.1)"
+  },
+  {
+   "matchId": "3183",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3183&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "TIC Supernova",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "881",
+    "882"
+   ],
+   "ground": "Coppell CG",
+   "result": "TIC Supernova won by 46 Runs",
+   "summary": "TIC Supernova: 248/5(33) HPC Avengers: 202/5(33)"
+  },
+  {
+   "matchId": "3178",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3178&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "Superkings Cubs U15"
+   ],
+   "teamIds": [
+    "872",
+    "883"
+   ],
+   "ground": "Irving Polo 1",
+   "result": "MCA Toyger won by 9 Wickets",
+   "summary": "Superkings Cubs U15: 72/9(28.1) MCA Toyger: 73/1(12)"
+  },
+  {
+   "matchId": "3139",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3139&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "HiQ CCA"
+   ],
+   "teamIds": [
+    "873",
+    "880"
+   ],
+   "ground": "Denton CG2",
+   "result": "MCA Cheetahs won by 5 Wickets",
+   "summary": "HiQ CCA: 260/10(39.2) MCA Cheetahs: 261/5(39.3)"
+  },
+  {
+   "matchId": "3137",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3137&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "874",
+    "878"
+   ],
+   "ground": "Irving Polo 1",
+   "result": "DYCL Panthers won by 21 Runs",
+   "summary": "DYCL Panthers: 174/7(33) MCA Serval: 153/8(29.2)"
+  },
+  {
+   "matchId": "3112",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3112&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "TIC Little Masters",
+    "SAC Rahvans"
+   ],
+   "teamIds": [
+    "866",
+    "868"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Abandoned.",
+   "summary": "SAC Rahvans: 89/9(30)"
+  },
+  {
+   "matchId": "3108",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3108&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "TCA Broncos"
+   ],
+   "teamIds": [
+    "857",
+    "858"
+   ],
+   "ground": "Sandy Lake",
+   "result": "Abandoned.",
+   "summary": "TCA Broncos: 171/2(30)"
+  },
+  {
+   "matchId": "3107",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3107&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "RCA Thunders"
+   ],
+   "teamIds": [
+    "855",
+    "869"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 10 Wickets",
+   "summary": "RCA Thunders: 36/10(16.2) MCA Jaguars: 37/0(2.2)"
+  },
+  {
+   "matchId": "3110",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3110&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "TCA Knights"
+   ],
+   "teamIds": [
+    "871",
+    "876"
+   ],
+   "ground": "BF Philips",
+   "result": "Abandoned.",
+   "summary": "FCCA Commanders: 117/7(28)"
+  },
+  {
+   "matchId": "3092",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3092&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "894",
+    "891"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Tigers won by 132 Runs",
+   "summary": "MCA Tigers: 239/8(30) DYCL Eagles: 107/10(27.2)"
+  },
+  {
+   "matchId": "3086",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3086&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "893",
+    "890"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Giants won by 9 Wickets",
+   "summary": "TCA Bolts: 111/9(20) FCCA Giants: 112/1(17.4)"
+  },
+  {
+   "matchId": "3033",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3033&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "MCA Leopards"
+   ],
+   "teamIds": [
+    "896",
+    "892"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers won by 197 Runs",
+   "summary": "CCA Strikers: 290/4(30) MCA Leopards: 93/8(30)"
+  },
+  {
+   "matchId": "3101",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3101&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "TIC Legends",
+    "VCA U11"
+   ],
+   "teamIds": [
+    "900",
+    "901"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U11 won by 37 Runs",
+   "summary": "VCA U11: 232/4(30) TIC Legends: 195/9(30)"
+  },
+  {
+   "matchId": "3047",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3047&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "CCA Rangers",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "899",
+    "898"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Rangers won by 31 Runs",
+   "summary": "CCA Rangers: 108/9(20) FCCA Titans: 77/9(17)"
+  },
+  {
+   "matchId": "3042",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3042&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "SAC Colts",
+    "Superkings Cubs U11"
+   ],
+   "teamIds": [
+    "902",
+    "903"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts won by 6 Wickets",
+   "summary": "Superkings Cubs U11: 64/10(15.5) SAC Colts: 65/4(10.4)"
+  },
+  {
+   "matchId": "3104",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3104&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "CCA Giants"
+   ],
+   "teamIds": [
+    "853",
+    "864"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Giants won by 9 Runs (D/L)",
+   "summary": "CCA Giants: 153/5(30) FCCA Jets: 64/4(13)"
+  },
+  {
+   "matchId": "3099",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3099&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "TCA Stallions",
+    "MCA Lynx"
+   ],
+   "teamIds": [
+    "859",
+    "857"
+   ],
+   "ground": "Denton CG2",
+   "result": "MCA Lynx won by 2 Runs",
+   "summary": "MCA Lynx: 162/5(27) TCA Stallions: 160/4(27)"
+  },
+  {
+   "matchId": "3097",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3097&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "SAC Rahvans"
+   ],
+   "teamIds": [
+    "863",
+    "868"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CCA Titans won by 194 Runs",
+   "summary": "CCA Titans: 266/5(30.1) SAC Rahvans: 72/10(24.1)"
+  },
+  {
+   "matchId": "3096",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3096&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "TIC Evolution"
+   ],
+   "teamIds": [
+    "856",
+    "865"
+   ],
+   "ground": "Denton CG1",
+   "result": "MCA Puma won by 7 Wickets",
+   "summary": "TIC Evolution: 145/6(27) MCA Puma: 149/3(16.4)"
+  },
+  {
+   "matchId": "3093",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3093&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "DYCL Cheetahs"
+   ],
+   "teamIds": [
+    "855",
+    "861"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 114 Runs",
+   "summary": "MCA Jaguars: 236/5(27) DYCL Cheetahs: 122/7(27)"
+  },
+  {
+   "matchId": "3057",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3057&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "TIC Little Masters",
+    "HPC-VCA U13"
+   ],
+   "teamIds": [
+    "866",
+    "867"
+   ],
+   "ground": "Coppell CG",
+   "result": "TIC Little Masters won by 3 Wickets",
+   "summary": "HPC-VCA U13: 143/6(30) TIC Little Masters: 144/7(30)"
+  },
+  {
+   "matchId": "3034",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3034&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "TCA Colts",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "860",
+    "862"
+   ],
+   "ground": "Horseshoe",
+   "result": "WCA Longhorn won by 147 Runs",
+   "summary": "WCA Longhorn: 211/2(30) TCA Colts: 64/10(18.3)"
+  },
+  {
+   "matchId": "3100",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3100&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "TCA Gladiators"
+   ],
+   "teamIds": [
+    "873",
+    "877"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Cheetahs won by 10 Wickets",
+   "summary": "TCA Gladiators: 153/10(39.1) MCA Cheetahs: 154/0(17.4)"
+  },
+  {
+   "matchId": "3037",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3037&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "874",
+    "882"
+   ],
+   "ground": "Denton CG2",
+   "result": "MCA Serval won by 4 Wickets",
+   "summary": "HPC Avengers: 183/9(33.2) MCA Serval: 184/6(35.5)"
+  },
+  {
+   "matchId": "3036",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3036&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "HiQ CCA",
+    "Superkings Cubs U15"
+   ],
+   "teamIds": [
+    "880",
+    "883"
+   ],
+   "ground": "Denton CG1",
+   "result": "HiQ CCA won by 10 Wickets",
+   "summary": "Superkings Cubs U15: 144/10(35.5) HiQ CCA: 147/0(7)"
+  },
+  {
+   "matchId": "3009",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3009&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "MCA Leopards",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "892",
+    "890"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Giants won by 247 Runs",
+   "summary": "FCCA Giants: 269/7(30) MCA Leopards: 22/10(18.2)"
+  },
+  {
+   "matchId": "2957",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2957&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "HPC Rising Stars",
+    "DYCL Eagles"
+   ],
+   "teamIds": [
+    "897",
+    "894"
+   ],
+   "ground": "Warriors CG",
+   "result": "DYCL Eagles won by 34 Runs",
+   "summary": "DYCL Eagles: 88/10(23.1) HPC Rising Stars: 54/10(25.4)"
+  },
+  {
+   "matchId": "3002",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3002&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "Superkings Cubs U11",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "903",
+    "898"
+   ],
+   "ground": "Warriors CG",
+   "result": "Superkings Cubs U11 won by 76 Runs",
+   "summary": "Superkings Cubs U11: 130/9(30) FCCA Titans: 54/10(16.3)"
+  },
+  {
+   "matchId": "2969",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2969&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "CCA Rangers",
+    "VCA U11"
+   ],
+   "teamIds": [
+    "899",
+    "901"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U11 won by 6 Wickets",
+   "summary": "CCA Rangers: 94/10(29.4) VCA U11: 95/4(14)"
+  },
+  {
+   "matchId": "3008",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3008&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "HPC-VCA U13"
+   ],
+   "teamIds": [
+    "856",
+    "867"
+   ],
+   "ground": "Coppell CG",
+   "result": "HPC-VCA U13 won by 30 Runs",
+   "summary": "HPC-VCA U13: 126/10(29.3) MCA Puma: 96/10(22.3)"
+  },
+  {
+   "matchId": "3001",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3001&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "TIC Evolution"
+   ],
+   "teamIds": [
+    "863",
+    "865"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Titans won by 10 Wickets",
+   "summary": "TIC Evolution: 77/10(24) CCA Titans: 78/0(12.1)"
+  },
+  {
+   "matchId": "3000",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3000&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "TIC Little Masters"
+   ],
+   "teamIds": [
+    "854",
+    "866"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Lions won by 6 Wickets",
+   "summary": "TIC Little Masters: 97/9(23.2) MCA Lions: 98/4(17.5)"
+  },
+  {
+   "matchId": "2958",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2958&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "TCA Stallions",
+    "DYCL Cheetahs"
+   ],
+   "teamIds": [
+    "859",
+    "861"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Stallions won by 10 Wickets",
+   "summary": "DYCL Cheetahs: 33/7(14) TCA Stallions: 34/0(4.4)"
+  },
+  {
+   "matchId": "2956",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2956&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "RCA Thunders"
+   ],
+   "teamIds": [
+    "858",
+    "869"
+   ],
+   "ground": "Sandy Lake",
+   "result": "TCA Broncos won by 221 Runs",
+   "summary": "TCA Broncos: 276/8(30) RCA Thunders: 55/10(27)"
+  },
+  {
+   "matchId": "2967",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2967&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "871",
+    "882"
+   ],
+   "ground": "BF Philips",
+   "result": "HPC Avengers won by 7 Wickets",
+   "summary": "FCCA Commanders: 138/10(38.2) HPC Avengers: 141/3(23.2)"
+  },
+  {
+   "matchId": "2909",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2909&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "Superkings Cubs U11",
+    "CCA Rangers"
+   ],
+   "teamIds": [
+    "903",
+    "899"
+   ],
+   "ground": "Sandy Lake",
+   "result": "Superkings Cubs U11 won by 3 Wickets",
+   "summary": "CCA Rangers: 154/10(30.1) Superkings Cubs U11: 155/7(21.5)"
+  },
+  {
+   "matchId": "2874",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2874&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "VCA U11",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "901",
+    "898"
+   ],
+   "ground": "Coppell CG",
+   "result": "FCCA Titans won by 50 Runs",
+   "summary": "FCCA Titans: 148/4(30) VCA U11: 98/10(19.5)"
+  },
+  {
+   "matchId": "2912",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2912&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "HPC-VCA U13"
+   ],
+   "teamIds": [
+    "853",
+    "867"
+   ],
+   "ground": "Coppell CG",
+   "result": "FCCA Jets won by 1 Run",
+   "summary": "FCCA Jets: 128/5(30) HPC-VCA U13: 127/10(29.5)"
+  },
+  {
+   "matchId": "2873",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2873&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts",
+    "TIC Raiders"
+   ],
+   "teamIds": [
+    "886",
+    "888"
+   ],
+   "ground": "Irving Polo 1",
+   "result": "TIC Raiders won by 89 Runs",
+   "summary": "TIC Raiders: 216/10(40) DYCL Bolts: 127/10(34.2)"
+  },
+  {
+   "matchId": "2755",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2755&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "CCA Strikers"
+   ],
+   "teamIds": [
+    "893",
+    "896"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers won by 60 Runs",
+   "summary": "CCA Strikers: 172/5(30) TCA Bolts: 112/10(27.4)"
+  },
+  {
+   "matchId": "2741",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2741&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "CCA Rangers",
+    "TIC Legends"
+   ],
+   "teamIds": [
+    "899",
+    "900"
+   ],
+   "ground": "Sandy Lake",
+   "result": "TIC Legends won by 8 Wickets",
+   "summary": "CCA Rangers: 80/7(20) TIC Legends: 81/2(14.4)"
+  },
+  {
+   "matchId": "2740",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2740&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "SAC Colts",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "902",
+    "898"
+   ],
+   "ground": "BF Philips",
+   "result": "SAC Colts won by 75 Runs",
+   "summary": "SAC Colts: 169/5(30) FCCA Titans: 94/10(20.2)"
+  },
+  {
+   "matchId": "2752",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2752&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "TIC Little Masters"
+   ],
+   "teamIds": [
+    "856",
+    "866"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Puma won by 3 Wickets",
+   "summary": "TIC Little Masters: 150/10(26.1) MCA Puma: 151/7(26.5)"
+  },
+  {
+   "matchId": "2736",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2736&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "CCA Giants",
+    "Superkings Cubs U13"
+   ],
+   "teamIds": [
+    "864",
+    "870"
+   ],
+   "ground": "Horseshoe",
+   "result": "Superkings Cubs U13 won by 27 Runs",
+   "summary": "Superkings Cubs U13: 180/10(29.1) CCA Giants: 153/10(29.2)"
+  },
+  {
+   "matchId": "2758",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2758&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "871",
+    "878"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL Panthers won by 84 Runs",
+   "summary": "DYCL Panthers: 250/8(40) FCCA Commanders: 166/10(38)"
+  },
+  {
+   "matchId": "2751",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2751&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "TIC Supernova"
+   ],
+   "teamIds": [
+    "872",
+    "881"
+   ],
+   "ground": "Stallions CG1",
+   "result": "TIC Supernova won by 220 Runs",
+   "summary": "TIC Supernova: 386/2(40) MCA Toyger: 166/10(35.1)"
+  },
+  {
+   "matchId": "2738",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2738&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans",
+    "MCA Panthers"
+   ],
+   "teamIds": [
+    "889",
+    "884"
+   ],
+   "ground": "Garland CG3",
+   "result": "MCA Panthers won by 226 Runs",
+   "summary": "MCA Panthers: 334/4(40) FCCA Spartans: 108/10(25)"
+  },
+  {
+   "matchId": "2725",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2725&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "HPC Rising Stars",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "897",
+    "891"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Tigers won by 49 Runs",
+   "summary": "MCA Tigers: 180/5(30) HPC Rising Stars: 131/9(30)"
+  },
+  {
+   "matchId": "2702",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2702&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "894",
+    "895"
+   ],
+   "ground": "Warriors CG",
+   "result": "WCA Aggies won by 70 Runs",
+   "summary": "WCA Aggies: 107/7(30.1) DYCL Eagles: 37/10(16.3)"
+  },
+  {
+   "matchId": "2712",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2712&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "VCA U11",
+    "Superkings Cubs U11"
+   ],
+   "teamIds": [
+    "901",
+    "903"
+   ],
+   "ground": "Coppell CG",
+   "result": "Superkings Cubs U11 won by 8 Runs",
+   "summary": "Superkings Cubs U11: 148/4(20) VCA U11: 140/5(20)"
+  },
+  {
+   "matchId": "2728",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2728&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "861",
+    "862"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Cheetahs won by 8 Wickets",
+   "summary": "WCA Longhorn: 196/8(30) DYCL Cheetahs: 197/2(26.5)"
+  },
+  {
+   "matchId": "2699",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2699&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "TCA Colts"
+   ],
+   "teamIds": [
+    "854",
+    "860"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Lions won by 299 Runs",
+   "summary": "MCA Lions: 353/1(30) TCA Colts: 54/10(18.4)"
+  },
+  {
+   "matchId": "2730",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2730&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "MCA Felis",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "875",
+    "879"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Felis won by 258 Runs",
+   "summary": "MCA Felis: 342/3(40) WCA Comets: 84/9(23.2)"
+  },
+  {
+   "matchId": "2729",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2729&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "TCA Knights",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "876",
+    "882"
+   ],
+   "ground": "Coppell CG",
+   "result": "HPC Avengers won by 4 Wickets",
+   "summary": "TCA Knights: 146/10(34.5) HPC Avengers: 147/6(31.1)"
+  },
+  {
+   "matchId": "2731",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2731&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts",
+    "TIC Royals"
+   ],
+   "teamIds": [
+    "886",
+    "887"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "TIC Royals won by 7 Wickets",
+   "summary": "DYCL Bolts: 107/10(27.3) TIC Royals: 109/3(17.1)"
+  },
+  {
+   "matchId": "2706",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2706&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "TCA Warriors",
+    "TIC Raiders"
+   ],
+   "teamIds": [
+    "885",
+    "888"
+   ],
+   "ground": "Garland CG 2",
+   "result": "TIC Raiders won by 9 Wickets",
+   "summary": "TCA Warriors: 178/10(40) TIC Raiders: 181/1(18)"
+  },
+  {
+   "matchId": "2690",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2690&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "MCA Leopards",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "892",
+    "891"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Tigers won by 221 Runs",
+   "summary": "MCA Tigers: 264/1(30) MCA Leopards: 43/10(21)"
+  },
+  {
+   "matchId": "2669",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2669&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "TIC Legends",
+    "Superkings Cubs U11"
+   ],
+   "teamIds": [
+    "900",
+    "903"
+   ],
+   "ground": "Horseshoe",
+   "result": "Superkings Cubs U11 won by 6 Wickets",
+   "summary": "TIC Legends: 139/6(20) Superkings Cubs U11: 140/4(18.1)"
+  },
+  {
+   "matchId": "2685",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2685&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "HPC-VCA U13"
+   ],
+   "teamIds": [
+    "861",
+    "867"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Cheetahs won by 10 Wickets",
+   "summary": "HPC-VCA U13: 103/10(26) DYCL Cheetahs: 104/0(19.3)"
+  },
+  {
+   "matchId": "2674",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2674&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "TIC Evolution"
+   ],
+   "teamIds": [
+    "853",
+    "865"
+   ],
+   "ground": "BF Philips",
+   "result": "TIC Evolution won by 26 Runs",
+   "summary": "TIC Evolution: 166/4(30) FCCA Jets: 140/6(30)"
+  },
+  {
+   "matchId": "2673",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2673&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "SAC Rahvans"
+   ],
+   "teamIds": [
+    "858",
+    "868"
+   ],
+   "ground": "Stallions CG2",
+   "result": "TCA Broncos won by 148 Runs",
+   "summary": "TCA Broncos: 245/5(30) SAC Rahvans: 97/10(24.5)"
+  },
+  {
+   "matchId": "2695",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2695&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "873",
+    "882"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Cheetahs won by 51 Runs",
+   "summary": "MCA Cheetahs: 260/5(40) HPC Avengers: 209/11(39.2)"
+  },
+  {
+   "matchId": "2694",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2694&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "MCA Felis"
+   ],
+   "teamIds": [
+    "871",
+    "875"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Felis won by 182 Runs",
+   "summary": "MCA Felis: 307/6(40) FCCA Commanders: 125/10(28)"
+  },
+  {
+   "matchId": "2683",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2683&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "TCA Knights",
+    "TIC Supernova"
+   ],
+   "teamIds": [
+    "876",
+    "881"
+   ],
+   "ground": "Stallions CG1",
+   "result": "TCA Knights won by 1 Wicket",
+   "summary": "TIC Supernova: 232/10(39.1) TCA Knights: 233/9(39.1)"
+  },
+  {
+   "matchId": "2671",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2671&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "872",
+    "879"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Toyger won by 6 Wickets",
+   "summary": "WCA Comets: 180/8(40) MCA Toyger: 183/4(24.2)"
+  },
+  {
+   "matchId": "2675",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2675&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "MCA Panthers",
+    "TCA Warriors"
+   ],
+   "teamIds": [
+    "884",
+    "885"
+   ],
+   "ground": "DFW CG New",
+   "result": "MCA Panthers won by 32 Runs",
+   "summary": "MCA Panthers: 217/10(36.4) TCA Warriors: 185/10(36)"
+  },
+  {
+   "matchId": "2670",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2670&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans",
+    "TIC Raiders"
+   ],
+   "teamIds": [
+    "889",
+    "888"
+   ],
+   "ground": "Garland CG3",
+   "result": "TIC Raiders won by 76 Runs",
+   "summary": "TIC Raiders: 299/4(40) FCCA Spartans: 223/10(37.1)"
+  },
+  {
+   "matchId": "2665",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2665&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "HPC Rising Stars",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "897",
+    "890"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Giants won by 7 Wickets",
+   "summary": "HPC Rising Stars: 83/10(23.2) FCCA Giants: 84/3(16.4)"
+  },
+  {
+   "matchId": "2658",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2658&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "893",
+    "895"
+   ],
+   "ground": "Warriors CG",
+   "result": "WCA Aggies won by 3 Wickets",
+   "summary": "TCA Bolts: 104/10(26.4) WCA Aggies: 105/7(26.1)"
+  },
+  {
+   "matchId": "2643",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2643&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "CCA Strikers"
+   ],
+   "teamIds": [
+    "894",
+    "896"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers won by 125 Runs",
+   "summary": "CCA Strikers: 193/3(20) DYCL Eagles: 68/6(20)"
+  },
+  {
+   "matchId": "2651",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2651&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "VCA U11",
+    "CCA Rangers"
+   ],
+   "teamIds": [
+    "901",
+    "899"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U11 won by 8 Wickets",
+   "summary": "CCA Rangers: 76/10(21.5) VCA U11: 79/2(12.3)"
+  },
+  {
+   "matchId": "2645",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2645&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "SAC Colts",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "902",
+    "898"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts won by 31 Runs",
+   "summary": "SAC Colts: 157/6(20) FCCA Titans: 126/10(19.1)"
+  },
+  {
+   "matchId": "2666",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2666&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "HPC-VCA U13"
+   ],
+   "teamIds": [
+    "863",
+    "867"
+   ],
+   "ground": "Coppell CG",
+   "result": "CCA Titans won by 5 Runs",
+   "summary": "CCA Titans: 196/4(30) HPC-VCA U13: 191/5(30)"
+  },
+  {
+   "matchId": "2661",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2661&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "TIC Little Masters",
+    "Superkings Cubs U13"
+   ],
+   "teamIds": [
+    "866",
+    "870"
+   ],
+   "ground": "Sandy Lake",
+   "result": "Superkings Cubs U13 won by 11 Runs",
+   "summary": "Superkings Cubs U13: 179/8(30) TIC Little Masters: 168/10(27.5)"
+  },
+  {
+   "matchId": "2659",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2659&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "TCA Stallions"
+   ],
+   "teamIds": [
+    "855",
+    "859"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 78 Runs",
+   "summary": "MCA Jaguars: 240/2(30) TCA Stallions: 162/7(30)"
+  },
+  {
+   "matchId": "2636",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2636&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "RCA Thunders"
+   ],
+   "teamIds": [
+    "857",
+    "869"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Lynx won by 289 Runs",
+   "summary": "MCA Lynx: 361/3(30) RCA Thunders: 72/10(28.5)"
+  },
+  {
+   "matchId": "2635",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2635&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "DYCL Cheetahs"
+   ],
+   "teamIds": [
+    "854",
+    "861"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Lions won by 163 Runs",
+   "summary": "MCA Lions: 249/7(30) DYCL Cheetahs: 86/9(22.3)"
+  },
+  {
+   "matchId": "2663",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2663&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers",
+    "HiQ CCA"
+   ],
+   "teamIds": [
+    "878",
+    "880"
+   ],
+   "ground": "Garland CG3",
+   "result": "HiQ CCA won by 2 Wickets",
+   "summary": "DYCL Panthers: 250/4(40) HiQ CCA: 252/8(32.1)"
+  },
+  {
+   "matchId": "2650",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2650&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "MCA Felis",
+    "TIC Supernova"
+   ],
+   "teamIds": [
+    "875",
+    "881"
+   ],
+   "ground": "DFW CG New",
+   "result": "MCA Felis won by 5 Wickets",
+   "summary": "TIC Supernova: 252/5(40) MCA Felis: 254/5(37.5)"
+  },
+  {
+   "matchId": "2637",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2637&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "Superkings Cubs U15"
+   ],
+   "teamIds": [
+    "874",
+    "883"
+   ],
+   "ground": "Garland CG3",
+   "result": "MCA Serval won by 333 Runs",
+   "summary": "MCA Serval: 414/2(40) Superkings Cubs U15: 81/8(16.5)"
+  },
+  {
+   "matchId": "2647",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2647&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "MCA Panthers",
+    "TIC Royals"
+   ],
+   "teamIds": [
+    "884",
+    "887"
+   ],
+   "ground": "Garland CG 2",
+   "result": "MCA Panthers won by 7 Wickets",
+   "summary": "TIC Royals: 260/5(40) MCA Panthers: 261/3(32.2)"
+  },
+  {
+   "matchId": "2644",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2644&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans",
+    "TCA Warriors"
+   ],
+   "teamIds": [
+    "889",
+    "885"
+   ],
+   "ground": "BF Philips",
+   "result": "TCA Warriors won by 3 Wickets",
+   "summary": "FCCA Spartans: 190/7(40) TCA Warriors: 191/7(38)"
+  },
+  {
+   "matchId": "2627",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2627&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "896",
+    "897"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers won by 8 Wickets",
+   "summary": "HPC Rising Stars: 63/10(22.3) CCA Strikers: 64/2(13.2)"
+  },
+  {
+   "matchId": "2634",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2634&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "TCA Stallions",
+    "HPC-VCA U13"
+   ],
+   "teamIds": [
+    "859",
+    "867"
+   ],
+   "ground": "NMCG 1",
+   "result": "TCA Stallions won by 7 Wickets",
+   "summary": "HPC-VCA U13: 169/6(30) TCA Stallions: 170/3(21.2)"
+  },
+  {
+   "matchId": "2633",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2633&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "Superkings Cubs U13"
+   ],
+   "teamIds": [
+    "858",
+    "870"
+   ],
+   "ground": "NMCG 2",
+   "result": "Superkings Cubs U13 won by 1 Wicket",
+   "summary": "TCA Broncos: 227/4(30) Superkings Cubs U13: 228/9(30)"
+  },
+  {
+   "matchId": "2620",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2620&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "MCA Lions"
+   ],
+   "teamIds": [
+    "853",
+    "854"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Lions won by 3 Wickets",
+   "summary": "FCCA Jets: 59/10(24.1) MCA Lions: 60/7(15.5)"
+  },
+  {
+   "matchId": "2616",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2616&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "TCA Colts"
+   ],
+   "teamIds": [
+    "856",
+    "860"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Puma won by 196 Runs",
+   "summary": "MCA Puma: 288/5(30) TCA Colts: 92/10(22.4)"
+  },
+  {
+   "matchId": "2630",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2630&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "MCA Serval"
+   ],
+   "teamIds": [
+    "871",
+    "874"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Serval won by 24 Runs",
+   "summary": "MCA Serval: 151/8(40) FCCA Commanders: 127/10(36.2)"
+  },
+  {
+   "matchId": "2625",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2625&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "MCA Felis"
+   ],
+   "teamIds": [
+    "873",
+    "875"
+   ],
+   "ground": "DFW CG New",
+   "result": "MCA Felis won by 66 Runs",
+   "summary": "MCA Felis: 251/2(40) MCA Cheetahs: 185/9(31.3)"
+  },
+  {
+   "matchId": "2618",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2618&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts",
+    "TIC Royals"
+   ],
+   "teamIds": [
+    "886",
+    "887"
+   ],
+   "ground": "Garland CG3",
+   "result": "DYCL Bolts won by 58 Runs",
+   "summary": "DYCL Bolts: 189/9(40) TIC Royals: 131/10(36)"
+  },
+  {
+   "matchId": "2612",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2612&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "FCCA Giants",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "890",
+    "891"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Giants won by 49 Runs",
+   "summary": "FCCA Giants: 133/3(20) MCA Tigers: 84/8(17)"
+  },
+  {
+   "matchId": "2606",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2606&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "MCA Leopards",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "892",
+    "895"
+   ],
+   "ground": "Warriors CG",
+   "result": "WCA Aggies won by 185 Runs",
+   "summary": "WCA Aggies: 215/6(26.1) MCA Leopards: 30/8(11.2)"
+  },
+  {
+   "matchId": "2588",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2588&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "DYCL Eagles"
+   ],
+   "teamIds": [
+    "893",
+    "894"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Bolts won by 27 Runs",
+   "summary": "TCA Bolts: 153/10(28.3) DYCL Eagles: 126/9(30)"
+  },
+  {
+   "matchId": "2600",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2600&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "SAC Colts",
+    "VCA U11"
+   ],
+   "teamIds": [
+    "902",
+    "901"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U11 won by 101 Runs",
+   "summary": "VCA U11: 230/0(20) SAC Colts: 129/6(20)"
+  },
+  {
+   "matchId": "2593",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2593&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "CCA Rangers",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "899",
+    "898"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Rangers won by 21 Runs",
+   "summary": "CCA Rangers: 143/9(30) FCCA Titans: 122/10(30)"
+  },
+  {
+   "matchId": "2615",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2615&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "861",
+    "863"
+   ],
+   "ground": "NMCG 1",
+   "result": "CCA Titans won by 4 Wickets",
+   "summary": "DYCL Cheetahs: 190/5(30) CCA Titans: 191/6(29.2)"
+  },
+  {
+   "matchId": "2614",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2614&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "CCA Giants"
+   ],
+   "teamIds": [
+    "857",
+    "864"
+   ],
+   "ground": "NMCG 2",
+   "result": "MCA Lynx won by 9 Wickets",
+   "summary": "CCA Giants: 145/7(30.1) MCA Lynx: 149/1(17.5)"
+  },
+  {
+   "matchId": "2607",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2607&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "TIC Evolution"
+   ],
+   "teamIds": [
+    "855",
+    "865"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 106 Runs",
+   "summary": "MCA Jaguars: 265/2(30) TIC Evolution: 159/7(30)"
+  },
+  {
+   "matchId": "2589",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2589&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "WCA Longhorn",
+    "RCA Thunders"
+   ],
+   "teamIds": [
+    "862",
+    "869"
+   ],
+   "ground": "Horseshoe",
+   "result": "WCA Longhorn won by 264 Runs",
+   "summary": "WCA Longhorn: 337/2(30) RCA Thunders: 73/10(17.3)"
+  },
+  {
+   "matchId": "2610",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2610&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "HiQ CCA",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "880",
+    "882"
+   ],
+   "ground": "Coppell CG",
+   "result": "HiQ CCA won by 5 Wickets (D/L)",
+   "summary": "HPC Avengers: 219/8(40) HiQ CCA: 206/5(20.5)"
+  },
+  {
+   "matchId": "2598",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2598&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "TCA Gladiators",
+    "TIC Supernova"
+   ],
+   "teamIds": [
+    "877",
+    "881"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "TIC Supernova won by 10 Wickets",
+   "summary": "TCA Gladiators: 134/9(40) TIC Supernova: 135/0(20.4)"
+  },
+  {
+   "matchId": "2609",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2609&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "TCA Warriors",
+    "TIC Raiders"
+   ],
+   "teamIds": [
+    "885",
+    "888"
+   ],
+   "ground": "Garland CG3",
+   "result": "TIC Raiders won by 7 Wickets",
+   "summary": "TCA Warriors: 181/9(40) TIC Raiders: 182/3(25.1)"
+  },
+  {
+   "matchId": "2591",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2591&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans",
+    "MCA Panthers"
+   ],
+   "teamIds": [
+    "889",
+    "884"
+   ],
+   "ground": "Garland CG3",
+   "result": "MCA Panthers won by 6 Wickets",
+   "summary": "FCCA Spartans: 168/10(39.3) MCA Panthers: 169/4(27.1)"
+  },
+  {
+   "matchId": "2579",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2579&clubId=40319",
+   "date": "2024-03-29",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "894",
+    "890"
+   ],
+   "ground": "Warriors CG",
+   "result": "FCCA Giants won by 8 Wickets",
+   "summary": "DYCL Eagles: 98/10(22) FCCA Giants: 99/2(12.2)"
+  },
+  {
+   "matchId": "2586",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2586&clubId=40319",
+   "date": "2024-03-29",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "Superkings Cubs U13"
+   ],
+   "teamIds": [
+    "853",
+    "870"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "Superkings Cubs U13 won by 2 Wickets",
+   "summary": "FCCA Jets: 126/6(30) Superkings Cubs U13: 127/8(27.4)"
+  },
+  {
+   "matchId": "2580",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2580&clubId=40319",
+   "date": "2024-03-29",
+   "type": "League",
+   "teams": [
+    "SAC Rahvans",
+    "RCA Thunders"
+   ],
+   "teamIds": [
+    "868",
+    "869"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "SAC Rahvans won by 40 Runs",
+   "summary": "SAC Rahvans: 83/10(21.1) RCA Thunders: 43/10(20.5)"
+  },
+  {
+   "matchId": "2583",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2583&clubId=40319",
+   "date": "2024-03-29",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "MCA Serval"
+   ],
+   "teamIds": [
+    "872",
+    "874"
+   ],
+   "ground": "NMCG 1",
+   "result": "MCA Toyger won by 3 Wickets",
+   "summary": "MCA Serval: 256/5(40) MCA Toyger: 257/7(39.5)"
+  },
+  {
+   "matchId": "2582",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2582&clubId=40319",
+   "date": "2024-03-29",
+   "type": "League",
+   "teams": [
+    "MCA Felis",
+    "Superkings Cubs U15"
+   ],
+   "teamIds": [
+    "875",
+    "883"
+   ],
+   "ground": "Alma Ground",
+   "result": "MCA Felis won by 293 Runs",
+   "summary": "MCA Felis: 329/4(40) Superkings Cubs U15: 36/9(15)"
+  },
+  {
+   "matchId": "2584",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2584&clubId=40319",
+   "date": "2024-03-29",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans",
+    "DYCL Bolts"
+   ],
+   "teamIds": [
+    "889",
+    "886"
+   ],
+   "ground": "NMCG 2",
+   "result": "FCCA Spartans won by 40 Runs",
+   "summary": "FCCA Spartans: 196/9(40) DYCL Bolts: 156/10(24.5)"
+  },
+  {
+   "matchId": "2581",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2581&clubId=40319",
+   "date": "2024-03-29",
+   "type": "League",
+   "teams": [
+    "TIC Royals",
+    "TIC Raiders"
+   ],
+   "teamIds": [
+    "887",
+    "888"
+   ],
+   "ground": "Irving Polo 1",
+   "result": "TIC Raiders won by 43 Runs",
+   "summary": "TIC Raiders: 249/6(40) TIC Royals: 206/11(38.2)"
+  },
+  {
+   "matchId": "2563",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2563&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "WCA Aggies",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "895",
+    "897"
+   ],
+   "ground": "Warriors CG",
+   "result": "WCA Aggies won by 5 Wickets",
+   "summary": "HPC Rising Stars: 33/11(15.4) WCA Aggies: 34/5(9.1)"
+  },
+  {
+   "matchId": "2575",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2575&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "Superkings Cubs U13"
+   ],
+   "teamIds": [
+    "863",
+    "870"
+   ],
+   "ground": "NMCG 2",
+   "result": "CCA Titans won by 106 Runs",
+   "summary": "CCA Titans: 247/6(30) Superkings Cubs U13: 141/10(27.4)"
+  },
+  {
+   "matchId": "2574",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2574&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "SAC Rahvans"
+   ],
+   "teamIds": [
+    "856",
+    "868"
+   ],
+   "ground": "NMCG 1",
+   "result": "MCA Puma won by 186 Runs",
+   "summary": "MCA Puma: 297/5(30) SAC Rahvans: 111/10(29.3)"
+  },
+  {
+   "matchId": "2558",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2558&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "DYCL Cheetahs"
+   ],
+   "teamIds": [
+    "853",
+    "861"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets won by 71 Runs",
+   "summary": "FCCA Jets: 160/7(30) DYCL Cheetahs: 89/9(28.5)"
+  },
+  {
+   "matchId": "2556",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2556&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "TCA Colts",
+    "CCA Giants"
+   ],
+   "teamIds": [
+    "860",
+    "864"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Giants won by 7 Wickets",
+   "summary": "TCA Colts: 78/10(20.3) CCA Giants: 79/3(16.2)"
+  },
+  {
+   "matchId": "2570",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2570&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "873",
+    "879"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Cheetahs won by 9 Wickets",
+   "summary": "WCA Comets: 67/10(25.3) MCA Cheetahs: 70/1(8.3)"
+  },
+  {
+   "matchId": "2567",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2567&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "MCA Toyger"
+   ],
+   "teamIds": [
+    "871",
+    "872"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Toyger won by 109 Runs",
+   "summary": "MCA Toyger: 245/10(40) FCCA Commanders: 136/10(32.1)"
+  },
+  {
+   "matchId": "2557",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2557&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "TCA Knights",
+    "DYCL Panthers"
+   ],
+   "teamIds": [
+    "876",
+    "878"
+   ],
+   "ground": "Sandy Lake",
+   "result": "DYCL Panthers won by 30 Runs",
+   "summary": "DYCL Panthers: 198/10(38.1) TCA Knights: 168/10(35.2)"
+  },
+  {
+   "matchId": "2552",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2552&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "896",
+    "891"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers won by 8 Wickets",
+   "summary": "MCA Tigers: 57/8(14.2) CCA Strikers: 59/2(8.2)"
+  },
+  {
+   "matchId": "2544",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2544&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "TIC Legends",
+    "Superkings Cubs U11"
+   ],
+   "teamIds": [
+    "900",
+    "903"
+   ],
+   "ground": "Warriors CG",
+   "result": "Superkings Cubs U11 won by 5 Wickets",
+   "summary": "TIC Legends: 155/3(30) Superkings Cubs U11: 156/5(29.2)"
+  },
+  {
+   "matchId": "2551",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2551&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "TIC Evolution",
+    "RCA Thunders"
+   ],
+   "teamIds": [
+    "865",
+    "869"
+   ],
+   "ground": "Irving Polo 1",
+   "result": "TIC Evolution won by 204 Runs",
+   "summary": "TIC Evolution: 278/1(30) RCA Thunders: 74/10(20.2)"
+  },
+  {
+   "matchId": "2545",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2545&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "854",
+    "862"
+   ],
+   "ground": "Irving Polo 1",
+   "result": "MCA Lions won by 142 Runs",
+   "summary": "MCA Lions: 184/4(30) WCA Longhorn: 42/11(19.5)"
+  },
+  {
+   "matchId": "2555",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2555&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "MCA Serval",
+    "HiQ CCA"
+   ],
+   "teamIds": [
+    "874",
+    "880"
+   ],
+   "ground": "Sandy Lake",
+   "result": "It is a Tie",
+   "summary": "HiQ CCA: 153/6(40) MCA Serval: 153/10(37.5)"
+  },
+  {
+   "matchId": "2546",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2546&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "TCA Gladiators",
+    "Superkings Cubs U15"
+   ],
+   "teamIds": [
+    "877",
+    "883"
+   ],
+   "ground": "Sandy Lake",
+   "result": "TCA Gladiators won by 9 Wickets",
+   "summary": "Superkings Cubs U15: 96/10(33.4) TCA Gladiators: 97/1(16.1)"
+  },
+  {
+   "matchId": "2526",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2526&clubId=40319",
+   "date": "2024-03-16",
+   "type": "League",
+   "teams": [
+    "TIC Legends",
+    "SAC Colts"
+   ],
+   "teamIds": [
+    "900",
+    "902"
+   ],
+   "ground": "Warriors CG",
+   "result": "SAC Colts won by 6 Wickets",
+   "summary": "TIC Legends: 95/10(20.3) SAC Colts: 97/4(15.4)"
+  },
+  {
+   "matchId": "2527",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2527&clubId=40319",
+   "date": "2024-03-16",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers",
+    "Superkings Cubs U15"
+   ],
+   "teamIds": [
+    "878",
+    "883"
+   ],
+   "ground": "Garland CG3",
+   "result": "Abandoned.",
+   "summary": "DYCL Panthers: 291/3(37) Superkings Cubs U15: 31/3(9)"
+  },
+  {
+   "matchId": "2525",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2525&clubId=40319",
+   "date": "2024-03-10",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "CCA Giants"
+   ],
+   "teamIds": [
+    "855",
+    "864"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 7 Wickets",
+   "summary": "CCA Giants: 51/10(25) MCA Jaguars: 52/3(13.2)"
+  },
+  {
+   "matchId": "2524",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2524&clubId=40319",
+   "date": "2024-03-09",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "896",
+    "895"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers won by 23 Runs",
+   "summary": "CCA Strikers: 97/5(18.2) WCA Aggies: 74/10(19.2)"
+  },
+  {
+   "matchId": "2523",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2523&clubId=40319",
+   "date": "2024-03-09",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "893",
+    "891"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Bolts won by 22 Runs",
+   "summary": "TCA Bolts: 214/2(25) MCA Tigers: 192/8(25)"
+  },
+  {
+   "matchId": "2519",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2519&clubId=40319",
+   "date": "2024-03-03",
+   "type": "League",
+   "teams": [
+    "WCA Aggies",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "895",
+    "891"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Tigers won by 34 Runs",
+   "summary": "MCA Tigers: 137/3(20) WCA Aggies: 103/6(20)"
+  },
+  {
+   "matchId": "2522",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2522&clubId=40319",
+   "date": "2024-03-03",
+   "type": "League",
+   "teams": [
+    "TCA Colts",
+    "RCA Thunders"
+   ],
+   "teamIds": [
+    "860",
+    "869"
+   ],
+   "ground": "NMCG 1",
+   "result": "TCA Colts won by 66 Runs",
+   "summary": "TCA Colts: 169/10(28.2) RCA Thunders: 103/10(22.2)"
+  },
+  {
+   "matchId": "2521",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2521&clubId=40319",
+   "date": "2024-03-03",
+   "type": "League",
+   "teams": [
+    "WCA Longhorn",
+    "TIC Evolution"
+   ],
+   "teamIds": [
+    "862",
+    "865"
+   ],
+   "ground": "NMCG 2",
+   "result": "TIC Evolution won by 52 Runs",
+   "summary": "TIC Evolution: 210/10(27.5) WCA Longhorn: 158/9(28.1)"
+  },
+  {
+   "matchId": "2518",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2518&clubId=40319",
+   "date": "2024-03-03",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "MCA Lynx"
+   ],
+   "teamIds": [
+    "853",
+    "857"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Lynx won by 80 Runs",
+   "summary": "MCA Lynx: 203/4(30) FCCA Jets: 123/10(28.5)"
+  },
+  {
+   "matchId": "2516",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2516&clubId=40319",
+   "date": "2024-03-03",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "CCA Giants"
+   ],
+   "teamIds": [
+    "858",
+    "864"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Broncos won by 50 Runs",
+   "summary": "TCA Broncos: 186/4(30) CCA Giants: 136/8(30)"
+  },
+  {
+   "matchId": "2520",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2520&clubId=40319",
+   "date": "2024-03-03",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders",
+    "TCA Gladiators"
+   ],
+   "teamIds": [
+    "871",
+    "877"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Commanders won by 58 Runs",
+   "summary": "FCCA Commanders: 164/9(40) TCA Gladiators: 106/10(25.1)"
+  },
+  {
+   "matchId": "2517",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2517&clubId=40319",
+   "date": "2024-03-03",
+   "type": "League",
+   "teams": [
+    "WCA Comets",
+    "TIC Supernova"
+   ],
+   "teamIds": [
+    "879",
+    "881"
+   ],
+   "ground": "Garland CG3",
+   "result": "TIC Supernova won by 383 Runs",
+   "summary": "TIC Supernova: 470/4(40) WCA Comets: 87/10(20.1)"
+  },
+  {
+   "matchId": "2510",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2510&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "MCA Leopards"
+   ],
+   "teamIds": [
+    "893",
+    "892"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Bolts won by 8 Wickets",
+   "summary": "MCA Leopards: 94/6(20) TCA Bolts: 96/2(6.2)"
+  },
+  {
+   "matchId": "2509",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2509&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "894",
+    "897"
+   ],
+   "ground": "Warriors CG",
+   "result": "HPC Rising Stars won by 22 Runs",
+   "summary": "HPC Rising Stars: 163/4(20) DYCL Eagles: 141/9(20)"
+  },
+  {
+   "matchId": "2507",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2507&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "896",
+    "890"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Strikers won by 9 Wickets",
+   "summary": "FCCA Giants: 139/6(30) CCA Strikers: 140/1(19.4)"
+  },
+  {
+   "matchId": "2512",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2512&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "Superkings Cubs U11",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "903",
+    "898"
+   ],
+   "ground": "BF Philips",
+   "result": "Superkings Cubs U11 won by 86 Runs",
+   "summary": "Superkings Cubs U11: 157/8(30) FCCA Titans: 71/8(16.3)"
+  },
+  {
+   "matchId": "2508",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2508&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "VCA U11",
+    "SAC Colts"
+   ],
+   "teamIds": [
+    "901",
+    "902"
+   ],
+   "ground": "Coppell CG",
+   "result": "SAC Colts won by 7 Wickets",
+   "summary": "VCA U11: 129/10(21) SAC Colts: 130/3(19.1)"
+  },
+  {
+   "matchId": "2506",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2506&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "TIC Legends",
+    "CCA Rangers"
+   ],
+   "teamIds": [
+    "900",
+    "899"
+   ],
+   "ground": "Warriors CG",
+   "result": "TIC Legends won by 9 Wickets",
+   "summary": "CCA Rangers: 111/6(30) TIC Legends: 115/1(21)"
+  },
+  {
+   "matchId": "2515",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2515&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "HPC-VCA U13"
+   ],
+   "teamIds": [
+    "855",
+    "867"
+   ],
+   "ground": "Coppell CG",
+   "result": "MCA Jaguars won by 8 Wickets",
+   "summary": "HPC-VCA U13: 111/10(27.3) MCA Jaguars: 112/2(15.2)"
+  },
+  {
+   "matchId": "2514",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2514&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "TIC Little Masters"
+   ],
+   "teamIds": [
+    "861",
+    "866"
+   ],
+   "ground": "NMCG 2",
+   "result": "TIC Little Masters won by 225 Runs",
+   "summary": "TIC Little Masters: 322/2(30) DYCL Cheetahs: 97/10(26.5)"
+  },
+  {
+   "matchId": "2513",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2513&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "SAC Rahvans"
+   ],
+   "teamIds": [
+    "854",
+    "868"
+   ],
+   "ground": "NMCG 1",
+   "result": "MCA Lions won by 178 Runs",
+   "summary": "MCA Lions: 260/4(30) SAC Rahvans: 82/9(30)"
+  },
+  {
+   "matchId": "2504",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2504&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "TCA Stallions"
+   ],
+   "teamIds": [
+    "856",
+    "859"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Stallions won by 7 Wickets",
+   "summary": "MCA Puma: 152/10(28.3) TCA Stallions: 155/3(26.4)"
+  },
+  {
+   "matchId": "2511",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2511&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers",
+    "HPC Avengers"
+   ],
+   "teamIds": [
+    "878",
+    "882"
+   ],
+   "ground": "Garland CG3",
+   "result": "HPC Avengers won by 132 Runs",
+   "summary": "HPC Avengers: 286/7(40) DYCL Panthers: 154/10(29.1)"
+  },
+  {
+   "matchId": "2505",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2505&clubId=40319",
+   "date": "2024-03-02",
+   "type": "League",
+   "teams": [
+    "MCA Toyger",
+    "TCA Knights"
+   ],
+   "teamIds": [
+    "872",
+    "876"
+   ],
+   "ground": "Garland CG3",
+   "result": "MCA Toyger won by 8 Wickets",
+   "summary": "TCA Knights: 264/5(40) MCA Toyger: 269/2(33.5)"
+  }
+ ]
+}

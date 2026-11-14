@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s236",
+  "id": "legacy-228",
+  "name": "2024 - USA Cricket Dallas Hub trials"
+ },
+ "fetchedAt": "2026-11-13T22:39:23.467Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=228&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=228&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3777",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3777&clubId=40319",
+   "date": "2024-07-28",
+   "type": "League",
+   "teams": [
+    "Kings (Team A)",
+    "Royals (Team C)"
+   ],
+   "teamIds": [
+    "1326",
+    "1328"
+   ],
+   "ground": "NMCG 1",
+   "result": "Royals (Team C) won by 14 Runs",
+   "summary": "Royals (Team C): 172/8(40) Kings (Team A): 158/10(39.2)"
+  },
+  {
+   "matchId": "3776",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3776&clubId=40319",
+   "date": "2024-07-28",
+   "type": "League",
+   "teams": [
+    "Giants (Team B)",
+    "Titans (Team D)"
+   ],
+   "teamIds": [
+    "1327",
+    "1329"
+   ],
+   "ground": "NMCG 2",
+   "result": "Giants (Team B) won by 41 Runs",
+   "summary": "Giants (Team B): 196/5(40) Titans (Team D): 155/10(38.1)"
+  },
+  {
+   "matchId": "3785",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3785&clubId=40319",
+   "date": "2024-07-28",
+   "type": "League",
+   "teams": [
+    "Smashers (Team B)",
+    "Sonics (Team D)"
+   ],
+   "teamIds": [
+    "1331",
+    "1333"
+   ],
+   "ground": "Horseshoe",
+   "result": "Smashers (Team B) won by 45 Runs",
+   "summary": "Smashers (Team B): 128/7(30) Sonics (Team D): 83/10(22.4)"
+  },
+  {
+   "matchId": "3775",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3775&clubId=40319",
+   "date": "2024-07-28",
+   "type": "League",
+   "teams": [
+    "Avengers ( Team A)",
+    "Blasters (Team C)"
+   ],
+   "teamIds": [
+    "1330",
+    "1332"
+   ],
+   "ground": "Horseshoe",
+   "result": "Avengers ( Team A) won by 13 Runs",
+   "summary": "Avengers ( Team A): 127/8(30) Blasters (Team C): 114/8(30)"
+  },
+  {
+   "matchId": "3767",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3767&clubId=40319",
+   "date": "2024-07-27",
+   "type": "League",
+   "teams": [
+    "Royals (Team C)",
+    "Titans (Team D)"
+   ],
+   "teamIds": [
+    "1328",
+    "1329"
+   ],
+   "ground": "NMCG 2",
+   "result": "Royals (Team C) won by 1 Wicket",
+   "summary": "Titans (Team D): 157/7(40) Royals (Team C): 158/9(38.3)"
+  },
+  {
+   "matchId": "3766",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3766&clubId=40319",
+   "date": "2024-07-27",
+   "type": "League",
+   "teams": [
+    "Kings (Team A)",
+    "Giants (Team B)"
+   ],
+   "teamIds": [
+    "1326",
+    "1327"
+   ],
+   "ground": "NMCG 1",
+   "result": "Kings (Team A) won by 5 Runs",
+   "summary": "Kings (Team A): 137/10(35.4) Giants (Team B): 132/10(37.2)"
+  },
+  {
+   "matchId": "3774",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3774&clubId=40319",
+   "date": "2024-07-27",
+   "type": "League",
+   "teams": [
+    "Blasters (Team C)",
+    "Sonics (Team D)"
+   ],
+   "teamIds": [
+    "1332",
+    "1333"
+   ],
+   "ground": "Horseshoe",
+   "result": "Sonics (Team D) won by 7 Wickets",
+   "summary": "Blasters (Team C): 114/8(30) Sonics (Team D): 116/3(20)"
+  },
+  {
+   "matchId": "3763",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3763&clubId=40319",
+   "date": "2024-07-27",
+   "type": "League",
+   "teams": [
+    "Avengers ( Team A)",
+    "Smashers (Team B)"
+   ],
+   "teamIds": [
+    "1330",
+    "1331"
+   ],
+   "ground": "Horseshoe",
+   "result": "Smashers (Team B) won by 41 Runs",
+   "summary": "Smashers (Team B): 134/8(30) Avengers ( Team A): 93/10(24.5)"
+  }
+ ]
+}

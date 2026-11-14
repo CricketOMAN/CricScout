@@ -1,0 +1,490 @@
+{
+ "season": {
+  "key": "s145",
+  "id": "legacy-381",
+  "name": "USAC 2025 - U15 West Conference Championship"
+ },
+ "fetchedAt": "2026-11-13T22:15:41.663Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=381&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=381&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6207",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6207&clubId=40319",
+   "date": "2025-08-05",
+   "type": "League",
+   "teams": [
+    "Western Sub Conference Combined Team",
+    "Houston_U15"
+   ],
+   "teamIds": [
+    "2253",
+    "2235"
+   ],
+   "ground": "PV4",
+   "result": "Western Sub Conference Combined Team won by 94 Runs",
+   "summary": "Western Sub Conference Combined Team: 208/10(38.4) Houston_U15: 114/10(31.4)"
+  },
+  {
+   "matchId": "6206",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6206&clubId=40319",
+   "date": "2025-08-05",
+   "type": "League",
+   "teams": [
+    "Bay Area Regional Team",
+    "Missouri_U15"
+   ],
+   "teamIds": [
+    "2250",
+    "2233"
+   ],
+   "ground": "PV5",
+   "result": "Bay Area Regional Team won by 27 Runs",
+   "summary": "Bay Area Regional Team: 170/9(40) Missouri_U15: 143/8(40)"
+  },
+  {
+   "matchId": "6205",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6205&clubId=40319",
+   "date": "2025-08-05",
+   "type": "League",
+   "teams": [
+    "SoCal Regional Team",
+    "DA_Hou_MO_Comb_U15"
+   ],
+   "teamIds": [
+    "2252",
+    "2236"
+   ],
+   "ground": "MatzkeW",
+   "result": "DA_Hou_MO_Comb_U15 won by 2 Wickets",
+   "summary": "SoCal Regional Team: 197/12(38.5) DA_Hou_MO_Comb_U15: 198/8(38.5)"
+  },
+  {
+   "matchId": "6204",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6204&clubId=40319",
+   "date": "2025-08-05",
+   "type": "League",
+   "teams": [
+    "Seattle Regional Team",
+    "Dallas_U15"
+   ],
+   "teamIds": [
+    "2251",
+    "2234"
+   ],
+   "ground": "PV2",
+   "result": "Dallas_U15 won by 4 Wickets",
+   "summary": "Seattle Regional Team: 112/10(35.2) Dallas_U15: 113/6(13.3)"
+  },
+  {
+   "matchId": "6201",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6201&clubId=40319",
+   "date": "2025-08-04",
+   "type": "League",
+   "teams": [
+    "Houston_U15",
+    "Bay Area Regional Team"
+   ],
+   "teamIds": [
+    "2235",
+    "2250"
+   ],
+   "ground": "PV4",
+   "result": "Abandoned.",
+   "summary": "Bay Area Regional Team: 0/0(0)"
+  },
+  {
+   "matchId": "6200",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6200&clubId=40319",
+   "date": "2025-08-04",
+   "type": "League",
+   "teams": [
+    "Dallas_U15",
+    "SoCal Regional Team"
+   ],
+   "teamIds": [
+    "2234",
+    "2252"
+   ],
+   "ground": "PV6",
+   "result": "Abandoned.",
+   "summary": "Dallas_U15: 0/0(0)"
+  },
+  {
+   "matchId": "6195",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6195&clubId=40319",
+   "date": "2025-08-04",
+   "type": "League",
+   "teams": [
+    "Missouri_U15",
+    "Western Sub Conference Combined Team"
+   ],
+   "teamIds": [
+    "2233",
+    "2253"
+   ],
+   "ground": "PV5",
+   "result": "Abandoned.",
+   "summary": "Missouri_U15: 0/0(0)"
+  },
+  {
+   "matchId": "6194",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6194&clubId=40319",
+   "date": "2025-08-04",
+   "type": "League",
+   "teams": [
+    "DA_Hou_MO_Comb_U15",
+    "Seattle Regional Team"
+   ],
+   "teamIds": [
+    "2236",
+    "2251"
+   ],
+   "ground": "PV2",
+   "result": "Abandoned.",
+   "summary": "Seattle Regional Team: 0/0(0)"
+  },
+  {
+   "matchId": "6182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6182&clubId=40319",
+   "date": "2025-08-03",
+   "type": "League",
+   "teams": [
+    "Seattle Regional Team",
+    "Missouri_U15"
+   ],
+   "teamIds": [
+    "2251",
+    "2233"
+   ],
+   "ground": "PV4",
+   "result": "Missouri_U15 won by 74 Runs",
+   "summary": "Missouri_U15: 188/7(40) Seattle Regional Team: 114/10(30)"
+  },
+  {
+   "matchId": "6181",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6181&clubId=40319",
+   "date": "2025-08-03",
+   "type": "League",
+   "teams": [
+    "Western Sub Conference Combined Team",
+    "DA_Hou_MO_Comb_U15"
+   ],
+   "teamIds": [
+    "2253",
+    "2236"
+   ],
+   "ground": "PV5",
+   "result": "Western Sub Conference Combined Team won by 3 Wickets",
+   "summary": "DA_Hou_MO_Comb_U15: 150/9(40) Western Sub Conference Combined Team: 153/7(35.4)"
+  },
+  {
+   "matchId": "6180",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6180&clubId=40319",
+   "date": "2025-08-03",
+   "type": "League",
+   "teams": [
+    "Bay Area Regional Team",
+    "Dallas_U15"
+   ],
+   "teamIds": [
+    "2250",
+    "2234"
+   ],
+   "ground": "PV6",
+   "result": "Bay Area Regional Team won by 3 Wickets",
+   "summary": "Dallas_U15: 180/8(40) Bay Area Regional Team: 181/7(37)"
+  },
+  {
+   "matchId": "6179",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6179&clubId=40319",
+   "date": "2025-08-03",
+   "type": "League",
+   "teams": [
+    "SoCal Regional Team",
+    "Houston_U15"
+   ],
+   "teamIds": [
+    "2252",
+    "2235"
+   ],
+   "ground": "PV2",
+   "result": "Houston_U15 won by 6 Wickets",
+   "summary": "SoCal Regional Team: 163/9(40) Houston_U15: 165/4(30.3)"
+  },
+  {
+   "matchId": "6164",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6164&clubId=40319",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Dallas_U15",
+    "Western Sub Conference Combined Team"
+   ],
+   "teamIds": [
+    "2234",
+    "2253"
+   ],
+   "ground": "PV4",
+   "result": "Dallas_U15 won by 43 Runs",
+   "summary": "Dallas_U15: 171/10(37) Western Sub Conference Combined Team: 128/10(32.1)"
+  },
+  {
+   "matchId": "6163",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6163&clubId=40319",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "DA_Hou_MO_Comb_U15",
+    "Bay Area Regional Team"
+   ],
+   "teamIds": [
+    "2236",
+    "2250"
+   ],
+   "ground": "PV5",
+   "result": "Bay Area Regional Team won by 122 Runs",
+   "summary": "Bay Area Regional Team: 234/7(40) DA_Hou_MO_Comb_U15: 112/11(29.3)"
+  },
+  {
+   "matchId": "6162",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6162&clubId=40319",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Houston_U15",
+    "Seattle Regional Team"
+   ],
+   "teamIds": [
+    "2235",
+    "2251"
+   ],
+   "ground": "PV2",
+   "result": "Houston_U15 won by 5 Wickets",
+   "summary": "Seattle Regional Team: 137/10(32) Houston_U15: 138/5(23.5)"
+  },
+  {
+   "matchId": "6161",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6161&clubId=40319",
+   "date": "2025-08-02",
+   "type": "League",
+   "teams": [
+    "Missouri_U15",
+    "SoCal Regional Team"
+   ],
+   "teamIds": [
+    "2233",
+    "2252"
+   ],
+   "ground": "PV6",
+   "result": "Missouri_U15 won by 3 Wickets",
+   "summary": "SoCal Regional Team: 98/10(27) Missouri_U15: 99/7(30.3)"
+  },
+  {
+   "matchId": "6070",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6070&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "Bay Area Regional Team",
+    "Western Sub Conference Combined Team"
+   ],
+   "teamIds": [
+    "2250",
+    "2253"
+   ],
+   "ground": "FSP",
+   "result": "Bay Area Regional Team won by 102 Runs",
+   "summary": "Bay Area Regional Team: 182/9(40) Western Sub Conference Combined Team: 80/10(28.3)"
+  },
+  {
+   "matchId": "6069",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6069&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "Seattle Regional Team",
+    "SoCal Regional Team"
+   ],
+   "teamIds": [
+    "2251",
+    "2252"
+   ],
+   "ground": "Meriwest",
+   "result": "Seattle Regional Team won by 9 Runs",
+   "summary": "Seattle Regional Team: 150/10(37.4) SoCal Regional Team: 141/10(33.3)"
+  },
+  {
+   "matchId": "6065",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6065&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "Dallas_U15",
+    "DA_Hou_MO_Comb_U15"
+   ],
+   "teamIds": [
+    "2234",
+    "2236"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Super Over. Winner: Dallas_U15",
+   "summary": "DA_Hou_MO_Comb_U15: 209/6(40) Dallas_U15: 209/9(40)"
+  },
+  {
+   "matchId": "6064",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6064&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "Houston_U15",
+    "Missouri_U15"
+   ],
+   "teamIds": [
+    "2235",
+    "2233"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Houston_U15 won by 4 Wickets",
+   "summary": "Missouri_U15: 139/7(40) Houston_U15: 141/6(35.2)"
+  },
+  {
+   "matchId": "6053",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6053&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Bay Area Regional Team",
+    "SoCal Regional Team"
+   ],
+   "teamIds": [
+    "2250",
+    "2252"
+   ],
+   "ground": "Meriwest",
+   "result": "Bay Area Regional Team won by 10 Wickets",
+   "summary": "SoCal Regional Team: 73/10(21.1) Bay Area Regional Team: 76/0(16.2)"
+  },
+  {
+   "matchId": "6052",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6052&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Western Sub Conference Combined Team",
+    "Seattle Regional Team"
+   ],
+   "teamIds": [
+    "2253",
+    "2251"
+   ],
+   "ground": "FSP",
+   "result": "Western Sub Conference Combined Team won by 7 Wickets",
+   "summary": "Seattle Regional Team: 159/10(39.4) Western Sub Conference Combined Team: 163/3(32)"
+  },
+  {
+   "matchId": "6043",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6043&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Dallas_U15",
+    "Houston_U15"
+   ],
+   "teamIds": [
+    "2234",
+    "2235"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Dallas_U15 won by 8 Wickets",
+   "summary": "Houston_U15: 140/10(38.1) Dallas_U15: 144/2(35.1)"
+  },
+  {
+   "matchId": "6042",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6042&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Missouri_U15",
+    "DA_Hou_MO_Comb_U15"
+   ],
+   "teamIds": [
+    "2233",
+    "2236"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Missouri_U15 won by 48 Runs",
+   "summary": "Missouri_U15: 144/9(40) DA_Hou_MO_Comb_U15: 96/10(34.1)"
+  },
+  {
+   "matchId": "6034",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6034&clubId=40319",
+   "date": "2025-07-18",
+   "type": "League",
+   "teams": [
+    "Bay Area Regional Team",
+    "Seattle Regional Team"
+   ],
+   "teamIds": [
+    "2250",
+    "2251"
+   ],
+   "ground": "FSP",
+   "result": "Bay Area Regional Team won by 130 Runs",
+   "summary": "Bay Area Regional Team: 229/6(40) Seattle Regional Team: 99/10(34.2)"
+  },
+  {
+   "matchId": "6033",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6033&clubId=40319",
+   "date": "2025-07-18",
+   "type": "League",
+   "teams": [
+    "Western Sub Conference Combined Team",
+    "SoCal Regional Team"
+   ],
+   "teamIds": [
+    "2253",
+    "2252"
+   ],
+   "ground": "Meriwest",
+   "result": "Western Sub Conference Combined Team won by 42 Runs",
+   "summary": "Western Sub Conference Combined Team: 229/7(40) SoCal Regional Team: 187/10(38.2)"
+  },
+  {
+   "matchId": "6030",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6030&clubId=40319",
+   "date": "2025-07-18",
+   "type": "League",
+   "teams": [
+    "Dallas_U15",
+    "Missouri_U15"
+   ],
+   "teamIds": [
+    "2234",
+    "2233"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Missouri_U15 won by 4 Wickets",
+   "summary": "Dallas_U15: 73/10(25.1) Missouri_U15: 77/6(16.5)"
+  },
+  {
+   "matchId": "6029",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6029&clubId=40319",
+   "date": "2025-07-18",
+   "type": "League",
+   "teams": [
+    "Houston_U15",
+    "DA_Hou_MO_Comb_U15"
+   ],
+   "teamIds": [
+    "2235",
+    "2236"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Houston_U15 won by 7 Wickets",
+   "summary": "DA_Hou_MO_Comb_U15: 95/11(29) Houston_U15: 99/3(13.2)"
+  }
+ ]
+}

@@ -1,0 +1,813 @@
+{
+ "season": {
+  "key": "s272",
+  "id": "legacy-153",
+  "name": "USAC Youth 2024 - Southern California AZ Hub"
+ },
+ "fetchedAt": "2026-11-13T22:49:38.009Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=153&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=153&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4200",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4200&clubId=40319",
+   "date": "2024-11-02",
+   "type": "League",
+   "teams": [
+    "SDCCYA Bolts",
+    "WYCA Tigers"
+   ],
+   "teamIds": [
+    "1228",
+    "1229"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "WYCA Tigers won by 5 Runs",
+   "summary": "WYCA Tigers: 145/4(25) SDCCYA Bolts: 140/10(24.4)"
+  },
+  {
+   "matchId": "4158",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4158&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "WYCA Tigers"
+   ],
+   "teamIds": [
+    "1231",
+    "1229"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "WYCA Tigers won by 110 Runs",
+   "summary": "WYCA Tigers: 194/3(25) SCVCA: 84/10(23.3)"
+  },
+  {
+   "matchId": "4135",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4135&clubId=40319",
+   "date": "2024-10-06",
+   "type": "League",
+   "teams": [
+    "WYCA Tigers",
+    "SCYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1229",
+    "1230"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "SCYCA-SCCAY won by 74 Runs",
+   "summary": "SCYCA-SCCAY: 162/5(25) WYCA Tigers: 88/4(25)"
+  },
+  {
+   "matchId": "4103",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4103&clubId=40319",
+   "date": "2024-09-22",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "SCYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1231",
+    "1230"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "SCYCA-SCCAY won by 5 Wickets",
+   "summary": "SCVCA: 93/9(25) SCYCA-SCCAY: 96/5(13.2)"
+  },
+  {
+   "matchId": "4096",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4096&clubId=40319",
+   "date": "2024-09-22",
+   "type": "League",
+   "teams": [
+    "SCYCA-SCCAY",
+    "WYCA Tigers"
+   ],
+   "teamIds": [
+    "1230",
+    "1229"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "SCYCA-SCCAY won by 22 Runs",
+   "summary": "SCYCA-SCCAY: 143/6(25) WYCA Tigers: 121/9(23.4)"
+  },
+  {
+   "matchId": "4094",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4094&clubId=40319",
+   "date": "2024-09-21",
+   "type": "League",
+   "teams": [
+    "AZYCA",
+    "WYCA Tigers"
+   ],
+   "teamIds": [
+    "1232",
+    "1229"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "WYCA Tigers won by 74 Runs",
+   "summary": "WYCA Tigers: 171/4(25) AZYCA: 97/10(17)"
+  },
+  {
+   "matchId": "4093",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4093&clubId=40319",
+   "date": "2024-09-21",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "SDCCYA Bolts"
+   ],
+   "teamIds": [
+    "1231",
+    "1228"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "SDCCYA Bolts won by 4 Wickets",
+   "summary": "SCVCA: 130/10(23.1) SDCCYA Bolts: 131/6(23.4)"
+  },
+  {
+   "matchId": "4088",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4088&clubId=40319",
+   "date": "2024-09-21",
+   "type": "League",
+   "teams": [
+    "WYCA Tigers",
+    "SDCCYA Bolts"
+   ],
+   "teamIds": [
+    "1229",
+    "1228"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "WYCA Tigers won by 55 Runs",
+   "summary": "WYCA Tigers: 153/6(25) SDCCYA Bolts: 98/10(19.3)"
+  },
+  {
+   "matchId": "4087",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4087&clubId=40319",
+   "date": "2024-09-21",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "AZYCA"
+   ],
+   "teamIds": [
+    "1231",
+    "1232"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "SCVCA won by 19 Runs",
+   "summary": "SCVCA: 121/9(25) AZYCA: 102/10(19.1)"
+  },
+  {
+   "matchId": "3300",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3300&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "AZYCA",
+    "SDCCYA Bolts"
+   ],
+   "teamIds": [
+    "1232",
+    "1228"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SDCCYA Bolts won by 2 Runs",
+   "summary": "SDCCYA Bolts: 158/4(25) AZYCA: 156/5(25)"
+  },
+  {
+   "matchId": "3292",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3292&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "SDCCYA Bolts",
+    "AZYCA"
+   ],
+   "teamIds": [
+    "1228",
+    "1232"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "AZYCA won by 2 Wickets",
+   "summary": "SDCCYA Bolts: 124/7(25) AZYCA: 125/8(24.4)"
+  },
+  {
+   "matchId": "3291",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3291&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "SCYCA-SCCAY",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1230",
+    "1231"
+   ],
+   "ground": "Views West San Diego",
+   "result": "SCYCA-SCCAY won by 8 Wickets",
+   "summary": "SCVCA: 128/10(25) SCYCA-SCCAY: 131/2(10.2)"
+  },
+  {
+   "matchId": "3279",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3279&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "AZYCA",
+    "SCYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1232",
+    "1230"
+   ],
+   "ground": "Views West San Diego",
+   "result": "SCYCA-SCCAY won by 194 Runs",
+   "summary": "SCYCA-SCCAY: 255/4(25) AZYCA: 61/9(25)"
+  },
+  {
+   "matchId": "3263",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3263&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "SDCCYA Bolts",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1228",
+    "1231"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SCVCA won by 4 Wickets",
+   "summary": "SDCCYA Bolts: 155/4(25) SCVCA: 157/6(21.2)"
+  },
+  {
+   "matchId": "3228",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3228&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "SDCCYA Bolts",
+    "SCYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1228",
+    "1230"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "SCYCA-SCCAY won by 7 Wickets",
+   "summary": "SDCCYA Bolts: 50/10(17.1) SCYCA-SCCAY: 51/3(7.4)"
+  },
+  {
+   "matchId": "3224",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3224&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "WYCA Tigers",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1229",
+    "1231"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "WYCA Tigers won by 66 Runs",
+   "summary": "WYCA Tigers: 144/4(25) SCVCA: 78/9(24.3)"
+  },
+  {
+   "matchId": "3200",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3200&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "SCYCA-SCCAY",
+    "SDCCYA Bolts"
+   ],
+   "teamIds": [
+    "1230",
+    "1228"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "SCYCA-SCCAY won by 79 Runs",
+   "summary": "SCYCA-SCCAY: 208/5(25) SDCCYA Bolts: 129/10(24.1)"
+  },
+  {
+   "matchId": "3197",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3197&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "AZYCA"
+   ],
+   "teamIds": [
+    "1231",
+    "1232"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "SCVCA won by 1 Run",
+   "summary": "SCVCA: 72/6(25) AZYCA: 71/10(16.3)"
+  },
+  {
+   "matchId": "3186",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3186&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "SCYCA-SCCAY",
+    "AZYCA"
+   ],
+   "teamIds": [
+    "1230",
+    "1232"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "SCYCA-SCCAY won by 87 Runs",
+   "summary": "SCYCA-SCCAY: 208/9(23.3) AZYCA: 121/6(25)"
+  },
+  {
+   "matchId": "3147",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3147&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "WYCA Tigers",
+    "AZYCA"
+   ],
+   "teamIds": [
+    "1229",
+    "1232"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "WYCA Tigers won by 104 Runs",
+   "summary": "WYCA Tigers: 205/2(25) AZYCA: 101/7(25)"
+  },
+  {
+   "matchId": "3126",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3126&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "U13 Orange",
+    "U13 Blue"
+   ],
+   "teamIds": [
+    "981",
+    "978"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "U13 Blue won by 68 Runs",
+   "summary": "U13 Blue: 175/8(30) U13 Orange: 107/8(29.2)"
+  },
+  {
+   "matchId": "3114",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3114&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "U13 Red",
+    "U13 Green"
+   ],
+   "teamIds": [
+    "979",
+    "980"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "U13 Green won by 2 Wickets",
+   "summary": "U13 Red: 94/10(29.4) U13 Green: 95/8(24.5)"
+  },
+  {
+   "matchId": "3103",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3103&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "U13 Blue",
+    "U13 Green"
+   ],
+   "teamIds": [
+    "978",
+    "980"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "U13 Blue won by 5 Wickets",
+   "summary": "U13 Green: 102/9(26) U13 Blue: 103/5(25.4)"
+  },
+  {
+   "matchId": "3102",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3102&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "U13 Orange",
+    "U13 Red"
+   ],
+   "teamIds": [
+    "981",
+    "979"
+   ],
+   "ground": "Canyonside Park",
+   "result": "U13 Orange won by 31 Runs",
+   "summary": "U13 Orange: 150/10(25) U13 Red: 119/10(23)"
+  },
+  {
+   "matchId": "3059",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3059&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "U13 Blue",
+    "U13 Red"
+   ],
+   "teamIds": [
+    "978",
+    "979"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "U13 Red won by 48 Runs",
+   "summary": "U13 Red: 154/10(29.2) U13 Blue: 106/8(27)"
+  },
+  {
+   "matchId": "3058",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3058&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "U13 Green",
+    "U13 Orange"
+   ],
+   "teamIds": [
+    "980",
+    "981"
+   ],
+   "ground": "Canyonside Park",
+   "result": "U13 Green won by 35 Runs",
+   "summary": "U13 Green: 157/2(30) U13 Orange: 122/9(30)"
+  },
+  {
+   "matchId": "3025",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3025&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "SDG-YCA-CAY",
+    "WYCA"
+   ],
+   "teamIds": [
+    "1199",
+    "1198"
+   ],
+   "ground": "TBD",
+   "result": "WYCA won by 0 Wickets (D/L)",
+   "summary": "SDG-YCA-CAY: 156/10(24) WYCA: 241/10(25.3)"
+  },
+  {
+   "matchId": "3015",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3015&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "SDG-YCA-CAY",
+    "WYCA"
+   ],
+   "teamIds": [
+    "1199",
+    "1198"
+   ],
+   "ground": "TBD",
+   "result": "SDG-YCA-CAY won by 22 Runs (D/L)",
+   "summary": "SDG-YCA-CAY: 142/7(25) WYCA: 177/4(25)"
+  },
+  {
+   "matchId": "3006",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3006&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "Arizona",
+    "SDG-YCA-CAY"
+   ],
+   "teamIds": [
+    "1197",
+    "1199"
+   ],
+   "ground": "TBD",
+   "result": "Arizona won by 10 Runs (D/L)",
+   "summary": "Arizona: 94/9(23.1) SDG-YCA-CAY: 129/4(25)"
+  },
+  {
+   "matchId": "2970",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2970&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "Arizona",
+    "WYCA"
+   ],
+   "teamIds": [
+    "1197",
+    "1198"
+   ],
+   "ground": "TBD",
+   "result": "WYCA won by 109 Runs",
+   "summary": "WYCA: 220/9(26) Arizona: 111/8(26)"
+  },
+  {
+   "matchId": "2879",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2879&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "Arizona",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "972",
+    "975"
+   ],
+   "ground": "Anderson Elementary Chandler",
+   "result": "Arizona won by 1 Wicket",
+   "summary": "SCYCA: 122/9(28.1) Arizona: 222/9(29.5)"
+  },
+  {
+   "matchId": "2838",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2838&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "Arizona",
+    "WYCA"
+   ],
+   "teamIds": [
+    "1197",
+    "1198"
+   ],
+   "ground": "Humphrey Elementary Chandler AZ",
+   "result": "WYCA won by 108 Runs",
+   "summary": "WYCA: 226/6(30.4) Arizona: 118/9(29.3)"
+  },
+  {
+   "matchId": "2799",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2799&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "Arizona",
+    "SDG-YCA-CAY"
+   ],
+   "teamIds": [
+    "1197",
+    "1199"
+   ],
+   "ground": "Humphrey Elementary Chandler AZ",
+   "result": "SDG-YCA-CAY won by 50 Runs",
+   "summary": "SDG-YCA-CAY: 174/7(33.4) Arizona: 124/8(32.3)"
+  },
+  {
+   "matchId": "2761",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2761&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "San Diego Blue",
+    "San Diego Red"
+   ],
+   "teamIds": [
+    "976",
+    "977"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "San Diego Red won by 7 Wickets",
+   "summary": "San Diego Blue: 73/10(22.5) San Diego Red: 114/3(22.5)"
+  },
+  {
+   "matchId": "2743",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2743&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "San Diego Blue",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "976",
+    "975"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "San Diego Blue won by 62 Runs",
+   "summary": "San Diego Blue: 123/6(25) SCYCA: 61/8(25)"
+  },
+  {
+   "matchId": "2696",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2696&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "San Diego Red",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "977",
+    "975"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "San Diego Red won by 6 Wickets",
+   "summary": "SCYCA: 60/4(25) San Diego Red: 157/4(20)"
+  },
+  {
+   "matchId": "2678",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2678&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "San Diego Red",
+    "Arizona-WYCA-SCVCA"
+   ],
+   "teamIds": [
+    "977",
+    "973"
+   ],
+   "ground": "Canyonside Park",
+   "result": "San Diego Red won by 121 Runs",
+   "summary": "San Diego Red: 176/5(25) Arizona-WYCA-SCVCA: 55/10(22.4)"
+  },
+  {
+   "matchId": "2676",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2676&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "SCCAY"
+   ],
+   "teamIds": [
+    "975",
+    "974"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SCCAY won by 63 Runs",
+   "summary": "SCCAY: 114/8(25) SCYCA: 51/10(16.1)"
+  },
+  {
+   "matchId": "2668",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2668&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "Arizona-WYCA-SCVCA",
+    "SCCAY"
+   ],
+   "teamIds": [
+    "973",
+    "974"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SCCAY won by 76 Runs",
+   "summary": "SCCAY: 156/4(25) Arizona-WYCA-SCVCA: 80/10(23.3)"
+  },
+  {
+   "matchId": "2667",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2667&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "San Diego Blue",
+    "Arizona"
+   ],
+   "teamIds": [
+    "976",
+    "972"
+   ],
+   "ground": "Canyonside Park",
+   "result": "San Diego Blue won by 7 Wickets",
+   "summary": "Arizona: 117/10(24.4) San Diego Blue: 136/3(25.3)"
+  },
+  {
+   "matchId": "2654",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2654&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "Arizona-WYCA-SCVCA"
+   ],
+   "teamIds": [
+    "975",
+    "973"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "Arizona-WYCA-SCVCA won by 4 Wickets",
+   "summary": "SCYCA: 96/5(26.1) Arizona-WYCA-SCVCA: 99/6(24.4)"
+  },
+  {
+   "matchId": "2652",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2652&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "SCCAY",
+    "Arizona"
+   ],
+   "teamIds": [
+    "974",
+    "972"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SCCAY won by 5 Wickets",
+   "summary": "Arizona: 115/8(25) SCCAY: 116/5(24.5)"
+  },
+  {
+   "matchId": "2613",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2613&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "SCCAY",
+    "San Diego Blue"
+   ],
+   "teamIds": [
+    "974",
+    "976"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "SCCAY won by 32 Runs (D/L)",
+   "summary": "San Diego Blue: 86/8(20) SCCAY: 118/1(20)"
+  },
+  {
+   "matchId": "2611",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2611&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "Arizona",
+    "San Diego Red"
+   ],
+   "teamIds": [
+    "972",
+    "977"
+   ],
+   "ground": "Turtle Rock 2",
+   "result": "San Diego Red won by 4 Wickets",
+   "summary": "Arizona: 89/9(20) San Diego Red: 137/6(19.5)"
+  },
+  {
+   "matchId": "2601",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2601&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "Arizona-WYCA-SCVCA",
+    "San Diego Blue"
+   ],
+   "teamIds": [
+    "973",
+    "976"
+   ],
+   "ground": "Turtle Rock 2",
+   "result": "San Diego Blue won by 4 Wickets",
+   "summary": "Arizona-WYCA-SCVCA: 114/10(25.1) San Diego Blue: 116/6(20)"
+  },
+  {
+   "matchId": "2599",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2599&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "SCCAY",
+    "San Diego Red"
+   ],
+   "teamIds": [
+    "974",
+    "977"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "San Diego Red won by 1 Wicket",
+   "summary": "SCCAY: 146/10(24.1) San Diego Red: 193/9(23)"
+  },
+  {
+   "matchId": "2585",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2585&clubId=40319",
+   "date": "2024-03-29",
+   "type": "League",
+   "teams": [
+    "Arizona",
+    "Arizona-WYCA-SCVCA"
+   ],
+   "teamIds": [
+    "972",
+    "973"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "Arizona won by 81 Runs",
+   "summary": "Arizona: 166/7(25) Arizona-WYCA-SCVCA: 85/10(24.3)"
+  }
+ ]
+}

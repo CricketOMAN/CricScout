@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s44",
+  "id": "legacy-548",
+  "name": "USAC 2026 - Seattle HUB - Phase2 - U11"
+ },
+ "fetchedAt": "2026-11-13T21:41:28.352Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=548&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=548&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8884",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8884&clubId=40319",
+   "date": "2026-06-25",
+   "type": "Qualifier",
+   "teams": [
+    "Team Orange",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "3319",
+    "3324"
+   ],
+   "ground": "PPMS Football",
+   "result": "Team Orange won by 69 Runs (D/L)",
+   "summary": "Team Purple: 75/9(24) Team Orange: 144/7(28)"
+  },
+  {
+   "matchId": "8883",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8883&clubId=40319",
+   "date": "2026-06-25",
+   "type": "Final",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3317",
+    "3323"
+   ],
+   "ground": "Monroe High School",
+   "result": "Team Red won by 25 Runs",
+   "summary": "Team Red: 111/11(23.4) Team Blue: 86/10(18.2)"
+  },
+  {
+   "matchId": "8882",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8882&clubId=40319",
+   "date": "2026-06-25",
+   "type": "Eliminator",
+   "teams": [
+    "Team Yellow",
+    "Team White"
+   ],
+   "teamIds": [
+    "3318",
+    "3322"
+   ],
+   "ground": "PPMS Baseball",
+   "result": "Team Yellow won by 30 Runs (D/L)",
+   "summary": "Team Yellow: 110/9(27.2) Team White: 189/9(29.3)"
+  },
+  {
+   "matchId": "8881",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8881&clubId=40319",
+   "date": "2026-06-25",
+   "type": "3rd Position",
+   "teams": [
+    "Team Green",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "3320",
+    "3321"
+   ],
+   "ground": "MHS Football",
+   "result": "Team Green won by 71 Runs",
+   "summary": "Team Green: 152/11(30) Team Gold: 81/10(25.1)"
+  },
+  {
+   "matchId": "8866",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8866&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3319",
+    "3318"
+   ],
+   "ground": "PPMS Baseball",
+   "result": "It is a Tie",
+   "summary": "Team Yellow: 96/10(22.2) Team Orange: 96/10(26.3)"
+  },
+  {
+   "matchId": "8865",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8865&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team White"
+   ],
+   "teamIds": [
+    "3323",
+    "3322"
+   ],
+   "ground": "MHS Football",
+   "result": "Team Blue won by 0 Wickets (D/L)",
+   "summary": "Team White: 112/7(26) Team Blue: 166/10(25.1)"
+  },
+  {
+   "matchId": "8864",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8864&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "3321",
+    "3324"
+   ],
+   "ground": "Monroe High School",
+   "result": "Team Gold won by 32 Runs",
+   "summary": "Team Gold: 158/9(27.3) Team Purple: 126/9(23.4)"
+  },
+  {
+   "matchId": "8863",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8863&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3317",
+    "3320"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "Team Red won by 71 Runs",
+   "summary": "Team Red: 193/9(30) Team Green: 122/11(28.2)"
+  },
+  {
+   "matchId": "8831",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8831&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "3323",
+    "3324"
+   ],
+   "ground": "Perrigo 2",
+   "result": "Team Blue won by 2 Wickets",
+   "summary": "Team Purple: 172/6(30) Team Blue: 176/8(29.5)"
+  },
+  {
+   "matchId": "8820",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8820&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3317",
+    "3318"
+   ],
+   "ground": "Marymoor Park",
+   "result": "Team Red won by 1 Wicket (D/L)",
+   "summary": "Team Yellow: 136/9(30) Team Red: 166/9(27)"
+  },
+  {
+   "matchId": "8816",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8816&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3319",
+    "3320"
+   ],
+   "ground": "Perrigo 2",
+   "result": "It is a Tie",
+   "summary": "Team Green: 143/10(29.4) Team Orange: 143/10(28)"
+  },
+  {
+   "matchId": "8814",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8814&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team White"
+   ],
+   "teamIds": [
+    "3321",
+    "3322"
+   ],
+   "ground": "ICP Lower Soccer Ground (ICP Lower Soccer Ground)",
+   "result": "Team Gold won by 2 Runs (D/L)",
+   "summary": "Team White: 85/11(19) Team Gold: 109/10(30)"
+  },
+  {
+   "matchId": "8798",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8798&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Purple",
+    "Team White"
+   ],
+   "teamIds": [
+    "3324",
+    "3322"
+   ],
+   "ground": "ICP Lower Soccer Ground (ICP Lower Soccer Ground)",
+   "result": "Team Purple won by 1 Run (D/L)",
+   "summary": "Team White: 107/9(29) Team Purple: 162/7(30)"
+  },
+  {
+   "matchId": "8797",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8797&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "3323",
+    "3321"
+   ],
+   "ground": "Perrigo 2",
+   "result": "Team Blue won by 107 Runs",
+   "summary": "Team Blue: 216/10(30) Team Gold: 109/12(24.3)"
+  },
+  {
+   "matchId": "8787",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8787&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3318",
+    "3320"
+   ],
+   "ground": "ICP Lower Soccer Ground (ICP Lower Soccer Ground)",
+   "result": "Team Green won by 66 Runs",
+   "summary": "Team Green: 204/7(30) Team Yellow: 138/10(23.3)"
+  },
+  {
+   "matchId": "8782",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8782&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "3317",
+    "3319"
+   ],
+   "ground": "Perrigo 2",
+   "result": "Team Red won by 108 Runs",
+   "summary": "Team Red: 232/7(30) Team Orange: 124/11(23.4)"
+  }
+ ]
+}

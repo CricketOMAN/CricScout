@@ -1,0 +1,1136 @@
+{
+ "season": {
+  "key": "s125",
+  "id": "legacy-445",
+  "name": "USAC 2026 - Dallas U11 Phase 1"
+ },
+ "fetchedAt": "2026-11-13T22:05:40.868Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=445&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=445&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8272",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8272&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "VCA Gold U11"
+   ],
+   "teamIds": [
+    "2614",
+    "2629"
+   ],
+   "ground": "Coppell CG",
+   "result": "Abandoned.",
+   "summary": "CCA Strikers U11: 0/0(30) VCA Gold U11: 0/0(30)"
+  },
+  {
+   "matchId": "8213",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8213&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "TCA Bolts U11",
+    "VCA Red U11"
+   ],
+   "teamIds": [
+    "2626",
+    "2628"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U11 won by 8 Wickets",
+   "summary": "TCA Bolts U11: 90/10(27.2) VCA Red U11: 92/2(14.1)"
+  },
+  {
+   "matchId": "8118",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8118&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "ECA Aggies U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2618",
+    "2627"
+   ],
+   "ground": "Horseshoe",
+   "result": "TIC Little Masters U11 won by 86 Runs",
+   "summary": "TIC Little Masters U11: 236/10(29.5) ECA Aggies U11: 150/10(29)"
+  },
+  {
+   "matchId": "8029",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8029&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CCA Blasters U11",
+    "RCA Bolts U11"
+   ],
+   "teamIds": [
+    "2615",
+    "2621"
+   ],
+   "ground": "Krum-1",
+   "result": "RCA Bolts U11 won by 1 Wicket",
+   "summary": "CCA Blasters U11: 115/10(22.2) RCA Bolts U11: 116/9(29.1)"
+  },
+  {
+   "matchId": "7935",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7935&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "RCA Bolts U11",
+    "VCA Red U11"
+   ],
+   "teamIds": [
+    "2621",
+    "2628"
+   ],
+   "ground": "NMCG 2",
+   "result": "RCA Bolts U11 won by 5 Wickets",
+   "summary": "VCA Red U11: 123/10(28.3) RCA Bolts U11: 124/5(19.1)"
+  },
+  {
+   "matchId": "7934",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7934&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CCA Blasters U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2615",
+    "2618"
+   ],
+   "ground": "NMCG 1",
+   "result": "Forfeited. Winner: CCA Blasters U11",
+   "summary": "CCA Blasters U11: 112/10(27) ECA Aggies U11: 113/5(26.4)"
+  },
+  {
+   "matchId": "7918",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7918&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers RED U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2609",
+    "2627"
+   ],
+   "ground": "Krum-1",
+   "result": "TIC Little Masters U11 won by 9 Wickets",
+   "summary": "All Stars Sparklers RED U11: 112/11(22) TIC Little Masters U11: 113/1(8.5)"
+  },
+  {
+   "matchId": "7917",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7917&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "WCA Challengers U11"
+   ],
+   "teamIds": [
+    "2614",
+    "2630"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CCA Strikers U11 won by 167 Runs",
+   "summary": "CCA Strikers U11: 199/10(30) WCA Challengers U11: 32/10(17.1)"
+  },
+  {
+   "matchId": "7913",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7913&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers WHITE U11",
+    "LCA Renegades U11"
+   ],
+   "teamIds": [
+    "2611",
+    "2620"
+   ],
+   "ground": "Horseshoe",
+   "result": "Forfeited. Winner: All Stars Sparklers WHITE U11",
+   "summary": "LCA Renegades U11: 152/10(24.1) All Stars Sparklers WHITE U11: 118/9(22.3)"
+  },
+  {
+   "matchId": "7804",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7804&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles U11",
+    "All Stars Sparklers WHITE U11"
+   ],
+   "teamIds": [
+    "2616",
+    "2611"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Eagles U11 won by 400 Runs",
+   "summary": "DYCL Eagles U11: 461/1(30) All Stars Sparklers WHITE U11: 61/9(10.5)"
+  },
+  {
+   "matchId": "7803",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7803&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "CricKingdom Dallas Falcons U11"
+   ],
+   "teamIds": [
+    "2625",
+    "2613"
+   ],
+   "ground": "Krum-2",
+   "result": "CricKingdom Dallas Falcons U11 won by 8 Wickets",
+   "summary": "SKA Cheetahs U11: 144/7(30) CricKingdom Dallas Falcons U11: 145/2(26.1)"
+  },
+  {
+   "matchId": "7788",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7788&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "VCA Gold U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2629",
+    "2626"
+   ],
+   "ground": "Coppell CG",
+   "result": "TCA Bolts U11 won by 6 Wickets",
+   "summary": "VCA Gold U11: 138/6(30) TCA Bolts U11: 139/4(22)"
+  },
+  {
+   "matchId": "7744",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7744&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "FCCA Warriors U11",
+    "CCA Strikers U11"
+   ],
+   "teamIds": [
+    "2619",
+    "2614"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Strikers U11 won by 7 Wickets",
+   "summary": "FCCA Warriors U11: 136/9(29.3) CCA Strikers U11: 137/3(20.2)"
+  },
+  {
+   "matchId": "7743",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7743&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "SKA Lions U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2623",
+    "2618"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SKA Lions U11 won by 120 Runs",
+   "summary": "SKA Lions U11: 260/5(30.1) ECA Aggies U11: 140/10(25.1)"
+  },
+  {
+   "matchId": "7739",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7739&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks U11",
+    "All Stars Sparklers RED U11"
+   ],
+   "teamIds": [
+    "2617",
+    "2609"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 171 Runs",
+   "summary": "DYCL Hawks U11: 239/4(30) All Stars Sparklers RED U11: 68/10(14)"
+  },
+  {
+   "matchId": "7699",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7699&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "RCA Bolts U11",
+    "All Stars Sparklers BLUE U11"
+   ],
+   "teamIds": [
+    "2621",
+    "2610"
+   ],
+   "ground": "Trenton East",
+   "result": "RCA Bolts U11 won by 116 Runs",
+   "summary": "RCA Bolts U11: 210/10(30) All Stars Sparklers BLUE U11: 94/8(24.1)"
+  },
+  {
+   "matchId": "7648",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7648&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers RED U11",
+    "CCA Strikers U11"
+   ],
+   "teamIds": [
+    "2609",
+    "2614"
+   ],
+   "ground": "Trenton West",
+   "result": "CCA Strikers U11 won by 186 Runs",
+   "summary": "CCA Strikers U11: 277/6(30) All Stars Sparklers RED U11: 91/11(26.2)"
+  },
+  {
+   "matchId": "7590",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7590&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "CCA Blasters U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2615",
+    "2626"
+   ],
+   "ground": "Krum-2",
+   "result": "CCA Blasters U11 won by 90 Runs",
+   "summary": "CCA Blasters U11: 173/10(29.4) TCA Bolts U11: 83/10(22.5)"
+  },
+  {
+   "matchId": "7589",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7589&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2616",
+    "2624"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Eagles U11 won by 107 Runs",
+   "summary": "DYCL Eagles U11: 235/5(31.5) SKA Tigers U11: 128/9(30)"
+  },
+  {
+   "matchId": "7569",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7569&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "VCA Gold U11"
+   ],
+   "teamIds": [
+    "2625",
+    "2629"
+   ],
+   "ground": "Coppell CG",
+   "result": "SKA Cheetahs U11 won by 4 Wickets",
+   "summary": "VCA Gold U11: 149/7(30) SKA Cheetahs U11: 151/6(23.2)"
+  },
+  {
+   "matchId": "7548",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7548&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "CricKingdom Dallas Falcons U11",
+    "VCA Red U11"
+   ],
+   "teamIds": [
+    "2613",
+    "2628"
+   ],
+   "ground": "Krum-2",
+   "result": "VCA Red U11 won by 42 Runs",
+   "summary": "VCA Red U11: 129/6(25) CricKingdom Dallas Falcons U11: 87/7(25)"
+  },
+  {
+   "matchId": "7533",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7533&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "SKA Lions U11",
+    "WCA Challengers U11"
+   ],
+   "teamIds": [
+    "2623",
+    "2630"
+   ],
+   "ground": "Stallions CG3",
+   "result": "SKA Lions U11 won by 146 Runs",
+   "summary": "SKA Lions U11: 245/8(25) WCA Challengers U11: 99/10(20.2)"
+  },
+  {
+   "matchId": "7532",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7532&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "CricketMinds Cubs U11",
+    "SAC Colts U11"
+   ],
+   "teamIds": [
+    "2612",
+    "2622"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CricketMinds Cubs U11 won by 6 Wickets",
+   "summary": "SAC Colts U11: 109/10(21.5) CricketMinds Cubs U11: 110/4(21.4)"
+  },
+  {
+   "matchId": "7530",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7530&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers BLUE U11",
+    "DYCL Hawks U11"
+   ],
+   "teamIds": [
+    "2610",
+    "2617"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 61 Runs",
+   "summary": "DYCL Hawks U11: 192/7(25) All Stars Sparklers BLUE U11: 131/7(25)"
+  },
+  {
+   "matchId": "7501",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7501&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "LCA Renegades U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2620",
+    "2626"
+   ],
+   "ground": "Trenton East",
+   "result": "Forfeited. Winner: TCA Bolts U11",
+   "summary": "LCA Renegades U11: 161/5(30) TCA Bolts U11: 136/7(30)"
+  },
+  {
+   "matchId": "7444",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7444&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers WHITE U11",
+    "RCA Bolts U11"
+   ],
+   "teamIds": [
+    "2611",
+    "2621"
+   ],
+   "ground": "Trenton East",
+   "result": "RCA Bolts U11 won by 208 Runs",
+   "summary": "RCA Bolts U11: 246/5(30) All Stars Sparklers WHITE U11: 38/10(16.4)"
+  },
+  {
+   "matchId": "7416",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7416&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "CCA Blasters U11"
+   ],
+   "teamIds": [
+    "2625",
+    "2615"
+   ],
+   "ground": "Krum-2",
+   "result": "CCA Blasters U11 won by 5 Wickets",
+   "summary": "SKA Cheetahs U11: 92/8(27.2) CCA Blasters U11: 94/5(25.2)"
+  },
+  {
+   "matchId": "7413",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7413&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers RED U11",
+    "WCA Challengers U11"
+   ],
+   "teamIds": [
+    "2609",
+    "2630"
+   ],
+   "ground": "Stallions CG2",
+   "result": "All Stars Sparklers RED U11 won by 134 Runs",
+   "summary": "All Stars Sparklers RED U11: 238/2(30) WCA Challengers U11: 104/10(28)"
+  },
+  {
+   "matchId": "7411",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7411&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "LCA Renegades U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2620",
+    "2627"
+   ],
+   "ground": "Trenton East",
+   "result": "TIC Little Masters U11 won by 132 Runs",
+   "summary": "TIC Little Masters U11: 221/4(30) LCA Renegades U11: 89/8(29.1)"
+  },
+  {
+   "matchId": "7408",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7408&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "CricKingdom Dallas Falcons U11",
+    "DYCL Eagles U11"
+   ],
+   "teamIds": [
+    "2613",
+    "2616"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Eagles U11 won by 160 Runs",
+   "summary": "DYCL Eagles U11: 263/6(30) CricKingdom Dallas Falcons U11: 103/7(30)"
+  },
+  {
+   "matchId": "7373",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7373&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers BLUE U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2610",
+    "2624"
+   ],
+   "ground": "Krum-2",
+   "result": "SKA Tigers U11 won by 143 Runs",
+   "summary": "SKA Tigers U11: 187/6(25) All Stars Sparklers BLUE U11: 44/7(10.1)"
+  },
+  {
+   "matchId": "7368",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7368&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers WHITE U11",
+    "SAC Colts U11"
+   ],
+   "teamIds": [
+    "2611",
+    "2622"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts U11 won by 9 Wickets",
+   "summary": "All Stars Sparklers WHITE U11: 68/8(25.1) SAC Colts U11: 69/1(6.3)"
+  },
+  {
+   "matchId": "7363",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7363&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "CricketMinds Cubs U11",
+    "DYCL Hawks U11"
+   ],
+   "teamIds": [
+    "2612",
+    "2617"
+   ],
+   "ground": "Horseshoe",
+   "result": "CricketMinds Cubs U11 won by 7 Wickets",
+   "summary": "DYCL Hawks U11: 67/10(15) CricketMinds Cubs U11: 68/3(15)"
+  },
+  {
+   "matchId": "7272",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7272&clubId=40319",
+   "date": "2026-04-17",
+   "type": "League",
+   "teams": [
+    "FCCA Warriors U11",
+    "SKA Cheetahs U11"
+   ],
+   "teamIds": [
+    "2619",
+    "2625"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Warriors U11 won by 50 Runs",
+   "summary": "FCCA Warriors U11: 179/6(30) SKA Cheetahs U11: 129/9(27.5)"
+  },
+  {
+   "matchId": "7267",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7267&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "TIC Little Masters U11",
+    "CricketMinds Cubs U11"
+   ],
+   "teamIds": [
+    "2627",
+    "2612"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CricketMinds Cubs U11 won by 2 Wickets",
+   "summary": "TIC Little Masters U11: 135/7(27) CricketMinds Cubs U11: 136/8(23.2)"
+  },
+  {
+   "matchId": "7265",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7265&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles U11",
+    "LCA Renegades U11"
+   ],
+   "teamIds": [
+    "2616",
+    "2620"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Eagles U11 won by 131 Runs",
+   "summary": "DYCL Eagles U11: 186/8(30) LCA Renegades U11: 55/10(22.4)"
+  },
+  {
+   "matchId": "7262",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7262&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "VCA Red U11",
+    "SKA Lions U11"
+   ],
+   "teamIds": [
+    "2628",
+    "2623"
+   ],
+   "ground": "Coppell CG",
+   "result": "SKA Lions U11 won by 97 Runs",
+   "summary": "SKA Lions U11: 181/7(30) VCA Red U11: 84/10(20.1)"
+  },
+  {
+   "matchId": "7261",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7261&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "ECA Aggies U11",
+    "All Stars Sparklers RED U11"
+   ],
+   "teamIds": [
+    "2618",
+    "2609"
+   ],
+   "ground": "Stallions CG3",
+   "result": "Forfeited. Winner: All Stars Sparklers RED U11",
+   "summary": "All Stars Sparklers RED U11: 115/9(25) ECA Aggies U11: 117/3(11.5)"
+  },
+  {
+   "matchId": "7258",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7258&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers WHITE U11",
+    "WCA Challengers U11"
+   ],
+   "teamIds": [
+    "2611",
+    "2630"
+   ],
+   "ground": "Stallions CG2",
+   "result": "All Stars Sparklers WHITE U11 won by 71 Runs",
+   "summary": "All Stars Sparklers WHITE U11: 174/3(19.5) WCA Challengers U11: 103/9(19)"
+  },
+  {
+   "matchId": "7249",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7249&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks U11",
+    "SAC Colts U11"
+   ],
+   "teamIds": [
+    "2617",
+    "2622"
+   ],
+   "ground": "Horseshoe",
+   "result": "SAC Colts U11 won by 10 Wickets",
+   "summary": "DYCL Hawks U11: 56/9(16.4) SAC Colts U11: 57/0(7.2)"
+  },
+  {
+   "matchId": "7193",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7193&clubId=40319",
+   "date": "2026-04-10",
+   "type": "League",
+   "teams": [
+    "VCA Gold U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2629",
+    "2624"
+   ],
+   "ground": "Sandy Lake",
+   "result": "SKA Tigers U11 won by 151 Runs",
+   "summary": "SKA Tigers U11: 266/2(30) VCA Gold U11: 115/9(18.3)"
+  },
+  {
+   "matchId": "7192",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7192&clubId=40319",
+   "date": "2026-04-10",
+   "type": "League",
+   "teams": [
+    "FCCA Warriors U11",
+    "All Stars Sparklers BLUE U11"
+   ],
+   "teamIds": [
+    "2619",
+    "2610"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Warriors U11 won by 127 Runs",
+   "summary": "FCCA Warriors U11: 265/5(30) All Stars Sparklers BLUE U11: 138/10(28.5)"
+  },
+  {
+   "matchId": "7181",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7181&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "CricketMinds Cubs U11",
+    "DYCL Eagles U11"
+   ],
+   "teamIds": [
+    "2612",
+    "2616"
+   ],
+   "ground": "Horseshoe",
+   "result": "CricketMinds Cubs U11 won by 5 Wickets",
+   "summary": "DYCL Eagles U11: 156/3(30) CricketMinds Cubs U11: 157/5(24)"
+  },
+  {
+   "matchId": "7170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7170&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks U11",
+    "WCA Challengers U11"
+   ],
+   "teamIds": [
+    "2617",
+    "2630"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 215 Runs",
+   "summary": "DYCL Hawks U11: 244/3(30) WCA Challengers U11: 29/10(13)"
+  },
+  {
+   "matchId": "7155",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7155&clubId=40319",
+   "date": "2026-04-03",
+   "type": "League",
+   "teams": [
+    "CricKingdom Dallas Falcons U11",
+    "VCA Gold U11"
+   ],
+   "teamIds": [
+    "2613",
+    "2629"
+   ],
+   "ground": "Sandy Lake",
+   "result": "VCA Gold U11 won by 4 Wickets",
+   "summary": "CricKingdom Dallas Falcons U11: 105/10(19.3) VCA Gold U11: 108/6(15)"
+  },
+  {
+   "matchId": "7115",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7115&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "FCCA Warriors U11",
+    "WCA Challengers U11"
+   ],
+   "teamIds": [
+    "2619",
+    "2630"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Warriors U11 won by 430 Runs",
+   "summary": "FCCA Warriors U11: 476/0(30) WCA Challengers U11: 46/10(14.4)"
+  },
+  {
+   "matchId": "7111",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7111&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers RED U11",
+    "LCA Renegades U11"
+   ],
+   "teamIds": [
+    "2609",
+    "2620"
+   ],
+   "ground": "Horseshoe",
+   "result": "All Stars Sparklers RED U11 won by 40 Runs",
+   "summary": "All Stars Sparklers RED U11: 122/10(22.4) LCA Renegades U11: 82/10(16)"
+  },
+  {
+   "matchId": "7108",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7108&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "CricketMinds Cubs U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2612",
+    "2626"
+   ],
+   "ground": "Warriors CG",
+   "result": "CricketMinds Cubs U11 won by 186 Runs",
+   "summary": "CricketMinds Cubs U11: 285/10(29.3) TCA Bolts U11: 99/10(27.1)"
+  },
+  {
+   "matchId": "7107",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7107&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "SAC Colts U11",
+    "SKA Lions U11"
+   ],
+   "teamIds": [
+    "2622",
+    "2623"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SKA Lions U11 won by 8 Wickets",
+   "summary": "SAC Colts U11: 129/10(25.4) SKA Lions U11: 131/2(19.1)"
+  },
+  {
+   "matchId": "7096",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7096&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers WHITE U11",
+    "VCA Red U11"
+   ],
+   "teamIds": [
+    "2611",
+    "2628"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U11 won by 221 Runs",
+   "summary": "VCA Red U11: 328/5(30) All Stars Sparklers WHITE U11: 107/10(30)"
+  },
+  {
+   "matchId": "7090",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7090&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "RCA Bolts U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2621",
+    "2627"
+   ],
+   "ground": "Horseshoe",
+   "result": "TIC Little Masters U11 won by 6 Wickets",
+   "summary": "RCA Bolts U11: 107/10(21.1) TIC Little Masters U11: 109/4(22.3)"
+  },
+  {
+   "matchId": "7088",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7088&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "CricKingdom Dallas Falcons U11"
+   ],
+   "teamIds": [
+    "2614",
+    "2613"
+   ],
+   "ground": "Denton CG2",
+   "result": "CCA Strikers U11 won by 4 Wickets",
+   "summary": "CricKingdom Dallas Falcons U11: 177/6(30) CCA Strikers U11: 179/6(21.3)"
+  },
+  {
+   "matchId": "7086",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7086&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "ECA Aggies U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2618",
+    "2624"
+   ],
+   "ground": "Warriors CG",
+   "result": "SKA Tigers U11 won by 158 Runs",
+   "summary": "SKA Tigers U11: 213/7(30) ECA Aggies U11: 55/10(12.1)"
+  },
+  {
+   "matchId": "7085",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7085&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers BLUE U11",
+    "CCA Blasters U11"
+   ],
+   "teamIds": [
+    "2610",
+    "2615"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CCA Blasters U11 won by 201 Runs",
+   "summary": "CCA Blasters U11: 298/6(30) All Stars Sparklers BLUE U11: 97/10(20.4)"
+  },
+  {
+   "matchId": "7073",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7073&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "VCA Red U11",
+    "DYCL Hawks U11"
+   ],
+   "teamIds": [
+    "2628",
+    "2617"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 24 Runs",
+   "summary": "DYCL Hawks U11: 110/9(23.3) VCA Red U11: 86/10(23.4)"
+  },
+  {
+   "matchId": "7180",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7180&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers BLUE U11",
+    "VCA Gold U11"
+   ],
+   "teamIds": [
+    "2610",
+    "2629"
+   ],
+   "ground": "Coppell CG",
+   "result": "Forfeited. Winner: VCA Gold U11",
+   "summary": "All Stars Sparklers BLUE U11: 0/0(0)"
+  },
+  {
+   "matchId": "7059",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7059&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2625",
+    "2627"
+   ],
+   "ground": "NMCG 2",
+   "result": "SKA Cheetahs U11 won by 52 Runs",
+   "summary": "SKA Cheetahs U11: 237/5(30) TIC Little Masters U11: 185/5(30)"
+  },
+  {
+   "matchId": "7057",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7057&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "FCCA Warriors U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2619",
+    "2618"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Warriors U11 won by 97 Runs",
+   "summary": "FCCA Warriors U11: 200/3(30) ECA Aggies U11: 103/10(24.2)"
+  },
+  {
+   "matchId": "7052",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7052&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "SAC Colts U11",
+    "CricKingdom Dallas Falcons U11"
+   ],
+   "teamIds": [
+    "2622",
+    "2613"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts U11 won by 147 Runs",
+   "summary": "SAC Colts U11: 312/5(30) CricKingdom Dallas Falcons U11: 165/8(30)"
+  },
+  {
+   "matchId": "7050",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7050&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "SKA Tigers U11",
+    "RCA Bolts U11"
+   ],
+   "teamIds": [
+    "2624",
+    "2621"
+   ],
+   "ground": "Horseshoe",
+   "result": "RCA Bolts U11 won by 66 Runs",
+   "summary": "RCA Bolts U11: 187/10(28) SKA Tigers U11: 121/9(30)"
+  },
+  {
+   "matchId": "7033",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7033&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "SKA Lions U11",
+    "LCA Renegades U11"
+   ],
+   "teamIds": [
+    "2623",
+    "2620"
+   ],
+   "ground": "Horseshoe",
+   "result": "SKA Lions U11 won by 62 Runs",
+   "summary": "SKA Lions U11: 248/2(30.1) LCA Renegades U11: 186/9(27.5)"
+  },
+  {
+   "matchId": "7014",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7014&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "FCCA Warriors U11",
+    "CCA Blasters U11"
+   ],
+   "teamIds": [
+    "2619",
+    "2615"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Blasters U11 won by 28 Runs",
+   "summary": "CCA Blasters U11: 118/9(28.1) FCCA Warriors U11: 90/10(23.5)"
+  },
+  {
+   "matchId": "7013",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7013&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles U11",
+    "SAC Colts U11"
+   ],
+   "teamIds": [
+    "2616",
+    "2622"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Eagles U11 won by 36 Runs",
+   "summary": "DYCL Eagles U11: 167/8(27) SAC Colts U11: 131/11(24.2)"
+  },
+  {
+   "matchId": "7011",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7011&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2614",
+    "2624"
+   ],
+   "ground": "Denton CG2",
+   "result": "CCA Strikers U11 won by 9 Wickets",
+   "summary": "SKA Tigers U11: 221/7(30.1) CCA Strikers U11: 224/1(19.3)"
+  },
+  {
+   "matchId": "6997",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6997&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "TCA Bolts U11",
+    "SKA Cheetahs U11"
+   ],
+   "teamIds": [
+    "2626",
+    "2625"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Bolts U11 won by 8 Wickets",
+   "summary": "SKA Cheetahs U11: 107/9(23.3) TCA Bolts U11: 108/2(25.4)"
+  },
+  {
+   "matchId": "6995",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6995&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "CricketMinds Cubs U11",
+    "SKA Lions U11"
+   ],
+   "teamIds": [
+    "2612",
+    "2623"
+   ],
+   "ground": "Warriors CG",
+   "result": "SKA Lions U11 won by 9 Wickets",
+   "summary": "CricketMinds Cubs U11: 57/10(19) SKA Lions U11: 59/1(8)"
+  }
+ ]
+}

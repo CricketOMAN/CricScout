@@ -1,0 +1,371 @@
+{
+ "season": {
+  "key": "s105",
+  "id": "legacy-472",
+  "name": "USAC 2026 - CT Hub U11"
+ },
+ "fetchedAt": "2026-11-13T21:52:04.726Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=472&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=472&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9278",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9278&clubId=40319",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "PCA Wildcats",
+    "KRCA CT Cubs"
+   ],
+   "teamIds": [
+    "2751",
+    "2752"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Cubs won by 9 Wickets",
+   "summary": "PCA Wildcats: 29/10(15.1) KRCA CT Cubs: 30/1(5)"
+  },
+  {
+   "matchId": "9347",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9347&clubId=40319",
+   "date": "2026-08-16",
+   "type": "League",
+   "teams": [
+    "CCA Cubs",
+    "NMCC Bears"
+   ],
+   "teamIds": [
+    "2748",
+    "2749"
+   ],
+   "ground": "Danbury",
+   "result": "CCA Cubs won by 8 Wickets",
+   "summary": "NMCC Bears: 69/8(19.4) CCA Cubs: 70/2(8.4)"
+  },
+  {
+   "matchId": "9346",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9346&clubId=40319",
+   "date": "2026-08-15",
+   "type": "League",
+   "teams": [
+    "KRCA CT Cubs",
+    "CCA Cubs"
+   ],
+   "teamIds": [
+    "2752",
+    "2748"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Cubs won by 7 Wickets",
+   "summary": "CCA Cubs: 81/10(18.3) KRCA CT Cubs: 82/3(15.1)"
+  },
+  {
+   "matchId": "9329",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9329&clubId=40319",
+   "date": "2026-08-09",
+   "type": "League",
+   "teams": [
+    "CCA Cubs",
+    "KRCA CT Cubs"
+   ],
+   "teamIds": [
+    "2748",
+    "2752"
+   ],
+   "ground": "Maxwell",
+   "result": "CCA Cubs won by 3 Wickets",
+   "summary": "KRCA CT Cubs: 100/8(19.4) CCA Cubs: 101/7(18.3)"
+  },
+  {
+   "matchId": "9328",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9328&clubId=40319",
+   "date": "2026-08-09",
+   "type": "League",
+   "teams": [
+    "NMCC Hawks",
+    "NMCC Bears"
+   ],
+   "teamIds": [
+    "2750",
+    "2749"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Hawks won by 8 Wickets",
+   "summary": "NMCC Bears: 84/3(20) NMCC Hawks: 85/2(11.2)"
+  },
+  {
+   "matchId": "9325",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9325&clubId=40319",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "PCA Wildcats",
+    "NMCC Hawks"
+   ],
+   "teamIds": [
+    "2751",
+    "2750"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Hawks won by 78 Runs",
+   "summary": "NMCC Hawks: 136/8(19.5) PCA Wildcats: 58/5(20)"
+  },
+  {
+   "matchId": "9320",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9320&clubId=40319",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "NMCC Bears",
+    "CCA Cubs"
+   ],
+   "teamIds": [
+    "2749",
+    "2748"
+   ],
+   "ground": "Danbury",
+   "result": "CCA Cubs won by 112 Runs",
+   "summary": "CCA Cubs: 147/6(26.4) NMCC Bears: 35/10(17.3)"
+  },
+  {
+   "matchId": "9274",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9274&clubId=40319",
+   "date": "2026-08-02",
+   "type": "League",
+   "teams": [
+    "KRCA CT Cubs",
+    "PCA Wildcats"
+   ],
+   "teamIds": [
+    "2752",
+    "2751"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Cubs won by 40 Runs",
+   "summary": "KRCA CT Cubs: 79/8(19.4) PCA Wildcats: 39/8(20)"
+  },
+  {
+   "matchId": "9273",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9273&clubId=40319",
+   "date": "2026-08-02",
+   "type": "League",
+   "teams": [
+    "CCA Cubs",
+    "NMCC Hawks"
+   ],
+   "teamIds": [
+    "2748",
+    "2750"
+   ],
+   "ground": "Danbury",
+   "result": "CCA Cubs won by 7 Wickets",
+   "summary": "NMCC Hawks: 116/6(19.5) CCA Cubs: 117/3(19.5)"
+  },
+  {
+   "matchId": "9262",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9262&clubId=40319",
+   "date": "2026-08-01",
+   "type": "League",
+   "teams": [
+    "NMCC Bears",
+    "PCA Wildcats"
+   ],
+   "teamIds": [
+    "2749",
+    "2751"
+   ],
+   "ground": "Danbury",
+   "result": "PCA Wildcats won by 8 Wickets",
+   "summary": "NMCC Bears: 66/8(20) PCA Wildcats: 67/2(9.2)"
+  },
+  {
+   "matchId": "9260",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9260&clubId=40319",
+   "date": "2026-08-01",
+   "type": "League",
+   "teams": [
+    "KRCA CT Cubs",
+    "NMCC Hawks"
+   ],
+   "teamIds": [
+    "2752",
+    "2750"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Cubs won by 8 Wickets",
+   "summary": "NMCC Hawks: 48/8(19.2) KRCA CT Cubs: 49/2(14)"
+  },
+  {
+   "matchId": "9208",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9208&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Practice",
+   "teams": [
+    "KRCA CT Cubs",
+    "NMCC Bears"
+   ],
+   "teamIds": [
+    "2752",
+    "2749"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Cubs: 118/3 (14.4/15 ov) NMCC Bears: 24/6 (14.4/15 ov)",
+   "summary": "KRCA CT Cubs: 118/3(14.4) NMCC Bears: 24/6(14.4) Live"
+  },
+  {
+   "matchId": "9204",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9204&clubId=40319",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "PCA Wildcats",
+    "CCA Cubs"
+   ],
+   "teamIds": [
+    "2751",
+    "2748"
+   ],
+   "ground": "WATERBURY",
+   "result": "PCA Wildcats won by 85 Runs",
+   "summary": "PCA Wildcats: 142/7(20) CCA Cubs: 57/10(12.3)"
+  },
+  {
+   "matchId": "9203",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9203&clubId=40319",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "KRCA CT Cubs",
+    "NMCC Bears"
+   ],
+   "teamIds": [
+    "2752",
+    "2749"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Cubs won by 10 Wickets",
+   "summary": "NMCC Bears: 27/10(11) KRCA CT Cubs: 28/0(3.4)"
+  },
+  {
+   "matchId": "9127",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9127&clubId=40319",
+   "date": "2026-07-19",
+   "type": "League",
+   "teams": [
+    "NMCC Hawks",
+    "NMCC Bears"
+   ],
+   "teamIds": [
+    "2750",
+    "2749"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Hawks won by 77 Runs",
+   "summary": "NMCC Hawks: 136/6(18) NMCC Bears: 59/10(19.5)"
+  },
+  {
+   "matchId": "9121",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9121&clubId=40319",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "NMCC Hawks",
+    "CCA Cubs"
+   ],
+   "teamIds": [
+    "2750",
+    "2748"
+   ],
+   "ground": "New Milford",
+   "result": "NMCC Hawks won by 10 Runs",
+   "summary": "NMCC Hawks: 90/10(19.5) CCA Cubs: 80/8(20)"
+  },
+  {
+   "matchId": "9039",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9039&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "NMCC Hawks",
+    "PCA Wildcats"
+   ],
+   "teamIds": [
+    "2750",
+    "2751"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Hawks won by 34 Runs",
+   "summary": "NMCC Hawks: 152/10(20) PCA Wildcats: 118/4(19.3)"
+  },
+  {
+   "matchId": "9003",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9003&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "PCA Wildcats",
+    "NMCC Bears"
+   ],
+   "teamIds": [
+    "2751",
+    "2749"
+   ],
+   "ground": "WATERBURY",
+   "result": "PCA Wildcats won by 4 Wickets",
+   "summary": "NMCC Bears: 69/7(19.4) PCA Wildcats: 70/6(15.3)"
+  },
+  {
+   "matchId": "9001",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9001&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "NMCC Hawks",
+    "KRCA CT Cubs"
+   ],
+   "teamIds": [
+    "2750",
+    "2752"
+   ],
+   "ground": "Danbury",
+   "result": "NMCC Hawks won by 58 Runs",
+   "summary": "NMCC Hawks: 108/7(20) KRCA CT Cubs: 50/10(19.2)"
+  },
+  {
+   "matchId": "8932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8932&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "CCA Cubs",
+    "PCA Wildcats"
+   ],
+   "teamIds": [
+    "2748",
+    "2751"
+   ],
+   "ground": "Danbury",
+   "result": "PCA Wildcats won by 55 Runs",
+   "summary": "PCA Wildcats: 179/5(20) CCA Cubs: 124/3(20)"
+  },
+  {
+   "matchId": "8923",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8923&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "KRCA CT Cubs",
+    "NMCC Bears"
+   ],
+   "teamIds": [
+    "2752",
+    "2749"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Cubs won by 126 Runs",
+   "summary": "KRCA CT Cubs: 161/4(19.4) NMCC Bears: 35/6(20)"
+  }
+ ]
+}

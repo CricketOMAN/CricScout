@@ -1,0 +1,235 @@
+{
+ "season": {
+  "key": "s364",
+  "id": "legacy-30",
+  "name": "USAC Junior 2023 -Midwest WIM Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:16:22.032Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=30&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=30&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2074",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2074&clubId=40319",
+   "date": "2023-07-16",
+   "type": "League",
+   "teams": [
+    "WCC U13",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "563",
+    "560"
+   ],
+   "ground": "Ojibway Park Lacrosse Fields",
+   "result": "MVP U13 won by 10 Wickets",
+   "summary": "WCC U13: 64/10(22) MVP U13: 68/0(9.5)"
+  },
+  {
+   "matchId": "2300",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2300&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "WCC U13",
+    "WIM U13"
+   ],
+   "teamIds": [
+    "563",
+    "562"
+   ],
+   "ground": "TBD",
+   "result": "WCC U13 won by 16 Runs",
+   "summary": "WCC U13: 125/6(20.4) WIM U13: 109/7(11)"
+  },
+  {
+   "matchId": "2047",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2047&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U13",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "559",
+    "560"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA(MN) U13 won by 13 Runs",
+   "summary": "MYCA(MN) U13: 130/9(25) MVP U13: 117/7(25)"
+  },
+  {
+   "matchId": "1954",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1954&clubId=40319",
+   "date": "2023-06-25",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U13",
+    "MCC U13"
+   ],
+   "teamIds": [
+    "559",
+    "561"
+   ],
+   "ground": "Lincoln Park",
+   "result": "MYCA(MN) U13 won by 7 Wickets",
+   "summary": "MCC U13: 68/10(13) MYCA(MN) U13: 69/3(10.5)"
+  },
+  {
+   "matchId": "1934",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1934&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U13",
+    "MCC U13"
+   ],
+   "teamIds": [
+    "559",
+    "561"
+   ],
+   "ground": "Lincoln Park",
+   "result": "MCC U13 won by 5 Wickets",
+   "summary": "MYCA(MN) U13: 144/10(23.5) MCC U13: 145/5(21.1)"
+  },
+  {
+   "matchId": "1838",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1838&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U13",
+    "WCC U13"
+   ],
+   "teamIds": [
+    "559",
+    "563"
+   ],
+   "ground": "Ojibway Park Lacrosse Fields",
+   "result": "MYCA(MN) U13 won by 175 Runs",
+   "summary": "MYCA(MN) U13: 213/5(20) WCC U13: 38/9(14.3)"
+  },
+  {
+   "matchId": "1504",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1504&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "WCC U13",
+    "WIM U13"
+   ],
+   "teamIds": [
+    "563",
+    "562"
+   ],
+   "ground": "Lakeland Park",
+   "result": "WIM U13 won by 9 Wickets",
+   "summary": "WCC U13: 69/5(20) WIM U13: 70/1(11.2)"
+  },
+  {
+   "matchId": "1503",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1503&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "MVP U13",
+    "MCC U13"
+   ],
+   "teamIds": [
+    "560",
+    "561"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MCC U13 won by 52 Runs",
+   "summary": "MCC U13: 121/3(20) MVP U13: 69/7(20)"
+  },
+  {
+   "matchId": "1490",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1490&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "MCC U13",
+    "WCC U13"
+   ],
+   "teamIds": [
+    "561",
+    "563"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MCC U13 won by 10 Wickets",
+   "summary": "WCC U13: 49/10(14.2) MCC U13: 50/0(5.5)"
+  },
+  {
+   "matchId": "1487",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1487&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "MVP U13",
+    "WIM U13"
+   ],
+   "teamIds": [
+    "560",
+    "562"
+   ],
+   "ground": "Lakeland Park",
+   "result": "WIM U13 won by 9 Wickets",
+   "summary": "MVP U13: 67/10(19.3) WIM U13: 69/1(11)"
+  },
+  {
+   "matchId": "1456",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1456&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U13",
+    "MCC U13"
+   ],
+   "teamIds": [
+    "559",
+    "561"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA(MN) U13 won by 2 Runs",
+   "summary": "MYCA(MN) U13: 154/6(25) MCC U13: 152/8(25)"
+  },
+  {
+   "matchId": "1450",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1450&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "WCC U13",
+    "WIM U13"
+   ],
+   "teamIds": [
+    "563",
+    "562"
+   ],
+   "ground": "Lakeland Park",
+   "result": "WIM U13 won by 115 Runs",
+   "summary": "WIM U13: 185/4(20) WCC U13: 70/10(19.3)"
+  },
+  {
+   "matchId": "1377",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1377&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U13",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "559",
+    "560"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA(MN) U13 won by 57 Runs",
+   "summary": "MYCA(MN) U13: 112/9(25) MVP U13: 55/9(17.4)"
+  }
+ ]
+}

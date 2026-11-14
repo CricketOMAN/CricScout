@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s149",
+  "id": "legacy-374",
+  "name": "USAC 2025 NC Regionals - U15"
+ },
+ "fetchedAt": "2026-11-13T22:15:45.272Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=374&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=374&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5910",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5910&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "2176",
+    "2175"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Blue won by 45 Runs",
+   "summary": "Team Blue: 166/9(40) Team Red: 121/10(32.2)"
+  },
+  {
+   "matchId": "5878",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5878&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2175",
+    "2176"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Blue won by 13 Runs (D/L)",
+   "summary": "Team Red: 155/10(36.4) Team Blue: 117/2(26.5)"
+  },
+  {
+   "matchId": "5864",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5864&clubId=40319",
+   "date": "2025-06-27",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "2176",
+    "2175"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Red won by 1 Wicket",
+   "summary": "Team Blue: 206/7(40) Team Red: 207/9(40)"
+  },
+  {
+   "matchId": "5859",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5859&clubId=40319",
+   "date": "2025-06-26",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2175",
+    "2176"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Red won by 43 Runs",
+   "summary": "Team Red: 191/6(40) Team Blue: 148/10(30.3)"
+  }
+ ]
+}

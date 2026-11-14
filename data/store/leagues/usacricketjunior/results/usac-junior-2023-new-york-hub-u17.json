@@ -1,0 +1,31 @@
+{
+ "season": {
+  "key": "s338",
+  "id": "legacy-60",
+  "name": "USAC Junior 2023 -New York Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:13:15.634Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=60&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=60&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2051",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2051&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "New York Red",
+    "New York Blue"
+   ],
+   "teamIds": [
+    "664",
+    "665"
+   ],
+   "ground": "TBD",
+   "result": "New York Red won by 7 Runs",
+   "summary": "New York Red: 140/7(25) New York Blue: 133/6(21.1)"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "season": {
+  "key": "s13",
+  "id": "legacy-590",
+  "name": "2026 Houston U11 selection"
+ },
+ "fetchedAt": "2026-11-13T21:39:58.132Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=590&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=590&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9021",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9021&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "Houston Red",
+    "Houston Blue"
+   ],
+   "teamIds": [
+    "3424",
+    "3425"
+   ],
+   "ground": "JCP",
+   "result": "Houston Blue won by 6 Wickets",
+   "summary": "Houston Red: 118/9(30) Houston Blue: 119/4(21.2)"
+  },
+  {
+   "matchId": "9002",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9002&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Houston Blue",
+    "Houston Red"
+   ],
+   "teamIds": [
+    "3425",
+    "3424"
+   ],
+   "ground": "JCP",
+   "result": "Houston Blue won by 19 Runs",
+   "summary": "Houston Blue: 122/10(25.5) Houston Red: 103/10(29.1)"
+  }
+ ]
+}

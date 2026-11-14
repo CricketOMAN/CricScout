@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s57",
+  "id": "legacy-529",
+  "name": "USAC 2026 - MI Hub - U11"
+ },
+ "fetchedAt": "2026-11-13T21:42:10.299Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=529&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=529&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9232",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9232&clubId=40319",
+   "date": "2026-07-26",
+   "type": "League",
+   "teams": [
+    "MYCA PANTHERS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3187",
+    "3186"
+   ],
+   "ground": "Redford",
+   "result": "PRIME STRIKERS won by 9 Wickets",
+   "summary": "MYCA PANTHERS: 92/10(24.1) PRIME STRIKERS: 93/1(21.2)"
+  },
+  {
+   "matchId": "9220",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9220&clubId=40319",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS",
+    "MYCA CHEETAHS"
+   ],
+   "teamIds": [
+    "3186",
+    "3188"
+   ],
+   "ground": "Northville Michigan",
+   "result": "MYCA CHEETAHS won by 93 Runs",
+   "summary": "MYCA CHEETAHS: 131/3(24.4) PRIME STRIKERS: 38/10(17.1)"
+  },
+  {
+   "matchId": "9195",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9195&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "MYCA PANTHERS",
+    "MYCA CHEETAHS"
+   ],
+   "teamIds": [
+    "3187",
+    "3188"
+   ],
+   "ground": "Murphy Michigan",
+   "result": "MYCA CHEETAHS won by 62 Runs",
+   "summary": "MYCA CHEETAHS: 158/6(24.4) MYCA PANTHERS: 96/10(22.4)"
+  },
+  {
+   "matchId": "9045",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9045&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS",
+    "MYCA PANTHERS"
+   ],
+   "teamIds": [
+    "3186",
+    "3187"
+   ],
+   "ground": "Redford",
+   "result": "MYCA PANTHERS won by 4 Runs",
+   "summary": "MYCA PANTHERS: 94/7(24.4) PRIME STRIKERS: 90/9(25)"
+  },
+  {
+   "matchId": "9011",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9011&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS",
+    "MYCA CHEETAHS"
+   ],
+   "teamIds": [
+    "3186",
+    "3188"
+   ],
+   "ground": "Northville",
+   "result": "PRIME STRIKERS won by 6 Wickets",
+   "summary": "MYCA CHEETAHS: 89/8(18.2) PRIME STRIKERS: 90/4(22.5)"
+  },
+  {
+   "matchId": "8770",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8770&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "MYCA CHEETAHS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3188",
+    "3186"
+   ],
+   "ground": "Northville",
+   "result": "MYCA CHEETAHS won by 178 Runs",
+   "summary": "MYCA CHEETAHS: 239/4(24.3) PRIME STRIKERS: 61/10(22.1)"
+  },
+  {
+   "matchId": "8753",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8753&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "MYCA PANTHERS",
+    "MYCA CHEETAHS"
+   ],
+   "teamIds": [
+    "3187",
+    "3188"
+   ],
+   "ground": "Redford",
+   "result": "MYCA CHEETAHS won by 44 Runs",
+   "summary": "MYCA CHEETAHS: 130/5(22.3) MYCA PANTHERS: 86/10(22.2)"
+  },
+  {
+   "matchId": "8700",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8700&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS",
+    "MYCA PANTHERS"
+   ],
+   "teamIds": [
+    "3186",
+    "3187"
+   ],
+   "ground": "Redford",
+   "result": "MYCA PANTHERS won by 15 Runs",
+   "summary": "MYCA PANTHERS: 97/5(25) PRIME STRIKERS: 82/9(24.2)"
+  },
+  {
+   "matchId": "8493",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8493&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "MYCA CHEETAHS",
+    "MYCA PANTHERS"
+   ],
+   "teamIds": [
+    "3188",
+    "3187"
+   ],
+   "ground": "Northville",
+   "result": "MYCA CHEETAHS won by 107 Runs",
+   "summary": "MYCA CHEETAHS: 170/5(23.2) MYCA PANTHERS: 63/9(18.3)"
+  },
+  {
+   "matchId": "8070",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8070&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MYCA PANTHERS",
+    "MYCA CHEETAHS"
+   ],
+   "teamIds": [
+    "3187",
+    "3188"
+   ],
+   "ground": "Murphy Michigan",
+   "result": "MYCA CHEETAHS won by 87 Runs",
+   "summary": "MYCA CHEETAHS: 158/2(20) MYCA PANTHERS: 71/7(19.4)"
+  },
+  {
+   "matchId": "7864",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7864&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "MYCA PANTHERS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3187",
+    "3186"
+   ],
+   "ground": "Redford",
+   "result": "PRIME STRIKERS won by 7 Wickets",
+   "summary": "MYCA PANTHERS: 88/5(19.2) PRIME STRIKERS: 89/3(14.5)"
+  }
+ ]
+}

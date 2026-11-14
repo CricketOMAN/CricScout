@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s139",
+  "id": "legacy-387",
+  "name": "USAC 2025 NY Regional U13"
+ },
+ "fetchedAt": "2026-11-13T22:12:48.433Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=387&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=387&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6076",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6076&clubId=40319",
+   "date": "2025-07-22",
+   "type": "League",
+   "teams": [
+    "NE Hub U13",
+    "NY Hub U13"
+   ],
+   "teamIds": [
+    "2249",
+    "2248"
+   ],
+   "ground": "WATERBURY",
+   "result": "NY Hub U13 won by 53 Runs",
+   "summary": "NY Hub U13: 147/5(30) NE Hub U13: 94/11(30)"
+  },
+  {
+   "matchId": "6075",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6075&clubId=40319",
+   "date": "2025-07-21",
+   "type": "League",
+   "teams": [
+    "NE Hub U13",
+    "NY Hub U13"
+   ],
+   "teamIds": [
+    "2249",
+    "2248"
+   ],
+   "ground": "WATERBURY",
+   "result": "NE Hub U13 won by 98 Runs",
+   "summary": "NE Hub U13: 176/12(30) NY Hub U13: 78/9(30)"
+  },
+  {
+   "matchId": "6022",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6022&clubId=40319",
+   "date": "2025-07-17",
+   "type": "League",
+   "teams": [
+    "NY Hub U13",
+    "NE Hub U13"
+   ],
+   "teamIds": [
+    "2248",
+    "2249"
+   ],
+   "ground": "Idlewild",
+   "result": "NE Hub U13 won by 33 Runs",
+   "summary": "NE Hub U13: 141/5(30) NY Hub U13: 108/8(30)"
+  },
+  {
+   "matchId": "6019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6019&clubId=40319",
+   "date": "2025-07-16",
+   "type": "League",
+   "teams": [
+    "NY Hub U13",
+    "NE Hub U13"
+   ],
+   "teamIds": [
+    "2248",
+    "2249"
+   ],
+   "ground": "Idlewild",
+   "result": "NE Hub U13 won by 1 Run (D/L)",
+   "summary": "NY Hub U13: 144/10(30) NE Hub U13: 145/12(30)"
+  }
+ ]
+}

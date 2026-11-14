@@ -1,0 +1,558 @@
+{
+ "season": {
+  "key": "s116",
+  "id": "legacy-453",
+  "name": "USAC 2026 - Austin - U11"
+ },
+ "fetchedAt": "2026-11-13T21:57:27.027Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=453&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=453&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8447",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8447&clubId=40319",
+   "date": "2026-05-31",
+   "type": "3rd Position",
+   "teams": [
+    "San Antonio Road Runners",
+    "San Antonio Ninjas"
+   ],
+   "teamIds": [
+    "2738",
+    "2739"
+   ],
+   "ground": "TBD",
+   "result": "San Antonio Road Runners won by 60 Runs",
+   "summary": "San Antonio Road Runners: 151/5(20) San Antonio Ninjas: 91/8(20)"
+  },
+  {
+   "matchId": "8388",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8388&clubId=40319",
+   "date": "2026-05-31",
+   "type": "Final",
+   "teams": [
+    "Austin Elites Champions",
+    "SuperKings Academy Blue"
+   ],
+   "teamIds": [
+    "2736",
+    "2735"
+   ],
+   "ground": "TBD",
+   "result": "Austin Elites Champions won by 8 Wickets",
+   "summary": "SuperKings Academy Blue: 120/10(24.2) Austin Elites Champions: 121/2(16.2)"
+  },
+  {
+   "matchId": "8341",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8341&clubId=40319",
+   "date": "2026-05-30",
+   "type": "Eliminator",
+   "teams": [
+    "Austin Elites Pioneers",
+    "NextGen"
+   ],
+   "teamIds": [
+    "2737",
+    "2740"
+   ],
+   "ground": "Wilco Youth",
+   "result": "NextGen won by 6 Wickets",
+   "summary": "Austin Elites Pioneers: 81/10(24) NextGen: 82/4(18.5)"
+  },
+  {
+   "matchId": "8302",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8302&clubId=40319",
+   "date": "2026-05-30",
+   "type": "Eliminator",
+   "teams": [
+    "SuperKings Academy Yellow",
+    "Austn Blasters U11"
+   ],
+   "teamIds": [
+    "2734",
+    "2741"
+   ],
+   "ground": "CPCG",
+   "result": "SuperKings Academy Yellow won by 4 Wickets",
+   "summary": "Austn Blasters U11: 126/6(25) SuperKings Academy Yellow: 127/6(24)"
+  },
+  {
+   "matchId": "8300",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8300&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "Austin Elites Champions"
+   ],
+   "teamIds": [
+    "2738",
+    "2736"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "Austin Elites Champions won by 7 Wickets",
+   "summary": "San Antonio Road Runners: 136/5(25) Austin Elites Champions: 140/3(20.3)"
+  },
+  {
+   "matchId": "8204",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8204&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "SuperKings Academy Yellow"
+   ],
+   "teamIds": [
+    "2738",
+    "2734"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Road Runners won by 10 Wickets",
+   "summary": "SuperKings Academy Yellow: 87/10(20.2) San Antonio Road Runners: 91/0(7.1)"
+  },
+  {
+   "matchId": "8111",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8111&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "Austn Blasters U11"
+   ],
+   "teamIds": [
+    "2737",
+    "2741"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austn Blasters U11 won by 13 Runs",
+   "summary": "Austn Blasters U11: 77/9(21) Austin Elites Pioneers: 64/10(21.2)"
+  },
+  {
+   "matchId": "8053",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8053&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "NextGen"
+   ],
+   "teamIds": [
+    "2739",
+    "2740"
+   ],
+   "ground": "CPCG",
+   "result": "San Antonio Ninjas won by 138 Runs",
+   "summary": "San Antonio Ninjas: 276/4(25) NextGen: 138/9(25)"
+  },
+  {
+   "matchId": "7949",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7949&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "Austn Blasters U11"
+   ],
+   "teamIds": [
+    "2736",
+    "2741"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Elites Champions won by 9 Wickets",
+   "summary": "Austn Blasters U11: 97/9(24.4) Austin Elites Champions: 99/1(10.2)"
+  },
+  {
+   "matchId": "7916",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7916&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "SuperKings Academy Blue"
+   ],
+   "teamIds": [
+    "2737",
+    "2735"
+   ],
+   "ground": "CPCG",
+   "result": "SuperKings Academy Blue won by 10 Wickets",
+   "summary": "Austin Elites Pioneers: 89/10(19.5) SuperKings Academy Blue: 90/0(7)"
+  },
+  {
+   "matchId": "7909",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7909&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "Austn Blasters U11"
+   ],
+   "teamIds": [
+    "2739",
+    "2741"
+   ],
+   "ground": "Wilco Youth",
+   "result": "San Antonio Ninjas won by 7 Wickets",
+   "summary": "Austn Blasters U11: 56/9(15.4) San Antonio Ninjas: 57/3(12.1)"
+  },
+  {
+   "matchId": "7870",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7870&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "NextGen"
+   ],
+   "teamIds": [
+    "2738",
+    "2740"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Road Runners won by 239 Runs",
+   "summary": "San Antonio Road Runners: 343/1(25) NextGen: 104/6(25)"
+  },
+  {
+   "matchId": "7846",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7846&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "SuperKings Academy Yellow"
+   ],
+   "teamIds": [
+    "2736",
+    "2734"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Elites Champions won by 8 Wickets",
+   "summary": "SuperKings Academy Yellow: 48/10(18.1) Austin Elites Champions: 51/2(5.2)"
+  },
+  {
+   "matchId": "7808",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7808&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "SuperKings Academy Yellow",
+    "San Antonio Ninjas"
+   ],
+   "teamIds": [
+    "2734",
+    "2739"
+   ],
+   "ground": "Wilco Youth",
+   "result": "San Antonio Ninjas won by 8 Wickets",
+   "summary": "SuperKings Academy Yellow: 57/10(24.3) San Antonio Ninjas: 58/2(10.2)"
+  },
+  {
+   "matchId": "7760",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7760&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "SuperKings Academy Blue"
+   ],
+   "teamIds": [
+    "2738",
+    "2735"
+   ],
+   "ground": "CPCG",
+   "result": "SuperKings Academy Blue won by 14 Runs",
+   "summary": "SuperKings Academy Blue: 158/7(25) San Antonio Road Runners: 144/6(25)"
+  },
+  {
+   "matchId": "7714",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7714&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "SuperKings Academy Blue",
+    "NextGen"
+   ],
+   "teamIds": [
+    "2735",
+    "2740"
+   ],
+   "ground": "CPCG",
+   "result": "SuperKings Academy Blue won by 85 Runs",
+   "summary": "SuperKings Academy Blue: 271/2(25) NextGen: 186/3(25)"
+  },
+  {
+   "matchId": "7707",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7707&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "2737",
+    "2738"
+   ],
+   "ground": "Wilco",
+   "result": "San Antonio Road Runners won by 30 Runs",
+   "summary": "San Antonio Road Runners: 100/7(25) Austin Elites Pioneers: 70/9(25)"
+  },
+  {
+   "matchId": "7703",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7703&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "San Antonio Ninjas"
+   ],
+   "teamIds": [
+    "2736",
+    "2739"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Elites Champions won by 5 Wickets",
+   "summary": "San Antonio Ninjas: 101/5(25) Austin Elites Champions: 105/5(23.2)"
+  },
+  {
+   "matchId": "7591",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7591&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "Austin Elites Pioneers"
+   ],
+   "teamIds": [
+    "2736",
+    "2737"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Elites Champions won by 132 Runs",
+   "summary": "Austin Elites Champions: 195/5(25) Austin Elites Pioneers: 63/10(21.2)"
+  },
+  {
+   "matchId": "7577",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7577&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "SuperKings Academy Blue",
+    "SuperKings Academy Yellow"
+   ],
+   "teamIds": [
+    "2735",
+    "2734"
+   ],
+   "ground": "LPCL G6",
+   "result": "SuperKings Academy Blue won by 148 Runs",
+   "summary": "SuperKings Academy Blue: 289/4(25.2) SuperKings Academy Yellow: 141/8(25)"
+  },
+  {
+   "matchId": "7526",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7526&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "Austn Blasters U11"
+   ],
+   "teamIds": [
+    "2738",
+    "2741"
+   ],
+   "ground": "TBD",
+   "result": "San Antonio Road Runners won by 10 Wickets",
+   "summary": "Austn Blasters U11: 101/9(19.5) San Antonio Road Runners: 105/0(7.4)"
+  },
+  {
+   "matchId": "7458",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7458&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "Austin Elites Pioneers"
+   ],
+   "teamIds": [
+    "2739",
+    "2737"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "San Antonio Ninjas won by 117 Runs",
+   "summary": "San Antonio Ninjas: 180/3(25) Austin Elites Pioneers: 63/10(17)"
+  },
+  {
+   "matchId": "7410",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7410&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "SuperKings Academy Yellow",
+    "Austn Blasters U11"
+   ],
+   "teamIds": [
+    "2734",
+    "2741"
+   ],
+   "ground": "Wilco Youth",
+   "result": "SuperKings Academy Yellow won by 4 Wickets",
+   "summary": "Austn Blasters U11: 94/7(25) SuperKings Academy Yellow: 97/6(17)"
+  },
+  {
+   "matchId": "7339",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7339&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "SuperKings Academy Yellow",
+    "NextGen"
+   ],
+   "teamIds": [
+    "2734",
+    "2740"
+   ],
+   "ground": "Wilco Youth",
+   "result": "SuperKings Academy Yellow won by 83 Runs",
+   "summary": "SuperKings Academy Yellow: 162/4(25) NextGen: 79/9(21)"
+  },
+  {
+   "matchId": "7231",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7231&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Austn Blasters U11",
+    "NextGen"
+   ],
+   "teamIds": [
+    "2741",
+    "2740"
+   ],
+   "ground": "Wilco",
+   "result": "Austn Blasters U11 won by 8 Runs",
+   "summary": "Austn Blasters U11: 103/6(25.2) NextGen: 95/5(25)"
+  },
+  {
+   "matchId": "7205",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7205&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "SuperKings Academy Blue"
+   ],
+   "teamIds": [
+    "2736",
+    "2735"
+   ],
+   "ground": "Wilco",
+   "result": "Austin Elites Champions won by 15 Runs",
+   "summary": "Austin Elites Champions: 73/9(21.5) SuperKings Academy Blue: 58/10(20.4)"
+  },
+  {
+   "matchId": "7106",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7106&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "NextGen"
+   ],
+   "teamIds": [
+    "2737",
+    "2740"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Elites Pioneers won by 5 Wickets",
+   "summary": "NextGen: 123/4(25) Austin Elites Pioneers: 124/5(20.5)"
+  },
+  {
+   "matchId": "7098",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7098&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "SuperKings Academy Blue"
+   ],
+   "teamIds": [
+    "2739",
+    "2735"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "SuperKings Academy Blue won by 26 Runs",
+   "summary": "SuperKings Academy Blue: 149/8(25.1) San Antonio Ninjas: 123/9(22)"
+  },
+  {
+   "matchId": "7054",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7054&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "SuperKings Academy Blue",
+    "Austn Blasters U11"
+   ],
+   "teamIds": [
+    "2735",
+    "2741"
+   ],
+   "ground": "CPCG",
+   "result": "SuperKings Academy Blue won by 206 Runs",
+   "summary": "SuperKings Academy Blue: 290/7(25) Austn Blasters U11: 84/6(18.5)"
+  },
+  {
+   "matchId": "7049",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7049&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "NextGen"
+   ],
+   "teamIds": [
+    "2736",
+    "2740"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Elites Champions won by 117 Runs",
+   "summary": "Austin Elites Champions: 202/3(25) NextGen: 85/10(22.5)"
+  },
+  {
+   "matchId": "7039",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7039&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "2739",
+    "2738"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "San Antonio Road Runners won by 50 Runs",
+   "summary": "San Antonio Road Runners: 194/1(25) San Antonio Ninjas: 144/7(25)"
+  },
+  {
+   "matchId": "7036",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7036&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "SuperKings Academy Yellow"
+   ],
+   "teamIds": [
+    "2737",
+    "2734"
+   ],
+   "ground": "LPCL G8",
+   "result": "SuperKings Academy Yellow won by 86 Runs",
+   "summary": "SuperKings Academy Yellow: 210/8(25.1) Austin Elites Pioneers: 124/8(25)"
+  }
+ ]
+}

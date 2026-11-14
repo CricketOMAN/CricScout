@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s205",
+  "id": "legacy-288",
+  "name": "2025 USAC WIM - Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T22:29:03.245Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=288&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=288&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5321",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5321&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "WIM Thunderbirds"
+   ],
+   "teamIds": [
+    "1582",
+    "1583"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "WIM Thunderbirds won by 101 Runs",
+   "summary": "WIM Thunderbirds: 101/10(28)"
+  },
+  {
+   "matchId": "5574",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5574&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "WIM Thunderbirds"
+   ],
+   "teamIds": [
+    "1582",
+    "1583"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm: 166/10 (29.2/35 ov) WIM Thunderbirds: 85/10 (27.4/35 ov)",
+   "summary": "MYCA Thunderstorm: 166/10(29.2) WIM Thunderbirds: 85/10(27.4) Live"
+  },
+  {
+   "matchId": "5551",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5551&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "WIM Thunderbirds",
+    "MYCA Thunderstorm"
+   ],
+   "teamIds": [
+    "1583",
+    "1582"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Thunderstorm won by 2 Wickets",
+   "summary": "WIM Thunderbirds: 121/5(30) MYCA Thunderstorm: 122/8(29.4)"
+  },
+  {
+   "matchId": "5294",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5294&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "WIM Thunderbirds"
+   ],
+   "teamIds": [
+    "1582",
+    "1583"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm: 192/6 (35/35 ov)",
+   "summary": "MYCA Thunderstorm: 192/6(35) Live"
+  },
+  {
+   "matchId": "5254",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5254&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "WIM Thunderbirds",
+    "MYCA Thunderstorm"
+   ],
+   "teamIds": [
+    "1583",
+    "1582"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Thunderstorm won by 116 Runs",
+   "summary": "MYCA Thunderstorm: 152/10(35) WIM Thunderbirds: 36/10(17.1)"
+  },
+  {
+   "matchId": "4774",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4774&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "WIM Thunderbirds",
+    "MYCA Thunderstorm"
+   ],
+   "teamIds": [
+    "1583",
+    "1582"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Thunderstorm won by 6 Wickets",
+   "summary": "WIM Thunderbirds: 88/10(25.4) MYCA Thunderstorm: 91/4(22)"
+  },
+  {
+   "matchId": "4689",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4689&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "MYCA Thunderstorm",
+    "WIM Thunderbirds"
+   ],
+   "teamIds": [
+    "1582",
+    "1583"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Thunderstorm won by 17 Runs",
+   "summary": "MYCA Thunderstorm: 129/7(35) WIM Thunderbirds: 112/8(35)"
+  }
+ ]
+}

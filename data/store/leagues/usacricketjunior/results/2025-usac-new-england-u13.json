@@ -1,0 +1,609 @@
+{
+ "season": {
+  "key": "s183",
+  "id": "legacy-319",
+  "name": "2025 USAC New England U13"
+ },
+ "fetchedAt": "2026-11-13T22:23:11.571Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=319&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=319&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5899",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5899&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "UCL NEUTRONS A",
+    "UCL NEUTRONS B"
+   ],
+   "teamIds": [
+    "1843",
+    "1842"
+   ],
+   "ground": "Westborough",
+   "result": "UCL NEUTRONS A won by 10 Runs",
+   "summary": "UCL NEUTRONS A: 82/8(25) UCL NEUTRONS B: 72/9(23.3)"
+  },
+  {
+   "matchId": "5894",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5894&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "GOLDEN WILLOW CA",
+    "CRICMAX CT TITANS A"
+   ],
+   "teamIds": [
+    "1844",
+    "1850"
+   ],
+   "ground": "Maxwell",
+   "result": "GOLDEN WILLOW CA won by 4 Wickets",
+   "summary": "CRICMAX CT TITANS A: 107/8(25) GOLDEN WILLOW CA: 110/6(24.1)"
+  },
+  {
+   "matchId": "5877",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5877&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "GOLDEN WILLOW CA",
+    "CONNECTICUT CRICKET ACADEMY"
+   ],
+   "teamIds": [
+    "1844",
+    "1846"
+   ],
+   "ground": "HOPKINTON",
+   "result": "Forfeited. Winner: GOLDEN WILLOW CA",
+   "summary": "GOLDEN WILLOW CA: 0/0(0)"
+  },
+  {
+   "matchId": "5876",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5876&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "CRICMAX CT TITANS A",
+    "NCAA COLTS"
+   ],
+   "teamIds": [
+    "1850",
+    "1849"
+   ],
+   "ground": "WATERBURY",
+   "result": "Forfeited. Winner: CRICMAX CT TITANS A",
+   "summary": "CRICMAX CT TITANS A: 0/0(0)"
+  },
+  {
+   "matchId": "5869",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5869&clubId=40319",
+   "date": "2025-06-27",
+   "type": "League",
+   "teams": [
+    "NEW MILFORD CC",
+    "UCL NEUTRONS B"
+   ],
+   "teamIds": [
+    "1848",
+    "1842"
+   ],
+   "ground": "New Milford",
+   "result": "NEW MILFORD CC won by 9 Wickets",
+   "summary": "UCL NEUTRONS B: 49/10(20.5) NEW MILFORD CC: 50/1(6.3)"
+  },
+  {
+   "matchId": "5862",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5862&clubId=40319",
+   "date": "2025-06-27",
+   "type": "League",
+   "teams": [
+    "PCA PANTHERS",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1847",
+    "1845"
+   ],
+   "ground": "Springfield",
+   "result": "PCA PANTHERS won by 84 Runs",
+   "summary": "PCA PANTHERS: 173/5(25) SKA-Boston: 89/7(25)"
+  },
+  {
+   "matchId": "5806",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5806&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "UCL NEUTRONS A",
+    "NCAA COLTS"
+   ],
+   "teamIds": [
+    "1843",
+    "1849"
+   ],
+   "ground": "Graystone Field",
+   "result": "UCL NEUTRONS A won by 176 Runs",
+   "summary": "UCL NEUTRONS A: 234/4(25) NCAA COLTS: 58/8(20.3)"
+  },
+  {
+   "matchId": "5805",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5805&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "CONNECTICUT CRICKET ACADEMY",
+    "UCL NEUTRONS B"
+   ],
+   "teamIds": [
+    "1846",
+    "1842"
+   ],
+   "ground": "WATERBURY",
+   "result": "UCL NEUTRONS B won by 106 Runs",
+   "summary": "UCL NEUTRONS B: 163/8(25) CONNECTICUT CRICKET ACADEMY: 57/10(20.3)"
+  },
+  {
+   "matchId": "5780",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5780&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "SKA-Boston",
+    "CRICMAX CT TITANS B"
+   ],
+   "teamIds": [
+    "1845",
+    "1851"
+   ],
+   "ground": "Springfield",
+   "result": "SKA-Boston won by 5 Wickets",
+   "summary": "CRICMAX CT TITANS B: 90/6(25) SKA-Boston: 91/5(19.5)"
+  },
+  {
+   "matchId": "5779",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5779&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "NEW MILFORD CC",
+    "CRICMAX CT TITANS A"
+   ],
+   "teamIds": [
+    "1848",
+    "1850"
+   ],
+   "ground": "New Milford",
+   "result": "CRICMAX CT TITANS A won by 31 Runs",
+   "summary": "CRICMAX CT TITANS A: 141/4(25) NEW MILFORD CC: 110/10(25)"
+  },
+  {
+   "matchId": "5778",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5778&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "PCA PANTHERS",
+    "GOLDEN WILLOW CA"
+   ],
+   "teamIds": [
+    "1847",
+    "1844"
+   ],
+   "ground": "WATERBURY",
+   "result": "GOLDEN WILLOW CA won by 74 Runs",
+   "summary": "GOLDEN WILLOW CA: 159/7(30) PCA PANTHERS: 85/10(20.4)"
+  },
+  {
+   "matchId": "5756",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5756&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "CRICMAX CT TITANS A",
+    "UCL NEUTRONS A"
+   ],
+   "teamIds": [
+    "1850",
+    "1843"
+   ],
+   "ground": "Maxwell",
+   "result": "CRICMAX CT TITANS A won by 36 Runs",
+   "summary": "CRICMAX CT TITANS A: 132/2(25) UCL NEUTRONS A: 96/6(25)"
+  },
+  {
+   "matchId": "5736",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5736&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "NEW MILFORD CC",
+    "CRICMAX CT TITANS B"
+   ],
+   "teamIds": [
+    "1848",
+    "1851"
+   ],
+   "ground": "Maxwell",
+   "result": "NEW MILFORD CC won by 10 Wickets",
+   "summary": "CRICMAX CT TITANS B: 54/10(24.2) NEW MILFORD CC: 58/0(11.4)"
+  },
+  {
+   "matchId": "5735",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5735&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "UCL NEUTRONS A",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1843",
+    "1845"
+   ],
+   "ground": "Knights Ground",
+   "result": "SKA-Boston won by 1 Wicket",
+   "summary": "UCL NEUTRONS A: 53/10(16.3) SKA-Boston: 54/9(22.3)"
+  },
+  {
+   "matchId": "5714",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5714&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "PCA PANTHERS",
+    "CONNECTICUT CRICKET ACADEMY"
+   ],
+   "teamIds": [
+    "1847",
+    "1846"
+   ],
+   "ground": "New Milford",
+   "result": "PCA PANTHERS won by 111 Runs",
+   "summary": "PCA PANTHERS: 183/6(25) CONNECTICUT CRICKET ACADEMY: 72/10(23.5)"
+  },
+  {
+   "matchId": "5677",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5677&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "PCA PANTHERS",
+    "UCL NEUTRONS B"
+   ],
+   "teamIds": [
+    "1847",
+    "1842"
+   ],
+   "ground": "WATERBURY",
+   "result": "PCA PANTHERS won by 108 Runs",
+   "summary": "PCA PANTHERS: 168/3(20) UCL NEUTRONS B: 60/7(20)"
+  },
+  {
+   "matchId": "5676",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5676&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "CRICMAX CT TITANS B",
+    "GOLDEN WILLOW CA"
+   ],
+   "teamIds": [
+    "1851",
+    "1844"
+   ],
+   "ground": "Maxwell",
+   "result": "GOLDEN WILLOW CA won by 10 Wickets",
+   "summary": "CRICMAX CT TITANS B: 66/8(20) GOLDEN WILLOW CA: 67/0(7.2)"
+  },
+  {
+   "matchId": "5671",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5671&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "CRICMAX CT TITANS A",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1850",
+    "1845"
+   ],
+   "ground": "Springfield",
+   "result": "CRICMAX CT TITANS A won by 127 Runs",
+   "summary": "CRICMAX CT TITANS A: 163/6(20) SKA-Boston: 36/10(16.1)"
+  },
+  {
+   "matchId": "5516",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5516&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "CRICMAX CT TITANS B",
+    "UCL NEUTRONS B"
+   ],
+   "teamIds": [
+    "1851",
+    "1842"
+   ],
+   "ground": "Maxwell",
+   "result": "UCL NEUTRONS B won by 5 Wickets",
+   "summary": "CRICMAX CT TITANS B: 106/9(20) UCL NEUTRONS B: 107/5(20)"
+  },
+  {
+   "matchId": "5395",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5395&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "NCAA COLTS",
+    "GOLDEN WILLOW CA"
+   ],
+   "teamIds": [
+    "1849",
+    "1844"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "GOLDEN WILLOW CA won by 89 Runs",
+   "summary": "GOLDEN WILLOW CA: 159/6(20) NCAA COLTS: 70/8(20)"
+  },
+  {
+   "matchId": "5257",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5257&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "UCL NEUTRONS A",
+    "GOLDEN WILLOW CA"
+   ],
+   "teamIds": [
+    "1843",
+    "1844"
+   ],
+   "ground": "HOPKINTON",
+   "result": "GOLDEN WILLOW CA won by 106 Runs",
+   "summary": "GOLDEN WILLOW CA: 187/5(25) UCL NEUTRONS A: 81/10(20.1)"
+  },
+  {
+   "matchId": "5245",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5245&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "PCA PANTHERS",
+    "NCAA COLTS"
+   ],
+   "teamIds": [
+    "1847",
+    "1849"
+   ],
+   "ground": "Springfield",
+   "result": "PCA PANTHERS won by 9 Wickets",
+   "summary": "NCAA COLTS: 63/9(18.3) PCA PANTHERS: 65/1(7.5)"
+  },
+  {
+   "matchId": "5203",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5203&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "CRICMAX CT TITANS B",
+    "CRICMAX CT TITANS A"
+   ],
+   "teamIds": [
+    "1851",
+    "1850"
+   ],
+   "ground": "Maxwell",
+   "result": "CRICMAX CT TITANS A won by 165 Runs",
+   "summary": "CRICMAX CT TITANS A: 229/3(25) CRICMAX CT TITANS B: 64/9(25)"
+  },
+  {
+   "matchId": "5186",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5186&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "UCL NEUTRONS B",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1842",
+    "1845"
+   ],
+   "ground": "Groveland",
+   "result": "UCL NEUTRONS B won by 17 Runs",
+   "summary": "UCL NEUTRONS B: 72/9(20) SKA-Boston: 55/7(17.2)"
+  },
+  {
+   "matchId": "5183",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5183&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "CONNECTICUT CRICKET ACADEMY",
+    "NEW MILFORD CC"
+   ],
+   "teamIds": [
+    "1846",
+    "1848"
+   ],
+   "ground": "New Milford",
+   "result": "NEW MILFORD CC won by 8 Wickets",
+   "summary": "CONNECTICUT CRICKET ACADEMY: 18/6(12.1) NEW MILFORD CC: 19/2(6.2)"
+  },
+  {
+   "matchId": "5061",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5061&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "NEW MILFORD CC",
+    "GOLDEN WILLOW CA"
+   ],
+   "teamIds": [
+    "1848",
+    "1844"
+   ],
+   "ground": "Springfield",
+   "result": "GOLDEN WILLOW CA won by 60 Runs",
+   "summary": "GOLDEN WILLOW CA: 131/10(22.4) NEW MILFORD CC: 71/10(20.3)"
+  },
+  {
+   "matchId": "5019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5019&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "CONNECTICUT CRICKET ACADEMY",
+    "CRICMAX CT TITANS A"
+   ],
+   "teamIds": [
+    "1846",
+    "1850"
+   ],
+   "ground": "Springfield",
+   "result": "CRICMAX CT TITANS A won by 208 Runs",
+   "summary": "CRICMAX CT TITANS A: 245/6(20) CONNECTICUT CRICKET ACADEMY: 37/10(11.2)"
+  },
+  {
+   "matchId": "4899",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4899&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "SKA-Boston",
+    "GOLDEN WILLOW CA"
+   ],
+   "teamIds": [
+    "1845",
+    "1844"
+   ],
+   "ground": "HOPKINTON",
+   "result": "Winner: GOLDEN WILLOW CA",
+   "summary": "GOLDEN WILLOW CA: 216/5(20.4) SKA-Boston: 18/9(7.1)"
+  },
+  {
+   "matchId": "4896",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4896&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "NCAA COLTS",
+    "CONNECTICUT CRICKET ACADEMY"
+   ],
+   "teamIds": [
+    "1849",
+    "1846"
+   ],
+   "ground": "Graystone Field",
+   "result": "NCAA COLTS: 133/3 (12/12 ov) CONNECTICUT CRICKET ACADEMY: 40/4 (4.5/12 ov)",
+   "summary": "NCAA COLTS: 133/3(12) CONNECTICUT CRICKET ACADEMY: 40/4(4.5) Live"
+  },
+  {
+   "matchId": "4849",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4849&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "CRICMAX CT TITANS B",
+    "UCL NEUTRONS A"
+   ],
+   "teamIds": [
+    "1851",
+    "1843"
+   ],
+   "ground": "Maxwell",
+   "result": "UCL NEUTRONS A won by 22 Runs",
+   "summary": "UCL NEUTRONS A: 92/6(25) CRICMAX CT TITANS B: 70/10(22.5)"
+  },
+  {
+   "matchId": "4833",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4833&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "PCA PANTHERS",
+    "CRICMAX CT TITANS A"
+   ],
+   "teamIds": [
+    "1847",
+    "1850"
+   ],
+   "ground": "Springfield",
+   "result": "CRICMAX CT TITANS A won by 70 Runs",
+   "summary": "CRICMAX CT TITANS A: 154/3(25) PCA PANTHERS: 84/9(25)"
+  },
+  {
+   "matchId": "4772",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4772&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "UCL NEUTRONS B",
+    "GOLDEN WILLOW CA"
+   ],
+   "teamIds": [
+    "1842",
+    "1844"
+   ],
+   "ground": "Groveland",
+   "result": "It is a Tie",
+   "summary": "UCL NEUTRONS B: 0/0(0)"
+  },
+  {
+   "matchId": "4765",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4765&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "PCA PANTHERS",
+    "NEW MILFORD CC"
+   ],
+   "teamIds": [
+    "1847",
+    "1848"
+   ],
+   "ground": "WATERBURY",
+   "result": "It is a Tie",
+   "summary": "PCA PANTHERS: 0/0(0)"
+  },
+  {
+   "matchId": "4763",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4763&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "CRICMAX CT TITANS B",
+    "NCAA COLTS"
+   ],
+   "teamIds": [
+    "1851",
+    "1849"
+   ],
+   "ground": "Maxwell",
+   "result": "It is a Tie",
+   "summary": "CRICMAX CT TITANS B: 0/0(0)"
+  },
+  {
+   "matchId": "4735",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4735&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "SKA-Boston",
+    "CONNECTICUT CRICKET ACADEMY"
+   ],
+   "teamIds": [
+    "1845",
+    "1846"
+   ],
+   "ground": "Knights Ground",
+   "result": "It is a Tie",
+   "summary": "SKA-Boston: 0/0(0)"
+  }
+ ]
+}

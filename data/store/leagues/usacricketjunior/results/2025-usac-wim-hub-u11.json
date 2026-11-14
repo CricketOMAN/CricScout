@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s206",
+  "id": "legacy-287",
+  "name": "2025 USAC WIM - Hub - U11"
+ },
+ "fetchedAt": "2026-11-13T22:29:04.173Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=287&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=287&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5701",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5701&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "MYCA Twisters",
+    "MVP Superheroes"
+   ],
+   "teamIds": [
+    "1580",
+    "1579"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MVP Superheroes won by 10 Wickets",
+   "summary": "MYCA Twisters: 43/9(15) MVP Superheroes: 44/0(4.5)"
+  },
+  {
+   "matchId": "5659",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5659&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MVP Superheroes"
+   ],
+   "teamIds": [
+    "1581",
+    "1579"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MVP Superheroes won by 5 Runs",
+   "summary": "MVP Superheroes: 66/9(20) MYCA Vortex: 61/11(18.3)"
+  },
+  {
+   "matchId": "4992",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4992&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MVP Superheroes"
+   ],
+   "teamIds": [
+    "1581",
+    "1579"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MVP Superheroes won by 39 Runs",
+   "summary": "MVP Superheroes: 136/3(20) MYCA Vortex: 97/4(20)"
+  },
+  {
+   "matchId": "5616",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5616&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "1581",
+    "1580"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 89 Runs",
+   "summary": "MYCA Vortex: 152/7(20) MYCA Twisters: 63/9(20)"
+  },
+  {
+   "matchId": "5507",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5507&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "MVP Superheroes",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "1579",
+    "1580"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Superheroes won by 9 Wickets",
+   "summary": "MYCA Twisters: 40/10(17.4) MVP Superheroes: 41/1(5.2)"
+  },
+  {
+   "matchId": "5360",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5360&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "MYCA Twisters",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "1580",
+    "1581"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 7 Wickets",
+   "summary": "MYCA Twisters: 66/8(20) MYCA Vortex: 67/3(11.5)"
+  },
+  {
+   "matchId": "5336",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5336&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "1578",
+    "1581"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MYCA Vortex won by 134 Runs",
+   "summary": "MYCA Vortex: 209/7(20) ICA Warriors: 75/8(18)"
+  },
+  {
+   "matchId": "5301",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5301&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "1578",
+    "1581"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MYCA Vortex won by 129 Runs",
+   "summary": "MYCA Vortex: 186/6(20) ICA Warriors: 57/9(20)"
+  },
+  {
+   "matchId": "5263",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5263&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "1578",
+    "1580"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "ICA Warriors won by 7 Wickets",
+   "summary": "MYCA Twisters: 91/7(20) ICA Warriors: 92/3(13.4)"
+  },
+  {
+   "matchId": "5150",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5150&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MVP Superheroes"
+   ],
+   "teamIds": [
+    "1578",
+    "1579"
+   ],
+   "ground": "MCG Marion Iowa",
+   "result": "MVP Superheroes won by 115 Runs",
+   "summary": "MVP Superheroes: 160/5(20) ICA Warriors: 45/6(20)"
+  },
+  {
+   "matchId": "5116",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5116&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "ICA Warriors",
+    "MVP Superheroes"
+   ],
+   "teamIds": [
+    "1578",
+    "1579"
+   ],
+   "ground": "MCG Marion Iowa",
+   "result": "MVP Superheroes won by 129 Runs",
+   "summary": "MVP Superheroes: 148/3(20) ICA Warriors: 19/7(9.5)"
+  }
+ ]
+}

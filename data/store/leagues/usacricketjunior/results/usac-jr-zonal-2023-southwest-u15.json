@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s296",
+  "id": "legacy-107",
+  "name": "USAC JR Zonal 2023 - SouthWest U15"
+ },
+ "fetchedAt": "2026-11-13T23:05:30.953Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=107&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=107&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2209",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2209&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "705",
+    "706"
+   ],
+   "ground": "PV5",
+   "result": "Dallas Red won by 94 Runs",
+   "summary": "Dallas Red: 181/9(40) Dallas Blue: 87/10(23.2)"
+  },
+  {
+   "matchId": "2208",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2208&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "Hou15 Blue",
+    "Hou15 Red"
+   ],
+   "teamIds": [
+    "708",
+    "707"
+   ],
+   "ground": "PV1",
+   "result": "Hou15 Blue won by 1 Wicket",
+   "summary": "Hou15 Red: 184/10(38.1) Hou15 Blue: 188/9(39.1)"
+  },
+  {
+   "matchId": "2207",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2207&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Colorado"
+   ],
+   "teamIds": [
+    "703",
+    "704"
+   ],
+   "ground": "PV2",
+   "result": "Austin won by 9 Runs",
+   "summary": "Austin: 192/10(32.4) Colorado: 183/10(39.4)"
+  },
+  {
+   "matchId": "2193",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2193&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "Hou15 Red",
+    "Colorado"
+   ],
+   "teamIds": [
+    "707",
+    "704"
+   ],
+   "ground": "PV5",
+   "result": "Hou15 Red won by 215 Runs",
+   "summary": "Hou15 Red: 267/3(40) Colorado: 52/10(21)"
+  },
+  {
+   "matchId": "2192",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2192&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Austin"
+   ],
+   "teamIds": [
+    "705",
+    "703"
+   ],
+   "ground": "PV4",
+   "result": "Dallas Red won by 150 Runs",
+   "summary": "Dallas Red: 262/5(40) Austin: 112/10(30.3)"
+  },
+  {
+   "matchId": "2190",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2190&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "Dallas Blue",
+    "Hou15 Blue"
+   ],
+   "teamIds": [
+    "706",
+    "708"
+   ],
+   "ground": "PV6",
+   "result": "Hou15 Blue won by 8 Wickets",
+   "summary": "Dallas Blue: 132/10(36.5) Hou15 Blue: 133/2(24.5)"
+  },
+  {
+   "matchId": "2179",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2179&clubId=40319",
+   "date": "2023-08-03",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Hou15 Red"
+   ],
+   "teamIds": [
+    "703",
+    "707"
+   ],
+   "ground": "PV6",
+   "result": "Hou15 Red won by 10 Wickets",
+   "summary": "Austin: 122/8(40) Hou15 Red: 123/0(14.1)"
+  },
+  {
+   "matchId": "2178",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2178&clubId=40319",
+   "date": "2023-08-03",
+   "type": "League",
+   "teams": [
+    "Hou15 Blue",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "708",
+    "705"
+   ],
+   "ground": "PV5",
+   "result": "Hou15 Blue won by 9 Wickets",
+   "summary": "Dallas Red: 159/10(36.4) Hou15 Blue: 163/1(26.2)"
+  },
+  {
+   "matchId": "2177",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2177&clubId=40319",
+   "date": "2023-08-03",
+   "type": "League",
+   "teams": [
+    "Colorado",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "704",
+    "706"
+   ],
+   "ground": "PV4",
+   "result": "Dallas Blue won by 158 Runs",
+   "summary": "Dallas Blue: 280/6(40) Colorado: 122/10(29.3)"
+  },
+  {
+   "matchId": "2161",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2161&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "Colorado",
+    "Hou15 Blue"
+   ],
+   "teamIds": [
+    "704",
+    "708"
+   ],
+   "ground": "PV6",
+   "result": "Hou15 Blue won by 281 Runs",
+   "summary": "Hou15 Blue: 346/3(40) Colorado: 65/10(19.3)"
+  },
+  {
+   "matchId": "2160",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2160&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "Dallas Blue",
+    "Austin"
+   ],
+   "teamIds": [
+    "706",
+    "703"
+   ],
+   "ground": "PV4",
+   "result": "Dallas Blue won by 56 Runs",
+   "summary": "Dallas Blue: 223/5(40) Austin: 167/7(40)"
+  },
+  {
+   "matchId": "2158",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2158&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "Hou15 Red",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "707",
+    "705"
+   ],
+   "ground": "PV5",
+   "result": "Hou15 Red won by 5 Wickets",
+   "summary": "Dallas Red: 179/10(39.2) Hou15 Red: 180/5(38.5)"
+  }
+ ]
+}

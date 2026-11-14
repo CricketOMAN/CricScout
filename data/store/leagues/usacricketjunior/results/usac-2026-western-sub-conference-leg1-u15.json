@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s30",
+  "id": "legacy-563",
+  "name": "USAC 2026 - Western Sub Conference - Leg1 - U15"
+ },
+ "fetchedAt": "2026-11-13T21:40:45.314Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=563&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=563&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9113",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9113&clubId=40319",
+   "date": "2026-07-16",
+   "type": "League",
+   "teams": [
+    "LA Avengers",
+    "Bay Area Challengers"
+   ],
+   "teamIds": [
+    "3329",
+    "3326"
+   ],
+   "ground": "Wright, Woodley, LA",
+   "result": "LA Avengers won by 1 Wicket",
+   "summary": "Bay Area Challengers: 195/9(40) LA Avengers: 200/9(37.5)"
+  },
+  {
+   "matchId": "9112",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9112&clubId=40319",
+   "date": "2026-07-16",
+   "type": "League",
+   "teams": [
+    "Northwest Titans",
+    "LA Challengers"
+   ],
+   "teamIds": [
+    "3328",
+    "3330"
+   ],
+   "ground": "Severn - Woodley, LA",
+   "result": "LA Challengers won by 6 Runs",
+   "summary": "LA Challengers: 200/10(37.1) Northwest Titans: 194/10(38.3)"
+  },
+  {
+   "matchId": "9108",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9108&clubId=40319",
+   "date": "2026-07-15",
+   "type": "League",
+   "teams": [
+    "Bay Area Challengers",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3326",
+    "3327"
+   ],
+   "ground": "Severn - Woodley, LA",
+   "result": "Bay Area Challengers won by 28 Runs (D/L)",
+   "summary": "Northwest Blazers: 227/9(40) Bay Area Challengers: 205/6(32.3)"
+  },
+  {
+   "matchId": "9107",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9107&clubId=40319",
+   "date": "2026-07-15",
+   "type": "League",
+   "teams": [
+    "Northwest Titans",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3328",
+    "3329"
+   ],
+   "ground": "Wright, Woodley, LA",
+   "result": "LA Avengers won by 2 Wickets",
+   "summary": "Northwest Titans: 141/10(33.3) LA Avengers: 142/8(31.3)"
+  },
+  {
+   "matchId": "9099",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9099&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "Northwest Blazers",
+    "LA Challengers"
+   ],
+   "teamIds": [
+    "3327",
+    "3330"
+   ],
+   "ground": "Severn - Woodley, LA",
+   "result": "Northwest Blazers won by 9 Runs",
+   "summary": "Northwest Blazers: 229/10(39.5) LA Challengers: 220/5(40)"
+  },
+  {
+   "matchId": "9098",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9098&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "Bay Area Challengers",
+    "Northwest Titans"
+   ],
+   "teamIds": [
+    "3326",
+    "3328"
+   ],
+   "ground": "Wright, Woodley, LA",
+   "result": "Bay Area Challengers won by 162 Runs",
+   "summary": "Bay Area Challengers: 347/5(40) Northwest Titans: 185/10(39.4)"
+  },
+  {
+   "matchId": "9086",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9086&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "LA Challengers",
+    "Bay Area Challengers"
+   ],
+   "teamIds": [
+    "3330",
+    "3326"
+   ],
+   "ground": "Wright, Woodley, LA",
+   "result": "Bay Area Challengers won by 117 Runs",
+   "summary": "Bay Area Challengers: 295/6(40) LA Challengers: 178/10(38.3)"
+  },
+  {
+   "matchId": "9085",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9085&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "LA Avengers",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3329",
+    "3327"
+   ],
+   "ground": "Canyonside Park",
+   "result": "Northwest Blazers won by 2 Wickets",
+   "summary": "LA Avengers: 154/10(32.1) Northwest Blazers: 158/8(30.3)"
+  },
+  {
+   "matchId": "9084",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9084&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "Bay Area Warriors",
+    "Northwest Titans"
+   ],
+   "teamIds": [
+    "3325",
+    "3328"
+   ],
+   "ground": "Severn - Woodley, LA",
+   "result": "Bay Area Warriors won by 133 Runs",
+   "summary": "Bay Area Warriors: 285/7(40) Northwest Titans: 152/10(33.1)"
+  },
+  {
+   "matchId": "9057",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9057&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "Northwest Blazers",
+    "Bay Area Warriors"
+   ],
+   "teamIds": [
+    "3327",
+    "3325"
+   ],
+   "ground": "Canyonside Park",
+   "result": "Bay Area Warriors won by 146 Runs",
+   "summary": "Bay Area Warriors: 335/10(40) Northwest Blazers: 189/10(37.3)"
+  },
+  {
+   "matchId": "9028",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9028&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Bay Area Warriors",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3325",
+    "3329"
+   ],
+   "ground": "Canyonside Park",
+   "result": "Bay Area Warriors won by 205 Runs",
+   "summary": "Bay Area Warriors: 343/6(40) LA Avengers: 138/10(33.5)"
+  },
+  {
+   "matchId": "8990",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8990&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "LA Challengers",
+    "Bay Area Warriors"
+   ],
+   "teamIds": [
+    "3330",
+    "3325"
+   ],
+   "ground": "Canyonside Park",
+   "result": "Bay Area Warriors won by 10 Wickets",
+   "summary": "LA Challengers: 114/10(35.1) Bay Area Warriors: 115/0(12.2)"
+  },
+  {
+   "matchId": "8979",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8979&clubId=40319",
+   "date": "2026-07-09",
+   "type": "League",
+   "teams": [
+    "Northwest Blazers",
+    "Northwest Titans"
+   ],
+   "teamIds": [
+    "3327",
+    "3328"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Northwest Blazers won by 143 Runs",
+   "summary": "Northwest Blazers: 222/3(40) Northwest Titans: 79/10(16.1)"
+  },
+  {
+   "matchId": "8978",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8978&clubId=40319",
+   "date": "2026-07-09",
+   "type": "League",
+   "teams": [
+    "LA Avengers",
+    "LA Challengers"
+   ],
+   "teamIds": [
+    "3329",
+    "3330"
+   ],
+   "ground": "Canyonside Park",
+   "result": "LA Avengers won by 140 Runs",
+   "summary": "LA Avengers: 233/9(40) LA Challengers: 93/10(23.5)"
+  },
+  {
+   "matchId": "8969",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8969&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "Bay Area Warriors",
+    "Bay Area Challengers"
+   ],
+   "teamIds": [
+    "3325",
+    "3326"
+   ],
+   "ground": "Tarika, Morgan Hill, CA",
+   "result": "Bay Area Warriors won by 21 Runs",
+   "summary": "Bay Area Warriors: 244/8(40) Bay Area Challengers: 223/9(40)"
+  }
+ ]
+}

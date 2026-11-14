@@ -1,0 +1,490 @@
+{
+ "season": {
+  "key": "s146",
+  "id": "legacy-380",
+  "name": "USAC 2025 - U13 West Conference Championship"
+ },
+ "fetchedAt": "2026-11-13T22:15:42.592Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=380&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=380&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6127",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6127&clubId=40319",
+   "date": "2025-07-27",
+   "type": "League",
+   "teams": [
+    "Missouri",
+    "Seattle"
+   ],
+   "teamIds": [
+    "2225",
+    "2226"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "Missouri won by 4 Wickets",
+   "summary": "Seattle: 139/10(28) Missouri: 142/6(27.3)"
+  },
+  {
+   "matchId": "6125",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6125&clubId=40319",
+   "date": "2025-07-27",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "LA"
+   ],
+   "teamIds": [
+    "2223",
+    "2224"
+   ],
+   "ground": "HCCG",
+   "result": "LA won by 68 Runs",
+   "summary": "LA: 183/4(30) Houston: 115/10(23.4)"
+  },
+  {
+   "matchId": "6122",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6122&clubId=40319",
+   "date": "2025-07-27",
+   "type": "League",
+   "teams": [
+    "DL_HOU_MO_Combined",
+    "Bay Area"
+   ],
+   "teamIds": [
+    "2214",
+    "2215"
+   ],
+   "ground": "LPCL G8",
+   "result": "Bay Area won by 124 Runs",
+   "summary": "Bay Area: 273/3(30) DL_HOU_MO_Combined: 149/8(30)"
+  },
+  {
+   "matchId": "6121",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6121&clubId=40319",
+   "date": "2025-07-27",
+   "type": "League",
+   "teams": [
+    "Dallas",
+    "BA_LA_Seattle_Combined"
+   ],
+   "teamIds": [
+    "2211",
+    "2220"
+   ],
+   "ground": "TCCG",
+   "result": "Dallas won by 6 Wickets",
+   "summary": "BA_LA_Seattle_Combined: 123/10(23.3) Dallas: 124/4(22.4)"
+  },
+  {
+   "matchId": "6120",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6120&clubId=40319",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Missouri",
+    "BA_LA_Seattle_Combined"
+   ],
+   "teamIds": [
+    "2225",
+    "2220"
+   ],
+   "ground": "CPCG",
+   "result": "Missouri won by 4 Wickets",
+   "summary": "BA_LA_Seattle_Combined: 118/9(30) Missouri: 122/6(26.1)"
+  },
+  {
+   "matchId": "6119",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6119&clubId=40319",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "DL_HOU_MO_Combined",
+    "LA"
+   ],
+   "teamIds": [
+    "2214",
+    "2224"
+   ],
+   "ground": "LPCL G6",
+   "result": "DL_HOU_MO_Combined won by 2 Wickets",
+   "summary": "LA: 141/8(30) DL_HOU_MO_Combined: 145/8(29.4)"
+  },
+  {
+   "matchId": "6105",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6105&clubId=40319",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Bay Area"
+   ],
+   "teamIds": [
+    "2223",
+    "2215"
+   ],
+   "ground": "CPCG",
+   "result": "Bay Area won by 5 Wickets",
+   "summary": "Houston: 199/6(30) Bay Area: 203/5(29.5)"
+  },
+  {
+   "matchId": "6104",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6104&clubId=40319",
+   "date": "2025-07-26",
+   "type": "League",
+   "teams": [
+    "Dallas",
+    "Seattle"
+   ],
+   "teamIds": [
+    "2211",
+    "2226"
+   ],
+   "ground": "LPCL G6",
+   "result": "Seattle won by 2 Wickets",
+   "summary": "Dallas: 177/7(30) Seattle: 178/8(29.4)"
+  },
+  {
+   "matchId": "6102",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6102&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "DL_HOU_MO_Combined",
+    "Seattle"
+   ],
+   "teamIds": [
+    "2214",
+    "2226"
+   ],
+   "ground": "LPCL G4",
+   "result": "Seattle won by 96 Runs",
+   "summary": "Seattle: 254/9(30) DL_HOU_MO_Combined: 158/8(30)"
+  },
+  {
+   "matchId": "6101",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6101&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "Missouri",
+    "Bay Area"
+   ],
+   "teamIds": [
+    "2225",
+    "2215"
+   ],
+   "ground": "LPCL G3",
+   "result": "Bay Area won by 6 Wickets",
+   "summary": "Missouri: 178/4(30) Bay Area: 184/4(23.4)"
+  },
+  {
+   "matchId": "6095",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6095&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "BA_LA_Seattle_Combined"
+   ],
+   "teamIds": [
+    "2223",
+    "2220"
+   ],
+   "ground": "LPCL G4",
+   "result": "Houston won by 10 Runs",
+   "summary": "Houston: 173/7(30) BA_LA_Seattle_Combined: 163/8(30)"
+  },
+  {
+   "matchId": "6094",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6094&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "Dallas",
+    "LA"
+   ],
+   "teamIds": [
+    "2211",
+    "2224"
+   ],
+   "ground": "LPCL G3",
+   "result": "Dallas won by 7 Wickets",
+   "summary": "LA: 120/10(30) Dallas: 121/3(23.3)"
+  },
+  {
+   "matchId": "6092",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6092&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "Missouri",
+    "LA"
+   ],
+   "teamIds": [
+    "2225",
+    "2224"
+   ],
+   "ground": "LPCL G3",
+   "result": "Missouri won by 10 Runs",
+   "summary": "Missouri: 221/4(30) LA: 211/5(30)"
+  },
+  {
+   "matchId": "6091",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6091&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "DL_HOU_MO_Combined",
+    "BA_LA_Seattle_Combined"
+   ],
+   "teamIds": [
+    "2214",
+    "2220"
+   ],
+   "ground": "LPCL G4",
+   "result": "BA_LA_Seattle_Combined won by 8 Wickets",
+   "summary": "DL_HOU_MO_Combined: 133/10(30) BA_LA_Seattle_Combined: 137/2(23.4)"
+  },
+  {
+   "matchId": "6082",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6082&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "Dallas",
+    "Bay Area"
+   ],
+   "teamIds": [
+    "2211",
+    "2215"
+   ],
+   "ground": "LPCL G4",
+   "result": "Dallas won by 5 Wickets",
+   "summary": "Bay Area: 125/10(27.2) Dallas: 131/5(19.5)"
+  },
+  {
+   "matchId": "6081",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6081&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Seattle"
+   ],
+   "teamIds": [
+    "2223",
+    "2226"
+   ],
+   "ground": "LPCL G3",
+   "result": "Seattle won by 1 Wicket",
+   "summary": "Houston: 165/7(30) Seattle: 166/9(29.3)"
+  },
+  {
+   "matchId": "6016",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6016&clubId=40319",
+   "date": "2025-07-14",
+   "type": "League",
+   "teams": [
+    "Seattle",
+    "LA"
+   ],
+   "teamIds": [
+    "2226",
+    "2224"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "LA won by 38 Runs",
+   "summary": "LA: 195/3(30) Seattle: 157/5(30)"
+  },
+  {
+   "matchId": "6015",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6015&clubId=40319",
+   "date": "2025-07-14",
+   "type": "League",
+   "teams": [
+    "Bay Area",
+    "BA_LA_Seattle_Combined"
+   ],
+   "teamIds": [
+    "2215",
+    "2220"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Bay Area won by 20 Runs",
+   "summary": "Bay Area: 154/7(30) BA_LA_Seattle_Combined: 134/10(29.1)"
+  },
+  {
+   "matchId": "6010",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6010&clubId=40319",
+   "date": "2025-07-13",
+   "type": "League",
+   "teams": [
+    "Dallas",
+    "DL_HOU_MO_Combined"
+   ],
+   "teamIds": [
+    "2211",
+    "2214"
+   ],
+   "ground": "Russel Creek G1",
+   "result": "Dallas won by 7 Wickets",
+   "summary": "DL_HOU_MO_Combined: 107/8(25) Dallas: 109/3(16)"
+  },
+  {
+   "matchId": "6009",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6009&clubId=40319",
+   "date": "2025-07-13",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Missouri"
+   ],
+   "teamIds": [
+    "2223",
+    "2225"
+   ],
+   "ground": "Russel Creek G2",
+   "result": "Missouri won by 5 Wickets",
+   "summary": "Houston: 81/6(25) Missouri: 83/5(20.5)"
+  },
+  {
+   "matchId": "6008",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6008&clubId=40319",
+   "date": "2025-07-13",
+   "type": "League",
+   "teams": [
+    "BA_LA_Seattle_Combined",
+    "Seattle"
+   ],
+   "teamIds": [
+    "2220",
+    "2226"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Seattle won by 4 Wickets",
+   "summary": "BA_LA_Seattle_Combined: 107/8(30) Seattle: 108/6(23.5)"
+  },
+  {
+   "matchId": "6007",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6007&clubId=40319",
+   "date": "2025-07-13",
+   "type": "League",
+   "teams": [
+    "LA",
+    "Bay Area"
+   ],
+   "teamIds": [
+    "2224",
+    "2215"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Bay Area won by 3 Wickets",
+   "summary": "LA: 64/10(21.2) Bay Area: 65/7(24.3)"
+  },
+  {
+   "matchId": "5994",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5994&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "BA_LA_Seattle_Combined",
+    "LA"
+   ],
+   "teamIds": [
+    "2220",
+    "2224"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "LA won by 7 Runs",
+   "summary": "LA: 91/10(30) BA_LA_Seattle_Combined: 84/10(28.4)"
+  },
+  {
+   "matchId": "5993",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5993&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "Dallas",
+    "Houston"
+   ],
+   "teamIds": [
+    "2211",
+    "2223"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas won by 104 Runs",
+   "summary": "Dallas: 191/5(30) Houston: 87/9(30)"
+  },
+  {
+   "matchId": "5992",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5992&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "Bay Area",
+    "Seattle"
+   ],
+   "teamIds": [
+    "2215",
+    "2226"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Seattle won by 63 Runs",
+   "summary": "Seattle: 213/3(30) Bay Area: 150/10(28)"
+  },
+  {
+   "matchId": "5991",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5991&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "Missouri",
+    "DL_HOU_MO_Combined"
+   ],
+   "teamIds": [
+    "2225",
+    "2214"
+   ],
+   "ground": "NMCG 2",
+   "result": "Missouri won by 3 Wickets",
+   "summary": "DL_HOU_MO_Combined: 146/10(30) Missouri: 148/7(29.2)"
+  },
+  {
+   "matchId": "5977",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5977&clubId=40319",
+   "date": "2025-07-11",
+   "type": "League",
+   "teams": [
+    "Dallas",
+    "Missouri"
+   ],
+   "teamIds": [
+    "2211",
+    "2225"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas won by 78 Runs",
+   "summary": "Dallas: 171/8(30) Missouri: 93/9(30)"
+  },
+  {
+   "matchId": "5976",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5976&clubId=40319",
+   "date": "2025-07-11",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "DL_HOU_MO_Combined"
+   ],
+   "teamIds": [
+    "2223",
+    "2214"
+   ],
+   "ground": "NMCG 2",
+   "result": "Houston won by 6 Wickets",
+   "summary": "DL_HOU_MO_Combined: 94/10(28.5) Houston: 98/4(21.3)"
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "season": {
+  "key": "s56",
+  "id": "legacy-530",
+  "name": "USAC 2026 - MI Hub - U13"
+ },
+ "fetchedAt": "2026-11-13T21:42:05.280Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=530&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=530&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8794",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8794&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "MICHIGAN MUSTANGS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3185",
+    "3181"
+   ],
+   "ground": "Redford",
+   "result": "PRIME STRIKERS won by 124 Runs",
+   "summary": "PRIME STRIKERS: 222/9(30) MICHIGAN MUSTANGS: 98/9(30)"
+  },
+  {
+   "matchId": "8793",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8793&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "MYCA TIGERS",
+    "MYCA LIONS"
+   ],
+   "teamIds": [
+    "3184",
+    "3183"
+   ],
+   "ground": "Northville",
+   "result": "MYCA LIONS won by 145 Runs",
+   "summary": "MYCA LIONS: 211/4(30) MYCA TIGERS: 66/10(21.4)"
+  },
+  {
+   "matchId": "8656",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8656&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS",
+    "MYCA TIGERS"
+   ],
+   "teamIds": [
+    "3181",
+    "3184"
+   ],
+   "ground": "Redford",
+   "result": "PRIME STRIKERS won by 145 Runs",
+   "summary": "PRIME STRIKERS: 253/6(30) MYCA TIGERS: 108/8(30)"
+  },
+  {
+   "matchId": "8655",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8655&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "MICHIGAN MUSTANGS",
+    "MYCA LIONS"
+   ],
+   "teamIds": [
+    "3185",
+    "3183"
+   ],
+   "ground": "Northville",
+   "result": "MYCA LIONS won by 152 Runs",
+   "summary": "MYCA LIONS: 234/3(30) MICHIGAN MUSTANGS: 82/8(30)"
+  },
+  {
+   "matchId": "8650",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8650&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "PRIME WARRIORS",
+    "MYCA LIONS"
+   ],
+   "teamIds": [
+    "3182",
+    "3183"
+   ],
+   "ground": "Redford",
+   "result": "MYCA LIONS won by 117 Runs",
+   "summary": "MYCA LIONS: 250/7(30) PRIME WARRIORS: 133/9(30)"
+  },
+  {
+   "matchId": "8637",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8637&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "MYCA TIGERS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3184",
+    "3181"
+   ],
+   "ground": "Northville",
+   "result": "PRIME STRIKERS won by 7 Wickets",
+   "summary": "MYCA TIGERS: 87/9(28.3) PRIME STRIKERS: 90/3(14.2)"
+  },
+  {
+   "matchId": "8636",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8636&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "PRIME WARRIORS",
+    "MYCA TIGERS"
+   ],
+   "teamIds": [
+    "3182",
+    "3184"
+   ],
+   "ground": "Redford",
+   "result": "PRIME WARRIORS won by 4 Wickets",
+   "summary": "MYCA TIGERS: 153/9(30) PRIME WARRIORS: 154/6(28.4)"
+  },
+  {
+   "matchId": "8545",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8545&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "PRIME WARRIORS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3182",
+    "3181"
+   ],
+   "ground": "Northville",
+   "result": "PRIME STRIKERS won by 7 Wickets",
+   "summary": "PRIME WARRIORS: 39/10(16.5) PRIME STRIKERS: 43/3(7.1)"
+  },
+  {
+   "matchId": "8502",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8502&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "MYCA LIONS",
+    "MICHIGAN MUSTANGS"
+   ],
+   "teamIds": [
+    "3183",
+    "3185"
+   ],
+   "ground": "Murphy",
+   "result": "MYCA LIONS won by 71 Runs",
+   "summary": "MYCA LIONS: 129/10(29.4) MICHIGAN MUSTANGS: 58/10(18.1)"
+  },
+  {
+   "matchId": "8436",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8436&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "MYCA LIONS",
+    "PRIME WARRIORS"
+   ],
+   "teamIds": [
+    "3183",
+    "3182"
+   ],
+   "ground": "Murphy",
+   "result": "MYCA LIONS won by 145 Runs",
+   "summary": "MYCA LIONS: 242/5(30) PRIME WARRIORS: 97/10(22.2)"
+  },
+  {
+   "matchId": "8375",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8375&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "MICHIGAN MUSTANGS",
+    "MYCA TIGERS"
+   ],
+   "teamIds": [
+    "3185",
+    "3184"
+   ],
+   "ground": "Murphy",
+   "result": "MICHIGAN MUSTANGS won by 3 Wickets",
+   "summary": "MYCA TIGERS: 193/7(30) MICHIGAN MUSTANGS: 194/7(29.4)"
+  },
+  {
+   "matchId": "8351",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8351&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS",
+    "PRIME WARRIORS"
+   ],
+   "teamIds": [
+    "3181",
+    "3182"
+   ],
+   "ground": "BOULAN PARK",
+   "result": "PRIME STRIKERS won by 146 Runs",
+   "summary": "PRIME STRIKERS: 245/4(30) PRIME WARRIORS: 99/10(23.4)"
+  },
+  {
+   "matchId": "8287",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8287&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "MYCA LIONS",
+    "MYCA TIGERS"
+   ],
+   "teamIds": [
+    "3183",
+    "3184"
+   ],
+   "ground": "Murphy",
+   "result": "MYCA LIONS won by 147 Runs",
+   "summary": "MYCA LIONS: 241/7(30) MYCA TIGERS: 94/10(24.3)"
+  },
+  {
+   "matchId": "8241",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8241&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "MYCA LIONS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3183",
+    "3181"
+   ],
+   "ground": "Murphy",
+   "result": "MYCA LIONS won by 8 Wickets (D/L)",
+   "summary": "PRIME STRIKERS: 111/10(24.4) MYCA LIONS: 101/2(16.2)"
+  },
+  {
+   "matchId": "8177",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8177&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "MYCA TIGERS",
+    "MICHIGAN MUSTANGS"
+   ],
+   "teamIds": [
+    "3184",
+    "3185"
+   ],
+   "ground": "Redford",
+   "result": "MYCA TIGERS won by 136 Runs",
+   "summary": "MYCA TIGERS: 228/5(30) MICHIGAN MUSTANGS: 92/10(25.4)"
+  },
+  {
+   "matchId": "8130",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8130&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MICHIGAN MUSTANGS",
+    "PRIME WARRIORS"
+   ],
+   "teamIds": [
+    "3185",
+    "3182"
+   ],
+   "ground": "Northville",
+   "result": "PRIME WARRIORS won by 8 Wickets",
+   "summary": "MICHIGAN MUSTANGS: 82/10(22.5) PRIME WARRIORS: 83/2(15.1)"
+  },
+  {
+   "matchId": "8013",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8013&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "PRIME WARRIORS",
+    "MYCA TIGERS"
+   ],
+   "teamIds": [
+    "3182",
+    "3184"
+   ],
+   "ground": "Murphy",
+   "result": "MYCA TIGERS won by 68 Runs",
+   "summary": "MYCA TIGERS: 196/9(30) PRIME WARRIORS: 128/10(26.5)"
+  },
+  {
+   "matchId": "7961",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7961&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "MICHIGAN MUSTANGS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3185",
+    "3181"
+   ],
+   "ground": "Murphy",
+   "result": "PRIME STRIKERS won by 190 Runs",
+   "summary": "PRIME STRIKERS: 247/5(30) MICHIGAN MUSTANGS: 57/10(18.5)"
+  },
+  {
+   "matchId": "7926",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7926&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "MYCA LIONS",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3183",
+    "3181"
+   ],
+   "ground": "Murphy",
+   "result": "PRIME STRIKERS won by 4 Wickets",
+   "summary": "MYCA LIONS: 148/10(26.5) PRIME STRIKERS: 149/6(27.5)"
+  },
+  {
+   "matchId": "7927",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7927&clubId=40319",
+   "date": "2026-05-08",
+   "type": "League",
+   "teams": [
+    "PRIME WARRIORS",
+    "MICHIGAN MUSTANGS"
+   ],
+   "teamIds": [
+    "3182",
+    "3185"
+   ],
+   "ground": "Northville",
+   "result": "MICHIGAN MUSTANGS won by 5 Wickets",
+   "summary": "PRIME WARRIORS: 128/7(25) MICHIGAN MUSTANGS: 129/5(24.2)"
+  }
+ ]
+}

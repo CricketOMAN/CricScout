@@ -1,0 +1,490 @@
+{
+ "season": {
+  "key": "s318",
+  "id": "legacy-53",
+  "name": "USAC Junior 2023 -Houston Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:10:46.379Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=53&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=53&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1806",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1806&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "KY1 Flyers",
+    "EY1 Riders"
+   ],
+   "teamIds": [
+    "236",
+    "235"
+   ],
+   "ground": "JCP",
+   "result": "EY1 Riders won by 119 Runs",
+   "summary": "EY1 Riders: 174/6(25) KY1 Flyers: 55/7(13.5)"
+  },
+  {
+   "matchId": "1805",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1805&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "SY1 Cosmos",
+    "NC1 Vikings"
+   ],
+   "teamIds": [
+    "243",
+    "239"
+   ],
+   "ground": "JPLN",
+   "result": "SY1 Cosmos won by 9 Wickets",
+   "summary": "NC1 Vikings: 87/6(20.3) SY1 Cosmos: 88/1(7.3)"
+  },
+  {
+   "matchId": "1804",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1804&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "NW1 Stallions",
+    "SY1 Comets"
+   ],
+   "teamIds": [
+    "241",
+    "242"
+   ],
+   "ground": "MatzkeW",
+   "result": "SY1 Comets won by 63 Runs",
+   "summary": "SY1 Comets: 94/9(24.2) NW1 Stallions: 31/6(10.2)"
+  },
+  {
+   "matchId": "1676",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1676&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "EY1 Riders",
+    "NC1 Titans"
+   ],
+   "teamIds": [
+    "235",
+    "238"
+   ],
+   "ground": "JCP",
+   "result": "EY1 Riders won by 18 Runs",
+   "summary": "EY1 Riders: 127/7(25) NC1 Titans: 109/7(24.5)"
+  },
+  {
+   "matchId": "1637",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1637&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "KY1 Falcons",
+    "NW1 Stallions"
+   ],
+   "teamIds": [
+    "237",
+    "241"
+   ],
+   "ground": "CR",
+   "result": "Forfeited. Winner: KY1 Falcons",
+   "summary": "KY1 Falcons: 0/0(25) NW1 Stallions: 0/0(25)"
+  },
+  {
+   "matchId": "1631",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1631&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "NC1 Vikings",
+    "KY1 Flyers"
+   ],
+   "teamIds": [
+    "239",
+    "236"
+   ],
+   "ground": "MWP",
+   "result": "KY1 Flyers won by 7 Wickets",
+   "summary": "NC1 Vikings: 65/9(22) KY1 Flyers: 66/3(14.5)"
+  },
+  {
+   "matchId": "1535",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1535&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "EY1 Riders",
+    "SY1 Comets"
+   ],
+   "teamIds": [
+    "235",
+    "242"
+   ],
+   "ground": "JCP",
+   "result": "EY1 Riders won by 6 Wickets",
+   "summary": "SY1 Comets: 87/6(25) EY1 Riders: 91/4(17.4)"
+  },
+  {
+   "matchId": "1534",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1534&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "KY1 Flyers",
+    "NW1 Warriors"
+   ],
+   "teamIds": [
+    "236",
+    "240"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW1 Warriors won by 6 Runs",
+   "summary": "NW1 Warriors: 100/5(25) KY1 Flyers: 94/9(20.4)"
+  },
+  {
+   "matchId": "1507",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1507&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "KY1 Falcons",
+    "NC1 Vikings"
+   ],
+   "teamIds": [
+    "237",
+    "239"
+   ],
+   "ground": "CR",
+   "result": "KY1 Falcons won by 88 Runs",
+   "summary": "KY1 Falcons: 156/6(25) NC1 Vikings: 68/8(19.4)"
+  },
+  {
+   "matchId": "1486",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1486&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "KY1 Flyers",
+    "NW1 Stallions"
+   ],
+   "teamIds": [
+    "236",
+    "241"
+   ],
+   "ground": "CR",
+   "result": "NW1 Stallions won by 8 Wickets",
+   "summary": "KY1 Flyers: 114/10(23.3) NW1 Stallions: 115/2(18.1)"
+  },
+  {
+   "matchId": "1483",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1483&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "SY1 Cosmos",
+    "NW1 Warriors"
+   ],
+   "teamIds": [
+    "243",
+    "240"
+   ],
+   "ground": "KCFarm",
+   "result": "SY1 Cosmos won by 10 Wickets",
+   "summary": "NW1 Warriors: 34/7(14.2) SY1 Cosmos: 35/0(8.1)"
+  },
+  {
+   "matchId": "1455",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1455&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "SY1 Comets",
+    "KY1 Falcons"
+   ],
+   "teamIds": [
+    "242",
+    "237"
+   ],
+   "ground": "KCFarm",
+   "result": "SY1 Comets won by 35 Runs",
+   "summary": "SY1 Comets: 123/7(25) KY1 Falcons: 88/9(24)"
+  },
+  {
+   "matchId": "1387",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1387&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "NW1 Warriors",
+    "NC1 Titans"
+   ],
+   "teamIds": [
+    "240",
+    "238"
+   ],
+   "ground": "MatzkeE",
+   "result": "NC1 Titans won by 17 Runs",
+   "summary": "NC1 Titans: 94/6(20) NW1 Warriors: 77/4(20)"
+  },
+  {
+   "matchId": "1293",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1293&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "KY1 Falcons",
+    "SY1 Comets"
+   ],
+   "teamIds": [
+    "237",
+    "242"
+   ],
+   "ground": "CR",
+   "result": "Abandoned.",
+   "summary": "SY1 Comets: 1/0(0)"
+  },
+  {
+   "matchId": "1274",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1274&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "NC1 Titans",
+    "SY1 Cosmos"
+   ],
+   "teamIds": [
+    "238",
+    "243"
+   ],
+   "ground": "MWP",
+   "result": "NC1 Titans won by 7 Wickets",
+   "summary": "SY1 Cosmos: 91/8(17.1) NC1 Titans: 92/3(15.5)"
+  },
+  {
+   "matchId": "1217",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1217&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "KY1 Flyers",
+    "SY1 Cosmos"
+   ],
+   "teamIds": [
+    "236",
+    "243"
+   ],
+   "ground": "JPLN",
+   "result": "SY1 Cosmos won by 30 Runs",
+   "summary": "SY1 Cosmos: 142/7(25) KY1 Flyers: 112/10(22.4)"
+  },
+  {
+   "matchId": "1192",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1192&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "NC1 Vikings",
+    "NW1 Stallions"
+   ],
+   "teamIds": [
+    "239",
+    "241"
+   ],
+   "ground": "JPLN",
+   "result": "NW1 Stallions won by 4 Wickets",
+   "summary": "NC1 Vikings: 76/8(25) NW1 Stallions: 77/6(15.3)"
+  },
+  {
+   "matchId": "1183",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1183&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "KY1 Falcons",
+    "NW1 Warriors"
+   ],
+   "teamIds": [
+    "237",
+    "240"
+   ],
+   "ground": "CR",
+   "result": "KY1 Falcons won by 6 Wickets",
+   "summary": "NW1 Warriors: 101/8(25) KY1 Falcons: 102/4(22)"
+  },
+  {
+   "matchId": "1178",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1178&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "NC1 Titans",
+    "SY1 Comets"
+   ],
+   "teamIds": [
+    "238",
+    "242"
+   ],
+   "ground": "MWP",
+   "result": "NC1 Titans won by 10 Wickets",
+   "summary": "SY1 Comets: 88/10(22.4) NC1 Titans: 89/0(13.3)"
+  },
+  {
+   "matchId": "1142",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1142&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "KY1 Flyers",
+    "SY1 Comets"
+   ],
+   "teamIds": [
+    "236",
+    "242"
+   ],
+   "ground": "MatzkeE",
+   "result": "KY1 Flyers won by 36 Runs",
+   "summary": "KY1 Flyers: 176/1(25) SY1 Comets: 140/10(24.5)"
+  },
+  {
+   "matchId": "1117",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1117&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "SY1 Cosmos",
+    "EY1 Riders"
+   ],
+   "teamIds": [
+    "243",
+    "235"
+   ],
+   "ground": "MatzkeE",
+   "result": "EY1 Riders won by 8 Wickets",
+   "summary": "SY1 Cosmos: 80/6(19) EY1 Riders: 83/2(10.5)"
+  },
+  {
+   "matchId": "1095",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1095&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "NC1 Vikings",
+    "NW1 Warriors"
+   ],
+   "teamIds": [
+    "239",
+    "240"
+   ],
+   "ground": "MWP",
+   "result": "NC1 Vikings won by 34 Runs",
+   "summary": "NC1 Vikings: 103/9(25) NW1 Warriors: 69/6(15.4)"
+  },
+  {
+   "matchId": "1044",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1044&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "KY1 Falcons",
+    "NC1 Titans"
+   ],
+   "teamIds": [
+    "237",
+    "238"
+   ],
+   "ground": "JPLN",
+   "result": "NC1 Titans won by 94 Runs",
+   "summary": "NC1 Titans: 194/5(25) KY1 Falcons: 100/9(25)"
+  },
+  {
+   "matchId": "1032",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1032&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "NW1 Stallions",
+    "EY1 Riders"
+   ],
+   "teamIds": [
+    "241",
+    "235"
+   ],
+   "ground": "JPLN",
+   "result": "NW1 Stallions won by 6 Wickets",
+   "summary": "EY1 Riders: 140/7(24.4) NW1 Stallions: 141/4(24.1)"
+  },
+  {
+   "matchId": "1006",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1006&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "NC1 Vikings",
+    "SY1 Comets"
+   ],
+   "teamIds": [
+    "239",
+    "242"
+   ],
+   "ground": "MWP",
+   "result": "SY1 Comets won by 44 Runs",
+   "summary": "SY1 Comets: 120/7(25) NC1 Vikings: 76/6(20.1)"
+  },
+  {
+   "matchId": "948",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=948&clubId=40319",
+   "date": "2023-04-08",
+   "type": "League",
+   "teams": [
+    "NW1 Stallions",
+    "NC1 Titans"
+   ],
+   "teamIds": [
+    "241",
+    "238"
+   ],
+   "ground": "MatzkeE",
+   "result": "NC1 Titans won by 10 Wickets",
+   "summary": "NW1 Stallions: 91/8(24.4) NC1 Titans: 94/0(13.1)"
+  },
+  {
+   "matchId": "939",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=939&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "EY1 Riders",
+    "NW1 Warriors"
+   ],
+   "teamIds": [
+    "235",
+    "240"
+   ],
+   "ground": "JPLN",
+   "result": "EY1 Riders won by 258 Runs",
+   "summary": "EY1 Riders: 361/1(25) NW1 Warriors: 103/10(23.3)"
+  },
+  {
+   "matchId": "936",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=936&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "SY1 Cosmos",
+    "KY1 Falcons"
+   ],
+   "teamIds": [
+    "243",
+    "237"
+   ],
+   "ground": "JPLN",
+   "result": "SY1 Cosmos won by 72 Runs",
+   "summary": "SY1 Cosmos: 185/8(25) KY1 Falcons: 113/10(17)"
+  }
+ ]
+}

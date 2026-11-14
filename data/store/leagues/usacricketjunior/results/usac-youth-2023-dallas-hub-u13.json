@@ -1,0 +1,915 @@
+{
+ "season": {
+  "key": "s311",
+  "id": "legacy-86",
+  "name": "USAC Youth 2023 - Dallas Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:08:29.954Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=86&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=86&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1874",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1874&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "MCA Jaguars"
+   ],
+   "teamIds": [
+    "194",
+    "198"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 66 Runs",
+   "summary": "MCA Jaguars: 203/7(30) DYCL Cheetahs: 137/8(30)"
+  },
+  {
+   "matchId": "1873",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1873&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "HiQ All Stars"
+   ],
+   "teamIds": [
+    "193",
+    "197"
+   ],
+   "ground": "Warriors CG",
+   "result": "HiQ All Stars won by 6 Wickets",
+   "summary": "CCA Titans: 126/10(27.5) HiQ All Stars: 127/4(24.5)"
+  },
+  {
+   "matchId": "1837",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1837&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "DYCL Tigers",
+    "MCA Lynx"
+   ],
+   "teamIds": [
+    "195",
+    "200"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Lynx won by 112 Runs",
+   "summary": "MCA Lynx: 199/5(30) DYCL Tigers: 87/10(29.4)"
+  },
+  {
+   "matchId": "1801",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1801&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "DYCL Tigers",
+    "TCA Broncos"
+   ],
+   "teamIds": [
+    "195",
+    "202"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Broncos won by 9 Wickets",
+   "summary": "DYCL Tigers: 74/9(21.1) TCA Broncos: 76/1(13)"
+  },
+  {
+   "matchId": "1769",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1769&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "201",
+    "193"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Puma won by 85 Runs",
+   "summary": "MCA Puma: 178/9(30) CCA Titans: 93/10(29)"
+  },
+  {
+   "matchId": "1678",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1678&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "201",
+    "193"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Puma: 87/0 (15/30 ov)",
+   "summary": "MCA Puma: 87/0(15) Live"
+  },
+  {
+   "matchId": "1626",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1626&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "DYCL Tigers"
+   ],
+   "teamIds": [
+    "194",
+    "195"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Cheetahs won by 153 Runs",
+   "summary": "DYCL Cheetahs: 211/10(29.2) DYCL Tigers: 58/9(19.5)"
+  },
+  {
+   "matchId": "1623",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1623&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "MCA Lynx"
+   ],
+   "teamIds": [
+    "202",
+    "200"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Lynx won by 30 Runs",
+   "summary": "MCA Lynx: 114/9(26.2) TCA Broncos: 84/9(30)"
+  },
+  {
+   "matchId": "1577",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1577&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "HiQ All Stars",
+    "TiC U13"
+   ],
+   "teamIds": [
+    "197",
+    "204"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "HiQ All Stars won by 6 Wickets",
+   "summary": "TiC U13: 102/7(27.1) HiQ All Stars: 103/4(26.2)"
+  },
+  {
+   "matchId": "1568",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1568&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "TCA Stallions",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "203",
+    "205"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Stallions won by 151 Runs",
+   "summary": "TCA Stallions: 223/4(30) WCA Longhorn: 72/10(29.2)"
+  },
+  {
+   "matchId": "1560",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1560&clubId=40319",
+   "date": "2023-06-01",
+   "type": "League",
+   "teams": [
+    "TCA Stallions",
+    "MCA Jaguars"
+   ],
+   "teamIds": [
+    "203",
+    "198"
+   ],
+   "ground": "Irving Polo 1",
+   "result": "MCA Jaguars won by 7 Wickets",
+   "summary": "TCA Stallions: 154/7(30) MCA Jaguars: 157/3(25.4)"
+  },
+  {
+   "matchId": "1814",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1814&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "HiQ All Stars",
+    "FCCA Jets"
+   ],
+   "teamIds": [
+    "197",
+    "196"
+   ],
+   "ground": "BF Philips",
+   "result": "Abandoned.",
+   "summary": "HiQ All Stars: 0/0(0)"
+  },
+  {
+   "matchId": "1491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1491&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "DYCL Tigers"
+   ],
+   "teamIds": [
+    "199",
+    "195"
+   ],
+   "ground": "Garland CG3",
+   "result": "MCA Lions won by 164 Runs",
+   "summary": "MCA Lions: 286/5(30) DYCL Tigers: 122/9(30)"
+  },
+  {
+   "matchId": "1484",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1484&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "WCA Longhorn",
+    "DYCL Cheetahs"
+   ],
+   "teamIds": [
+    "205",
+    "194"
+   ],
+   "ground": "Warriors CG",
+   "result": "DYCL Cheetahs won by 155 Runs",
+   "summary": "DYCL Cheetahs: 234/3(30) WCA Longhorn: 79/10(22.5)"
+  },
+  {
+   "matchId": "1482",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1482&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "MCA Lynx"
+   ],
+   "teamIds": [
+    "198",
+    "200"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Jaguars won by 7 Runs",
+   "summary": "MCA Jaguars: 129/7(30) MCA Lynx: 122/8(30)"
+  },
+  {
+   "matchId": "1444",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1444&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "TCA Stallions"
+   ],
+   "teamIds": [
+    "202",
+    "203"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "It is a Tie",
+   "summary": "TCA Broncos: 148/6(30) TCA Stallions: 148/4(30)"
+  },
+  {
+   "matchId": "1439",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1439&clubId=40319",
+   "date": "2023-05-18",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "DYCL Cheetahs"
+   ],
+   "teamIds": [
+    "196",
+    "194"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets won by 110 Runs",
+   "summary": "FCCA Jets: 194/7(30) DYCL Cheetahs: 84/9(22)"
+  },
+  {
+   "matchId": "1392",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1392&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "MCA Lynx"
+   ],
+   "teamIds": [
+    "193",
+    "200"
+   ],
+   "ground": "Garland CG3",
+   "result": "MCA Lynx won by 9 Wickets",
+   "summary": "CCA Titans: 71/10(19.4) MCA Lynx: 72/1(9)"
+  },
+  {
+   "matchId": "1391",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1391&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "TCA Stallions"
+   ],
+   "teamIds": [
+    "196",
+    "203"
+   ],
+   "ground": "BF Philips",
+   "result": "TCA Stallions won by 36 Runs",
+   "summary": "TCA Stallions: 223/1(30) FCCA Jets: 187/6(30)"
+  },
+  {
+   "matchId": "1382",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1382&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "TCA Broncos"
+   ],
+   "teamIds": [
+    "198",
+    "202"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 6 Wickets",
+   "summary": "TCA Broncos: 59/10(17.5) MCA Jaguars: 60/4(11.5)"
+  },
+  {
+   "matchId": "1336",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1336&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "MCA Puma"
+   ],
+   "teamIds": [
+    "199",
+    "201"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Lions won by 38 Runs",
+   "summary": "MCA Lions: 210/3(30) MCA Puma: 172/9(28.3)"
+  },
+  {
+   "matchId": "1334",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1334&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "WCA Longhorn",
+    "TiC U13"
+   ],
+   "teamIds": [
+    "205",
+    "204"
+   ],
+   "ground": "Warriors CG",
+   "result": "TiC U13 won by 10 Wickets",
+   "summary": "WCA Longhorn: 63/10(17.2) TiC U13: 67/0(10.1)"
+  },
+  {
+   "matchId": "1285",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1285&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "FCCA Jets"
+   ],
+   "teamIds": [
+    "200",
+    "196"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets won by 5 Wickets",
+   "summary": "MCA Lynx: 170/8(30) FCCA Jets: 171/5(27.5)"
+  },
+  {
+   "matchId": "1284",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1284&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "DYCL Tigers",
+    "HiQ All Stars"
+   ],
+   "teamIds": [
+    "195",
+    "197"
+   ],
+   "ground": "Sandy Lake",
+   "result": "HiQ All Stars won by 205 Runs",
+   "summary": "HiQ All Stars: 238/7(30) DYCL Tigers: 33/9(12.5)"
+  },
+  {
+   "matchId": "1279",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1279&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "201",
+    "205"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Puma won by 174 Runs",
+   "summary": "MCA Puma: 305/5(30) WCA Longhorn: 131/10(28.2)"
+  },
+  {
+   "matchId": "1276",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1276&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "TiC U13",
+    "MCA Lions"
+   ],
+   "teamIds": [
+    "204",
+    "199"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Lions won by 8 Wickets",
+   "summary": "TiC U13: 77/9(22) MCA Lions: 78/2(13.1)"
+  },
+  {
+   "matchId": "1226",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1226&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "TCA Stallions"
+   ],
+   "teamIds": [
+    "194",
+    "203"
+   ],
+   "ground": "Garland CG3",
+   "result": "TCA Stallions won by 41 Runs",
+   "summary": "TCA Stallions: 243/3(30) DYCL Cheetahs: 202/7(29.5)"
+  },
+  {
+   "matchId": "1225",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1225&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "202",
+    "193"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "TCA Broncos won by 68 Runs",
+   "summary": "TCA Broncos: 153/5(30) CCA Titans: 85/10(23)"
+  },
+  {
+   "matchId": "1815",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1815&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "TiC U13",
+    "DYCL Cheetahs"
+   ],
+   "teamIds": [
+    "204",
+    "194"
+   ],
+   "ground": "Garland CG3",
+   "result": "Abandoned.",
+   "summary": "TiC U13: 0/0(0)"
+  },
+  {
+   "matchId": "1182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1182&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "MCA Jaguars"
+   ],
+   "teamIds": [
+    "199",
+    "198"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars won by 12 Runs",
+   "summary": "MCA Jaguars: 192/4(30) MCA Lions: 180/7(30)"
+  },
+  {
+   "matchId": "1179",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1179&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "TCA Stallions",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "203",
+    "193"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "TCA Stallions won by 169 Runs",
+   "summary": "TCA Stallions: 235/3(30) CCA Titans: 66/10(19.5)"
+  },
+  {
+   "matchId": "1149",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1149&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "TCA Broncos"
+   ],
+   "teamIds": [
+    "201",
+    "202"
+   ],
+   "ground": "Sandy Lake",
+   "result": "TCA Broncos won by 57 Runs",
+   "summary": "TCA Broncos: 184/5(30) MCA Puma: 127/8(21)"
+  },
+  {
+   "matchId": "1148",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1148&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "DYCL Tigers",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "195",
+    "205"
+   ],
+   "ground": "Warriors CG",
+   "result": "WCA Longhorn won by 147 Runs",
+   "summary": "WCA Longhorn: 231/9(30) DYCL Tigers: 84/10(28)"
+  },
+  {
+   "matchId": "1104",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1104&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "MCA Lions"
+   ],
+   "teamIds": [
+    "196",
+    "199"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets won by 9 Wickets",
+   "summary": "MCA Lions: 195/7(30) FCCA Jets: 196/1(25)"
+  },
+  {
+   "matchId": "1097",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1097&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "WCA Longhorn"
+   ],
+   "teamIds": [
+    "193",
+    "205"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Titans won by 22 Runs",
+   "summary": "CCA Titans: 194/7(30) WCA Longhorn: 172/9(27.3)"
+  },
+  {
+   "matchId": "1096",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1096&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "TCA Stallions"
+   ],
+   "teamIds": [
+    "200",
+    "203"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "TCA Stallions won by 8 Wickets",
+   "summary": "MCA Lynx: 159/8(30) TCA Stallions: 160/2(26.3)"
+  },
+  {
+   "matchId": "1057",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1057&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "HiQ All Stars"
+   ],
+   "teamIds": [
+    "201",
+    "197"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Puma won by 7 Wickets",
+   "summary": "HiQ All Stars: 122/8(30) MCA Puma: 124/3(20.1)"
+  },
+  {
+   "matchId": "1055",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1055&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "TiC U13"
+   ],
+   "teamIds": [
+    "198",
+    "204"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Jaguars won by 4 Wickets",
+   "summary": "TiC U13: 110/8(30) MCA Jaguars: 111/6(22.4)"
+  },
+  {
+   "matchId": "1047",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1047&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "HiQ All Stars",
+    "MCA Lions"
+   ],
+   "teamIds": [
+    "197",
+    "199"
+   ],
+   "ground": "NMCG 2",
+   "result": "MCA Lions won by 5 Wickets",
+   "summary": "HiQ All Stars: 203/5(30) MCA Lions: 204/5(29.4)"
+  },
+  {
+   "matchId": "1017",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1017&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "FCCA Jets",
+    "MCA Jaguars"
+   ],
+   "teamIds": [
+    "196",
+    "198"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Jaguars won by 9 Wickets",
+   "summary": "FCCA Jets: 186/5(30) MCA Jaguars: 189/1(21.4)"
+  },
+  {
+   "matchId": "1014",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1014&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "MCA Puma"
+   ],
+   "teamIds": [
+    "194",
+    "201"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Puma won by 160 Runs",
+   "summary": "MCA Puma: 236/7(30) DYCL Cheetahs: 76/10(20.3)"
+  },
+  {
+   "matchId": "1007",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1007&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "TiC U13",
+    "DYCL Tigers"
+   ],
+   "teamIds": [
+    "204",
+    "195"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "TiC U13 won by 207 Runs",
+   "summary": "TiC U13: 238/5(30) DYCL Tigers: 31/7(12)"
+  },
+  {
+   "matchId": "977",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=977&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "WCA Longhorn",
+    "TCA Broncos"
+   ],
+   "teamIds": [
+    "205",
+    "202"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "TCA Broncos won by 9 Wickets",
+   "summary": "WCA Longhorn: 28/10(10) TCA Broncos: 30/1(5.1)"
+  },
+  {
+   "matchId": "946",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=946&clubId=40319",
+   "date": "2023-04-08",
+   "type": "League",
+   "teams": [
+    "MCA Puma",
+    "TiC U13"
+   ],
+   "teamIds": [
+    "201",
+    "204"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Puma won by 260 Runs",
+   "summary": "MCA Puma: 355/2(30) TiC U13: 95/7(30)"
+  },
+  {
+   "matchId": "945",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=945&clubId=40319",
+   "date": "2023-04-08",
+   "type": "League",
+   "teams": [
+    "HiQ All Stars",
+    "MCA Lynx"
+   ],
+   "teamIds": [
+    "197",
+    "200"
+   ],
+   "ground": "Fortworth Cricket Ground",
+   "result": "MCA Lynx won by 80 Runs",
+   "summary": "MCA Lynx: 177/10(30) HiQ All Stars: 97/10(30)"
+  },
+  {
+   "matchId": "943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=943&clubId=40319",
+   "date": "2023-04-08",
+   "type": "League",
+   "teams": [
+    "MCA Lions",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "199",
+    "193"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Lions won by 8 Wickets",
+   "summary": "CCA Titans: 109/10(26) MCA Lions: 110/2(10.5)"
+  },
+  {
+   "matchId": "931",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=931&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "DYCL Tigers",
+    "FCCA Jets"
+   ],
+   "teamIds": [
+    "195",
+    "196"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets won by 212 Runs",
+   "summary": "FCCA Jets: 296/4(30) DYCL Tigers: 84/9(19.3)"
+  },
+  {
+   "matchId": "928",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=928&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "TCA Broncos",
+    "MCA Lions"
+   ],
+   "teamIds": [
+    "202",
+    "199"
+   ],
+   "ground": "Grand Prairie CG",
+   "result": "TCA Broncos won by 80 Runs",
+   "summary": "TCA Broncos: 193/4(30) MCA Lions: 113/10(22.4)"
+  },
+  {
+   "matchId": "927",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=927&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "MCA Lynx",
+    "MCA Puma"
+   ],
+   "teamIds": [
+    "200",
+    "201"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Lynx won by 31 Runs",
+   "summary": "MCA Lynx: 172/7(30) MCA Puma: 141/9(27.1)"
+  },
+  {
+   "matchId": "1816",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1816&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "TiC U13",
+    "TCA Stallions"
+   ],
+   "teamIds": [
+    "204",
+    "203"
+   ],
+   "ground": "Garland CG3",
+   "result": "Abandoned.",
+   "summary": "TiC U13: 0/0(0)"
+  },
+  {
+   "matchId": "912",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=912&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "WCA Longhorn",
+    "FCCA Jets"
+   ],
+   "teamIds": [
+    "205",
+    "196"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets won by 133 Runs",
+   "summary": "FCCA Jets: 182/5(30) WCA Longhorn: 49/10(13.5)"
+  },
+  {
+   "matchId": "910",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=910&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars",
+    "HiQ All Stars"
+   ],
+   "teamIds": [
+    "198",
+    "197"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Jaguars won by 8 Wickets",
+   "summary": "HiQ All Stars: 94/10(30) MCA Jaguars: 95/2(16.5)"
+  },
+  {
+   "matchId": "906",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=906&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "194",
+    "193"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "CCA Titans won by 60 Runs",
+   "summary": "CCA Titans: 101/10(27.3) DYCL Cheetahs: 41/10(14.1)"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s39",
+  "id": "legacy-554",
+  "name": "USAC 2026 | North Carolina | U15 | Regionals"
+ },
+ "fetchedAt": "2026-11-13T21:41:13.185Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=554&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=554&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8948",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8948&clubId=40319",
+   "date": "2026-06-29",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3275",
+    "3274"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Green won by 33 Runs",
+   "summary": "Team Green: 144/10(35) Team Red: 111/9(23.4)"
+  },
+  {
+   "matchId": "8927",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8927&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3273",
+    "3275"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Team Blue won by 17 Runs",
+   "summary": "Team Blue: 212/7(39.4) Team Green: 195/10(40)"
+  },
+  {
+   "matchId": "8901",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8901&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3275",
+    "3274"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Team Red won by 27 Runs",
+   "summary": "Team Red: 234/10(32.5) Team Green: 207/10(38.2)"
+  },
+  {
+   "matchId": "8886",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8886&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3275",
+    "3273"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Team Green won by 106 Runs",
+   "summary": "Team Green: 223/7(40) Team Blue: 117/9(31.4)"
+  },
+  {
+   "matchId": "8808",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8808&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3273",
+    "3274"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Red won by 34 Runs",
+   "summary": "Team Red: 227/10(39.3) Team Blue: 193/10(38.1)"
+  },
+  {
+   "matchId": "8769",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8769&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3274",
+    "3273"
+   ],
+   "ground": "NC Hub - CSP",
+   "result": "Team Red won by 3 Wickets",
+   "summary": "Team Blue: 179/7(40) Team Red: 180/7(38)"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s238",
+  "id": "legacy-226",
+  "name": "USAC 2024 Dallas Regional U13"
+ },
+ "fetchedAt": "2026-11-13T22:39:25.218Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=226&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=226&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3847",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3847&clubId=40319",
+   "date": "2024-08-04",
+   "type": "Final",
+   "teams": [
+    "Dallas U13 Avengers",
+    "Dallas U13 Sonics"
+   ],
+   "teamIds": [
+    "1334",
+    "1336"
+   ],
+   "ground": "BF Philips",
+   "result": "Dallas U13 Avengers won by 9 Wickets",
+   "summary": "Dallas U13 Sonics: 137/9(30) Dallas U13 Avengers: 142/1(22.4)"
+  },
+  {
+   "matchId": "3844",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3844&clubId=40319",
+   "date": "2024-08-04",
+   "type": "3rd Position",
+   "teams": [
+    "Dallas U13 Smashers",
+    "Colorado U13 Denver Dynamites"
+   ],
+   "teamIds": [
+    "1335",
+    "1337"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U13 Smashers won by 13 Runs",
+   "summary": "Dallas U13 Smashers: 140/6(23) Colorado U13 Denver Dynamites: 127/4(23)"
+  },
+  {
+   "matchId": "3831",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3831&clubId=40319",
+   "date": "2024-08-04",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Sonics",
+    "Colorado U13 Denver Dynamites"
+   ],
+   "teamIds": [
+    "1336",
+    "1337"
+   ],
+   "ground": "BF Philips",
+   "result": "Dallas U13 Sonics won by 49 Runs",
+   "summary": "Dallas U13 Sonics: 164/6(25) Colorado U13 Denver Dynamites: 115/4(25)"
+  },
+  {
+   "matchId": "3830",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3830&clubId=40319",
+   "date": "2024-08-04",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Avengers",
+    "Dallas U13 Smashers"
+   ],
+   "teamIds": [
+    "1334",
+    "1335"
+   ],
+   "ground": "Sandy Lake",
+   "result": "Dallas U13 Avengers won by 6 Wickets",
+   "summary": "Dallas U13 Smashers: 93/10(24.3) Dallas U13 Avengers: 95/4(17.1)"
+  },
+  {
+   "matchId": "3816",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3816&clubId=40319",
+   "date": "2024-08-03",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Smashers",
+    "Colorado U13 Denver Dynamites"
+   ],
+   "teamIds": [
+    "1335",
+    "1337"
+   ],
+   "ground": "Sandy Lake",
+   "result": "Dallas U13 Smashers won by 54 Runs",
+   "summary": "Dallas U13 Smashers: 157/9(30) Colorado U13 Denver Dynamites: 103/10(27.2)"
+  },
+  {
+   "matchId": "3815",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3815&clubId=40319",
+   "date": "2024-08-03",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Avengers",
+    "Dallas U13 Sonics"
+   ],
+   "teamIds": [
+    "1334",
+    "1336"
+   ],
+   "ground": "BF Philips",
+   "result": "Dallas U13 Sonics won by 3 Runs",
+   "summary": "Dallas U13 Sonics: 167/5(30) Dallas U13 Avengers: 164/10(30)"
+  },
+  {
+   "matchId": "3809",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3809&clubId=40319",
+   "date": "2024-08-02",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Avengers",
+    "Colorado U13 Denver Dynamites"
+   ],
+   "teamIds": [
+    "1334",
+    "1337"
+   ],
+   "ground": "BF Philips",
+   "result": "Dallas U13 Avengers won by 15 Runs",
+   "summary": "Dallas U13 Avengers: 148/9(30) Colorado U13 Denver Dynamites: 133/6(30)"
+  },
+  {
+   "matchId": "3807",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3807&clubId=40319",
+   "date": "2024-08-02",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Smashers",
+    "Dallas U13 Sonics"
+   ],
+   "teamIds": [
+    "1335",
+    "1336"
+   ],
+   "ground": "Independence",
+   "result": "Dallas U13 Smashers won by 16 Runs",
+   "summary": "Dallas U13 Smashers: 209/6(30) Dallas U13 Sonics: 193/5(30)"
+  }
+ ]
+}

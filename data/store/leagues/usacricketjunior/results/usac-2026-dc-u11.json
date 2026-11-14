@@ -1,0 +1,1017 @@
+{
+ "season": {
+  "key": "s100",
+  "id": "legacy-477",
+  "name": "USAC 2026 - DC - U11"
+ },
+ "fetchedAt": "2026-11-13T21:49:48.957Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=477&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=477&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8772",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8772&clubId=40319",
+   "date": "2026-06-20",
+   "type": "Final",
+   "teams": [
+    "RRAW Titans",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "2802",
+    "2799"
+   ],
+   "ground": "Kenilworth",
+   "result": "RRAW Titans won by 6 Wickets",
+   "summary": "HCYC Kings: 115/9(30) RRAW Titans: 116/4(25.5)"
+  },
+  {
+   "matchId": "8688",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8688&clubId=40319",
+   "date": "2026-06-13",
+   "type": "Semi Final",
+   "teams": [
+    "FSSC Lions",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "2798",
+    "2799"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "HCYC Kings won by 5 Runs",
+   "summary": "HCYC Kings: 103/9(24.4) FSSC Lions: 98/8(30)"
+  },
+  {
+   "matchId": "8654",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8654&clubId=40319",
+   "date": "2026-06-13",
+   "type": "Semi Final",
+   "teams": [
+    "BRSS Cavaliers",
+    "RRAW Titans"
+   ],
+   "teamIds": [
+    "2794",
+    "2802"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "RRAW Titans won by 7 Wickets",
+   "summary": "BRSS Cavaliers: 131/7(30) RRAW Titans: 135/3(24)"
+  },
+  {
+   "matchId": "8550",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8550&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "RRAW Capitals",
+    "BRSS Cavaliers"
+   ],
+   "teamIds": [
+    "2801",
+    "2794"
+   ],
+   "ground": "Bolen 18",
+   "result": "BRSS Cavaliers won by 17 Runs",
+   "summary": "BRSS Cavaliers: 179/2(30) RRAW Capitals: 162/6(30)"
+  },
+  {
+   "matchId": "8543",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8543&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "SOCA Bolts",
+    "SOCA Blazers"
+   ],
+   "teamIds": [
+    "2805",
+    "2804"
+   ],
+   "ground": "Rockledge",
+   "result": "SOCA Blazers won by 2 Wickets",
+   "summary": "SOCA Bolts: 90/8(27.1) SOCA Blazers: 91/8(24.3)"
+  },
+  {
+   "matchId": "8542",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8542&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "HCYC Kings",
+    "BRSS Super Kings"
+   ],
+   "teamIds": [
+    "2799",
+    "2795"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "HCYC Kings won by 80 Runs",
+   "summary": "HCYC Kings: 224/7(30) BRSS Super Kings: 144/7(30)"
+  },
+  {
+   "matchId": "8480",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8480&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "2800",
+    "2796"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "JMCA won by 9 Wickets",
+   "summary": "BRSS Royals: 95/8(30) JMCA: 98/1(10.4)"
+  },
+  {
+   "matchId": "8479",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8479&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "WSK",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "2806",
+    "2798"
+   ],
+   "ground": "MGP (Main)",
+   "result": "FSSC Lions won by 5 Runs",
+   "summary": "FSSC Lions: 109/9(30) WSK: 104/10(28.3)"
+  },
+  {
+   "matchId": "8477",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8477&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "RRAW Titans",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "2802",
+    "2803"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "RRAW Titans won by 148 Runs",
+   "summary": "RRAW Titans: 218/9(29.2) RYC Strikers: 70/10(20.5)"
+  },
+  {
+   "matchId": "8476",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8476&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "2793",
+    "2797"
+   ],
+   "ground": "Rockledge",
+   "result": "BRSS Warriors won by 67 Runs",
+   "summary": "BRSS Warriors: 157/8(30) Bowie: 90/9(21)"
+  },
+  {
+   "matchId": "8343",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8343&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "2797",
+    "2799"
+   ],
+   "ground": "Gunners Branch",
+   "result": "HCYC Kings won by 27 Runs",
+   "summary": "HCYC Kings: 90/8(30) BRSS Warriors: 63/10(28.4)"
+  },
+  {
+   "matchId": "8340",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8340&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "BRSS Super Kings",
+    "WSK"
+   ],
+   "teamIds": [
+    "2795",
+    "2806"
+   ],
+   "ground": "Rockledge",
+   "result": "WSK won by 130 Runs",
+   "summary": "WSK: 194/9(30) BRSS Super Kings: 64/9(22)"
+  },
+  {
+   "matchId": "8311",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8311&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "2798",
+    "2803"
+   ],
+   "ground": "Richmond",
+   "result": "FSSC Lions won by 41 Runs",
+   "summary": "FSSC Lions: 180/7(29.2) RYC Strikers: 139/10(29.5)"
+  },
+  {
+   "matchId": "8280",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8280&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "RRAW Titans"
+   ],
+   "teamIds": [
+    "2796",
+    "2802"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "RRAW Titans won by 266 Runs",
+   "summary": "RRAW Titans: 297/6(28.5) BRSS Royals: 31/7(13.3)"
+  },
+  {
+   "matchId": "8278",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8278&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "SOCA Bolts",
+    "BRSS Cavaliers"
+   ],
+   "teamIds": [
+    "2805",
+    "2794"
+   ],
+   "ground": "Overlook Elementary School",
+   "result": "BRSS Cavaliers won by 41 Runs",
+   "summary": "BRSS Cavaliers: 119/7(30) SOCA Bolts: 78/10(26.1)"
+  },
+  {
+   "matchId": "8276",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8276&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "RRAW Capitals",
+    "JMCA"
+   ],
+   "teamIds": [
+    "2801",
+    "2800"
+   ],
+   "ground": "Rockledge",
+   "result": "RRAW Capitals won by 23 Runs",
+   "summary": "RRAW Capitals: 173/2(30) JMCA: 150/7(30)"
+  },
+  {
+   "matchId": "8274",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8274&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "SOCA Blazers",
+    "Bowie"
+   ],
+   "teamIds": [
+    "2804",
+    "2793"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "SOCA Blazers won by 5 Wickets",
+   "summary": "Bowie: 102/9(19.4) SOCA Blazers: 103/5(24.4)"
+  },
+  {
+   "matchId": "8135",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8135&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "RRAW Titans",
+    "RRAW Capitals"
+   ],
+   "teamIds": [
+    "2802",
+    "2801"
+   ],
+   "ground": "Hanson Park",
+   "result": "RRAW Capitals won by 6 Wickets",
+   "summary": "RRAW Titans: 123/9(26.5) RRAW Capitals: 127/4(20.3)"
+  },
+  {
+   "matchId": "8119",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8119&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "HCYC Kings",
+    "SOCA Blazers"
+   ],
+   "teamIds": [
+    "2799",
+    "2804"
+   ],
+   "ground": "Rockledge",
+   "result": "SOCA Blazers won by 6 Wickets",
+   "summary": "HCYC Kings: 75/9(25.4) SOCA Blazers: 78/4(19.5)"
+  },
+  {
+   "matchId": "8114",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8114&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "BRSS Super Kings",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "2795",
+    "2798"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "FSSC Lions won by 53 Runs",
+   "summary": "FSSC Lions: 150/10(26.4) BRSS Super Kings: 97/9(23.3)"
+  },
+  {
+   "matchId": "8028",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8028&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "SOCA Bolts"
+   ],
+   "teamIds": [
+    "2800",
+    "2805"
+   ],
+   "ground": "Rockledge",
+   "result": "JMCA won by 7 Wickets",
+   "summary": "SOCA Bolts: 26/10(14) JMCA: 30/3(7.1)"
+  },
+  {
+   "matchId": "8026",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8026&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "2803",
+    "2796"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "BRSS Royals won by 98 Runs",
+   "summary": "BRSS Royals: 176/3(30) RYC Strikers: 78/10(23.2)"
+  },
+  {
+   "matchId": "8023",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8023&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "BRSS Cavaliers"
+   ],
+   "teamIds": [
+    "2793",
+    "2794"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "BRSS Cavaliers won by 57 Runs",
+   "summary": "BRSS Cavaliers: 217/5(30) Bowie: 160/6(30)"
+  },
+  {
+   "matchId": "8022",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8022&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "WSK",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "2806",
+    "2797"
+   ],
+   "ground": "Overlook Elementary School",
+   "result": "BRSS Warriors won by 79 Runs",
+   "summary": "BRSS Warriors: 162/9(29.4) WSK: 83/10(26.3)"
+  },
+  {
+   "matchId": "7914",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7914&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "SOCA Bolts",
+    "RRAW Titans"
+   ],
+   "teamIds": [
+    "2805",
+    "2802"
+   ],
+   "ground": "Rockledge",
+   "result": "RRAW Titans won by 5 Wickets",
+   "summary": "SOCA Bolts: 122/10(29.4) RRAW Titans: 123/5(20.1)"
+  },
+  {
+   "matchId": "7911",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7911&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "BRSS Cavaliers",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "2794",
+    "2799"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "BRSS Cavaliers won by 17 Runs",
+   "summary": "BRSS Cavaliers: 166/9(30) HCYC Kings: 149/10(24.5)"
+  },
+  {
+   "matchId": "7879",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7879&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "RRAW Capitals",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "2801",
+    "2803"
+   ],
+   "ground": "Richmond",
+   "result": "RRAW Capitals won by 103 Runs",
+   "summary": "RRAW Capitals: 210/6(29.4) RYC Strikers: 107/10(26.3)"
+  },
+  {
+   "matchId": "7835",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7835&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "BRSS Super Kings"
+   ],
+   "teamIds": [
+    "2797",
+    "2795"
+   ],
+   "ground": "Gunners Branch",
+   "result": "BRSS Warriors won by 88 Runs",
+   "summary": "BRSS Warriors: 119/5(30) BRSS Super Kings: 31/10(15)"
+  },
+  {
+   "matchId": "7832",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7832&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "JMCA"
+   ],
+   "teamIds": [
+    "2793",
+    "2800"
+   ],
+   "ground": "Rockledge",
+   "result": "Bowie won by 1 Run",
+   "summary": "Bowie: 117/9(27.3) JMCA: 116/9(25.3)"
+  },
+  {
+   "matchId": "7829",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7829&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "2798",
+    "2796"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "FSSC Lions won by 108 Runs",
+   "summary": "FSSC Lions: 229/8(29.2) BRSS Royals: 121/9(29.4)"
+  },
+  {
+   "matchId": "7828",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7828&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "SOCA Blazers",
+    "WSK"
+   ],
+   "teamIds": [
+    "2804",
+    "2806"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "SOCA Blazers won by 11 Runs",
+   "summary": "SOCA Blazers: 142/9(29.4) WSK: 131/8(29.5)"
+  },
+  {
+   "matchId": "7704",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7704&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BRSS Super Kings",
+    "SOCA Blazers"
+   ],
+   "teamIds": [
+    "2795",
+    "2804"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "BRSS Super Kings won by 6 Wickets",
+   "summary": "SOCA Blazers: 82/8(14.5) BRSS Super Kings: 83/4(20.1)"
+  },
+  {
+   "matchId": "7695",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7695&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "RRAW Capitals"
+   ],
+   "teamIds": [
+    "2796",
+    "2801"
+   ],
+   "ground": "Rockledge",
+   "result": "RRAW Capitals won by 95 Runs",
+   "summary": "RRAW Capitals: 190/6(29.4) BRSS Royals: 95/6(30)"
+  },
+  {
+   "matchId": "7661",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7661&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "SOCA Bolts"
+   ],
+   "teamIds": [
+    "2803",
+    "2805"
+   ],
+   "ground": "Richmond",
+   "result": "SOCA Bolts won by 7 Wickets",
+   "summary": "RYC Strikers: 52/10(17.3) SOCA Bolts: 53/3(7.4)"
+  },
+  {
+   "matchId": "7625",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7625&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "HCYC Kings",
+    "JMCA"
+   ],
+   "teamIds": [
+    "2799",
+    "2800"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "HCYC Kings won by 5 Wickets",
+   "summary": "JMCA: 127/7(21) HCYC Kings: 131/5(24.4)"
+  },
+  {
+   "matchId": "7624",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7624&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "RRAW Titans",
+    "Bowie"
+   ],
+   "teamIds": [
+    "2802",
+    "2793"
+   ],
+   "ground": "Gunners Branch",
+   "result": "RRAW Titans won by 5 Wickets",
+   "summary": "Bowie: 107/8(30) RRAW Titans: 108/5(24.1)"
+  },
+  {
+   "matchId": "7622",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7622&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "2797",
+    "2798"
+   ],
+   "ground": "Rockledge",
+   "result": "FSSC Lions won by 2 Wickets",
+   "summary": "BRSS Warriors: 86/10(27.2) FSSC Lions: 87/8(27.3)"
+  },
+  {
+   "matchId": "7621",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7621&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BRSS Cavaliers",
+    "WSK"
+   ],
+   "teamIds": [
+    "2794",
+    "2806"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "BRSS Cavaliers won by 10 Wickets",
+   "summary": "WSK: 147/8(29.5) BRSS Cavaliers: 150/0(19.3)"
+  },
+  {
+   "matchId": "7508",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7508&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "RRAW Capitals"
+   ],
+   "teamIds": [
+    "2798",
+    "2801"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "FSSC Lions won by 9 Wickets (D/L)",
+   "summary": "RRAW Capitals: 120/7(28.5) FSSC Lions: 91/1(15.5)"
+  },
+  {
+   "matchId": "7502",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7502&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "SOCA Blazers",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "2804",
+    "2797"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "BRSS Warriors won by 8 Wickets",
+   "summary": "SOCA Blazers: 70/9(15.4) BRSS Warriors: 71/2(9)"
+  },
+  {
+   "matchId": "7496",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7496&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "BRSS Cavaliers",
+    "BRSS Super Kings"
+   ],
+   "teamIds": [
+    "2794",
+    "2795"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "BRSS Cavaliers won by 10 Wickets",
+   "summary": "BRSS Super Kings: 75/8(14.4) BRSS Cavaliers: 77/0(7.2)"
+  },
+  {
+   "matchId": "7473",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7473&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "Bowie"
+   ],
+   "teamIds": [
+    "2803",
+    "2793"
+   ],
+   "ground": "Richmond",
+   "result": "Bowie won by 173 Runs",
+   "summary": "Bowie: 263/3(30) RYC Strikers: 90/10(22.3)"
+  },
+  {
+   "matchId": "7441",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7441&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "SOCA Bolts",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "2805",
+    "2796"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "SOCA Bolts won by 4 Wickets",
+   "summary": "BRSS Royals: 75/10(24.5) SOCA Bolts: 76/6(12.4)"
+  },
+  {
+   "matchId": "7439",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7439&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "HCYC Kings",
+    "RRAW Titans"
+   ],
+   "teamIds": [
+    "2799",
+    "2802"
+   ],
+   "ground": "Rockledge",
+   "result": "HCYC Kings won by 146 Runs",
+   "summary": "HCYC Kings: 202/8(30) RRAW Titans: 56/8(15.2)"
+  },
+  {
+   "matchId": "7438",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7438&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "WSK"
+   ],
+   "teamIds": [
+    "2800",
+    "2806"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "JMCA won by 130 Runs",
+   "summary": "JMCA: 267/5(29.5) WSK: 137/9(28.5)"
+  },
+  {
+   "matchId": "7345",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7345&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "WSK",
+    "RRAW Titans"
+   ],
+   "teamIds": [
+    "2806",
+    "2802"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "RRAW Titans won by 10 Wickets",
+   "summary": "WSK: 83/7(26.4) RRAW Titans: 84/0(10.4)"
+  },
+  {
+   "matchId": "7344",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7344&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "SOCA Blazers",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "2804",
+    "2798"
+   ],
+   "ground": "Rockledge",
+   "result": "FSSC Lions won by 7 Wickets",
+   "summary": "SOCA Blazers: 127/9(29.1) FSSC Lions: 128/3(20)"
+  },
+  {
+   "matchId": "7342",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7342&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "RRAW Capitals",
+    "SOCA Bolts"
+   ],
+   "teamIds": [
+    "2801",
+    "2805"
+   ],
+   "ground": "Gunners Branch",
+   "result": "RRAW Capitals won by 8 Wickets",
+   "summary": "SOCA Bolts: 84/10(21.5) RRAW Capitals: 85/2(14)"
+  },
+  {
+   "matchId": "7283",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7283&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "BRSS Super Kings",
+    "JMCA"
+   ],
+   "teamIds": [
+    "2795",
+    "2800"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "JMCA won by 9 Wickets",
+   "summary": "BRSS Super Kings: 38/8(19.3) JMCA: 40/1(3.4)"
+  },
+  {
+   "matchId": "7281",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7281&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "BRSS Cavaliers"
+   ],
+   "teamIds": [
+    "2797",
+    "2794"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "BRSS Warriors won by 97 Runs",
+   "summary": "BRSS Warriors: 244/6(29.5) BRSS Cavaliers: 147/10(29.3)"
+  },
+  {
+   "matchId": "7280",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7280&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "Bowie"
+   ],
+   "teamIds": [
+    "2796",
+    "2793"
+   ],
+   "ground": "Rockledge",
+   "result": "Bowie won by 41 Runs",
+   "summary": "Bowie: 208/6(30) BRSS Royals: 167/4(30)"
+  },
+  {
+   "matchId": "7278",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7278&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "2803",
+    "2799"
+   ],
+   "ground": "Gunners Branch",
+   "result": "HCYC Kings won by 7 Wickets",
+   "summary": "RYC Strikers: 33/8(13) HCYC Kings: 37/3(8.3)"
+  },
+  {
+   "matchId": "7234",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7234&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "2796",
+    "2799"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "HCYC Kings won by 199 Runs",
+   "summary": "HCYC Kings: 306/7(29.2) BRSS Royals: 107/11(29.4)"
+  },
+  {
+   "matchId": "7232",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7232&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "RRAW Titans",
+    "BRSS Super Kings"
+   ],
+   "teamIds": [
+    "2802",
+    "2795"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "RRAW Titans won by 238 Runs",
+   "summary": "RRAW Titans: 353/7(29.4) BRSS Super Kings: 115/6(23)"
+  },
+  {
+   "matchId": "7230",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7230&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SOCA Bolts"
+   ],
+   "teamIds": [
+    "2798",
+    "2805"
+   ],
+   "ground": "Rockledge",
+   "result": "FSSC Lions won by 132 Runs",
+   "summary": "FSSC Lions: 230/5(30) SOCA Bolts: 98/8(23.4)"
+  },
+  {
+   "matchId": "7197",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7197&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "BRSS Cavaliers",
+    "SOCA Blazers"
+   ],
+   "teamIds": [
+    "2794",
+    "2804"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "BRSS Cavaliers won by 9 Wickets",
+   "summary": "SOCA Blazers: 127/9(22.5) BRSS Cavaliers: 128/1(15)"
+  },
+  {
+   "matchId": "7196",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7196&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "2800",
+    "2797"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "BRSS Warriors won by 7 Wickets",
+   "summary": "JMCA: 111/10(22.4) BRSS Warriors: 112/3(23)"
+  },
+  {
+   "matchId": "7195",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7195&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "RRAW Capitals"
+   ],
+   "teamIds": [
+    "2793",
+    "2801"
+   ],
+   "ground": "Rockledge",
+   "result": "RRAW Capitals won by 149 Runs",
+   "summary": "RRAW Capitals: 235/5(29.5) Bowie: 86/11(24.1)"
+  },
+  {
+   "matchId": "7194",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7194&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "WSK",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "2806",
+    "2803"
+   ],
+   "ground": "Overlook Elementary School",
+   "result": "RYC Strikers won by 9 Wickets",
+   "summary": "WSK: 53/10(15) RYC Strikers: 54/1(11)"
+  }
+ ]
+}

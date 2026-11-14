@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s369",
+  "id": "legacy-25",
+  "name": "USAC Junior 2023 -Southern California Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:18:27.954Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=25&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=25&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2491&clubId=40319",
+   "date": "2023-11-11",
+   "type": "League",
+   "teams": [
+    "SDCCYA-Bolts",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "840",
+    "841"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SCYCA won by 22 Runs",
+   "summary": "SCYCA: 145/9(25) SDCCYA-Bolts: 123/8(25)"
+  },
+  {
+   "matchId": "2490",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2490&clubId=40319",
+   "date": "2023-11-05",
+   "type": "League",
+   "teams": [
+    "AZ U11",
+    "SCCAY-WYCA"
+   ],
+   "teamIds": [
+    "839",
+    "842"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SCCAY-WYCA won by 3 Wickets",
+   "summary": "AZ U11: 92/7(25) SCCAY-WYCA: 93/7(24.2)"
+  },
+  {
+   "matchId": "2489",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2489&clubId=40319",
+   "date": "2023-11-04",
+   "type": "League",
+   "teams": [
+    "SCCAY-WYCA",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "842",
+    "841"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SCYCA won by 30 Runs",
+   "summary": "SCYCA: 110/3(18) SCCAY-WYCA: 80/5(18)"
+  },
+  {
+   "matchId": "2488",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2488&clubId=40319",
+   "date": "2023-11-04",
+   "type": "League",
+   "teams": [
+    "SDCCYA-Bolts",
+    "AZ U11"
+   ],
+   "teamIds": [
+    "840",
+    "839"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA-Bolts won by 5 Wickets",
+   "summary": "AZ U11: 148/8(25) SDCCYA-Bolts: 149/5(21.3)"
+  },
+  {
+   "matchId": "2487",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2487&clubId=40319",
+   "date": "2023-11-04",
+   "type": "League",
+   "teams": [
+    "AZ U11",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "839",
+    "841"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SCYCA won by 127 Runs",
+   "summary": "SCYCA: 199/4(25) AZ U11: 72/10(24.5)"
+  },
+  {
+   "matchId": "2486",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2486&clubId=40319",
+   "date": "2023-11-04",
+   "type": "League",
+   "teams": [
+    "SDCCYA-Bolts",
+    "SCCAY-WYCA"
+   ],
+   "teamIds": [
+    "840",
+    "842"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA-Bolts won by 80 Runs",
+   "summary": "SDCCYA-Bolts: 173/10(24.5) SCCAY-WYCA: 93/8(25)"
+  },
+  {
+   "matchId": "2485",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2485&clubId=40319",
+   "date": "2023-10-29",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "SDCCYA-Bolts"
+   ],
+   "teamIds": [
+    "841",
+    "840"
+   ],
+   "ground": "Cypress Community Park",
+   "result": "SDCCYA-Bolts won by 22 Runs",
+   "summary": "SDCCYA-Bolts: 157/8(25) SCYCA: 135/4(25)"
+  },
+  {
+   "matchId": "2484",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2484&clubId=40319",
+   "date": "2023-10-29",
+   "type": "League",
+   "teams": [
+    "SCCAY-WYCA",
+    "AZ U11"
+   ],
+   "teamIds": [
+    "842",
+    "839"
+   ],
+   "ground": "Cypress Community Park",
+   "result": "AZ U11 won by 7 Wickets",
+   "summary": "SCCAY-WYCA: 112/10(24.4) AZ U11: 113/3(17.3)"
+  },
+  {
+   "matchId": "2483",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2483&clubId=40319",
+   "date": "2023-10-28",
+   "type": "League",
+   "teams": [
+    "AZ U11",
+    "SDCCYA-Bolts"
+   ],
+   "teamIds": [
+    "839",
+    "840"
+   ],
+   "ground": "Glen Yermo Elementary School",
+   "result": "SDCCYA-Bolts won by 58 Runs",
+   "summary": "SDCCYA-Bolts: 133/6(25) AZ U11: 75/10(14.1)"
+  },
+  {
+   "matchId": "2482",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2482&clubId=40319",
+   "date": "2023-10-28",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "SCCAY-WYCA"
+   ],
+   "teamIds": [
+    "841",
+    "842"
+   ],
+   "ground": "Del Cerro Elementary School",
+   "result": "SCYCA won by 7 Wickets",
+   "summary": "SCCAY-WYCA: 108/8(25) SCYCA: 112/3(21)"
+  },
+  {
+   "matchId": "2480",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2480&clubId=40319",
+   "date": "2023-10-28",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "AZ U11"
+   ],
+   "teamIds": [
+    "841",
+    "839"
+   ],
+   "ground": "Glen Yermo Elementary School",
+   "result": "SCYCA won by 10 Wickets",
+   "summary": "AZ U11: 69/9(25) SCYCA: 73/0(12.2)"
+  },
+  {
+   "matchId": "2479",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2479&clubId=40319",
+   "date": "2023-10-28",
+   "type": "League",
+   "teams": [
+    "SCCAY-WYCA",
+    "SDCCYA-Bolts"
+   ],
+   "teamIds": [
+    "842",
+    "840"
+   ],
+   "ground": "Del Cerro Elementary School",
+   "result": "SDCCYA-Bolts won by 71 Runs",
+   "summary": "SDCCYA-Bolts: 126/4(25) SCCAY-WYCA: 55/10(17.1)"
+  }
+ ]
+}

@@ -1,0 +1,524 @@
+{
+ "season": {
+  "key": "s59",
+  "id": "legacy-525",
+  "name": "USAC 2026 - Seattle HUB - Phase1 - U11"
+ },
+ "fetchedAt": "2026-11-13T21:42:15.919Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=525&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=525&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8614",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8614&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "MLC Team Blue",
+    "MSK Team 3"
+   ],
+   "teamIds": [
+    "3221",
+    "3223"
+   ],
+   "ground": "Perrigo 2",
+   "result": "MSK Team 3 won by 32 Runs",
+   "summary": "MSK Team 3: 160/7(30) MLC Team Blue: 128/8(23.5)"
+  },
+  {
+   "matchId": "8588",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8588&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "STB Team 5",
+    "PBL Team 1"
+   ],
+   "teamIds": [
+    "3212",
+    "3216"
+   ],
+   "ground": "Perrigo 2",
+   "result": "PBL Team 1 won by 118 Runs",
+   "summary": "PBL Team 1: 186/7(28) STB Team 5: 68/8(15.2)"
+  },
+  {
+   "matchId": "8584",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8584&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "STB Team 1",
+    "MLC Team Red"
+   ],
+   "teamIds": [
+    "3210",
+    "3213"
+   ],
+   "ground": "ICP",
+   "result": "STB Team 1 won by 18 Runs",
+   "summary": "STB Team 1: 168/9(26) MLC Team Red: 150/9(28)"
+  },
+  {
+   "matchId": "8557",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8557&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "STB Team 5",
+    "PBL Team 2"
+   ],
+   "teamIds": [
+    "3212",
+    "3224"
+   ],
+   "ground": "ICP",
+   "result": "PBL Team 2 won by 8 Wickets",
+   "summary": "STB Team 5: 36/10(14) PBL Team 2: 137/2(11.3)"
+  },
+  {
+   "matchId": "8556",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8556&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "MSK Team 1",
+    "PBL Team 1"
+   ],
+   "teamIds": [
+    "3222",
+    "3216"
+   ],
+   "ground": "ICP",
+   "result": "MSK Team 1 won by 60 Runs",
+   "summary": "MSK Team 1: 145/6(22) PBL Team 1: 85/10(21.2)"
+  },
+  {
+   "matchId": "8555",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8555&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "STB Team 4",
+    "United Chargers"
+   ],
+   "teamIds": [
+    "3219",
+    "3220"
+   ],
+   "ground": "Perrigo 2",
+   "result": "United Chargers won by 18 Runs (D/L)",
+   "summary": "United Chargers: 102/9(20) STB Team 4: 111/9(28.2)"
+  },
+  {
+   "matchId": "8516",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8516&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "ICCS",
+    "MSK Team 2"
+   ],
+   "teamIds": [
+    "3214",
+    "3215"
+   ],
+   "ground": "Perrigo 2",
+   "result": "ICCS won by 6 Wickets",
+   "summary": "MSK Team 2: 99/10(18.5) ICCS: 101/4(24.3)"
+  },
+  {
+   "matchId": "8444",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8444&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "STB Team 3",
+    "PBL Team 3"
+   ],
+   "teamIds": [
+    "3211",
+    "3217"
+   ],
+   "ground": "Marymoor Park",
+   "result": "STB Team 3 won by 40 Runs",
+   "summary": "STB Team 3: 85/8(21) PBL Team 3: 45/8(13.5)"
+  },
+  {
+   "matchId": "8443",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8443&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "STB Team 2",
+    "MSK Team 1"
+   ],
+   "teamIds": [
+    "3218",
+    "3222"
+   ],
+   "ground": "CKMS",
+   "result": "STB Team 2 won by 20 Runs",
+   "summary": "STB Team 2: 158/7(30) MSK Team 1: 138/9(20.2)"
+  },
+  {
+   "matchId": "8442",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8442&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "MLC Team Blue",
+    "United Chargers"
+   ],
+   "teamIds": [
+    "3221",
+    "3220"
+   ],
+   "ground": "Perrigo 2",
+   "result": "MLC Team Blue won by 1 Wicket (D/L)",
+   "summary": "United Chargers: 75/10(27) MLC Team Blue: 128/9(22.4)"
+  },
+  {
+   "matchId": "8409",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8409&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "STB Team 1",
+    "MSK Team 2"
+   ],
+   "teamIds": [
+    "3210",
+    "3215"
+   ],
+   "ground": "CKMS",
+   "result": "STB Team 1 won by 70 Runs",
+   "summary": "STB Team 1: 201/8(30) MSK Team 2: 131/8(19.4)"
+  },
+  {
+   "matchId": "8403",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8403&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "STB Team 4",
+    "MSK Team 3"
+   ],
+   "teamIds": [
+    "3219",
+    "3223"
+   ],
+   "ground": "Perrigo 2",
+   "result": "STB Team 4 won by 4 Wickets (D/L)",
+   "summary": "MSK Team 3: 109/10(23.2) STB Team 4: 132/6(29.5)"
+  },
+  {
+   "matchId": "8398",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8398&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "MLC Team Red",
+    "ICCS"
+   ],
+   "teamIds": [
+    "3213",
+    "3214"
+   ],
+   "ground": "Marymoor Park",
+   "result": "MLC Team Red won by 138 Runs",
+   "summary": "MLC Team Red: 228/5(30) ICCS: 90/10(28)"
+  },
+  {
+   "matchId": "8366",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8366&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "STB Team 3",
+    "MLC Team Red"
+   ],
+   "teamIds": [
+    "3211",
+    "3213"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "MLC Team Red won by 100 Runs",
+   "summary": "MLC Team Red: 190/8(30) STB Team 3: 90/9(30)"
+  },
+  {
+   "matchId": "8363",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8363&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "STB Team 4",
+    "MSK Team 1"
+   ],
+   "teamIds": [
+    "3219",
+    "3222"
+   ],
+   "ground": "Perrigo 2",
+   "result": "MSK Team 1 won by 46 Runs",
+   "summary": "MSK Team 1: 167/7(27) STB Team 4: 121/11(25.4)"
+  },
+  {
+   "matchId": "8361",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8361&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "MSK Team 3",
+    "United Chargers"
+   ],
+   "teamIds": [
+    "3223",
+    "3220"
+   ],
+   "ground": "CKMS",
+   "result": "MSK Team 3 won by 31 Runs",
+   "summary": "MSK Team 3: 107/10(23.1) United Chargers: 76/10(24.1)"
+  },
+  {
+   "matchId": "8334",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8334&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "STB Team 1",
+    "PBL Team 3"
+   ],
+   "teamIds": [
+    "3210",
+    "3217"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "STB Team 1 won by 91 Runs",
+   "summary": "STB Team 1: 205/4(22) PBL Team 3: 114/7(18)"
+  },
+  {
+   "matchId": "8321",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8321&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "STB Team 2",
+    "PBL Team 2"
+   ],
+   "teamIds": [
+    "3218",
+    "3224"
+   ],
+   "ground": "Perrigo 2",
+   "result": "STB Team 2 won by 0 Wickets",
+   "summary": "PBL Team 2: 125/9(21) STB Team 2: 127/10(30)"
+  },
+  {
+   "matchId": "8258",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8258&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "STB Team 3",
+    "MSK Team 2"
+   ],
+   "teamIds": [
+    "3211",
+    "3215"
+   ],
+   "ground": "ICP",
+   "result": "STB Team 3 won by 1 Wicket",
+   "summary": "MSK Team 2: 56/9(12.4) STB Team 3: 59/9(11.3)"
+  },
+  {
+   "matchId": "8257",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8257&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "STB Team 2",
+    "MSK Team 3"
+   ],
+   "teamIds": [
+    "3218",
+    "3223"
+   ],
+   "ground": "Perrigo 2",
+   "result": "MSK Team 3 won by 72 Runs",
+   "summary": "MSK Team 3: 152/10(20) STB Team 2: 80/6(14)"
+  },
+  {
+   "matchId": "8256",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8256&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "MLC Team Red",
+    "PBL Team 1"
+   ],
+   "teamIds": [
+    "3213",
+    "3216"
+   ],
+   "ground": "ICP",
+   "result": "MLC Team Red won by 75 Runs",
+   "summary": "MLC Team Red: 147/8(20) PBL Team 1: 72/9(16.3)"
+  },
+  {
+   "matchId": "8243",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8243&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "STB Team 5",
+    "PBL Team 3"
+   ],
+   "teamIds": [
+    "3212",
+    "3217"
+   ],
+   "ground": "ICP",
+   "result": "STB Team 5 won by 1 Run (D/L)",
+   "summary": "STB Team 5: 93/9(18.4) PBL Team 3: 79/7(16)"
+  },
+  {
+   "matchId": "8240",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8240&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "MLC Team Blue",
+    "PBL Team 2"
+   ],
+   "teamIds": [
+    "3221",
+    "3224"
+   ],
+   "ground": "Perrigo 2",
+   "result": "PBL Team 2 won by 8 Runs",
+   "summary": "PBL Team 2: 108/9(19.2) MLC Team Blue: 100/10(19)"
+  },
+  {
+   "matchId": "8239",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8239&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "STB Team 1",
+    "ICCS"
+   ],
+   "teamIds": [
+    "3210",
+    "3214"
+   ],
+   "ground": "ICP",
+   "result": "STB Team 1 won by 98 Runs",
+   "summary": "STB Team 1: 202/1(20) ICCS: 104/10(18)"
+  },
+  {
+   "matchId": "8146",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8146&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "STB Team 3",
+    "PBL Team 1"
+   ],
+   "teamIds": [
+    "3211",
+    "3216"
+   ],
+   "ground": "ICP",
+   "result": "STB Team 3 won by 3 Runs",
+   "summary": "STB Team 3: 110/5(20) PBL Team 1: 107/8(19.5)"
+  },
+  {
+   "matchId": "8145",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8145&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MSK Team 2",
+    "PBL Team 3"
+   ],
+   "teamIds": [
+    "3215",
+    "3217"
+   ],
+   "ground": "Perrigo 2",
+   "result": "MSK Team 2 won by 82 Runs",
+   "summary": "MSK Team 2: 148/2(20) PBL Team 3: 66/9(14.2)"
+  },
+  {
+   "matchId": "8143",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8143&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MSK Team 1",
+    "United Chargers"
+   ],
+   "teamIds": [
+    "3222",
+    "3220"
+   ],
+   "ground": "ICP",
+   "result": "United Chargers won by 14 Runs",
+   "summary": "United Chargers: 84/7(15) MSK Team 1: 70/5(15)"
+  },
+  {
+   "matchId": "8129",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8129&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "STB Team 4",
+    "PBL Team 2"
+   ],
+   "teamIds": [
+    "3219",
+    "3224"
+   ],
+   "ground": "ICP",
+   "result": "STB Team 4 won by 8 Runs (D/L)",
+   "summary": "PBL Team 2: 110/8(14.3) STB Team 4: 94/7(16)"
+  },
+  {
+   "matchId": "8127",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8127&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "STB Team 5",
+    "ICCS"
+   ],
+   "teamIds": [
+    "3212",
+    "3214"
+   ],
+   "ground": "Perrigo 2",
+   "result": "ICCS won by 120 Runs",
+   "summary": "ICCS: 182/10(19.5) STB Team 5: 62/9(16.4)"
+  },
+  {
+   "matchId": "8125",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8125&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "STB Team 2",
+    "MLC Team Blue"
+   ],
+   "teamIds": [
+    "3218",
+    "3221"
+   ],
+   "ground": "ICP",
+   "result": "It is a Tie",
+   "summary": "MLC Team Blue: 89/6(15) STB Team 2: 89/8(15)"
+  }
+ ]
+}

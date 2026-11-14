@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s314",
+  "id": "legacy-55",
+  "name": "USAC Junior 2023 -Houston Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:10:42.776Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=55&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=55&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1841",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1841&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "EY5 Stars",
+    "NW5 Panthers"
+   ],
+   "teamIds": [
+    "220",
+    "223"
+   ],
+   "ground": "HCL South E",
+   "result": "EY5 Stars won by 8 Wickets",
+   "summary": "NW5 Panthers: 144/8(35) EY5 Stars: 148/2(20)"
+  },
+  {
+   "matchId": "1840",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1840&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "SY5 Suns",
+    "NC5 Superkings"
+   ],
+   "teamIds": [
+    "225",
+    "222"
+   ],
+   "ground": "JPLW",
+   "result": "SY5 Suns won by 137 Runs",
+   "summary": "SY5 Suns: 206/9(30) NC5 Superkings: 69/7(16.5)"
+  },
+  {
+   "matchId": "1839",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1839&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "KY5 Eagles",
+    "NW5 Titans"
+   ],
+   "teamIds": [
+    "221",
+    "224"
+   ],
+   "ground": "JCP",
+   "result": "NW5 Titans won by 40 Runs",
+   "summary": "NW5 Titans: 185/10(33.1) KY5 Eagles: 145/9(34.5)"
+  },
+  {
+   "matchId": "1761",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1761&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "NW5 Panthers",
+    "NW5 Titans"
+   ],
+   "teamIds": [
+    "223",
+    "224"
+   ],
+   "ground": "JPLE",
+   "result": "Forfeited. Winner: NW5 Titans",
+   "summary": "NW5 Panthers: 0/0(0)"
+  },
+  {
+   "matchId": "1721",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1721&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "EY5 Stars",
+    "NC5 Superkings"
+   ],
+   "teamIds": [
+    "220",
+    "222"
+   ],
+   "ground": "JPLW",
+   "result": "EY5 Stars won by 7 Wickets",
+   "summary": "NC5 Superkings: 165/9(35) EY5 Stars: 166/3(25.2)"
+  },
+  {
+   "matchId": "1719",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1719&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "KY5 Eagles",
+    "SY5 Suns"
+   ],
+   "teamIds": [
+    "221",
+    "225"
+   ],
+   "ground": "HCL South E",
+   "result": "KY5 Eagles won by 56 Runs",
+   "summary": "KY5 Eagles: 253/8(35) SY5 Suns: 197/8(35)"
+  },
+  {
+   "matchId": "1588",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1588&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "KY5 Eagles",
+    "NW5 Panthers"
+   ],
+   "teamIds": [
+    "221",
+    "223"
+   ],
+   "ground": "JPLW",
+   "result": "KY5 Eagles won by 154 Runs",
+   "summary": "KY5 Eagles: 244/7(35) NW5 Panthers: 90/7(22.5)"
+  },
+  {
+   "matchId": "1587",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1587&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "EY5 Stars",
+    "SY5 Suns"
+   ],
+   "teamIds": [
+    "220",
+    "225"
+   ],
+   "ground": "HCL South E",
+   "result": "EY5 Stars won by 7 Wickets",
+   "summary": "SY5 Suns: 177/8(35) EY5 Stars: 178/3(27.2)"
+  },
+  {
+   "matchId": "1488",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1488&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "KY5 Eagles",
+    "NC5 Superkings"
+   ],
+   "teamIds": [
+    "221",
+    "222"
+   ],
+   "ground": "JCP",
+   "result": "KY5 Eagles won by 10 Wickets",
+   "summary": "NC5 Superkings: 60/10(18.2) KY5 Eagles: 61/0(10)"
+  },
+  {
+   "matchId": "1458",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1458&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "NW5 Panthers",
+    "SY5 Suns"
+   ],
+   "teamIds": [
+    "223",
+    "225"
+   ],
+   "ground": "HCL South E",
+   "result": "SY5 Suns won by 2 Wickets",
+   "summary": "NW5 Panthers: 107/11(28.2) SY5 Suns: 108/8(30.4)"
+  },
+  {
+   "matchId": "1253",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1253&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "NW5 Titans",
+    "KY5 Eagles"
+   ],
+   "teamIds": [
+    "224",
+    "221"
+   ],
+   "ground": "HCL South E",
+   "result": "NW5 Titans won by 6 Wickets",
+   "summary": "KY5 Eagles: 110/8(27) NW5 Titans: 113/4(16)"
+  },
+  {
+   "matchId": "1156",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1156&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "EY5 Stars",
+    "KY5 Eagles"
+   ],
+   "teamIds": [
+    "220",
+    "221"
+   ],
+   "ground": "JPLW",
+   "result": "EY5 Stars won by 123 Runs",
+   "summary": "EY5 Stars: 254/2(35) KY5 Eagles: 131/9(33.4)"
+  },
+  {
+   "matchId": "1154",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1154&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "NC5 Superkings",
+    "NW5 Panthers"
+   ],
+   "teamIds": [
+    "222",
+    "223"
+   ],
+   "ground": "HCL South E",
+   "result": "NC5 Superkings won by 5 Wickets",
+   "summary": "NW5 Panthers: 137/10(25.4) NC5 Superkings: 138/5(24.3)"
+  },
+  {
+   "matchId": "1066",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1066&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "NC5 Superkings",
+    "NW5 Titans"
+   ],
+   "teamIds": [
+    "222",
+    "224"
+   ],
+   "ground": "JCP",
+   "result": "NW5 Titans won by 70 Runs",
+   "summary": "NW5 Titans: 236/2(35) NC5 Superkings: 166/9(34.3)"
+  },
+  {
+   "matchId": "994",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=994&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "EY5 Stars",
+    "NW5 Titans"
+   ],
+   "teamIds": [
+    "220",
+    "224"
+   ],
+   "ground": "JPLW",
+   "result": "EY5 Stars won by 6 Wickets",
+   "summary": "NW5 Titans: 181/6(35) EY5 Stars: 183/4(32.4)"
+  },
+  {
+   "matchId": "967",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=967&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "NC5 Superkings",
+    "SY5 Suns"
+   ],
+   "teamIds": [
+    "222",
+    "225"
+   ],
+   "ground": "HCL South E",
+   "result": "Forfeited. Winner: SY5 Suns",
+   "summary": "SY5 Suns: 0/0(0)"
+  },
+  {
+   "matchId": "924",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=924&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "EY5 Stars",
+    "NW5 Panthers"
+   ],
+   "teamIds": [
+    "220",
+    "223"
+   ],
+   "ground": "JPLW",
+   "result": "EY5 Stars won by 282 Runs",
+   "summary": "EY5 Stars: 329/2(35) NW5 Panthers: 47/7(14.2)"
+  },
+  {
+   "matchId": "923",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=923&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "SY5 Suns",
+    "NW5 Titans"
+   ],
+   "teamIds": [
+    "225",
+    "224"
+   ],
+   "ground": "HCL South E",
+   "result": "SY5 Suns won by 16 Runs",
+   "summary": "SY5 Suns: 124/9(23.5) NW5 Titans: 108/8(22.5)"
+  }
+ ]
+}

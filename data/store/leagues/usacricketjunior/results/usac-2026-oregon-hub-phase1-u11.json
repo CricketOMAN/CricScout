@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s47",
+  "id": "legacy-544",
+  "name": "USAC 2026 - Oregon HUB - Phase1 - U11"
+ },
+ "fetchedAt": "2026-11-13T21:41:39.049Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=544&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=544&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8719",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8719&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Red"
+   ],
+   "teamIds": [
+    "3242",
+    "3241"
+   ],
+   "ground": "PCC OR",
+   "result": "It is a Tie",
+   "summary": "Blue: 146/4(26) Red: 146/8(26)"
+  },
+  {
+   "matchId": "8558",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8558&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Red"
+   ],
+   "teamIds": [
+    "3242",
+    "3241"
+   ],
+   "ground": "PCC OR",
+   "result": "Blue won by 5 Wickets",
+   "summary": "Red: 132/9(26) Blue: 133/5(25)"
+  },
+  {
+   "matchId": "8410",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8410&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Red"
+   ],
+   "teamIds": [
+    "3242",
+    "3241"
+   ],
+   "ground": "PCC OR",
+   "result": "Blue won by 47 Runs",
+   "summary": "Blue: 139/7(30) Red: 92/9(22)"
+  }
+ ]
+}

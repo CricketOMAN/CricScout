@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s243",
+  "id": "legacy-220",
+  "name": "USAC Junior 2024 - St Louis Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:42:13.407Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=220&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=220&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3562",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3562&clubId=40319",
+   "date": "2024-06-25",
+   "type": "League",
+   "teams": [
+    "Team A",
+    "Team B"
+   ],
+   "teamIds": [
+    "1307",
+    "1308"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Team B won by 6 Runs",
+   "summary": "Team B: 88/10(19.4) Team A: 82/4(17.3)"
+  },
+  {
+   "matchId": "3561",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3561&clubId=40319",
+   "date": "2024-06-25",
+   "type": "League",
+   "teams": [
+    "Team A",
+    "Team B"
+   ],
+   "teamIds": [
+    "1307",
+    "1308"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Team A won by 142 Runs",
+   "summary": "Team A: 161/6(20) Team B: 19/10(9.1)"
+  },
+  {
+   "matchId": "3489",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3489&clubId=40319",
+   "date": "2024-06-21",
+   "type": "League",
+   "teams": [
+    "Team A",
+    "Team B"
+   ],
+   "teamIds": [
+    "1307",
+    "1308"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Team A won by 68 Runs",
+   "summary": "Team A: 172/8(30) Team B: 104/10(28.2)"
+  },
+  {
+   "matchId": "3486",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3486&clubId=40319",
+   "date": "2024-06-20",
+   "type": "League",
+   "teams": [
+    "Team A",
+    "Team B"
+   ],
+   "teamIds": [
+    "1307",
+    "1308"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Team A won by 43 Runs",
+   "summary": "Team A: 193/7(30) Team B: 150/9(30)"
+  },
+  {
+   "matchId": "3483",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3483&clubId=40319",
+   "date": "2024-06-19",
+   "type": "League",
+   "teams": [
+    "Team A",
+    "Team B"
+   ],
+   "teamIds": [
+    "1307",
+    "1308"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Team A won by 67 Runs",
+   "summary": "Team A: 161/7(20) Team B: 94/10(20)"
+  },
+  {
+   "matchId": "3481",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3481&clubId=40319",
+   "date": "2024-06-19",
+   "type": "League",
+   "teams": [
+    "Team A",
+    "Team B"
+   ],
+   "teamIds": [
+    "1307",
+    "1308"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Team A won by 2 Wickets",
+   "summary": "Team B: 82/4(20) Team A: 83/8(11.3)"
+  }
+ ]
+}

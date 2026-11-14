@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s54",
+  "id": "legacy-532",
+  "name": "USAC 2026 - Oregon HUB - Phase1 - U13"
+ },
+ "fetchedAt": "2026-11-13T21:41:59.448Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=532&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=532&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8445",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8445&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Oregon BCC",
+    "Oregon OCA"
+   ],
+   "teamIds": [
+    "3189",
+    "3190"
+   ],
+   "ground": "PCC OR",
+   "result": "Oregon BCC won by 29 Runs",
+   "summary": "Oregon BCC: 123/9(19.2) Oregon OCA: 94/8(15.2)"
+  },
+  {
+   "matchId": "8141",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8141&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Oregon BCC",
+    "Oregon OCA"
+   ],
+   "teamIds": [
+    "3189",
+    "3190"
+   ],
+   "ground": "PCC OR",
+   "result": "Oregon BCC won by 7 Wickets",
+   "summary": "Oregon OCA: 157/2(25) Oregon BCC: 158/3(18.1)"
+  },
+  {
+   "matchId": "7984",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7984&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Oregon BCC",
+    "Oregon OCA"
+   ],
+   "teamIds": [
+    "3189",
+    "3190"
+   ],
+   "ground": "PCC OR",
+   "result": "Oregon BCC won by 4 Wickets",
+   "summary": "Oregon OCA: 98/11(23.1) Oregon BCC: 99/6(16.4)"
+  }
+ ]
+}

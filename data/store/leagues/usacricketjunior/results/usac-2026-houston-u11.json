@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s128",
+  "id": "legacy-438",
+  "name": "USAC 2026 - Houston - U11"
+ },
+ "fetchedAt": "2026-11-13T22:05:44.107Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=438&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=438&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "7855",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7855&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "2585",
+    "2589"
+   ],
+   "ground": "MWP",
+   "result": "SL Comets won by 5 Wickets",
+   "summary": "KY Falcons: 135/10(23.5) SL Comets: 136/5(25)"
+  },
+  {
+   "matchId": "7850",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7850&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "NW Stallions"
+   ],
+   "teamIds": [
+    "2587",
+    "2588"
+   ],
+   "ground": "MatzkeE",
+   "result": "NC Titans won by 76 Runs",
+   "summary": "NC Titans: 185/3(25) NW Stallions: 109/10(16)"
+  },
+  {
+   "matchId": "7844",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7844&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "ST Mavericks",
+    "EY Riders"
+   ],
+   "teamIds": [
+    "2590",
+    "2584"
+   ],
+   "ground": "CR",
+   "result": "ST Mavericks won by 28 Runs",
+   "summary": "ST Mavericks: 100/10(22.3) EY Riders: 72/10(21.4)"
+  },
+  {
+   "matchId": "7708",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7708&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "EY Riders"
+   ],
+   "teamIds": [
+    "2587",
+    "2584"
+   ],
+   "ground": "MWP",
+   "result": "NC Titans won by 4 Wickets",
+   "summary": "EY Riders: 107/8(25) NC Titans: 108/6(18.1)"
+  },
+  {
+   "matchId": "7659",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7659&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "2585",
+    "2589"
+   ],
+   "ground": "MWP",
+   "result": "SL Comets won by 6 Wickets",
+   "summary": "KY Falcons: 91/6(25) SL Comets: 93/4(21.4)"
+  },
+  {
+   "matchId": "7447",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7447&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "ST Mavericks",
+    "EY Riders"
+   ],
+   "teamIds": [
+    "2590",
+    "2584"
+   ],
+   "ground": "MWP",
+   "result": "ST Mavericks won by 30 Runs",
+   "summary": "ST Mavericks: 104/10(24.4) EY Riders: 74/10(19)"
+  },
+  {
+   "matchId": "7365",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7365&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "ST Mavericks",
+    "NW Stallions"
+   ],
+   "teamIds": [
+    "2590",
+    "2588"
+   ],
+   "ground": "JPLN",
+   "result": "ST Mavericks won by 76 Runs",
+   "summary": "ST Mavericks: 218/9(25) NW Stallions: 142/8(25)"
+  },
+  {
+   "matchId": "8018",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8018&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "SL Comets",
+    "EY Riders"
+   ],
+   "teamIds": [
+    "2589",
+    "2584"
+   ],
+   "ground": "CR",
+   "result": "Forfeited. Winner: EY Riders",
+   "summary": "SL Comets: 0/0(0)"
+  },
+  {
+   "matchId": "7202",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7202&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "NC Titans"
+   ],
+   "teamIds": [
+    "2585",
+    "2587"
+   ],
+   "ground": "MWP",
+   "result": "NC Titans won by 8 Wickets",
+   "summary": "KY Falcons: 94/10(18.4) NC Titans: 96/2(13.2)"
+  },
+  {
+   "matchId": "7158",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7158&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "2587",
+    "2589"
+   ],
+   "ground": "4CP",
+   "result": "NC Titans won by 3 Wickets",
+   "summary": "SL Comets: 96/10(25) NC Titans: 97/7(20)"
+  },
+  {
+   "matchId": "7154",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7154&clubId=40319",
+   "date": "2026-04-03",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "KY Falcons"
+   ],
+   "teamIds": [
+    "2588",
+    "2585"
+   ],
+   "ground": "JPLE",
+   "result": "KY Falcons won by 51 Runs",
+   "summary": "KY Falcons: 164/7(25) NW Stallions: 113/10(25)"
+  },
+  {
+   "matchId": "7094",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7094&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "2588",
+    "2589"
+   ],
+   "ground": "4CP",
+   "result": "SL Comets won by 2 Wickets",
+   "summary": "NW Stallions: 122/9(23.2) SL Comets: 123/8(22.5)"
+  },
+  {
+   "matchId": "7093",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7093&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "ST Mavericks"
+   ],
+   "teamIds": [
+    "2587",
+    "2590"
+   ],
+   "ground": "MWP",
+   "result": "NC Titans won by 44 Runs",
+   "summary": "NC Titans: 188/10(25) ST Mavericks: 144/9(25)"
+  },
+  {
+   "matchId": "7091",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7091&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "EY Riders",
+    "KY Falcons"
+   ],
+   "teamIds": [
+    "2584",
+    "2585"
+   ],
+   "ground": "JPLE",
+   "result": "KY Falcons won by 5 Runs",
+   "summary": "KY Falcons: 168/10(25) EY Riders: 163/9(25)"
+  },
+  {
+   "matchId": "7038",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7038&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "SL Comets",
+    "ST Mavericks"
+   ],
+   "teamIds": [
+    "2589",
+    "2590"
+   ],
+   "ground": "4CP",
+   "result": "ST Mavericks won by 8 Wickets",
+   "summary": "SL Comets: 105/10(21.4) ST Mavericks: 107/2(15)"
+  },
+  {
+   "matchId": "7037",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7037&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "NW Stallions"
+   ],
+   "teamIds": [
+    "2587",
+    "2588"
+   ],
+   "ground": "MWP",
+   "result": "NC Titans won by 102 Runs",
+   "summary": "NC Titans: 200/7(25) NW Stallions: 98/10(23)"
+  },
+  {
+   "matchId": "6998",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6998&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "EY Riders",
+    "NW Stallions"
+   ],
+   "teamIds": [
+    "2584",
+    "2588"
+   ],
+   "ground": "JPLE",
+   "result": "NW Stallions won by 7 Wickets",
+   "summary": "EY Riders: 134/8(25) NW Stallions: 135/3(20.2)"
+  },
+  {
+   "matchId": "6996",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6996&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "ST Mavericks"
+   ],
+   "teamIds": [
+    "2585",
+    "2590"
+   ],
+   "ground": "JCP",
+   "result": "ST Mavericks won by 7 Wickets",
+   "summary": "KY Falcons: 126/9(25) ST Mavericks: 127/3(19.5)"
+  }
+ ]
+}

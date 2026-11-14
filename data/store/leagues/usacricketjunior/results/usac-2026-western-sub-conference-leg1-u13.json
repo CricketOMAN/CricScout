@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s29",
+  "id": "legacy-564",
+  "name": "USAC 2026 - Western Sub Conference - Leg1 - U13"
+ },
+ "fetchedAt": "2026-11-13T21:40:42.872Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=564&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=564&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9083",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9083&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "LA Avengers",
+    "Bay Area Titans"
+   ],
+   "teamIds": [
+    "3333",
+    "3332"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Bay Area Titans won by 122 Runs",
+   "summary": "Bay Area Titans: 269/6(30) LA Avengers: 147/9(30)"
+  },
+  {
+   "matchId": "9079",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9079&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "LA Challengers",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3334",
+    "3335"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Northwest Blazers won by 9 Wickets",
+   "summary": "LA Challengers: 135/10(29.1) Northwest Blazers: 136/1(19)"
+  },
+  {
+   "matchId": "9075",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9075&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "Bay Area Unicorns",
+    "Northwest Titans"
+   ],
+   "teamIds": [
+    "3331",
+    "3336"
+   ],
+   "ground": "Frank Wagner SYCL Cricket Field, Seattle",
+   "result": "Bay Area Unicorns won by 203 Runs",
+   "summary": "Bay Area Unicorns: 278/0(30) Northwest Titans: 75/10(25.2)"
+  },
+  {
+   "matchId": "9070",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9070&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "Northwest Titans",
+    "LA Challengers"
+   ],
+   "teamIds": [
+    "3336",
+    "3334"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "LA Challengers won by 7 Wickets",
+   "summary": "Northwest Titans: 181/10(28.5) LA Challengers: 186/3(26.1)"
+  },
+  {
+   "matchId": "9069",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9069&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "LA Avengers",
+    "Bay Area Unicorns"
+   ],
+   "teamIds": [
+    "3333",
+    "3331"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Bay Area Unicorns won by 4 Wickets",
+   "summary": "LA Avengers: 153/9(30) Bay Area Unicorns: 159/6(26.1)"
+  },
+  {
+   "matchId": "9052",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9052&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "Bay Area Titans",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3332",
+    "3335"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Bay Area Titans won by 6 Wickets",
+   "summary": "Northwest Blazers: 153/8(30) Bay Area Titans: 154/4(25.1)"
+  },
+  {
+   "matchId": "9035",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9035&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Northwest Titans",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3336",
+    "3333"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Northwest Titans won by 4 Wickets",
+   "summary": "LA Avengers: 167/6(30) Northwest Titans: 168/6(26.2)"
+  },
+  {
+   "matchId": "9034",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9034&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "LA Challengers",
+    "Bay Area Titans"
+   ],
+   "teamIds": [
+    "3334",
+    "3332"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Bay Area Titans won by 244 Runs",
+   "summary": "Bay Area Titans: 270/8(30) LA Challengers: 26/10(13.1)"
+  },
+  {
+   "matchId": "9019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9019&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Northwest Blazers",
+    "Bay Area Unicorns"
+   ],
+   "teamIds": [
+    "3335",
+    "3331"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Bay Area Unicorns won by 9 Runs",
+   "summary": "Bay Area Unicorns: 143/10(26.3) Northwest Blazers: 134/9(30)"
+  },
+  {
+   "matchId": "8997",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8997&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "Northwest Blazers",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3335",
+    "3333"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "LA Avengers won by 10 Runs",
+   "summary": "LA Avengers: 120/8(30) Northwest Blazers: 110/10(26)"
+  },
+  {
+   "matchId": "8996",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8996&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "Bay Area Titans",
+    "Northwest Titans"
+   ],
+   "teamIds": [
+    "3332",
+    "3336"
+   ],
+   "ground": "Frank Wagner SYCL Cricket Field, Seattle",
+   "result": "Bay Area Titans won by 8 Wickets",
+   "summary": "Northwest Titans: 80/10(24.2) Bay Area Titans: 83/2(11)"
+  },
+  {
+   "matchId": "8995",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8995&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "Bay Area Unicorns",
+    "LA Challengers"
+   ],
+   "teamIds": [
+    "3331",
+    "3334"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Bay Area Unicorns won by 186 Runs",
+   "summary": "Bay Area Unicorns: 262/9(30) LA Challengers: 76/10(28.1)"
+  },
+  {
+   "matchId": "8970",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8970&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "Northwest Blazers",
+    "Northwest Titans"
+   ],
+   "teamIds": [
+    "3335",
+    "3336"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Northwest Blazers won by 8 Wickets",
+   "summary": "Northwest Titans: 194/5(30) Northwest Blazers: 195/2(21.5)"
+  },
+  {
+   "matchId": "8968",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8968&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "LA Avengers",
+    "LA Challengers"
+   ],
+   "teamIds": [
+    "3333",
+    "3334"
+   ],
+   "ground": "Canyonside Park",
+   "result": "LA Avengers won by 6 Wickets",
+   "summary": "LA Challengers: 81/10(22.1) LA Avengers: 82/4(18.2)"
+  },
+  {
+   "matchId": "8966",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8966&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "Bay Area Unicorns",
+    "Bay Area Titans"
+   ],
+   "teamIds": [
+    "3331",
+    "3332"
+   ],
+   "ground": "Dilworth",
+   "result": "Bay Area Unicorns won by 83 Runs",
+   "summary": "Bay Area Unicorns: 276/8(30) Bay Area Titans: 193/10(26.3)"
+  }
+ ]
+}

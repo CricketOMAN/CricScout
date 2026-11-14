@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s118",
+  "id": "legacy-451",
+  "name": "USAC 2026 - Austin - U15"
+ },
+ "fetchedAt": "2026-11-13T21:57:28.731Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=451&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=451&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8217",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8217&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "HCCA Starz U15",
+    "SA Elites U15"
+   ],
+   "teamIds": [
+    "2730",
+    "2731"
+   ],
+   "ground": "LPCL G6",
+   "result": "HCCA Starz U15 won by 157 Runs",
+   "summary": "HCCA Starz U15: 320/8(35) SA Elites U15: 163/10(27.1)"
+  },
+  {
+   "matchId": "7998",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7998&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "HCCA Starz U15",
+    "SuperKings Academy U15"
+   ],
+   "teamIds": [
+    "2730",
+    "2733"
+   ],
+   "ground": "Wilco",
+   "result": "HCCA Starz U15 won by 6 Wickets",
+   "summary": "SuperKings Academy U15: 123/9(29.1) HCCA Starz U15: 127/4(23.2)"
+  },
+  {
+   "matchId": "7794",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7794&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "HCCA Starz U15",
+    "SA Elites U15"
+   ],
+   "teamIds": [
+    "2730",
+    "2731"
+   ],
+   "ground": "LPCL G6",
+   "result": "HCCA Starz U15 won by 78 Runs",
+   "summary": "HCCA Starz U15: 313/6(35) SA Elites U15: 235/8(35)"
+  },
+  {
+   "matchId": "7585",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7585&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "SA Elites U15",
+    "SuperKings Academy U15"
+   ],
+   "teamIds": [
+    "2731",
+    "2733"
+   ],
+   "ground": "Wilco",
+   "result": "SuperKings Academy U15 won by 101 Runs",
+   "summary": "SuperKings Academy U15: 163/10(34) SA Elites U15: 62/9(21.4)"
+  },
+  {
+   "matchId": "7493",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7493&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "SuperKings Academy U15",
+    "SA Elites U15"
+   ],
+   "teamIds": [
+    "2733",
+    "2731"
+   ],
+   "ground": "LPCL G6",
+   "result": "SuperKings Academy U15 won by 152 Runs",
+   "summary": "SuperKings Academy U15: 234/10(34.5) SA Elites U15: 82/10(19.3)"
+  },
+  {
+   "matchId": "7398",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7398&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "HCCA Starz U15",
+    "SuperKings Academy U15"
+   ],
+   "teamIds": [
+    "2730",
+    "2733"
+   ],
+   "ground": "LPCL G8",
+   "result": "HCCA Starz U15 won by 92 Runs",
+   "summary": "HCCA Starz U15: 305/4(35) SuperKings Academy U15: 213/6(35)"
+  },
+  {
+   "matchId": "7178",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7178&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "HCCA Starz U15",
+    "SA Elites U15"
+   ],
+   "teamIds": [
+    "2730",
+    "2731"
+   ],
+   "ground": "LPCL G6",
+   "result": "HCCA Starz U15 won by 197 Runs",
+   "summary": "HCCA Starz U15: 325/6(35) SA Elites U15: 128/7(35)"
+  },
+  {
+   "matchId": "7139",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7139&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "SuperKings Academy U15",
+    "HCCA Starz U15"
+   ],
+   "teamIds": [
+    "2733",
+    "2730"
+   ],
+   "ground": "Wilco",
+   "result": "HCCA Starz U15 won by 48 Runs",
+   "summary": "HCCA Starz U15: 249/5(35) SuperKings Academy U15: 201/9(35)"
+  },
+  {
+   "matchId": "7072",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7072&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "SA Elites U15",
+    "SuperKings Academy U15"
+   ],
+   "teamIds": [
+    "2731",
+    "2733"
+   ],
+   "ground": "HUTTO",
+   "result": "SuperKings Academy U15 won by 63 Runs",
+   "summary": "SuperKings Academy U15: 266/7(35) SA Elites U15: 203/10(35)"
+  }
+ ]
+}

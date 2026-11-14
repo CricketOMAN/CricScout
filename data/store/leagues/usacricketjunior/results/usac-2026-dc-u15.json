@@ -1,0 +1,966 @@
+{
+ "season": {
+  "key": "s102",
+  "id": "legacy-475",
+  "name": "USAC 2026 - DC - U15"
+ },
+ "fetchedAt": "2026-11-13T21:49:52.612Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=475&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=475&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8771",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8771&clubId=40319",
+   "date": "2026-06-20",
+   "type": "Final",
+   "teams": [
+    "BRSS Rangers",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "2768",
+    "2767"
+   ],
+   "ground": "Hanson",
+   "result": "BRSS Knights won by 29 Runs",
+   "summary": "BRSS Knights: 233/9(40) BRSS Rangers: 204/10(36.3)"
+  },
+  {
+   "matchId": "8660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8660&clubId=40319",
+   "date": "2026-06-13",
+   "type": "Semi Final",
+   "teams": [
+    "BRSS Rangers",
+    "BRSS Knight Riders"
+   ],
+   "teamIds": [
+    "2768",
+    "2766"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "BRSS Rangers won by 113 Runs",
+   "summary": "BRSS Rangers: 286/5(40) BRSS Knight Riders: 173/10(38.5)"
+  },
+  {
+   "matchId": "8658",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8658&clubId=40319",
+   "date": "2026-06-13",
+   "type": "Semi Final",
+   "teams": [
+    "BRSS Cavaliers",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "2771",
+    "2767"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Knights won by 47 Runs",
+   "summary": "BRSS Knights: 311/5(40) BRSS Cavaliers: 264/5(40)"
+  },
+  {
+   "matchId": "8512",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8512&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "2767",
+    "2774"
+   ],
+   "ground": "Richmond",
+   "result": "BRSS Knights won by 101 Runs",
+   "summary": "BRSS Knights: 264/9(40) RYC Strikers: 163/10(36.4)"
+  },
+  {
+   "matchId": "8511",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8511&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "BRSS Super Giants",
+    "JMCA"
+   ],
+   "teamIds": [
+    "2765",
+    "2773"
+   ],
+   "ground": "Cradlerock",
+   "result": "JMCA won by 5 Wickets",
+   "summary": "BRSS Super Giants: 125/7(23.2) JMCA: 126/5(27)"
+  },
+  {
+   "matchId": "8506",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8506&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "2769",
+    "2777"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "SOCA Marvels won by 70 Runs",
+   "summary": "SOCA Marvels: 238/8(39.4) BRSS Royals: 168/10(33.4)"
+  },
+  {
+   "matchId": "8504",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8504&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "BRSS Rangers"
+   ],
+   "teamIds": [
+    "2772",
+    "2768"
+   ],
+   "ground": "Bolen 19",
+   "result": "BRSS Rangers won by 8 Wickets",
+   "summary": "FSSC Lions: 151/8(28.3) BRSS Rangers: 152/2(18.1)"
+  },
+  {
+   "matchId": "8489",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8489&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "RRAW Titans",
+    "BRSS Cavaliers"
+   ],
+   "teamIds": [
+    "2776",
+    "2771"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "BRSS Cavaliers won by 41 Runs",
+   "summary": "BRSS Cavaliers: 201/9(36.1) RRAW Titans: 160/8(34)"
+  },
+  {
+   "matchId": "8472",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8472&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "SOCA Strikers",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "2778",
+    "2770"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Warriors won by 7 Wickets",
+   "summary": "SOCA Strikers: 238/9(40) BRSS Warriors: 242/3(30.4)"
+  },
+  {
+   "matchId": "8461",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8461&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "BRSS Knight Riders",
+    "RRAW Capitals"
+   ],
+   "teamIds": [
+    "2766",
+    "2775"
+   ],
+   "ground": "Frederick",
+   "result": "Forfeited. Winner: BRSS Knight Riders",
+   "summary": "BRSS Knight Riders: 0/0(0)"
+  },
+  {
+   "matchId": "8339",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8339&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "SOCA Strikers"
+   ],
+   "teamIds": [
+    "2767",
+    "2778"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Knights won by 5 Wickets",
+   "summary": "SOCA Strikers: 137/8(35) BRSS Knights: 138/5(25.2)"
+  },
+  {
+   "matchId": "8307",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8307&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "BRSS Super Giants",
+    "BRSS Knight Riders"
+   ],
+   "teamIds": [
+    "2765",
+    "2766"
+   ],
+   "ground": "Cradlerock",
+   "result": "BRSS Knight Riders won by 3 Wickets",
+   "summary": "BRSS Super Giants: 106/10(25) BRSS Knight Riders: 107/7(31.4)"
+  },
+  {
+   "matchId": "8304",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8304&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "BRSS Cavaliers",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "2771",
+    "2769"
+   ],
+   "ground": "Pleasantville Park",
+   "result": "BRSS Cavaliers won by 49 Runs",
+   "summary": "BRSS Cavaliers: 194/9(37) BRSS Royals: 145/10(35.3)"
+  },
+  {
+   "matchId": "8297",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8297&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "RRAW Capitals",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "2775",
+    "2772"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "FSSC Lions won by 193 Runs",
+   "summary": "FSSC Lions: 251/8(39) RRAW Capitals: 58/10(19)"
+  },
+  {
+   "matchId": "8293",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8293&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "WSK"
+   ],
+   "teamIds": [
+    "2773",
+    "2779"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "JMCA won by 333 Runs",
+   "summary": "JMCA: 347/7(40.2) WSK: 14/8(5.3)"
+  },
+  {
+   "matchId": "8292",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8292&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "BRSS Rangers"
+   ],
+   "teamIds": [
+    "2777",
+    "2768"
+   ],
+   "ground": "Cedar Morris Hill",
+   "result": "BRSS Rangers won by 71 Runs",
+   "summary": "BRSS Rangers: 193/9(33.4) SOCA Marvels: 122/7(35.1)"
+  },
+  {
+   "matchId": "8273",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8273&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "RRAW Titans",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "2776",
+    "2770"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Warriors won by 37 Runs",
+   "summary": "BRSS Warriors: 203/10(37.5) RRAW Titans: 166/9(30.1)"
+  },
+  {
+   "matchId": "8071",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8071&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "2770",
+    "2774"
+   ],
+   "ground": "Richmond - Matting",
+   "result": "BRSS Warriors won by 5 Wickets",
+   "summary": "RYC Strikers: 129/10(28.1) BRSS Warriors: 131/5(18.5)"
+  },
+  {
+   "matchId": "8069",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8069&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "BRSS Knight Riders",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "2766",
+    "2772"
+   ],
+   "ground": "Cradlerock",
+   "result": "BRSS Knight Riders won by 69 Runs",
+   "summary": "BRSS Knight Riders: 229/8(40) FSSC Lions: 160/9(22.5)"
+  },
+  {
+   "matchId": "8064",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8064&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "WSK",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "2779",
+    "2767"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "BRSS Knights won by 283 Runs",
+   "summary": "BRSS Knights: 348/4(40) WSK: 65/8(18.5)"
+  },
+  {
+   "matchId": "8054",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8054&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "BRSS Rangers",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "2768",
+    "2769"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Rangers won by 134 Runs",
+   "summary": "BRSS Rangers: 304/7(40) BRSS Royals: 170/5(40)"
+  },
+  {
+   "matchId": "8051",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8051&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "RRAW Capitals",
+    "BRSS Super Giants"
+   ],
+   "teamIds": [
+    "2775",
+    "2765"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "BRSS Super Giants won by 26 Runs",
+   "summary": "BRSS Super Giants: 224/7(35.2) RRAW Capitals: 198/8(40)"
+  },
+  {
+   "matchId": "8050",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8050&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "RRAW Titans",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "2776",
+    "2777"
+   ],
+   "ground": "Bristow Field",
+   "result": "RRAW Titans won by 9 Wickets",
+   "summary": "SOCA Marvels: 166/9(27.5) RRAW Titans: 167/1(22.5)"
+  },
+  {
+   "matchId": "8049",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8049&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "SOCA Strikers"
+   ],
+   "teamIds": [
+    "2773",
+    "2778"
+   ],
+   "ground": "Cedar Morris Hill",
+   "result": "JMCA won by 7 Wickets",
+   "summary": "SOCA Strikers: 112/10(29.3) JMCA: 113/3(13)"
+  },
+  {
+   "matchId": "7904",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7904&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "BRSS Knight Riders",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "2766",
+    "2770"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Knight Riders won by 9 Wickets",
+   "summary": "BRSS Warriors: 200/7(30) BRSS Knight Riders: 202/1(24.2)"
+  },
+  {
+   "matchId": "7903",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7903&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "SOCA Strikers",
+    "RRAW Capitals"
+   ],
+   "teamIds": [
+    "2778",
+    "2775"
+   ],
+   "ground": "Frederick",
+   "result": "SOCA Strikers won by 159 Runs",
+   "summary": "SOCA Strikers: 226/8(31.2) RRAW Capitals: 67/7(17.3)"
+  },
+  {
+   "matchId": "7880",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7880&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "2772",
+    "2769"
+   ],
+   "ground": "Cradlerock",
+   "result": "BRSS Royals won by 61 Runs",
+   "summary": "BRSS Royals: 228/9(38.4) FSSC Lions: 167/8(35.3)"
+  },
+  {
+   "matchId": "7861",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7861&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "RRAW Titans",
+    "BRSS Rangers"
+   ],
+   "teamIds": [
+    "2776",
+    "2768"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "BRSS Rangers won by 9 Wickets",
+   "summary": "RRAW Titans: 125/8(39.1) BRSS Rangers: 129/1(24.5)"
+  },
+  {
+   "matchId": "7857",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7857&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "BRSS Cavaliers"
+   ],
+   "teamIds": [
+    "2774",
+    "2771"
+   ],
+   "ground": "Bristow Field",
+   "result": "BRSS Cavaliers won by 7 Wickets",
+   "summary": "RYC Strikers: 194/11(39) BRSS Cavaliers: 197/3(22)"
+  },
+  {
+   "matchId": "7854",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7854&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "JMCA"
+   ],
+   "teamIds": [
+    "2767",
+    "2773"
+   ],
+   "ground": "Pleasantville Park",
+   "result": "BRSS Knights won by 187 Runs",
+   "summary": "BRSS Knights: 323/8(40) JMCA: 136/7(28)"
+  },
+  {
+   "matchId": "7834",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7834&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "WSK"
+   ],
+   "teamIds": [
+    "2770",
+    "2779"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Warriors won by 158 Runs",
+   "summary": "BRSS Warriors: 245/3(30) WSK: 87/10(22.4)"
+  },
+  {
+   "matchId": "7658",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7658&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "2777",
+    "2774"
+   ],
+   "ground": "Richmond - Matting",
+   "result": "SOCA Marvels won by 69 Runs",
+   "summary": "SOCA Marvels: 130/8(26.5) RYC Strikers: 61/9(18.3)"
+  },
+  {
+   "matchId": "7652",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7652&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BRSS Cavaliers",
+    "WSK"
+   ],
+   "teamIds": [
+    "2771",
+    "2779"
+   ],
+   "ground": "Cradlerock",
+   "result": "BRSS Cavaliers won by 8 Wickets",
+   "summary": "WSK: 106/9(34) BRSS Cavaliers: 109/2(15)"
+  },
+  {
+   "matchId": "7644",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7644&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "RRAW Titans"
+   ],
+   "teamIds": [
+    "2769",
+    "2776"
+   ],
+   "ground": "Pleasantville Park",
+   "result": "RRAW Titans won by 2 Wickets",
+   "summary": "BRSS Royals: 202/7(40) RRAW Titans: 204/8(39.2)"
+  },
+  {
+   "matchId": "7639",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7639&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "RRAW Capitals",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "2775",
+    "2767"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "BRSS Knights won by 34 Runs",
+   "summary": "BRSS Knights: 209/7(40) RRAW Capitals: 175/10(40)"
+  },
+  {
+   "matchId": "7638",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7638&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BRSS Knight Riders",
+    "SOCA Strikers"
+   ],
+   "teamIds": [
+    "2766",
+    "2778"
+   ],
+   "ground": "Cedar Morris Hill",
+   "result": "BRSS Knight Riders won by 6 Wickets",
+   "summary": "SOCA Strikers: 159/9(38.2) BRSS Knight Riders: 160/4(21)"
+  },
+  {
+   "matchId": "7636",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7636&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "BRSS Super Giants",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "2765",
+    "2772"
+   ],
+   "ground": "Kenilworth",
+   "result": "FSSC Lions won by 98 Runs",
+   "summary": "FSSC Lions: 299/9(38.1) BRSS Super Giants: 201/10(35.4)"
+  },
+  {
+   "matchId": "7477",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7477&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "BRSS Knight Riders"
+   ],
+   "teamIds": [
+    "2767",
+    "2766"
+   ],
+   "ground": "Cradlerock",
+   "result": "Winner: BRSS Knight Riders",
+   "summary": "BRSS Knights: 191/5(40) BRSS Knight Riders: 154/3(18)"
+  },
+  {
+   "matchId": "7472",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7472&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "BRSS Rangers"
+   ],
+   "teamIds": [
+    "2774",
+    "2768"
+   ],
+   "ground": "Richmond - Matting",
+   "result": "BRSS Rangers won by 151 Runs",
+   "summary": "BRSS Rangers: 217/9(36.1) RYC Strikers: 66/11(22.1)"
+  },
+  {
+   "matchId": "7461",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7461&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "WSK",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "2779",
+    "2777"
+   ],
+   "ground": "Kenilworth",
+   "result": "SOCA Marvels won by 248 Runs",
+   "summary": "SOCA Marvels: 392/7(40) WSK: 144/9(40)"
+  },
+  {
+   "matchId": "7460",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7460&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "RRAW Capitals"
+   ],
+   "teamIds": [
+    "2770",
+    "2775"
+   ],
+   "ground": "Frederick",
+   "result": "Abandoned.",
+   "summary": "BRSS Warriors: 251/10(38.4) RRAW Capitals: 16/2(7)"
+  },
+  {
+   "matchId": "7459",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7459&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "SOCA Strikers",
+    "BRSS Super Giants"
+   ],
+   "teamIds": [
+    "2778",
+    "2765"
+   ],
+   "ground": "Cedar Morris Hill",
+   "result": "BRSS Super Giants won by 12 Runs",
+   "summary": "BRSS Super Giants: 233/8(37.3) SOCA Strikers: 221/10(35.4)"
+  },
+  {
+   "matchId": "7456",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7456&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "BRSS Cavaliers",
+    "JMCA"
+   ],
+   "teamIds": [
+    "2771",
+    "2773"
+   ],
+   "ground": "Bristow Field",
+   "result": "BRSS Cavaliers won by 97 Runs",
+   "summary": "BRSS Cavaliers: 308/3(40) JMCA: 211/9(40)"
+  },
+  {
+   "matchId": "7437",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7437&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "RRAW Titans"
+   ],
+   "teamIds": [
+    "2772",
+    "2776"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "FSSC Lions won by 18 Runs",
+   "summary": "FSSC Lions: 175/8(40) RRAW Titans: 157/8(33.3)"
+  },
+  {
+   "matchId": "7341",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7341&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "BRSS Rangers",
+    "WSK"
+   ],
+   "teamIds": [
+    "2768",
+    "2779"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Rangers won by 10 Wickets",
+   "summary": "WSK: 53/10(18.3) BRSS Rangers: 54/0(3.5)"
+  },
+  {
+   "matchId": "7309",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7309&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "JMCA"
+   ],
+   "teamIds": [
+    "2777",
+    "2773"
+   ],
+   "ground": "Cradlerock",
+   "result": "SOCA Marvels won by 109 Runs",
+   "summary": "SOCA Marvels: 145/10(36.4) JMCA: 36/10(22.3)"
+  },
+  {
+   "matchId": "7296",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7296&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "2769",
+    "2774"
+   ],
+   "ground": "Richmond",
+   "result": "BRSS Royals won by 50 Runs",
+   "summary": "BRSS Royals: 243/4(40) RYC Strikers: 193/10(34.5)"
+  },
+  {
+   "matchId": "7282",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7282&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "BRSS Super Giants",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "2765",
+    "2767"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Knights won by 3 Runs",
+   "summary": "BRSS Knights: 134/7(30) BRSS Super Giants: 131/9(30)"
+  },
+  {
+   "matchId": "7274",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7274&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "SOCA Strikers",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "2778",
+    "2772"
+   ],
+   "ground": "Kenilworth",
+   "result": "FSSC Lions won by 89 Runs",
+   "summary": "FSSC Lions: 247/9(35) SOCA Strikers: 158/8(27.2)"
+  },
+  {
+   "matchId": "7273",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7273&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "RRAW Capitals",
+    "BRSS Cavaliers"
+   ],
+   "teamIds": [
+    "2775",
+    "2771"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "BRSS Cavaliers won by 68 Runs",
+   "summary": "BRSS Cavaliers: 175/9(35) RRAW Capitals: 107/10(29.5)"
+  },
+  {
+   "matchId": "7225",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7225&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "BRSS Super Giants"
+   ],
+   "teamIds": [
+    "2770",
+    "2765"
+   ],
+   "ground": "Cradlerock",
+   "result": "BRSS Warriors won by 5 Wickets",
+   "summary": "BRSS Super Giants: 149/6(40) BRSS Warriors: 153/5(26)"
+  },
+  {
+   "matchId": "7223",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7223&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "RRAW Titans"
+   ],
+   "teamIds": [
+    "2774",
+    "2776"
+   ],
+   "ground": "Richmond - New",
+   "result": "RRAW Titans won by 6 Wickets",
+   "summary": "RYC Strikers: 128/10(39.1) RRAW Titans: 134/4(21.5)"
+  },
+  {
+   "matchId": "7215",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7215&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "RRAW Capitals"
+   ],
+   "teamIds": [
+    "2777",
+    "2775"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "SOCA Marvels won by 7 Wickets",
+   "summary": "RRAW Capitals: 88/11(34.2) SOCA Marvels: 89/3(16.1)"
+  },
+  {
+   "matchId": "7213",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7213&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "BRSS Rangers"
+   ],
+   "teamIds": [
+    "2773",
+    "2768"
+   ],
+   "ground": "Cedar Morris Hill",
+   "result": "BRSS Rangers won by 74 Runs",
+   "summary": "BRSS Rangers: 244/8(40) JMCA: 170/10(37.1)"
+  },
+  {
+   "matchId": "7212",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7212&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "WSK",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "2779",
+    "2769"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Royals won by 223 Runs",
+   "summary": "BRSS Royals: 304/7(40) WSK: 81/9(29)"
+  },
+  {
+   "matchId": "7210",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7210&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "BRSS Cavaliers",
+    "BRSS Knight Riders"
+   ],
+   "teamIds": [
+    "2771",
+    "2766"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Cavaliers won by 5 Wickets",
+   "summary": "BRSS Knight Riders: 257/6(40) BRSS Cavaliers: 259/5(39.4)"
+  }
+ ]
+}

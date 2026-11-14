@@ -1,0 +1,575 @@
+{
+ "season": {
+  "key": "s317",
+  "id": "legacy-54",
+  "name": "USAC Junior 2023 -Houston Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:10:45.429Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=54&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=54&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1931",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1931&clubId=40319",
+   "date": "2023-06-24",
+   "type": "Super League",
+   "teams": [
+    "TCCL U13-C",
+    "TCCL U13-A"
+   ],
+   "teamIds": [
+    "654",
+    "652"
+   ],
+   "ground": "HCL South E",
+   "result": "TCCL U13-C won by 36 Runs",
+   "summary": "TCCL U13-C: 148/5(30) TCCL U13-A: 112/10(29.5)"
+  },
+  {
+   "matchId": "1924",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1924&clubId=40319",
+   "date": "2023-06-23",
+   "type": "Super League",
+   "teams": [
+    "TCCL U13-B",
+    "TCCL U13-C"
+   ],
+   "teamIds": [
+    "653",
+    "654"
+   ],
+   "ground": "Katy East",
+   "result": "TCCL U13-B won by 3 Runs",
+   "summary": "TCCL U13-B: 142/12(30) TCCL U13-C: 139/10(30)"
+  },
+  {
+   "matchId": "1920",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1920&clubId=40319",
+   "date": "2023-06-22",
+   "type": "Super League",
+   "teams": [
+    "TCCL U13-A",
+    "TCCL U13-B"
+   ],
+   "teamIds": [
+    "652",
+    "653"
+   ],
+   "ground": "Katy East",
+   "result": "TCCL U13-B won by 2 Wickets",
+   "summary": "TCCL U13-A: 147/12(30) TCCL U13-B: 148/8(29.2)"
+  },
+  {
+   "matchId": "1698",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1698&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "NW3 Challengers",
+    "KY3 Hawks"
+   ],
+   "teamIds": [
+    "231",
+    "228"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: NW3 Challengers",
+   "summary": "NW3 Challengers: 0/0(0)"
+  },
+  {
+   "matchId": "1713",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1713&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "SY3 Stars",
+    "KY3 Ravens"
+   ],
+   "teamIds": [
+    "233",
+    "227"
+   ],
+   "ground": "4CP",
+   "result": "KY3 Ravens won by 36 Runs",
+   "summary": "KY3 Ravens: 145/7(30) SY3 Stars: 109/10(27.3)"
+  },
+  {
+   "matchId": "1697",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1697&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "KY3 Hawks"
+   ],
+   "teamIds": [
+    "226",
+    "228"
+   ],
+   "ground": "JCP",
+   "result": "Forfeited. Winner: EY3 Bulls",
+   "summary": "EY3 Bulls: 0/0(0)"
+  },
+  {
+   "matchId": "1628",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1628&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "SY3 Stars",
+    "NW3 Spartans"
+   ],
+   "teamIds": [
+    "233",
+    "232"
+   ],
+   "ground": "4CP",
+   "result": "NW3 Spartans won by 6 Wickets",
+   "summary": "SY3 Stars: 77/11(17.5) NW3 Spartans: 78/4(12.4)"
+  },
+  {
+   "matchId": "1579",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1579&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "226",
+    "229"
+   ],
+   "ground": "JCP",
+   "result": "EY3 Bulls won by 50 Runs",
+   "summary": "EY3 Bulls: 178/4(30) NC3 Kings: 128/9(28.5)"
+  },
+  {
+   "matchId": "1572",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1572&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "SY3 Nova",
+    "EY3 Gladiators"
+   ],
+   "teamIds": [
+    "234",
+    "246"
+   ],
+   "ground": "4CP",
+   "result": "SY3 Nova won by 82 Runs",
+   "summary": "SY3 Nova: 143/10(29.5) EY3 Gladiators: 61/7(17.2)"
+  },
+  {
+   "matchId": "1566",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1566&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "KY3 Hawks",
+    "NC3 Giants"
+   ],
+   "teamIds": [
+    "228",
+    "230"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: NC3 Giants",
+   "summary": "NC3 Giants: 0/0(0)"
+  },
+  {
+   "matchId": "1502",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1502&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "NW3 Spartans",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "232",
+    "229"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW3 Spartans won by 49 Runs",
+   "summary": "NW3 Spartans: 171/6(30) NC3 Kings: 122/9(30)"
+  },
+  {
+   "matchId": "1479",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1479&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "SY3 Stars",
+    "EY3 Bulls"
+   ],
+   "teamIds": [
+    "233",
+    "226"
+   ],
+   "ground": "ARB",
+   "result": "EY3 Bulls won by 103 Runs",
+   "summary": "EY3 Bulls: 180/3(30) SY3 Stars: 77/8(17.5)"
+  },
+  {
+   "matchId": "1453",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1453&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "KY3 Ravens",
+    "NW3 Spartans"
+   ],
+   "teamIds": [
+    "227",
+    "232"
+   ],
+   "ground": "JCP",
+   "result": "KY3 Ravens won by 52 Runs",
+   "summary": "KY3 Ravens: 131/8(30) NW3 Spartans: 79/9(24.5)"
+  },
+  {
+   "matchId": "1342",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1342&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "SY3 Nova",
+    "NC3 Giants"
+   ],
+   "teamIds": [
+    "234",
+    "230"
+   ],
+   "ground": "MatzkeE",
+   "result": "NC3 Giants won by 9 Wickets",
+   "summary": "SY3 Nova: 118/10(29.5) NC3 Giants: 119/1(19.2)"
+  },
+  {
+   "matchId": "1247",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1247&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "NW3 Spartans",
+    "EY3 Gladiators"
+   ],
+   "teamIds": [
+    "232",
+    "246"
+   ],
+   "ground": "JPLN",
+   "result": "NW3 Spartans won by 7 Wickets",
+   "summary": "EY3 Gladiators: 101/10(26.5) NW3 Spartans: 105/3(17)"
+  },
+  {
+   "matchId": "1244",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1244&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "KY3 Ravens",
+    "NW3 Challengers"
+   ],
+   "teamIds": [
+    "227",
+    "231"
+   ],
+   "ground": "JCP",
+   "result": "NW3 Challengers won by 58 Runs",
+   "summary": "NW3 Challengers: 137/10(29.2) KY3 Ravens: 79/10(24.4)"
+  },
+  {
+   "matchId": "1241",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1241&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "SY3 Stars",
+    "KY3 Hawks"
+   ],
+   "teamIds": [
+    "233",
+    "228"
+   ],
+   "ground": "KCFarm",
+   "result": "SY3 Stars won by 9 Wickets",
+   "summary": "KY3 Hawks: 47/8(10.5) SY3 Stars: 48/1(8.3)"
+  },
+  {
+   "matchId": "1240",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1240&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "SY3 Nova",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "234",
+    "229"
+   ],
+   "ground": "4CP",
+   "result": "NC3 Kings won by 4 Wickets",
+   "summary": "SY3 Nova: 36/10(12.1) NC3 Kings: 37/6(10.1)"
+  },
+  {
+   "matchId": "1193",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1193&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "EY3 Gladiators",
+    "NC3 Giants"
+   ],
+   "teamIds": [
+    "246",
+    "230"
+   ],
+   "ground": "JPLE",
+   "result": "NC3 Giants won by 77 Runs",
+   "summary": "NC3 Giants: 173/4(30) EY3 Gladiators: 96/10(23.5)"
+  },
+  {
+   "matchId": "1161",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1161&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "KY3 Ravens",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "227",
+    "229"
+   ],
+   "ground": "JPLN",
+   "result": "KY3 Ravens won by 128 Runs",
+   "summary": "KY3 Ravens: 222/4(30) NC3 Kings: 94/7(18.2)"
+  },
+  {
+   "matchId": "1159",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1159&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "NC3 Giants"
+   ],
+   "teamIds": [
+    "226",
+    "230"
+   ],
+   "ground": "JPLE",
+   "result": "NC3 Giants won by 24 Runs",
+   "summary": "NC3 Giants: 132/7(26) EY3 Bulls: 108/9(22.3)"
+  },
+  {
+   "matchId": "1158",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1158&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "SY3 Nova",
+    "NW3 Spartans"
+   ],
+   "teamIds": [
+    "234",
+    "232"
+   ],
+   "ground": "4CP",
+   "result": "NW3 Spartans won by 21 Runs",
+   "summary": "NW3 Spartans: 152/6(30) SY3 Nova: 131/10(28.4)"
+  },
+  {
+   "matchId": "1085",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1085&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "EY3 Gladiators",
+    "KY3 Hawks"
+   ],
+   "teamIds": [
+    "246",
+    "228"
+   ],
+   "ground": "ARB",
+   "result": "EY3 Gladiators won by 7 Wickets",
+   "summary": "KY3 Hawks: 92/9(30) EY3 Gladiators: 94/3(16)"
+  },
+  {
+   "matchId": "1049",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1049&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "NC3 Giants",
+    "NW3 Challengers"
+   ],
+   "teamIds": [
+    "230",
+    "231"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: NC3 Giants",
+   "summary": "NC3 Giants: 0/0(0)"
+  },
+  {
+   "matchId": "1033",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1033&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "SY3 Nova",
+    "KY3 Hawks"
+   ],
+   "teamIds": [
+    "234",
+    "228"
+   ],
+   "ground": "JPLE",
+   "result": "SY3 Nova won by 83 Runs",
+   "summary": "SY3 Nova: 181/3(30) KY3 Hawks: 98/9(28.2)"
+  },
+  {
+   "matchId": "1018",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1018&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "SY3 Stars",
+    "EY3 Gladiators"
+   ],
+   "teamIds": [
+    "233",
+    "246"
+   ],
+   "ground": "4CP",
+   "result": "Forfeited. Winner: SY3 Stars",
+   "summary": "SY3 Stars: 0/0(0)"
+  },
+  {
+   "matchId": "1000",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1000&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "KY3 Ravens",
+    "NC3 Giants"
+   ],
+   "teamIds": [
+    "227",
+    "230"
+   ],
+   "ground": "Katy East",
+   "result": "KY3 Ravens won by 7 Wickets",
+   "summary": "NC3 Giants: 146/9(29) KY3 Ravens: 149/3(23)"
+  },
+  {
+   "matchId": "999",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=999&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "NC3 Kings",
+    "NW3 Challengers"
+   ],
+   "teamIds": [
+    "229",
+    "231"
+   ],
+   "ground": "JCP",
+   "result": "NW3 Challengers won by 6 Wickets",
+   "summary": "NC3 Kings: 76/7(22.2) NW3 Challengers: 78/4(17.2)"
+  },
+  {
+   "matchId": "993",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=993&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "NW3 Spartans",
+    "EY3 Bulls"
+   ],
+   "teamIds": [
+    "232",
+    "226"
+   ],
+   "ground": "JPLE",
+   "result": "NW3 Spartans won by 9 Wickets",
+   "summary": "EY3 Bulls: 25/9(11.5) NW3 Spartans: 26/1(4)"
+  },
+  {
+   "matchId": "954",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=954&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "NW3 Challengers",
+    "EY3 Gladiators"
+   ],
+   "teamIds": [
+    "231",
+    "246"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW3 Challengers won by 103 Runs",
+   "summary": "NW3 Challengers: 184/7(30) EY3 Gladiators: 81/10(28.1)"
+  },
+  {
+   "matchId": "925",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=925&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "NW3 Challengers",
+    "SY3 Nova"
+   ],
+   "teamIds": [
+    "231",
+    "234"
+   ],
+   "ground": "JPLE",
+   "result": "NW3 Challengers won by 101 Runs",
+   "summary": "NW3 Challengers: 175/6(28.3) SY3 Nova: 74/10(20.5)"
+  },
+  {
+   "matchId": "922",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=922&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "SY3 Stars",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "233",
+    "229"
+   ],
+   "ground": "4CP",
+   "result": "NC3 Kings won by 69 Runs",
+   "summary": "NC3 Kings: 180/6(30) SY3 Stars: 111/10(23.4)"
+  },
+  {
+   "matchId": "921",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=921&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "KY3 Ravens"
+   ],
+   "teamIds": [
+    "226",
+    "227"
+   ],
+   "ground": "JCP",
+   "result": "KY3 Ravens won by 9 Wickets",
+   "summary": "EY3 Bulls: 98/8(28.5) KY3 Ravens: 99/1(21.1)"
+  }
+ ]
+}

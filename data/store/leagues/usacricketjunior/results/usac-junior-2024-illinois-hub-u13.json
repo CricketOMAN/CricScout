@@ -1,0 +1,337 @@
+{
+ "season": {
+  "key": "s253",
+  "id": "legacy-206",
+  "name": "USAC Junior 2024 - Illinois Hub u13"
+ },
+ "fetchedAt": "2026-11-13T22:42:22.247Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=206&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=206&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4151",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4151&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "MKE U13"
+   ],
+   "teamIds": [
+    "1239",
+    "1246"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: CMCE Avengers",
+   "summary": "CMCE Avengers: 0/0(0)"
+  },
+  {
+   "matchId": "4147",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4147&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "1239",
+    "1288"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Rising Stars won by 210 Runs",
+   "summary": "BPL Rising Stars: 281/6(28.2) CMCE Avengers: 71/7(16.2)"
+  },
+  {
+   "matchId": "4138",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4138&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "1239",
+    "1288"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Rising Stars won by 130 Runs",
+   "summary": "BPL Rising Stars: 183/7(26.4) CMCE Avengers: 53/7(17.2)"
+  },
+  {
+   "matchId": "4134",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4134&clubId=40319",
+   "date": "2024-10-06",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "1239",
+    "1238"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "BPL Warriors won by 174 Runs",
+   "summary": "BPL Warriors: 204/2(30) CMCE Avengers: 30/7(17.3)"
+  },
+  {
+   "matchId": "4126",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4126&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "1239",
+    "1238"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "BPL Warriors won by 328 Runs",
+   "summary": "BPL Warriors: 354/2(30) CMCE Avengers: 26/10(14)"
+  },
+  {
+   "matchId": "4065",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4065&clubId=40319",
+   "date": "2024-09-14",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "1238",
+    "1288"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "BPL Warriors won by 5 Wickets",
+   "summary": "BPL Rising Stars: 99/10(26.2) BPL Warriors: 100/5(17.5)"
+  },
+  {
+   "matchId": "3812",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3812&clubId=40319",
+   "date": "2024-08-02",
+   "type": "League",
+   "teams": [
+    "BPL Rising Stars",
+    "MKE U13"
+   ],
+   "teamIds": [
+    "1288",
+    "1246"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Rising Stars won by 9 Wickets",
+   "summary": "MKE U13: 101/8(30) BPL Rising Stars: 102/1(24.2)"
+  },
+  {
+   "matchId": "3811",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3811&clubId=40319",
+   "date": "2024-08-02",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "1238",
+    "1264"
+   ],
+   "ground": "Commissioners Park East Cricket Field",
+   "result": "BPL Warriors won by 5 Wickets",
+   "summary": "CMCE Raptors: 107/9(30) BPL Warriors: 108/5(28.1)"
+  },
+  {
+   "matchId": "3762",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3762&clubId=40319",
+   "date": "2024-07-27",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "MKE U13"
+   ],
+   "teamIds": [
+    "1239",
+    "1246"
+   ],
+   "ground": "Hanover Park",
+   "result": "MKE U13 won by 51 Runs",
+   "summary": "MKE U13: 126/10(23.2) CMCE Avengers: 75/7(15)"
+  },
+  {
+   "matchId": "3746",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3746&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "BPL Rising Stars",
+    "MKE U13"
+   ],
+   "teamIds": [
+    "1288",
+    "1246"
+   ],
+   "ground": "BPL",
+   "result": "BPL Rising Stars won by 6 Wickets",
+   "summary": "MKE U13: 66/8(17) BPL Rising Stars: 67/4(17.3)"
+  },
+  {
+   "matchId": "3742",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3742&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "CYCA BEARS",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "1240",
+    "1264"
+   ],
+   "ground": "DEEPRK",
+   "result": "CMCE Raptors won by 7 Wickets",
+   "summary": "CYCA BEARS: 108/6(30) CMCE Raptors: 109/3(22.3)"
+  },
+  {
+   "matchId": "3651",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3651&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "BPL Rising Stars",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "1288",
+    "1264"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "CMCE Raptors won by 48 Runs",
+   "summary": "CMCE Raptors: 131/6(30) BPL Rising Stars: 83/10(29.3)"
+  },
+  {
+   "matchId": "3599",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3599&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "BPL Rising Stars",
+    "CYCA BEARS"
+   ],
+   "teamIds": [
+    "1288",
+    "1240"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "CYCA BEARS won by 97 Runs",
+   "summary": "CYCA BEARS: 166/8(30) BPL Rising Stars: 69/9(25.5)"
+  },
+  {
+   "matchId": "3557",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3557&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "CYCA BEARS",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "1240",
+    "1238"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Warriors won by 7 Wickets",
+   "summary": "CYCA BEARS: 73/10(25.5) BPL Warriors: 74/3(20.2)"
+  },
+  {
+   "matchId": "3498",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3498&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "CMCE Raptors",
+    "CYCA BEARS"
+   ],
+   "teamIds": [
+    "1264",
+    "1240"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "CYCA BEARS won by 22 Runs",
+   "summary": "CYCA BEARS: 72/10(26.3) CMCE Raptors: 50/10(24.5)"
+  },
+  {
+   "matchId": "3434",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3434&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "1238",
+    "1264"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Warriors won by 9 Wickets",
+   "summary": "CMCE Raptors: 77/8(30) BPL Warriors: 78/1(15)"
+  },
+  {
+   "matchId": "3384",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3384&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CYCA BEARS"
+   ],
+   "teamIds": [
+    "1238",
+    "1240"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA BEARS won by 45 Runs",
+   "summary": "CYCA BEARS: 166/2(30) BPL Warriors: 121/8(30)"
+  },
+  {
+   "matchId": "3367",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3367&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "CMCE Raptors",
+    "MKE U13"
+   ],
+   "teamIds": [
+    "1264",
+    "1246"
+   ],
+   "ground": "DEEPRK",
+   "result": "CMCE Raptors won by 8 Wickets",
+   "summary": "MKE U13: 123/8(30) CMCE Raptors: 124/2(16.4)"
+  },
+  {
+   "matchId": "3219",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3219&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "CYCA BEARS",
+    "MKE U13"
+   ],
+   "teamIds": [
+    "1240",
+    "1246"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA BEARS won by 234 Runs",
+   "summary": "CYCA BEARS: 256/9(30) MKE U13: 22/10(8.3)"
+  }
+ ]
+}

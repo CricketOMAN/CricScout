@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s188",
+  "id": "legacy-314",
+  "name": "2025 USAC Florida Hub Games - U11"
+ },
+ "fetchedAt": "2026-11-13T22:25:55.749Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=314&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=314&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5377",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5377&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "FPYCA U11",
+    "TCL U11"
+   ],
+   "teamIds": [
+    "1795",
+    "1796"
+   ],
+   "ground": "Evans Cricket Ground",
+   "result": "TCL U11 won by 112 Runs",
+   "summary": "TCL U11: 192/3(27) FPYCA U11: 80/9(22.5)"
+  },
+  {
+   "matchId": "5375",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5375&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "YGCA U11",
+    "RSCA U11"
+   ],
+   "teamIds": [
+    "1797",
+    "1794"
+   ],
+   "ground": "Poinciana Ground",
+   "result": "YGCA U11 won by 43 Runs",
+   "summary": "YGCA U11: 146/9(28.3) RSCA U11: 103/9(19)"
+  },
+  {
+   "matchId": "5200",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5200&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "YGCA U11",
+    "FPYCA U11"
+   ],
+   "teamIds": [
+    "1797",
+    "1795"
+   ],
+   "ground": "Palm Bay Ground",
+   "result": "YGCA U11 won by 80 Runs",
+   "summary": "YGCA U11: 195/8(30) FPYCA U11: 115/7(30)"
+  },
+  {
+   "matchId": "5194",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5194&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "RSCA U11",
+    "TCL U11"
+   ],
+   "teamIds": [
+    "1794",
+    "1796"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "RSCA U11 won by 1 Wicket",
+   "summary": "TCL U11: 176/6(30) RSCA U11: 177/9(29.5)"
+  },
+  {
+   "matchId": "5012",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5012&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "TCL U11",
+    "YGCA U11"
+   ],
+   "teamIds": [
+    "1796",
+    "1797"
+   ],
+   "ground": "Evans Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "YGCA U11: 133/9(25.1) TCL U11: 6/0(1.1)"
+  },
+  {
+   "matchId": "4995",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4995&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "FPYCA U11",
+    "RSCA U11"
+   ],
+   "teamIds": [
+    "1795",
+    "1794"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "RSCA U11 won by 203 Runs",
+   "summary": "RSCA U11: 268/5(30) FPYCA U11: 65/8(29.4)"
+  },
+  {
+   "matchId": "4759",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4759&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "YGCA U11",
+    "RSCA U11"
+   ],
+   "teamIds": [
+    "1797",
+    "1794"
+   ],
+   "ground": "TradewindsParkGround",
+   "result": "RSCA U11 won by 8 Wickets",
+   "summary": "YGCA U11: 189/7(30) RSCA U11: 193/2(24.5)"
+  },
+  {
+   "matchId": "4654",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4654&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "FPYCA U11",
+    "TCL U11"
+   ],
+   "teamIds": [
+    "1795",
+    "1796"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "TCL U11 won by 132 Runs",
+   "summary": "TCL U11: 230/5(30) FPYCA U11: 98/5(30)"
+  },
+  {
+   "matchId": "4601",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4601&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "YGCA U11",
+    "FPYCA U11"
+   ],
+   "teamIds": [
+    "1797",
+    "1795"
+   ],
+   "ground": "Brian Piccolo North",
+   "result": "YGCA U11 won by 130 Runs",
+   "summary": "YGCA U11: 185/2(30) FPYCA U11: 55/10(26.1)"
+  },
+  {
+   "matchId": "4559",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4559&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "TCL U11",
+    "RSCA U11"
+   ],
+   "teamIds": [
+    "1796",
+    "1794"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "RSCA U11 won by 50 Runs",
+   "summary": "RSCA U11: 209/6(30) TCL U11: 159/8(30)"
+  },
+  {
+   "matchId": "4510",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4510&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "RSCA U11",
+    "FPYCA U11"
+   ],
+   "teamIds": [
+    "1794",
+    "1795"
+   ],
+   "ground": "Avalon Park Ground",
+   "result": "RSCA U11 won by 222 Runs",
+   "summary": "RSCA U11: 284/4(30) FPYCA U11: 62/10(24.5)"
+  },
+  {
+   "matchId": "4464",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4464&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "TCL U11",
+    "YGCA U11"
+   ],
+   "teamIds": [
+    "1796",
+    "1797"
+   ],
+   "ground": "Palm Bay Ground",
+   "result": "TCL U11 won by 7 Wickets",
+   "summary": "YGCA U11: 173/5(30) TCL U11: 174/3(29.1)"
+  }
+ ]
+}

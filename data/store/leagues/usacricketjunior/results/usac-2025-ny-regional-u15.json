@@ -1,0 +1,48 @@
+{
+ "season": {
+  "key": "s144",
+  "id": "legacy-382",
+  "name": "USAC 2025 NY Regional U15"
+ },
+ "fetchedAt": "2026-11-13T22:15:40.761Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=382&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=382&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5972",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5972&clubId=40319",
+   "date": "2025-07-08",
+   "type": "League",
+   "teams": [
+    "NY Hub U15",
+    "NE Hub U15"
+   ],
+   "teamIds": [
+    "2227",
+    "2228"
+   ],
+   "ground": "NY Ovals",
+   "result": "NY Hub U15: 150/13 (35.1/40 ov) NE Hub U15: 152/3 (28/40 ov)",
+   "summary": "NY Hub U15: 150/13(35.1) NE Hub U15: 152/3(28) Live"
+  },
+  {
+   "matchId": "5971",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5971&clubId=40319",
+   "date": "2025-07-07",
+   "type": "League",
+   "teams": [
+    "NE Hub U15",
+    "NY Hub U15"
+   ],
+   "teamIds": [
+    "2228",
+    "2227"
+   ],
+   "ground": "NY Ovals",
+   "result": "NE Hub U15 won by 1 Wicket",
+   "summary": "NY Hub U15: 168/13(35) NE Hub U15: 169/9(36.2)"
+  }
+ ]
+}

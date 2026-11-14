@@ -1,0 +1,711 @@
+{
+ "season": {
+  "key": "s323",
+  "id": "legacy-72",
+  "name": "USAC Junior 2023 -DC Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:10:50.836Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=72&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=72&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1883",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1883&clubId=40319",
+   "date": "2023-06-18",
+   "type": "Final",
+   "teams": [
+    "FSSC Sharks",
+    "HCYC Lords"
+   ],
+   "teamIds": [
+    "280",
+    "262"
+   ],
+   "ground": "WCC 5",
+   "result": "FSSC Sharks won by 192 Runs",
+   "summary": "FSSC Sharks: 278/10(39.3) HCYC Lords: 86/10(23.1)"
+  },
+  {
+   "matchId": "1778",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1778&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Super League",
+   "teams": [
+    "FSSC Lions",
+    "SSCA Blasters"
+   ],
+   "teamIds": [
+    "281",
+    "282"
+   ],
+   "ground": "Metro",
+   "result": "FSSC Lions won by 9 Wickets",
+   "summary": "SSCA Blasters: 124/10(35.4) FSSC Lions: 126/1(10.4)"
+  },
+  {
+   "matchId": "1773",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1773&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Semi Final",
+   "teams": [
+    "SSCA Knights",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "283",
+    "280"
+   ],
+   "ground": "WCC 5",
+   "result": "FSSC Sharks won by 90 Runs",
+   "summary": "FSSC Sharks: 271/6(40) SSCA Knights: 181/6(40)"
+  },
+  {
+   "matchId": "1772",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1772&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Semi Final",
+   "teams": [
+    "SOCA Chargers",
+    "HCYC Lords"
+   ],
+   "teamIds": [
+    "285",
+    "262"
+   ],
+   "ground": "WCC 2",
+   "result": "HCYC Lords won by 3 Wickets",
+   "summary": "SOCA Chargers: 303/3(40) HCYC Lords: 304/7(39.5)"
+  },
+  {
+   "matchId": "1764",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1764&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Super League",
+   "teams": [
+    "SOCA Gladiators",
+    "WCA Elites"
+   ],
+   "teamIds": [
+    "284",
+    "347"
+   ],
+   "ground": "Kenilworth",
+   "result": "Forfeited. Winner: SOCA Gladiators",
+   "summary": "SOCA Gladiators: 0/0(0)"
+  },
+  {
+   "matchId": "1763",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1763&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Super League",
+   "teams": [
+    "LCCA Capitals",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "287",
+    "286"
+   ],
+   "ground": "Metro",
+   "result": "Abandoned.",
+   "summary": "LCCA Capitals: 0/0(0)"
+  },
+  {
+   "matchId": "1648",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1648&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "280",
+    "286"
+   ],
+   "ground": "WCC 5",
+   "result": "FSSC Sharks won by 127 Runs",
+   "summary": "FSSC Sharks: 325/9(40) LCCA Titans: 198/8(40)"
+  },
+  {
+   "matchId": "1647",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1647&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "SOCA Chargers",
+    "SSCA Knights"
+   ],
+   "teamIds": [
+    "285",
+    "283"
+   ],
+   "ground": "Frederick",
+   "result": "SOCA Chargers won by 5 Wickets",
+   "summary": "SSCA Knights: 143/10(34) SOCA Chargers: 144/5(31.1)"
+  },
+  {
+   "matchId": "1646",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1646&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "SOCA Gladiators",
+    "HCYC Lords"
+   ],
+   "teamIds": [
+    "284",
+    "262"
+   ],
+   "ground": "Metro",
+   "result": "HCYC Lords won by 102 Runs",
+   "summary": "HCYC Lords: 233/7(40) SOCA Gladiators: 131/10(36.4)"
+  },
+  {
+   "matchId": "1638",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1638&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "LCCA Capitals",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "287",
+    "281"
+   ],
+   "ground": "WCC 2",
+   "result": "Forfeited. Winner: LCCA Capitals",
+   "summary": "LCCA Capitals: 0/0(0)"
+  },
+  {
+   "matchId": "1563",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1563&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "WCA Elites",
+    "SSCA Blasters"
+   ],
+   "teamIds": [
+    "347",
+    "282"
+   ],
+   "ground": "WCC 2",
+   "result": "Forfeited. Winner: SSCA Blasters",
+   "summary": "WCA Elites: 0/0(0)"
+  },
+  {
+   "matchId": "1509",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1509&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "SOCA Gladiators",
+    "SSCA Blasters"
+   ],
+   "teamIds": [
+    "284",
+    "282"
+   ],
+   "ground": "WCC 5",
+   "result": "SOCA Gladiators won by 5 Wickets",
+   "summary": "SSCA Blasters: 122/10(38.2) SOCA Gladiators: 124/5(23.5)"
+  },
+  {
+   "matchId": "1508",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1508&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "SSCA Knights"
+   ],
+   "teamIds": [
+    "280",
+    "283"
+   ],
+   "ground": "Frederick",
+   "result": "SSCA Knights won by 4 Runs",
+   "summary": "SSCA Knights: 133/10(37.5) FSSC Sharks: 129/10(39.2)"
+  },
+  {
+   "matchId": "1506",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1506&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "286",
+    "287"
+   ],
+   "ground": "Kenilworth",
+   "result": "LCCA Titans won by 200 Runs",
+   "summary": "LCCA Titans: 434/5(40) LCCA Capitals: 234/8(38.5)"
+  },
+  {
+   "matchId": "1505",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1505&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "HCYC Lords",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "262",
+    "281"
+   ],
+   "ground": "WCC 2",
+   "result": "HCYC Lords won by 89 Runs",
+   "summary": "HCYC Lords: 329/6(40) FSSC Lions: 240/9(33.4)"
+  },
+  {
+   "matchId": "1496",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1496&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "SOCA Chargers",
+    "WCA Elites"
+   ],
+   "teamIds": [
+    "285",
+    "347"
+   ],
+   "ground": "Metro",
+   "result": "Forfeited. Winner: SOCA Chargers",
+   "summary": "SOCA Chargers: 0/0(0)"
+  },
+  {
+   "matchId": "1417",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1417&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "WCA Elites",
+    "SSCA Knights"
+   ],
+   "teamIds": [
+    "347",
+    "283"
+   ],
+   "ground": "Kenilworth",
+   "result": "SSCA Knights won by 8 Wickets",
+   "summary": "WCA Elites: 72/7(18.4) SSCA Knights: 73/2(11.1)"
+  },
+  {
+   "matchId": "1416",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1416&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "SSCA Blasters",
+    "HCYC Lords"
+   ],
+   "teamIds": [
+    "282",
+    "262"
+   ],
+   "ground": "Frederick",
+   "result": "HCYC Lords won by 306 Runs",
+   "summary": "HCYC Lords: 406/6(39.5) SSCA Blasters: 100/8(40)"
+  },
+  {
+   "matchId": "1414",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1414&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "280",
+    "281"
+   ],
+   "ground": "Metro",
+   "result": "FSSC Lions won by 80 Runs",
+   "summary": "FSSC Lions: 200/6(40) FSSC Sharks: 120/9(30.1)"
+  },
+  {
+   "matchId": "1413",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1413&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "SOCA Chargers",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "285",
+    "286"
+   ],
+   "ground": "WCC 5",
+   "result": "SOCA Chargers won by 45 Runs",
+   "summary": "SOCA Chargers: 202/6(40) LCCA Titans: 157/10(32.4)"
+  },
+  {
+   "matchId": "1412",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1412&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "LCCA Capitals",
+    "SOCA Gladiators"
+   ],
+   "teamIds": [
+    "287",
+    "284"
+   ],
+   "ground": "WCC 2",
+   "result": "LCCA Capitals won by 6 Wickets",
+   "summary": "SOCA Gladiators: 181/10(39.3) LCCA Capitals: 182/4(25.1)"
+  },
+  {
+   "matchId": "1322",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1322&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "WCA Elites",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "347",
+    "280"
+   ],
+   "ground": "WCC 5",
+   "result": "Forfeited. Winner: FSSC Sharks",
+   "summary": "WCA Elites: 0/0(0)"
+  },
+  {
+   "matchId": "1297",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1297&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SSCA Knights",
+    "HCYC Lords"
+   ],
+   "teamIds": [
+    "283",
+    "262"
+   ],
+   "ground": "Kenilworth",
+   "result": "SSCA Knights won by 3 Wickets",
+   "summary": "HCYC Lords: 168/8(40) SSCA Knights: 169/7(38)"
+  },
+  {
+   "matchId": "1296",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1296&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SOCA Gladiators"
+   ],
+   "teamIds": [
+    "281",
+    "284"
+   ],
+   "ground": "Frederick",
+   "result": "FSSC Lions won by 5 Wickets",
+   "summary": "SOCA Gladiators: 135/7(40) FSSC Lions: 136/5(32.3)"
+  },
+  {
+   "matchId": "1295",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1295&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SSCA Blasters",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "282",
+    "286"
+   ],
+   "ground": "Metro",
+   "result": "SSCA Blasters won by 6 Wickets",
+   "summary": "LCCA Titans: 54/7(14.3) SSCA Blasters: 55/4(19)"
+  },
+  {
+   "matchId": "1294",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1294&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "LCCA Capitals",
+    "SOCA Chargers"
+   ],
+   "teamIds": [
+    "287",
+    "285"
+   ],
+   "ground": "WCC 2",
+   "result": "SOCA Chargers won by 255 Runs",
+   "summary": "SOCA Chargers: 319/8(40) LCCA Capitals: 64/7(14.1)"
+  },
+  {
+   "matchId": "1204",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1204&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "WCA Elites"
+   ],
+   "teamIds": [
+    "281",
+    "347"
+   ],
+   "ground": "WCC 5",
+   "result": "Abandoned.",
+   "summary": "FSSC Lions: 0/0(0)"
+  },
+  {
+   "matchId": "1203",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1203&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "SOCA Gladiators"
+   ],
+   "teamIds": [
+    "286",
+    "284"
+   ],
+   "ground": "Metro",
+   "result": "Abandoned.",
+   "summary": "LCCA Titans: 0/0(0)"
+  },
+  {
+   "matchId": "1202",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1202&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "SSCA Knights",
+    "SSCA Blasters"
+   ],
+   "teamIds": [
+    "283",
+    "282"
+   ],
+   "ground": "WCC 2",
+   "result": "Abandoned.",
+   "summary": "SSCA Knights: 0/0(0)"
+  },
+  {
+   "matchId": "1201",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1201&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "HCYC Lords",
+    "SOCA Chargers"
+   ],
+   "teamIds": [
+    "262",
+    "285"
+   ],
+   "ground": "Frederick",
+   "result": "Abandoned.",
+   "summary": "HCYC Lords: 0/0(0)"
+  },
+  {
+   "matchId": "1200",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1200&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "LCCA Capitals",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "287",
+    "280"
+   ],
+   "ground": "Kenilworth",
+   "result": "Abandoned.",
+   "summary": "LCCA Capitals: 0/0(0)"
+  },
+  {
+   "matchId": "1121",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1121&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "WCA Elites",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "347",
+    "287"
+   ],
+   "ground": "Kenilworth",
+   "result": "LCCA Capitals won by 8 Wickets",
+   "summary": "WCA Elites: 49/10(14.1) LCCA Capitals: 50/2(5.2)"
+  },
+  {
+   "matchId": "1120",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1120&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "286",
+    "281"
+   ],
+   "ground": "Metro",
+   "result": "LCCA Titans won by 17 Runs",
+   "summary": "LCCA Titans: 154/9(39.5) FSSC Lions: 137/9(35.5)"
+  },
+  {
+   "matchId": "1119",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1119&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "SSCA Knights",
+    "SOCA Gladiators"
+   ],
+   "teamIds": [
+    "283",
+    "284"
+   ],
+   "ground": "WCC 5",
+   "result": "SSCA Knights won by 8 Wickets",
+   "summary": "SOCA Gladiators: 166/8(40) SSCA Knights: 167/2(26)"
+  },
+  {
+   "matchId": "1118",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1118&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "HCYC Lords"
+   ],
+   "teamIds": [
+    "280",
+    "262"
+   ],
+   "ground": "WCC 2",
+   "result": "FSSC Sharks won by 217 Runs",
+   "summary": "FSSC Sharks: 288/7(40) HCYC Lords: 71/10(22.5)"
+  },
+  {
+   "matchId": "1115",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1115&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "SOCA Chargers",
+    "SSCA Blasters"
+   ],
+   "teamIds": [
+    "285",
+    "282"
+   ],
+   "ground": "Frederick",
+   "result": "SOCA Chargers won by 4 Wickets",
+   "summary": "SSCA Blasters: 109/10(36.2) SOCA Chargers: 112/6(22.2)"
+  },
+  {
+   "matchId": "1031",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1031&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SOCA Chargers"
+   ],
+   "teamIds": [
+    "281",
+    "285"
+   ],
+   "ground": "WCC 2",
+   "result": "SOCA Chargers won by 74 Runs",
+   "summary": "SOCA Chargers: 236/6(40) FSSC Lions: 162/10(34.4)"
+  },
+  {
+   "matchId": "1030",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1030&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "HCYC Lords",
+    "WCA Elites"
+   ],
+   "teamIds": [
+    "262",
+    "347"
+   ],
+   "ground": "Kenilworth",
+   "result": "HCYC Lords won by 120 Runs",
+   "summary": "HCYC Lords: 204/10(34) WCA Elites: 84/10(22.5)"
+  },
+  {
+   "matchId": "1029",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1029&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "SOCA Gladiators",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "284",
+    "280"
+   ],
+   "ground": "Metro",
+   "result": "FSSC Sharks won by 208 Runs",
+   "summary": "FSSC Sharks: 301/6(40) SOCA Gladiators: 93/10(26.1)"
+  },
+  {
+   "matchId": "1028",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1028&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "SSCA Blasters",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "282",
+    "287"
+   ],
+   "ground": "Frederick",
+   "result": "LCCA Capitals won by 9 Wickets",
+   "summary": "SSCA Blasters: 72/10(24.5) LCCA Capitals: 73/1(11.1)"
+  },
+  {
+   "matchId": "1027",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1027&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "SSCA Knights"
+   ],
+   "teamIds": [
+    "286",
+    "283"
+   ],
+   "ground": "WCC 5",
+   "result": "SSCA Knights won by 10 Runs",
+   "summary": "SSCA Knights: 120/11(37.2) LCCA Titans: 110/10(27)"
+  }
+ ]
+}

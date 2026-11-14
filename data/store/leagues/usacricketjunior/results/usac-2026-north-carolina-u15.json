@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s89",
+  "id": "legacy-488",
+  "name": "USAC 2026 - North Carolina - U15"
+ },
+ "fetchedAt": "2026-11-13T21:47:35.790Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=488&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=488&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8379",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8379&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Falcons",
+    "Panthers"
+   ],
+   "teamIds": [
+    "2865",
+    "2867"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "Panthers won by 2 Wickets",
+   "summary": "Falcons: 138/10(22.4) Panthers: 139/8(24.3)"
+  },
+  {
+   "matchId": "8176",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8176&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Ospreys",
+    "Coyotes"
+   ],
+   "teamIds": [
+    "2866",
+    "2864"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "Coyotes won by 6 Wickets",
+   "summary": "Ospreys: 214/7(40) Coyotes: 215/4(29.3)"
+  },
+  {
+   "matchId": "7966",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7966&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Falcons",
+    "Ospreys"
+   ],
+   "teamIds": [
+    "2865",
+    "2866"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Falcons won by 39 Runs",
+   "summary": "Falcons: 225/9(40) Ospreys: 186/10(38.4)"
+  },
+  {
+   "matchId": "7965",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7965&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Cardinals",
+    "Panthers"
+   ],
+   "teamIds": [
+    "2863",
+    "2867"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Cardinals won by 6 Runs",
+   "summary": "Cardinals: 79/10(24.3) Panthers: 73/9(20.2)"
+  },
+  {
+   "matchId": "7872",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7872&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Coyotes",
+    "Timberwolves"
+   ],
+   "teamIds": [
+    "2864",
+    "2868"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Timberwolves won by 4 Wickets",
+   "summary": "Coyotes: 117/10(28) Timberwolves: 121/6(20.2)"
+  },
+  {
+   "matchId": "7865",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7865&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Cardinals",
+    "Ospreys"
+   ],
+   "teamIds": [
+    "2863",
+    "2866"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Cardinals won by 81 Runs",
+   "summary": "Cardinals: 176/10(34.5) Ospreys: 95/10(25.4)"
+  },
+  {
+   "matchId": "7765",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7765&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Timberwolves",
+    "Panthers"
+   ],
+   "teamIds": [
+    "2868",
+    "2867"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Panthers won by 6 Wickets",
+   "summary": "Timberwolves: 143/9(35) Panthers: 145/4(23.2)"
+  },
+  {
+   "matchId": "7761",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7761&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Falcons",
+    "Coyotes"
+   ],
+   "teamIds": [
+    "2865",
+    "2864"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Falcons won by 139 Runs",
+   "summary": "Falcons: 270/10(37) Coyotes: 131/10(26.3)"
+  },
+  {
+   "matchId": "7758",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7758&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Cardinals",
+    "Ospreys"
+   ],
+   "teamIds": [
+    "2863",
+    "2866"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "Cardinals won by 88 Runs",
+   "summary": "Cardinals: 313/8(40) Ospreys: 225/10(31.2)"
+  },
+  {
+   "matchId": "7536",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7536&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Ospreys",
+    "Panthers"
+   ],
+   "teamIds": [
+    "2866",
+    "2867"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "Panthers won by 10 Wickets",
+   "summary": "Ospreys: 66/9(26) Panthers: 68/0(12.4)"
+  },
+  {
+   "matchId": "7535",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7535&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Falcons",
+    "Timberwolves"
+   ],
+   "teamIds": [
+    "2865",
+    "2868"
+   ],
+   "ground": "NC HUB - ARK Field",
+   "result": "Falcons won by 26 Runs",
+   "summary": "Falcons: 232/10(33.4) Timberwolves: 206/10(33.2)"
+  },
+  {
+   "matchId": "7369",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7369&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Cardinals",
+    "Coyotes"
+   ],
+   "teamIds": [
+    "2863",
+    "2864"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "Coyotes won by 48 Runs",
+   "summary": "Coyotes: 252/7(40) Cardinals: 204/10(38)"
+  },
+  {
+   "matchId": "7256",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7256&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "Panthers",
+    "Coyotes"
+   ],
+   "teamIds": [
+    "2867",
+    "2864"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Coyotes won by 3 Wickets",
+   "summary": "Panthers: 132/10(34.2) Coyotes: 133/7(28.4)"
+  },
+  {
+   "matchId": "7255",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7255&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "Cardinals",
+    "Timberwolves"
+   ],
+   "teamIds": [
+    "2863",
+    "2868"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Cardinals won by 90 Runs",
+   "summary": "Cardinals: 199/7(40) Timberwolves: 109/11(27.1)"
+  },
+  {
+   "matchId": "7221",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7221&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Ospreys",
+    "Timberwolves"
+   ],
+   "teamIds": [
+    "2866",
+    "2868"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Ospreys won by 67 Runs",
+   "summary": "Ospreys: 152/12(25.5) Timberwolves: 85/10(18.1)"
+  },
+  {
+   "matchId": "7220",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7220&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Cardinals",
+    "Falcons"
+   ],
+   "teamIds": [
+    "2863",
+    "2865"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Cardinals won by 3 Wickets",
+   "summary": "Falcons: 102/10(24.4) Cardinals: 103/7(19.2)"
+  }
+ ]
+}

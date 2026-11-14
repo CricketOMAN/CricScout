@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s93",
+  "id": "legacy-484",
+  "name": "USAC 2026 - Arizona - U13"
+ },
+ "fetchedAt": "2026-11-13T21:49:42.896Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=484&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=484&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "7381",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7381&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "ANYCA U13",
+    "SKA U13"
+   ],
+   "teamIds": [
+    "2823",
+    "2824"
+   ],
+   "ground": "Grovers Basin Park",
+   "result": "SKA U13 won by 2 Wickets",
+   "summary": "ANYCA U13: 140/8(25) SKA U13: 142/8(25)"
+  },
+  {
+   "matchId": "7311",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7311&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "SKA U13",
+    "AZYCA U13"
+   ],
+   "teamIds": [
+    "2824",
+    "2822"
+   ],
+   "ground": "Chuparosa Park",
+   "result": "SKA U13 won by 2 Wickets",
+   "summary": "AZYCA U13: 150/10(26) SKA U13: 189/8(25)"
+  },
+  {
+   "matchId": "7260",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7260&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "ANYCA U13",
+    "AZYCA U13"
+   ],
+   "teamIds": [
+    "2823",
+    "2822"
+   ],
+   "ground": "Grovers Basin Park",
+   "result": "AZYCA U13 won by 44 Runs",
+   "summary": "AZYCA U13: 208/3(25) ANYCA U13: 164/4(25)"
+  },
+  {
+   "matchId": "7238",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7238&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "SKA U13",
+    "AZYCA U13"
+   ],
+   "teamIds": [
+    "2824",
+    "2822"
+   ],
+   "ground": "Snedigar East Park",
+   "result": "SKA U13 won by 40 Runs",
+   "summary": "SKA U13: 168/5(25) AZYCA U13: 128/11(25)"
+  },
+  {
+   "matchId": "7172",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7172&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "AZYCA U13",
+    "ANYCA U13"
+   ],
+   "teamIds": [
+    "2822",
+    "2823"
+   ],
+   "ground": "Chuparosa Park",
+   "result": "AZYCA U13 won by 17 Runs",
+   "summary": "AZYCA U13: 179/10(25) ANYCA U13: 162/4(25)"
+  },
+  {
+   "matchId": "7160",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7160&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "ANYCA U13",
+    "SKA U13"
+   ],
+   "teamIds": [
+    "2823",
+    "2824"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "SKA U13 won by 51 Runs",
+   "summary": "SKA U13: 225/6(28) ANYCA U13: 174/8(28)"
+  }
+ ]
+}

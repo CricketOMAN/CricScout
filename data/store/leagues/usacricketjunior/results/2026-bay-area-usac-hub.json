@@ -1,0 +1,4043 @@
+{
+ "season": {
+  "key": "s122",
+  "id": "legacy-423",
+  "name": "2026 Bay Area USAC Hub"
+ },
+ "fetchedAt": "2026-11-13T22:00:10.656Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=423&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=423&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9781",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9781&clubId=40319",
+   "date": "2026-10-24",
+   "type": "3rd Position",
+   "teams": [
+    "Strikers Scorchers",
+    "BCA Knights"
+   ],
+   "teamIds": [
+    "3707",
+    "3701"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Scorchers won by 16 Runs",
+   "summary": "Strikers Scorchers: 131/10(23) BCA Knights: 115/10(25)"
+  },
+  {
+   "matchId": "9769",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9769&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Final",
+   "teams": [
+    "CCA Cardinals",
+    "BCA Spartans"
+   ],
+   "teamIds": [
+    "3704",
+    "3702"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Cardinals won by 8 Wickets",
+   "summary": "BCA Spartans: 75/10(20.5) CCA Cardinals: 76/2(8.3)"
+  },
+  {
+   "matchId": "9768",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9768&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Qualifier",
+   "teams": [
+    "BCA Vikings",
+    "CFC Incredibles"
+   ],
+   "teamIds": [
+    "3703",
+    "3706"
+   ],
+   "ground": "Challenger",
+   "result": "CFC Incredibles won by 35 Runs",
+   "summary": "CFC Incredibles: 122/8(23.3) BCA Vikings: 87/10(19)"
+  },
+  {
+   "matchId": "9765",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9765&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Qualifier",
+   "teams": [
+    "VKCA COLTS",
+    "CCA EB Dragons"
+   ],
+   "teamIds": [
+    "3708",
+    "3705"
+   ],
+   "ground": "Northgate",
+   "result": "CCA EB Dragons won by 1 Wicket",
+   "summary": "VKCA COLTS: 89/11(21.4) CCA EB Dragons: 90/9(24.1)"
+  },
+  {
+   "matchId": "9780",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9780&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Qualifier",
+   "teams": [
+    "CCA Panthers",
+    "CKCA Giants"
+   ],
+   "teamIds": [
+    "3694",
+    "3696"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Panthers won by 9 Wickets",
+   "summary": "CKCA Giants: 146/4(25) CCA Panthers: 148/1(18.4)"
+  },
+  {
+   "matchId": "9779",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9779&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Final",
+   "teams": [
+    "VKCA BOLTS",
+    "CCA Samurais"
+   ],
+   "teamIds": [
+    "3700",
+    "3695"
+   ],
+   "ground": "Northgate",
+   "result": "CCA Samurais won by 30 Runs",
+   "summary": "CCA Samurais: 102/9(25) VKCA BOLTS: 72/10(19)"
+  },
+  {
+   "matchId": "9770",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9770&clubId=40319",
+   "date": "2026-10-24",
+   "type": "3rd Position",
+   "teams": [
+    "Strikers Neurons",
+    "BCA Challengers"
+   ],
+   "teamIds": [
+    "3699",
+    "3693"
+   ],
+   "ground": "Sierramont",
+   "result": "BCA Challengers won by 36 Runs",
+   "summary": "BCA Challengers: 147/4(25) Strikers Neurons: 111/5(18.3)"
+  },
+  {
+   "matchId": "9761",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9761&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Qualifier",
+   "teams": [
+    "Indus Avengers",
+    "DCL Samurai"
+   ],
+   "teamIds": [
+    "3698",
+    "3697"
+   ],
+   "ground": "Rancho 1",
+   "result": "Indus Avengers won by 77 Runs",
+   "summary": "Indus Avengers: 297/4(25) DCL Samurai: 220/5(25)"
+  },
+  {
+   "matchId": "9777",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9777&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Final",
+   "teams": [
+    "VKCA Volts",
+    "CCA Yorkers"
+   ],
+   "teamIds": [
+    "3692",
+    "3687"
+   ],
+   "ground": "Irvington High",
+   "result": "VKCA Volts won by 95 Runs",
+   "summary": "VKCA Volts: 159/4(25) CCA Yorkers: 64/10(19.2)"
+  },
+  {
+   "matchId": "9773",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9773&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Qualifier",
+   "teams": [
+    "CCA Tornadoes",
+    "USCA Islanders"
+   ],
+   "teamIds": [
+    "3686",
+    "3691"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Tornadoes won by 9 Wickets",
+   "summary": "USCA Islanders: 108/9(22.4) CCA Tornadoes: 109/1(13.2)"
+  },
+  {
+   "matchId": "9763",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9763&clubId=40319",
+   "date": "2026-10-24",
+   "type": "3rd Position",
+   "teams": [
+    "SRCA Spartans",
+    "Strikers Tensors"
+   ],
+   "teamIds": [
+    "3689",
+    "3690"
+   ],
+   "ground": "Emerald Glen",
+   "result": "SRCA Spartans won by 5 Wickets",
+   "summary": "Strikers Tensors: 51/10(21.3) SRCA Spartans: 52/5(14)"
+  },
+  {
+   "matchId": "9758",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9758&clubId=40319",
+   "date": "2026-10-24",
+   "type": "Qualifier",
+   "teams": [
+    "BCA Hawks",
+    "SRCA Daredevils"
+   ],
+   "teamIds": [
+    "3685",
+    "3688"
+   ],
+   "ground": "Bowman",
+   "result": "BCA Hawks won by 9 Wickets",
+   "summary": "SRCA Daredevils: 152/10(24.2) BCA Hawks: 153/1(21.5)"
+  },
+  {
+   "matchId": "9783",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9783&clubId=40319",
+   "date": "2026-10-24",
+   "type": "League",
+   "teams": [
+    "PCL Hawks",
+    "USCA River Hawks"
+   ],
+   "teamIds": [
+    "3676",
+    "3679"
+   ],
+   "ground": "Emerald Glen",
+   "result": "PCL Hawks won by 4 Wickets",
+   "summary": "USCA River Hawks: 39/10(11.3) PCL Hawks: 40/6(9.5)"
+  },
+  {
+   "matchId": "9782",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9782&clubId=40319",
+   "date": "2026-10-24",
+   "type": "League",
+   "teams": [
+    "TCA Tigers",
+    "Strikers Tigers"
+   ],
+   "teamIds": [
+    "3678",
+    "3675"
+   ],
+   "ground": "Bowman",
+   "result": "TCA Tigers won by 60 Runs",
+   "summary": "TCA Tigers: 154/6(25) Strikers Tigers: 94/8(25)"
+  },
+  {
+   "matchId": "9766",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9766&clubId=40319",
+   "date": "2026-10-24",
+   "type": "League",
+   "teams": [
+    "CCA EB Wolves",
+    "Indus Prince"
+   ],
+   "teamIds": [
+    "3681",
+    "3680"
+   ],
+   "ground": "Library",
+   "result": "Indus Prince won by 128 Runs",
+   "summary": "Indus Prince: 167/9(25) CCA EB Wolves: 39/10(13)"
+  },
+  {
+   "matchId": "9737",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9737&clubId=40319",
+   "date": "2026-10-18",
+   "type": "League",
+   "teams": [
+    "TCA Tigers",
+    "Indus Prince"
+   ],
+   "teamIds": [
+    "3678",
+    "3680"
+   ],
+   "ground": "MLK Hayward",
+   "result": "TCA Tigers won by 3 Runs",
+   "summary": "TCA Tigers: 120/8(25) Indus Prince: 117/7(25)"
+  },
+  {
+   "matchId": "9706",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9706&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "VKCA COLTS",
+    "CCA Cardinals"
+   ],
+   "teamIds": [
+    "3708",
+    "3704"
+   ],
+   "ground": "Irvington High",
+   "result": "CCA Cardinals won by 73 Runs",
+   "summary": "CCA Cardinals: 132/6(25) VKCA COLTS: 59/10(17.4)"
+  },
+  {
+   "matchId": "9705",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9705&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "CFC Incredibles",
+    "BCA Spartans"
+   ],
+   "teamIds": [
+    "3706",
+    "3702"
+   ],
+   "ground": "Ken Mercer",
+   "result": "BCA Spartans won by 10 Wickets",
+   "summary": "CFC Incredibles: 33/10(16.3) BCA Spartans: 34/0(4.2)"
+  },
+  {
+   "matchId": "9704",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9704&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "BCA Knights",
+    "BCA Vikings"
+   ],
+   "teamIds": [
+    "3701",
+    "3703"
+   ],
+   "ground": "Bowman",
+   "result": "BCA Knights won by 9 Wickets",
+   "summary": "BCA Vikings: 52/10(14.5) BCA Knights: 56/1(5.4)"
+  },
+  {
+   "matchId": "9674",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9674&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "Strikers Scorchers",
+    "CCA EB Dragons"
+   ],
+   "teamIds": [
+    "3707",
+    "3705"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Scorchers won by 83 Runs",
+   "summary": "Strikers Scorchers: 189/9(25) CCA EB Dragons: 106/4(25)"
+  },
+  {
+   "matchId": "9707",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9707&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "DCL Samurai",
+    "CCA Panthers"
+   ],
+   "teamIds": [
+    "3697",
+    "3694"
+   ],
+   "ground": "Emerald Glen",
+   "result": "DCL Samurai won by 36 Runs",
+   "summary": "DCL Samurai: 155/7(25) CCA Panthers: 119/6(25)"
+  },
+  {
+   "matchId": "9703",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9703&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "CKCA Giants",
+    "Indus Avengers"
+   ],
+   "teamIds": [
+    "3696",
+    "3698"
+   ],
+   "ground": "Kathryn Hughes",
+   "result": "Indus Avengers won by 41 Runs",
+   "summary": "Indus Avengers: 108/10(24) CKCA Giants: 67/10(22.3)"
+  },
+  {
+   "matchId": "9689",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9689&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "CCA Samurais",
+    "Strikers Neurons"
+   ],
+   "teamIds": [
+    "3695",
+    "3699"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Samurais won by 9 Wickets",
+   "summary": "Strikers Neurons: 106/10(22.4) CCA Samurais: 109/1(13.1)"
+  },
+  {
+   "matchId": "9683",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9683&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "VKCA BOLTS",
+    "BCA Challengers"
+   ],
+   "teamIds": [
+    "3700",
+    "3693"
+   ],
+   "ground": "Irvington High",
+   "result": "VKCA BOLTS won by 95 Runs",
+   "summary": "VKCA BOLTS: 153/8(25) BCA Challengers: 58/10(17.2)"
+  },
+  {
+   "matchId": "9693",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9693&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "USCA Islanders",
+    "VKCA Volts"
+   ],
+   "teamIds": [
+    "3691",
+    "3692"
+   ],
+   "ground": "Doxey Park",
+   "result": "VKCA Volts won by 107 Runs",
+   "summary": "VKCA Volts: 194/6(25) USCA Islanders: 87/6(25)"
+  },
+  {
+   "matchId": "9687",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9687&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "CCA Tornadoes",
+    "SRCA Spartans"
+   ],
+   "teamIds": [
+    "3686",
+    "3689"
+   ],
+   "ground": "Dilworth",
+   "result": "SRCA Spartans won by 50 Runs",
+   "summary": "SRCA Spartans: 172/7(25) CCA Tornadoes: 122/10(23.1)"
+  },
+  {
+   "matchId": "9684",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9684&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "SRCA Daredevils",
+    "CCA Yorkers"
+   ],
+   "teamIds": [
+    "3688",
+    "3687"
+   ],
+   "ground": "Emerald Glen",
+   "result": "CCA Yorkers won by 61 Runs",
+   "summary": "CCA Yorkers: 125/6(25) SRCA Daredevils: 64/10(19.5)"
+  },
+  {
+   "matchId": "9681",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9681&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "BCA Hawks",
+    "Strikers Tensors"
+   ],
+   "teamIds": [
+    "3685",
+    "3690"
+   ],
+   "ground": "Bowman",
+   "result": "Strikers Tensors won by 26 Runs",
+   "summary": "Strikers Tensors: 216/3(25) BCA Hawks: 190/6(25)"
+  },
+  {
+   "matchId": "9709",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9709&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "USCA River Hawks",
+    "Indus Prince"
+   ],
+   "teamIds": [
+    "3679",
+    "3680"
+   ],
+   "ground": "Doxey Park",
+   "result": "Indus Prince won by 23 Runs",
+   "summary": "Indus Prince: 141/6(25) USCA River Hawks: 118/8(25)"
+  },
+  {
+   "matchId": "9708",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9708&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "Strikers Tigers",
+    "CCA EB Wolves"
+   ],
+   "teamIds": [
+    "3675",
+    "3681"
+   ],
+   "ground": "Sierramont",
+   "result": "CCA EB Wolves won by 35 Runs",
+   "summary": "CCA EB Wolves: 125/7(25) Strikers Tigers: 90/10(17.3)"
+  },
+  {
+   "matchId": "9686",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9686&clubId=40319",
+   "date": "2026-10-17",
+   "type": "League",
+   "teams": [
+    "Knight Riders Dublin",
+    "PCL Hawks"
+   ],
+   "teamIds": [
+    "3677",
+    "3676"
+   ],
+   "ground": "Lincoln",
+   "result": "PCL Hawks won by 16 Runs",
+   "summary": "PCL Hawks: 143/8(25) Knight Riders Dublin: 127/10(23.5)"
+  },
+  {
+   "matchId": "9658",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9658&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "CFC Incredibles",
+    "Strikers Scorchers"
+   ],
+   "teamIds": [
+    "3706",
+    "3707"
+   ],
+   "ground": "Quail Run",
+   "result": "Strikers Scorchers won by 127 Runs",
+   "summary": "Strikers Scorchers: 196/4(25) CFC Incredibles: 69/9(17.1)"
+  },
+  {
+   "matchId": "9657",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9657&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "BCA Knights",
+    "VKCA COLTS"
+   ],
+   "teamIds": [
+    "3701",
+    "3708"
+   ],
+   "ground": "Bowman",
+   "result": "It is a Tie",
+   "summary": "BCA Knights: 174/6(25) VKCA COLTS: 174/8(25)"
+  },
+  {
+   "matchId": "9655",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9655&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "CCA Cardinals",
+    "BCA Vikings"
+   ],
+   "teamIds": [
+    "3704",
+    "3703"
+   ],
+   "ground": "Library",
+   "result": "CCA Cardinals won by 186 Runs",
+   "summary": "CCA Cardinals: 196/3(25) BCA Vikings: 10/10(8)"
+  },
+  {
+   "matchId": "9639",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9639&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "BCA Spartans",
+    "CCA EB Dragons"
+   ],
+   "teamIds": [
+    "3702",
+    "3705"
+   ],
+   "ground": "Challenger",
+   "result": "BCA Spartans won by 39 Runs",
+   "summary": "BCA Spartans: 117/7(25) CCA EB Dragons: 78/10(23)"
+  },
+  {
+   "matchId": "9656",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9656&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "DCL Samurai",
+    "VKCA BOLTS"
+   ],
+   "teamIds": [
+    "3697",
+    "3700"
+   ],
+   "ground": "Emerald Glen",
+   "result": "VKCA BOLTS won by 7 Wickets",
+   "summary": "DCL Samurai: 50/10(25) VKCA BOLTS: 51/3(8.5)"
+  },
+  {
+   "matchId": "9644",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9644&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "Indus Avengers",
+    "CCA Samurais"
+   ],
+   "teamIds": [
+    "3698",
+    "3695"
+   ],
+   "ground": "Rancho 1",
+   "result": "Indus Avengers won by 28 Runs",
+   "summary": "Indus Avengers: 223/9(25) CCA Samurais: 195/5(25)"
+  },
+  {
+   "matchId": "9642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9642&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "Strikers Neurons",
+    "CKCA Giants"
+   ],
+   "teamIds": [
+    "3699",
+    "3696"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Neurons won by 51 Runs",
+   "summary": "Strikers Neurons: 163/4(25) CKCA Giants: 112/8(25)"
+  },
+  {
+   "matchId": "9630",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9630&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "BCA Challengers",
+    "CCA Panthers"
+   ],
+   "teamIds": [
+    "3693",
+    "3694"
+   ],
+   "ground": "Bowman",
+   "result": "BCA Challengers won by 5 Wickets",
+   "summary": "CCA Panthers: 164/3(25) BCA Challengers: 165/5(21.4)"
+  },
+  {
+   "matchId": "9647",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9647&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "CCA Tornadoes",
+    "CCA Yorkers"
+   ],
+   "teamIds": [
+    "3686",
+    "3687"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Yorkers won by 10 Wickets",
+   "summary": "CCA Tornadoes: 127/5(25) CCA Yorkers: 128/0(20.3)"
+  },
+  {
+   "matchId": "9646",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9646&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "VKCA Volts",
+    "Strikers Tensors"
+   ],
+   "teamIds": [
+    "3692",
+    "3690"
+   ],
+   "ground": "Irvington High",
+   "result": "VKCA Volts won by 60 Runs",
+   "summary": "VKCA Volts: 146/7(25) Strikers Tensors: 86/10(23.1)"
+  },
+  {
+   "matchId": "9637",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9637&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "USCA Islanders",
+    "BCA Hawks"
+   ],
+   "teamIds": [
+    "3691",
+    "3685"
+   ],
+   "ground": "Doxey Park",
+   "result": "BCA Hawks won by 3 Wickets",
+   "summary": "USCA Islanders: 103/6(25) BCA Hawks: 104/7(16.4)"
+  },
+  {
+   "matchId": "9629",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9629&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "SRCA Spartans",
+    "SRCA Daredevils"
+   ],
+   "teamIds": [
+    "3689",
+    "3688"
+   ],
+   "ground": "Quail Run",
+   "result": "SRCA Spartans won by 81 Runs",
+   "summary": "SRCA Spartans: 128/8(25) SRCA Daredevils: 47/10(21.3)"
+  },
+  {
+   "matchId": "9660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9660&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "Strikers Tigers",
+    "Knight Riders Dublin"
+   ],
+   "teamIds": [
+    "3675",
+    "3677"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Tigers won by 4 Wickets",
+   "summary": "Knight Riders Dublin: 142/5(25) Strikers Tigers: 143/6(20.5)"
+  },
+  {
+   "matchId": "9638",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9638&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "CCA EB Wolves",
+    "TCA Tigers"
+   ],
+   "teamIds": [
+    "3681",
+    "3678"
+   ],
+   "ground": "Library",
+   "result": "TCA Tigers won by 110 Runs",
+   "summary": "TCA Tigers: 188/9(25) CCA EB Wolves: 78/10(15.3)"
+  },
+  {
+   "matchId": "9636",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9636&clubId=40319",
+   "date": "2026-10-10",
+   "type": "League",
+   "teams": [
+    "Indus Prince",
+    "PCL Hawks"
+   ],
+   "teamIds": [
+    "3680",
+    "3676"
+   ],
+   "ground": "Rancho 2",
+   "result": "Indus Prince won by 9 Runs",
+   "summary": "Indus Prince: 171/9(25) PCL Hawks: 162/5(25)"
+  },
+  {
+   "matchId": "9590",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9590&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "BCA Vikings",
+    "VKCA COLTS"
+   ],
+   "teamIds": [
+    "3703",
+    "3708"
+   ],
+   "ground": "Challenger",
+   "result": "VKCA COLTS won by 23 Runs",
+   "summary": "VKCA COLTS: 121/10(25) BCA Vikings: 98/10(24.5)"
+  },
+  {
+   "matchId": "9589",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9589&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "CCA Cardinals",
+    "BCA Knights"
+   ],
+   "teamIds": [
+    "3704",
+    "3701"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Cardinals won by 121 Runs",
+   "summary": "CCA Cardinals: 185/4(25) BCA Knights: 64/10(19.3)"
+  },
+  {
+   "matchId": "9582",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9582&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "CCA EB Dragons",
+    "CFC Incredibles"
+   ],
+   "teamIds": [
+    "3705",
+    "3706"
+   ],
+   "ground": "Quail Run",
+   "result": "CCA EB Dragons won by 107 Runs",
+   "summary": "CCA EB Dragons: 150/7(25) CFC Incredibles: 43/8(10.1)"
+  },
+  {
+   "matchId": "9568",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9568&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "Strikers Scorchers",
+    "BCA Spartans"
+   ],
+   "teamIds": [
+    "3707",
+    "3702"
+   ],
+   "ground": "Sierramont",
+   "result": "BCA Spartans won by 32 Runs",
+   "summary": "BCA Spartans: 150/7(25) Strikers Scorchers: 118/10(22.4)"
+  },
+  {
+   "matchId": "9593",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9593&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "CCA Panthers",
+    "VKCA BOLTS"
+   ],
+   "teamIds": [
+    "3694",
+    "3700"
+   ],
+   "ground": "Library",
+   "result": "VKCA BOLTS won by 14 Runs",
+   "summary": "VKCA BOLTS: 105/10(25) CCA Panthers: 91/6(25)"
+  },
+  {
+   "matchId": "9591",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9591&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "BCA Challengers",
+    "DCL Samurai"
+   ],
+   "teamIds": [
+    "3693",
+    "3697"
+   ],
+   "ground": "Bowman",
+   "result": "BCA Challengers won by 8 Wickets",
+   "summary": "DCL Samurai: 112/10(23.1) BCA Challengers: 118/2(12.3)"
+  },
+  {
+   "matchId": "9585",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9585&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "CKCA Giants",
+    "CCA Samurais"
+   ],
+   "teamIds": [
+    "3696",
+    "3695"
+   ],
+   "ground": "Kathryn Hughes",
+   "result": "CCA Samurais won by 26 Runs",
+   "summary": "CCA Samurais: 126/5(25) CKCA Giants: 100/8(25)"
+  },
+  {
+   "matchId": "9564",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9564&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "Indus Avengers",
+    "Strikers Neurons"
+   ],
+   "teamIds": [
+    "3698",
+    "3699"
+   ],
+   "ground": "Rancho 1",
+   "result": "Strikers Neurons won by 51 Runs",
+   "summary": "Strikers Neurons: 220/5(25) Indus Avengers: 169/8(25)"
+  },
+  {
+   "matchId": "9594",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9594&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "Strikers Tensors",
+    "USCA Islanders"
+   ],
+   "teamIds": [
+    "3690",
+    "3691"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Tensors won by 154 Runs",
+   "summary": "Strikers Tensors: 227/1(25) USCA Islanders: 73/10(20.5)"
+  },
+  {
+   "matchId": "9569",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9569&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "CCA Yorkers",
+    "SRCA Spartans"
+   ],
+   "teamIds": [
+    "3687",
+    "3689"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Yorkers won by 3 Runs",
+   "summary": "CCA Yorkers: 146/7(25) SRCA Spartans: 143/9(25)"
+  },
+  {
+   "matchId": "9560",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9560&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "SRCA Daredevils",
+    "CCA Tornadoes"
+   ],
+   "teamIds": [
+    "3688",
+    "3686"
+   ],
+   "ground": "Ken Mercer",
+   "result": "SRCA Daredevils won by 20 Runs",
+   "summary": "SRCA Daredevils: 99/10(25) CCA Tornadoes: 79/10(23.5)"
+  },
+  {
+   "matchId": "9557",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9557&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "BCA Hawks",
+    "VKCA Volts"
+   ],
+   "teamIds": [
+    "3685",
+    "3692"
+   ],
+   "ground": "Bowman",
+   "result": "VKCA Volts won by 63 Runs",
+   "summary": "VKCA Volts: 217/7(25) BCA Hawks: 154/6(25)"
+  },
+  {
+   "matchId": "9592",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9592&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "PCL Hawks",
+    "TCA Tigers"
+   ],
+   "teamIds": [
+    "3676",
+    "3678"
+   ],
+   "ground": "Emerald Glen",
+   "result": "TCA Tigers won by 5 Wickets",
+   "summary": "PCL Hawks: 92/10(23.3) TCA Tigers: 93/5(17.4)"
+  },
+  {
+   "matchId": "9566",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9566&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "Indus Prince",
+    "Strikers Tigers"
+   ],
+   "teamIds": [
+    "3680",
+    "3675"
+   ],
+   "ground": "Rancho 2",
+   "result": "Indus Prince won by 27 Runs",
+   "summary": "Indus Prince: 178/3(25) Strikers Tigers: 151/9(25)"
+  },
+  {
+   "matchId": "9565",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9565&clubId=40319",
+   "date": "2026-10-03",
+   "type": "League",
+   "teams": [
+    "Knight Riders Dublin",
+    "USCA River Hawks"
+   ],
+   "teamIds": [
+    "3677",
+    "3679"
+   ],
+   "ground": "Birch Grove",
+   "result": "USCA River Hawks won by 16 Runs",
+   "summary": "USCA River Hawks: 122/9(24.4) Knight Riders Dublin: 106/10(21)"
+  },
+  {
+   "matchId": "9540",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9540&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "USCA River Hawks",
+    "CCA EB Wolves"
+   ],
+   "teamIds": [
+    "3679",
+    "3681"
+   ],
+   "ground": "Doxey Park",
+   "result": "CCA EB Wolves won by 6 Wickets",
+   "summary": "USCA River Hawks: 19/10(7.1) CCA EB Wolves: 21/4(4.2)"
+  },
+  {
+   "matchId": "9538",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9538&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "Strikers Tigers",
+    "PCL Hawks"
+   ],
+   "teamIds": [
+    "3675",
+    "3676"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Tigers won by 9 Wickets",
+   "summary": "PCL Hawks: 90/10(14.4) Strikers Tigers: 91/1(10.4)"
+  },
+  {
+   "matchId": "9535",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9535&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "Knight Riders Dublin",
+    "TCA Tigers"
+   ],
+   "teamIds": [
+    "3677",
+    "3678"
+   ],
+   "ground": "Birch Grove",
+   "result": "TCA Tigers won by 221 Runs",
+   "summary": "TCA Tigers: 292/3(25) Knight Riders Dublin: 71/10(20.4)"
+  },
+  {
+   "matchId": "9539",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9539&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "CCA Samurais",
+    "CCA EB Dragons"
+   ],
+   "teamIds": [
+    "3662",
+    "3671"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Samurais won by 219 Runs",
+   "summary": "CCA Samurais: 280/7(25) CCA EB Dragons: 61/9(18.5)"
+  },
+  {
+   "matchId": "9537",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9537&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "DCL Samurai",
+    "BCA Vikings"
+   ],
+   "teamIds": [
+    "3661",
+    "3672"
+   ],
+   "ground": "Quail Run",
+   "result": "DCL Samurai won by 9 Wickets",
+   "summary": "BCA Vikings: 36/10(16.3) DCL Samurai: 38/1(4.3)"
+  },
+  {
+   "matchId": "9536",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9536&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "VKCA BOLTS",
+    "BCA Knights"
+   ],
+   "teamIds": [
+    "3663",
+    "3670"
+   ],
+   "ground": "Irvington High",
+   "result": "VKCA BOLTS won by 74 Runs",
+   "summary": "VKCA BOLTS: 121/9(25) BCA Knights: 47/10(18.2)"
+  },
+  {
+   "matchId": "9534",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9534&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "SRCA Daredevils",
+    "VKCA COLTS"
+   ],
+   "teamIds": [
+    "3659",
+    "3674"
+   ],
+   "ground": "Quail Run",
+   "result": "SRCA Daredevils won by 10 Wickets",
+   "summary": "VKCA COLTS: 67/10(17) SRCA Daredevils: 68/0(9.1)"
+  },
+  {
+   "matchId": "9533",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9533&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "BCA Spartans",
+    "Indus Avengers"
+   ],
+   "teamIds": [
+    "3666",
+    "3667"
+   ],
+   "ground": "Challenger",
+   "result": "Indus Avengers won by 92 Runs",
+   "summary": "Indus Avengers: 156/7(25) BCA Spartans: 64/11(23.4)"
+  },
+  {
+   "matchId": "9532",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9532&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "USCA Islanders",
+    "CFC Incredibles"
+   ],
+   "teamIds": [
+    "3660",
+    "3673"
+   ],
+   "ground": "Doxey Park",
+   "result": "USCA Islanders won by 164 Runs",
+   "summary": "USCA Islanders: 240/8(25) CFC Incredibles: 76/9(25)"
+  },
+  {
+   "matchId": "9531",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9531&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "CCA Panthers",
+    "CCA Cardinals"
+   ],
+   "teamIds": [
+    "3665",
+    "3668"
+   ],
+   "ground": "Library",
+   "result": "CCA Panthers won by 17 Runs",
+   "summary": "CCA Panthers: 89/8(25) CCA Cardinals: 72/10(18.1)"
+  },
+  {
+   "matchId": "9530",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9530&clubId=40319",
+   "date": "2026-09-26",
+   "type": "League",
+   "teams": [
+    "Strikers Neurons",
+    "Strikers Scorchers"
+   ],
+   "teamIds": [
+    "3664",
+    "3669"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Neurons won by 161 Runs",
+   "summary": "Strikers Neurons: 238/5(25) Strikers Scorchers: 77/9(25)"
+  },
+  {
+   "matchId": "9526",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9526&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "PCL Hawks",
+    "CCA EB Wolves"
+   ],
+   "teamIds": [
+    "3676",
+    "3681"
+   ],
+   "ground": "Emerald Glen",
+   "result": "CCA EB Wolves won by 5 Wickets",
+   "summary": "PCL Hawks: 119/7(25) CCA EB Wolves: 121/5(24.5)"
+  },
+  {
+   "matchId": "9507",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9507&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "TCA Tigers",
+    "USCA River Hawks"
+   ],
+   "teamIds": [
+    "3678",
+    "3679"
+   ],
+   "ground": "MLK Hayward",
+   "result": "TCA Tigers won by 5 Wickets",
+   "summary": "USCA River Hawks: 70/10(11.3) TCA Tigers: 71/5(10.4)"
+  },
+  {
+   "matchId": "9506",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9506&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "Indus Prince",
+    "Knight Riders Dublin"
+   ],
+   "teamIds": [
+    "3680",
+    "3677"
+   ],
+   "ground": "Rancho 2",
+   "result": "Indus Prince won by 9 Wickets",
+   "summary": "Knight Riders Dublin: 87/7(25) Indus Prince: 88/1(10.1)"
+  },
+  {
+   "matchId": "9525",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9525&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "BCA Vikings",
+    "CCA Tornadoes"
+   ],
+   "teamIds": [
+    "3672",
+    "3656"
+   ],
+   "ground": "Challenger",
+   "result": "CCA Tornadoes won by 156 Runs",
+   "summary": "CCA Tornadoes: 204/5(25) BCA Vikings: 48/10(21.5)"
+  },
+  {
+   "matchId": "9524",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9524&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "CFC Incredibles",
+    "CKCA Giants"
+   ],
+   "teamIds": [
+    "3673",
+    "3657"
+   ],
+   "ground": "Quail Run",
+   "result": "CKCA Giants won by 10 Wickets",
+   "summary": "CFC Incredibles: 11/9(9) CKCA Giants: 12/0(0.5)"
+  },
+  {
+   "matchId": "9513",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9513&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "VKCA COLTS",
+    "BCA Challengers"
+   ],
+   "teamIds": [
+    "3674",
+    "3658"
+   ],
+   "ground": "Irvington High",
+   "result": "BCA Challengers won by 7 Wickets",
+   "summary": "VKCA COLTS: 68/10(18.3) BCA Challengers: 69/3(9.2)"
+  },
+  {
+   "matchId": "9503",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9503&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "CCA Cardinals",
+    "CCA Yorkers"
+   ],
+   "teamIds": [
+    "3668",
+    "3652"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Yorkers won by 124 Runs",
+   "summary": "CCA Yorkers: 226/4(25) CCA Cardinals: 102/10(25)"
+  },
+  {
+   "matchId": "9499",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9499&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "Indus Avengers",
+    "VKCA Volts"
+   ],
+   "teamIds": [
+    "3667",
+    "3651"
+   ],
+   "ground": "Rancho 1",
+   "result": "VKCA Volts won by 47 Runs",
+   "summary": "VKCA Volts: 196/5(25) Indus Avengers: 149/9(24.2)"
+  },
+  {
+   "matchId": "9497",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9497&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "BCA Knights",
+    "SRCA Spartans"
+   ],
+   "teamIds": [
+    "3670",
+    "3654"
+   ],
+   "ground": "Challenger",
+   "result": "SRCA Spartans won by 168 Runs",
+   "summary": "SRCA Spartans: 188/3(25) BCA Knights: 20/10(13)"
+  },
+  {
+   "matchId": "9496",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9496&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "CCA EB Dragons",
+    "Strikers Tensors"
+   ],
+   "teamIds": [
+    "3671",
+    "3655"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "Strikers Tensors won by 417 Runs",
+   "summary": "Strikers Tensors: 440/0(25) CCA EB Dragons: 23/11(11.3)"
+  },
+  {
+   "matchId": "9491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9491&clubId=40319",
+   "date": "2026-09-19",
+   "type": "League",
+   "teams": [
+    "Strikers Scorchers",
+    "BCA Hawks"
+   ],
+   "teamIds": [
+    "3669",
+    "3653"
+   ],
+   "ground": "Sierramont",
+   "result": "BCA Hawks won by 8 Wickets",
+   "summary": "Strikers Scorchers: 107/10(24) BCA Hawks: 111/2(15.2)"
+  },
+  {
+   "matchId": "9447",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9447&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "USCA River Hawks",
+    "Strikers Tigers"
+   ],
+   "teamIds": [
+    "3679",
+    "3675"
+   ],
+   "ground": "Doxey Park",
+   "result": "Strikers Tigers won by 5 Wickets",
+   "summary": "USCA River Hawks: 136/4(25) Strikers Tigers: 138/5(21.2)"
+  },
+  {
+   "matchId": "9446",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9446&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "CCA EB Wolves",
+    "Knight Riders Dublin"
+   ],
+   "teamIds": [
+    "3681",
+    "3677"
+   ],
+   "ground": "Library",
+   "result": "CCA EB Wolves won by 41 Runs",
+   "summary": "CCA EB Wolves: 115/10(22.2) Knight Riders Dublin: 74/10(18.1)"
+  },
+  {
+   "matchId": "9474",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9474&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "Strikers Tensors",
+    "CCA Samurais"
+   ],
+   "teamIds": [
+    "3655",
+    "3662"
+   ],
+   "ground": "Sierramont",
+   "result": "It is a Tie",
+   "summary": "Strikers Tensors: 171/3(25) CCA Samurais: 171/7(25)"
+  },
+  {
+   "matchId": "9472",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9472&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "BCA Challengers",
+    "SRCA Daredevils"
+   ],
+   "teamIds": [
+    "3658",
+    "3659"
+   ],
+   "ground": "Bowman",
+   "result": "SRCA Daredevils won by 8 Wickets",
+   "summary": "BCA Challengers: 115/10(25) SRCA Daredevils: 116/2(15.1)"
+  },
+  {
+   "matchId": "9464",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9464&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "CKCA Giants",
+    "USCA Islanders"
+   ],
+   "teamIds": [
+    "3657",
+    "3660"
+   ],
+   "ground": "MLK Hayward",
+   "result": "USCA Islanders won by 58 Runs",
+   "summary": "USCA Islanders: 290/2(25) CKCA Giants: 232/5(25)"
+  },
+  {
+   "matchId": "9459",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9459&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "VKCA Volts",
+    "BCA Spartans"
+   ],
+   "teamIds": [
+    "3651",
+    "3666"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Volts won by 7 Wickets",
+   "summary": "BCA Spartans: 91/10(19.2) VKCA Volts: 93/3(11.3)"
+  },
+  {
+   "matchId": "9441",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9441&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "CCA Tornadoes",
+    "DCL Samurai"
+   ],
+   "teamIds": [
+    "3656",
+    "3661"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Tornadoes won by 134 Runs",
+   "summary": "CCA Tornadoes: 238/4(25) DCL Samurai: 104/9(25)"
+  },
+  {
+   "matchId": "9440",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9440&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "SRCA Spartans",
+    "VKCA BOLTS"
+   ],
+   "teamIds": [
+    "3654",
+    "3663"
+   ],
+   "ground": "Quail Run",
+   "result": "SRCA Spartans won by 9 Wickets",
+   "summary": "VKCA BOLTS: 43/10(16) SRCA Spartans: 45/1(5.2)"
+  },
+  {
+   "matchId": "9438",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9438&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "CCA Yorkers",
+    "CCA Panthers"
+   ],
+   "teamIds": [
+    "3652",
+    "3665"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Yorkers won by 10 Wickets",
+   "summary": "CCA Panthers: 67/10(20.1) CCA Yorkers: 68/0(5.5)"
+  },
+  {
+   "matchId": "9437",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9437&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "BCA Hawks",
+    "Strikers Neurons"
+   ],
+   "teamIds": [
+    "3653",
+    "3664"
+   ],
+   "ground": "Bowman",
+   "result": "BCA Hawks won by 8 Wickets",
+   "summary": "Strikers Neurons: 161/6(25) BCA Hawks: 165/2(24.2)"
+  },
+  {
+   "matchId": "8941",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8941&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Bay Area Challengers",
+    "Bay Area Warriors"
+   ],
+   "teamIds": [
+    "3380",
+    "3381"
+   ],
+   "ground": "Tarika, Morgan Hill, CA",
+   "result": "Bay Area Warriors won by 70 Runs",
+   "summary": "Bay Area Warriors: 216/10(39.4) Bay Area Challengers: 146/10(32.4)"
+  },
+  {
+   "matchId": "8917",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8917&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Bay Area Titans",
+    "Bay Area Unicorns"
+   ],
+   "teamIds": [
+    "3378",
+    "3379"
+   ],
+   "ground": "Emerald Glen",
+   "result": "Bay Area Titans won by 14 Runs",
+   "summary": "Bay Area Titans: 206/7(30) Bay Area Unicorns: 192/8(30)"
+  },
+  {
+   "matchId": "8439",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8439&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Orange",
+    "Yellow"
+   ],
+   "teamIds": [
+    "3235",
+    "3238"
+   ],
+   "ground": "Dilworth",
+   "result": "Yellow won by 6 Wickets",
+   "summary": "Orange: 89/10(20.5) Yellow: 92/4(8.5)"
+  },
+  {
+   "matchId": "8401",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8401&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Blue"
+   ],
+   "teamIds": [
+    "3237",
+    "3236"
+   ],
+   "ground": "Dilworth",
+   "result": "Blue won by 6 Wickets",
+   "summary": "Green: 196/5(30) Blue: 197/4(27.3)"
+  },
+  {
+   "matchId": "8362",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8362&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Orange",
+    "Green"
+   ],
+   "teamIds": [
+    "3235",
+    "3237"
+   ],
+   "ground": "Dilworth",
+   "result": "Green won by 7 Wickets",
+   "summary": "Orange: 149/8(30) Green: 150/3(23.3)"
+  },
+  {
+   "matchId": "8325",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8325&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Yellow",
+    "Blue"
+   ],
+   "teamIds": [
+    "3238",
+    "3236"
+   ],
+   "ground": "Dilworth",
+   "result": "Blue won by 39 Runs",
+   "summary": "Blue: 175/8(30) Yellow: 136/11(23.1)"
+  },
+  {
+   "matchId": "8251",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8251&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Yellow",
+    "Orange"
+   ],
+   "teamIds": [
+    "3238",
+    "3235"
+   ],
+   "ground": "Dilworth",
+   "result": "Orange won by 2 Wickets",
+   "summary": "Yellow: 179/10(30) Orange: 180/8(27)"
+  },
+  {
+   "matchId": "8198",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8198&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Green"
+   ],
+   "teamIds": [
+    "3236",
+    "3237"
+   ],
+   "ground": "Dilworth",
+   "result": "Green won by 1 Wicket",
+   "summary": "Blue: 160/8(30) Green: 161/9(29.5)"
+  },
+  {
+   "matchId": "8225",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8225&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Green"
+   ],
+   "teamIds": [
+    "3193",
+    "3195"
+   ],
+   "ground": "FSP",
+   "result": "Green won by 4 Wickets (D/L)",
+   "summary": "Red: 144/8(38) Green: 150/6(34)"
+  },
+  {
+   "matchId": "8219",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8219&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Yellow",
+    "Blue"
+   ],
+   "teamIds": [
+    "3196",
+    "3194"
+   ],
+   "ground": "Easterbrook",
+   "result": "Yellow: 213/6 (40/40 ov) Blue: 103/12 (27.3/40 ov)",
+   "summary": "Yellow: 213/6(40) Blue: 103/12(27.3) Live"
+  },
+  {
+   "matchId": "8139",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8139&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Yellow"
+   ],
+   "teamIds": [
+    "3237",
+    "3238"
+   ],
+   "ground": "Dilworth",
+   "result": "Yellow won by 4 Wickets (D/L)",
+   "summary": "Green: 153/7(30) Yellow: 165/6(26)"
+  },
+  {
+   "matchId": "8082",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8082&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Orange",
+    "Blue"
+   ],
+   "teamIds": [
+    "3235",
+    "3236"
+   ],
+   "ground": "Dilworth",
+   "result": "Blue won by 28 Runs",
+   "summary": "Blue: 167/5(30) Orange: 139/7(30)"
+  },
+  {
+   "matchId": "8104",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8104&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Red"
+   ],
+   "teamIds": [
+    "3194",
+    "3193"
+   ],
+   "ground": "FSP",
+   "result": "Blue won by 110 Runs",
+   "summary": "Blue: 213/7(40) Red: 103/11(36.2)"
+  },
+  {
+   "matchId": "8098",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8098&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Yellow"
+   ],
+   "teamIds": [
+    "3195",
+    "3196"
+   ],
+   "ground": "Easterbrook",
+   "result": "Green won by 26 Runs",
+   "summary": "Green: 189/14(39.1) Yellow: 163/14(38.3)"
+  },
+  {
+   "matchId": "7999",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7999&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Yellow"
+   ],
+   "teamIds": [
+    "3194",
+    "3196"
+   ],
+   "ground": "FSP",
+   "result": "Yellow won by 31 Runs (D/L)",
+   "summary": "Yellow: 108/10(38.1) Blue: 128/10(26.2)"
+  },
+  {
+   "matchId": "7994",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7994&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Red"
+   ],
+   "teamIds": [
+    "3195",
+    "3193"
+   ],
+   "ground": "Easterbrook",
+   "result": "Red won by 111 Runs",
+   "summary": "Red: 187/7(40) Green: 76/12(27)"
+  },
+  {
+   "matchId": "7905",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7905&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Yellow",
+    "Green"
+   ],
+   "teamIds": [
+    "3196",
+    "3195"
+   ],
+   "ground": "FSP",
+   "result": "Green won by 31 Runs (D/L)",
+   "summary": "Green: 130/10(34.2) Yellow: 149/8(34.4)"
+  },
+  {
+   "matchId": "7900",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7900&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "3193",
+    "3194"
+   ],
+   "ground": "Easterbrook",
+   "result": "Blue won by 89 Runs",
+   "summary": "Blue: 179/10(40) Red: 90/11(29.4)"
+  },
+  {
+   "matchId": "7576",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7576&clubId=40319",
+   "date": "2026-04-26",
+   "type": "3rd Position",
+   "teams": [
+    "BCA BRAVEHEARTS",
+    "CCA EB TITANS"
+   ],
+   "teamIds": [
+    "2827",
+    "2834"
+   ],
+   "ground": "FCP",
+   "result": "BCA BRAVEHEARTS won by 73 Runs",
+   "summary": "BCA BRAVEHEARTS: 301/5(40) CCA EB TITANS: 228/8(40)"
+  },
+  {
+   "matchId": "7574",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7574&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "BCA WARRIORS",
+    "CCA CENTURIONS"
+   ],
+   "teamIds": [
+    "2833",
+    "2829"
+   ],
+   "ground": "Quail Run",
+   "result": "CCA CENTURIONS won by 8 Wickets",
+   "summary": "BCA WARRIORS: 126/7(40) CCA CENTURIONS: 127/2(28.3)"
+  },
+  {
+   "matchId": "7607",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7607&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "BCA FIRES",
+    "INDUS DUKES"
+   ],
+   "teamIds": [
+    "2839",
+    "2843"
+   ],
+   "ground": "Bowman",
+   "result": "INDUS DUKES won by 1 Run",
+   "summary": "INDUS DUKES: 147/10(23.4) BCA FIRES: 146/3(30)"
+  },
+  {
+   "matchId": "7606",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7606&clubId=40319",
+   "date": "2026-04-26",
+   "type": "3rd Position",
+   "teams": [
+    "CCA TORNADOES",
+    "CCA STARS"
+   ],
+   "teamIds": [
+    "2845",
+    "2841"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA STARS won by 68 Runs",
+   "summary": "CCA STARS: 174/8(30) CCA TORNADOES: 106/9(30)"
+  },
+  {
+   "matchId": "7605",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7605&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "DSCA PANTHERS",
+    "STRIKERS JAGUARS"
+   ],
+   "teamIds": [
+    "2842",
+    "2846"
+   ],
+   "ground": "FSP",
+   "result": "STRIKERS JAGUARS won by 55 Runs",
+   "summary": "STRIKERS JAGUARS: 180/7(30) DSCA PANTHERS: 125/10(29.4)"
+  },
+  {
+   "matchId": "7584",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7584&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Final",
+   "teams": [
+    "SRCA WARRIORS",
+    "BCA MAVERICKS"
+   ],
+   "teamIds": [
+    "2844",
+    "2840"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA WARRIORS won by 8 Wickets",
+   "summary": "BCA MAVERICKS: 138/7(30) SRCA WARRIORS: 139/2(22.1)"
+  },
+  {
+   "matchId": "7595",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7595&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "CCA THUNDERS",
+    "VKCA VIKINGS"
+   ],
+   "teamIds": [
+    "2849",
+    "2854"
+   ],
+   "ground": "GRMS",
+   "result": "VKCA VIKINGS won by 2 Runs",
+   "summary": "VKCA VIKINGS: 125/6(30) CCA THUNDERS: 123/9(30)"
+  },
+  {
+   "matchId": "7571",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7571&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "STRIKERS LIONS",
+    "BCA BOLTS"
+   ],
+   "teamIds": [
+    "2850",
+    "2847"
+   ],
+   "ground": "Fair Oaks",
+   "result": "STRIKERS LIONS won by 3 Wickets",
+   "summary": "BCA BOLTS: 145/6(30) STRIKERS LIONS: 148/7(27.1)"
+  },
+  {
+   "matchId": "7560",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7560&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "DSCA TIGERS",
+    "CCA EB PANTHERS"
+   ],
+   "teamIds": [
+    "2853",
+    "2851"
+   ],
+   "ground": "Steam",
+   "result": "CCA EB PANTHERS won by 23 Runs",
+   "summary": "CCA EB PANTHERS: 100/8(30) DSCA TIGERS: 77/10(27.1)"
+  },
+  {
+   "matchId": "7553",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7553&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "CCA COMETS",
+    "DCL LEGENDS"
+   ],
+   "teamIds": [
+    "2848",
+    "2852"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA COMETS won by 125 Runs",
+   "summary": "CCA COMETS: 191/6(30.1) DCL LEGENDS: 66/10(19.3)"
+  },
+  {
+   "matchId": "7609",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7609&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "STRIKERS UNITED",
+    "YJCA TITANS"
+   ],
+   "teamIds": [
+    "2858",
+    "2860"
+   ],
+   "ground": "Steam",
+   "result": "STRIKERS UNITED won by 4 Wickets",
+   "summary": "YJCA TITANS: 105/6(30) STRIKERS UNITED: 106/6(26)"
+  },
+  {
+   "matchId": "7603",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7603&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "USCA ISLANDERS",
+    "BCA CRICKINGDOM"
+   ],
+   "teamIds": [
+    "2862",
+    "2861"
+   ],
+   "ground": "Doxey Park",
+   "result": "BCA CRICKINGDOM won by 6 Wickets",
+   "summary": "USCA ISLANDERS: 127/8(30) BCA CRICKINGDOM: 128/4(19.1)"
+  },
+  {
+   "matchId": "7562",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7562&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "CCA LIGHTNING",
+    "USCA RIVER HAWKS"
+   ],
+   "teamIds": [
+    "2856",
+    "2859"
+   ],
+   "ground": "Doxey Park",
+   "result": "CCA LIGHTNING won by 5 Wickets",
+   "summary": "USCA RIVER HAWKS: 52/9(25.2) CCA LIGHTNING: 53/5(17.1)"
+  },
+  {
+   "matchId": "7555",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7555&clubId=40319",
+   "date": "2026-04-26",
+   "type": "Eliminator",
+   "teams": [
+    "ASCE SPARTANS",
+    "CFC ROYALS"
+   ],
+   "teamIds": [
+    "2855",
+    "2857"
+   ],
+   "ground": "Bowman",
+   "result": "CFC ROYALS won by 34 Runs",
+   "summary": "CFC ROYALS: 167/8(30) ASCE SPARTANS: 133/10(27.4)"
+  },
+  {
+   "matchId": "7486",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7486&clubId=40319",
+   "date": "2026-04-25",
+   "type": "Eliminator",
+   "teams": [
+    "INDUS TITANS",
+    "STRIKERS FUSION"
+   ],
+   "teamIds": [
+    "2835",
+    "2837"
+   ],
+   "ground": "Northgate",
+   "result": "INDUS TITANS won by 165 Runs",
+   "summary": "INDUS TITANS: 234/8(40) STRIKERS FUSION: 69/10(24.5)"
+  },
+  {
+   "matchId": "7484",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7484&clubId=40319",
+   "date": "2026-04-25",
+   "type": "Eliminator",
+   "teams": [
+    "VKCA VIKINGS",
+    "SRCA STARS"
+   ],
+   "teamIds": [
+    "2838",
+    "2836"
+   ],
+   "ground": "FCP",
+   "result": "SRCA STARS won by 118 Runs",
+   "summary": "SRCA STARS: 244/7(40) VKCA VIKINGS: 126/10(31.5)"
+  },
+  {
+   "matchId": "7487",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7487&clubId=40319",
+   "date": "2026-04-25",
+   "type": "Eliminator",
+   "teams": [
+    "DCL LEGENDS",
+    "STRIKERS KNIGHTS"
+   ],
+   "teamIds": [
+    "2830",
+    "2831"
+   ],
+   "ground": "FSP",
+   "result": "DCL LEGENDS won by 3 Wickets",
+   "summary": "STRIKERS KNIGHTS: 133/10(40) DCL LEGENDS: 134/7(28)"
+  },
+  {
+   "matchId": "7485",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7485&clubId=40319",
+   "date": "2026-04-25",
+   "type": "Final",
+   "teams": [
+    "BCA BRAVOS",
+    "STRIKERS VIKINGS"
+   ],
+   "teamIds": [
+    "2828",
+    "2832"
+   ],
+   "ground": "Steam",
+   "result": "BCA BRAVOS won by 31 Runs",
+   "summary": "BCA BRAVOS: 108/10(35.3) STRIKERS VIKINGS: 77/10(36.4)"
+  },
+  {
+   "matchId": "7516",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7516&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "CCA EB PANTHERS",
+    "STRIKERS LIONS"
+   ],
+   "teamIds": [
+    "2851",
+    "2850"
+   ],
+   "ground": "Cupertino Library",
+   "result": "STRIKERS LIONS won by 6 Wickets",
+   "summary": "CCA EB PANTHERS: 76/11(26.2) STRIKERS LIONS: 77/4(15.4)"
+  },
+  {
+   "matchId": "7511",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7511&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "VKCA VIKINGS",
+    "BCA BOLTS"
+   ],
+   "teamIds": [
+    "2854",
+    "2847"
+   ],
+   "ground": "FCP",
+   "result": "BCA BOLTS won by 69 Runs",
+   "summary": "BCA BOLTS: 119/8(30) VKCA VIKINGS: 50/8(20.5)"
+  },
+  {
+   "matchId": "7514",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7514&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "USCA RIVER HAWKS",
+    "STRIKERS UNITED"
+   ],
+   "teamIds": [
+    "2859",
+    "2858"
+   ],
+   "ground": "Doxey Park",
+   "result": "STRIKERS UNITED won by 110 Runs",
+   "summary": "STRIKERS UNITED: 158/6(30) USCA RIVER HAWKS: 48/10(18.4)"
+  },
+  {
+   "matchId": "7419",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7419&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "INDUS TITANS",
+    "STRIKERS FUSION"
+   ],
+   "teamIds": [
+    "2835",
+    "2837"
+   ],
+   "ground": "Rancho 1",
+   "result": "INDUS TITANS won by 91 Runs",
+   "summary": "INDUS TITANS: 162/10(22.4) STRIKERS FUSION: 71/8(24.3)"
+  },
+  {
+   "matchId": "7395",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7395&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "SRCA STARS",
+    "VKCA VIKINGS"
+   ],
+   "teamIds": [
+    "2836",
+    "2838"
+   ],
+   "ground": "Emerald Glen",
+   "result": "SRCA STARS won by 16 Runs",
+   "summary": "SRCA STARS: 168/8(40) VKCA VIKINGS: 152/10(38.5)"
+  },
+  {
+   "matchId": "7404",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7404&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "STRIKERS KNIGHTS",
+    "CCA EB TITANS"
+   ],
+   "teamIds": [
+    "2831",
+    "2834"
+   ],
+   "ground": "Steam",
+   "result": "CCA EB TITANS won by 71 Runs",
+   "summary": "CCA EB TITANS: 199/4(40) STRIKERS KNIGHTS: 128/10(34)"
+  },
+  {
+   "matchId": "7403",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7403&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "STRIKERS VIKINGS",
+    "CCA CENTURIONS"
+   ],
+   "teamIds": [
+    "2832",
+    "2829"
+   ],
+   "ground": "Davis",
+   "result": "It is a Tie",
+   "summary": "CCA CENTURIONS: 227/3(40) STRIKERS VIKINGS: 227/10(39.5)"
+  },
+  {
+   "matchId": "7425",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7425&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "BCA FIRES",
+    "CCA TORNADOES"
+   ],
+   "teamIds": [
+    "2839",
+    "2845"
+   ],
+   "ground": "Bowman",
+   "result": "CCA TORNADOES won by 129 Runs",
+   "summary": "CCA TORNADOES: 223/4(30) BCA FIRES: 94/10(29.2)"
+  },
+  {
+   "matchId": "7423",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7423&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "SRCA WARRIORS",
+    "DSCA PANTHERS"
+   ],
+   "teamIds": [
+    "2844",
+    "2842"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA WARRIORS won by 9 Wickets",
+   "summary": "DSCA PANTHERS: 149/6(30) SRCA WARRIORS: 150/1(20.4)"
+  },
+  {
+   "matchId": "7388",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7388&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "BCA MAVERICKS",
+    "INDUS DUKES"
+   ],
+   "teamIds": [
+    "2840",
+    "2843"
+   ],
+   "ground": "Bowman",
+   "result": "BCA MAVERICKS won by 7 Wickets",
+   "summary": "INDUS DUKES: 44/10(23.2) BCA MAVERICKS: 45/3(8.1)"
+  },
+  {
+   "matchId": "7383",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7383&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "STRIKERS JAGUARS",
+    "CCA STARS"
+   ],
+   "teamIds": [
+    "2846",
+    "2841"
+   ],
+   "ground": "Sierramont",
+   "result": "CCA STARS won by 57 Runs",
+   "summary": "CCA STARS: 187/8(30) STRIKERS JAGUARS: 130/8(30)"
+  },
+  {
+   "matchId": "7426",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7426&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "STRIKERS LIONS",
+    "DCL LEGENDS"
+   ],
+   "teamIds": [
+    "2850",
+    "2852"
+   ],
+   "ground": "Sierramont",
+   "result": "DCL LEGENDS won by 4 Runs",
+   "summary": "DCL LEGENDS: 137/6(30) STRIKERS LIONS: 133/9(30)"
+  },
+  {
+   "matchId": "7422",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7422&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "DSCA TIGERS",
+    "BCA BOLTS"
+   ],
+   "teamIds": [
+    "2853",
+    "2847"
+   ],
+   "ground": "FSP",
+   "result": "BCA BOLTS won by 6 Runs",
+   "summary": "BCA BOLTS: 121/10(29.5) DSCA TIGERS: 115/10(29.1)"
+  },
+  {
+   "matchId": "7392",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7392&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "VKCA VIKINGS",
+    "CCA COMETS"
+   ],
+   "teamIds": [
+    "2854",
+    "2848"
+   ],
+   "ground": "FCP",
+   "result": "CCA COMETS won by 159 Runs",
+   "summary": "CCA COMETS: 239/5(30) VKCA VIKINGS: 80/9(21.1)"
+  },
+  {
+   "matchId": "7389",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7389&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "CCA EB PANTHERS",
+    "CCA THUNDERS"
+   ],
+   "teamIds": [
+    "2851",
+    "2849"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA THUNDERS won by 105 Runs",
+   "summary": "CCA THUNDERS: 193/6(30) CCA EB PANTHERS: 88/10(26.2)"
+  },
+  {
+   "matchId": "7427",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7427&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "STRIKERS UNITED",
+    "USCA ISLANDERS"
+   ],
+   "teamIds": [
+    "2858",
+    "2862"
+   ],
+   "ground": "Doxey Park",
+   "result": "STRIKERS UNITED won by 6 Wickets",
+   "summary": "USCA ISLANDERS: 91/10(26.1) STRIKERS UNITED: 92/4(21.2)"
+  },
+  {
+   "matchId": "7421",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7421&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "CCA LIGHTNING",
+    "YJCA TITANS"
+   ],
+   "teamIds": [
+    "2856",
+    "2860"
+   ],
+   "ground": "Dilworth",
+   "result": "YJCA TITANS won by 5 Wickets",
+   "summary": "CCA LIGHTNING: 137/9(30) YJCA TITANS: 140/5(28)"
+  },
+  {
+   "matchId": "7394",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7394&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "BCA CRICKINGDOM",
+    "CFC ROYALS"
+   ],
+   "teamIds": [
+    "2861",
+    "2857"
+   ],
+   "ground": "Fair Oaks",
+   "result": "CFC ROYALS won by 164 Runs",
+   "summary": "CFC ROYALS: 195/9(30) BCA CRICKINGDOM: 31/10(8.5)"
+  },
+  {
+   "matchId": "7390",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7390&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "USCA RIVER HAWKS",
+    "ASCE SPARTANS"
+   ],
+   "teamIds": [
+    "2859",
+    "2855"
+   ],
+   "ground": "Doxey Park",
+   "result": "ASCE SPARTANS won by 209 Runs",
+   "summary": "ASCE SPARTANS: 252/3(30) USCA RIVER HAWKS: 43/10(19.5)"
+  },
+  {
+   "matchId": "7350",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7350&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "INDUS TITANS",
+    "SRCA STARS"
+   ],
+   "teamIds": [
+    "2835",
+    "2836"
+   ],
+   "ground": "Rancho 1",
+   "result": "INDUS TITANS won by 6 Wickets",
+   "summary": "SRCA STARS: 215/10(35) INDUS TITANS: 220/4(34)"
+  },
+  {
+   "matchId": "7333",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7333&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "STRIKERS FUSION",
+    "VKCA VIKINGS"
+   ],
+   "teamIds": [
+    "2837",
+    "2838"
+   ],
+   "ground": "Steam",
+   "result": "VKCA VIKINGS won by 146 Runs",
+   "summary": "VKCA VIKINGS: 205/7(40) STRIKERS FUSION: 59/9(20.2)"
+  },
+  {
+   "matchId": "7330",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7330&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "DCL LEGENDS",
+    "BCA WARRIORS"
+   ],
+   "teamIds": [
+    "2830",
+    "2833"
+   ],
+   "ground": "FSP",
+   "result": "DCL LEGENDS won by 169 Runs",
+   "summary": "DCL LEGENDS: 286/5(40) BCA WARRIORS: 117/10(35.2)"
+  },
+  {
+   "matchId": "7329",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7329&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "BCA BRAVOS",
+    "BCA BRAVEHEARTS"
+   ],
+   "teamIds": [
+    "2828",
+    "2827"
+   ],
+   "ground": "Wilson Field",
+   "result": "BCA BRAVOS won by 40 Runs",
+   "summary": "BCA BRAVOS: 169/8(40) BCA BRAVEHEARTS: 129/10(36.2)"
+  },
+  {
+   "matchId": "7328",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7328&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "CCA CENTURIONS",
+    "CCA EB TITANS"
+   ],
+   "teamIds": [
+    "2829",
+    "2834"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA EB TITANS won by 3 Wickets",
+   "summary": "CCA CENTURIONS: 177/10(38.3) CCA EB TITANS: 179/7(36.1)"
+  },
+  {
+   "matchId": "7326",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7326&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "STRIKERS KNIGHTS",
+    "STRIKERS VIKINGS"
+   ],
+   "teamIds": [
+    "2831",
+    "2832"
+   ],
+   "ground": "Sierramont",
+   "result": "STRIKERS VIKINGS won by 125 Runs",
+   "summary": "STRIKERS VIKINGS: 268/6(40) STRIKERS KNIGHTS: 143/10(40)"
+  },
+  {
+   "matchId": "7354",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7354&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "INDUS DUKES",
+    "CCA STARS"
+   ],
+   "teamIds": [
+    "2843",
+    "2841"
+   ],
+   "ground": "Sierramont",
+   "result": "CCA STARS won by 39 Runs",
+   "summary": "CCA STARS: 170/6(30) INDUS DUKES: 131/6(30)"
+  },
+  {
+   "matchId": "7314",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7314&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "BCA FIRES",
+    "SRCA WARRIORS"
+   ],
+   "teamIds": [
+    "2839",
+    "2844"
+   ],
+   "ground": "Challenger",
+   "result": "SRCA WARRIORS won by 10 Wickets",
+   "summary": "BCA FIRES: 45/11(19.2) SRCA WARRIORS: 48/0(3)"
+  },
+  {
+   "matchId": "7312",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7312&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "DSCA PANTHERS",
+    "CCA TORNADOES"
+   ],
+   "teamIds": [
+    "2842",
+    "2845"
+   ],
+   "ground": "Emerald Glen",
+   "result": "DSCA PANTHERS won by 24 Runs",
+   "summary": "DSCA PANTHERS: 102/10(28.4) CCA TORNADOES: 78/10(29.1)"
+  },
+  {
+   "matchId": "7304",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7304&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "STRIKERS JAGUARS",
+    "BCA MAVERICKS"
+   ],
+   "teamIds": [
+    "2846",
+    "2840"
+   ],
+   "ground": "Sierramont",
+   "result": "BCA MAVERICKS won by 45 Runs",
+   "summary": "BCA MAVERICKS: 113/9(30) STRIKERS JAGUARS: 68/10(23.1)"
+  },
+  {
+   "matchId": "7361",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7361&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "CCA THUNDERS",
+    "DCL LEGENDS"
+   ],
+   "teamIds": [
+    "2849",
+    "2852"
+   ],
+   "ground": "Emerald Glen",
+   "result": "It is a Tie",
+   "summary": "CCA THUNDERS: 119/10(29.3) DCL LEGENDS: 119/9(30)"
+  },
+  {
+   "matchId": "7358",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7358&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "CCA COMETS",
+    "DSCA TIGERS"
+   ],
+   "teamIds": [
+    "2848",
+    "2853"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA COMETS won by 81 Runs",
+   "summary": "CCA COMETS: 151/2(30) DSCA TIGERS: 70/10(21.1)"
+  },
+  {
+   "matchId": "7356",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7356&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "ASCE SPARTANS",
+    "USCA ISLANDERS"
+   ],
+   "teamIds": [
+    "2855",
+    "2862"
+   ],
+   "ground": "Challenger",
+   "result": "ASCE SPARTANS won by 28 Runs",
+   "summary": "ASCE SPARTANS: 110/10(27.3) USCA ISLANDERS: 82/10(26.1)"
+  },
+  {
+   "matchId": "7355",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7355&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "CCA LIGHTNING",
+    "BCA CRICKINGDOM"
+   ],
+   "teamIds": [
+    "2856",
+    "2861"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "BCA CRICKINGDOM won by 7 Wickets",
+   "summary": "CCA LIGHTNING: 99/9(24) BCA CRICKINGDOM: 100/3(11.3)"
+  },
+  {
+   "matchId": "7332",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7332&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "CFC ROYALS",
+    "YJCA TITANS"
+   ],
+   "teamIds": [
+    "2857",
+    "2860"
+   ],
+   "ground": "Quail Run",
+   "result": "CFC ROYALS won by 45 Runs",
+   "summary": "CFC ROYALS: 161/9(30) YJCA TITANS: 116/9(30)"
+  },
+  {
+   "matchId": "7228",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7228&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "BCA BRAVEHEARTS",
+    "DCL LEGENDS"
+   ],
+   "teamIds": [
+    "2827",
+    "2830"
+   ],
+   "ground": "Tracy",
+   "result": "BCA BRAVEHEARTS won by 44 Runs",
+   "summary": "BCA BRAVEHEARTS: 148/7(40) DCL LEGENDS: 104/8(30.5)"
+  },
+  {
+   "matchId": "7226",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7226&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "BCA BRAVOS",
+    "BCA WARRIORS"
+   ],
+   "teamIds": [
+    "2828",
+    "2833"
+   ],
+   "ground": "Steam",
+   "result": "BCA BRAVOS won by 229 Runs",
+   "summary": "BCA BRAVOS: 314/3(40) BCA WARRIORS: 85/10(39)"
+  },
+  {
+   "matchId": "7190",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7190&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "BCA FIRES",
+    "DSCA PANTHERS"
+   ],
+   "teamIds": [
+    "2839",
+    "2842"
+   ],
+   "ground": "Bowman",
+   "result": "DSCA PANTHERS won by 9 Wickets",
+   "summary": "BCA FIRES: 97/10(29.1) DSCA PANTHERS: 101/1(9)"
+  },
+  {
+   "matchId": "7189",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7189&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "CCA STARS",
+    "BCA MAVERICKS"
+   ],
+   "teamIds": [
+    "2841",
+    "2840"
+   ],
+   "ground": "Dilworth",
+   "result": "BCA MAVERICKS won by 5 Wickets",
+   "summary": "CCA STARS: 172/7(30) BCA MAVERICKS: 173/5(30)"
+  },
+  {
+   "matchId": "7187",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7187&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "INDUS DUKES",
+    "STRIKERS JAGUARS"
+   ],
+   "teamIds": [
+    "2843",
+    "2846"
+   ],
+   "ground": "Rancho 1",
+   "result": "STRIKERS JAGUARS won by 131 Runs",
+   "summary": "STRIKERS JAGUARS: 270/7(30) INDUS DUKES: 139/10(23.5)"
+  },
+  {
+   "matchId": "7179",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7179&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "CCA TORNADOES",
+    "SRCA WARRIORS"
+   ],
+   "teamIds": [
+    "2845",
+    "2844"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA TORNADOES won by 7 Runs",
+   "summary": "CCA TORNADOES: 170/3(30) SRCA WARRIORS: 163/5(30)"
+  },
+  {
+   "matchId": "7184",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7184&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "DCL LEGENDS",
+    "CCA EB PANTHERS"
+   ],
+   "teamIds": [
+    "2852",
+    "2851"
+   ],
+   "ground": "Emerald Glen",
+   "result": "DCL LEGENDS won by 7 Wickets",
+   "summary": "CCA EB PANTHERS: 105/9(29.3) DCL LEGENDS: 106/3(16.1)"
+  },
+  {
+   "matchId": "7182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7182&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "DSCA TIGERS",
+    "VKCA VIKINGS"
+   ],
+   "teamIds": [
+    "2853",
+    "2854"
+   ],
+   "ground": "Sierramont",
+   "result": "VKCA VIKINGS won by 93 Runs",
+   "summary": "VKCA VIKINGS: 193/4(30) DSCA TIGERS: 100/8(30)"
+  },
+  {
+   "matchId": "7174",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7174&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "CCA THUNDERS",
+    "STRIKERS LIONS"
+   ],
+   "teamIds": [
+    "2849",
+    "2850"
+   ],
+   "ground": "Dilworth",
+   "result": "STRIKERS LIONS won by 35 Runs",
+   "summary": "STRIKERS LIONS: 221/8(30) CCA THUNDERS: 186/6(30)"
+  },
+  {
+   "matchId": "7173",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7173&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "BCA BOLTS",
+    "CCA COMETS"
+   ],
+   "teamIds": [
+    "2847",
+    "2848"
+   ],
+   "ground": "Bowman",
+   "result": "CCA COMETS won by 3 Wickets",
+   "summary": "BCA BOLTS: 125/6(30) CCA COMETS: 126/7(30.1)"
+  },
+  {
+   "matchId": "7188",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7188&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "CFC ROYALS",
+    "CCA LIGHTNING"
+   ],
+   "teamIds": [
+    "2857",
+    "2856"
+   ],
+   "ground": "WRMS",
+   "result": "CFC ROYALS won by 4 Wickets",
+   "summary": "CCA LIGHTNING: 137/10(30) CFC ROYALS: 140/6(22.1)"
+  },
+  {
+   "matchId": "7186",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7186&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "YJCA TITANS",
+    "BCA CRICKINGDOM"
+   ],
+   "teamIds": [
+    "2860",
+    "2861"
+   ],
+   "ground": "Stockton",
+   "result": "YJCA TITANS won by 9 Wickets",
+   "summary": "BCA CRICKINGDOM: 73/10(20.4) YJCA TITANS: 76/1(10.4)"
+  },
+  {
+   "matchId": "7177",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7177&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "ASCE SPARTANS",
+    "STRIKERS UNITED"
+   ],
+   "teamIds": [
+    "2855",
+    "2858"
+   ],
+   "ground": "Fair Oaks",
+   "result": "ASCE SPARTANS won by 71 Runs",
+   "summary": "ASCE SPARTANS: 164/10(27.3) STRIKERS UNITED: 93/10(26.2)"
+  },
+  {
+   "matchId": "7175",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7175&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "USCA ISLANDERS",
+    "USCA RIVER HAWKS"
+   ],
+   "teamIds": [
+    "2862",
+    "2859"
+   ],
+   "ground": "Doxey Park",
+   "result": "USCA ISLANDERS won by 151 Runs",
+   "summary": "USCA ISLANDERS: 206/6(30) USCA RIVER HAWKS: 55/10(18.1)"
+  },
+  {
+   "matchId": "7165",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7165&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "VKCA VIKINGS",
+    "INDUS TITANS"
+   ],
+   "teamIds": [
+    "2838",
+    "2835"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA VIKINGS won by 73 Runs",
+   "summary": "VKCA VIKINGS: 165/10(39.4) INDUS TITANS: 92/8(40)"
+  },
+  {
+   "matchId": "7163",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7163&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "STRIKERS FUSION",
+    "SRCA STARS"
+   ],
+   "teamIds": [
+    "2837",
+    "2836"
+   ],
+   "ground": "Steam",
+   "result": "SRCA STARS won by 170 Runs",
+   "summary": "SRCA STARS: 222/7(40) STRIKERS FUSION: 52/8(18.5)"
+  },
+  {
+   "matchId": "7167",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7167&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "DCL LEGENDS",
+    "BCA BRAVOS"
+   ],
+   "teamIds": [
+    "2830",
+    "2828"
+   ],
+   "ground": "FSP",
+   "result": "BCA BRAVOS won by 5 Wickets",
+   "summary": "DCL LEGENDS: 136/10(36.1) BCA BRAVOS: 139/5(32.3)"
+  },
+  {
+   "matchId": "7166",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7166&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "CCA EB TITANS",
+    "STRIKERS VIKINGS"
+   ],
+   "teamIds": [
+    "2834",
+    "2832"
+   ],
+   "ground": "Meriwest",
+   "result": "STRIKERS VIKINGS won by 7 Wickets",
+   "summary": "CCA EB TITANS: 171/7(40) STRIKERS VIKINGS: 172/3(29.2)"
+  },
+  {
+   "matchId": "7164",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7164&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "CCA CENTURIONS",
+    "STRIKERS KNIGHTS"
+   ],
+   "teamIds": [
+    "2829",
+    "2831"
+   ],
+   "ground": "Dilworth",
+   "result": "STRIKERS KNIGHTS won by 7 Wickets",
+   "summary": "CCA CENTURIONS: 213/8(40) STRIKERS KNIGHTS: 215/3(36.1)"
+  },
+  {
+   "matchId": "7162",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7162&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "BCA WARRIORS",
+    "BCA BRAVEHEARTS"
+   ],
+   "teamIds": [
+    "2833",
+    "2827"
+   ],
+   "ground": "Tracy",
+   "result": "BCA BRAVEHEARTS won by 264 Runs",
+   "summary": "BCA BRAVEHEARTS: 327/3(40) BCA WARRIORS: 63/10(24)"
+  },
+  {
+   "matchId": "7138",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7138&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "SRCA STARS",
+    "VKCA VIKINGS"
+   ],
+   "teamIds": [
+    "2703",
+    "2705"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA VIKINGS won by 12 Runs",
+   "summary": "VKCA VIKINGS: 156/10(37.1) SRCA STARS: 144/10(31.5)"
+  },
+  {
+   "matchId": "7145",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7145&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "INDUS DUKES",
+    "DSCA PANTHERS"
+   ],
+   "teamIds": [
+    "2710",
+    "2709"
+   ],
+   "ground": "Rancho 1",
+   "result": "DSCA PANTHERS won by 7 Wickets",
+   "summary": "INDUS DUKES: 123/10(29) DSCA PANTHERS: 126/3(16.2)"
+  },
+  {
+   "matchId": "7129",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7129&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "BCA MAVERICKS",
+    "BCA FIRES"
+   ],
+   "teamIds": [
+    "2707",
+    "2706"
+   ],
+   "ground": "Bowman",
+   "result": "BCA MAVERICKS won by 7 Wickets",
+   "summary": "BCA FIRES: 106/9(30) BCA MAVERICKS: 107/3(13.1)"
+  },
+  {
+   "matchId": "7128",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7128&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "CCA STARS",
+    "SRCA WARRIORS"
+   ],
+   "teamIds": [
+    "2708",
+    "2711"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA STARS won by 8 Wickets",
+   "summary": "SRCA WARRIORS: 200/6(30) CCA STARS: 206/2(22)"
+  },
+  {
+   "matchId": "7149",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7149&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "CCA TORNADOES",
+    "CCA COMETS"
+   ],
+   "teamIds": [
+    "2715",
+    "2713"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA COMETS won by 6 Wickets",
+   "summary": "CCA TORNADOES: 125/8(30) CCA COMETS: 129/4(27.5)"
+  },
+  {
+   "matchId": "7146",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7146&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "BCA BOLTS",
+    "STRIKERS JAGUARS"
+   ],
+   "teamIds": [
+    "2712",
+    "2716"
+   ],
+   "ground": "Bowman",
+   "result": "STRIKERS JAGUARS won by 179 Runs",
+   "summary": "STRIKERS JAGUARS: 254/3(30) BCA BOLTS: 75/9(30)"
+  },
+  {
+   "matchId": "7130",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7130&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "STRIKERS LIONS",
+    "CCA THUNDERS"
+   ],
+   "teamIds": [
+    "2717",
+    "2714"
+   ],
+   "ground": "Steam",
+   "result": "STRIKERS LIONS won by 63 Runs",
+   "summary": "STRIKERS LIONS: 113/7(30) CCA THUNDERS: 50/9(20)"
+  },
+  {
+   "matchId": "7147",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7147&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "DSCA TIGERS",
+    "BCA CRICKINGDOM"
+   ],
+   "teamIds": [
+    "2721",
+    "2718"
+   ],
+   "ground": "FSP",
+   "result": "DSCA TIGERS won by 42 Runs",
+   "summary": "DSCA TIGERS: 186/9(30) BCA CRICKINGDOM: 144/10(28.4)"
+  },
+  {
+   "matchId": "7132",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7132&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "VKCA VIKINGS",
+    "CCA EB PANTHERS"
+   ],
+   "teamIds": [
+    "2723",
+    "2719"
+   ],
+   "ground": "FCP",
+   "result": "VKCA VIKINGS won by 7 Wickets",
+   "summary": "CCA EB PANTHERS: 90/9(30) VKCA VIKINGS: 94/3(23.2)"
+  },
+  {
+   "matchId": "7131",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7131&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "USCA ISLANDERS",
+    "DCL LEGENDS"
+   ],
+   "teamIds": [
+    "2722",
+    "2720"
+   ],
+   "ground": "Doxey Park",
+   "result": "DCL LEGENDS won by 129 Runs",
+   "summary": "DCL LEGENDS: 191/6(30) USCA ISLANDERS: 62/10(20.5)"
+  },
+  {
+   "matchId": "7148",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7148&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "STRIKERS UNITED",
+    "CCA LIGHTNING"
+   ],
+   "teamIds": [
+    "2727",
+    "2725"
+   ],
+   "ground": "Steam",
+   "result": "STRIKERS UNITED won by 62 Runs",
+   "summary": "STRIKERS UNITED: 165/5(30) CCA LIGHTNING: 103/9(30)"
+  },
+  {
+   "matchId": "7136",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7136&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "ASCE SPARTANS",
+    "YJCA TITANS"
+   ],
+   "teamIds": [
+    "2724",
+    "2729"
+   ],
+   "ground": "Fair Oaks",
+   "result": "ASCE SPARTANS won by 120 Runs",
+   "summary": "ASCE SPARTANS: 213/8(30) YJCA TITANS: 93/10(24)"
+  },
+  {
+   "matchId": "7133",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7133&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "CFC ROYALS",
+    "USCA RIVER HAWKS"
+   ],
+   "teamIds": [
+    "2726",
+    "2728"
+   ],
+   "ground": "WRMS",
+   "result": "CFC ROYALS won by 10 Wickets",
+   "summary": "USCA RIVER HAWKS: 45/10(18.4) CFC ROYALS: 47/0(7)"
+  },
+  {
+   "matchId": "7113",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7113&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "INDUS TITANS",
+    "BCA WARRIORS"
+   ],
+   "teamIds": [
+    "2702",
+    "2700"
+   ],
+   "ground": "Rancho 1",
+   "result": "BCA WARRIORS won by 9 Wickets",
+   "summary": "INDUS TITANS: 111/10(24.1) BCA WARRIORS: 115/1(12.4)"
+  },
+  {
+   "matchId": "7101",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7101&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "CCA EB TITANS",
+    "STRIKERS FUSION"
+   ],
+   "teamIds": [
+    "2701",
+    "2704"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA EB TITANS won by 9 Wickets",
+   "summary": "STRIKERS FUSION: 77/10(26.5) CCA EB TITANS: 79/1(7.5)"
+  },
+  {
+   "matchId": "7104",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7104&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "STRIKERS KNIGHTS",
+    "DCL LEGENDS"
+   ],
+   "teamIds": [
+    "2692",
+    "2691"
+   ],
+   "ground": "Sierramont",
+   "result": "DCL LEGENDS won by 7 Wickets",
+   "summary": "STRIKERS KNIGHTS: 141/8(40) DCL LEGENDS: 142/3(24.1)"
+  },
+  {
+   "matchId": "7103",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7103&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "CCA CENTURIONS",
+    "BCA BRAVOS"
+   ],
+   "teamIds": [
+    "2690",
+    "2689"
+   ],
+   "ground": "Meriwest",
+   "result": "BCA BRAVOS won by 3 Wickets",
+   "summary": "CCA CENTURIONS: 219/5(40) BCA BRAVOS: 223/7(37.5)"
+  },
+  {
+   "matchId": "7102",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7102&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "BCA BRAVEHEARTS",
+    "STRIKERS VIKINGS"
+   ],
+   "teamIds": [
+    "2688",
+    "2693"
+   ],
+   "ground": "Steam",
+   "result": "BCA BRAVEHEARTS won by 5 Wickets",
+   "summary": "STRIKERS VIKINGS: 178/7(40) BCA BRAVEHEARTS: 179/5(36.1)"
+  },
+  {
+   "matchId": "7080",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7080&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "DSCA PANTHERS",
+    "BCA MAVERICKS"
+   ],
+   "teamIds": [
+    "2709",
+    "2707"
+   ],
+   "ground": "FSP",
+   "result": "BCA MAVERICKS won by 1 Wicket",
+   "summary": "DSCA PANTHERS: 132/10(28.3) BCA MAVERICKS: 133/9(29.5)"
+  },
+  {
+   "matchId": "7069",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7069&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "SRCA WARRIORS",
+    "INDUS DUKES"
+   ],
+   "teamIds": [
+    "2711",
+    "2710"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA WARRIORS won by 10 Wickets",
+   "summary": "INDUS DUKES: 63/10(21.4) SRCA WARRIORS: 65/0(6)"
+  },
+  {
+   "matchId": "7065",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7065&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "CCA STARS",
+    "BCA FIRES"
+   ],
+   "teamIds": [
+    "2708",
+    "2706"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA STARS won by 128 Runs",
+   "summary": "CCA STARS: 264/4(30) BCA FIRES: 136/10(28.1)"
+  },
+  {
+   "matchId": "7083",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7083&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "STRIKERS JAGUARS",
+    "CCA THUNDERS"
+   ],
+   "teamIds": [
+    "2716",
+    "2714"
+   ],
+   "ground": "Steam",
+   "result": "STRIKERS JAGUARS won by 108 Runs",
+   "summary": "STRIKERS JAGUARS: 184/4(30) CCA THUNDERS: 76/10(29.4)"
+  },
+  {
+   "matchId": "7082",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7082&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "CCA COMETS",
+    "STRIKERS LIONS"
+   ],
+   "teamIds": [
+    "2713",
+    "2717"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA COMETS won by 1 Wicket",
+   "summary": "STRIKERS LIONS: 110/10(25.2) CCA COMETS: 111/9(29.4)"
+  },
+  {
+   "matchId": "7081",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7081&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "BCA BOLTS",
+    "CCA TORNADOES"
+   ],
+   "teamIds": [
+    "2712",
+    "2715"
+   ],
+   "ground": "Bowman",
+   "result": "CCA TORNADOES won by 7 Wickets",
+   "summary": "BCA BOLTS: 49/10(24.3) CCA TORNADOES: 50/3(12.3)"
+  },
+  {
+   "matchId": "7071",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7071&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "DCL LEGENDS",
+    "DSCA TIGERS"
+   ],
+   "teamIds": [
+    "2720",
+    "2721"
+   ],
+   "ground": "Emerald Glen",
+   "result": "DCL LEGENDS won by 50 Runs",
+   "summary": "DCL LEGENDS: 160/5(30) DSCA TIGERS: 110/10(22.1)"
+  },
+  {
+   "matchId": "7068",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7068&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "USCA ISLANDERS",
+    "CCA EB PANTHERS"
+   ],
+   "teamIds": [
+    "2722",
+    "2719"
+   ],
+   "ground": "Doxey Park",
+   "result": "CCA EB PANTHERS won by 70 Runs",
+   "summary": "CCA EB PANTHERS: 136/7(30) USCA ISLANDERS: 66/10(21.3)"
+  },
+  {
+   "matchId": "7066",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7066&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "BCA CRICKINGDOM",
+    "VKCA VIKINGS"
+   ],
+   "teamIds": [
+    "2718",
+    "2723"
+   ],
+   "ground": "Bowman",
+   "result": "VKCA VIKINGS won by 10 Wickets",
+   "summary": "BCA CRICKINGDOM: 17/10(10.1) VKCA VIKINGS: 19/0(2)"
+  },
+  {
+   "matchId": "7079",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7079&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "YJCA TITANS",
+    "USCA RIVER HAWKS"
+   ],
+   "teamIds": [
+    "2729",
+    "2728"
+   ],
+   "ground": "Stockton",
+   "result": "YJCA TITANS won by 256 Runs",
+   "summary": "YJCA TITANS: 324/6(30) USCA RIVER HAWKS: 68/10(26.5)"
+  },
+  {
+   "matchId": "7076",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7076&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "CCA LIGHTNING",
+    "CFC ROYALS"
+   ],
+   "teamIds": [
+    "2725",
+    "2726"
+   ],
+   "ground": "GRMS",
+   "result": "CFC ROYALS won by 100 Runs",
+   "summary": "CFC ROYALS: 233/7(30) CCA LIGHTNING: 133/8(30)"
+  },
+  {
+   "matchId": "7067",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7067&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "STRIKERS UNITED",
+    "ASCE SPARTANS"
+   ],
+   "teamIds": [
+    "2727",
+    "2724"
+   ],
+   "ground": "Steam",
+   "result": "STRIKERS UNITED won by 4 Wickets",
+   "summary": "ASCE SPARTANS: 88/9(30) STRIKERS UNITED: 90/6(23)"
+  },
+  {
+   "matchId": "7046",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7046&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "STRIKERS FUSION",
+    "SRCA STARS"
+   ],
+   "teamIds": [
+    "2704",
+    "2703"
+   ],
+   "ground": "Steam",
+   "result": "SRCA STARS won by 7 Wickets",
+   "summary": "STRIKERS FUSION: 102/8(40) SRCA STARS: 103/3(11.5)"
+  },
+  {
+   "matchId": "7044",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7044&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "CCA EB TITANS",
+    "INDUS TITANS"
+   ],
+   "teamIds": [
+    "2701",
+    "2702"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA EB TITANS won by 64 Runs",
+   "summary": "CCA EB TITANS: 229/7(40) INDUS TITANS: 165/10(38.1)"
+  },
+  {
+   "matchId": "7043",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7043&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "VKCA VIKINGS",
+    "BCA WARRIORS"
+   ],
+   "teamIds": [
+    "2705",
+    "2700"
+   ],
+   "ground": "Northgate",
+   "result": "BCA WARRIORS won by 74 Runs",
+   "summary": "BCA WARRIORS: 195/10(40) VKCA VIKINGS: 121/10(29.1)"
+  },
+  {
+   "matchId": "7048",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7048&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "STRIKERS KNIGHTS",
+    "CCA CENTURIONS"
+   ],
+   "teamIds": [
+    "2692",
+    "2690"
+   ],
+   "ground": "Sierramont",
+   "result": "CCA CENTURIONS won by 8 Wickets",
+   "summary": "STRIKERS KNIGHTS: 141/10(31.2) CCA CENTURIONS: 142/2(31.4)"
+  },
+  {
+   "matchId": "7047",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7047&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "STRIKERS VIKINGS",
+    "BCA BRAVOS"
+   ],
+   "teamIds": [
+    "2693",
+    "2689"
+   ],
+   "ground": "Davis",
+   "result": "STRIKERS VIKINGS won by 4 Wickets",
+   "summary": "BCA BRAVOS: 140/10(34.5) STRIKERS VIKINGS: 142/6(32.4)"
+  },
+  {
+   "matchId": "7045",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7045&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "DCL LEGENDS",
+    "BCA BRAVEHEARTS"
+   ],
+   "teamIds": [
+    "2691",
+    "2688"
+   ],
+   "ground": "FSP",
+   "result": "BCA BRAVEHEARTS won by 22 Runs",
+   "summary": "BCA BRAVEHEARTS: 177/4(40) DCL LEGENDS: 155/10(36.2)"
+  },
+  {
+   "matchId": "7028",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7028&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "DSCA PANTHERS",
+    "CCA STARS"
+   ],
+   "teamIds": [
+    "2709",
+    "2708"
+   ],
+   "ground": "FSP",
+   "result": "CCA STARS won by 23 Runs",
+   "summary": "CCA STARS: 205/4(30) DSCA PANTHERS: 182/10(28.3)"
+  },
+  {
+   "matchId": "7022",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7022&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "SRCA WARRIORS",
+    "BCA MAVERICKS"
+   ],
+   "teamIds": [
+    "2711",
+    "2707"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA WARRIORS won by 19 Runs",
+   "summary": "SRCA WARRIORS: 106/10(28.1) BCA MAVERICKS: 87/10(26.2)"
+  },
+  {
+   "matchId": "7018",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7018&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "BCA FIRES",
+    "INDUS DUKES"
+   ],
+   "teamIds": [
+    "2706",
+    "2710"
+   ],
+   "ground": "Bowman",
+   "result": "INDUS DUKES won by 31 Runs",
+   "summary": "INDUS DUKES: 150/7(30) BCA FIRES: 119/10(28.1)"
+  },
+  {
+   "matchId": "7030",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7030&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "STRIKERS LIONS",
+    "BCA BOLTS"
+   ],
+   "teamIds": [
+    "2717",
+    "2712"
+   ],
+   "ground": "Steam",
+   "result": "STRIKERS LIONS won by 2 Wickets",
+   "summary": "BCA BOLTS: 73/10(28.5) STRIKERS LIONS: 75/8(26.1)"
+  },
+  {
+   "matchId": "7023",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7023&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "CCA COMETS",
+    "STRIKERS JAGUARS"
+   ],
+   "teamIds": [
+    "2713",
+    "2716"
+   ],
+   "ground": "Meriwest",
+   "result": "STRIKERS JAGUARS won by 8 Wickets",
+   "summary": "CCA COMETS: 125/7(30) STRIKERS JAGUARS: 126/2(20.1)"
+  },
+  {
+   "matchId": "7017",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7017&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "CCA THUNDERS",
+    "CCA TORNADOES"
+   ],
+   "teamIds": [
+    "2714",
+    "2715"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA TORNADOES won by 4 Wickets",
+   "summary": "CCA THUNDERS: 88/10(30) CCA TORNADOES: 89/6(17.1)"
+  },
+  {
+   "matchId": "7031",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7031&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "BCA CRICKINGDOM",
+    "USCA ISLANDERS"
+   ],
+   "teamIds": [
+    "2718",
+    "2722"
+   ],
+   "ground": "Bowman",
+   "result": "BCA CRICKINGDOM won by 65 Runs",
+   "summary": "BCA CRICKINGDOM: 213/10(28.3) USCA ISLANDERS: 148/9(30)"
+  },
+  {
+   "matchId": "7029",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7029&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "CCA EB PANTHERS",
+    "DSCA TIGERS"
+   ],
+   "teamIds": [
+    "2719",
+    "2721"
+   ],
+   "ground": "Dilworth",
+   "result": "It is a Tie",
+   "summary": "CCA EB PANTHERS: 145/7(30) DSCA TIGERS: 145/9(30)"
+  },
+  {
+   "matchId": "7020",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7020&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "DCL LEGENDS",
+    "VKCA VIKINGS"
+   ],
+   "teamIds": [
+    "2720",
+    "2723"
+   ],
+   "ground": "Emerald Glen",
+   "result": "DCL LEGENDS won by 6 Wickets",
+   "summary": "VKCA VIKINGS: 107/9(29.5) DCL LEGENDS: 110/4(21.1)"
+  },
+  {
+   "matchId": "7027",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7027&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "YJCA TITANS",
+    "CCA LIGHTNING"
+   ],
+   "teamIds": [
+    "2729",
+    "2725"
+   ],
+   "ground": "Stockton",
+   "result": "YJCA TITANS won by 76 Runs",
+   "summary": "YJCA TITANS: 173/10(29.2) CCA LIGHTNING: 97/10(28.5)"
+  },
+  {
+   "matchId": "7021",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7021&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "ASCE SPARTANS",
+    "CFC ROYALS"
+   ],
+   "teamIds": [
+    "2724",
+    "2726"
+   ],
+   "ground": "Fair Oaks",
+   "result": "CFC ROYALS won by 45 Runs",
+   "summary": "CFC ROYALS: 146/5(25) ASCE SPARTANS: 101/10(19.2)"
+  },
+  {
+   "matchId": "7019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7019&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "USCA RIVER HAWKS",
+    "STRIKERS UNITED"
+   ],
+   "teamIds": [
+    "2728",
+    "2727"
+   ],
+   "ground": "Doxey Park",
+   "result": "STRIKERS UNITED won by 9 Wickets",
+   "summary": "USCA RIVER HAWKS: 49/10(18.3) STRIKERS UNITED: 50/1(12.2)"
+  },
+  {
+   "matchId": "7003",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7003&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "VKCA VIKINGS",
+    "CCA EB TITANS"
+   ],
+   "teamIds": [
+    "2705",
+    "2701"
+   ],
+   "ground": "FCP",
+   "result": "CCA EB TITANS won by 145 Runs",
+   "summary": "CCA EB TITANS: 257/8(40) VKCA VIKINGS: 112/10(23.1)"
+  },
+  {
+   "matchId": "7002",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7002&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "SRCA STARS",
+    "INDUS TITANS"
+   ],
+   "teamIds": [
+    "2703",
+    "2702"
+   ],
+   "ground": "FSP",
+   "result": "SRCA STARS won by 100 Runs",
+   "summary": "SRCA STARS: 170/10(36.3) INDUS TITANS: 70/10(21.3)"
+  },
+  {
+   "matchId": "7001",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7001&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "BCA WARRIORS",
+    "STRIKERS FUSION"
+   ],
+   "teamIds": [
+    "2700",
+    "2704"
+   ],
+   "ground": "Northgate",
+   "result": "BCA WARRIORS won by 9 Wickets",
+   "summary": "STRIKERS FUSION: 64/10(26.2) BCA WARRIORS: 69/1(10.3)"
+  },
+  {
+   "matchId": "7006",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7006&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "CCA CENTURIONS",
+    "BCA BRAVEHEARTS"
+   ],
+   "teamIds": [
+    "2690",
+    "2688"
+   ],
+   "ground": "Meriwest",
+   "result": "BCA BRAVEHEARTS won by 29 Runs",
+   "summary": "BCA BRAVEHEARTS: 250/6(40) CCA CENTURIONS: 221/7(40)"
+  },
+  {
+   "matchId": "7005",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7005&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "BCA BRAVOS",
+    "DCL LEGENDS"
+   ],
+   "teamIds": [
+    "2689",
+    "2691"
+   ],
+   "ground": "Steam",
+   "result": "DCL LEGENDS won by 42 Runs",
+   "summary": "DCL LEGENDS: 198/9(40) BCA BRAVOS: 156/10(38.3)"
+  },
+  {
+   "matchId": "7004",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7004&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "STRIKERS VIKINGS",
+    "STRIKERS KNIGHTS"
+   ],
+   "teamIds": [
+    "2693",
+    "2692"
+   ],
+   "ground": "Davis",
+   "result": "STRIKERS VIKINGS won by 140 Runs",
+   "summary": "STRIKERS VIKINGS: 269/6(40) STRIKERS KNIGHTS: 129/8(36.1)"
+  }
+ ]
+}

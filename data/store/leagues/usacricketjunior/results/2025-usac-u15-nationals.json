@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s135",
+  "id": "legacy-391",
+  "name": "2025 USAC - U15 Nationals"
+ },
+ "fetchedAt": "2026-11-13T22:12:44.982Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=391&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=391&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6291",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6291&clubId=40319",
+   "date": "2025-09-01",
+   "type": "Final",
+   "teams": [
+    "New Jersey",
+    "Bay Area Regional Team"
+   ],
+   "teamIds": [
+    "2285",
+    "2283"
+   ],
+   "ground": "PARAM - G1",
+   "result": "New Jersey won by 3 Wickets",
+   "summary": "Bay Area Regional Team: 160/8(40) New Jersey: 164/7(40)"
+  },
+  {
+   "matchId": "6290",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6290&clubId=40319",
+   "date": "2025-09-01",
+   "type": "3rd Position",
+   "teams": [
+    "North Carolina",
+    "Missouri_U15"
+   ],
+   "teamIds": [
+    "2286",
+    "2284"
+   ],
+   "ground": "PARAM - G2",
+   "result": "North Carolina won by 3 Wickets",
+   "summary": "Missouri_U15: 163/7(40) North Carolina: 164/7(39.4)"
+  },
+  {
+   "matchId": "6289",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6289&clubId=40319",
+   "date": "2025-08-31",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "Missouri_U15"
+   ],
+   "teamIds": [
+    "2285",
+    "2284"
+   ],
+   "ground": "PARAM - G1",
+   "result": "New Jersey won by 4 Wickets",
+   "summary": "Missouri_U15: 124/10(39.1) New Jersey: 129/6(38.1)"
+  },
+  {
+   "matchId": "6288",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6288&clubId=40319",
+   "date": "2025-08-31",
+   "type": "League",
+   "teams": [
+    "Bay Area Regional Team",
+    "North Carolina"
+   ],
+   "teamIds": [
+    "2283",
+    "2286"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Bay Area Regional Team won by 61 Runs",
+   "summary": "Bay Area Regional Team: 194/9(40) North Carolina: 133/10(34)"
+  },
+  {
+   "matchId": "6287",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6287&clubId=40319",
+   "date": "2025-08-30",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "Bay Area Regional Team"
+   ],
+   "teamIds": [
+    "2285",
+    "2283"
+   ],
+   "ground": "PARAM - G1",
+   "result": "Super Over.",
+   "summary": "New Jersey: 192/5(40) Bay Area Regional Team: 192/7(40)"
+  },
+  {
+   "matchId": "6286",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6286&clubId=40319",
+   "date": "2025-08-30",
+   "type": "League",
+   "teams": [
+    "North Carolina",
+    "Missouri_U15"
+   ],
+   "teamIds": [
+    "2286",
+    "2284"
+   ],
+   "ground": "PARAM - G2",
+   "result": "North Carolina won by 71 Runs",
+   "summary": "North Carolina: 144/10(35.2) Missouri_U15: 73/10(29.4)"
+  },
+  {
+   "matchId": "6285",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6285&clubId=40319",
+   "date": "2025-08-29",
+   "type": "League",
+   "teams": [
+    "New Jersey",
+    "North Carolina"
+   ],
+   "teamIds": [
+    "2285",
+    "2286"
+   ],
+   "ground": "PARAM - G2",
+   "result": "New Jersey won by 88 Runs",
+   "summary": "New Jersey: 197/6(40) North Carolina: 109/10(31.4)"
+  },
+  {
+   "matchId": "6284",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6284&clubId=40319",
+   "date": "2025-08-29",
+   "type": "League",
+   "teams": [
+    "Bay Area Regional Team",
+    "Missouri_U15"
+   ],
+   "teamIds": [
+    "2283",
+    "2284"
+   ],
+   "ground": "PARAM - G1",
+   "result": "Bay Area Regional Team won by 4 Wickets",
+   "summary": "Missouri_U15: 118/10(37.3) Bay Area Regional Team: 119/6(35.3)"
+  }
+ ]
+}

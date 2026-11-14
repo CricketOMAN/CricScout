@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s293",
+  "id": "legacy-127",
+  "name": "USAC JR Zonal 2023 - West U13"
+ },
+ "fetchedAt": "2026-11-13T23:05:28.471Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=127&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=127&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2445",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2445&clubId=40319",
+   "date": "2023-09-24",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "812",
+    "816"
+   ],
+   "ground": "FSP",
+   "result": "Team Yellow won by 70 Runs",
+   "summary": "Team Yellow: 184/3(30) Team Green: 114/8(30)"
+  },
+  {
+   "matchId": "2444",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2444&clubId=40319",
+   "date": "2023-09-24",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "813",
+    "814"
+   ],
+   "ground": "GRMS",
+   "result": "Team Blue won by 5 Wickets",
+   "summary": "Team Orange: 89/8(30) Team Blue: 92/5(25.2)"
+  },
+  {
+   "matchId": "2443",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2443&clubId=40319",
+   "date": "2023-09-24",
+   "type": "League",
+   "teams": [
+    "Team Pink",
+    "Team Red"
+   ],
+   "teamIds": [
+    "811",
+    "815"
+   ],
+   "ground": "Alisal",
+   "result": "Team Pink won by 174 Runs",
+   "summary": "Team Pink: 252/4(30) Team Red: 78/8(30)"
+  },
+  {
+   "matchId": "2437",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2437&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "Team Pink",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "811",
+    "816"
+   ],
+   "ground": "FSP",
+   "result": "Team Pink won by 8 Wickets",
+   "summary": "Team Yellow: 85/5(20) Team Pink: 86/2(14)"
+  },
+  {
+   "matchId": "2430",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2430&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "812",
+    "814"
+   ],
+   "ground": "Alisal",
+   "result": "Team Green won by 3 Wickets",
+   "summary": "Team Orange: 104/10(28.1) Team Green: 105/7(28.1)"
+  },
+  {
+   "matchId": "2429",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2429&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "813",
+    "815"
+   ],
+   "ground": "FSP",
+   "result": "Team Blue won by 34 Runs",
+   "summary": "Team Blue: 84/9(23) Team Red: 50/10(20.2)"
+  },
+  {
+   "matchId": "2396",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2396&clubId=40319",
+   "date": "2023-09-10",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Red"
+   ],
+   "teamIds": [
+    "816",
+    "815"
+   ],
+   "ground": "FSP",
+   "result": "Team Yellow won by 159 Runs",
+   "summary": "Team Yellow: 230/5(30) Team Red: 71/10(29.4)"
+  },
+  {
+   "matchId": "2395",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2395&clubId=40319",
+   "date": "2023-09-10",
+   "type": "League",
+   "teams": [
+    "Team Pink",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "811",
+    "814"
+   ],
+   "ground": "Alisal",
+   "result": "Team Pink won by 12 Runs",
+   "summary": "Team Pink: 133/7(30) Team Orange: 121/9(30)"
+  },
+  {
+   "matchId": "2394",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2394&clubId=40319",
+   "date": "2023-09-10",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "812",
+    "813"
+   ],
+   "ground": "GRMS",
+   "result": "Team Blue won by 5 Wickets",
+   "summary": "Team Green: 125/10(30) Team Blue: 126/5(26.5)"
+  },
+  {
+   "matchId": "2390",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2390&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "Team Pink",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "811",
+    "813"
+   ],
+   "ground": "FSP",
+   "result": "Team Blue won by 13 Runs",
+   "summary": "Team Blue: 85/10(27.4) Team Pink: 72/10(27.4)"
+  },
+  {
+   "matchId": "2386",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2386&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "812",
+    "815"
+   ],
+   "ground": "Alisal",
+   "result": "Team Green won by 7 Wickets",
+   "summary": "Team Red: 64/10(27) Team Green: 65/3(16.3)"
+  },
+  {
+   "matchId": "2385",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2385&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "816",
+    "814"
+   ],
+   "ground": "FSP",
+   "result": "Team Yellow won by 5 Wickets",
+   "summary": "Team Orange: 85/10(28.4) Team Yellow: 88/5(17.5)"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "season": {
+  "key": "s326",
+  "id": "legacy-80",
+  "name": "USAC Junior 2023 -Atlanta Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:10:53.458Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=80&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=80&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2038",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2038&clubId=40319",
+   "date": "2023-07-11",
+   "type": "League",
+   "teams": [
+    "MLCA U17 Force",
+    "NACA U17 AVENGERS"
+   ],
+   "teamIds": [
+    "553",
+    "552"
+   ],
+   "ground": "ACF - G1",
+   "result": "MLCA U17 Force won by 243 Runs",
+   "summary": "MLCA U17 Force: 336/4(45) NACA U17 AVENGERS: 93/11(28.1)"
+  },
+  {
+   "matchId": "1948",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1948&clubId=40319",
+   "date": "2023-06-25",
+   "type": "League",
+   "teams": [
+    "MLCA U17 Force",
+    "Nashville U17"
+   ],
+   "teamIds": [
+    "553",
+    "551"
+   ],
+   "ground": "ACF - G1",
+   "result": "MLCA U17 Force won by 176 Runs",
+   "summary": "MLCA U17 Force: 254/9(40) Nashville U17: 78/9(19.5)"
+  },
+  {
+   "matchId": "1909",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1909&clubId=40319",
+   "date": "2023-06-20",
+   "type": "League",
+   "teams": [
+    "NACA U17 AVENGERS",
+    "MLCA U17 Force"
+   ],
+   "teamIds": [
+    "552",
+    "553"
+   ],
+   "ground": "ACF - G1",
+   "result": "Abandoned.",
+   "summary": "NACA U17 AVENGERS: 92/9(41)"
+  },
+  {
+   "matchId": "1790",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1790&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "Nashville U17",
+    "MLCA U17 Force"
+   ],
+   "teamIds": [
+    "551",
+    "553"
+   ],
+   "ground": "Cedar Farms Cricket Ground",
+   "result": "MLCA U17 Force won by 66 Runs",
+   "summary": "MLCA U17 Force: 210/8(32) Nashville U17: 144/10(34.2)"
+  },
+  {
+   "matchId": "1660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1660&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Nashville U17",
+    "NACA U17 AVENGERS"
+   ],
+   "teamIds": [
+    "551",
+    "552"
+   ],
+   "ground": "Cedar Farms Cricket Ground",
+   "result": "It is a Tie",
+   "summary": "NACA U17 AVENGERS: 126/9(26.4) Nashville U17: 126/10(24)"
+  }
+ ]
+}

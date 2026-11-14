@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s64",
+  "id": "legacy-520",
+  "name": "USAC 2026 - Illinois Hub U13"
+ },
+ "fetchedAt": "2026-11-13T21:44:54.037Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=520&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=520&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8746",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8746&clubId=40319",
+   "date": "2026-06-14",
+   "type": "Super League",
+   "teams": [
+    "HUB U13 1",
+    "HUB U13 2"
+   ],
+   "teamIds": [
+    "3158",
+    "3159"
+   ],
+   "ground": "BPL",
+   "result": "HUB U13 1 won by 5 Runs",
+   "summary": "HUB U13 1: 95/9(30) HUB U13 2: 90/8(30)"
+  },
+  {
+   "matchId": "8699",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8699&clubId=40319",
+   "date": "2026-06-13",
+   "type": "Super League",
+   "teams": [
+    "HUB U13 1",
+    "HUB U13 2"
+   ],
+   "teamIds": [
+    "3158",
+    "3159"
+   ],
+   "ground": "BPL",
+   "result": "HUB U13 1 won by 8 Wickets",
+   "summary": "HUB U13 2: 91/10(23) HUB U13 1: 92/2(11.5)"
+  },
+  {
+   "matchId": "8567",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8567&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "BPL U13",
+    "CHICAGO U13"
+   ],
+   "teamIds": [
+    "3148",
+    "3149"
+   ],
+   "ground": "Commissioners Park East Cricket Field",
+   "result": "BPL U13 won by 8 Wickets",
+   "summary": "CHICAGO U13: 69/9(28.3) BPL U13: 70/2(9.2)"
+  },
+  {
+   "matchId": "8487",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8487&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "BPL U13",
+    "CYCA U13 A"
+   ],
+   "teamIds": [
+    "3148",
+    "3146"
+   ],
+   "ground": "NKPRK",
+   "result": "BPL U13 won by 4 Runs",
+   "summary": "BPL U13: 111/4(30) CYCA U13 A: 107/10(30)"
+  },
+  {
+   "matchId": "8469",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8469&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "BPL U13",
+    "CYCA U13 A"
+   ],
+   "teamIds": [
+    "3148",
+    "3146"
+   ],
+   "ground": "BPL",
+   "result": "CYCA U13 A won by 7 Wickets",
+   "summary": "BPL U13: 61/10(24.3) CYCA U13 A: 63/3(16.5)"
+  },
+  {
+   "matchId": "8427",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8427&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "BPL U13",
+    "CYCA U13 B"
+   ],
+   "teamIds": [
+    "3148",
+    "3147"
+   ],
+   "ground": "BPL",
+   "result": "CYCA U13 B won by 5 Wickets",
+   "summary": "BPL U13: 107/8(30) CYCA U13 B: 108/5(29)"
+  },
+  {
+   "matchId": "8350",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8350&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "CHICAGO U13",
+    "BPL U13"
+   ],
+   "teamIds": [
+    "3149",
+    "3148"
+   ],
+   "ground": "DEEPRK",
+   "result": "BPL U13 won by 78 Runs",
+   "summary": "BPL U13: 191/7(30) CHICAGO U13: 113/10(24.3)"
+  },
+  {
+   "matchId": "8232",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8232&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CYCA U13 B",
+    "CHICAGO U13"
+   ],
+   "teamIds": [
+    "3147",
+    "3149"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U13 B won by 8 Wickets",
+   "summary": "CHICAGO U13: 104/10(24.2) CYCA U13 B: 105/2(16)"
+  },
+  {
+   "matchId": "8164",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8164&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "BPL U13",
+    "CYCA U13 A"
+   ],
+   "teamIds": [
+    "3148",
+    "3146"
+   ],
+   "ground": "Commissioners Park East Cricket Field",
+   "result": "CYCA U13 A won by 155 Runs",
+   "summary": "CYCA U13 A: 256/6(30) BPL U13: 101/7(30)"
+  },
+  {
+   "matchId": "8108",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8108&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CYCA U13 B",
+    "CHICAGO U13"
+   ],
+   "teamIds": [
+    "3147",
+    "3149"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U13 B won by 4 Wickets",
+   "summary": "CHICAGO U13: 158/10(27.2) CYCA U13 B: 159/6(25.3)"
+  },
+  {
+   "matchId": "7955",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7955&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "BPL U13",
+    "CHICAGO U13"
+   ],
+   "teamIds": [
+    "3148",
+    "3149"
+   ],
+   "ground": "BPL",
+   "result": "BPL U13 won by 111 Runs",
+   "summary": "BPL U13: 200/5(30) CHICAGO U13: 89/10(28.4)"
+  },
+  {
+   "matchId": "7946",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7946&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "CYCA U13 A",
+    "CYCA U13 B"
+   ],
+   "teamIds": [
+    "3146",
+    "3147"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U13 A won by 131 Runs",
+   "summary": "CYCA U13 A: 304/8(30) CYCA U13 B: 173/5(30)"
+  },
+  {
+   "matchId": "7845",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7845&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CYCA U13 A",
+    "CYCA U13 B"
+   ],
+   "teamIds": [
+    "3146",
+    "3147"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U13 A won by 72 Runs",
+   "summary": "CYCA U13 A: 199/7(30) CYCA U13 B: 127/10(29.1)"
+  },
+  {
+   "matchId": "7749",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7749&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "CYCA U13 A",
+    "CHICAGO U13"
+   ],
+   "teamIds": [
+    "3146",
+    "3149"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U13 A won by 164 Runs",
+   "summary": "CYCA U13 A: 237/4(25) CHICAGO U13: 73/11(22.5)"
+  },
+  {
+   "matchId": "7629",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7629&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "CHICAGO U13",
+    "CYCA U13 B"
+   ],
+   "teamIds": [
+    "3149",
+    "3147"
+   ],
+   "ground": "DEEPRK",
+   "result": "CHICAGO U13 won by 1 Wicket",
+   "summary": "CYCA U13 B: 90/10(19.2) CHICAGO U13: 91/9(25.2)"
+  }
+ ]
+}

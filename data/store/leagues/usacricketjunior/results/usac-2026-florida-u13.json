@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s114",
+  "id": "legacy-455",
+  "name": "USAC 2026 - Florida - U13"
+ },
+ "fetchedAt": "2026-11-13T21:57:25.173Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=455&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=455&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8396",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8396&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2890",
+    "2891"
+   ],
+   "ground": "Evans Cricket Ground",
+   "result": "Tampa Cricket League won by 18 Runs",
+   "summary": "Tampa Cricket League: 170/1(30) Roy Silva Academy: 152/10(30)"
+  },
+  {
+   "matchId": "8295",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8295&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "WorldWide Cricket Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2895",
+    "2892"
+   ],
+   "ground": "Central Broward Regional Park",
+   "result": "WorldWide Cricket Academy won by 4 Wickets",
+   "summary": "Young Genius Academy: 92/7(30) WorldWide Cricket Academy: 93/6(18.4)"
+  },
+  {
+   "matchId": "8288",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8288&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Excel Cricket Academy"
+   ],
+   "teamIds": [
+    "2893",
+    "2894"
+   ],
+   "ground": "Waverly Grounds",
+   "result": "Excel Cricket Academy won by 3 Wickets",
+   "summary": "Angelo's Cricket Academy: 162/4(30) Excel Cricket Academy: 165/7(29.5)"
+  },
+  {
+   "matchId": "8159",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8159&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Tampa Cricket League",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2891",
+    "2892"
+   ],
+   "ground": "Sarasota Cricket Gro",
+   "result": "Abandoned.",
+   "summary": "Tampa Cricket League: 215/3(30) Young Genius Academy: 119/0(18.2)"
+  },
+  {
+   "matchId": "8062",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8062&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "WorldWide Cricket Academy"
+   ],
+   "teamIds": [
+    "2893",
+    "2895"
+   ],
+   "ground": "Waverly Grounds",
+   "result": "Angelo's Cricket Academy won by 61 Runs",
+   "summary": "Angelo's Cricket Academy: 182/3(30) WorldWide Cricket Academy: 121/7(26.5)"
+  },
+  {
+   "matchId": "8058",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8058&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Excel Cricket Academy"
+   ],
+   "teamIds": [
+    "2890",
+    "2894"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "Roy Silva Academy won by 47 Runs",
+   "summary": "Roy Silva Academy: 213/5(30) Excel Cricket Academy: 166/3(30)"
+  },
+  {
+   "matchId": "7968",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7968&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Tampa Cricket League",
+    "WorldWide Cricket Academy"
+   ],
+   "teamIds": [
+    "2891",
+    "2895"
+   ],
+   "ground": "Sarasota Cricket Gro",
+   "result": "Tampa Cricket League won by 9 Wickets",
+   "summary": "WorldWide Cricket Academy: 135/6(30) Tampa Cricket League: 136/1(21.2)"
+  },
+  {
+   "matchId": "7873",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7873&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2890",
+    "2892"
+   ],
+   "ground": "Waverly Grounds",
+   "result": "Roy Silva Academy won by 74 Runs",
+   "summary": "Roy Silva Academy: 195/5(30) Young Genius Academy: 121/9(30)"
+  },
+  {
+   "matchId": "7866",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7866&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Excel Cricket Academy"
+   ],
+   "teamIds": [
+    "2893",
+    "2894"
+   ],
+   "ground": "Lions Cricket Field",
+   "result": "Angelo's Cricket Academy won by 155 Runs",
+   "summary": "Angelo's Cricket Academy: 260/6(30) Excel Cricket Academy: 105/7(28.3)"
+  },
+  {
+   "matchId": "7750",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7750&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "WorldWide Cricket Academy"
+   ],
+   "teamIds": [
+    "2890",
+    "2895"
+   ],
+   "ground": "Lauderhill Sports Park Ground",
+   "result": "Roy Silva Academy won by 25 Runs",
+   "summary": "Roy Silva Academy: 147/6(30) WorldWide Cricket Academy: 122/7(22.4)"
+  },
+  {
+   "matchId": "7649",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7649&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Excel Cricket Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2894",
+    "2892"
+   ],
+   "ground": "Waverly Grounds",
+   "result": "Young Genius Academy won by 5 Wickets",
+   "summary": "Excel Cricket Academy: 102/9(27.1) Young Genius Academy: 103/5(14.4)"
+  },
+  {
+   "matchId": "7640",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7640&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2893",
+    "2891"
+   ],
+   "ground": "Lions Cricket Field",
+   "result": "Abandoned.",
+   "summary": "Tampa Cricket League: 205/1(30) Angelo's Cricket Academy: 34/0(6)"
+  },
+  {
+   "matchId": "7467",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7467&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "WorldWide Cricket Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2895",
+    "2892"
+   ],
+   "ground": "John Mulins Park",
+   "result": "WorldWide Cricket Academy won by 95 Runs",
+   "summary": "WorldWide Cricket Academy: 170/4(30) Young Genius Academy: 75/7(30)"
+  },
+  {
+   "matchId": "7465",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7465&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Roy Silva Academy"
+   ],
+   "teamIds": [
+    "2893",
+    "2890"
+   ],
+   "ground": "Lions Cricket Field",
+   "result": "Roy Silva Academy won by 24 Runs",
+   "summary": "Roy Silva Academy: 212/5(30) Angelo's Cricket Academy: 188/4(30)"
+  },
+  {
+   "matchId": "7292",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7292&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Excel Cricket Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2894",
+    "2891"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "Tampa Cricket League won by 72 Runs",
+   "summary": "Tampa Cricket League: 194/6(30) Excel Cricket Academy: 122/5(30)"
+  },
+  {
+   "matchId": "7257",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7257&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2893",
+    "2892"
+   ],
+   "ground": "Lauderhill Sports Park Ground",
+   "result": "Angelo's Cricket Academy won by 6 Wickets",
+   "summary": "Young Genius Academy: 153/7(30) Angelo's Cricket Academy: 154/4(24.4)"
+  },
+  {
+   "matchId": "7227",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7227&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Excel Cricket Academy",
+    "WorldWide Cricket Academy"
+   ],
+   "teamIds": [
+    "2894",
+    "2895"
+   ],
+   "ground": "Waverly Grounds",
+   "result": "WorldWide Cricket Academy won by 6 Wickets",
+   "summary": "Excel Cricket Academy: 118/10(23) WorldWide Cricket Academy: 119/4(24.4)"
+  },
+  {
+   "matchId": "7207",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7207&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2890",
+    "2891"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "Tampa Cricket League won by 5 Wickets",
+   "summary": "Roy Silva Academy: 159/4(30) Tampa Cricket League: 160/5(28.5)"
+  }
+ ]
+}

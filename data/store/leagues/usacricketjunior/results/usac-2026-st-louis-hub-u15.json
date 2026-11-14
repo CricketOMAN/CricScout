@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s86",
+  "id": "legacy-491",
+  "name": "USAC 2026 St. Louis Hub U15"
+ },
+ "fetchedAt": "2026-11-13T21:47:33.036Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=491&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=491&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8652",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8652&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "Kansas U15"
+   ],
+   "teamIds": [
+    "3256",
+    "3257"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Gladiators won by 51 Runs",
+   "summary": "ACAC Gladiators: 122/9(20) Kansas U15: 71/6(20)"
+  },
+  {
+   "matchId": "8646",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8646&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "Kansas U15"
+   ],
+   "teamIds": [
+    "3256",
+    "3257"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Gladiators won by 7 Wickets",
+   "summary": "Kansas U15: 77/10(25.3) ACAC Gladiators: 79/3(17.1)"
+  },
+  {
+   "matchId": "8633",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8633&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "Kansas U15"
+   ],
+   "teamIds": [
+    "3256",
+    "3257"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Gladiators won by 80 Runs",
+   "summary": "ACAC Gladiators: 245/3(40) Kansas U15: 165/7(40)"
+  },
+  {
+   "matchId": "8466",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8466&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "Kansas U15"
+   ],
+   "teamIds": [
+    "3256",
+    "3257"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "ACAC Gladiators won by 60 Runs",
+   "summary": "ACAC Gladiators: 183/10(34.2) Kansas U15: 123/9(40)"
+  },
+  {
+   "matchId": "8459",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8459&clubId=40319",
+   "date": "2026-06-04",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "Kansas U15"
+   ],
+   "teamIds": [
+    "3256",
+    "3257"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "ACAC Gladiators won by 67 Runs",
+   "summary": "ACAC Gladiators: 153/8(20) Kansas U15: 86/6(20)"
+  },
+  {
+   "matchId": "8453",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8453&clubId=40319",
+   "date": "2026-06-04",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "Kansas U15"
+   ],
+   "teamIds": [
+    "3256",
+    "3257"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "ACAC Gladiators won by 170 Runs",
+   "summary": "ACAC Gladiators: 220/10(30) Kansas U15: 50/10(21.5)"
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s349",
+  "id": "legacy-44",
+  "name": "USAC Junior 2023 -East Midwest Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:16:08.888Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=44&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=44&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2353",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2353&clubId=40319",
+   "date": "2023-08-27",
+   "type": "Final",
+   "teams": [
+    "AYCA MAVERICKS",
+    "PRIME STRIKERS DETROIT"
+   ],
+   "teamIds": [
+    "544",
+    "543"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA MAVERICKS won by 59 Runs",
+   "summary": "AYCA MAVERICKS: 171/6(40) PRIME STRIKERS DETROIT: 112/10(32.5)"
+  },
+  {
+   "matchId": "2201",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2201&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "MYCA",
+    "AYCA MAVERICKS"
+   ],
+   "teamIds": [
+    "542",
+    "544"
+   ],
+   "ground": "TBD",
+   "result": "AYCA MAVERICKS won by 2 Wickets",
+   "summary": "MYCA: 178/10(40) AYCA MAVERICKS: 181/8(35.2)"
+  },
+  {
+   "matchId": "2142",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2142&clubId=40319",
+   "date": "2023-07-31",
+   "type": "League",
+   "teams": [
+    "AYCA MAVERICKS",
+    "PRIME STRIKERS DETROIT"
+   ],
+   "teamIds": [
+    "544",
+    "543"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA MAVERICKS won by 9 Wickets",
+   "summary": "PRIME STRIKERS DETROIT: 88/10(30) AYCA MAVERICKS: 92/1(15.1)"
+  },
+  {
+   "matchId": "2132",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2132&clubId=40319",
+   "date": "2023-07-30",
+   "type": "League",
+   "teams": [
+    "AYCA MAVERICKS",
+    "MYCA"
+   ],
+   "teamIds": [
+    "544",
+    "542"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA MAVERICKS won by 9 Wickets",
+   "summary": "MYCA: 117/10(30.1) AYCA MAVERICKS: 119/1(23.1)"
+  },
+  {
+   "matchId": "2091",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2091&clubId=40319",
+   "date": "2023-07-22",
+   "type": "League",
+   "teams": [
+    "MYCA",
+    "PRIME STRIKERS DETROIT"
+   ],
+   "teamIds": [
+    "542",
+    "543"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "MYCA won by 3 Wickets",
+   "summary": "PRIME STRIKERS DETROIT: 156/10(33.3) MYCA: 157/7(35.4)"
+  },
+  {
+   "matchId": "2082",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2082&clubId=40319",
+   "date": "2023-07-21",
+   "type": "League",
+   "teams": [
+    "MYCA",
+    "PRIME STRIKERS DETROIT"
+   ],
+   "teamIds": [
+    "542",
+    "543"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "PRIME STRIKERS DETROIT won by 5 Wickets",
+   "summary": "MYCA: 145/8(30) PRIME STRIKERS DETROIT: 146/5(28.5)"
+  },
+  {
+   "matchId": "1740",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1740&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "AYCA MAVERICKS",
+    "PRIME STRIKERS DETROIT"
+   ],
+   "teamIds": [
+    "544",
+    "543"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA MAVERICKS won by 8 Runs",
+   "summary": "AYCA MAVERICKS: 169/10(37.3) PRIME STRIKERS DETROIT: 161/9(39.5)"
+  },
+  {
+   "matchId": "1651",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1651&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS DETROIT",
+    "MYCA"
+   ],
+   "teamIds": [
+    "543",
+    "542"
+   ],
+   "ground": "CRC PARK",
+   "result": "MYCA won by 19 Runs",
+   "summary": "MYCA: 138/10(37.1) PRIME STRIKERS DETROIT: 119/10(31.1)"
+  },
+  {
+   "matchId": "1511",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1511&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "AYCA MAVERICKS",
+    "MCA MAVERICKS"
+   ],
+   "teamIds": [
+    "544",
+    "550"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA MAVERICKS won by 7 Wickets",
+   "summary": "MCA MAVERICKS: 63/9(25.5) AYCA MAVERICKS: 64/3(13.4)"
+  },
+  {
+   "matchId": "1325",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1325&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "MCA MAVERICKS",
+    "PRIME STRIKERS DETROIT"
+   ],
+   "teamIds": [
+    "550",
+    "543"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "PRIME STRIKERS DETROIT won by 3 Wickets",
+   "summary": "MCA MAVERICKS: 55/9(18.3) PRIME STRIKERS DETROIT: 56/7(16.2)"
+  },
+  {
+   "matchId": "1242",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1242&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "AYCA MAVERICKS",
+    "MYCA"
+   ],
+   "teamIds": [
+    "544",
+    "542"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA MAVERICKS won by 6 Wickets (D/L)",
+   "summary": "MYCA: 119/10(34.1) AYCA MAVERICKS: 120/4(29.5)"
+  }
+ ]
+}

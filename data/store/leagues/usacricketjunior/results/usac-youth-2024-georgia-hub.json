@@ -1,0 +1,2190 @@
+{
+ "season": {
+  "key": "s273",
+  "id": "legacy-149",
+  "name": "USAC Youth 2024 - Georgia Hub"
+ },
+ "fetchedAt": "2026-11-13T22:52:20.387Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=149&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=149&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3938",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3938&clubId=40319",
+   "date": "2024-08-18",
+   "type": "Practice",
+   "teams": [
+    "Georgia U13",
+    "Georgia U13 Challenger"
+   ],
+   "teamIds": [
+    "1362",
+    "1363"
+   ],
+   "ground": "ACF - G1",
+   "result": "Georgia U13 Challenger won by 8 Runs",
+   "summary": "Georgia U13 Challenger: 177/10(35) Georgia U13: 169/10(34.5)"
+  },
+  {
+   "matchId": "3885",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3885&clubId=40319",
+   "date": "2024-08-11",
+   "type": "Practice",
+   "teams": [
+    "Georgia U13",
+    "Georgia U13 Challenger"
+   ],
+   "teamIds": [
+    "1362",
+    "1363"
+   ],
+   "ground": "ACF - G1",
+   "result": "Georgia U13 won by 96 Runs",
+   "summary": "Georgia U13: 239/10(30) Georgia U13 Challenger: 143/9(30)"
+  },
+  {
+   "matchId": "3883",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3883&clubId=40319",
+   "date": "2024-08-11",
+   "type": "League",
+   "teams": [
+    "GCA U11 Smashers",
+    "GCA U11 Ninjas"
+   ],
+   "teamIds": [
+    "1323",
+    "1324"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U11 Ninjas won by 3 Runs",
+   "summary": "GCA U11 Ninjas: 197/3(30) GCA U11 Smashers: 194/6(30)"
+  },
+  {
+   "matchId": "3873",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3873&clubId=40319",
+   "date": "2024-08-10",
+   "type": "League",
+   "teams": [
+    "GCA U11 Ninjas",
+    "GCA U11 Tigers"
+   ],
+   "teamIds": [
+    "1324",
+    "1325"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U11 Ninjas won by 16 Runs",
+   "summary": "GCA U11 Ninjas: 196/6(30) GCA U11 Tigers: 180/6(30)"
+  },
+  {
+   "matchId": "3833",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3833&clubId=40319",
+   "date": "2024-08-04",
+   "type": "League",
+   "teams": [
+    "GCA U11 Tigers",
+    "GCA U11 Smashers"
+   ],
+   "teamIds": [
+    "1325",
+    "1323"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U11 Tigers won by 6 Runs",
+   "summary": "GCA U11 Tigers: 108/9(30) GCA U11 Smashers: 102/10(29.3)"
+  },
+  {
+   "matchId": "3814",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3814&clubId=40319",
+   "date": "2024-08-03",
+   "type": "League",
+   "teams": [
+    "GCA U11 Smashers",
+    "GCA U11 Ninjas"
+   ],
+   "teamIds": [
+    "1323",
+    "1324"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U11 Smashers won by 7 Wickets",
+   "summary": "GCA U11 Ninjas: 133/3(30) GCA U11 Smashers: 134/3(27)"
+  },
+  {
+   "matchId": "3670",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3670&clubId=40319",
+   "date": "2024-07-14",
+   "type": "League",
+   "teams": [
+    "GCA U13 Ninjas",
+    "GCA U13 Smashers"
+   ],
+   "teamIds": [
+    "1283",
+    "1284"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U13 Smashers won by 7 Wickets",
+   "summary": "GCA U13 Ninjas: 147/10(29.3) GCA U13 Smashers: 148/3(29)"
+  },
+  {
+   "matchId": "3650",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3650&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "GCA U13 Ninjas",
+    "GCA U13 Tigers"
+   ],
+   "teamIds": [
+    "1283",
+    "1282"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U13 Ninjas won by 6 Wickets",
+   "summary": "GCA U13 Tigers: 153/10(27) GCA U13 Ninjas: 154/4(24.5)"
+  },
+  {
+   "matchId": "3644",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3644&clubId=40319",
+   "date": "2024-07-06",
+   "type": "League",
+   "teams": [
+    "GCA U15 Ninjas",
+    "GCA U15 Smashers"
+   ],
+   "teamIds": [
+    "1279",
+    "1278"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Ninjas won by 114 Runs",
+   "summary": "GCA U15 Ninjas: 252/8(40) GCA U15 Smashers: 138/10(31.2)"
+  },
+  {
+   "matchId": "3643",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3643&clubId=40319",
+   "date": "2024-07-04",
+   "type": "League",
+   "teams": [
+    "GCA U15 Smashers",
+    "GCA U15 Tigers"
+   ],
+   "teamIds": [
+    "1278",
+    "1280"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Smashers won by 6 Wickets",
+   "summary": "GCA U15 Tigers: 166/10(39) GCA U15 Smashers: 169/4(38.1)"
+  },
+  {
+   "matchId": "3609",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3609&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "GCA U13 Tigers",
+    "GCA U13 Smashers"
+   ],
+   "teamIds": [
+    "1282",
+    "1284"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U13 Smashers won by 6 Wickets",
+   "summary": "GCA U13 Tigers: 177/7(30) GCA U13 Smashers: 179/4(27.5)"
+  },
+  {
+   "matchId": "3574",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3574&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "GCA U15 Tigers",
+    "GCA U15 Ninjas"
+   ],
+   "teamIds": [
+    "1280",
+    "1279"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Ninjas won by 26 Runs",
+   "summary": "GCA U15 Ninjas: 125/9(26.5) GCA U15 Tigers: 99/9(24.2)"
+  },
+  {
+   "matchId": "3573",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3573&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "GCA U13 Smashers",
+    "GCA U13 Ninjas"
+   ],
+   "teamIds": [
+    "1284",
+    "1283"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "It is a Tie",
+   "summary": "GCA U13 Ninjas: 206/7(30) GCA U13 Smashers: 206/7(30)"
+  },
+  {
+   "matchId": "3565",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3565&clubId=40319",
+   "date": "2024-06-27",
+   "type": "League",
+   "teams": [
+    "GCA U13 Ninjas",
+    "GCA U13 Tigers"
+   ],
+   "teamIds": [
+    "1283",
+    "1282"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U13 Tigers won by 95 Runs",
+   "summary": "GCA U13 Tigers: 269/2(30) GCA U13 Ninjas: 174/9(30)"
+  },
+  {
+   "matchId": "3563",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3563&clubId=40319",
+   "date": "2024-06-26",
+   "type": "League",
+   "teams": [
+    "GCA U13 Tigers",
+    "GCA U13 Smashers"
+   ],
+   "teamIds": [
+    "1282",
+    "1284"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U13 Tigers won by 7 Wickets",
+   "summary": "GCA U13 Smashers: 156/7(30) GCA U13 Tigers: 158/3(23.1)"
+  },
+  {
+   "matchId": "3506",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3506&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "GCA U15 Smashers",
+    "GCA U15 Tigers"
+   ],
+   "teamIds": [
+    "1278",
+    "1280"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Tigers won by 7 Runs",
+   "summary": "GCA U15 Tigers: 222/6(40) GCA U15 Smashers: 215/10(40)"
+  },
+  {
+   "matchId": "3497",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3497&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "GCA U13 Smashers",
+    "GCA U13 Ninjas"
+   ],
+   "teamIds": [
+    "1284",
+    "1283"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U13 Smashers won by 53 Runs",
+   "summary": "GCA U13 Smashers: 221/0(30) GCA U13 Ninjas: 168/9(30)"
+  },
+  {
+   "matchId": "3453",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3453&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "GCA U13 Smashers",
+    "GCA U13 Tigers"
+   ],
+   "teamIds": [
+    "1284",
+    "1282"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U13 Smashers won by 5 Wickets",
+   "summary": "GCA U13 Tigers: 149/9(28.5) GCA U13 Smashers: 152/5(25.3)"
+  },
+  {
+   "matchId": "3455",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3455&clubId=40319",
+   "date": "2024-06-16",
+   "type": "Final",
+   "teams": [
+    "Atlanta Lions",
+    "Atlanta Destroyers"
+   ],
+   "teamIds": [
+    "958",
+    "959"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Atlanta Lions won by 91 Runs",
+   "summary": "Atlanta Lions: 233/2(30) Atlanta Destroyers: 142/8(27)"
+  },
+  {
+   "matchId": "3341",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3341&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "GCA U15 Ninjas",
+    "GCA U15 Smashers"
+   ],
+   "teamIds": [
+    "1279",
+    "1278"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Smashers won by 103 Runs",
+   "summary": "GCA U15 Smashers: 165/9(40) GCA U15 Ninjas: 62/10(16.3)"
+  },
+  {
+   "matchId": "3421",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3421&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Atlanta Lions",
+    "ARSCA U11"
+   ],
+   "teamIds": [
+    "958",
+    "953"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Atlanta Lions won by 7 Wickets",
+   "summary": "ARSCA U11: 173/7(30) Atlanta Lions: 176/3(29.2)"
+  },
+  {
+   "matchId": "3418",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3418&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "Atlanta Destroyers"
+   ],
+   "teamIds": [
+    "954",
+    "959"
+   ],
+   "ground": "Cedar Farms",
+   "result": "Atlanta Destroyers won by 237 Runs",
+   "summary": "Atlanta Destroyers: 404/1(30) TCA U11 Chiefs: 167/8(29.1)"
+  },
+  {
+   "matchId": "3388",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3388&clubId=40319",
+   "date": "2024-06-13",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "NACA Red U11"
+   ],
+   "teamIds": [
+    "957",
+    "955"
+   ],
+   "ground": "Shakerag Field 3-rt",
+   "result": "NACA Red U11 won by 6 Wickets",
+   "summary": "NACA Blue U11: 120/8(27.2) NACA Red U11: 121/4(17)"
+  },
+  {
+   "matchId": "3387",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3387&clubId=40319",
+   "date": "2024-06-11",
+   "type": "League",
+   "teams": [
+    "ARSCA U11",
+    "NACA Red U11"
+   ],
+   "teamIds": [
+    "953",
+    "955"
+   ],
+   "ground": "Shakerag Field 3-rt",
+   "result": "ARSCA U11 won by 16 Runs",
+   "summary": "ARSCA U11: 174/7(30) NACA Red U11: 158/6(30)"
+  },
+  {
+   "matchId": "3382",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3382&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "Atlanta Destroyers",
+    "Atlanta Lions"
+   ],
+   "teamIds": [
+    "959",
+    "958"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Atlanta Lions won by 7 Wickets",
+   "summary": "Atlanta Destroyers: 191/3(30) Atlanta Lions: 192/3(28.4)"
+  },
+  {
+   "matchId": "3378",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3378&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "ARSCA U11",
+    "NACA Green U11"
+   ],
+   "teamIds": [
+    "953",
+    "956"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Forfeited. Winner: ARSCA U11",
+   "summary": "ARSCA U11: 0/0(0)"
+  },
+  {
+   "matchId": "3340",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3340&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "GCA U15 Smashers",
+    "GCA U15 Ninjas"
+   ],
+   "teamIds": [
+    "1278",
+    "1279"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Ninjas won by 43 Runs",
+   "summary": "GCA U15 Ninjas: 186/6(40) GCA U15 Smashers: 143/10(31.4)"
+  },
+  {
+   "matchId": "3331",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3331&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "GCA U13 Tigers",
+    "GCA U13 Ninjas"
+   ],
+   "teamIds": [
+    "1282",
+    "1283"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "GCA U13 Ninjas won by 5 Wickets",
+   "summary": "GCA U13 Tigers: 185/7(30) GCA U13 Ninjas: 186/5(29)"
+  },
+  {
+   "matchId": "3379",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3379&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "Atlanta Lions",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "958",
+    "957"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Forfeited. Winner: Atlanta Lions",
+   "summary": "Atlanta Lions: 0/0(0)"
+  },
+  {
+   "matchId": "3368",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3368&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "Atlanta Destroyers",
+    "ARSCA U11"
+   ],
+   "teamIds": [
+    "959",
+    "953"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "ARSCA U11 won by 29 Runs",
+   "summary": "ARSCA U11: 170/8(30) Atlanta Destroyers: 141/6(24.5)"
+  },
+  {
+   "matchId": "3332",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3332&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "NACA Red U11",
+    "NACA Green U11"
+   ],
+   "teamIds": [
+    "955",
+    "956"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Red U11 won by 8 Wickets",
+   "summary": "NACA Green U11: 81/7(21.4) NACA Red U11: 82/2(15.2)"
+  },
+  {
+   "matchId": "3329",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3329&clubId=40319",
+   "date": "2024-06-07",
+   "type": "League",
+   "teams": [
+    "GCA U15 Tigers",
+    "GCA U15 Ninjas"
+   ],
+   "teamIds": [
+    "1280",
+    "1279"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Tigers won by 4 Wickets",
+   "summary": "GCA U15 Ninjas: 153/10(38.4) GCA U15 Tigers: 157/6(36.3)"
+  },
+  {
+   "matchId": "3326",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3326&clubId=40319",
+   "date": "2024-06-05",
+   "type": "Final",
+   "teams": [
+    "Atlanta Warriors",
+    "NACA U13 Red"
+   ],
+   "teamIds": [
+    "964",
+    "961"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U13 Red won by 7 Wickets",
+   "summary": "Atlanta Warriors: 174/9(30) NACA U13 Red: 176/3(27.2)"
+  },
+  {
+   "matchId": "3324",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3324&clubId=40319",
+   "date": "2024-06-04",
+   "type": "League",
+   "teams": [
+    "GCA U15 Tigers",
+    "GCA U15 Smashers"
+   ],
+   "teamIds": [
+    "1280",
+    "1278"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Smashers won by 2 Wickets",
+   "summary": "GCA U15 Tigers: 120/10(24.2) GCA U15 Smashers: 122/8(27.1)"
+  },
+  {
+   "matchId": "3304",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3304&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "NACA Green U11",
+    "Atlanta Destroyers"
+   ],
+   "teamIds": [
+    "956",
+    "959"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "Atlanta Destroyers won by 83 Runs (D/L)",
+   "summary": "Atlanta Destroyers: 285/4(30) NACA Green U11: 110/5(21)"
+  },
+  {
+   "matchId": "3293",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3293&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "Atlanta Lions",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "958",
+    "954"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Forfeited. Winner: Atlanta Lions",
+   "summary": "Atlanta Lions: 0/0(0)"
+  },
+  {
+   "matchId": "3315",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3315&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "Atlanta Warriors",
+    "NACA U13 Blue"
+   ],
+   "teamIds": [
+    "964",
+    "963"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Abandoned.",
+   "summary": "NACA U13 Blue: 93/1(23)"
+  },
+  {
+   "matchId": "3259",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3259&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "GCA U15 Ninjas",
+    "GCA U15 Tigers"
+   ],
+   "teamIds": [
+    "1279",
+    "1280"
+   ],
+   "ground": "TBD",
+   "result": "GCA U15 Ninjas won by 4 Wickets",
+   "summary": "GCA U15 Tigers: 140/10(28.1) GCA U15 Ninjas: 141/6(23.4)"
+  },
+  {
+   "matchId": "3318",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3318&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "957",
+    "954"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Forfeited. Winner: NACA Blue U11",
+   "summary": "NACA Blue U11: 0/0(0)"
+  },
+  {
+   "matchId": "3253",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3253&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "Atlanta Lions",
+    "NACA Red U11"
+   ],
+   "teamIds": [
+    "958",
+    "955"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Atlanta Lions won by 89 Runs",
+   "summary": "Atlanta Lions: 215/6(30) NACA Red U11: 126/7(22.1)"
+  },
+  {
+   "matchId": "3284",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3284&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "Geo Gladiators U13",
+    "NACA U13 Blue"
+   ],
+   "teamIds": [
+    "960",
+    "963"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Blue won by 83 Runs",
+   "summary": "NACA U13 Blue: 248/0(30) Geo Gladiators U13: 165/9(29.3)"
+  },
+  {
+   "matchId": "3281",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3281&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "Atlanta Warriors",
+    "Atlanta Super Strikers"
+   ],
+   "teamIds": [
+    "964",
+    "965"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Atlanta Super Strikers won by 6 Wickets",
+   "summary": "Atlanta Warriors: 126/8(29.5) Atlanta Super Strikers: 127/4(26.5)"
+  },
+  {
+   "matchId": "3251",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3251&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "Atlanta Super Strikers",
+    "Atlanta Warriors"
+   ],
+   "teamIds": [
+    "965",
+    "964"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Atlanta Warriors won by 6 Wickets",
+   "summary": "Atlanta Super Strikers: 111/9(24) Atlanta Warriors: 112/4(16.2)"
+  },
+  {
+   "matchId": "3249",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3249&clubId=40319",
+   "date": "2024-05-31",
+   "type": "League",
+   "teams": [
+    "NACA U13 Red",
+    "Atlanta Super Strikers"
+   ],
+   "teamIds": [
+    "961",
+    "965"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Red won by 163 Runs",
+   "summary": "NACA U13 Red: 265/3(30) Atlanta Super Strikers: 102/10(27.5)"
+  },
+  {
+   "matchId": "3211",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3211&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "ARSCA U11"
+   ],
+   "teamIds": [
+    "954",
+    "953"
+   ],
+   "ground": "Cedar Farms Cricket Ground",
+   "result": "ARSCA U11 won by 159 Runs",
+   "summary": "ARSCA U11: 270/1(30) TCA U11 Chiefs: 111/9(30)"
+  },
+  {
+   "matchId": "3205",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3205&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "NACA Red U11",
+    "Atlanta Destroyers"
+   ],
+   "teamIds": [
+    "955",
+    "959"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Red U11 won by 7 Runs",
+   "summary": "NACA Red U11: 190/5(30) Atlanta Destroyers: 183/5(30)"
+  },
+  {
+   "matchId": "3191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3191&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "NACA Green U11",
+    "Atlanta Lions"
+   ],
+   "teamIds": [
+    "956",
+    "958"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Atlanta Lions won by 94 Runs",
+   "summary": "Atlanta Lions: 217/2(30) NACA Green U11: 123/10(22)"
+  },
+  {
+   "matchId": "3218",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3218&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "NACA U13 Green",
+    "Geo Gladiators U13"
+   ],
+   "teamIds": [
+    "962",
+    "960"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Green won by 7 Wickets",
+   "summary": "Geo Gladiators U13: 168/2(30) NACA U13 Green: 169/3(18)"
+  },
+  {
+   "matchId": "3212",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3212&clubId=40319",
+   "date": "2024-05-19",
+   "type": "Final",
+   "teams": [
+    "NACA U15 Red",
+    "Atlanta ACES"
+   ],
+   "teamIds": [
+    "967",
+    "970"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Atlanta ACES won by 6 Wickets",
+   "summary": "NACA U15 Red: 124/9(39.4) Atlanta ACES: 128/4(28.1)"
+  },
+  {
+   "matchId": "3140",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3140&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "NACA Green U11"
+   ],
+   "teamIds": [
+    "957",
+    "956"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Green U11 won by 1 Wicket",
+   "summary": "NACA Blue U11: 161/9(30) NACA Green U11: 163/9(29.3)"
+  },
+  {
+   "matchId": "3162",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3162&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "Geo Gladiators U13",
+    "NACA U13 Red"
+   ],
+   "teamIds": [
+    "960",
+    "961"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA U13 Red won by 118 Runs (D/L)",
+   "summary": "NACA U13 Red: 280/2(30) Geo Gladiators U13: 139/8(27.5)"
+  },
+  {
+   "matchId": "3167",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3167&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "Atlanta Gladiators",
+    "NACA U15 Blue"
+   ],
+   "teamIds": [
+    "971",
+    "969"
+   ],
+   "ground": "PARAM - G3",
+   "result": "NACA U15 Blue won by 22 Runs (D/L)",
+   "summary": "NACA U15 Blue: 173/3(30) Atlanta Gladiators: 108/6(23)"
+  },
+  {
+   "matchId": "3165",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3165&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "NACA U15 Red",
+    "Atlanta ACES"
+   ],
+   "teamIds": [
+    "967",
+    "970"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Atlanta ACES won by 51 Runs (D/L)",
+   "summary": "NACA U15 Red: 140/6(35) Atlanta ACES: 92/0(15)"
+  },
+  {
+   "matchId": "3124",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3124&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "Atlanta Lions",
+    "ARSCA U11"
+   ],
+   "teamIds": [
+    "958",
+    "953"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "ARSCA U11 won by 2 Wickets",
+   "summary": "Atlanta Lions: 111/10(28.2) ARSCA U11: 114/8(30)"
+  },
+  {
+   "matchId": "3120",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3120&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "NACA Red U11"
+   ],
+   "teamIds": [
+    "954",
+    "955"
+   ],
+   "ground": "Cedar Farms",
+   "result": "NACA Red U11 won by 8 Wickets",
+   "summary": "TCA U11 Chiefs: 119/10(28.5) NACA Red U11: 120/2(12.1)"
+  },
+  {
+   "matchId": "3115",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3115&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "Atlanta Destroyers"
+   ],
+   "teamIds": [
+    "957",
+    "959"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Blue U11 won by 8 Wickets",
+   "summary": "Atlanta Destroyers: 218/3(30) NACA Blue U11: 221/2(25.5)"
+  },
+  {
+   "matchId": "3117",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3117&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "NACA U13 Green",
+    "NACA U13 Blue"
+   ],
+   "teamIds": [
+    "962",
+    "963"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Blue won by 11 Runs",
+   "summary": "NACA U13 Blue: 187/4(30) NACA U13 Green: 176/6(30)"
+  },
+  {
+   "matchId": "3106",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3106&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "Atlanta Super Strikers",
+    "Geo Gladiators U13"
+   ],
+   "teamIds": [
+    "965",
+    "960"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Geo Gladiators U13 won by 46 Runs",
+   "summary": "Geo Gladiators U13: 193/8(30) Atlanta Super Strikers: 147/10(27.1)"
+  },
+  {
+   "matchId": "3111",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3111&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "Atlanta ACES",
+    "NACA U15 Green"
+   ],
+   "teamIds": [
+    "970",
+    "968"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Atlanta ACES won by 69 Runs",
+   "summary": "Atlanta ACES: 211/4(40) NACA U15 Green: 142/7(39.1)"
+  },
+  {
+   "matchId": "3105",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3105&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "Geo Giants",
+    "Atlanta Gladiators"
+   ],
+   "teamIds": [
+    "966",
+    "971"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Forfeited. Winner: Geo Giants",
+   "summary": "Geo Giants: 0/0(0)"
+  },
+  {
+   "matchId": "3035",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3035&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NACA Red U11",
+    "ARSCA U11"
+   ],
+   "teamIds": [
+    "955",
+    "953"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Red U11 won by 6 Wickets",
+   "summary": "ARSCA U11: 186/4(30) NACA Red U11: 188/4(23.1)"
+  },
+  {
+   "matchId": "3075",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3075&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NACA U13 Green",
+    "Atlanta Warriors"
+   ],
+   "teamIds": [
+    "962",
+    "964"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Green won by 9 Wickets",
+   "summary": "Atlanta Warriors: 203/4(30) NACA U13 Green: 204/1(26.3)"
+  },
+  {
+   "matchId": "3031",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3031&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NACA U13 Blue",
+    "NACA U13 Red"
+   ],
+   "teamIds": [
+    "963",
+    "961"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Red won by 8 Wickets",
+   "summary": "NACA U13 Blue: 148/8(27.4) NACA U13 Red: 152/2(17.4)"
+  },
+  {
+   "matchId": "3055",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3055&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "Atlanta ACES",
+    "Geo Giants"
+   ],
+   "teamIds": [
+    "970",
+    "966"
+   ],
+   "ground": "PARAM - G1",
+   "result": "Atlanta ACES won by 9 Wickets",
+   "summary": "Geo Giants: 64/8(20.1) Atlanta ACES: 70/1(14.3)"
+  },
+  {
+   "matchId": "3054",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3054&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "Atlanta Gladiators",
+    "NACA U15 Green"
+   ],
+   "teamIds": [
+    "971",
+    "968"
+   ],
+   "ground": "PARAM - G6",
+   "result": "NACA U15 Green won by 162 Runs",
+   "summary": "NACA U15 Green: 209/9(39.5) Atlanta Gladiators: 47/10(17.5)"
+  },
+  {
+   "matchId": "3032",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3032&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NACA U15 Red",
+    "NACA U15 Blue"
+   ],
+   "teamIds": [
+    "967",
+    "969"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U15 Blue won by 33 Runs",
+   "summary": "NACA U15 Blue: 137/8(35.5) NACA U15 Red: 104/8(28.5)"
+  },
+  {
+   "matchId": "3018",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3018&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "ARSCA U11"
+   ],
+   "teamIds": [
+    "957",
+    "953"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "Abandoned.",
+   "summary": "ARSCA U11: 224/5(30) NACA Blue U11: 74/1(9)"
+  },
+  {
+   "matchId": "3016",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3016&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "NACA Green U11"
+   ],
+   "teamIds": [
+    "954",
+    "956"
+   ],
+   "ground": "Cedar Farms Cricket Ground",
+   "result": "NACA Green U11 won by 78 Runs",
+   "summary": "NACA Green U11: 157/9(29.5) TCA U11 Chiefs: 79/10(20)"
+  },
+  {
+   "matchId": "3029",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3029&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "Atlanta Gladiators",
+    "Atlanta ACES"
+   ],
+   "teamIds": [
+    "971",
+    "970"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Forfeited. Winner: Atlanta ACES",
+   "summary": "Atlanta Gladiators: 0/0(0)"
+  },
+  {
+   "matchId": "3019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3019&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "NACA U15 Blue",
+    "Atlanta ACES"
+   ],
+   "teamIds": [
+    "969",
+    "970"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Atlanta ACES won by 50 Runs",
+   "summary": "Atlanta ACES: 215/4(35) NACA U15 Blue: 165/8(32.1)"
+  },
+  {
+   "matchId": "2989",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2989&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "NACA U13 Red",
+    "NACA U13 Green"
+   ],
+   "teamIds": [
+    "961",
+    "962"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Green won by 62 Runs",
+   "summary": "NACA U13 Green: 251/4(30) NACA U13 Red: 189/9(27.4)"
+  },
+  {
+   "matchId": "3132",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3132&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "NACA U15 Green",
+    "NACA U15 Red"
+   ],
+   "teamIds": [
+    "968",
+    "967"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Abandoned.",
+   "summary": "NACA U15 Green: 0/0(0)"
+  },
+  {
+   "matchId": "2932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2932&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "NACA Red U11",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "955",
+    "957"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Red U11 won by 72 Runs",
+   "summary": "NACA Red U11: 256/7(30) NACA Blue U11: 184/8(30)"
+  },
+  {
+   "matchId": "2916",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2916&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "Atlanta Destroyers",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "959",
+    "954"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Atlanta Destroyers won by 177 Runs",
+   "summary": "Atlanta Destroyers: 291/5(30) TCA U11 Chiefs: 114/9(23)"
+  },
+  {
+   "matchId": "2937",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2937&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "NACA U13 Blue",
+    "Atlanta Super Strikers"
+   ],
+   "teamIds": [
+    "963",
+    "965"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Blue won by 107 Runs",
+   "summary": "NACA U13 Blue: 166/8(30) Atlanta Super Strikers: 59/10(12.1)"
+  },
+  {
+   "matchId": "2915",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2915&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "Atlanta Warriors",
+    "Geo Gladiators U13"
+   ],
+   "teamIds": [
+    "964",
+    "960"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Atlanta Warriors won by 239 Runs",
+   "summary": "Atlanta Warriors: 335/5(30) Geo Gladiators U13: 96/10(26.4)"
+  },
+  {
+   "matchId": "2918",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2918&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "NACA U15 Blue",
+    "NACA U15 Green"
+   ],
+   "teamIds": [
+    "969",
+    "968"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U15 Green won by 6 Wickets",
+   "summary": "NACA U15 Blue: 229/5(40) NACA U15 Green: 230/4(38.2)"
+  },
+  {
+   "matchId": "2900",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2900&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "ARSCA U11",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "953",
+    "954"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "ARSCA U11 won by 7 Wickets",
+   "summary": "TCA U11 Chiefs: 124/6(30) ARSCA U11: 125/3(21.1)"
+  },
+  {
+   "matchId": "2854",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2854&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "Atlanta Lions"
+   ],
+   "teamIds": [
+    "957",
+    "958"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "Atlanta Lions won by 6 Wickets",
+   "summary": "NACA Blue U11: 181/4(30) Atlanta Lions: 183/4(19.3)"
+  },
+  {
+   "matchId": "2906",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2906&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "Atlanta Super Strikers",
+    "NACA U13 Green"
+   ],
+   "teamIds": [
+    "965",
+    "962"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA U13 Green won by 123 Runs",
+   "summary": "NACA U13 Green: 297/6(30) Atlanta Super Strikers: 174/9(30)"
+  },
+  {
+   "matchId": "2856",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2856&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "Atlanta Warriors",
+    "NACA U13 Red"
+   ],
+   "teamIds": [
+    "964",
+    "961"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Atlanta Warriors won by 25 Runs",
+   "summary": "Atlanta Warriors: 269/4(30) NACA U13 Red: 244/6(30)"
+  },
+  {
+   "matchId": "2871",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2871&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "NACA U15 Red",
+    "Geo Giants"
+   ],
+   "teamIds": [
+    "967",
+    "966"
+   ],
+   "ground": "PARAM - G6",
+   "result": "NACA U15 Red won by 145 Runs",
+   "summary": "NACA U15 Red: 264/5(40) Geo Giants: 119/10(25.3)"
+  },
+  {
+   "matchId": "2868",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2868&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "Atlanta ACES",
+    "Atlanta Gladiators"
+   ],
+   "teamIds": [
+    "970",
+    "971"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Atlanta ACES won by 330 Runs",
+   "summary": "Atlanta ACES: 392/6(40) Atlanta Gladiators: 62/10(24.1)"
+  },
+  {
+   "matchId": "2867",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2867&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "NACA U15 Blue",
+    "NACA U15 Green"
+   ],
+   "teamIds": [
+    "969",
+    "968"
+   ],
+   "ground": "PARAM - G2",
+   "result": "NACA U15 Blue won by 5 Wickets",
+   "summary": "NACA U15 Green: 108/9(30.4) NACA U15 Blue: 111/5(26)"
+  },
+  {
+   "matchId": "2840",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2840&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "954",
+    "957"
+   ],
+   "ground": "Cedar Farms",
+   "result": "NACA Blue U11 won by 53 Runs",
+   "summary": "NACA Blue U11: 223/4(30) TCA U11 Chiefs: 170/10(29.2)"
+  },
+  {
+   "matchId": "2767",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2767&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "Atlanta Destroyers",
+    "NACA Green U11"
+   ],
+   "teamIds": [
+    "959",
+    "956"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Atlanta Destroyers won by 8 Wickets",
+   "summary": "NACA Green U11: 70/7(20.1) Atlanta Destroyers: 73/2(9.3)"
+  },
+  {
+   "matchId": "2766",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2766&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "NACA Red U11",
+    "Atlanta Lions"
+   ],
+   "teamIds": [
+    "955",
+    "958"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Red U11 won by 8 Wickets",
+   "summary": "Atlanta Lions: 274/6(30) NACA Red U11: 277/2(26.2)"
+  },
+  {
+   "matchId": "2810",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2810&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "NACA U13 Blue",
+    "NACA U13 Green"
+   ],
+   "teamIds": [
+    "963",
+    "962"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Green won by 2 Runs (D/L)",
+   "summary": "NACA U13 Green: 214/5(30) NACA U13 Blue: 121/2(20)"
+  },
+  {
+   "matchId": "2808",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2808&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "Geo Gladiators U13",
+    "NACA U13 Red"
+   ],
+   "teamIds": [
+    "960",
+    "961"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA U13 Red won by 8 Wickets",
+   "summary": "Geo Gladiators U13: 120/9(30) NACA U13 Red: 121/2(16.5)"
+  },
+  {
+   "matchId": "2786",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2786&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "Atlanta Gladiators",
+    "NACA U15 Red"
+   ],
+   "teamIds": [
+    "971",
+    "967"
+   ],
+   "ground": "PARAM - G2",
+   "result": "NACA U15 Red won by 284 Runs",
+   "summary": "NACA U15 Red: 316/7(40.1) Atlanta Gladiators: 32/10(14.5)"
+  },
+  {
+   "matchId": "2783",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2783&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "NACA U15 Blue",
+    "Geo Giants"
+   ],
+   "teamIds": [
+    "969",
+    "966"
+   ],
+   "ground": "PARAM - G4",
+   "result": "NACA U15 Blue won by 54 Runs",
+   "summary": "NACA U15 Blue: 219/6(40) Geo Giants: 165/10(39.2)"
+  },
+  {
+   "matchId": "2778",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2778&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "NACA U15 Green",
+    "Atlanta ACES"
+   ],
+   "teamIds": [
+    "968",
+    "970"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Atlanta ACES won by 3 Wickets",
+   "summary": "NACA U15 Green: 132/9(31.1) Atlanta ACES: 133/7(21.3)"
+  },
+  {
+   "matchId": "2750",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2750&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "Atlanta Lions"
+   ],
+   "teamIds": [
+    "954",
+    "958"
+   ],
+   "ground": "Cedar Farms",
+   "result": "Atlanta Lions won by 186 Runs",
+   "summary": "Atlanta Lions: 346/5(30) TCA U11 Chiefs: 160/10(23.2)"
+  },
+  {
+   "matchId": "2744",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2744&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "NACA Green U11",
+    "ARSCA U11"
+   ],
+   "teamIds": [
+    "956",
+    "953"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Green U11 won by 8 Wickets",
+   "summary": "ARSCA U11: 175/6(30) NACA Green U11: 178/2(24.1)"
+  },
+  {
+   "matchId": "2745",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2745&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "NACA U13 Green",
+    "Atlanta Warriors"
+   ],
+   "teamIds": [
+    "962",
+    "964"
+   ],
+   "ground": "Cauley Creek",
+   "result": "Atlanta Warriors won by 14 Runs",
+   "summary": "Atlanta Warriors: 231/8(30) NACA U13 Green: 217/6(30)"
+  },
+  {
+   "matchId": "2737",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2737&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "Geo Gladiators U13",
+    "Atlanta Super Strikers"
+   ],
+   "teamIds": [
+    "960",
+    "965"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Geo Gladiators U13 won by 15 Runs",
+   "summary": "Geo Gladiators U13: 193/6(30) Atlanta Super Strikers: 178/10(29.1)"
+  },
+  {
+   "matchId": "2739",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2739&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "Geo Giants",
+    "NACA U15 Red"
+   ],
+   "teamIds": [
+    "966",
+    "967"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U15 Red won by 12 Runs",
+   "summary": "NACA U15 Red: 219/10(37.5) Geo Giants: 207/5(40)"
+  },
+  {
+   "matchId": "2724",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2724&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "Atlanta Destroyers",
+    "NACA Red U11"
+   ],
+   "teamIds": [
+    "959",
+    "955"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Atlanta Destroyers won by 7 Wickets",
+   "summary": "NACA Red U11: 177/6(30) Atlanta Destroyers: 178/3(27.4)"
+  },
+  {
+   "matchId": "2701",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2701&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "NACA Green U11",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "956",
+    "957"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Green U11 won by 4 Wickets",
+   "summary": "NACA Blue U11: 162/8(30) NACA Green U11: 165/6(25)"
+  },
+  {
+   "matchId": "2723",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2723&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "Geo Gladiators U13",
+    "NACA U13 Green"
+   ],
+   "teamIds": [
+    "960",
+    "962"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA U13 Green won by 217 Runs",
+   "summary": "NACA U13 Green: 411/2(30) Geo Gladiators U13: 194/9(30)"
+  },
+  {
+   "matchId": "2700",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2700&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "NACA U13 Red",
+    "NACA U13 Blue"
+   ],
+   "teamIds": [
+    "961",
+    "963"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Red won by 8 Wickets",
+   "summary": "NACA U13 Blue: 190/7(30) NACA U13 Red: 191/2(21.4)"
+  },
+  {
+   "matchId": "2710",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2710&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "Geo Giants",
+    "NACA U15 Green"
+   ],
+   "teamIds": [
+    "966",
+    "968"
+   ],
+   "ground": "PARAM - G3",
+   "result": "NACA U15 Green won by 4 Wickets",
+   "summary": "Geo Giants: 78/9(25.3) NACA U15 Green: 79/6(17.3)"
+  },
+  {
+   "matchId": "2709",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2709&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "Atlanta ACES",
+    "NACA U15 Red"
+   ],
+   "teamIds": [
+    "970",
+    "967"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Atlanta ACES won by 5 Wickets",
+   "summary": "NACA U15 Red: 153/8(40) Atlanta ACES: 156/5(24.2)"
+  },
+  {
+   "matchId": "2708",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2708&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "NACA U15 Blue",
+    "Atlanta Gladiators"
+   ],
+   "teamIds": [
+    "969",
+    "971"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U15 Blue won by 15 Runs",
+   "summary": "NACA U15 Blue: 122/8(25) Atlanta Gladiators: 107/7(34.5)"
+  },
+  {
+   "matchId": "2686",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2686&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "ARSCA U11",
+    "Atlanta Destroyers"
+   ],
+   "teamIds": [
+    "953",
+    "959"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Atlanta Destroyers won by 57 Runs",
+   "summary": "Atlanta Destroyers: 211/4(30) ARSCA U11: 154/7(30)"
+  },
+  {
+   "matchId": "2682",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2682&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "NACA Green U11",
+    "NACA Red U11"
+   ],
+   "teamIds": [
+    "956",
+    "955"
+   ],
+   "ground": "Shakerag Park- Field 3",
+   "result": "NACA Red U11 won by 2 Wickets",
+   "summary": "NACA Green U11: 212/1(30) NACA Red U11: 213/8(28.3)"
+  },
+  {
+   "matchId": "2684",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2684&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "Atlanta Super Strikers",
+    "NACA U13 Red"
+   ],
+   "teamIds": [
+    "965",
+    "961"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA U13 Red won by 145 Runs",
+   "summary": "NACA U13 Red: 307/2(30) Atlanta Super Strikers: 162/9(30)"
+  },
+  {
+   "matchId": "2679",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2679&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "NACA U13 Blue",
+    "Atlanta Warriors"
+   ],
+   "teamIds": [
+    "963",
+    "964"
+   ],
+   "ground": "Cauley Creek",
+   "result": "Atlanta Warriors won by 7 Wickets",
+   "summary": "NACA U13 Blue: 201/5(30) Atlanta Warriors: 204/3(26.1)"
+  },
+  {
+   "matchId": "2672",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2672&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "NACA U15 Red",
+    "Atlanta Gladiators"
+   ],
+   "teamIds": [
+    "967",
+    "971"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U15 Red won by 10 Wickets",
+   "summary": "Atlanta Gladiators: 62/10(20.1) NACA U15 Red: 64/0(7)"
+  },
+  {
+   "matchId": "2660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2660&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "Atlanta Lions",
+    "NACA Green U11"
+   ],
+   "teamIds": [
+    "958",
+    "956"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Atlanta Lions won by 29 Runs",
+   "summary": "Atlanta Lions: 231/10(24.2) NACA Green U11: 202/8(28.3)"
+  },
+  {
+   "matchId": "2646",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2646&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "Atlanta Destroyers",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "959",
+    "957"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Atlanta Destroyers won by 17 Runs",
+   "summary": "Atlanta Destroyers: 146/4(20) NACA Blue U11: 129/6(20)"
+  },
+  {
+   "matchId": "2657",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2657&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "Atlanta Warriors",
+    "Geo Gladiators U13"
+   ],
+   "teamIds": [
+    "964",
+    "960"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Atlanta Warriors won by 182 Runs",
+   "summary": "Atlanta Warriors: 358/1(30) Geo Gladiators U13: 176/10(29)"
+  },
+  {
+   "matchId": "2655",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2655&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "NACA U13 Red",
+    "NACA U13 Green"
+   ],
+   "teamIds": [
+    "961",
+    "962"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Red won by 6 Wickets",
+   "summary": "NACA U13 Green: 225/5(30) NACA U13 Red: 229/4(26)"
+  },
+  {
+   "matchId": "2653",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2653&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "Geo Giants",
+    "Atlanta ACES"
+   ],
+   "teamIds": [
+    "966",
+    "970"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Atlanta ACES won by 9 Wickets",
+   "summary": "Geo Giants: 93/10(22.4) Atlanta ACES: 94/1(16.1)"
+  },
+  {
+   "matchId": "2649",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2649&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "NACA U15 Red",
+    "NACA U15 Blue"
+   ],
+   "teamIds": [
+    "967",
+    "969"
+   ],
+   "ground": "PARAM - G4",
+   "result": "NACA U15 Red won by 6 Wickets",
+   "summary": "NACA U15 Blue: 73/9(23.1) NACA U15 Red: 77/4(18.2)"
+  },
+  {
+   "matchId": "2648",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2648&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "NACA U15 Green",
+    "Atlanta Gladiators"
+   ],
+   "teamIds": [
+    "968",
+    "971"
+   ],
+   "ground": "PARAM - G3",
+   "result": "NACA U15 Green won by 6 Wickets",
+   "summary": "Atlanta Gladiators: 117/10(27) NACA U15 Green: 119/4(16.5)"
+  },
+  {
+   "matchId": "2626",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2626&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "ARSCA U11",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "953",
+    "957"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "ARSCA U11 won by 1 Wicket",
+   "summary": "NACA Blue U11: 142/4(30) ARSCA U11: 144/9(29.3)"
+  },
+  {
+   "matchId": "2619",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2619&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "NACA Green U11",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "956",
+    "954"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "NACA Green U11 won by 19 Runs",
+   "summary": "NACA Green U11: 155/5(30) TCA U11 Chiefs: 136/10(22.2)"
+  },
+  {
+   "matchId": "2623",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2623&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "NACA U13 Red",
+    "Atlanta Warriors"
+   ],
+   "teamIds": [
+    "961",
+    "964"
+   ],
+   "ground": "Cauley Creek",
+   "result": "Atlanta Warriors won by 26 Runs",
+   "summary": "Atlanta Warriors: 256/2(30) NACA U13 Red: 230/7(30)"
+  },
+  {
+   "matchId": "2617",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2617&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "Atlanta Super Strikers",
+    "NACA U13 Blue"
+   ],
+   "teamIds": [
+    "965",
+    "963"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA U13 Blue won by 10 Wickets",
+   "summary": "Atlanta Super Strikers: 173/4(30) NACA U13 Blue: 174/0(19.4)"
+  },
+  {
+   "matchId": "2622",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2622&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "Geo Giants",
+    "NACA U15 Blue"
+   ],
+   "teamIds": [
+    "966",
+    "969"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U15 Blue won by 107 Runs",
+   "summary": "NACA U15 Blue: 297/9(36.5) Geo Giants: 190/10(35)"
+  },
+  {
+   "matchId": "2604",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2604&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "NACA Red U11",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "955",
+    "954"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "TCA U11 Chiefs won by 1 Wicket",
+   "summary": "NACA Red U11: 169/7(30) TCA U11 Chiefs: 172/9(29)"
+  },
+  {
+   "matchId": "2587",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2587&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "Atlanta Lions",
+    "Atlanta Destroyers"
+   ],
+   "teamIds": [
+    "958",
+    "959"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Atlanta Destroyers won by 10 Wickets",
+   "summary": "Atlanta Lions: 132/10(27.4) Atlanta Destroyers: 136/0(16.1)"
+  },
+  {
+   "matchId": "2605",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2605&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "NACA U13 Green",
+    "Atlanta Super Strikers"
+   ],
+   "teamIds": [
+    "962",
+    "965"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Green won by 10 Wickets",
+   "summary": "Atlanta Super Strikers: 136/10(29) NACA U13 Green: 138/0(20)"
+  },
+  {
+   "matchId": "2590",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2590&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "NACA U13 Blue",
+    "Geo Gladiators U13"
+   ],
+   "teamIds": [
+    "963",
+    "960"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA U13 Blue won by 171 Runs",
+   "summary": "NACA U13 Blue: 240/3(30) Geo Gladiators U13: 69/9(17.5)"
+  },
+  {
+   "matchId": "2603",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2603&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "Atlanta Gladiators",
+    "Geo Giants"
+   ],
+   "teamIds": [
+    "971",
+    "966"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Geo Giants won by 6 Wickets",
+   "summary": "Atlanta Gladiators: 141/10(28.2) Geo Giants: 142/4(18.4)"
+  },
+  {
+   "matchId": "2597",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2597&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "NACA U15 Green",
+    "NACA U15 Red"
+   ],
+   "teamIds": [
+    "968",
+    "967"
+   ],
+   "ground": "PARAM - G4",
+   "result": "NACA U15 Red won by 4 Wickets",
+   "summary": "NACA U15 Green: 181/8(40) NACA U15 Red: 182/6(30.4)"
+  },
+  {
+   "matchId": "2592",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2592&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "Atlanta ACES",
+    "NACA U15 Blue"
+   ],
+   "teamIds": [
+    "970",
+    "969"
+   ],
+   "ground": "PARAM - G6",
+   "result": "Atlanta ACES won by 3 Wickets",
+   "summary": "NACA U15 Blue: 189/8(40) Atlanta ACES: 190/7(36.5)"
+  }
+ ]
+}

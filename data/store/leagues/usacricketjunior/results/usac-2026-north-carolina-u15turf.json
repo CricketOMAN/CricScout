@@ -1,0 +1,48 @@
+{
+ "season": {
+  "key": "s58",
+  "id": "legacy-526",
+  "name": "USAC 2026 - North Carolina - U15Turf"
+ },
+ "fetchedAt": "2026-11-13T21:42:11.096Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=526&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=526&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "7616",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7616&clubId=40319",
+   "date": "2026-05-01",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3163",
+    "3165"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Team Blue won by 26 Runs",
+   "summary": "Team Blue: 211/13(40) Team Green: 185/10(40)"
+  },
+  {
+   "matchId": "7615",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7615&clubId=40319",
+   "date": "2026-05-01",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3162",
+    "3164"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Team Yellow won by 5 Runs",
+   "summary": "Team Yellow: 216/12(40) Team Red: 211/14(37.1)"
+  }
+ ]
+}

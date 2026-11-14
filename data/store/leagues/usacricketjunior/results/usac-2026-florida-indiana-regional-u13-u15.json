@@ -1,0 +1,99 @@
+{
+ "season": {
+  "key": "s28",
+  "id": "legacy-565",
+  "name": "USAC 2026 Florida - Indiana Regional - U13 & U15"
+ },
+ "fetchedAt": "2026-11-13T21:40:39.634Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=565&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=565&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9038",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9038&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "Florida",
+    "Indiana"
+   ],
+   "teamIds": [
+    "3400",
+    "3401"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Florida won by 5 Wickets",
+   "summary": "Indiana: 155/4(40) Florida: 156/5(36.1)"
+  },
+  {
+   "matchId": "8999",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8999&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Florida",
+    "Indiana"
+   ],
+   "teamIds": [
+    "3400",
+    "3401"
+   ],
+   "ground": "ACF - G1",
+   "result": "Florida won by 196 Runs",
+   "summary": "Florida: 196/6(38.4)"
+  },
+  {
+   "matchId": "8889",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8889&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "Florida U15",
+    "Indiana U15"
+   ],
+   "teamIds": [
+    "3337",
+    "3338"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Florida U15 won by 95 Runs",
+   "summary": "Florida U15: 178/8(40) Indiana U15: 83/10(33.2)"
+  },
+  {
+   "matchId": "8871",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8871&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Florida U15",
+    "Indiana U15"
+   ],
+   "teamIds": [
+    "3337",
+    "3338"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Florida U15 won by 6 Wickets",
+   "summary": "Indiana U15: 63/12(33.5) Florida U15: 67/4(16.4)"
+  },
+  {
+   "matchId": "8859",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8859&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Florida U15",
+    "Indiana U15"
+   ],
+   "teamIds": [
+    "3337",
+    "3338"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Florida U15 won by 106 Runs",
+   "summary": "Florida U15: 200/6(40) Indiana U15: 94/10(30.3)"
+  }
+ ]
+}

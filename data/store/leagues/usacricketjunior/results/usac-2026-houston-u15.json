@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s126",
+  "id": "legacy-440",
+  "name": "USAC 2026 - Houston - U15"
+ },
+ "fetchedAt": "2026-11-13T22:05:42.169Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=440&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=440&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8092",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8092&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "EY Knights",
+    "NW Panthers"
+   ],
+   "teamIds": [
+    "2578",
+    "2581"
+   ],
+   "ground": "JPLN",
+   "result": "EY Knights won by 99 Runs",
+   "summary": "EY Knights: 237/8(35) NW Panthers: 138/8(27.2)"
+  },
+  {
+   "matchId": "8043",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8043&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "KY Eagles",
+    "NC Superwarriors"
+   ],
+   "teamIds": [
+    "2579",
+    "2580"
+   ],
+   "ground": "JPLE",
+   "result": "KY Eagles won by 40 Runs",
+   "summary": "KY Eagles: 219/8(40) NC Superwarriors: 179/5(40)"
+  },
+  {
+   "matchId": "8040",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8040&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "NW Titans"
+   ],
+   "teamIds": [
+    "2583",
+    "2582"
+   ],
+   "ground": "JPLW",
+   "result": "SL Pulsars won by 7 Wickets",
+   "summary": "NW Titans: 172/10(39.2) SL Pulsars: 173/3(26.4)"
+  },
+  {
+   "matchId": "7884",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7884&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "NW Panthers",
+    "KY Eagles"
+   ],
+   "teamIds": [
+    "2581",
+    "2579"
+   ],
+   "ground": "Al-Huda",
+   "result": "KY Eagles won by 49 Runs",
+   "summary": "KY Eagles: 201/10(35.3) NW Panthers: 152/9(31.2)"
+  },
+  {
+   "matchId": "7860",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7860&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "NW Titans"
+   ],
+   "teamIds": [
+    "2583",
+    "2582"
+   ],
+   "ground": "JCP",
+   "result": "SL Pulsars won by 25 Runs",
+   "summary": "SL Pulsars: 167/10(39.3) NW Titans: 142/10(36.1)"
+  },
+  {
+   "matchId": "7859",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7859&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "NC Superwarriors",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "2580",
+    "2578"
+   ],
+   "ground": "MatzkeW",
+   "result": "EY Knights won by 108 Runs",
+   "summary": "EY Knights: 271/9(40) NC Superwarriors: 163/9(40)"
+  },
+  {
+   "matchId": "7664",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7664&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NW Panthers",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "2581",
+    "2578"
+   ],
+   "ground": "JCP",
+   "result": "NW Panthers won by 4 Wickets",
+   "summary": "EY Knights: 252/6(35) NW Panthers: 254/6(32.1)"
+  },
+  {
+   "matchId": "7463",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7463&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "KY Eagles"
+   ],
+   "teamIds": [
+    "2583",
+    "2579"
+   ],
+   "ground": "JPLE",
+   "result": "KY Eagles won by 8 Wickets",
+   "summary": "SL Pulsars: 104/10(39.4) KY Eagles: 108/2(15)"
+  },
+  {
+   "matchId": "7457",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7457&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "NW Titans",
+    "NC Superwarriors"
+   ],
+   "teamIds": [
+    "2582",
+    "2580"
+   ],
+   "ground": "JPLW",
+   "result": "NW Titans won by 21 Runs",
+   "summary": "NW Titans: 175/10(38.5) NC Superwarriors: 154/10(35.4)"
+  },
+  {
+   "matchId": "7291",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7291&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "NW Titans",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "2582",
+    "2578"
+   ],
+   "ground": "JPLE",
+   "result": "EY Knights won by 8 Wickets",
+   "summary": "NW Titans: 204/8(40) EY Knights: 205/2(30.1)"
+  },
+  {
+   "matchId": "7290",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7290&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "NW Panthers"
+   ],
+   "teamIds": [
+    "2583",
+    "2581"
+   ],
+   "ground": "JCP",
+   "result": "SL Pulsars won by 51 Runs (D/L)",
+   "summary": "NW Panthers: 216/10(40) SL Pulsars: 118/1(18)"
+  },
+  {
+   "matchId": "7209",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7209&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "NW Panthers",
+    "NC Superwarriors"
+   ],
+   "teamIds": [
+    "2581",
+    "2580"
+   ],
+   "ground": "JPLE",
+   "result": "NC Superwarriors won by 82 Runs",
+   "summary": "NC Superwarriors: 157/10(38) NW Panthers: 75/8(21.1)"
+  },
+  {
+   "matchId": "7159",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7159&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "2583",
+    "2578"
+   ],
+   "ground": "JCP",
+   "result": "SL Pulsars won by 4 Wickets",
+   "summary": "EY Knights: 264/10(39.2) SL Pulsars: 268/6(34.3)"
+  },
+  {
+   "matchId": "7153",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7153&clubId=40319",
+   "date": "2026-04-03",
+   "type": "League",
+   "teams": [
+    "NW Titans",
+    "KY Eagles"
+   ],
+   "teamIds": [
+    "2582",
+    "2579"
+   ],
+   "ground": "JPLW",
+   "result": "KY Eagles won by 6 Wickets (D/L)",
+   "summary": "NW Titans: 124/8(29) KY Eagles: 98/4(16.1)"
+  },
+  {
+   "matchId": "7095",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7095&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "NC Superwarriors",
+    "KY Eagles"
+   ],
+   "teamIds": [
+    "2580",
+    "2579"
+   ],
+   "ground": "JCP",
+   "result": "KY Eagles won by 8 Wickets",
+   "summary": "NC Superwarriors: 173/10(35) KY Eagles: 175/2(26.4)"
+  },
+  {
+   "matchId": "7042",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7042&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "NW Panthers",
+    "NW Titans"
+   ],
+   "teamIds": [
+    "2581",
+    "2582"
+   ],
+   "ground": "JPLE",
+   "result": "NW Panthers won by 5 Wickets",
+   "summary": "NW Titans: 240/5(40) NW Panthers: 241/5(33.1)"
+  },
+  {
+   "matchId": "7041",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7041&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "NC Superwarriors"
+   ],
+   "teamIds": [
+    "2583",
+    "2580"
+   ],
+   "ground": "Stars",
+   "result": "SL Pulsars won by 107 Runs",
+   "summary": "SL Pulsars: 249/10(30.5) NC Superwarriors: 142/10(32.5)"
+  },
+  {
+   "matchId": "7040",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7040&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "KY Eagles",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "2579",
+    "2578"
+   ],
+   "ground": "JCP",
+   "result": "KY Eagles won by 24 Runs",
+   "summary": "KY Eagles: 338/5(40) EY Knights: 314/10(37.2)"
+  }
+ ]
+}

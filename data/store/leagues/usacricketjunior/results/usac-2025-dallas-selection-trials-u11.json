@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s143",
+  "id": "legacy-383",
+  "name": "USAC 2025 Dallas Selection Trials U11"
+ },
+ "fetchedAt": "2026-11-13T22:15:39.910Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=383&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=383&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6072",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6072&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "Dallas U11 Blue",
+    "Dallas U11 green"
+   ],
+   "teamIds": [
+    "2230",
+    "2231"
+   ],
+   "ground": "Russel Creek G2",
+   "result": "Dallas U11 Blue won by 1 Run (D/L)",
+   "summary": "Dallas U11 green: 125/11(28.5) Dallas U11 Blue: 144/5(30)"
+  },
+  {
+   "matchId": "6071",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6071&clubId=40319",
+   "date": "2025-07-20",
+   "type": "League",
+   "teams": [
+    "Dallas U11 Red",
+    "Dallas U11 yellow"
+   ],
+   "teamIds": [
+    "2229",
+    "2232"
+   ],
+   "ground": "Russel Creek G1",
+   "result": "Dallas U11 yellow won by 80 Runs",
+   "summary": "Dallas U11 yellow: 177/9(30) Dallas U11 Red: 97/6(29.5)"
+  },
+  {
+   "matchId": "6055",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6055&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Dallas U11 yellow",
+    "Dallas U11 green"
+   ],
+   "teamIds": [
+    "2232",
+    "2231"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "Dallas U11 yellow won by 43 Runs",
+   "summary": "Dallas U11 yellow: 136/7(30) Dallas U11 green: 93/11(28.2)"
+  },
+  {
+   "matchId": "6054",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6054&clubId=40319",
+   "date": "2025-07-19",
+   "type": "League",
+   "teams": [
+    "Dallas U11 Blue",
+    "Dallas U11 Red"
+   ],
+   "teamIds": [
+    "2230",
+    "2229"
+   ],
+   "ground": "Russel Creek G1",
+   "result": "Dallas U11 Blue won by 2 Runs (D/L)",
+   "summary": "Dallas U11 Red: 111/8(30) Dallas U11 Blue: 138/4(30)"
+  },
+  {
+   "matchId": "6026",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6026&clubId=40319",
+   "date": "2025-07-18",
+   "type": "League",
+   "teams": [
+    "Dallas U11 Red",
+    "Dallas U11 green"
+   ],
+   "teamIds": [
+    "2229",
+    "2231"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Dallas U11 Red won by 5 Wickets",
+   "summary": "Dallas U11 green: 163/11(29) Dallas U11 Red: 166/5(28.5)"
+  },
+  {
+   "matchId": "6025",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6025&clubId=40319",
+   "date": "2025-07-18",
+   "type": "League",
+   "teams": [
+    "Dallas U11 Blue",
+    "Dallas U11 yellow"
+   ],
+   "teamIds": [
+    "2230",
+    "2232"
+   ],
+   "ground": "Stallions CG3",
+   "result": "Dallas U11 yellow won by 4 Runs (D/L)",
+   "summary": "Dallas U11 Blue: 151/8(30) Dallas U11 yellow: 204/6(30)"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s38",
+  "id": "legacy-555",
+  "name": "USAC 2026 - Dallas U11 Phase 2"
+ },
+ "fetchedAt": "2026-11-13T21:41:11.858Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=555&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=555&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8822",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8822&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas Orange U11",
+    "Dallas Gold U11"
+   ],
+   "teamIds": [
+    "3278",
+    "3276"
+   ],
+   "ground": "BF Philips",
+   "result": "Dallas Orange U11 won by 32 Runs",
+   "summary": "Dallas Orange U11: 110/8(29.2) Dallas Gold U11: 78/11(21.1)"
+  },
+  {
+   "matchId": "8803",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8803&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas Blue U11",
+    "Dallas Teal U11"
+   ],
+   "teamIds": [
+    "3283",
+    "3281"
+   ],
+   "ground": "Frisco NE1",
+   "result": "Dallas Teal U11 won by 6 Wickets",
+   "summary": "Dallas Blue U11: 111/8(30) Dallas Teal U11: 112/4(27.5)"
+  },
+  {
+   "matchId": "8802",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8802&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas Red U11",
+    "Dallas Purple U11"
+   ],
+   "teamIds": [
+    "3282",
+    "3280"
+   ],
+   "ground": "Frisco NE3",
+   "result": "Dallas Purple U11 won by 12 Runs",
+   "summary": "Dallas Purple U11: 134/7(30) Dallas Red U11: 122/10(29.4)"
+  },
+  {
+   "matchId": "8801",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8801&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas Green U11",
+    "Dallas Navy U11"
+   ],
+   "teamIds": [
+    "3279",
+    "3277"
+   ],
+   "ground": "Frisco NE2",
+   "result": "Dallas Navy U11 won by 4 Runs",
+   "summary": "Dallas Navy U11: 124/8(30) Dallas Green U11: 120/10(29.3)"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s355",
+  "id": "legacy-39",
+  "name": "USAC Junior 2023 -St Louis Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:16:14.121Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=39&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=39&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1925",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1925&clubId=40319",
+   "date": "2023-06-23",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "KYCA ICON U-15"
+   ],
+   "teamIds": [
+    "517",
+    "694"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Gladiators won by 7 Wickets",
+   "summary": "KYCA ICON U-15: 178/8(40) ACAC Gladiators: 181/3(23.1)"
+  },
+  {
+   "matchId": "1919",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1919&clubId=40319",
+   "date": "2023-06-22",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "KYCA ICON U-15"
+   ],
+   "teamIds": [
+    "517",
+    "694"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Gladiators won by 68 Runs",
+   "summary": "ACAC Gladiators: 133/10(17.3) KYCA ICON U-15: 65/10(16)"
+  },
+  {
+   "matchId": "1916",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1916&clubId=40319",
+   "date": "2023-06-21",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "KYCA ICON U-15"
+   ],
+   "teamIds": [
+    "517",
+    "694"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Gladiators won by 192 Runs",
+   "summary": "ACAC Gladiators: 285/10(39.4) KYCA ICON U-15: 93/10(30.4)"
+  },
+  {
+   "matchId": "1910",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1910&clubId=40319",
+   "date": "2023-06-20",
+   "type": "League",
+   "teams": [
+    "ACAC Gladiators",
+    "KYCA ICON U-15"
+   ],
+   "teamIds": [
+    "517",
+    "694"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Gladiators won by 173 Runs",
+   "summary": "ACAC Gladiators: 249/10(37.2) KYCA ICON U-15: 76/10(28.5)"
+  }
+ ]
+}

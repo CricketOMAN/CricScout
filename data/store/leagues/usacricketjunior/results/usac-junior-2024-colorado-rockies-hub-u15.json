@@ -1,0 +1,99 @@
+{
+ "season": {
+  "key": "s247",
+  "id": "legacy-214",
+  "name": "USAC Junior 2024 - Colorado Rockies Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:42:16.918Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=214&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=214&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4136",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4136&clubId=40319",
+   "date": "2024-10-06",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "1276",
+    "1277"
+   ],
+   "ground": "Zanewood MN",
+   "result": "Super Over. Winner: DYCA-Castle Rock Super Kings U15",
+   "summary": "DYCA-Castle Rock Super Kings U15: 117/11(25) DYCA-Highlands Ranch Hurricanes U15: 117/11(24.5)"
+  },
+  {
+   "matchId": "3641",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3641&clubId=40319",
+   "date": "2024-07-02",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "1276",
+    "1277"
+   ],
+   "ground": "Cornerstone Ground",
+   "result": "DYCA-Highlands Ranch Hurricanes U15 won by 11 Runs (D/L)",
+   "summary": "DYCA-Highlands Ranch Hurricanes U15: 149/8(19.4) DYCA-Castle Rock Super Kings U15: 43/1(7)"
+  },
+  {
+   "matchId": "3638",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3638&clubId=40319",
+   "date": "2024-07-01",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "1276",
+    "1277"
+   ],
+   "ground": "GVR",
+   "result": "DYCA-Castle Rock Super Kings U15 won by 7 Runs",
+   "summary": "DYCA-Castle Rock Super Kings U15: 133/7(20) DYCA-Highlands Ranch Hurricanes U15: 126/7(20)"
+  },
+  {
+   "matchId": "3636",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3636&clubId=40319",
+   "date": "2024-07-01",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "1276",
+    "1277"
+   ],
+   "ground": "GVR",
+   "result": "DYCA-Castle Rock Super Kings U15 won by 25 Runs",
+   "summary": "DYCA-Castle Rock Super Kings U15: 117/8(20) DYCA-Highlands Ranch Hurricanes U15: 92/9(20)"
+  },
+  {
+   "matchId": "3635",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3635&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "DYCA-Castle Rock Super Kings U15",
+    "DYCA-Highlands Ranch Hurricanes U15"
+   ],
+   "teamIds": [
+    "1276",
+    "1277"
+   ],
+   "ground": "Cornerstone Ground",
+   "result": "DYCA-Highlands Ranch Hurricanes U15 won by 4 Wickets",
+   "summary": "DYCA-Castle Rock Super Kings U15: 92/8(19.1) DYCA-Highlands Ranch Hurricanes U15: 94/6(17.4)"
+  }
+ ]
+}

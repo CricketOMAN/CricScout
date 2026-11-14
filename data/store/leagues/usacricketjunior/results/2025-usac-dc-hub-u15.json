@@ -1,0 +1,779 @@
+{
+ "season": {
+  "key": "s185",
+  "id": "legacy-317",
+  "name": "2025 USAC DC HUB U15"
+ },
+ "fetchedAt": "2026-11-13T22:23:13.427Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=317&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=317&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5905",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5905&clubId=40319",
+   "date": "2025-06-28",
+   "type": "Final",
+   "teams": [
+    "BRSS Mavericks",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1807",
+    "1810"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "BRSS Mavericks won by 7 Runs",
+   "summary": "BRSS Mavericks: 156/6(25) BRSS Knights: 149/6(25)"
+  },
+  {
+   "matchId": "5787",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5787&clubId=40319",
+   "date": "2025-06-21",
+   "type": "Semi Final",
+   "teams": [
+    "FSSC Sharks",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1816",
+    "1810"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Knights won by 3 Wickets",
+   "summary": "FSSC Sharks: 111/8(35.2) BRSS Knights: 112/7(30.5)"
+  },
+  {
+   "matchId": "5775",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5775&clubId=40319",
+   "date": "2025-06-21",
+   "type": "Semi Final",
+   "teams": [
+    "BRSS Mavericks",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1807",
+    "1813"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "Forfeited. Winner: BRSS Mavericks",
+   "summary": "BRSS Mavericks: 0/0(0)"
+  },
+  {
+   "matchId": "5674",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5674&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "WCA",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "1818",
+    "1815"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "BRSS Royals won by 5 Wickets",
+   "summary": "WCA: 114/10(28.4) BRSS Royals: 119/5(26.4)"
+  },
+  {
+   "matchId": "5668",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5668&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "1810",
+    "1808"
+   ],
+   "ground": "Richmond",
+   "result": "BRSS Knights won by 8 Wickets",
+   "summary": "RYC Strikers: 157/10(40) BRSS Knights: 158/2(27.2)"
+  },
+  {
+   "matchId": "5664",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5664&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1816",
+    "1813"
+   ],
+   "ground": "Cedar Morris Hill",
+   "result": "FSSC Sharks won by 4 Runs",
+   "summary": "FSSC Sharks: 202/7(40) FSSC Lions: 198/8(38.4)"
+  },
+  {
+   "matchId": "5658",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5658&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "BRSS Knight Riders"
+   ],
+   "teamIds": [
+    "1814",
+    "1811"
+   ],
+   "ground": "Cradlerock",
+   "result": "BRSS Knight Riders won by 131 Runs",
+   "summary": "BRSS Knight Riders: 233/7(40) SOCA Marvels: 102/8(31.1)"
+  },
+  {
+   "matchId": "5657",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5657&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "SOCA Strikers"
+   ],
+   "teamIds": [
+    "1812",
+    "1809"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "LCCA Titans won by 73 Runs",
+   "summary": "LCCA Titans: 165/10(36.2) SOCA Strikers: 92/9(28.3)"
+  },
+  {
+   "matchId": "5655",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5655&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "BRSS Mavericks",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "1807",
+    "1817"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Mavericks won by 51 Runs",
+   "summary": "BRSS Mavericks: 222/8(40) LCCA Capitals: 171/7(33)"
+  },
+  {
+   "matchId": "5651",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5651&clubId=40319",
+   "date": "2025-06-13",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "BRSS Mavericks"
+   ],
+   "teamIds": [
+    "1814",
+    "1807"
+   ],
+   "ground": "SK2",
+   "result": "BRSS Mavericks won by 9 Wickets",
+   "summary": "SOCA Marvels: 93/6(20) BRSS Mavericks: 94/1(11.2)"
+  },
+  {
+   "matchId": "5642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5642&clubId=40319",
+   "date": "2025-06-12",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1816",
+    "1812"
+   ],
+   "ground": "MGP (Main)",
+   "result": "FSSC Sharks won by 29 Runs",
+   "summary": "FSSC Sharks: 159/9(30) LCCA Titans: 130/9(30)"
+  },
+  {
+   "matchId": "5541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5541&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "WCA"
+   ],
+   "teamIds": [
+    "1814",
+    "1818"
+   ],
+   "ground": "Kenilworth",
+   "result": "SOCA Marvels won by 115 Runs",
+   "summary": "SOCA Marvels: 164/6(30) WCA: 49/9(19)"
+  },
+  {
+   "matchId": "5540",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5540&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "1813",
+    "1808"
+   ],
+   "ground": "Soccerplex",
+   "result": "FSSC Lions won by 3 Runs",
+   "summary": "FSSC Lions: 80/7(17.5) RYC Strikers: 77/9(34.3)"
+  },
+  {
+   "matchId": "5528",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5528&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "1810",
+    "1815"
+   ],
+   "ground": "Cedar Morris Hill",
+   "result": "BRSS Knights won by 27 Runs",
+   "summary": "BRSS Knights: 180/10(40) BRSS Royals: 153/10(39.1)"
+  },
+  {
+   "matchId": "5527",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5527&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "SOCA Strikers",
+    "BRSS Knight Riders"
+   ],
+   "teamIds": [
+    "1809",
+    "1811"
+   ],
+   "ground": "Cloverland",
+   "result": "SOCA Strikers won by 16 Runs",
+   "summary": "SOCA Strikers: 55/9(18) BRSS Knight Riders: 39/10(14)"
+  },
+  {
+   "matchId": "5520",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5520&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "BRSS Mavericks",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "1807",
+    "1816"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Mavericks won by 109 Runs",
+   "summary": "BRSS Mavericks: 205/3(35.1) FSSC Sharks: 96/10(27.1)"
+  },
+  {
+   "matchId": "5514",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5514&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "1812",
+    "1817"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "LCCA Titans won by 22 Runs",
+   "summary": "LCCA Titans: 214/6(40.1) LCCA Capitals: 192/8(38.2)"
+  },
+  {
+   "matchId": "5467",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5467&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "LCCA Capitals",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "1817",
+    "1816"
+   ],
+   "ground": "Cradlerock",
+   "result": "Abandoned.",
+   "summary": "LCCA Capitals: 0/0(0)"
+  },
+  {
+   "matchId": "5466",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5466&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "BRSS Knight Riders",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1811",
+    "1810"
+   ],
+   "ground": "Frederick",
+   "result": "Abandoned.",
+   "summary": "BRSS Knight Riders: 0/0(0)"
+  },
+  {
+   "matchId": "5392",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5392&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "WCA",
+    "BRSS Mavericks"
+   ],
+   "teamIds": [
+    "1818",
+    "1807"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "BRSS Mavericks won by 13 Runs",
+   "summary": "BRSS Mavericks: 123/8(25) WCA: 110/8(25)"
+  },
+  {
+   "matchId": "5388",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5388&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1812",
+    "1813"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "FSSC Lions won by 34 Runs",
+   "summary": "FSSC Lions: 131/8(36) LCCA Titans: 97/11(36.1)"
+  },
+  {
+   "matchId": "5385",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5385&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "1815",
+    "1814"
+   ],
+   "ground": "Orchard Park",
+   "result": "BRSS Royals won by 2 Runs",
+   "summary": "BRSS Royals: 137/7(40) SOCA Marvels: 135/10(38.3)"
+  },
+  {
+   "matchId": "5371",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5371&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "SOCA Strikers",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "1809",
+    "1808"
+   ],
+   "ground": "Richmond",
+   "result": "SOCA Strikers won by 12 Runs",
+   "summary": "SOCA Strikers: 281/9(36.1) RYC Strikers: 269/9(40)"
+  },
+  {
+   "matchId": "5207",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5207&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "BRSS Knight Riders"
+   ],
+   "teamIds": [
+    "1813",
+    "1811"
+   ],
+   "ground": "Cloverland",
+   "result": "BRSS Knight Riders won by 10 Wickets",
+   "summary": "FSSC Lions: 60/8(23.5) BRSS Knight Riders: 61/0(10)"
+  },
+  {
+   "matchId": "5193",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5193&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "WCA",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1818",
+    "1810"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Knights won by 61 Runs",
+   "summary": "BRSS Knights: 98/8(25) WCA: 37/10(14.1)"
+  },
+  {
+   "matchId": "5191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5191&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "1808",
+    "1817"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "LCCA Capitals won by 175 Runs",
+   "summary": "LCCA Capitals: 265/4(30) RYC Strikers: 90/7(30)"
+  },
+  {
+   "matchId": "5167",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5167&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "SOCA Strikers"
+   ],
+   "teamIds": [
+    "1815",
+    "1809"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Royals won by 29 Runs",
+   "summary": "BRSS Royals: 180/8(39.2) SOCA Strikers: 151/10(36.2)"
+  },
+  {
+   "matchId": "5034",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5034&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "SOCA Strikers",
+    "WCA"
+   ],
+   "teamIds": [
+    "1809",
+    "1818"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "WCA won by 8 Wickets",
+   "summary": "SOCA Strikers: 124/10(34.5) WCA: 125/2(18.1)"
+  },
+  {
+   "matchId": "5008",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5008&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "1808",
+    "1816"
+   ],
+   "ground": "Richmond",
+   "result": "FSSC Sharks won by 140 Runs",
+   "summary": "FSSC Sharks: 301/6(40) RYC Strikers: 161/10(31.3)"
+  },
+  {
+   "matchId": "5000",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5000&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "1813",
+    "1815"
+   ],
+   "ground": "Cradlerock",
+   "result": "FSSC Lions won by 10 Runs (D/L)",
+   "summary": "FSSC Lions: 166/10(37.2) BRSS Royals: 156/10(39)"
+  },
+  {
+   "matchId": "4993",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4993&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "1810",
+    "1814"
+   ],
+   "ground": "Cloverland",
+   "result": "BRSS Knights won by 40 Runs (D/L)",
+   "summary": "BRSS Knights: 102/9(36.3) SOCA Marvels: 74/10(28.1)"
+  },
+  {
+   "matchId": "4989",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4989&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "BRSS Mavericks",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1807",
+    "1812"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "BRSS Mavericks won by 101 Runs",
+   "summary": "BRSS Mavericks: 245/5(40) LCCA Titans: 144/9(40)"
+  },
+  {
+   "matchId": "4965",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4965&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "BRSS Knight Riders",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "1811",
+    "1817"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Knight Riders won by 83 Runs",
+   "summary": "BRSS Knight Riders: 192/10(39.5) LCCA Capitals: 109/8(33)"
+  },
+  {
+   "matchId": "4862",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4862&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "1812",
+    "1808"
+   ],
+   "ground": "Richmond",
+   "result": "LCCA Titans won by 245 Runs",
+   "summary": "LCCA Titans: 410/4(40) RYC Strikers: 165/10(30.2)"
+  },
+  {
+   "matchId": "4847",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4847&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "BRSS Knight Riders"
+   ],
+   "teamIds": [
+    "1816",
+    "1811"
+   ],
+   "ground": "Cloverland",
+   "result": "FSSC Sharks won by 14 Runs (D/L)",
+   "summary": "BRSS Knight Riders: 148/10(35.3) FSSC Sharks: 141/6(36)"
+  },
+  {
+   "matchId": "4843",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4843&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "LCCA Capitals",
+    "BRSS Royals"
+   ],
+   "teamIds": [
+    "1817",
+    "1815"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "LCCA Capitals won by 8 Wickets",
+   "summary": "BRSS Royals: 108/10(22.4) LCCA Capitals: 113/2(11.4)"
+  },
+  {
+   "matchId": "4837",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4837&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "BRSS Mavericks"
+   ],
+   "teamIds": [
+    "1810",
+    "1807"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Mavericks won by 39 Runs",
+   "summary": "BRSS Mavericks: 174/10(39.1) BRSS Knights: 135/9(40)"
+  },
+  {
+   "matchId": "4836",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4836&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "SOCA Strikers"
+   ],
+   "teamIds": [
+    "1814",
+    "1809"
+   ],
+   "ground": "Kenilworth",
+   "result": "SOCA Marvels won by 151 Runs",
+   "summary": "SOCA Marvels: 207/10(36.4) SOCA Strikers: 56/10(23)"
+  },
+  {
+   "matchId": "4822",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4822&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "WCA",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1818",
+    "1813"
+   ],
+   "ground": "Spencerville Big",
+   "result": "FSSC Lions won by 149 Runs",
+   "summary": "FSSC Lions: 240/9(39) WCA: 91/9(28.2)"
+  },
+  {
+   "matchId": "4676",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4676&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "BRSS Knight Riders",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1811",
+    "1812"
+   ],
+   "ground": "Cloverland",
+   "result": "LCCA Titans won by 2 Wickets",
+   "summary": "BRSS Knight Riders: 113/7(30) LCCA Titans: 114/8(28.2)"
+  },
+  {
+   "matchId": "4668",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4668&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "BRSS Mavericks"
+   ],
+   "teamIds": [
+    "1808",
+    "1807"
+   ],
+   "ground": "Richmond",
+   "result": "BRSS Mavericks won by 117 Runs (D/L)",
+   "summary": "RYC Strikers: 247/9(40) BRSS Mavericks: 232/2(22.4)"
+  },
+  {
+   "matchId": "4663",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4663&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "1813",
+    "1814"
+   ],
+   "ground": "Kenilworth",
+   "result": "FSSC Lions won by 8 Wickets",
+   "summary": "SOCA Marvels: 222/6(35) FSSC Lions: 224/2(28.1)"
+  },
+  {
+   "matchId": "4657",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4657&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "LCCA Capitals",
+    "WCA"
+   ],
+   "teamIds": [
+    "1817",
+    "1818"
+   ],
+   "ground": "Kincheloe Park",
+   "result": "WCA won by 4 Runs",
+   "summary": "WCA: 103/10(26.5) LCCA Capitals: 99/8(20.1)"
+  },
+  {
+   "matchId": "4640",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4640&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "SOCA Strikers",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1809",
+    "1810"
+   ],
+   "ground": "Frederick",
+   "result": "BRSS Knights won by 29 Runs",
+   "summary": "BRSS Knights: 105/6(20) SOCA Strikers: 76/8(20)"
+  },
+  {
+   "matchId": "4637",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4637&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "BRSS Royals",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "1815",
+    "1816"
+   ],
+   "ground": "Spencerville Big",
+   "result": "FSSC Sharks won by 169 Runs",
+   "summary": "FSSC Sharks: 242/5(34) BRSS Royals: 73/8(21.4)"
+  }
+ ]
+}

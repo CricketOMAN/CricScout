@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s304",
+  "id": "legacy-115",
+  "name": "USAC JR Zonal 2023 - West U15"
+ },
+ "fetchedAt": "2026-11-13T23:08:22.394Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=115&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=115&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2185",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2185&clubId=40319",
+   "date": "2023-08-03",
+   "type": "3rd Position",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "722",
+    "721"
+   ],
+   "ground": "Marder Cricket Ground (Woodley)",
+   "result": "Team Red won by 26 Runs",
+   "summary": "Team Red: 102/10(30.4) Team Blue: 76/10(27.3)"
+  },
+  {
+   "matchId": "2184",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2184&clubId=40319",
+   "date": "2023-08-03",
+   "type": "Final",
+   "teams": [
+    "Team Orange",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "723",
+    "724"
+   ],
+   "ground": "Wong Cricket Field",
+   "result": "Team Yellow won by 41 Runs",
+   "summary": "Team Yellow: 222/5(40) Team Orange: 181/9(40)"
+  },
+  {
+   "matchId": "2167",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2167&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "721",
+    "723"
+   ],
+   "ground": "Wong Cricket Field",
+   "result": "Team Orange won by 6 Wickets",
+   "summary": "Team Blue: 83/10(27.4) Team Orange: 84/4(21.1)"
+  },
+  {
+   "matchId": "2166",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2166&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "722",
+    "724"
+   ],
+   "ground": "Marder Cricket Ground (Woodley)",
+   "result": "Team Yellow won by 6 Wickets",
+   "summary": "Team Red: 174/9(40) Team Yellow: 175/4(34.5)"
+  },
+  {
+   "matchId": "2155",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2155&clubId=40319",
+   "date": "2023-08-01",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "723",
+    "724"
+   ],
+   "ground": "Marder Cricket Ground (Woodley)",
+   "result": "Team Yellow won by 8 Runs",
+   "summary": "Team Yellow: 168/10(39.5) Team Orange: 160/10(39.3)"
+  },
+  {
+   "matchId": "2154",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2154&clubId=40319",
+   "date": "2023-08-01",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "721",
+    "722"
+   ],
+   "ground": "Wong Cricket Field",
+   "result": "Team Blue won by 8 Wickets",
+   "summary": "Team Red: 107/10(38) Team Blue: 108/2(22)"
+  },
+  {
+   "matchId": "2147",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2147&clubId=40319",
+   "date": "2023-07-31",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "722",
+    "723"
+   ],
+   "ground": "Wong Cricket Field",
+   "result": "Team Orange won by 9 Wickets",
+   "summary": "Team Red: 165/10(39) Team Orange: 169/1(27.1)"
+  },
+  {
+   "matchId": "2146",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2146&clubId=40319",
+   "date": "2023-07-31",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "721",
+    "724"
+   ],
+   "ground": "Marder Cricket Ground (Woodley)",
+   "result": "Team Yellow won by 4 Wickets",
+   "summary": "Team Blue: 146/8(40) Team Yellow: 147/6(37.3)"
+  }
+ ]
+}

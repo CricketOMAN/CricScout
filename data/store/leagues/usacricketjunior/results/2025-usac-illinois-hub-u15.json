@@ -1,0 +1,456 @@
+{
+ "season": {
+  "key": "s169",
+  "id": "legacy-344",
+  "name": "2025 USAC Illinois Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:18:15.628Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=344&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=344&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5718",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5718&clubId=40319",
+   "date": "2025-06-15",
+   "type": "Final",
+   "teams": [
+    "CYCA Bulls - A",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "2040",
+    "2041"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA Bulls - A won by 4 Wickets",
+   "summary": "BPL Dominators: 83/10(30.3) CYCA Bulls - A: 87/6(27.5)"
+  },
+  {
+   "matchId": "5702",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5702&clubId=40319",
+   "date": "2025-06-15",
+   "type": "3rd Position",
+   "teams": [
+    "Group 2 Team",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "2045",
+    "2039"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "Group 2 Team won by 8 Wickets",
+   "summary": "CMCE Tigers: 100/8(23.1) Group 2 Team: 101/2(17.1)"
+  },
+  {
+   "matchId": "5675",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5675&clubId=40319",
+   "date": "2025-06-14",
+   "type": "Super League",
+   "teams": [
+    "BPL Dominators",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "2041",
+    "2039"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 203 Runs",
+   "summary": "BPL Dominators: 253/9(33.3) CMCE Tigers: 50/9(23.2)"
+  },
+  {
+   "matchId": "5650",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5650&clubId=40319",
+   "date": "2025-06-13",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "CYCA Bulls - A"
+   ],
+   "teamIds": [
+    "2045",
+    "2040"
+   ],
+   "ground": "BPL",
+   "result": "It is a Tie (D/L)",
+   "summary": "CYCA Bulls - A: 0/0(0)"
+  },
+  {
+   "matchId": "5644",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5644&clubId=40319",
+   "date": "2025-06-12",
+   "type": "Super League",
+   "teams": [
+    "BPL Dominators",
+    "CYCA Bulls - A"
+   ],
+   "teamIds": [
+    "2041",
+    "2040"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 63 Runs",
+   "summary": "BPL Dominators: 171/6(35) CYCA Bulls - A: 108/10(32.1)"
+  },
+  {
+   "matchId": "5631",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5631&clubId=40319",
+   "date": "2025-06-11",
+   "type": "Super League",
+   "teams": [
+    "CMCE Tigers",
+    "CYCA Bulls - A"
+   ],
+   "teamIds": [
+    "2039",
+    "2040"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Bulls - A won by 6 Wickets",
+   "summary": "CMCE Tigers: 90/8(35) CYCA Bulls - A: 91/4(20)"
+  },
+  {
+   "matchId": "5626",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5626&clubId=40319",
+   "date": "2025-06-10",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "2045",
+    "2039"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "Group 2 Team won by 78 Runs",
+   "summary": "Group 2 Team: 113/9(29.3) CMCE Tigers: 35/8(15.4)"
+  },
+  {
+   "matchId": "5623",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5623&clubId=40319",
+   "date": "2025-06-09",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "2045",
+    "2041"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 192 Runs",
+   "summary": "BPL Dominators: 238/7(35) Group 2 Team: 46/10(23.1)"
+  },
+  {
+   "matchId": "5554",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5554&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls - B",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "2043",
+    "2044"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA Bulls - B won by 9 Wickets",
+   "summary": "CHICAGO U15: 58/9(22) CYCA Bulls - B: 61/1(6.2)"
+  },
+  {
+   "matchId": "5513",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5513&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls - A",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "2040",
+    "2041"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Bulls - A won by 76 Runs",
+   "summary": "CYCA Bulls - A: 185/8(35) BPL Dominators: 109/9(32.1)"
+  },
+  {
+   "matchId": "5465",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5465&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "CHICAGO U15",
+    "CMCE Panthers"
+   ],
+   "teamIds": [
+    "2044",
+    "2042"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CHICAGO U15 won by 7 Wickets",
+   "summary": "CMCE Panthers: 87/10(29.2) CHICAGO U15: 88/3(21.2)"
+  },
+  {
+   "matchId": "5429",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5429&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls - A",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "2040",
+    "2039"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA Bulls - A won by 9 Wickets",
+   "summary": "CMCE Tigers: 73/10(31.1) CYCA Bulls - A: 75/1(11.3)"
+  },
+  {
+   "matchId": "5408",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5408&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "CMCE Panthers",
+    "CYCA Bulls - B"
+   ],
+   "teamIds": [
+    "2042",
+    "2043"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Bulls - B: 208/6 (30/30 ov) CMCE Panthers: 40/4 (13.3/30 ov)",
+   "summary": "CYCA Bulls - B: 208/6(30) CMCE Panthers: 40/4(13.3) Live"
+  },
+  {
+   "matchId": "5365",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5365&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "CMCE Tigers",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "2039",
+    "2041"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 5 Wickets",
+   "summary": "CMCE Tigers: 117/10(34.1) BPL Dominators: 118/5(24)"
+  },
+  {
+   "matchId": "5339",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5339&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "CHICAGO U15",
+    "CYCA Bulls - B"
+   ],
+   "teamIds": [
+    "2044",
+    "2043"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA Bulls - B won by 114 Runs",
+   "summary": "CYCA Bulls - B: 218/5(35) CHICAGO U15: 104/10(31.2)"
+  },
+  {
+   "matchId": "5293",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5293&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls - A",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "2040",
+    "2039"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Bulls - A won by 149 Runs",
+   "summary": "CYCA Bulls - A: 194/10(34.1) CMCE Tigers: 45/10(21.1)"
+  },
+  {
+   "matchId": "5272",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5272&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "BPL Dominators",
+    "CYCA Bulls - A"
+   ],
+   "teamIds": [
+    "2041",
+    "2040"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 44 Runs",
+   "summary": "BPL Dominators: 127/6(30) CYCA Bulls - A: 83/10(25.3)"
+  },
+  {
+   "matchId": "5198",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5198&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls - B",
+    "CMCE Panthers"
+   ],
+   "teamIds": [
+    "2043",
+    "2042"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Bulls - B won by 9 Wickets",
+   "summary": "CMCE Panthers: 56/9(25.4) CYCA Bulls - B: 59/1(10.1)"
+  },
+  {
+   "matchId": "5156",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5156&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls - A",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "2040",
+    "2041"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA Bulls - A won by 36 Runs",
+   "summary": "CYCA Bulls - A: 148/9(35) BPL Dominators: 112/8(33)"
+  },
+  {
+   "matchId": "5106",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5106&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "CMCE Panthers",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "2042",
+    "2044"
+   ],
+   "ground": "BPL",
+   "result": "CHICAGO U15 won by 51 Runs",
+   "summary": "CHICAGO U15: 122/8(31) CMCE Panthers: 71/9(22.5)"
+  },
+  {
+   "matchId": "5056",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5056&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "CHICAGO U15",
+    "CYCA Bulls - B"
+   ],
+   "teamIds": [
+    "2044",
+    "2043"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Bulls - B won by 88 Runs",
+   "summary": "CYCA Bulls - B: 180/7(35) CHICAGO U15: 92/9(30.1)"
+  },
+  {
+   "matchId": "4991",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4991&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "BPL Dominators",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "2041",
+    "2039"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 10 Wickets",
+   "summary": "CMCE Tigers: 79/10(32.5) BPL Dominators: 80/0(11.1)"
+  },
+  {
+   "matchId": "4960",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4960&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls - B",
+    "CMCE Panthers"
+   ],
+   "teamIds": [
+    "2043",
+    "2042"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Bulls - B won by 8 Wickets (D/L)",
+   "summary": "CMCE Panthers: 53/10(21.3) CYCA Bulls - B: 50/2(11.1)"
+  },
+  {
+   "matchId": "4929",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4929&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls - A",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "2040",
+    "2039"
+   ],
+   "ground": "BPL",
+   "result": "CYCA Bulls - A won by 169 Runs",
+   "summary": "CYCA Bulls - A: 206/9(35) CMCE Tigers: 37/9(25.2)"
+  },
+  {
+   "matchId": "4898",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4898&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "CMCE Panthers",
+    "CHICAGO U15"
+   ],
+   "teamIds": [
+    "2042",
+    "2044"
+   ],
+   "ground": "BPL",
+   "result": "CMCE Panthers won by 1 Wicket",
+   "summary": "CHICAGO U15: 124/6(30) CMCE Panthers: 125/9(28.5)"
+  },
+  {
+   "matchId": "4853",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4853&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "CMCE Tigers",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "2039",
+    "2041"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 8 Wickets",
+   "summary": "CMCE Tigers: 27/10(17.3) BPL Dominators: 29/2(8.1)"
+  }
+ ]
+}

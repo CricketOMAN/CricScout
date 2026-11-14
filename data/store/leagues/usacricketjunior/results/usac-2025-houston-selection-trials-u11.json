@@ -1,0 +1,48 @@
+{
+ "season": {
+  "key": "s142",
+  "id": "legacy-384",
+  "name": "USAC 2025 Houston Selection Trials U11"
+ },
+ "fetchedAt": "2026-11-13T22:15:39.101Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=384&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=384&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5981",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5981&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "Houston Blue",
+    "Houston Red"
+   ],
+   "teamIds": [
+    "2238",
+    "2237"
+   ],
+   "ground": "JCP",
+   "result": "Houston Red won by 5 Wickets",
+   "summary": "Houston Blue: 117/7(25) Houston Red: 118/5(23.1)"
+  },
+  {
+   "matchId": "5974",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5974&clubId=40319",
+   "date": "2025-07-11",
+   "type": "League",
+   "teams": [
+    "Houston Red",
+    "Houston Blue"
+   ],
+   "teamIds": [
+    "2237",
+    "2238"
+   ],
+   "ground": "JCP",
+   "result": "Houston Blue won by 16 Runs",
+   "summary": "Houston Blue: 145/5(25) Houston Red: 129/10(24.4)"
+  }
+ ]
+}

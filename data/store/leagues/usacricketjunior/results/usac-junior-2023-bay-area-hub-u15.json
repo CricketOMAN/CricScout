@@ -1,0 +1,949 @@
+{
+ "season": {
+  "key": "s350",
+  "id": "legacy-22",
+  "name": "USAC Junior 2023 - Bay Area Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:16:09.886Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=22&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=22&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1918",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1918&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "Davis Avengers",
+    "PCA"
+   ],
+   "teamIds": [
+    "355",
+    "353"
+   ],
+   "ground": "Davis",
+   "result": "Abandoned.",
+   "summary": "Davis Avengers: 0/0(0)"
+  },
+  {
+   "matchId": "1793",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1793&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "Hyderabad Heroes",
+    "Avalon Heights Blasters"
+   ],
+   "teamIds": [
+    "351",
+    "350"
+   ],
+   "ground": "Dilworth",
+   "result": "Hyderabad Heroes won by 115 Runs",
+   "summary": "Hyderabad Heroes: 212/1(40) Avalon Heights Blasters: 97/9(29.3)"
+  },
+  {
+   "matchId": "1791",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1791&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "PCA",
+    "EYCA Vikings"
+   ],
+   "teamIds": [
+    "353",
+    "348"
+   ],
+   "ground": "GRMS",
+   "result": "EYCA Vikings won by 8 Wickets",
+   "summary": "PCA: 88/10(32.1) EYCA Vikings: 89/2(16)"
+  },
+  {
+   "matchId": "1789",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1789&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "Fremont Vulcans",
+    "Davis Avengers"
+   ],
+   "teamIds": [
+    "352",
+    "355"
+   ],
+   "ground": "Emerald Glen",
+   "result": "Fremont Vulcans won by 104 Runs",
+   "summary": "Fremont Vulcans: 150/9(24.3) Davis Avengers: 46/9(16)"
+  },
+  {
+   "matchId": "1742",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1742&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Dublin Rhinos",
+    "Davis Avengers"
+   ],
+   "teamIds": [
+    "354",
+    "355"
+   ],
+   "ground": "Emerald Glen",
+   "result": "Davis Avengers won by 4 Wickets",
+   "summary": "Dublin Rhinos: 107/7(40) Davis Avengers: 113/6(34.2)"
+  },
+  {
+   "matchId": "1739",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1739&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Avalon Heights Blasters",
+    "Dublin Cricket League"
+   ],
+   "teamIds": [
+    "350",
+    "357"
+   ],
+   "ground": "Challenger",
+   "result": "Dublin Cricket League won by 3 Wickets",
+   "summary": "Avalon Heights Blasters: 86/7(24.2) Dublin Cricket League: 87/7(22)"
+  },
+  {
+   "matchId": "1738",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1738&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Hyderabad Heroes",
+    "EYCA Vikings"
+   ],
+   "teamIds": [
+    "351",
+    "348"
+   ],
+   "ground": "Dilworth",
+   "result": "EYCA Vikings won by 7 Wickets",
+   "summary": "Hyderabad Heroes: 174/8(40) EYCA Vikings: 175/3(24.2)"
+  },
+  {
+   "matchId": "1686",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1686&clubId=40319",
+   "date": "2023-06-07",
+   "type": "League",
+   "teams": [
+    "Cupertino Bravos",
+    "Hyderabad Heroes"
+   ],
+   "teamIds": [
+    "358",
+    "351"
+   ],
+   "ground": "Dilworth",
+   "result": "Hyderabad Heroes won by 124 Runs",
+   "summary": "Hyderabad Heroes: 272/4(25) Cupertino Bravos: 148/7(25)"
+  },
+  {
+   "matchId": "1677",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1677&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Avalon Heights Blasters",
+    "Los Gatos Avengers"
+   ],
+   "teamIds": [
+    "350",
+    "356"
+   ],
+   "ground": "Easterbrook",
+   "result": "Los Gatos Avengers won by 120 Runs",
+   "summary": "Los Gatos Avengers: 163/6(30) Avalon Heights Blasters: 43/7(13)"
+  },
+  {
+   "matchId": "1667",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1667&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Davis Avengers",
+    "EYCA Vikings"
+   ],
+   "teamIds": [
+    "355",
+    "348"
+   ],
+   "ground": "Davis",
+   "result": "EYCA Vikings won by 220 Runs",
+   "summary": "EYCA Vikings: 281/4(40) Davis Avengers: 61/9(20)"
+  },
+  {
+   "matchId": "1665",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1665&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Fremont Vulcans",
+    "Dublin Cricket League"
+   ],
+   "teamIds": [
+    "352",
+    "357"
+   ],
+   "ground": "FCP",
+   "result": "Fremont Vulcans won by 111 Runs",
+   "summary": "Fremont Vulcans: 254/5(40) Dublin Cricket League: 143/10(31.2)"
+  },
+  {
+   "matchId": "1664",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1664&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Hyderabad Heroes",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "351",
+    "349"
+   ],
+   "ground": "Dilworth",
+   "result": "Hyderabad Heroes won by 238 Runs",
+   "summary": "Hyderabad Heroes: 366/4(40) SYCA Eagles: 128/9(23.3)"
+  },
+  {
+   "matchId": "1630",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1630&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "PCA",
+    "Avalon Heights Blasters"
+   ],
+   "teamIds": [
+    "353",
+    "350"
+   ],
+   "ground": "GRMS",
+   "result": "Avalon Heights Blasters won by 69 Runs",
+   "summary": "Avalon Heights Blasters: 128/10(38.4) PCA: 59/10(30.3)"
+  },
+  {
+   "matchId": "1625",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1625&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Los Gatos Avengers",
+    "EYCA Vikings"
+   ],
+   "teamIds": [
+    "356",
+    "348"
+   ],
+   "ground": "Challenger",
+   "result": "EYCA Vikings won by 9 Wickets",
+   "summary": "Los Gatos Avengers: 85/8(27.4) EYCA Vikings: 88/1(13.1)"
+  },
+  {
+   "matchId": "1567",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1567&clubId=40319",
+   "date": "2023-06-02",
+   "type": "League",
+   "teams": [
+    "Fremont Vulcans",
+    "Hyderabad Heroes"
+   ],
+   "teamIds": [
+    "352",
+    "351"
+   ],
+   "ground": "FCP",
+   "result": "Fremont Vulcans won by 1 Wicket",
+   "summary": "Hyderabad Heroes: 124/7(30) Fremont Vulcans: 127/9(29.2)"
+  },
+  {
+   "matchId": "1551",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1551&clubId=40319",
+   "date": "2023-05-28",
+   "type": "League",
+   "teams": [
+    "Avalon Heights Blasters",
+    "Davis Avengers"
+   ],
+   "teamIds": [
+    "350",
+    "355"
+   ],
+   "ground": "Davis",
+   "result": "Davis Avengers won by 3 Wickets",
+   "summary": "Avalon Heights Blasters: 108/9(29.5) Davis Avengers: 109/7(35.5)"
+  },
+  {
+   "matchId": "1550",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1550&clubId=40319",
+   "date": "2023-05-28",
+   "type": "League",
+   "teams": [
+    "Los Gatos Avengers",
+    "Hyderabad Heroes"
+   ],
+   "teamIds": [
+    "356",
+    "351"
+   ],
+   "ground": "Easterbrook",
+   "result": "Los Gatos Avengers won by 7 Wickets",
+   "summary": "Hyderabad Heroes: 89/10(39) Los Gatos Avengers: 93/3(32.5)"
+  },
+  {
+   "matchId": "1549",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1549&clubId=40319",
+   "date": "2023-05-28",
+   "type": "League",
+   "teams": [
+    "Cupertino Bravos",
+    "Dublin Cricket League"
+   ],
+   "teamIds": [
+    "358",
+    "357"
+   ],
+   "ground": "Dilworth",
+   "result": "Dublin Cricket League won by 15 Runs",
+   "summary": "Dublin Cricket League: 224/5(40) Cupertino Bravos: 209/9(38.3)"
+  },
+  {
+   "matchId": "1544",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1544&clubId=40319",
+   "date": "2023-05-27",
+   "type": "League",
+   "teams": [
+    "Dublin Rhinos",
+    "Los Gatos Avengers"
+   ],
+   "teamIds": [
+    "354",
+    "356"
+   ],
+   "ground": "Davis",
+   "result": "Los Gatos Avengers won by 142 Runs",
+   "summary": "Los Gatos Avengers: 232/7(40) Dublin Rhinos: 90/9(37.2)"
+  },
+  {
+   "matchId": "1530",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1530&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "Davis Avengers",
+    "Los Gatos Avengers"
+   ],
+   "teamIds": [
+    "355",
+    "356"
+   ],
+   "ground": "Davis",
+   "result": "Los Gatos Avengers won by 7 Wickets",
+   "summary": "Davis Avengers: 121/7(40) Los Gatos Avengers: 122/3(23)"
+  },
+  {
+   "matchId": "1527",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1527&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "Avalon Heights Blasters",
+    "Cupertino Bravos"
+   ],
+   "teamIds": [
+    "350",
+    "358"
+   ],
+   "ground": "Easterbrook",
+   "result": "Cupertino Bravos won by 20 Runs",
+   "summary": "Cupertino Bravos: 115/8(40) Avalon Heights Blasters: 95/9(35)"
+  },
+  {
+   "matchId": "1526",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1526&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "Dublin Cricket League"
+   ],
+   "teamIds": [
+    "348",
+    "357"
+   ],
+   "ground": "Sierramont",
+   "result": "Dublin Cricket League won by 5 Wickets",
+   "summary": "EYCA Vikings: 107/10(27.5) Dublin Cricket League: 110/5(29.2)"
+  },
+  {
+   "matchId": "1523",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1523&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "PCA",
+    "Dublin Rhinos"
+   ],
+   "teamIds": [
+    "353",
+    "354"
+   ],
+   "ground": "GRMS",
+   "result": "Dublin Rhinos won by 4 Runs",
+   "summary": "Dublin Rhinos: 122/9(38.3) PCA: 118/10(38.3)"
+  },
+  {
+   "matchId": "1468",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1468&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "Cupertino Bravos",
+    "Fremont Vulcans"
+   ],
+   "teamIds": [
+    "358",
+    "352"
+   ],
+   "ground": "Dilworth",
+   "result": "Fremont Vulcans won by 7 Wickets",
+   "summary": "Cupertino Bravos: 196/8(38.5) Fremont Vulcans: 197/3(27.4)"
+  },
+  {
+   "matchId": "1464",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1464&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "Dublin Cricket League",
+    "Dublin Rhinos"
+   ],
+   "teamIds": [
+    "357",
+    "354"
+   ],
+   "ground": "GRMS",
+   "result": "Dublin Cricket League won by 1 Wicket",
+   "summary": "Dublin Rhinos: 178/9(40) Dublin Cricket League: 179/9(36.2)"
+  },
+  {
+   "matchId": "1431",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1431&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "Los Gatos Avengers",
+    "PCA"
+   ],
+   "teamIds": [
+    "356",
+    "353"
+   ],
+   "ground": "Easterbrook",
+   "result": "Los Gatos Avengers won by 17 Runs",
+   "summary": "Los Gatos Avengers: 99/9(28.3) PCA: 82/9(29.2)"
+  },
+  {
+   "matchId": "1430",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1430&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "Dublin Cricket League",
+    "Davis Avengers"
+   ],
+   "teamIds": [
+    "357",
+    "355"
+   ],
+   "ground": "GRMS",
+   "result": "Dublin Cricket League won by 41 Runs",
+   "summary": "Dublin Cricket League: 159/9(40) Davis Avengers: 118/9(33)"
+  },
+  {
+   "matchId": "1429",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1429&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "Cupertino Bravos"
+   ],
+   "teamIds": [
+    "348",
+    "358"
+   ],
+   "ground": "Sierramont",
+   "result": "EYCA Vikings won by 101 Runs",
+   "summary": "EYCA Vikings: 227/7(40) Cupertino Bravos: 126/9(40)"
+  },
+  {
+   "matchId": "1428",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1428&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "Fremont Vulcans"
+   ],
+   "teamIds": [
+    "349",
+    "352"
+   ],
+   "ground": "Roseville Maidu",
+   "result": "Fremont Vulcans won by 154 Runs",
+   "summary": "Fremont Vulcans: 373/7(40) SYCA Eagles: 219/9(38.2)"
+  },
+  {
+   "matchId": "1427",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1427&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "Dublin Rhinos",
+    "Hyderabad Heroes"
+   ],
+   "teamIds": [
+    "354",
+    "351"
+   ],
+   "ground": "Judah",
+   "result": "Hyderabad Heroes won by 109 Runs",
+   "summary": "Hyderabad Heroes: 190/7(40) Dublin Rhinos: 81/10(24.2)"
+  },
+  {
+   "matchId": "1386",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1386&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Los Gatos Avengers",
+    "Fremont Vulcans"
+   ],
+   "teamIds": [
+    "356",
+    "352"
+   ],
+   "ground": "Challenger",
+   "result": "Los Gatos Avengers won by 160 Runs",
+   "summary": "Los Gatos Avengers: 280/8(40) Fremont Vulcans: 120/10(20)"
+  },
+  {
+   "matchId": "1373",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1373&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Dublin Cricket League",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "357",
+    "349"
+   ],
+   "ground": "GRMS",
+   "result": "Dublin Cricket League won by 262 Runs",
+   "summary": "Dublin Cricket League: 383/10(39.4) SYCA Eagles: 121/9(29.3)"
+  },
+  {
+   "matchId": "1324",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1324&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "Hyderabad Heroes",
+    "Davis Avengers"
+   ],
+   "teamIds": [
+    "351",
+    "355"
+   ],
+   "ground": "Dilworth",
+   "result": "Forfeited. Winner: Hyderabad Heroes",
+   "summary": "Hyderabad Heroes: 0/0(0)"
+  },
+  {
+   "matchId": "1311",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1311&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "EYCA Vikings"
+   ],
+   "teamIds": [
+    "349",
+    "348"
+   ],
+   "ground": "Roseville Maidu",
+   "result": "EYCA Vikings won by 8 Wickets",
+   "summary": "SYCA Eagles: 146/8(40) EYCA Vikings: 148/2(17.3)"
+  },
+  {
+   "matchId": "1310",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1310&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "Fremont Vulcans",
+    "Avalon Heights Blasters"
+   ],
+   "teamIds": [
+    "352",
+    "350"
+   ],
+   "ground": "FCP",
+   "result": "Fremont Vulcans won by 49 Runs",
+   "summary": "Fremont Vulcans: 262/10(39.2) Avalon Heights Blasters: 213/9(40)"
+  },
+  {
+   "matchId": "1309",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1309&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "Dublin Cricket League",
+    "Los Gatos Avengers"
+   ],
+   "teamIds": [
+    "357",
+    "356"
+   ],
+   "ground": "GRMS",
+   "result": "Dublin Cricket League won by 83 Runs",
+   "summary": "Dublin Cricket League: 163/10(38) Los Gatos Avengers: 80/10(27)"
+  },
+  {
+   "matchId": "1308",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1308&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "Cupertino Bravos",
+    "Dublin Rhinos"
+   ],
+   "teamIds": [
+    "358",
+    "354"
+   ],
+   "ground": "Fischer",
+   "result": "Cupertino Bravos won by 8 Wickets",
+   "summary": "Dublin Rhinos: 74/10(29.2) Cupertino Bravos: 75/2(18.5)"
+  },
+  {
+   "matchId": "1681",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1681&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Avalon Heights Blasters",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "350",
+    "349"
+   ],
+   "ground": "Easterbrook",
+   "result": "Forfeited. Winner: SYCA Eagles",
+   "summary": "Avalon Heights Blasters: 0/0(0)"
+  },
+  {
+   "matchId": "1219",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1219&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "Dublin Rhinos",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "354",
+    "349"
+   ],
+   "ground": "Roseville Maidu",
+   "result": "Dublin Rhinos won by 141 Runs",
+   "summary": "Dublin Rhinos: 241/8(35) SYCA Eagles: 100/8(28.3)"
+  },
+  {
+   "matchId": "1214",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1214&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "Avalon Heights Blasters"
+   ],
+   "teamIds": [
+    "348",
+    "350"
+   ],
+   "ground": "Sierramont",
+   "result": "EYCA Vikings won by 134 Runs",
+   "summary": "EYCA Vikings: 212/8(40) Avalon Heights Blasters: 78/9(36.1)"
+  },
+  {
+   "matchId": "1199",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1199&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "Davis Avengers",
+    "Cupertino Bravos"
+   ],
+   "teamIds": [
+    "355",
+    "358"
+   ],
+   "ground": "Dilworth",
+   "result": "Cupertino Bravos won by 276 Runs",
+   "summary": "Cupertino Bravos: 347/1(40) Davis Avengers: 71/10(29.2)"
+  },
+  {
+   "matchId": "1196",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1196&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "Dublin Cricket League",
+    "PCA"
+   ],
+   "teamIds": [
+    "357",
+    "353"
+   ],
+   "ground": "GRMS",
+   "result": "Dublin Cricket League won by 5 Wickets",
+   "summary": "PCA: 53/10(25.5) Dublin Cricket League: 54/5(12.2)"
+  },
+  {
+   "matchId": "1172",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1172&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "PCA",
+    "Fremont Vulcans"
+   ],
+   "teamIds": [
+    "353",
+    "352"
+   ],
+   "ground": "GRMS",
+   "result": "PCA won by 8 Runs",
+   "summary": "PCA: 123/10(35.3) Fremont Vulcans: 115/10(30)"
+  },
+  {
+   "matchId": "1150",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1150&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "Cupertino Bravos"
+   ],
+   "teamIds": [
+    "349",
+    "358"
+   ],
+   "ground": "Roseville Maidu",
+   "result": "SYCA Eagles won by 22 Runs",
+   "summary": "SYCA Eagles: 282/7(40) Cupertino Bravos: 260/6(40)"
+  },
+  {
+   "matchId": "1143",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1143&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "Davis Avengers",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "355",
+    "349"
+   ],
+   "ground": "Davis",
+   "result": "Davis Avengers won by 56 Runs",
+   "summary": "Davis Avengers: 196/8(40) SYCA Eagles: 140/10(32.2)"
+  },
+  {
+   "matchId": "1137",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1137&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "Fremont Vulcans"
+   ],
+   "teamIds": [
+    "348",
+    "352"
+   ],
+   "ground": "Sierramont",
+   "result": "EYCA Vikings won by 41 Runs",
+   "summary": "EYCA Vikings: 230/7(40) Fremont Vulcans: 189/9(40)"
+  },
+  {
+   "matchId": "1134",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1134&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "Hyderabad Heroes",
+    "PCA"
+   ],
+   "teamIds": [
+    "351",
+    "353"
+   ],
+   "ground": "Dilworth",
+   "result": "Hyderabad Heroes won by 8 Wickets",
+   "summary": "PCA: 83/7(40) Hyderabad Heroes: 84/2(12.5)"
+  },
+  {
+   "matchId": "1132",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1132&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "Los Gatos Avengers",
+    "Cupertino Bravos"
+   ],
+   "teamIds": [
+    "356",
+    "358"
+   ],
+   "ground": "Challenger",
+   "result": "Los Gatos Avengers won by 12 Runs",
+   "summary": "Los Gatos Avengers: 146/10(36.3) Cupertino Bravos: 134/10(36)"
+  },
+  {
+   "matchId": "1130",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1130&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "Dublin Rhinos",
+    "Avalon Heights Blasters"
+   ],
+   "teamIds": [
+    "354",
+    "350"
+   ],
+   "ground": "TBD",
+   "result": "Dublin Rhinos won by 7 Wickets",
+   "summary": "Avalon Heights Blasters: 120/10(30.4) Dublin Rhinos: 122/3(20.2)"
+  },
+  {
+   "matchId": "1038",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1038&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "Hyderabad Heroes",
+    "Dublin Cricket League"
+   ],
+   "teamIds": [
+    "351",
+    "357"
+   ],
+   "ground": "Dilworth",
+   "result": "Hyderabad Heroes won by 7 Wickets",
+   "summary": "Dublin Cricket League: 112/10(33) Hyderabad Heroes: 116/3(20)"
+  },
+  {
+   "matchId": "1037",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1037&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "PCA",
+    "Cupertino Bravos"
+   ],
+   "teamIds": [
+    "353",
+    "358"
+   ],
+   "ground": "GRMS",
+   "result": "Cupertino Bravos won by 79 Runs",
+   "summary": "Cupertino Bravos: 191/10(39.5) PCA: 112/10(27.4)"
+  },
+  {
+   "matchId": "1035",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1035&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "Fremont Vulcans",
+    "Dublin Rhinos"
+   ],
+   "teamIds": [
+    "352",
+    "354"
+   ],
+   "ground": "FCP",
+   "result": "Dublin Rhinos won by 23 Runs",
+   "summary": "Dublin Rhinos: 171/8(40) Fremont Vulcans: 148/10(33)"
+  },
+  {
+   "matchId": "1021",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1021&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "Los Gatos Avengers"
+   ],
+   "teamIds": [
+    "349",
+    "356"
+   ],
+   "ground": "Roseville Maidu",
+   "result": "Los Gatos Avengers won by 48 Runs",
+   "summary": "Los Gatos Avengers: 373/3(40) SYCA Eagles: 325/9(38.3)"
+  },
+  {
+   "matchId": "1562",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1562&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "Dublin Rhinos"
+   ],
+   "teamIds": [
+    "348",
+    "354"
+   ],
+   "ground": "Sierramont",
+   "result": "Abandoned.",
+   "summary": "EYCA Vikings: 0/0(0)"
+  },
+  {
+   "matchId": "955",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=955&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "PCA"
+   ],
+   "teamIds": [
+    "349",
+    "353"
+   ],
+   "ground": "Roseville Maidu",
+   "result": "PCA won by 143 Runs",
+   "summary": "PCA: 267/8(40) SYCA Eagles: 124/9(27.2)"
+  }
+ ]
+}

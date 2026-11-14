@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s363",
+  "id": "legacy-31",
+  "name": "USAC Junior 2023 -Midwest WIM Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:16:21.171Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=31&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=31&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2019&clubId=40319",
+   "date": "2023-07-09",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U15",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "564",
+    "565"
+   ],
+   "ground": "Ojibway Park Lacrosse Fields",
+   "result": "MYCA(MN) U15 won by 103 Runs",
+   "summary": "MYCA(MN) U15: 193/6(30) WIM U15: 90/6(30)"
+  },
+  {
+   "matchId": "2013",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2013&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U15",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "564",
+    "565"
+   ],
+   "ground": "Ojibway Park Lacrosse Fields",
+   "result": "MYCA(MN) U15 won by 5 Wickets",
+   "summary": "WIM U15: 124/10(29) MYCA(MN) U15: 126/5(22)"
+  },
+  {
+   "matchId": "1882",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1882&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U15",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "564",
+    "565"
+   ],
+   "ground": "Ojibway Park Lacrosse Fields",
+   "result": "MYCA(MN) U15 won by 50 Runs",
+   "summary": "MYCA(MN) U15: 143/10(29.1) WIM U15: 93/10(28.3)"
+  },
+  {
+   "matchId": "1872",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1872&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U15",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "564",
+    "565"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA(MN) U15 won by 72 Runs",
+   "summary": "MYCA(MN) U15: 220/7(30) WIM U15: 148/8(30)"
+  },
+  {
+   "matchId": "1771",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1771&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U15",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "564",
+    "565"
+   ],
+   "ground": "Lakeland Park",
+   "result": "MYCA(MN) U15 won by 81 Runs",
+   "summary": "MYCA(MN) U15: 156/4(30) WIM U15: 75/10(16.3)"
+  },
+  {
+   "matchId": "1750",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1750&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U15",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "564",
+    "565"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA(MN) U15 won by 13 Runs",
+   "summary": "MYCA(MN) U15: 133/8(25) WIM U15: 120/6(25)"
+  }
+ ]
+}

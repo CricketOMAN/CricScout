@@ -1,0 +1,524 @@
+{
+ "season": {
+  "key": "s179",
+  "id": "legacy-323",
+  "name": "2025 USAC East Midwest Hub - U13"
+ },
+ "fetchedAt": "2026-11-13T22:23:07.847Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=323&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=323&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5831",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5831&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "AYCA U13",
+    "MYCA U13 Tigers"
+   ],
+   "teamIds": [
+    "1876",
+    "1888"
+   ],
+   "ground": "North Park",
+   "result": "AYCA U13 won by 43 Runs",
+   "summary": "AYCA U13: 137/8(30) MYCA U13 Tigers: 94/6(30)"
+  },
+  {
+   "matchId": "5820",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5820&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "AYCA U13",
+    "MCA U13"
+   ],
+   "teamIds": [
+    "1876",
+    "1878"
+   ],
+   "ground": "North Park",
+   "result": "MCA U13 won by 6 Wickets",
+   "summary": "AYCA U13: 105/7(25) MCA U13: 106/4(22.3)"
+  },
+  {
+   "matchId": "5819",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5819&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "MYCA U13 Tigers"
+   ],
+   "teamIds": [
+    "1877",
+    "1888"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "ICY U13 won by 15 Runs",
+   "summary": "ICY U13: 109/8(24.4) MYCA U13 Tigers: 94/10(22.1)"
+  },
+  {
+   "matchId": "5789",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5789&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "MCA U13",
+    "MYCA U13 Tigers"
+   ],
+   "teamIds": [
+    "1878",
+    "1888"
+   ],
+   "ground": "North Park",
+   "result": "MCA U13 won by 54 Runs",
+   "summary": "MCA U13: 135/6(25) MYCA U13 Tigers: 81/9(25)"
+  },
+  {
+   "matchId": "5785",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5785&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "1877",
+    "1876"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA U13 won by 21 Runs",
+   "summary": "AYCA U13: 110/7(25) ICY U13: 89/8(25)"
+  },
+  {
+   "matchId": "5783",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5783&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "1879",
+    "1880"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "MYCA U13 Lions won by 121 Runs",
+   "summary": "MYCA U13 Lions: 166/6(30) Prime U13: 45/11(15.5)"
+  },
+  {
+   "matchId": "5759",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5759&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Tigers",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "1888",
+    "1880"
+   ],
+   "ground": "Redford",
+   "result": "Prime U13 won by 8 Wickets",
+   "summary": "MYCA U13 Tigers: 60/10(22.2) Prime U13: 61/2(13.4)"
+  },
+  {
+   "matchId": "5745",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5745&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "MCA U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "1878",
+    "1876"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "AYCA U13 won by 38 Runs",
+   "summary": "AYCA U13: 98/10(26.2) MCA U13: 60/10(28.2)"
+  },
+  {
+   "matchId": "5617",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5617&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "MYCA U13 Tigers"
+   ],
+   "teamIds": [
+    "1879",
+    "1888"
+   ],
+   "ground": "TBD",
+   "result": "MYCA U13 Lions won by 109 Runs",
+   "summary": "MYCA U13 Lions: 189/9(30.1) MYCA U13 Tigers: 80/10(18.1)"
+  },
+  {
+   "matchId": "5579",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5579&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "MCA U13",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "1878",
+    "1880"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA U13 won by 89 Runs",
+   "summary": "MCA U13: 163/8(30) Prime U13: 74/9(21)"
+  },
+  {
+   "matchId": "5526",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5526&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "MCA U13",
+    "MYCA U13 Lions"
+   ],
+   "teamIds": [
+    "1878",
+    "1879"
+   ],
+   "ground": "TBD",
+   "result": "MYCA U13 Lions won by 3 Wickets",
+   "summary": "MCA U13: 88/8(30) MYCA U13 Lions: 89/7(26.2)"
+  },
+  {
+   "matchId": "5411",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5411&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "AYCA U13",
+    "MYCA U13 Lions"
+   ],
+   "teamIds": [
+    "1876",
+    "1879"
+   ],
+   "ground": "TBD",
+   "result": "MYCA U13 Lions won by 8 Wickets",
+   "summary": "AYCA U13: 117/8(25) MYCA U13 Lions: 118/2(20)"
+  },
+  {
+   "matchId": "5409",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5409&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "1877",
+    "1880"
+   ],
+   "ground": "TBD",
+   "result": "ICY U13 won by 8 Wickets",
+   "summary": "Prime U13: 84/8(25) ICY U13: 85/2(23)"
+  },
+  {
+   "matchId": "5367",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5367&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "MYCA U13 Lions"
+   ],
+   "teamIds": [
+    "1877",
+    "1879"
+   ],
+   "ground": "TBD",
+   "result": "MYCA U13 Lions won by 8 Wickets",
+   "summary": "ICY U13: 85/6(25) MYCA U13 Lions: 86/2(16.2)"
+  },
+  {
+   "matchId": "5366",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5366&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "AYCA U13",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "1876",
+    "1880"
+   ],
+   "ground": "TBD",
+   "result": "AYCA U13 won by 56 Runs",
+   "summary": "AYCA U13: 144/3(25) Prime U13: 88/7(25)"
+  },
+  {
+   "matchId": "5340",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5340&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "MYCA U13 Tigers"
+   ],
+   "teamIds": [
+    "1879",
+    "1888"
+   ],
+   "ground": "TBD",
+   "result": "MYCA U13 Lions won by 91 Runs",
+   "summary": "MYCA U13 Lions: 228/2(30) MYCA U13 Tigers: 137/7(30)"
+  },
+  {
+   "matchId": "5101",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5101&clubId=40319",
+   "date": "2025-05-12",
+   "type": "League",
+   "teams": [
+    "Prime U13",
+    "ICY U13"
+   ],
+   "teamIds": [
+    "1880",
+    "1877"
+   ],
+   "ground": "TBD",
+   "result": "ICY U13 won by 77 Runs",
+   "summary": "ICY U13: 119/7(30) Prime U13: 42/10(21)"
+  },
+  {
+   "matchId": "5094",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5094&clubId=40319",
+   "date": "2025-05-12",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Tigers",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "1888",
+    "1876"
+   ],
+   "ground": "Northville",
+   "result": "AYCA U13 won by 150 Runs",
+   "summary": "AYCA U13: 183/6(30) MYCA U13 Tigers: 33/10(11.5)"
+  },
+  {
+   "matchId": "5092",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5092&clubId=40319",
+   "date": "2025-05-12",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "MCA U13"
+   ],
+   "teamIds": [
+    "1879",
+    "1878"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "MYCA U13 Lions won by 6 Wickets",
+   "summary": "MCA U13: 83/10(24.3) MYCA U13 Lions: 84/4(22.4)"
+  },
+  {
+   "matchId": "5071",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5071&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "1879",
+    "1876"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "MYCA U13 Lions won by 7 Wickets",
+   "summary": "AYCA U13: 73/10(21.5) MYCA U13 Lions: 74/3(16.1)"
+  },
+  {
+   "matchId": "5062",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5062&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Tigers",
+    "ICY U13"
+   ],
+   "teamIds": [
+    "1888",
+    "1877"
+   ],
+   "ground": "TBD",
+   "result": "ICY U13 won by 170 Runs",
+   "summary": "ICY U13: 242/2(27) MYCA U13 Tigers: 72/10(23.5)"
+  },
+  {
+   "matchId": "5059",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5059&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Prime U13",
+    "MCA U13"
+   ],
+   "teamIds": [
+    "1880",
+    "1878"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "MCA U13 won by 125 Runs",
+   "summary": "MCA U13: 241/3(28) Prime U13: 116/8(27)"
+  },
+  {
+   "matchId": "5004",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5004&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Tigers",
+    "MCA U13"
+   ],
+   "teamIds": [
+    "1888",
+    "1878"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "MCA U13 won by 123 Runs",
+   "summary": "MCA U13: 163/9(25) MYCA U13 Tigers: 40/10(16)"
+  },
+  {
+   "matchId": "5003",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5003&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Prime U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "1880",
+    "1876"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "AYCA U13 won by 4 Wickets",
+   "summary": "Prime U13: 80/10(23.2) AYCA U13: 82/6(19.5)"
+  },
+  {
+   "matchId": "4978",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4978&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "ICY U13"
+   ],
+   "teamIds": [
+    "1879",
+    "1877"
+   ],
+   "ground": "TBD",
+   "result": "MYCA U13 Lions won by 18 Runs",
+   "summary": "MYCA U13 Lions: 179/6(30) ICY U13: 161/4(30)"
+  },
+  {
+   "matchId": "4726",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4726&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Tigers",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "1888",
+    "1880"
+   ],
+   "ground": "Murphy",
+   "result": "Prime U13 won by 131 Runs",
+   "summary": "Prime U13: 187/8(30) MYCA U13 Tigers: 56/10(20.3)"
+  },
+  {
+   "matchId": "4685",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4685&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "1879",
+    "1880"
+   ],
+   "ground": "Murphy",
+   "result": "MYCA U13 Lions won by 170 Runs",
+   "summary": "MYCA U13 Lions: 214/2(30.1) Prime U13: 44/10(12.2)"
+  },
+  {
+   "matchId": "4667",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4667&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "1877",
+    "1876"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "AYCA U13 won by 2 Wickets",
+   "summary": "ICY U13: 128/10(25.5) AYCA U13: 129/8(28.4)"
+  },
+  {
+   "matchId": "4527",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4527&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "MCA U13",
+    "ICY U13"
+   ],
+   "teamIds": [
+    "1878",
+    "1877"
+   ],
+   "ground": "QUINN PARK",
+   "result": "MCA U13 won by 14 Runs",
+   "summary": "MCA U13: 123/2(25) ICY U13: 109/10(22.2)"
+  },
+  {
+   "matchId": "4469",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4469&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "MCA U13"
+   ],
+   "teamIds": [
+    "1877",
+    "1878"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "ICY U13 won by 194 Runs",
+   "summary": "ICY U13: 311/7(30) MCA U13: 117/8(29.2)"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s22",
+  "id": "legacy-575",
+  "name": "USAC 2026 - Great Lakes Regionals - U13"
+ },
+ "fetchedAt": "2026-11-13T21:40:22.544Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=575&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=575&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9049",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9049&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "OH_BLUE",
+    "MI_BLUE"
+   ],
+   "teamIds": [
+    "3376",
+    "3375"
+   ],
+   "ground": "TBD",
+   "result": "MI_BLUE won by 32 Runs",
+   "summary": "MI_BLUE: 158/7(30) OH_BLUE: 126/10(29.5)"
+  },
+  {
+   "matchId": "9044",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9044&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "OH_RED",
+    "MI_RED"
+   ],
+   "teamIds": [
+    "3377",
+    "3374"
+   ],
+   "ground": "Heritage Park",
+   "result": "OH_RED won by 7 Wickets",
+   "summary": "MI_RED: 94/10(25.4) OH_RED: 96/3(18.5)"
+  },
+  {
+   "matchId": "9026",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9026&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "OH_BLUE",
+    "MI_RED"
+   ],
+   "teamIds": [
+    "3376",
+    "3374"
+   ],
+   "ground": "TBD",
+   "result": "MI_RED won by 171 Runs",
+   "summary": "MI_RED: 277/4(30) OH_BLUE: 106/10(26.5)"
+  },
+  {
+   "matchId": "9024",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9024&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "OH_RED",
+    "MI_BLUE"
+   ],
+   "teamIds": [
+    "3377",
+    "3375"
+   ],
+   "ground": "Heritage Park",
+   "result": "OH_RED won by 125 Runs",
+   "summary": "OH_RED: 170/10(28.3) MI_BLUE: 45/10(17.4)"
+  },
+  {
+   "matchId": "8925",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8925&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "MI_RED",
+    "OH_BLUE"
+   ],
+   "teamIds": [
+    "3374",
+    "3376"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "MI_RED won by 110 Runs",
+   "summary": "MI_RED: 156/5(30) OH_BLUE: 46/10(17.1)"
+  },
+  {
+   "matchId": "8924",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8924&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "MI_BLUE",
+    "OH_RED"
+   ],
+   "teamIds": [
+    "3375",
+    "3377"
+   ],
+   "ground": "Trombly Michigan",
+   "result": "OH_RED won by 37 Runs",
+   "summary": "OH_RED: 85/10(26.3) MI_BLUE: 48/10(19.1)"
+  },
+  {
+   "matchId": "8914",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8914&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "MI_RED",
+    "OH_RED"
+   ],
+   "teamIds": [
+    "3374",
+    "3377"
+   ],
+   "ground": "Murphy",
+   "result": "OH_RED won by 83 Runs",
+   "summary": "OH_RED: 230/8(30) MI_RED: 147/10(29.2)"
+  },
+  {
+   "matchId": "8909",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8909&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "MI_BLUE",
+    "OH_BLUE"
+   ],
+   "teamIds": [
+    "3375",
+    "3376"
+   ],
+   "ground": "Northville",
+   "result": "MI_BLUE won by 109 Runs",
+   "summary": "MI_BLUE: 223/5(30) OH_BLUE: 114/10(29.1)"
+  }
+ ]
+}

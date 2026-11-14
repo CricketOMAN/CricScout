@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s17",
+  "id": "legacy-586",
+  "name": "USAC 2026 Western Conference U15 Leg 1"
+ },
+ "fetchedAt": "2026-11-13T21:40:06.506Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=586&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=586&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9104",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9104&clubId=40319",
+   "date": "2026-07-15",
+   "type": "League",
+   "teams": [
+    "South Central Flames",
+    "North Central Warriors"
+   ],
+   "teamIds": [
+    "3413",
+    "3410"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "North Central Warriors won by 6 Runs",
+   "summary": "North Central Warriors: 150/9(40) South Central Flames: 144/10(38.4)"
+  },
+  {
+   "matchId": "9102",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9102&clubId=40319",
+   "date": "2026-07-15",
+   "type": "League",
+   "teams": [
+    "South Central Fire",
+    "North Central Titans"
+   ],
+   "teamIds": [
+    "3412",
+    "3411"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "South Central Fire won by 5 Wickets",
+   "summary": "North Central Titans: 109/11(38.4) South Central Fire: 115/5(28.1)"
+  },
+  {
+   "matchId": "9097",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9097&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "South Central Flames",
+    "North Central Titans"
+   ],
+   "teamIds": [
+    "3413",
+    "3411"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "North Central Titans won by 129 Runs",
+   "summary": "North Central Titans: 186/9(40) South Central Flames: 57/10(15.5)"
+  },
+  {
+   "matchId": "9095",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9095&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "South Central Fire",
+    "North Central Warriors"
+   ],
+   "teamIds": [
+    "3412",
+    "3410"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "South Central Fire won by 5 Wickets",
+   "summary": "North Central Warriors: 75/11(26) South Central Fire: 79/5(24)"
+  },
+  {
+   "matchId": "9090",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9090&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "North Central Warriors",
+    "North Central Titans"
+   ],
+   "teamIds": [
+    "3410",
+    "3411"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Abandoned.",
+   "summary": "North Central Warriors: 0/0(0)"
+  },
+  {
+   "matchId": "9089",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9089&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "South Central Fire",
+    "South Central Flames"
+   ],
+   "teamIds": [
+    "3412",
+    "3413"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Abandoned.",
+   "summary": "South Central Fire: 0/0(0)"
+  },
+  {
+   "matchId": "9048",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9048&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "Mid West Blue",
+    "South Central Fire"
+   ],
+   "teamIds": [
+    "3409",
+    "3412"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Mid West Blue won by 7 Runs",
+   "summary": "Mid West Blue: 96/10(38.3) South Central Fire: 89/10(25.3)"
+  },
+  {
+   "matchId": "9047",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9047&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "Mid West Red",
+    "South Central Flames"
+   ],
+   "teamIds": [
+    "3408",
+    "3413"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Mid West Red won by 42 Runs",
+   "summary": "Mid West Red: 185/10(36.1) South Central Flames: 143/10(31.2)"
+  },
+  {
+   "matchId": "9015",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9015&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Mid West Red",
+    "South Central Fire"
+   ],
+   "teamIds": [
+    "3408",
+    "3412"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "South Central Fire won by 10 Wickets",
+   "summary": "Mid West Red: 68/10(28.4) South Central Fire: 69/0(7.3)"
+  },
+  {
+   "matchId": "9013",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9013&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Mid West Blue",
+    "South Central Flames"
+   ],
+   "teamIds": [
+    "3409",
+    "3413"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Mid West Blue won by 23 Runs",
+   "summary": "Mid West Blue: 136/10(34.3) South Central Flames: 113/10(32.4)"
+  },
+  {
+   "matchId": "8988",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8988&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "Mid West Blue",
+    "North Central Warriors"
+   ],
+   "teamIds": [
+    "3409",
+    "3410"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "North Central Warriors won by 133 Runs",
+   "summary": "North Central Warriors: 224/10(40) Mid West Blue: 91/11(33)"
+  },
+  {
+   "matchId": "8987",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8987&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "Mid West Red",
+    "North Central Titans"
+   ],
+   "teamIds": [
+    "3408",
+    "3411"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Mid West Red won by 21 Runs",
+   "summary": "Mid West Red: 178/7(40) North Central Titans: 157/11(35.4)"
+  },
+  {
+   "matchId": "8973",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8973&clubId=40319",
+   "date": "2026-07-09",
+   "type": "League",
+   "teams": [
+    "Mid West Blue",
+    "North Central Titans"
+   ],
+   "teamIds": [
+    "3409",
+    "3411"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "North Central Titans won by 9 Wickets",
+   "summary": "Mid West Blue: 78/10(32.1) North Central Titans: 80/1(14.3)"
+  },
+  {
+   "matchId": "8972",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8972&clubId=40319",
+   "date": "2026-07-09",
+   "type": "League",
+   "teams": [
+    "Mid West Red",
+    "North Central Warriors"
+   ],
+   "teamIds": [
+    "3408",
+    "3410"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "North Central Warriors won by 61 Runs",
+   "summary": "North Central Warriors: 179/9(40) Mid West Red: 118/10(35.4)"
+  },
+  {
+   "matchId": "8964",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8964&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "Mid West Red",
+    "Mid West Blue"
+   ],
+   "teamIds": [
+    "3408",
+    "3409"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Mid West Red won by 81 Runs",
+   "summary": "Mid West Red: 210/10(38.4) Mid West Blue: 129/10(38.4)"
+  }
+ ]
+}

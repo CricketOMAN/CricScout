@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s48",
+  "id": "legacy-543",
+  "name": "2026 USAC IN Hub- Dev"
+ },
+ "fetchedAt": "2026-11-13T21:41:40.513Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=543&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=543&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8386",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8386&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Bluegrass Stallions",
+    "Hoosier Warriors"
+   ],
+   "teamIds": [
+    "3239",
+    "3240"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "Hoosier Warriors won by 135 Runs",
+   "summary": "Hoosier Warriors: 226/7(36.5) Bluegrass Stallions: 91/6(20.1)"
+  },
+  {
+   "matchId": "8327",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8327&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Bluegrass Stallions",
+    "Hoosier Warriors"
+   ],
+   "teamIds": [
+    "3239",
+    "3240"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Bluegrass Stallions won by 4 Wickets",
+   "summary": "Hoosier Warriors: 139/7(30) Bluegrass Stallions: 142/6(30)"
+  },
+  {
+   "matchId": "8236",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8236&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Bluegrass Stallions",
+    "Hoosier Warriors"
+   ],
+   "teamIds": [
+    "3239",
+    "3240"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Bluegrass Stallions won by 4 Wickets",
+   "summary": "Hoosier Warriors: 207/7(29.3) Bluegrass Stallions: 210/6(29)"
+  }
+ ]
+}

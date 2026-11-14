@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s269",
+  "id": "legacy-181",
+  "name": "USAC Junior 2024 - Seattle Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:44:31.947Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=181&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=181&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3642&clubId=40319",
+   "date": "2024-07-02",
+   "type": "League",
+   "teams": [
+    "MLCA Bellevue Royal Challengers",
+    "BCC ORS U15"
+   ],
+   "teamIds": [
+    "1003",
+    "1004"
+   ],
+   "ground": "McCollum Park",
+   "result": "MLCA Bellevue Royal Challengers won by 33 Runs",
+   "summary": "MLCA Bellevue Royal Challengers: 239/8(30) BCC ORS U15: 206/5(30)"
+  },
+  {
+   "matchId": "3634",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3634&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "SKA Panthers",
+    "BCC ORS U15"
+   ],
+   "teamIds": [
+    "999",
+    "1004"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "SKA Panthers won by 173 Runs",
+   "summary": "SKA Panthers: 252/9(30) BCC ORS U15: 79/10(22.2)"
+  },
+  {
+   "matchId": "3607",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3607&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "PBL Gladiators",
+    "BCC ORS U15"
+   ],
+   "teamIds": [
+    "1000",
+    "1004"
+   ],
+   "ground": "Salem Cricket Ground",
+   "result": "BCC ORS U15 won by 7 Wickets",
+   "summary": "PBL Gladiators: 148/9(30) BCC ORS U15: 151/3(16.2)"
+  },
+  {
+   "matchId": "3485",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3485&clubId=40319",
+   "date": "2024-06-19",
+   "type": "League",
+   "teams": [
+    "SKA Panthers",
+    "MLCA Bellevue Royal Challengers"
+   ],
+   "teamIds": [
+    "999",
+    "1003"
+   ],
+   "ground": "McCollum Park",
+   "result": "MLCA Bellevue Royal Challengers won by 8 Wickets",
+   "summary": "SKA Panthers: 253/8(30) MLCA Bellevue Royal Challengers: 254/2(27.1)"
+  },
+  {
+   "matchId": "3484",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3484&clubId=40319",
+   "date": "2024-06-19",
+   "type": "League",
+   "teams": [
+    "BCC ORS U15",
+    "Super11 Eagles"
+   ],
+   "teamIds": [
+    "1004",
+    "1001"
+   ],
+   "ground": "Sammamish State Park",
+   "result": "BCC ORS U15 won by 43 Runs",
+   "summary": "BCC ORS U15: 141/6(30) Super11 Eagles: 98/10(24.1)"
+  },
+  {
+   "matchId": "3385",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3385&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "MLCA Kirkland Knight Riders",
+    "BCC ORS U15"
+   ],
+   "teamIds": [
+    "1002",
+    "1004"
+   ],
+   "ground": "Portland Cricket Ground (PCC)",
+   "result": "MLCA Kirkland Knight Riders won by 81 Runs",
+   "summary": "MLCA Kirkland Knight Riders: 228/3(30) BCC ORS U15: 147/10(27.4)"
+  },
+  {
+   "matchId": "3328",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3328&clubId=40319",
+   "date": "2024-06-05",
+   "type": "League",
+   "teams": [
+    "SKA Panthers",
+    "PBL Gladiators"
+   ],
+   "teamIds": [
+    "999",
+    "1000"
+   ],
+   "ground": "Monroe High School",
+   "result": "SKA Panthers won by 141 Runs",
+   "summary": "SKA Panthers: 226/3(30) PBL Gladiators: 85/9(30)"
+  },
+  {
+   "matchId": "3327",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3327&clubId=40319",
+   "date": "2024-06-05",
+   "type": "League",
+   "teams": [
+    "Super11 Eagles",
+    "MLCA Bellevue Royal Challengers"
+   ],
+   "teamIds": [
+    "1001",
+    "1003"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "Winner: MLCA Bellevue Royal Challengers",
+   "summary": "Super11 Eagles: 217/3(28) MLCA Bellevue Royal Challengers: 193/3(25.4)"
+  },
+  {
+   "matchId": "3247",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3247&clubId=40319",
+   "date": "2024-05-29",
+   "type": "League",
+   "teams": [
+    "Super11 Eagles",
+    "MLCA Kirkland Knight Riders"
+   ],
+   "teamIds": [
+    "1001",
+    "1002"
+   ],
+   "ground": "Monroe High School",
+   "result": "Super11 Eagles won by 36 Runs",
+   "summary": "Super11 Eagles: 146/6(27) MLCA Kirkland Knight Riders: 110/9(25.2)"
+  },
+  {
+   "matchId": "3232",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3232&clubId=40319",
+   "date": "2024-05-22",
+   "type": "League",
+   "teams": [
+    "SKA Panthers",
+    "MLCA Kirkland Knight Riders"
+   ],
+   "teamIds": [
+    "999",
+    "1002"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "SKA Panthers won by 96 Runs",
+   "summary": "SKA Panthers: 234/4(30) MLCA Kirkland Knight Riders: 138/9(26.5)"
+  },
+  {
+   "matchId": "3231",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3231&clubId=40319",
+   "date": "2024-05-22",
+   "type": "League",
+   "teams": [
+    "MLCA Bellevue Royal Challengers",
+    "PBL Gladiators"
+   ],
+   "teamIds": [
+    "1003",
+    "1000"
+   ],
+   "ground": "Monroe High School",
+   "result": "MLCA Bellevue Royal Challengers won by 232 Runs",
+   "summary": "MLCA Bellevue Royal Challengers: 301/5(30) PBL Gladiators: 69/10(27.3)"
+  },
+  {
+   "matchId": "3131",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3131&clubId=40319",
+   "date": "2024-05-15",
+   "type": "League",
+   "teams": [
+    "MLCA Bellevue Royal Challengers",
+    "MLCA Kirkland Knight Riders"
+   ],
+   "teamIds": [
+    "1003",
+    "1002"
+   ],
+   "ground": "Monroe High School",
+   "result": "MLCA Kirkland Knight Riders won by 7 Wickets",
+   "summary": "MLCA Bellevue Royal Challengers: 158/7(27) MLCA Kirkland Knight Riders: 162/3(22.4)"
+  },
+  {
+   "matchId": "3127",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3127&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "PBL Gladiators",
+    "MLCA Kirkland Knight Riders"
+   ],
+   "teamIds": [
+    "1000",
+    "1002"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "MLCA Kirkland Knight Riders won by 8 Wickets",
+   "summary": "PBL Gladiators: 26/10(12.1) MLCA Kirkland Knight Riders: 27/2(5.2)"
+  },
+  {
+   "matchId": "3119",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3119&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "SKA Panthers",
+    "Super11 Eagles"
+   ],
+   "teamIds": [
+    "999",
+    "1001"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "SKA Panthers won by 139 Runs",
+   "summary": "SKA Panthers: 202/9(30) Super11 Eagles: 63/8(20.1)"
+  },
+  {
+   "matchId": "2994",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2994&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "PBL Gladiators",
+    "Super11 Eagles"
+   ],
+   "teamIds": [
+    "1000",
+    "1001"
+   ],
+   "ground": "Marymoor Park",
+   "result": "Super11 Eagles won by 8 Wickets",
+   "summary": "PBL Gladiators: 172/7(30.1) Super11 Eagles: 173/2(16.4)"
+  }
+ ]
+}

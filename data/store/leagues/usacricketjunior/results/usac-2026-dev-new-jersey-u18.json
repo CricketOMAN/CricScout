@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s109",
+  "id": "legacy-466",
+  "name": "USAC 2026 Dev - New Jersey - U18"
+ },
+ "fetchedAt": "2026-11-13T21:52:08.309Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=466&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=466&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9417",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9417&clubId=40319",
+   "date": "2026-09-01",
+   "type": "Final",
+   "teams": [
+    "DreamCricket Warriors",
+    "Knight Riders Dominators"
+   ],
+   "teamIds": [
+    "3513",
+    "3515"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Dominators won by 3 Wickets",
+   "summary": "DreamCricket Warriors: 125/10(35) Knight Riders Dominators: 127/7(40.4)"
+  },
+  {
+   "matchId": "9351",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9351&clubId=40319",
+   "date": "2026-08-18",
+   "type": "League",
+   "teams": [
+    "Gameday Lions",
+    "Knight Riders Dominators"
+   ],
+   "teamIds": [
+    "3514",
+    "3515"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Dominators won by 8 Wickets",
+   "summary": "Gameday Lions: 57/10(22.3) Knight Riders Dominators: 58/2(5.1)"
+  },
+  {
+   "matchId": "9338",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9338&clubId=40319",
+   "date": "2026-08-13",
+   "type": "League",
+   "teams": [
+    "DreamCricket Warriors",
+    "Knight Riders Dominators"
+   ],
+   "teamIds": [
+    "3513",
+    "3515"
+   ],
+   "ground": "TBD",
+   "result": "DreamCricket Warriors won by 5 Wickets",
+   "summary": "Knight Riders Dominators: 154/10(44.4) DreamCricket Warriors: 155/5(28.5)"
+  },
+  {
+   "matchId": "9337",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9337&clubId=40319",
+   "date": "2026-08-11",
+   "type": "League",
+   "teams": [
+    "Knight Riders Dominators",
+    "Gameday Lions"
+   ],
+   "teamIds": [
+    "3515",
+    "3514"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Dominators won by 323 Runs",
+   "summary": "Knight Riders Dominators: 374/5(45) Gameday Lions: 51/10(19.1)"
+  },
+  {
+   "matchId": "9336",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9336&clubId=40319",
+   "date": "2026-08-11",
+   "type": "League",
+   "teams": [
+    "DreamCricket Warriors",
+    "RRA NJ Cosmos"
+   ],
+   "teamIds": [
+    "3513",
+    "3516"
+   ],
+   "ground": "TBD",
+   "result": "DreamCricket Warriors won by 9 Wickets",
+   "summary": "RRA NJ Cosmos: 64/10(15.3) DreamCricket Warriors: 66/1(7.5)"
+  },
+  {
+   "matchId": "9307",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9307&clubId=40319",
+   "date": "2026-08-06",
+   "type": "League",
+   "teams": [
+    "DreamCricket Warriors",
+    "Gameday Lions"
+   ],
+   "teamIds": [
+    "3513",
+    "3514"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "DreamCricket Warriors won by 10 Wickets",
+   "summary": "Gameday Lions: 41/10(22.4) DreamCricket Warriors: 43/0(3.1)"
+  }
+ ]
+}

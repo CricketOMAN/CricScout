@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s339",
+  "id": "legacy-59",
+  "name": "USAC Junior 2023 -New York Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:13:16.544Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=59&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=59&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1979",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1979&clubId=40319",
+   "date": "2023-07-07",
+   "type": "League",
+   "teams": [
+    "New York Blue",
+    "New York Red"
+   ],
+   "teamIds": [
+    "663",
+    "662"
+   ],
+   "ground": "Idlewild",
+   "result": "New York Blue won by 2 Wickets",
+   "summary": "New York Red: 149/6(30) New York Blue: 150/8(30)"
+  },
+  {
+   "matchId": "1969",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1969&clubId=40319",
+   "date": "2023-07-06",
+   "type": "League",
+   "teams": [
+    "New York Red",
+    "New York Blue"
+   ],
+   "teamIds": [
+    "662",
+    "663"
+   ],
+   "ground": "Idlewild",
+   "result": "New York Red won by 73 Runs",
+   "summary": "New York Red: 199/2(30) New York Blue: 126/11(29.5)"
+  },
+  {
+   "matchId": "1966",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1966&clubId=40319",
+   "date": "2023-07-05",
+   "type": "League",
+   "teams": [
+    "New York Red",
+    "New York Blue"
+   ],
+   "teamIds": [
+    "662",
+    "663"
+   ],
+   "ground": "Idlewild",
+   "result": "New York Red won by 47 Runs",
+   "summary": "New York Red: 194/3(30) New York Blue: 147/2(30)"
+  }
+ ]
+}

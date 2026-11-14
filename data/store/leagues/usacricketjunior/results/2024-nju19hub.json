@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s224",
+  "id": "legacy-246",
+  "name": "2024-NJU19HUB"
+ },
+ "fetchedAt": "2026-11-13T22:39:13.188Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=246&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=246&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3944",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3944&clubId=40319",
+   "date": "2024-08-20",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team RED"
+   ],
+   "teamIds": [
+    "1380",
+    "1379"
+   ],
+   "ground": "TBD",
+   "result": "Team BLUE won by -1 Wickets",
+   "summary": "Team RED: 278/9(50) Team BLUE: 279/11(49.5)"
+  },
+  {
+   "matchId": "3943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3943&clubId=40319",
+   "date": "2024-08-19",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team RED"
+   ],
+   "teamIds": [
+    "1380",
+    "1379"
+   ],
+   "ground": "TBD",
+   "result": "Team BLUE won by 9 Runs (D/L)",
+   "summary": "Team BLUE: 182/9(39.5) Team RED: 224/7(40)"
+  },
+  {
+   "matchId": "3913",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3913&clubId=40319",
+   "date": "2024-08-16",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team RED"
+   ],
+   "teamIds": [
+    "1380",
+    "1379"
+   ],
+   "ground": "TBD",
+   "result": "Team RED won by 28 Runs",
+   "summary": "Team RED: 268/8(50) Team BLUE: 240/8(50)"
+  },
+  {
+   "matchId": "3909",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3909&clubId=40319",
+   "date": "2024-08-15",
+   "type": "League",
+   "teams": [
+    "Team BLUE",
+    "Team RED"
+   ],
+   "teamIds": [
+    "1380",
+    "1379"
+   ],
+   "ground": "TBD",
+   "result": "Team RED won by 5 Wickets",
+   "summary": "Team BLUE: 212/7(50) Team RED: 213/5(45)"
+  }
+ ]
+}

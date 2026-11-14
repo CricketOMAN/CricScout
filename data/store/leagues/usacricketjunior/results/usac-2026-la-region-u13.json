@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s51",
+  "id": "legacy-539",
+  "name": "USAC 2026 - LA Region - U13"
+ },
+ "fetchedAt": "2026-11-13T21:41:49.254Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=539&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=539&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8604",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8604&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "U13 2026 Socal Hub Team Blue",
+    "U13 2026 Socal Hub Team Red"
+   ],
+   "teamIds": [
+    "3227",
+    "3228"
+   ],
+   "ground": "TBD",
+   "result": "U13 2026 Socal Hub Team Blue won by -1 Wickets (D/L)",
+   "summary": "U13 2026 Socal Hub Team Red: 131/9(30) U13 2026 Socal Hub Team Blue: 167/11(28)"
+  },
+  {
+   "matchId": "8183",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8183&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "U13 2026 Socal Hub Team Red",
+    "U13 2026 AZ Hub Team"
+   ],
+   "teamIds": [
+    "3228",
+    "3230"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "U13 2026 Socal Hub Team Red won by -1 Wickets",
+   "summary": "U13 2026 AZ Hub Team: 100/14(29.4) U13 2026 Socal Hub Team Red: 101/11(29.1)"
+  },
+  {
+   "matchId": "8142",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8142&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "U13 2026 Socal Hub Team Blue",
+    "U13 2026 AZ Hub Team"
+   ],
+   "teamIds": [
+    "3227",
+    "3230"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "U13 2026 Socal Hub Team Blue won by 74 Runs",
+   "summary": "U13 2026 Socal Hub Team Blue: 144/6(30) U13 2026 AZ Hub Team: 70/12(25.5)"
+  }
+ ]
+}

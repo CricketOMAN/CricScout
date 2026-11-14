@@ -1,0 +1,99 @@
+{
+ "season": {
+  "key": "s131",
+  "id": "legacy-419",
+  "name": "EMW Dev 2025 U11"
+ },
+ "fetchedAt": "2026-11-13T22:05:46.814Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=419&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=419&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6754",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6754&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "ICY U11",
+    "AYCA U11 Red"
+   ],
+   "teamIds": [
+    "2526",
+    "2525"
+   ],
+   "ground": "TBD",
+   "result": "AYCA U11 Red won by 7 Wickets",
+   "summary": "ICY U11: 136/5(30) AYCA U11 Red: 137/3(22.2)"
+  },
+  {
+   "matchId": "6599",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6599&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "AYCA U11 Blue",
+    "PYCA"
+   ],
+   "teamIds": [
+    "2524",
+    "2530"
+   ],
+   "ground": "TBD",
+   "result": "PYCA won by 6 Runs",
+   "summary": "PYCA: 85/3(23.4) AYCA U11 Blue: 79/8(25)"
+  },
+  {
+   "matchId": "6575",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6575&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "ICY U11",
+    "PYCA"
+   ],
+   "teamIds": [
+    "2526",
+    "2530"
+   ],
+   "ground": "TBD",
+   "result": "PYCA won by 4 Runs",
+   "summary": "PYCA: 64/10(22.4) ICY U11: 60/8(23.3)"
+  },
+  {
+   "matchId": "6541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6541&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "AYCA U11 Red",
+    "ICY U11"
+   ],
+   "teamIds": [
+    "2525",
+    "2526"
+   ],
+   "ground": "TBD",
+   "result": "AYCA U11 Red won by 4 Wickets",
+   "summary": "ICY U11: 63/10(20.5) AYCA U11 Red: 64/6(14.4)"
+  },
+  {
+   "matchId": "6508",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6508&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "ICY U11",
+    "AYCA U11 Red"
+   ],
+   "teamIds": [
+    "2526",
+    "2525"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned. Winner: ICY U11",
+   "summary": "ICY U11: 132/9(27.5) AYCA U11 Red: 45/3(10)"
+  }
+ ]
+}

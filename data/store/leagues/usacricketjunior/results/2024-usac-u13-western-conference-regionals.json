@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s220",
+  "id": "legacy-251",
+  "name": "2024 USAC U13 - Western Conference Regionals"
+ },
+ "fetchedAt": "2026-11-13T22:36:40.193Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=251&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=251&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4020",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4020&clubId=40319",
+   "date": "2024-09-02",
+   "type": "Eliminator",
+   "teams": [
+    "Los Angeles",
+    "Dallas - Smashers"
+   ],
+   "teamIds": [
+    "1401",
+    "1403"
+   ],
+   "ground": "Dilworth",
+   "result": "Los Angeles won by 8 Wickets",
+   "summary": "Dallas - Smashers: 169/9(30) Los Angeles: 173/2(25.5)"
+  },
+  {
+   "matchId": "4019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4019&clubId=40319",
+   "date": "2024-09-02",
+   "type": "3rd Position",
+   "teams": [
+    "Missouri",
+    "Houston"
+   ],
+   "teamIds": [
+    "1402",
+    "1405"
+   ],
+   "ground": "Windemere Ranch Middle School",
+   "result": "Missouri won by 3 Wickets",
+   "summary": "Houston: 115/9(30) Missouri: 119/7(30)"
+  },
+  {
+   "matchId": "4018",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4018&clubId=40319",
+   "date": "2024-09-02",
+   "type": "Final",
+   "teams": [
+    "Bay Area - Titans",
+    "Bay Area - Kings"
+   ],
+   "teamIds": [
+    "1400",
+    "1404"
+   ],
+   "ground": "GRMS",
+   "result": "Bay Area - Kings won by 7 Wickets",
+   "summary": "Bay Area - Titans: 132/10(30) Bay Area - Kings: 136/3(21.4)"
+  },
+  {
+   "matchId": "4016",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4016&clubId=40319",
+   "date": "2024-09-02",
+   "type": "Eliminator",
+   "teams": [
+    "Dallas - Avengers",
+    "Seattle"
+   ],
+   "teamIds": [
+    "1399",
+    "1406"
+   ],
+   "ground": "Alisal",
+   "result": "Dallas - Avengers won by 2 Wickets",
+   "summary": "Seattle: 67/10(24.2) Dallas - Avengers: 68/8(22.1)"
+  },
+  {
+   "matchId": "4013",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4013&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Bay Area - Titans",
+    "Los Angeles"
+   ],
+   "teamIds": [
+    "1400",
+    "1401"
+   ],
+   "ground": "GRMS",
+   "result": "Bay Area - Titans won by 7 Wickets",
+   "summary": "Los Angeles: 80/10(18.1) Bay Area - Titans: 81/3(17.4)"
+  },
+  {
+   "matchId": "4012",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4012&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Dallas - Avengers",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1399",
+    "1402"
+   ],
+   "ground": "Alisal",
+   "result": "Missouri won by 3 Wickets",
+   "summary": "Dallas - Avengers: 80/10(29.2) Missouri: 81/7(29.2)"
+  },
+  {
+   "matchId": "4011",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4011&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Bay Area - Kings",
+    "Houston"
+   ],
+   "teamIds": [
+    "1404",
+    "1405"
+   ],
+   "ground": "Windemere Ranch Middle School",
+   "result": "Bay Area - Kings won by 56 Runs",
+   "summary": "Bay Area - Kings: 151/10(30) Houston: 95/8(30)"
+  },
+  {
+   "matchId": "4010",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4010&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Dallas - Smashers",
+    "Seattle"
+   ],
+   "teamIds": [
+    "1403",
+    "1406"
+   ],
+   "ground": "Seabreeze",
+   "result": "Dallas - Smashers won by 6 Wickets",
+   "summary": "Seattle: 184/7(30) Dallas - Smashers: 185/4(26.5)"
+  },
+  {
+   "matchId": "4005",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4005&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Bay Area - Kings",
+    "Seattle"
+   ],
+   "teamIds": [
+    "1404",
+    "1406"
+   ],
+   "ground": "GRMS",
+   "result": "Bay Area - Kings won by 9 Wickets",
+   "summary": "Seattle: 115/10(21.3) Bay Area - Kings: 116/1(14)"
+  },
+  {
+   "matchId": "4004",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4004&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Dallas - Avengers",
+    "Los Angeles"
+   ],
+   "teamIds": [
+    "1399",
+    "1401"
+   ],
+   "ground": "Windemere Ranch Middle School",
+   "result": "Los Angeles won by 4 Wickets",
+   "summary": "Dallas - Avengers: 161/6(30) Los Angeles: 162/6(30)"
+  },
+  {
+   "matchId": "4003",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4003&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Dallas - Smashers",
+    "Houston"
+   ],
+   "teamIds": [
+    "1403",
+    "1405"
+   ],
+   "ground": "Alisal",
+   "result": "Houston won by 16 Runs",
+   "summary": "Houston: 93/10(29.5) Dallas - Smashers: 77/10(24.2)"
+  },
+  {
+   "matchId": "4002",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4002&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Bay Area - Titans",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1400",
+    "1402"
+   ],
+   "ground": "Seabreeze",
+   "result": "Bay Area - Titans won by 124 Runs",
+   "summary": "Bay Area - Titans: 240/6(30) Missouri: 116/10(29.3)"
+  },
+  {
+   "matchId": "3998",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3998&clubId=40319",
+   "date": "2024-08-31",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Seattle"
+   ],
+   "teamIds": [
+    "1405",
+    "1406"
+   ],
+   "ground": "Windemere Ranch Middle School",
+   "result": "Houston won by 6 Wickets",
+   "summary": "Seattle: 146/6(30) Houston: 150/4(24.3)"
+  },
+  {
+   "matchId": "3997",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3997&clubId=40319",
+   "date": "2024-08-31",
+   "type": "League",
+   "teams": [
+    "Los Angeles",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1401",
+    "1402"
+   ],
+   "ground": "GRMS",
+   "result": "Missouri won by 6 Wickets",
+   "summary": "Los Angeles: 132/10(29.4) Missouri: 138/4(26.1)"
+  },
+  {
+   "matchId": "3992",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3992&clubId=40319",
+   "date": "2024-08-31",
+   "type": "League",
+   "teams": [
+    "Dallas - Smashers",
+    "Bay Area - Kings"
+   ],
+   "teamIds": [
+    "1403",
+    "1404"
+   ],
+   "ground": "Windemere Ranch Middle School",
+   "result": "Bay Area - Kings won by 6 Runs",
+   "summary": "Bay Area - Kings: 164/6(30) Dallas - Smashers: 158/10(30)"
+  },
+  {
+   "matchId": "3991",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3991&clubId=40319",
+   "date": "2024-08-31",
+   "type": "League",
+   "teams": [
+    "Dallas - Avengers",
+    "Bay Area - Titans"
+   ],
+   "teamIds": [
+    "1399",
+    "1400"
+   ],
+   "ground": "GRMS",
+   "result": "Bay Area - Titans won by 12 Runs",
+   "summary": "Bay Area - Titans: 172/9(30) Dallas - Avengers: 160/5(30)"
+  }
+ ]
+}

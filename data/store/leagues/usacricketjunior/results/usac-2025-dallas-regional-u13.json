@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s151",
+  "id": "legacy-372",
+  "name": "USAC 2025 Dallas Regional U13"
+ },
+ "fetchedAt": "2026-11-13T22:15:46.939Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=372&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=372&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5950",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5950&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Yellow",
+    "Dallas U13 Red"
+   ],
+   "teamIds": [
+    "2166",
+    "2165"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U13 Yellow won by 6 Wickets",
+   "summary": "Dallas U13 Red: 172/9(30) Dallas U13 Yellow: 173/4(28.3)"
+  },
+  {
+   "matchId": "5949",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5949&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Blue",
+    "Colorado U13"
+   ],
+   "teamIds": [
+    "2164",
+    "2174"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U13 Blue won by 100 Runs",
+   "summary": "Dallas U13 Blue: 191/7(30) Colorado U13: 91/10(23.2)"
+  },
+  {
+   "matchId": "5929",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5929&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Colorado U13",
+    "Dallas U13 Yellow"
+   ],
+   "teamIds": [
+    "2174",
+    "2166"
+   ],
+   "ground": "Russel Creek G2",
+   "result": "Dallas U13 Yellow won by 103 Runs",
+   "summary": "Dallas U13 Yellow: 190/3(30) Colorado U13: 87/10(20.3)"
+  },
+  {
+   "matchId": "5928",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5928&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Blue",
+    "Dallas U13 Red"
+   ],
+   "teamIds": [
+    "2164",
+    "2165"
+   ],
+   "ground": "Russel Creek G1",
+   "result": "Dallas U13 Blue won by 7 Wickets",
+   "summary": "Dallas U13 Red: 146/7(30) Dallas U13 Blue: 149/3(26.3)"
+  },
+  {
+   "matchId": "5902",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5902&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Yellow",
+    "Dallas U13 Blue"
+   ],
+   "teamIds": [
+    "2166",
+    "2164"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "Dallas U13 Yellow won by 6 Wickets",
+   "summary": "Dallas U13 Blue: 128/10(28.3) Dallas U13 Yellow: 132/4(26.4)"
+  },
+  {
+   "matchId": "5901",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5901&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Red",
+    "Colorado U13"
+   ],
+   "teamIds": [
+    "2165",
+    "2174"
+   ],
+   "ground": "Russel Creek G1",
+   "result": "Dallas U13 Red won by 72 Runs",
+   "summary": "Dallas U13 Red: 129/11(27.2) Colorado U13: 57/10(20.3)"
+  }
+ ]
+}

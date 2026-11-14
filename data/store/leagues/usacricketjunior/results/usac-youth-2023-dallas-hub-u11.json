@@ -1,0 +1,1034 @@
+{
+ "season": {
+  "key": "s313",
+  "id": "legacy-85",
+  "name": "USAC Youth 2023 - Dallas Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:10:41.860Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=85&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=85&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1755",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1755&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "HPC Rising Stars",
+    "DYCL Falcons"
+   ],
+   "teamIds": [
+    "180",
+    "183"
+   ],
+   "ground": "Warriors CG",
+   "result": "HPC Rising Stars won by 8 Wickets",
+   "summary": "DYCL Falcons: 99/8(22.3) HPC Rising Stars: 100/2(11.2)"
+  },
+  {
+   "matchId": "1705",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1705&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "FCCA Titans",
+    "DYCL Hawks"
+   ],
+   "teamIds": [
+    "186",
+    "184"
+   ],
+   "ground": "Warriors CG",
+   "result": "FCCA Titans won by 74 Runs",
+   "summary": "FCCA Titans: 243/5(30) DYCL Hawks: 169/8(30)"
+  },
+  {
+   "matchId": "1673",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1673&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "WCA Aggies",
+    "DYCL Falcons"
+   ],
+   "teamIds": [
+    "191",
+    "183"
+   ],
+   "ground": "Warriors CG",
+   "result": "WCA Aggies won by 141 Runs",
+   "summary": "WCA Aggies: 201/7(30) DYCL Falcons: 60/9(20)"
+  },
+  {
+   "matchId": "1672",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1672&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "TCA Thunders",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "190",
+    "180"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Thunders won by 7 Wickets",
+   "summary": "HPC Rising Stars: 19/9(15.4) TCA Thunders: 21/3(4.2)"
+  },
+  {
+   "matchId": "1644",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1644&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "CCA Rangers",
+    "DYCL Eagles"
+   ],
+   "teamIds": [
+    "178",
+    "182"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Eagles won by 10 Wickets",
+   "summary": "CCA Rangers: 122/9(30) DYCL Eagles: 127/0(19.1)"
+  },
+  {
+   "matchId": "1624",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1624&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks",
+    "HiQ Fine Stars"
+   ],
+   "teamIds": [
+    "184",
+    "181"
+   ],
+   "ground": "Warriors CG",
+   "result": "HiQ Fine Stars won by 8 Wickets",
+   "summary": "DYCL Hawks: 141/10(23) HiQ Fine Stars: 144/2(16.1)"
+  },
+  {
+   "matchId": "1571",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1571&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "MCA Leopards",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "187",
+    "192"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Leopards won by 264 Runs",
+   "summary": "MCA Leopards: 357/3(30) WCA Comets: 93/10(16.3)"
+  },
+  {
+   "matchId": "1565",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1565&clubId=40319",
+   "date": "2023-06-02",
+   "type": "League",
+   "teams": [
+    "MCA Tigers",
+    "TCA Thunders"
+   ],
+   "teamIds": [
+    "188",
+    "190"
+   ],
+   "ground": "Irving Polo 1",
+   "result": "TCA Thunders won by 71 Runs",
+   "summary": "TCA Thunders: 216/5(30) MCA Tigers: 145/9(25.4)"
+  },
+  {
+   "matchId": "1561",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1561&clubId=40319",
+   "date": "2023-06-01",
+   "type": "League",
+   "teams": [
+    "MCA Leopards",
+    "TCA Thunders"
+   ],
+   "teamIds": [
+    "187",
+    "190"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Leopards won by 2 Wickets",
+   "summary": "TCA Thunders: 162/6(30) MCA Leopards: 163/8(29.2)"
+  },
+  {
+   "matchId": "1531",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1531&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "179",
+    "188"
+   ],
+   "ground": "Warriors CG",
+   "result": "MCA Tigers won by 59 Runs",
+   "summary": "MCA Tigers: 238/8(30) CCA Strikers: 179/9(28)"
+  },
+  {
+   "matchId": "1518",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1518&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "FCCA Titans",
+    "MCA Leopards"
+   ],
+   "teamIds": [
+    "186",
+    "187"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Leopards won by 5 Wickets",
+   "summary": "FCCA Titans: 113/8(25) MCA Leopards: 114/5(18.3)"
+  },
+  {
+   "matchId": "1480",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1480&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "TCA Bolts"
+   ],
+   "teamIds": [
+    "182",
+    "189"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Bolts won by 59 Runs",
+   "summary": "TCA Bolts: 160/6(30) DYCL Eagles: 101/8(26.5)"
+  },
+  {
+   "matchId": "1447",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1447&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "HiQ Fine Stars",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "181",
+    "191"
+   ],
+   "ground": "Horseshoe",
+   "result": "WCA Aggies won by 69 Runs",
+   "summary": "WCA Aggies: 118/10(26) HiQ Fine Stars: 49/10(18.4)"
+  },
+  {
+   "matchId": "1446",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1446&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "184",
+    "192"
+   ],
+   "ground": "Warriors CG",
+   "result": "WCA Comets won by 50 Runs",
+   "summary": "WCA Comets: 171/7(30) DYCL Hawks: 121/8(27)"
+  },
+  {
+   "matchId": "1818",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1818&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "FCCA Giants",
+    "HiQ Fine Stars"
+   ],
+   "teamIds": [
+    "185",
+    "181"
+   ],
+   "ground": "BF Philips",
+   "result": "Abandoned.",
+   "summary": "FCCA Giants: 0/0(0)"
+  },
+  {
+   "matchId": "1817",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1817&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "TCA Thunders",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "190",
+    "186"
+   ],
+   "ground": "BF Philips",
+   "result": "Abandoned.",
+   "summary": "TCA Thunders: 0/0(0)"
+  },
+  {
+   "matchId": "1409",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1409&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "WCA Comets",
+    "DYCL Eagles"
+   ],
+   "teamIds": [
+    "192",
+    "182"
+   ],
+   "ground": "Warriors CG",
+   "result": "Abandoned.",
+   "summary": "WCA Comets: 0/0(0)"
+  },
+  {
+   "matchId": "1381",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1381&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "CCA Rangers",
+    "MCA Leopards"
+   ],
+   "teamIds": [
+    "178",
+    "187"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Rangers won by 6 Wickets",
+   "summary": "MCA Leopards: 97/10(29) CCA Rangers: 98/4(17.5)"
+  },
+  {
+   "matchId": "1335",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1335&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks",
+    "CCA Strikers"
+   ],
+   "teamIds": [
+    "184",
+    "179"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Strikers won by 8 Wickets",
+   "summary": "DYCL Hawks: 90/9(29.4) CCA Strikers: 91/2(14.4)"
+  },
+  {
+   "matchId": "1326",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1326&clubId=40319",
+   "date": "2023-05-11",
+   "type": "League",
+   "teams": [
+    "FCCA Giants",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "185",
+    "188"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Giants won by 6 Runs",
+   "summary": "FCCA Giants: 132/9(29.1) MCA Tigers: 126/10(27.2)"
+  },
+  {
+   "matchId": "1321",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1321&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "FCCA Giants",
+    "DYCL Eagles"
+   ],
+   "teamIds": [
+    "185",
+    "182"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL Eagles won by 50 Runs",
+   "summary": "DYCL Eagles: 228/3(30) FCCA Giants: 178/4(30)"
+  },
+  {
+   "matchId": "1313",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1313&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "179",
+    "191"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers won by 114 Runs",
+   "summary": "CCA Strikers: 204/9(30) WCA Aggies: 90/10(22.5)"
+  },
+  {
+   "matchId": "1277",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1277&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "DYCL Falcons",
+    "MCA Leopards"
+   ],
+   "teamIds": [
+    "183",
+    "187"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Falcons won by 4 Wickets",
+   "summary": "MCA Leopards: 73/10(16.1) DYCL Falcons: 77/6(16.4)"
+  },
+  {
+   "matchId": "1230",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1230&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "HPC Rising Stars",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "180",
+    "186"
+   ],
+   "ground": "BF Philips",
+   "result": "HPC Rising Stars won by 17 Runs",
+   "summary": "HPC Rising Stars: 161/10(28.1) FCCA Titans: 144/7(30)"
+  },
+  {
+   "matchId": "1224",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1224&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "HiQ Fine Stars",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "181",
+    "192"
+   ],
+   "ground": "Warriors CG",
+   "result": "HiQ Fine Stars won by 190 Runs",
+   "summary": "HiQ Fine Stars: 301/5(30) WCA Comets: 111/10(26.2)"
+  },
+  {
+   "matchId": "1223",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1223&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "CCA Rangers"
+   ],
+   "teamIds": [
+    "189",
+    "178"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Bolts won by 6 Wickets",
+   "summary": "CCA Rangers: 93/10(25.4) TCA Bolts: 94/4(12)"
+  },
+  {
+   "matchId": "1220",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1220&clubId=40319",
+   "date": "2023-05-04",
+   "type": "League",
+   "teams": [
+    "FCCA Titans",
+    "CCA Rangers"
+   ],
+   "teamIds": [
+    "186",
+    "178"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Rangers won by 16 Runs",
+   "summary": "CCA Rangers: 147/9(30) FCCA Titans: 131/8(30)"
+  },
+  {
+   "matchId": "1215",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1215&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "HiQ Fine Stars",
+    "TCA Bolts"
+   ],
+   "teamIds": [
+    "181",
+    "189"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Bolts won by 54 Runs",
+   "summary": "TCA Bolts: 188/5(30) HiQ Fine Stars: 134/10(29.3)"
+  },
+  {
+   "matchId": "1180",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1180&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "WCA Comets",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "192",
+    "191"
+   ],
+   "ground": "Warriors CG",
+   "result": "WCA Aggies won by 143 Runs",
+   "summary": "WCA Aggies: 215/7(30) WCA Comets: 72/10(21.2)"
+  },
+  {
+   "matchId": "1147",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1147&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "MCA Leopards",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "187",
+    "180"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Leopards won by 67 Runs",
+   "summary": "MCA Leopards: 118/6(30) HPC Rising Stars: 51/10(21.1)"
+  },
+  {
+   "matchId": "1146",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1146&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "MCA Tigers"
+   ],
+   "teamIds": [
+    "182",
+    "188"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Eagles won by 4 Wickets",
+   "summary": "MCA Tigers: 186/6(30) DYCL Eagles: 187/6(28.3)"
+  },
+  {
+   "matchId": "1821",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1821&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "184",
+    "185"
+   ],
+   "ground": "BF Philips",
+   "result": "Abandoned.",
+   "summary": "DYCL Hawks: 0/0(0)"
+  },
+  {
+   "matchId": "1141",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1141&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "DYCL Falcons"
+   ],
+   "teamIds": [
+    "189",
+    "183"
+   ],
+   "ground": "Warriors CG",
+   "result": "Forfeited. Winner: TCA Bolts",
+   "summary": "TCA Bolts: 0/0(0)"
+  },
+  {
+   "matchId": "1098",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1098&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "182",
+    "180"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Eagles won by 10 Wickets",
+   "summary": "HPC Rising Stars: 162/4(30) DYCL Eagles: 164/0(16.2)"
+  },
+  {
+   "matchId": "1059",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1059&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "FCCA Giants",
+    "CCA Strikers"
+   ],
+   "teamIds": [
+    "185",
+    "179"
+   ],
+   "ground": "Alma Ground",
+   "result": "CCA Strikers won by 34 Runs",
+   "summary": "CCA Strikers: 199/7(30) FCCA Giants: 165/8(30)"
+  },
+  {
+   "matchId": "1051",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1051&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "CCA Rangers",
+    "WCA Comets"
+   ],
+   "teamIds": [
+    "178",
+    "192"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Rangers won by 23 Runs",
+   "summary": "CCA Rangers: 170/10(29) WCA Comets: 147/10(23.4)"
+  },
+  {
+   "matchId": "1039",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1039&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks",
+    "TCA Thunders"
+   ],
+   "teamIds": [
+    "184",
+    "190"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Thunders won by 279 Runs",
+   "summary": "TCA Thunders: 370/2(30) DYCL Hawks: 91/8(19.2)"
+  },
+  {
+   "matchId": "1026",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1026&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "WCA Aggies",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "191",
+    "185"
+   ],
+   "ground": "BF Philips",
+   "result": "WCA Aggies won by 4 Runs",
+   "summary": "WCA Aggies: 181/7(30) FCCA Giants: 177/6(30.2)"
+  },
+  {
+   "matchId": "1011",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1011&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "MCA Tigers",
+    "TCA Bolts"
+   ],
+   "teamIds": [
+    "188",
+    "189"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Bolts won by 104 Runs",
+   "summary": "TCA Bolts: 172/6(30) MCA Tigers: 68/10(14.5)"
+  },
+  {
+   "matchId": "1009",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1009&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "179",
+    "180"
+   ],
+   "ground": "Warriors CG",
+   "result": "HPC Rising Stars won by 86 Runs",
+   "summary": "HPC Rising Stars: 223/7(30) CCA Strikers: 137/10(26.1)"
+  },
+  {
+   "matchId": "971",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=971&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "DYCL Falcons",
+    "CCA Rangers"
+   ],
+   "teamIds": [
+    "183",
+    "178"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Rangers won by 66 Runs",
+   "summary": "CCA Rangers: 224/8(30) DYCL Falcons: 158/9(30)"
+  },
+  {
+   "matchId": "968",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=968&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "MCA Leopards",
+    "HiQ Fine Stars"
+   ],
+   "teamIds": [
+    "187",
+    "181"
+   ],
+   "ground": "Warriors CG",
+   "result": "HiQ Fine Stars won by 8 Runs",
+   "summary": "HiQ Fine Stars: 159/9(30) MCA Leopards: 151/10(20.4)"
+  },
+  {
+   "matchId": "959",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=959&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "189",
+    "185"
+   ],
+   "ground": "BF Philips",
+   "result": "TCA Bolts won by 8 Wickets",
+   "summary": "FCCA Giants: 71/10(18.5) TCA Bolts: 72/2(11.3)"
+  },
+  {
+   "matchId": "958",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=958&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "HPC Rising Stars",
+    "HiQ Fine Stars"
+   ],
+   "teamIds": [
+    "180",
+    "181"
+   ],
+   "ground": "Horseshoe",
+   "result": "HiQ Fine Stars won by 94 Runs",
+   "summary": "HiQ Fine Stars: 215/10(28.5) HPC Rising Stars: 121/9(21)"
+  },
+  {
+   "matchId": "956",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=956&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "DYCL Eagles",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "182",
+    "191"
+   ],
+   "ground": "Warriors CG",
+   "result": "DYCL Eagles won by 5 Wickets",
+   "summary": "WCA Aggies: 116/10(24.4) DYCL Eagles: 117/5(19.2)"
+  },
+  {
+   "matchId": "953",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=953&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "CCA Strikers",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "179",
+    "186"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Strikers won by 10 Wickets",
+   "summary": "FCCA Titans: 93/8(30) CCA Strikers: 94/0(14.3)"
+  },
+  {
+   "matchId": "952",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=952&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks",
+    "MCA Leopards"
+   ],
+   "teamIds": [
+    "184",
+    "187"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Leopards won by 173 Runs",
+   "summary": "MCA Leopards: 296/1(30) DYCL Hawks: 123/5(22)"
+  },
+  {
+   "matchId": "947",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=947&clubId=40319",
+   "date": "2023-04-08",
+   "type": "League",
+   "teams": [
+    "MCA Tigers",
+    "DYCL Falcons"
+   ],
+   "teamIds": [
+    "188",
+    "183"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Tigers won by 9 Wickets",
+   "summary": "DYCL Falcons: 65/10(17.2) MCA Tigers: 66/1(6.5)"
+  },
+  {
+   "matchId": "942",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=942&clubId=40319",
+   "date": "2023-04-08",
+   "type": "League",
+   "teams": [
+    "WCA Comets",
+    "TCA Thunders"
+   ],
+   "teamIds": [
+    "192",
+    "190"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Thunders won by 9 Wickets",
+   "summary": "WCA Comets: 76/10(22) TCA Thunders: 78/1(7.5)"
+  },
+  {
+   "matchId": "937",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=937&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks",
+    "DYCL Eagles"
+   ],
+   "teamIds": [
+    "184",
+    "182"
+   ],
+   "ground": "Warriors CG",
+   "result": "DYCL Eagles won by 69 Runs (D/L)",
+   "summary": "DYCL Eagles: 230/1(20.1) DYCL Hawks: 95/4(16)"
+  },
+  {
+   "matchId": "935",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=935&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "MCA Tigers",
+    "FCCA Titans"
+   ],
+   "teamIds": [
+    "188",
+    "186"
+   ],
+   "ground": "BF Philips",
+   "result": "MCA Tigers won by 79 Runs",
+   "summary": "MCA Tigers: 168/7(30) FCCA Titans: 89/10(22.5)"
+  },
+  {
+   "matchId": "926",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=926&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "WCA Aggies",
+    "TCA Bolts"
+   ],
+   "teamIds": [
+    "191",
+    "189"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Bolts won by 9 Wickets",
+   "summary": "WCA Aggies: 149/9(29.5) TCA Bolts: 150/1(26)"
+  },
+  {
+   "matchId": "919",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=919&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "TCA Thunders",
+    "DYCL Falcons"
+   ],
+   "teamIds": [
+    "190",
+    "183"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Thunders won by 340 Runs",
+   "summary": "TCA Thunders: 401/0(30) DYCL Falcons: 61/10(15.5)"
+  },
+  {
+   "matchId": "918",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=918&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "CCA Rangers",
+    "CCA Strikers"
+   ],
+   "teamIds": [
+    "178",
+    "179"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Strikers won by 7 Wickets",
+   "summary": "CCA Rangers: 113/4(30) CCA Strikers: 114/3(10)"
+  },
+  {
+   "matchId": "916",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=916&clubId=40319",
+   "date": "2023-03-26",
+   "type": "League",
+   "teams": [
+    "FCCA Titans",
+    "WCA Aggies"
+   ],
+   "teamIds": [
+    "186",
+    "191"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Titans won by 30 Runs",
+   "summary": "FCCA Titans: 161/7(30) WCA Aggies: 131/10(24)"
+  },
+  {
+   "matchId": "915",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=915&clubId=40319",
+   "date": "2023-03-26",
+   "type": "League",
+   "teams": [
+    "TCA Thunders",
+    "CCA Rangers"
+   ],
+   "teamIds": [
+    "190",
+    "178"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Thunders won by 215 Runs",
+   "summary": "TCA Thunders: 295/5(30) CCA Rangers: 80/10(11.3)"
+  },
+  {
+   "matchId": "1820",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1820&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "MCA Tigers",
+    "HiQ Fine Stars"
+   ],
+   "teamIds": [
+    "188",
+    "181"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "MCA Tigers: 0/0(0)"
+  },
+  {
+   "matchId": "1819",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1819&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "TCA Bolts",
+    "CCA Strikers"
+   ],
+   "teamIds": [
+    "189",
+    "179"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "TCA Bolts: 0/0(0)"
+  },
+  {
+   "matchId": "909",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=909&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "DYCL Falcons",
+    "FCCA Giants"
+   ],
+   "teamIds": [
+    "183",
+    "185"
+   ],
+   "ground": "Warriors CG",
+   "result": "FCCA Giants won by 7 Wickets",
+   "summary": "DYCL Falcons: 101/10(26.5) FCCA Giants: 102/3(11.2)"
+  },
+  {
+   "matchId": "907",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=907&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "WCA Comets",
+    "HPC Rising Stars"
+   ],
+   "teamIds": [
+    "192",
+    "180"
+   ],
+   "ground": "Warriors CG",
+   "result": "HPC Rising Stars won by 133 Runs",
+   "summary": "HPC Rising Stars: 228/3(30) WCA Comets: 95/9(25.1)"
+  }
+ ]
+}

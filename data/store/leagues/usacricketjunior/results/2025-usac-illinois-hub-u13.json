@@ -1,0 +1,456 @@
+{
+ "season": {
+  "key": "s171",
+  "id": "legacy-342",
+  "name": "2025 USAC Illinois Hub U13"
+ },
+ "fetchedAt": "2026-11-13T22:18:17.494Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=342&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=342&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5755",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5755&clubId=40319",
+   "date": "2025-06-19",
+   "type": "Final",
+   "teams": [
+    "CYCA Bears - A",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "2033",
+    "2034"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Bears - A won by 47 Runs",
+   "summary": "CYCA Bears - A: 123/10(26.3) BPL Warriors: 76/9(27)"
+  },
+  {
+   "matchId": "5704",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5704&clubId=40319",
+   "date": "2025-06-15",
+   "type": "3rd Position",
+   "teams": [
+    "Group 2 Team",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "2038",
+    "2032"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Raptors won by 95 Runs",
+   "summary": "CMCE Raptors: 186/5(30) Group 2 Team: 91/10(25.1)"
+  },
+  {
+   "matchId": "5682",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5682&clubId=40319",
+   "date": "2025-06-14",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "2038",
+    "2032"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Raptors won by 64 Runs",
+   "summary": "CMCE Raptors: 155/10(28.1) Group 2 Team: 91/10(28.5)"
+  },
+  {
+   "matchId": "5649",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5649&clubId=40319",
+   "date": "2025-06-13",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "CYCA Bears - A"
+   ],
+   "teamIds": [
+    "2038",
+    "2033"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Bears - A won by 130 Runs",
+   "summary": "CYCA Bears - A: 234/6(30) Group 2 Team: 104/10(26.2)"
+  },
+  {
+   "matchId": "5645",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5645&clubId=40319",
+   "date": "2025-06-12",
+   "type": "Super League",
+   "teams": [
+    "CMCE Raptors",
+    "CYCA Bears - A"
+   ],
+   "teamIds": [
+    "2032",
+    "2033"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Bears - A won by 5 Wickets",
+   "summary": "CMCE Raptors: 147/4(30) CYCA Bears - A: 148/5(28.5)"
+  },
+  {
+   "matchId": "5632",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5632&clubId=40319",
+   "date": "2025-06-11",
+   "type": "Super League",
+   "teams": [
+    "BPL Warriors",
+    "CYCA Bears - A"
+   ],
+   "teamIds": [
+    "2034",
+    "2033"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Bears - A won by 7 Runs",
+   "summary": "CYCA Bears - A: 150/8(30) BPL Warriors: 143/8(30)"
+  },
+  {
+   "matchId": "5625",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5625&clubId=40319",
+   "date": "2025-06-10",
+   "type": "Super League",
+   "teams": [
+    "BPL Warriors",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "2034",
+    "2032"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Raptors won by 4 Runs",
+   "summary": "CMCE Raptors: 105/10(29.3) BPL Warriors: 101/10(29.3)"
+  },
+  {
+   "matchId": "5624",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5624&clubId=40319",
+   "date": "2025-06-09",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "2038",
+    "2034"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Warriors won by 129 Runs",
+   "summary": "BPL Warriors: 187/1(30) Group 2 Team: 58/9(20.1)"
+  },
+  {
+   "matchId": "5614",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5614&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "CYCA Bears - A",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "2033",
+    "2034"
+   ],
+   "ground": "BLSTRD",
+   "result": "Abandoned.",
+   "summary": "BPL Warriors: 90/2(22.3)"
+  },
+  {
+   "matchId": "5567",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5567&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "CYCA Bears - B",
+    "CHICAGO U13"
+   ],
+   "teamIds": [
+    "2036",
+    "2037"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Bears - B won by 115 Runs",
+   "summary": "CYCA Bears - B: 183/9(30) CHICAGO U13: 68/8(22.1)"
+  },
+  {
+   "matchId": "5510",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5510&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "CHICAGO U13",
+    "CMCE Avengers"
+   ],
+   "teamIds": [
+    "2037",
+    "2035"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Avengers won by 3 Wickets",
+   "summary": "CHICAGO U13: 129/6(30) CMCE Avengers: 130/7(29.5)"
+  },
+  {
+   "matchId": "5491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5491&clubId=40319",
+   "date": "2025-06-06",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "CHICAGO U13"
+   ],
+   "teamIds": [
+    "2035",
+    "2037"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Avengers won by 112 Runs",
+   "summary": "CMCE Avengers: 160/10(28.5) CHICAGO U13: 48/6(12.3)"
+  },
+  {
+   "matchId": "5490",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5490&clubId=40319",
+   "date": "2025-06-06",
+   "type": "League",
+   "teams": [
+    "CMCE Raptors",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "2032",
+    "2034"
+   ],
+   "ground": "BPL",
+   "result": "BPL Warriors won by 3 Wickets",
+   "summary": "CMCE Raptors: 81/10(28) BPL Warriors: 83/7(29.2)"
+  },
+  {
+   "matchId": "5484",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5484&clubId=40319",
+   "date": "2025-06-05",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CYCA Bears - A"
+   ],
+   "teamIds": [
+    "2034",
+    "2033"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Bears - A won by 13 Runs",
+   "summary": "CYCA Bears - A: 115/7(30) BPL Warriors: 102/10(30)"
+  },
+  {
+   "matchId": "5400",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5400&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "CYCA Bears - A",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "2033",
+    "2034"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Warriors won by 8 Wickets",
+   "summary": "CYCA Bears - A: 144/10(29.2) BPL Warriors: 145/2(27.2)"
+  },
+  {
+   "matchId": "5332",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5332&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "CHICAGO U13",
+    "CYCA Bears - B"
+   ],
+   "teamIds": [
+    "2037",
+    "2036"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Bears - B won by 63 Runs",
+   "summary": "CYCA Bears - B: 137/10(22.4) CHICAGO U13: 74/10(19.1)"
+  },
+  {
+   "matchId": "5330",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5330&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "CMCE Raptors",
+    "CYCA Bears - A"
+   ],
+   "teamIds": [
+    "2032",
+    "2033"
+   ],
+   "ground": "Lake in the Hills",
+   "result": "CYCA Bears - A won by 9 Wickets",
+   "summary": "CMCE Raptors: 107/7(30) CYCA Bears - A: 108/1(12.1)"
+  },
+  {
+   "matchId": "5184",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5184&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "CHICAGO U13",
+    "CYCA Bears - B"
+   ],
+   "teamIds": [
+    "2037",
+    "2036"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Bears - B won by 64 Runs",
+   "summary": "CYCA Bears - B: 163/9(25) CHICAGO U13: 99/9(25)"
+  },
+  {
+   "matchId": "5155",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5155&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "CYCA Bears - B"
+   ],
+   "teamIds": [
+    "2035",
+    "2036"
+   ],
+   "ground": "Lake in the Hills",
+   "result": "CMCE Avengers won by 6 Wickets",
+   "summary": "CYCA Bears - B: 154/10(30) CMCE Avengers: 157/4(28.3)"
+  },
+  {
+   "matchId": "5149",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5149&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "2034",
+    "2032"
+   ],
+   "ground": "BPL",
+   "result": "CMCE Raptors won by 1 Run",
+   "summary": "CMCE Raptors: 101/8(30) BPL Warriors: 100/7(30)"
+  },
+  {
+   "matchId": "5052",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5052&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "CYCA Bears - B",
+    "CMCE Avengers"
+   ],
+   "teamIds": [
+    "2036",
+    "2035"
+   ],
+   "ground": "Lake in the Hills",
+   "result": "CYCA Bears - B won by 75 Runs",
+   "summary": "CYCA Bears - B: 180/10(28.3) CMCE Avengers: 105/10(24.2)"
+  },
+  {
+   "matchId": "4999",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4999&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "CYCA Bears - A",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "2033",
+    "2032"
+   ],
+   "ground": "BLSTRD",
+   "result": "CYCA Bears - A won by 26 Runs",
+   "summary": "CYCA Bears - A: 169/6(30) CMCE Raptors: 143/4(30)"
+  },
+  {
+   "matchId": "4957",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4957&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "2034",
+    "2032"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Warriors won by 9 Wickets",
+   "summary": "CMCE Raptors: 123/7(30) BPL Warriors: 124/1(26.4)"
+  },
+  {
+   "matchId": "4956",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4956&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "CYCA Bears - B",
+    "CMCE Avengers"
+   ],
+   "teamIds": [
+    "2036",
+    "2035"
+   ],
+   "ground": "Lake in the Hills",
+   "result": "CYCA Bears - B won by 20 Runs",
+   "summary": "CYCA Bears - B: 175/4(30) CMCE Avengers: 155/8(30)"
+  },
+  {
+   "matchId": "4907",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4907&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "CMCE Avengers",
+    "CHICAGO U13"
+   ],
+   "teamIds": [
+    "2035",
+    "2037"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Avengers won by 6 Wickets",
+   "summary": "CHICAGO U13: 100/8(22.5) CMCE Avengers: 101/4(15.1)"
+  },
+  {
+   "matchId": "4852",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4852&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "CYCA Bears - A",
+    "CMCE Raptors"
+   ],
+   "teamIds": [
+    "2033",
+    "2032"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Raptors won by 47 Runs",
+   "summary": "CMCE Raptors: 132/7(30) CYCA Bears - A: 85/10(22)"
+  }
+ ]
+}

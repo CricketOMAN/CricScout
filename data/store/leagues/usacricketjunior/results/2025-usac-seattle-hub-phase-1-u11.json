@@ -1,0 +1,456 @@
+{
+ "season": {
+  "key": "s161",
+  "id": "legacy-358",
+  "name": "2025 USAC Seattle HUB Phase 1 - U11"
+ },
+ "fetchedAt": "2026-11-13T22:15:55.980Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=358&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=358&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5999",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5999&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "MLCA Sixers",
+    "MSKICA Cheetahs"
+   ],
+   "teamIds": [
+    "2122",
+    "2119"
+   ],
+   "ground": "ICP",
+   "result": "MLCA Sixers won by 64 Runs",
+   "summary": "MLCA Sixers: 172/8(27) MSKICA Cheetahs: 108/5(23.3)"
+  },
+  {
+   "matchId": "5996",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5996&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "MSKICA Dragons",
+    "Seattle Chargers United"
+   ],
+   "teamIds": [
+    "2117",
+    "2113"
+   ],
+   "ground": "ICP",
+   "result": "Seattle Chargers United won by -1 Runs",
+   "summary": "Seattle Chargers United: 93/9(22) MSKICA Dragons: 94/2(12.3)"
+  },
+  {
+   "matchId": "5995",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5995&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "MLCA Tornadoes",
+    "MSKICA Bagheeras"
+   ],
+   "teamIds": [
+    "2124",
+    "2120"
+   ],
+   "ground": "ICP",
+   "result": "MLCA Tornadoes won by 17 Runs",
+   "summary": "MLCA Tornadoes: 182/4(27) MSKICA Bagheeras: 165/10(26.3)"
+  },
+  {
+   "matchId": "5938",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5938&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "PBL Strikers",
+    "STB"
+   ],
+   "teamIds": [
+    "2126",
+    "2123"
+   ],
+   "ground": "ICP",
+   "result": "PBL Strikers won by 26 Runs",
+   "summary": "PBL Strikers: 135/8(23) STB: 109/9(19.1)"
+  },
+  {
+   "matchId": "5937",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5937&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "MLCA Tornadoes",
+    "MLCA Sixers"
+   ],
+   "teamIds": [
+    "2124",
+    "2122"
+   ],
+   "ground": "ICP",
+   "result": "MLCA Sixers won by 7 Wickets",
+   "summary": "MLCA Tornadoes: 133/7(30) MLCA Sixers: 134/3(23.1)"
+  },
+  {
+   "matchId": "5931",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5931&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "MSKICA Dragons",
+    "ICCWSC"
+   ],
+   "teamIds": [
+    "2117",
+    "2115"
+   ],
+   "ground": "ICP",
+   "result": "ICCWSC won by 51 Runs",
+   "summary": "ICCWSC: 101/7(22.3) MSKICA Dragons: 50/6(12.2)"
+  },
+  {
+   "matchId": "5930",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5930&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Super11",
+    "MSKICA Cheetahs"
+   ],
+   "teamIds": [
+    "2121",
+    "2119"
+   ],
+   "ground": "ICP",
+   "result": "Super11 won by 158 Runs",
+   "summary": "Super11: 228/5(27) MSKICA Cheetahs: 70/7(27)"
+  },
+  {
+   "matchId": "5908",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5908&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "ICCWSC",
+    "MSKICA Unicons"
+   ],
+   "teamIds": [
+    "2115",
+    "2118"
+   ],
+   "ground": "ICP",
+   "result": "MSKICA Unicons won by 122 Runs",
+   "summary": "MSKICA Unicons: 210/6(25) ICCWSC: 88/8(25)"
+  },
+  {
+   "matchId": "5904",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5904&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "PBL Titans",
+    "Seattle Chargers United"
+   ],
+   "teamIds": [
+    "2114",
+    "2113"
+   ],
+   "ground": "ICP",
+   "result": "PBL Titans won by 85 Runs",
+   "summary": "PBL Titans: 167/6(25) Seattle Chargers United: 82/10(23.4)"
+  },
+  {
+   "matchId": "5903",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5903&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "MSKICA Dragons",
+    "MLCA hurricanes"
+   ],
+   "teamIds": [
+    "2117",
+    "2111"
+   ],
+   "ground": "ICP",
+   "result": "MLCA hurricanes won by 6 Wickets",
+   "summary": "MSKICA Dragons: 84/10(20.2) MLCA hurricanes: 85/4(14)"
+  },
+  {
+   "matchId": "5848",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5848&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "Super11",
+    "STB"
+   ],
+   "teamIds": [
+    "2121",
+    "2123"
+   ],
+   "ground": "ICP",
+   "result": "Super11 won by 25 Runs",
+   "summary": "Super11: 207/1(27) STB: 182/7(26.5)"
+  },
+  {
+   "matchId": "5843",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5843&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "BCC ORS",
+    "MSKICA Cheetahs"
+   ],
+   "teamIds": [
+    "2125",
+    "2119"
+   ],
+   "ground": "ICP",
+   "result": "MSKICA Cheetahs won by 92 Runs",
+   "summary": "MSKICA Cheetahs: 168/8(27) BCC ORS: 76/8(27)"
+  },
+  {
+   "matchId": "5842",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5842&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "PBL Strikers",
+    "MSKICA Bagheeras"
+   ],
+   "teamIds": [
+    "2126",
+    "2120"
+   ],
+   "ground": "ICP",
+   "result": "MSKICA Bagheeras won by 104 Runs",
+   "summary": "MSKICA Bagheeras: 179/8(27) PBL Strikers: 75/8(27)"
+  },
+  {
+   "matchId": "5824",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5824&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "MSKICA Dragons",
+    "MSKICA Unicons"
+   ],
+   "teamIds": [
+    "2117",
+    "2118"
+   ],
+   "ground": "ICP",
+   "result": "MSKICA Unicons won by 6 Wickets",
+   "summary": "MSKICA Dragons: 80/8(15.5) MSKICA Unicons: 84/4(14.1)"
+  },
+  {
+   "matchId": "5810",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5810&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "ICCWSC",
+    "Seattle Chargers United"
+   ],
+   "teamIds": [
+    "2115",
+    "2113"
+   ],
+   "ground": "ICP",
+   "result": "ICCWSC won by 187 Runs",
+   "summary": "ICCWSC: 250/6(25) Seattle Chargers United: 63/10(17)"
+  },
+  {
+   "matchId": "5725",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5725&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "PBL Strikers",
+    "Super11"
+   ],
+   "teamIds": [
+    "2126",
+    "2121"
+   ],
+   "ground": "ICP",
+   "result": "Super11 won by 56 Runs",
+   "summary": "Super11: 154/7(27) PBL Strikers: 98/10(26.5)"
+  },
+  {
+   "matchId": "5724",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5724&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "MSKICA Bagheeras",
+    "MLCA Sixers"
+   ],
+   "teamIds": [
+    "2120",
+    "2122"
+   ],
+   "ground": "ICP",
+   "result": "MSKICA Bagheeras won by 43 Runs",
+   "summary": "MSKICA Bagheeras: 170/5(27) MLCA Sixers: 127/10(27)"
+  },
+  {
+   "matchId": "5722",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5722&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "BCC ORS",
+    "STB"
+   ],
+   "teamIds": [
+    "2125",
+    "2123"
+   ],
+   "ground": "PCC OR",
+   "result": "STB won by 91 Runs",
+   "summary": "STB: 165/7(27) BCC ORS: 74/10(25.3)"
+  },
+  {
+   "matchId": "5691",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5691&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "MSKICA Unicons",
+    "MLCA hurricanes"
+   ],
+   "teamIds": [
+    "2118",
+    "2111"
+   ],
+   "ground": "ICP",
+   "result": "MSKICA Unicons won by 142 Runs",
+   "summary": "MSKICA Unicons: 201/5(27) MLCA hurricanes: 59/8(11.1)"
+  },
+  {
+   "matchId": "5685",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5685&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "BCC ORS",
+    "MLCA Tornadoes"
+   ],
+   "teamIds": [
+    "2125",
+    "2124"
+   ],
+   "ground": "PCC OR",
+   "result": "MLCA Tornadoes won by 144 Runs",
+   "summary": "MLCA Tornadoes: 198/4(27) BCC ORS: 54/10(19.5)"
+  },
+  {
+   "matchId": "5681",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5681&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "PBL Titans",
+    "ICCWSC"
+   ],
+   "teamIds": [
+    "2114",
+    "2115"
+   ],
+   "ground": "ICP",
+   "result": "ICCWSC won by 42 Runs",
+   "summary": "ICCWSC: 143/9(23.2) PBL Titans: 101/10(24.5)"
+  },
+  {
+   "matchId": "5622",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5622&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "MLCA Sixers",
+    "STB"
+   ],
+   "teamIds": [
+    "2122",
+    "2123"
+   ],
+   "ground": "ICP",
+   "result": "MLCA Sixers won by 8 Wickets",
+   "summary": "STB: 35/10(17.5) MLCA Sixers: 36/2(9)"
+  },
+  {
+   "matchId": "5621",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5621&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "MLCA Tornadoes",
+    "MSKICA Cheetahs"
+   ],
+   "teamIds": [
+    "2124",
+    "2119"
+   ],
+   "ground": "ICP",
+   "result": "MLCA Tornadoes won by 169 Runs",
+   "summary": "MLCA Tornadoes: 195/3(27) MSKICA Cheetahs: 26/9(14)"
+  },
+  {
+   "matchId": "5608",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5608&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "Super11",
+    "MSKICA Bagheeras"
+   ],
+   "teamIds": [
+    "2121",
+    "2120"
+   ],
+   "ground": "ICP",
+   "result": "MSKICA Bagheeras won by 6 Wickets",
+   "summary": "Super11: 98/9(22.5) MSKICA Bagheeras: 101/4(18.1)"
+  },
+  {
+   "matchId": "5687",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5687&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "MLCA hurricanes",
+    "Ti2C Thunders"
+   ],
+   "teamIds": [
+    "2111",
+    "2112"
+   ],
+   "ground": "ICP",
+   "result": "MLCA hurricanes won by 8 Wickets",
+   "summary": "Ti2C Thunders: 59/10(22.2) MLCA hurricanes: 60/2(11.5)"
+  },
+  {
+   "matchId": "5562",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5562&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "MSKICA Unicons",
+    "Seattle Chargers United"
+   ],
+   "teamIds": [
+    "2118",
+    "2113"
+   ],
+   "ground": "ICP",
+   "result": "MSKICA Unicons won by 4 Wickets",
+   "summary": "Seattle Chargers United: 51/10(17) MSKICA Unicons: 52/6(7.3)"
+  }
+ ]
+}

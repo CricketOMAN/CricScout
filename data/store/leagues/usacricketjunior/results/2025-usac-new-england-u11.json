@@ -1,0 +1,609 @@
+{
+ "season": {
+  "key": "s184",
+  "id": "legacy-318",
+  "name": "2025 USAC New England U11"
+ },
+ "fetchedAt": "2026-11-13T22:23:12.473Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=318&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=318&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6642&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "New Milford CC"
+   ],
+   "teamIds": [
+    "1864",
+    "1859"
+   ],
+   "ground": "New Milford",
+   "result": "UCL Protons won by 2 Runs",
+   "summary": "UCL Protons: 91/3(20) New Milford CC: 89/3(20)"
+  },
+  {
+   "matchId": "6573",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6573&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "Connecticut Cricket Academy"
+   ],
+   "teamIds": [
+    "1864",
+    "1858"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "UCL Protons won by 85 Runs",
+   "summary": "UCL Protons: 134/8(20) Connecticut Cricket Academy: 49/10(16.3)"
+  },
+  {
+   "matchId": "6543",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6543&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "Connecticut Cricket Academy",
+    "SKA-Boston B"
+   ],
+   "teamIds": [
+    "1858",
+    "1862"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "Connecticut Cricket Academy won by 6 Wickets",
+   "summary": "SKA-Boston B: 89/10(20) Connecticut Cricket Academy: 90/4(15.3)"
+  },
+  {
+   "matchId": "6519",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6519&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "Golden Willow A",
+    "Cricmax CT Super Kings"
+   ],
+   "teamIds": [
+    "1866",
+    "1860"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "Cricmax CT Super Kings won by 32 Runs",
+   "summary": "Cricmax CT Super Kings: 166/3(20) Golden Willow A: 134/5(20)"
+  },
+  {
+   "matchId": "6484",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6484&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "SKA-Boston B"
+   ],
+   "teamIds": [
+    "1859",
+    "1862"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "New Milford CC won by 121 Runs",
+   "summary": "New Milford CC: 205/9(20) SKA-Boston B: 84/7(20)"
+  },
+  {
+   "matchId": "6447",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6447&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "SKA-Boston B",
+    "PCA Wild Cats"
+   ],
+   "teamIds": [
+    "1862",
+    "1861"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "PCA Wild Cats won by 1 Wicket",
+   "summary": "SKA-Boston B: 107/5(20) PCA Wild Cats: 108/9(19.1)"
+  },
+  {
+   "matchId": "6433",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6433&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "SKA-Boston A",
+    "PCA Wild Cats"
+   ],
+   "teamIds": [
+    "1863",
+    "1861"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "Forfeited. Winner: PCA Wild Cats",
+   "summary": "SKA-Boston A: 0/0(0)"
+  },
+  {
+   "matchId": "6420",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6420&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "Golden Willow B",
+    "PCA Wild Cats"
+   ],
+   "teamIds": [
+    "1865",
+    "1861"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "PCA Wild Cats won by 6 Wickets",
+   "summary": "Golden Willow B: 82/3(20) PCA Wild Cats: 85/4(15.3)"
+  },
+  {
+   "matchId": "6419",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6419&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "SKA-Boston A",
+    "Connecticut Cricket Academy"
+   ],
+   "teamIds": [
+    "1863",
+    "1858"
+   ],
+   "ground": "Knights Ground",
+   "result": "Connecticut Cricket Academy won by 9 Wickets",
+   "summary": "SKA-Boston A: 40/8(13.2) Connecticut Cricket Academy: 41/1(6.4)"
+  },
+  {
+   "matchId": "6377",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6377&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "Golden Willow A",
+    "New Milford CC"
+   ],
+   "teamIds": [
+    "1866",
+    "1859"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "New Milford CC won by 57 Runs",
+   "summary": "New Milford CC: 131/10(23.2) Golden Willow A: 74/9(21.4)"
+  },
+  {
+   "matchId": "6372",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6372&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "Cricmax CT Super Kings"
+   ],
+   "teamIds": [
+    "1864",
+    "1860"
+   ],
+   "ground": "Knights Ground",
+   "result": "UCL Protons won by 10 Wickets",
+   "summary": "Cricmax CT Super Kings: 154/2(20) UCL Protons: 158/0(19.1)"
+  },
+  {
+   "matchId": "6339",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6339&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "Golden Willow B"
+   ],
+   "teamIds": [
+    "1859",
+    "1865"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "Forfeited. Winner: New Milford CC",
+   "summary": "New Milford CC: 0/0(0)"
+  },
+  {
+   "matchId": "6294",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6294&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "SKA-Boston B",
+    "Cricmax CT Super Kings"
+   ],
+   "teamIds": [
+    "1862",
+    "1860"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "Forfeited. Winner: Cricmax CT Super Kings",
+   "summary": "SKA-Boston B: 0/0(0)"
+  },
+  {
+   "matchId": "6293",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6293&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "SKA-Boston A",
+    "Cricmax CT Super Kings"
+   ],
+   "teamIds": [
+    "1863",
+    "1860"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "Forfeited. Winner: Cricmax CT Super Kings",
+   "summary": "SKA-Boston A: 0/0(0)"
+  },
+  {
+   "matchId": "6292",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6292&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "Golden Willow A",
+    "PCA Wild Cats"
+   ],
+   "teamIds": [
+    "1866",
+    "1861"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "Forfeited. Winner: Golden Willow A",
+   "summary": "Golden Willow A: 0/0(0)"
+  },
+  {
+   "matchId": "6283",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6283&clubId=40319",
+   "date": "2025-08-24",
+   "type": "League",
+   "teams": [
+    "Golden Willow A",
+    "Connecticut Cricket Academy"
+   ],
+   "teamIds": [
+    "1866",
+    "1858"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "Golden Willow A won by 92 Runs",
+   "summary": "Golden Willow A: 208/7(25) Connecticut Cricket Academy: 116/10(25)"
+  },
+  {
+   "matchId": "6282",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6282&clubId=40319",
+   "date": "2025-08-24",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "PCA Wild Cats"
+   ],
+   "teamIds": [
+    "1864",
+    "1861"
+   ],
+   "ground": "Chauncy Field #1",
+   "result": "UCL Protons won by 9 Wickets",
+   "summary": "PCA Wild Cats: 62/6(20) UCL Protons: 63/1(11.4)"
+  },
+  {
+   "matchId": "6279",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6279&clubId=40319",
+   "date": "2025-08-23",
+   "type": "League",
+   "teams": [
+    "Golden Willow B",
+    "Cricmax CT Super Kings"
+   ],
+   "teamIds": [
+    "1865",
+    "1860"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "Cricmax CT Super Kings won by 210 Runs",
+   "summary": "Cricmax CT Super Kings: 248/1(25) Golden Willow B: 38/10(13.1)"
+  },
+  {
+   "matchId": "6272",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6272&clubId=40319",
+   "date": "2025-08-23",
+   "type": "League",
+   "teams": [
+    "SKA-Boston A",
+    "New Milford CC"
+   ],
+   "teamIds": [
+    "1863",
+    "1859"
+   ],
+   "ground": "Knights Ground",
+   "result": "Forfeited. Winner: New Milford CC",
+   "summary": "SKA-Boston A: 0/0(0)"
+  },
+  {
+   "matchId": "5925",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5925&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Golden Willow A",
+    "SKA-Boston B"
+   ],
+   "teamIds": [
+    "1866",
+    "1862"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "Golden Willow A won by 117 Runs",
+   "summary": "Golden Willow A: 200/0(20) SKA-Boston B: 83/9(19.5)"
+  },
+  {
+   "matchId": "5924",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5924&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "SKA-Boston A"
+   ],
+   "teamIds": [
+    "1864",
+    "1863"
+   ],
+   "ground": "HOPKINTON",
+   "result": "UCL Protons won by 196 Runs",
+   "summary": "UCL Protons: 239/6(20) SKA-Boston A: 43/8(13.1)"
+  },
+  {
+   "matchId": "5841",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5841&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "Golden Willow B",
+    "SKA-Boston A"
+   ],
+   "teamIds": [
+    "1865",
+    "1863"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "Golden Willow B won by 1 Run",
+   "summary": "Golden Willow B: 104/4(20) SKA-Boston A: 103/4(20)"
+  },
+  {
+   "matchId": "5839",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5839&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "Golden Willow A"
+   ],
+   "teamIds": [
+    "1864",
+    "1866"
+   ],
+   "ground": "HOPKINTON",
+   "result": "UCL Protons won by 73 Runs",
+   "summary": "UCL Protons: 223/5(20) Golden Willow A: 150/9(20)"
+  },
+  {
+   "matchId": "5717",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5717&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "Golden Willow B",
+    "SKA-Boston B"
+   ],
+   "teamIds": [
+    "1865",
+    "1862"
+   ],
+   "ground": "HOPKINTON",
+   "result": "SKA-Boston B won by 107 Runs",
+   "summary": "SKA-Boston B: 179/4(20) Golden Willow B: 72/10(16.4)"
+  },
+  {
+   "matchId": "5715",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5715&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "SKA-Boston A",
+    "Golden Willow A"
+   ],
+   "teamIds": [
+    "1863",
+    "1866"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "Golden Willow A won by 10 Wickets",
+   "summary": "SKA-Boston A: 73/8(20) Golden Willow A: 74/0(11.3)"
+  },
+  {
+   "matchId": "5703",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5703&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "Cricmax CT Super Kings"
+   ],
+   "teamIds": [
+    "1859",
+    "1860"
+   ],
+   "ground": "New Milford",
+   "result": "Cricmax CT Super Kings won by 8 Wickets",
+   "summary": "New Milford CC: 58/10(15.3) Cricmax CT Super Kings: 59/2(12)"
+  },
+  {
+   "matchId": "5652",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5652&clubId=40319",
+   "date": "2025-06-13",
+   "type": "League",
+   "teams": [
+    "Connecticut Cricket Academy",
+    "PCA Wild Cats"
+   ],
+   "teamIds": [
+    "1858",
+    "1861"
+   ],
+   "ground": "WATERBURY",
+   "result": "Connecticut Cricket Academy won by 7 Wickets",
+   "summary": "PCA Wild Cats: 98/9(20) Connecticut Cricket Academy: 99/3(16.5)"
+  },
+  {
+   "matchId": "5607",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5607&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "Golden Willow B",
+    "Golden Willow A"
+   ],
+   "teamIds": [
+    "1865",
+    "1866"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "Golden Willow B won by 1 Wicket",
+   "summary": "Golden Willow A: 99/7(21) Golden Willow B: 100/9(23.4)"
+  },
+  {
+   "matchId": "5581",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5581&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "SKA-Boston B"
+   ],
+   "teamIds": [
+    "1864",
+    "1862"
+   ],
+   "ground": "Westborough",
+   "result": "UCL Protons won by 145 Runs",
+   "summary": "UCL Protons: 192/8(20) SKA-Boston B: 47/9(9.2)"
+  },
+  {
+   "matchId": "5577",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5577&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Super Kings",
+    "Connecticut Cricket Academy"
+   ],
+   "teamIds": [
+    "1860",
+    "1858"
+   ],
+   "ground": "Maxwell",
+   "result": "Cricmax CT Super Kings won by 79 Runs",
+   "summary": "Cricmax CT Super Kings: 136/7(20) Connecticut Cricket Academy: 57/8(14)"
+  },
+  {
+   "matchId": "5566",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5566&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "PCA Wild Cats"
+   ],
+   "teamIds": [
+    "1859",
+    "1861"
+   ],
+   "ground": "New Milford",
+   "result": "New Milford CC won by 57 Runs",
+   "summary": "New Milford CC: 133/7(20) PCA Wild Cats: 76/9(20)"
+  },
+  {
+   "matchId": "5455",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5455&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "Golden Willow B"
+   ],
+   "teamIds": [
+    "1864",
+    "1865"
+   ],
+   "ground": "HOPKINTON",
+   "result": "UCL Protons won by 10 Wickets",
+   "summary": "Golden Willow B: 75/10(20) UCL Protons: 76/0(7.4)"
+  },
+  {
+   "matchId": "5454",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5454&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "SKA-Boston B",
+    "SKA-Boston A"
+   ],
+   "teamIds": [
+    "1862",
+    "1863"
+   ],
+   "ground": "Knights Ground",
+   "result": "SKA-Boston A won by 4 Wickets",
+   "summary": "SKA-Boston B: 116/8(20) SKA-Boston A: 117/6(11.5)"
+  },
+  {
+   "matchId": "5447",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5447&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Super Kings",
+    "PCA Wild Cats"
+   ],
+   "teamIds": [
+    "1860",
+    "1861"
+   ],
+   "ground": "Maxwell",
+   "result": "Cricmax CT Super Kings won by 7 Wickets",
+   "summary": "PCA Wild Cats: 59/10(16.1) Cricmax CT Super Kings: 61/3(9.4)"
+  },
+  {
+   "matchId": "5430",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5430&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "Connecticut Cricket Academy",
+    "New Milford CC"
+   ],
+   "teamIds": [
+    "1858",
+    "1859"
+   ],
+   "ground": "New Milford",
+   "result": "New Milford CC won by 103 Runs",
+   "summary": "New Milford CC: 130/5(20) Connecticut Cricket Academy: 27/9(14)"
+  }
+ ]
+}

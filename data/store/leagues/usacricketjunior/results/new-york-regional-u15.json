@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s229",
+  "id": "legacy-240",
+  "name": "New York Regional U15"
+ },
+ "fetchedAt": "2026-11-13T22:39:17.436Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=240&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=240&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3905",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3905&clubId=40319",
+   "date": "2024-08-14",
+   "type": "League",
+   "teams": [
+    "New England Hub",
+    "New York Hub"
+   ],
+   "teamIds": [
+    "1356",
+    "1357"
+   ],
+   "ground": "NY Ovals",
+   "result": "New York Hub: 187/10 (39.3/40 ov) New England Hub: 67/3 (18/40 ov)",
+   "summary": "New York Hub: 187/10(39.3) New England Hub: 67/3(18) Live"
+  },
+  {
+   "matchId": "3898",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3898&clubId=40319",
+   "date": "2024-08-13",
+   "type": "League",
+   "teams": [
+    "New England Hub",
+    "New York Hub"
+   ],
+   "teamIds": [
+    "1356",
+    "1357"
+   ],
+   "ground": "NY Ovals",
+   "result": "New York Hub won by 7 Wickets",
+   "summary": "New England Hub: 132/7(40) New York Hub: 133/3(33)"
+  },
+  {
+   "matchId": "3890",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3890&clubId=40319",
+   "date": "2024-08-12",
+   "type": "League",
+   "teams": [
+    "New England Hub",
+    "New York Hub"
+   ],
+   "teamIds": [
+    "1356",
+    "1357"
+   ],
+   "ground": "NY Ovals",
+   "result": "New York Hub won by 27 Runs",
+   "summary": "New York Hub: 164/9(40) New England Hub: 137/10(35.5)"
+  }
+ ]
+}

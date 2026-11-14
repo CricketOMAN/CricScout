@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s249",
+  "id": "legacy-210",
+  "name": "USAC JUNIOR 2024 - East Midwest Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T22:42:18.574Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=210&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=210&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3936",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3936&clubId=40319",
+   "date": "2024-08-18",
+   "type": "Semi Final",
+   "teams": [
+    "Central Sub Hub",
+    "North Sub Hub"
+   ],
+   "teamIds": [
+    "1389",
+    "1390"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "North Sub Hub won by 20 Runs",
+   "summary": "North Sub Hub: 200/10(39.1) Central Sub Hub: 180/10(37.5)"
+  },
+  {
+   "matchId": "3926",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3926&clubId=40319",
+   "date": "2024-08-17",
+   "type": "Semi Final",
+   "teams": [
+    "Central Sub Hub",
+    "North Sub Hub"
+   ],
+   "teamIds": [
+    "1389",
+    "1390"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "Central Sub Hub won by 45 Runs",
+   "summary": "Central Sub Hub: 140/10(40) North Sub Hub: 95/10(27.2)"
+  },
+  {
+   "matchId": "3843",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3843&clubId=40319",
+   "date": "2024-08-04",
+   "type": "League",
+   "teams": [
+    "MCA - U15",
+    "AYCA - U15"
+   ],
+   "teamIds": [
+    "1259",
+    "1267"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": null,
+   "summary": "MCA - U15: 95/10(28) AYCA - U15: 91/9(26.4)"
+  },
+  {
+   "matchId": "3819",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3819&clubId=40319",
+   "date": "2024-08-03",
+   "type": "League",
+   "teams": [
+    "MCA - U15",
+    "AYCA - U15"
+   ],
+   "teamIds": [
+    "1259",
+    "1267"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "Abandoned.",
+   "summary": "AYCA - U15: 161/10(39.5) MCA - U15: 28/1(9.4)"
+  },
+  {
+   "matchId": "3672",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3672&clubId=40319",
+   "date": "2024-07-14",
+   "type": "League",
+   "teams": [
+    "MYCA - U15",
+    "Prime - U15"
+   ],
+   "teamIds": [
+    "1261",
+    "1262"
+   ],
+   "ground": "Redford",
+   "result": "Prime - U15 won by 2 Wickets",
+   "summary": "MYCA - U15: 86/10(35.5) Prime - U15: 87/8(35.1)"
+  },
+  {
+   "matchId": "3656",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3656&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "MCA - U15",
+    "AYCA - U15"
+   ],
+   "teamIds": [
+    "1259",
+    "1267"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "AYCA - U15 won by 9 Wickets",
+   "summary": "MCA - U15: 96/10(30.5) AYCA - U15: 97/1(25.1)"
+  },
+  {
+   "matchId": "3618",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3618&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "AYCA - U15",
+    "MCA - U15"
+   ],
+   "teamIds": [
+    "1267",
+    "1259"
+   ],
+   "ground": "TBD",
+   "result": "AYCA - U15 won by 78 Runs",
+   "summary": "AYCA - U15: 173/10(40) MCA - U15: 95/10(26.1)"
+  },
+  {
+   "matchId": "3425",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3425&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "MYCA - U15",
+    "Prime - U15"
+   ],
+   "teamIds": [
+    "1261",
+    "1262"
+   ],
+   "ground": "Redford",
+   "result": "MYCA - U15 won by 87 Runs",
+   "summary": "MYCA - U15: 155/10(30) Prime - U15: 68/10(24.1)"
+  },
+  {
+   "matchId": "3383",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3383&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "MYCA - U15",
+    "Prime - U15"
+   ],
+   "teamIds": [
+    "1261",
+    "1262"
+   ],
+   "ground": "Redford",
+   "result": "MYCA - U15 won by 2 Wickets",
+   "summary": "Prime - U15: 101/9(30) MYCA - U15: 102/8(23.1)"
+  },
+  {
+   "matchId": "3295",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3295&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "Prime - U15",
+    "MYCA - U15"
+   ],
+   "teamIds": [
+    "1262",
+    "1261"
+   ],
+   "ground": "Redford",
+   "result": "MYCA - U15 won by 9 Wickets",
+   "summary": "Prime - U15: 86/10(21.5) MYCA - U15: 90/1(13.5)"
+  },
+  {
+   "matchId": "3192",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3192&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "DCC�-�U15",
+    "MCA - U15"
+   ],
+   "teamIds": [
+    "1260",
+    "1259"
+   ],
+   "ground": "Medlar Park Ground",
+   "result": "MCA - U15 won by 206 Runs",
+   "summary": "MCA - U15: 247/10(40) DCC�-�U15: 41/10(16.5)"
+  }
+ ]
+}

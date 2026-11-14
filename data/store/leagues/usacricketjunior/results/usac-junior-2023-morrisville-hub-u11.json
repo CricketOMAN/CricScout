@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s333",
+  "id": "legacy-73",
+  "name": "USAC Junior 2023 -Morrisville Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:13:10.856Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=73&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=73&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2211",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2211&clubId=40319",
+   "date": "2023-08-05",
+   "type": "Final",
+   "teams": [
+    "The NC Crusaders",
+    "The NC Centurions"
+   ],
+   "teamIds": [
+    "588",
+    "583"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "The NC Crusaders won by 59 Runs",
+   "summary": "The NC Crusaders: 155/6(20) The NC Centurions: 96/8(20)"
+  },
+  {
+   "matchId": "2049",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2049&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "The NC Colonials",
+    "The NC Crusaders"
+   ],
+   "teamIds": [
+    "586",
+    "588"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "The NC Crusaders won by 75 Runs",
+   "summary": "The NC Crusaders: 132/5(20) The NC Colonials: 57/8(18.3)"
+  },
+  {
+   "matchId": "1991",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1991&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "The NC Centurions",
+    "The NC Colonials"
+   ],
+   "teamIds": [
+    "583",
+    "586"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "The NC Centurions won by 8 Wickets (D/L)",
+   "summary": "The NC Colonials: 151/7(20) The NC Centurions: 108/2(13.4)"
+  },
+  {
+   "matchId": "1843",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1843&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "The NC Colonials",
+    "The NC Centurions"
+   ],
+   "teamIds": [
+    "586",
+    "583"
+   ],
+   "ground": "NC Hub Harvel Park",
+   "result": "The NC Colonials won by 6 Wickets",
+   "summary": "The NC Centurions: 120/8(20) The NC Colonials: 121/4(16.2)"
+  },
+  {
+   "matchId": "1717",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1717&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "The NC Crusaders",
+    "The NC Colonials"
+   ],
+   "teamIds": [
+    "588",
+    "586"
+   ],
+   "ground": "NC Hub - Piney Grove",
+   "result": "The NC Crusaders won by 104 Runs",
+   "summary": "The NC Crusaders: 166/6(20) The NC Colonials: 62/6(20)"
+  },
+  {
+   "matchId": "1580",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1580&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "The NC Centurions",
+    "The NC Crusaders"
+   ],
+   "teamIds": [
+    "583",
+    "588"
+   ],
+   "ground": "NC Hub-Shiloh Baseball",
+   "result": "The NC Crusaders won by 128 Runs",
+   "summary": "The NC Crusaders: 196/9(21) The NC Centurions: 68/12(20.1)"
+  },
+  {
+   "matchId": "1433",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1433&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "The NC Centurions",
+    "The NC Colonials"
+   ],
+   "teamIds": [
+    "583",
+    "586"
+   ],
+   "ground": "NC Hub-Shiloh Baseball",
+   "result": "The NC Colonials won by 80 Runs",
+   "summary": "The NC Colonials: 190/7(20) The NC Centurions: 110/8(16.5)"
+  },
+  {
+   "matchId": "1432",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1432&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "The NC Wanderers",
+    "The NC Crusaders"
+   ],
+   "teamIds": [
+    "585",
+    "588"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "The NC Wanderers won by 41 Runs",
+   "summary": "The NC Wanderers: 157/4(20) The NC Crusaders: 116/7(20)"
+  }
+ ]
+}

@@ -1,0 +1,371 @@
+{
+ "season": {
+  "key": "s200",
+  "id": "legacy-298",
+  "name": "2025 Dallas Youth U19"
+ },
+ "fetchedAt": "2026-11-13T22:26:06.517Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=298&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=298&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5729",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5729&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "FCCA U19 - Spartans",
+    "DYCL U19 - Bolts"
+   ],
+   "teamIds": [
+    "1681",
+    "1679"
+   ],
+   "ground": "BF Philips",
+   "result": "Forfeited. Winner: FCCA U19 - Spartans",
+   "summary": "FCCA U19 - Spartans: 0/0(0)"
+  },
+  {
+   "matchId": "5697",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5697&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "TIC U19 - Force",
+    "TCA U19 - Warriors"
+   ],
+   "teamIds": [
+    "1629",
+    "1596"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Abandoned.",
+   "summary": "TIC U19 - Force: 34/3(8)"
+  },
+  {
+   "matchId": "5285",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5285&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "FCCA U19 - Spartans",
+    "MCA U19 - Toyger"
+   ],
+   "teamIds": [
+    "1681",
+    "1631"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA U19 - Spartans won by 7 Wickets",
+   "summary": "MCA U19 - Toyger: 112/11(34.2) FCCA U19 - Spartans: 114/3(18)"
+  },
+  {
+   "matchId": "5260",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5260&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "DYCL U19 - Sparks",
+    "TIC U19 - Force"
+   ],
+   "teamIds": [
+    "1680",
+    "1629"
+   ],
+   "ground": "The Pavillion (Jute:NCG)",
+   "result": "Abandoned.",
+   "summary": "TIC U19 - Force: 250/3(40) DYCL U19 - Sparks: 43/6(15)"
+  },
+  {
+   "matchId": "5178",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5178&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "MCA U19 - Toyger",
+    "DYCL U19 - Bolts"
+   ],
+   "teamIds": [
+    "1631",
+    "1679"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "DYCL U19 - Bolts won by 18 Runs",
+   "summary": "DYCL U19 - Bolts: 192/5(40) MCA U19 - Toyger: 174/10(31.3)"
+  },
+  {
+   "matchId": "5100",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5100&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "DYCL U19 - Sparks",
+    "TIC U19 - Force"
+   ],
+   "teamIds": [
+    "1680",
+    "1629"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TIC U19 - Force won by 167 Runs",
+   "summary": "TIC U19 - Force: 224/9(40) DYCL U19 - Sparks: 57/8(19.4)"
+  },
+  {
+   "matchId": "5097",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5097&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "MCA U19 - Toyger",
+    "TCA U19 - Warriors"
+   ],
+   "teamIds": [
+    "1631",
+    "1596"
+   ],
+   "ground": "DSC",
+   "result": "TCA U19 - Warriors won by 1 Wicket",
+   "summary": "MCA U19 - Toyger: 116/10(30.2) TCA U19 - Warriors: 117/9(38.4)"
+  },
+  {
+   "matchId": "5089",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5089&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "FCCA U19 - Spartans",
+    "MCA U19 - Panthers"
+   ],
+   "teamIds": [
+    "1681",
+    "1630"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA U19 - Spartans won by 5 Wickets",
+   "summary": "MCA U19 - Panthers: 109/10(35.1) FCCA U19 - Spartans: 110/5(19.3)"
+  },
+  {
+   "matchId": "4961",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4961&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "FCCA U19 - Spartans",
+    "DYCL U19 - Sparks"
+   ],
+   "teamIds": [
+    "1681",
+    "1680"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL U19 - Sparks won by 109 Runs",
+   "summary": "DYCL U19 - Sparks: 183/4(40) FCCA U19 - Spartans: 74/10(24.2)"
+  },
+  {
+   "matchId": "4932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4932&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "MCA U19 - Panthers",
+    "DYCL U19 - Bolts"
+   ],
+   "teamIds": [
+    "1630",
+    "1679"
+   ],
+   "ground": "DSC",
+   "result": "MCA U19 - Panthers won by 6 Wickets",
+   "summary": "DYCL U19 - Bolts: 26/9(11.4) MCA U19 - Panthers: 27/4(8)"
+  },
+  {
+   "matchId": "4743",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4743&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "DYCL U19 - Sparks",
+    "TCA U19 - Warriors"
+   ],
+   "teamIds": [
+    "1680",
+    "1596"
+   ],
+   "ground": "Garland CG3",
+   "result": "TCA U19 - Warriors won by 1 Wicket",
+   "summary": "DYCL U19 - Sparks: 139/9(40) TCA U19 - Warriors: 141/9(36.1)"
+  },
+  {
+   "matchId": "4732",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4732&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "TIC U19 - Force",
+    "FCCA U19 - Spartans"
+   ],
+   "teamIds": [
+    "1629",
+    "1681"
+   ],
+   "ground": "DSC",
+   "result": "FCCA U19 - Spartans won by 11 Runs",
+   "summary": "FCCA U19 - Spartans: 146/11(38.1) TIC U19 - Force: 135/10(35.4)"
+  },
+  {
+   "matchId": "4722",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4722&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "MCA U19 - Toyger",
+    "MCA U19 - Panthers"
+   ],
+   "teamIds": [
+    "1631",
+    "1630"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA U19 - Panthers won by 9 Runs (D/L)",
+   "summary": "MCA U19 - Panthers: 223/7(40) MCA U19 - Toyger: 147/4(30)"
+  },
+  {
+   "matchId": "4603",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4603&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "DYCL U19 - Bolts",
+    "TCA U19 - Warriors"
+   ],
+   "teamIds": [
+    "1679",
+    "1596"
+   ],
+   "ground": "Garland CG3",
+   "result": "TCA U19 - Warriors won by 7 Wickets (D/L)",
+   "summary": "DYCL U19 - Bolts: 151/10(33) TCA U19 - Warriors: 138/3(23.2)"
+  },
+  {
+   "matchId": "4541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4541&clubId=40319",
+   "date": "2025-04-18",
+   "type": "League",
+   "teams": [
+    "DYCL U19 - Sparks",
+    "DYCL U19 - Bolts"
+   ],
+   "teamIds": [
+    "1680",
+    "1679"
+   ],
+   "ground": "DSC",
+   "result": "DYCL U19 - Bolts won by 37 Runs",
+   "summary": "DYCL U19 - Bolts: 107/8(25.1) DYCL U19 - Sparks: 70/10(23.2)"
+  },
+  {
+   "matchId": "4533",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4533&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "DYCL U19 - Sparks",
+    "MCA U19 - Toyger"
+   ],
+   "teamIds": [
+    "1680",
+    "1631"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA U19 - Toyger won by 5 Wickets",
+   "summary": "DYCL U19 - Sparks: 199/10(39.2) MCA U19 - Toyger: 202/5(30)"
+  },
+  {
+   "matchId": "4508",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4508&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "TCA U19 - Warriors",
+    "FCCA U19 - Spartans"
+   ],
+   "teamIds": [
+    "1596",
+    "1681"
+   ],
+   "ground": "Garland CG3",
+   "result": "TCA U19 - Warriors won by 1 Wicket",
+   "summary": "FCCA U19 - Spartans: 218/6(40) TCA U19 - Warriors: 219/9(40)"
+  },
+  {
+   "matchId": "4502",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4502&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "DYCL U19 - Bolts",
+    "TIC U19 - Force"
+   ],
+   "teamIds": [
+    "1679",
+    "1629"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TIC U19 - Force won by 55 Runs",
+   "summary": "TIC U19 - Force: 98/10(27.2) DYCL U19 - Bolts: 43/9(9.1)"
+  },
+  {
+   "matchId": "4397",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4397&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "TCA U19 - Warriors",
+    "MCA U19 - Panthers"
+   ],
+   "teamIds": [
+    "1596",
+    "1630"
+   ],
+   "ground": "Sandy Lake",
+   "result": "TCA U19 - Warriors won by 28 Runs",
+   "summary": "TCA U19 - Warriors: 250/10(40) MCA U19 - Panthers: 222/10(38.1)"
+  },
+  {
+   "matchId": "4324",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4324&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "MCA U19 - Toyger",
+    "DYCL U19 - Bolts"
+   ],
+   "teamIds": [
+    "1631",
+    "1679"
+   ],
+   "ground": "Sherman CG",
+   "result": "DYCL U19 - Bolts won by 5 Runs",
+   "summary": "DYCL U19 - Bolts: 210/10(37.1) MCA U19 - Toyger: 205/9(40)"
+  },
+  {
+   "matchId": "4321",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4321&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "FCCA U19 - Spartans",
+    "DYCL U19 - Sparks"
+   ],
+   "teamIds": [
+    "1681",
+    "1680"
+   ],
+   "ground": "Alma Ground",
+   "result": "FCCA U19 - Spartans won by 109 Runs",
+   "summary": "FCCA U19 - Spartans: 288/5(40) DYCL U19 - Sparks: 179/11(30.1)"
+  }
+ ]
+}

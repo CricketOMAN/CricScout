@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s301",
+  "id": "legacy-117",
+  "name": "USAC JR Zonal 2023 - South U15"
+ },
+ "fetchedAt": "2026-11-13T23:05:35.068Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=117&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=117&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2281",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2281&clubId=40319",
+   "date": "2023-08-13",
+   "type": "League",
+   "teams": [
+    "Georgia U15",
+    "Tennessee U15"
+   ],
+   "teamIds": [
+    "759",
+    "760"
+   ],
+   "ground": "ACF - G2",
+   "result": "Georgia U15 won by 9 Wickets",
+   "summary": "Tennessee U15: 150/10(40) Georgia U15: 151/1(20.2)"
+  },
+  {
+   "matchId": "2276",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2276&clubId=40319",
+   "date": "2023-08-13",
+   "type": "League",
+   "teams": [
+    "North Carolina U15",
+    "Florida U15"
+   ],
+   "teamIds": [
+    "762",
+    "761"
+   ],
+   "ground": "ACF - G1",
+   "result": "North Carolina U15 won by 132 Runs",
+   "summary": "North Carolina U15: 218/10(35) Florida U15: 86/10(25.4)"
+  },
+  {
+   "matchId": "2272",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2272&clubId=40319",
+   "date": "2023-08-12",
+   "type": "League",
+   "teams": [
+    "North Carolina U15",
+    "Georgia U15"
+   ],
+   "teamIds": [
+    "762",
+    "759"
+   ],
+   "ground": "ACF - G1",
+   "result": "Georgia U15 won by 14 Runs (D/L)",
+   "summary": "Georgia U15: 164/10(38) North Carolina U15: 114/9(27)"
+  },
+  {
+   "matchId": "2271",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2271&clubId=40319",
+   "date": "2023-08-12",
+   "type": "League",
+   "teams": [
+    "Tennessee U15",
+    "Florida U15"
+   ],
+   "teamIds": [
+    "760",
+    "761"
+   ],
+   "ground": "ACF - G2",
+   "result": "Tennessee U15 won by 1 Wicket (D/L)",
+   "summary": "Florida U15: 167/7(40) Tennessee U15: 131/9(26.3)"
+  },
+  {
+   "matchId": "2259",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2259&clubId=40319",
+   "date": "2023-08-11",
+   "type": "League",
+   "teams": [
+    "North Carolina U15",
+    "Tennessee U15"
+   ],
+   "teamIds": [
+    "762",
+    "760"
+   ],
+   "ground": "ACF - G2",
+   "result": "North Carolina U15 won by 123 Runs",
+   "summary": "North Carolina U15: 212/5(30) Tennessee U15: 89/10(22.5)"
+  },
+  {
+   "matchId": "2258",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2258&clubId=40319",
+   "date": "2023-08-11",
+   "type": "League",
+   "teams": [
+    "Georgia U15",
+    "Florida U15"
+   ],
+   "teamIds": [
+    "759",
+    "761"
+   ],
+   "ground": "ACF - G1",
+   "result": "Georgia U15 won by 94 Runs",
+   "summary": "Georgia U15: 202/3(25) Florida U15: 108/6(25)"
+  }
+ ]
+}

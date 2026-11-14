@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s61",
+  "id": "legacy-523",
+  "name": "USAC 2026 - Seattle HUB - Phase1 - U15"
+ },
+ "fetchedAt": "2026-11-13T21:42:21.273Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=523&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=523&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8249",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8249&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Pink"
+   ],
+   "teamIds": [
+    "3168",
+    "3172"
+   ],
+   "ground": "FWS",
+   "result": "Team Blue won by 8 Wickets",
+   "summary": "Team Pink: 135/10(27.2) Team Blue: 136/2(21.4)"
+  },
+  {
+   "matchId": "8248",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8248&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Brown"
+   ],
+   "teamIds": [
+    "3167",
+    "3171"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Brown won by 211 Runs",
+   "summary": "Team Brown: 274/8(29.1) Team Red: 63/10(17)"
+  },
+  {
+   "matchId": "8202",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8202&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Team Brown",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3171",
+    "3170"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Brown won by 94 Runs",
+   "summary": "Team Brown: 194/2(25) Team Green: 100/6(22.4)"
+  },
+  {
+   "matchId": "8201",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8201&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3167",
+    "3168"
+   ],
+   "ground": "FWS",
+   "result": "Team Red won by 2 Wickets",
+   "summary": "Team Blue: 88/10(27.3) Team Red: 89/8(20)"
+  },
+  {
+   "matchId": "8140",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8140&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Team Pink",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3172",
+    "3170"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Green won by 23 Runs",
+   "summary": "Team Green: 186/7(30) Team Pink: 163/10(30)"
+  },
+  {
+   "matchId": "7931",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7931&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Team Pink",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3172",
+    "3167"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Pink won by 4 Wickets",
+   "summary": "Team Red: 86/10(19.3) Team Pink: 88/6(18.1)"
+  },
+  {
+   "matchId": "7890",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7890&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Brown"
+   ],
+   "teamIds": [
+    "3168",
+    "3171"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Brown won by 32 Runs",
+   "summary": "Team Brown: 243/6(30) Team Blue: 211/7(30)"
+  },
+  {
+   "matchId": "7888",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7888&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3170",
+    "3166"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Team Yellow won by 6 Wickets",
+   "summary": "Team Green: 84/6(23.5) Team Yellow: 85/4(13)"
+  },
+  {
+   "matchId": "7727",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7727&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Brown"
+   ],
+   "teamIds": [
+    "3166",
+    "3171"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Team Brown won by 241 Runs",
+   "summary": "Team Brown: 310/4(30) Team Yellow: 69/4(15)"
+  },
+  {
+   "matchId": "7724",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7724&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Pink"
+   ],
+   "teamIds": [
+    "3168",
+    "3172"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Pink won by 4 Wickets",
+   "summary": "Team Blue: 154/9(28.2) Team Pink: 159/6(24.3)"
+  },
+  {
+   "matchId": "7669",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7669&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3170",
+    "3167"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Team Green won by 9 Wickets",
+   "summary": "Team Red: 209/9(30) Team Green: 212/1(24.2)"
+  }
+ ]
+}

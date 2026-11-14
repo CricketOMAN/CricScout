@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s351",
+  "id": "legacy-43",
+  "name": "USAC Junior 2023 -East Midwest Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:16:10.763Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=43&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=43&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2072",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2072&clubId=40319",
+   "date": "2023-07-16",
+   "type": "Final",
+   "teams": [
+    "AYCA BLASTERS",
+    "MYCA LIONS"
+   ],
+   "teamIds": [
+    "541",
+    "539"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "MYCA LIONS won by 36 Runs",
+   "summary": "MYCA LIONS: 150/7(40) AYCA BLASTERS: 114/10(31.4)"
+  },
+  {
+   "matchId": "2022",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2022&clubId=40319",
+   "date": "2023-07-09",
+   "type": "League",
+   "teams": [
+    "MCA GLADIATORS",
+    "AYCA BLASTERS"
+   ],
+   "teamIds": [
+    "549",
+    "541"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "AYCA BLASTERS won by 10 Wickets",
+   "summary": "MCA GLADIATORS: 76/10(31.1) AYCA BLASTERS: 77/0(20.4)"
+  },
+  {
+   "matchId": "1995",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1995&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "MCA GLADIATORS",
+    "MYCA LIONS"
+   ],
+   "teamIds": [
+    "549",
+    "539"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "Abandoned.",
+   "summary": "MYCA LIONS: 2/1(0.5) Live"
+  },
+  {
+   "matchId": "1933",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1933&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS NOVI",
+    "MYCA LIONS"
+   ],
+   "teamIds": [
+    "540",
+    "539"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "MYCA LIONS won by 122 Runs",
+   "summary": "MYCA LIONS: 202/8(40) PRIME STRIKERS NOVI: 80/10(25.5)"
+  },
+  {
+   "matchId": "1887",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1887&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS NOVI",
+    "MCA GLADIATORS"
+   ],
+   "teamIds": [
+    "540",
+    "549"
+   ],
+   "ground": "CRC PARK",
+   "result": "PRIME STRIKERS NOVI won by 78 Runs",
+   "summary": "PRIME STRIKERS NOVI: 200/5(40) MCA GLADIATORS: 122/9(29.3)"
+  },
+  {
+   "matchId": "1886",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1886&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "MYCA LIONS",
+    "AYCA BLASTERS"
+   ],
+   "teamIds": [
+    "539",
+    "541"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA BLASTERS won by 45 Runs",
+   "summary": "AYCA BLASTERS: 164/9(34.4) MYCA LIONS: 119/10(30)"
+  },
+  {
+   "matchId": "1850",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1850&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "AYCA BLASTERS",
+    "MYCA LIONS"
+   ],
+   "teamIds": [
+    "541",
+    "539"
+   ],
+   "ground": "CRC PARK",
+   "result": "MYCA LIONS won by 135 Runs",
+   "summary": "MYCA LIONS: 222/6(40) AYCA BLASTERS: 87/10(26.3)"
+  },
+  {
+   "matchId": "1770",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1770&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "AYCA BLASTERS",
+    "PRIME STRIKERS NOVI"
+   ],
+   "teamIds": [
+    "541",
+    "540"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA BLASTERS won by 86 Runs",
+   "summary": "AYCA BLASTERS: 161/7(25) PRIME STRIKERS NOVI: 75/10(19.1)"
+  },
+  {
+   "matchId": "1591",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1591&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "MCA GLADIATORS",
+    "MYCA LIONS"
+   ],
+   "teamIds": [
+    "549",
+    "539"
+   ],
+   "ground": "CRC PARK",
+   "result": "MYCA LIONS won by 6 Wickets",
+   "summary": "MCA GLADIATORS: 82/8(19.3) MYCA LIONS: 83/4(18.2)"
+  },
+  {
+   "matchId": "1461",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1461&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "MYCA LIONS",
+    "PRIME STRIKERS NOVI"
+   ],
+   "teamIds": [
+    "539",
+    "540"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "MYCA LIONS won by 143 Runs",
+   "summary": "MYCA LIONS: 236/6(35.1) PRIME STRIKERS NOVI: 93/10(35)"
+  },
+  {
+   "matchId": "1404",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1404&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "AYCA BLASTERS",
+    "PRIME STRIKERS NOVI"
+   ],
+   "teamIds": [
+    "541",
+    "540"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA BLASTERS won by 190 Runs",
+   "summary": "AYCA BLASTERS: 241/6(40) PRIME STRIKERS NOVI: 51/10(27.3)"
+  },
+  {
+   "matchId": "1353",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1353&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "MCA GLADIATORS",
+    "PRIME STRIKERS NOVI"
+   ],
+   "teamIds": [
+    "549",
+    "540"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA GLADIATORS won by 5 Wickets",
+   "summary": "PRIME STRIKERS NOVI: 60/9(26.1) MCA GLADIATORS: 61/5(20.1)"
+  }
+ ]
+}

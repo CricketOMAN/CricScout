@@ -1,0 +1,524 @@
+{
+ "season": {
+  "key": "s21",
+  "id": "legacy-578",
+  "name": "USAC 2026 - Eastern Sub-conference U15 Leg 1"
+ },
+ "fetchedAt": "2026-11-13T21:40:18.218Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=578&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=578&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9187",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9187&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "DC Blue",
+    "North East Team 1"
+   ],
+   "teamIds": [
+    "3383",
+    "3386"
+   ],
+   "ground": "NY Oval 2",
+   "result": "North East Team 1 won by 47 Runs",
+   "summary": "North East Team 1: 130/11(39.2) DC Blue: 83/9(22)"
+  },
+  {
+   "matchId": "9186",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9186&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "North East Team 2",
+    "NAYCA Team Red"
+   ],
+   "teamIds": [
+    "3387",
+    "3385"
+   ],
+   "ground": "NY Oval 3",
+   "result": "NAYCA Team Red won by 118 Runs",
+   "summary": "NAYCA Team Red: 218/8(40) North East Team 2: 100/11(31.5)"
+  },
+  {
+   "matchId": "9185",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9185&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "DC Purple",
+    "NAYCA Team Blue"
+   ],
+   "teamIds": [
+    "3382",
+    "3384"
+   ],
+   "ground": "NY Oval 1",
+   "result": "DC Purple won by 48 Runs",
+   "summary": "DC Purple: 242/7(40) NAYCA Team Blue: 194/11(39.5)"
+  },
+  {
+   "matchId": "9170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9170&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "North East Team 1",
+    "DC Purple"
+   ],
+   "teamIds": [
+    "3386",
+    "3382"
+   ],
+   "ground": "NY Oval 1",
+   "result": "North East Team 1 won by 5 Wickets",
+   "summary": "DC Purple: 68/10(26.2) North East Team 1: 72/5(17.4)"
+  },
+  {
+   "matchId": "9169",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9169&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "DC Blue",
+    "NAYCA Team Red"
+   ],
+   "teamIds": [
+    "3383",
+    "3385"
+   ],
+   "ground": "NY Oval 3",
+   "result": "NAYCA Team Red won by 120 Runs",
+   "summary": "NAYCA Team Red: 225/6(40) DC Blue: 105/10(31.1)"
+  },
+  {
+   "matchId": "9168",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9168&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Blue",
+    "North East Team 2"
+   ],
+   "teamIds": [
+    "3384",
+    "3387"
+   ],
+   "ground": "NY Oval 2",
+   "result": "NAYCA Team Blue won by 6 Runs",
+   "summary": "NAYCA Team Blue: 223/10(40) North East Team 2: 217/6(40)"
+  },
+  {
+   "matchId": "9162",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9162&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Red",
+    "North East Team 1"
+   ],
+   "teamIds": [
+    "3385",
+    "3386"
+   ],
+   "ground": "NY Oval 1",
+   "result": "NAYCA Team Red won by 25 Runs",
+   "summary": "NAYCA Team Red: 161/10(36.4) North East Team 1: 136/10(37.4)"
+  },
+  {
+   "matchId": "9161",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9161&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "DC Purple",
+    "North East Team 2"
+   ],
+   "teamIds": [
+    "3382",
+    "3387"
+   ],
+   "ground": "NY Oval 2",
+   "result": "DC Purple won by 50 Runs",
+   "summary": "DC Purple: 222/9(40) North East Team 2: 172/9(38.2)"
+  },
+  {
+   "matchId": "9160",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9160&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "DC Blue",
+    "NAYCA Team Blue"
+   ],
+   "teamIds": [
+    "3383",
+    "3384"
+   ],
+   "ground": "NY Oval 3",
+   "result": "NAYCA Team Blue won by 49 Runs",
+   "summary": "NAYCA Team Blue: 202/6(40) DC Blue: 153/11(37.1)"
+  },
+  {
+   "matchId": "9146",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9146&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Red",
+    "DC Purple"
+   ],
+   "teamIds": [
+    "3385",
+    "3382"
+   ],
+   "ground": "NY Oval 3",
+   "result": "DC Purple won by 6 Runs",
+   "summary": "DC Purple: 129/10(29.5) NAYCA Team Red: 123/10(28.4)"
+  },
+  {
+   "matchId": "9144",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9144&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "North East Team 1",
+    "NAYCA Team Blue"
+   ],
+   "teamIds": [
+    "3386",
+    "3384"
+   ],
+   "ground": "NY Oval 2",
+   "result": "North East Team 1 won by 4 Wickets",
+   "summary": "NAYCA Team Blue: 166/8(30) North East Team 1: 167/6(29.1)"
+  },
+  {
+   "matchId": "9143",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9143&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "North East Team 2",
+    "DC Blue"
+   ],
+   "teamIds": [
+    "3387",
+    "3383"
+   ],
+   "ground": "NY Oval 1",
+   "result": "DC Blue won by 9 Wickets",
+   "summary": "North East Team 2: 95/10(24.3) DC Blue: 98/1(14.3)"
+  },
+  {
+   "matchId": "9139",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9139&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "North East Team 1",
+    "North East Team 2"
+   ],
+   "teamIds": [
+    "3386",
+    "3387"
+   ],
+   "ground": "TBD",
+   "result": "North East Team 1 won by 9 Wickets",
+   "summary": "North East Team 2: 184/10(38.4) North East Team 1: 185/1(25)"
+  },
+  {
+   "matchId": "9118",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9118&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Blue",
+    "NAYCA Team Red"
+   ],
+   "teamIds": [
+    "3384",
+    "3385"
+   ],
+   "ground": "TBD",
+   "result": "NAYCA Team Blue won by 6 Wickets",
+   "summary": "NAYCA Team Red: 82/10(33.2) NAYCA Team Blue: 83/4(20.1)"
+  },
+  {
+   "matchId": "9074",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9074&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "DC Purple",
+    "DC Blue"
+   ],
+   "teamIds": [
+    "3382",
+    "3383"
+   ],
+   "ground": "NPHS1",
+   "result": "DC Purple won by 9 Wickets",
+   "summary": "DC Blue: 139/11(33.4) DC Purple: 140/1(16.4)"
+  },
+  {
+   "matchId": "9078",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9078&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "NC",
+    "FL-IN"
+   ],
+   "teamIds": [
+    "3406",
+    "3407"
+   ],
+   "ground": "PARAM - G1",
+   "result": "Abandoned.",
+   "summary": "NC: 0/0(0)"
+  },
+  {
+   "matchId": "9077",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9077&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "GA B",
+    "GL1"
+   ],
+   "teamIds": [
+    "3403",
+    "3404"
+   ],
+   "ground": "PARAM - G6",
+   "result": "Abandoned.",
+   "summary": "GA B: 0/0(0)"
+  },
+  {
+   "matchId": "9076",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9076&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "GA A",
+    "GL2"
+   ],
+   "teamIds": [
+    "3402",
+    "3405"
+   ],
+   "ground": "PARAM - G5",
+   "result": "Abandoned.",
+   "summary": "GA A: 0/0(0)"
+  },
+  {
+   "matchId": "9067",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9067&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "FL-IN",
+    "GA A"
+   ],
+   "teamIds": [
+    "3407",
+    "3402"
+   ],
+   "ground": "PARAM - G6",
+   "result": "GA A won by 9 Wickets",
+   "summary": "FL-IN: 60/11(19.3) GA A: 64/1(7.5)"
+  },
+  {
+   "matchId": "9064",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9064&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "NC",
+    "GA B"
+   ],
+   "teamIds": [
+    "3406",
+    "3403"
+   ],
+   "ground": "PARAM - G5",
+   "result": "NC won by 81 Runs",
+   "summary": "NC: 205/6(23) GA B: 124/10(20.2)"
+  },
+  {
+   "matchId": "9062",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9062&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "GL2",
+    "GL1"
+   ],
+   "teamIds": [
+    "3405",
+    "3404"
+   ],
+   "ground": "PARAM - G1",
+   "result": "GL1 won by 99 Runs",
+   "summary": "GL1: 160/9(25) GL2: 61/9(22.4)"
+  },
+  {
+   "matchId": "9033",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9033&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "NC",
+    "GL1"
+   ],
+   "teamIds": [
+    "3406",
+    "3404"
+   ],
+   "ground": "TBD",
+   "result": "GL1 won by 5 Runs",
+   "summary": "GL1: 63/8(13) NC: 58/7(13)"
+  },
+  {
+   "matchId": "9016",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9016&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "FL-IN",
+    "GL2"
+   ],
+   "teamIds": [
+    "3407",
+    "3405"
+   ],
+   "ground": "PARAM - G6",
+   "result": "FL-IN won by 22 Runs (D/L)",
+   "summary": "FL-IN: 150/5(30) GL2: 126/10(21.3)"
+  },
+  {
+   "matchId": "8989",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8989&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "NC",
+    "GL2"
+   ],
+   "teamIds": [
+    "3406",
+    "3405"
+   ],
+   "ground": "PARAM - G1",
+   "result": "NC won by 9 Wickets (D/L)",
+   "summary": "GL2: 67/10(21.4) NC: 58/1(5.3)"
+  },
+  {
+   "matchId": "8986",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8986&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "GA B",
+    "FL-IN"
+   ],
+   "teamIds": [
+    "3403",
+    "3407"
+   ],
+   "ground": "PARAM - G5",
+   "result": "GA B won by 7 Wickets (D/L)",
+   "summary": "FL-IN: 151/8(40) GA B: 143/3(25.4)"
+  },
+  {
+   "matchId": "8984",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8984&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "GA A",
+    "GL1"
+   ],
+   "teamIds": [
+    "3402",
+    "3404"
+   ],
+   "ground": "PARAM - G6",
+   "result": "GA A won by 7 Wickets (D/L)",
+   "summary": "GL1: 128/10(36.1) GA A: 108/3(19.4)"
+  },
+  {
+   "matchId": "8976",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8976&clubId=40319",
+   "date": "2026-07-09",
+   "type": "League",
+   "teams": [
+    "GA A",
+    "NC"
+   ],
+   "teamIds": [
+    "3402",
+    "3406"
+   ],
+   "ground": "PARAM - G1",
+   "result": "NC won by 8 Wickets (D/L)",
+   "summary": "GA A: 120/4(26) NC: 164/2(21.3)"
+  },
+  {
+   "matchId": "8975",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8975&clubId=40319",
+   "date": "2026-07-09",
+   "type": "League",
+   "teams": [
+    "GL1",
+    "FL-IN"
+   ],
+   "teamIds": [
+    "3404",
+    "3407"
+   ],
+   "ground": "PARAM - G5",
+   "result": "GL1 won by 129 Runs (D/L)",
+   "summary": "GL1: 158/6(33.1) FL-IN: 52/10(22.2)"
+  },
+  {
+   "matchId": "8974",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8974&clubId=40319",
+   "date": "2026-07-09",
+   "type": "League",
+   "teams": [
+    "GA B",
+    "GL2"
+   ],
+   "teamIds": [
+    "3403",
+    "3405"
+   ],
+   "ground": "PARAM - G6",
+   "result": "GA B won by 9 Wickets (D/L)",
+   "summary": "GL2: 90/10(30) GA B: 84/1(8.2)"
+  },
+  {
+   "matchId": "8963",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8963&clubId=40319",
+   "date": "2026-07-08",
+   "type": "League",
+   "teams": [
+    "GA A",
+    "GA B"
+   ],
+   "teamIds": [
+    "3402",
+    "3403"
+   ],
+   "ground": "PARAM - G1",
+   "result": "GA A won by 41 Runs",
+   "summary": "GA A: 284/5(40) GA B: 243/7(40)"
+  }
+ ]
+}

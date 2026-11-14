@@ -1,0 +1,439 @@
+{
+ "season": {
+  "key": "s182",
+  "id": "legacy-320",
+  "name": "2025 USAC New England U15"
+ },
+ "fetchedAt": "2026-11-13T22:23:10.593Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=320&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=320&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5963",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5963&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "1852",
+    "1854"
+   ],
+   "ground": "Maxwell",
+   "result": "Cricmax CT Sunrisers won by 5 Wickets",
+   "summary": "PCA Jaguars: 82/8(25) Cricmax CT Sunrisers: 83/5(19.5)"
+  },
+  {
+   "matchId": "5958",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5958&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Sunrisers",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1854",
+    "1857"
+   ],
+   "ground": "Maxwell",
+   "result": "Cricmax CT Sunrisers won by 33 Runs",
+   "summary": "Cricmax CT Sunrisers: 193/10(29.3) SKA-Boston: 160/7(30)"
+  },
+  {
+   "matchId": "5956",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5956&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "UCL Electrons A",
+    "UCL Electrons B"
+   ],
+   "teamIds": [
+    "1855",
+    "1856"
+   ],
+   "ground": "Knights Ground",
+   "result": "UCL Electrons A won by 163 Runs",
+   "summary": "UCL Electrons A: 243/3(25) UCL Electrons B: 80/9(24.3)"
+  },
+  {
+   "matchId": "5947",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5947&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "UCL Electrons B"
+   ],
+   "teamIds": [
+    "1852",
+    "1856"
+   ],
+   "ground": "KENEY PARK 1",
+   "result": "PCA Jaguars won by 50 Runs",
+   "summary": "PCA Jaguars: 144/8(25) UCL Electrons B: 94/10(24.5)"
+  },
+  {
+   "matchId": "5946",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5946&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "UCL Electrons A",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "1855",
+    "1854"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "Cricmax CT Sunrisers won by 52 Runs",
+   "summary": "Cricmax CT Sunrisers: 141/10(25) UCL Electrons A: 89/10(22.3)"
+  },
+  {
+   "matchId": "5939",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5939&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "UCL Electrons B",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "1856",
+    "1854"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "Cricmax CT Sunrisers won by 121 Runs",
+   "summary": "Cricmax CT Sunrisers: 211/7(30) UCL Electrons B: 90/9(29.4)"
+  },
+  {
+   "matchId": "5923",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5923&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Sunrisers",
+    "UCL Electrons A"
+   ],
+   "teamIds": [
+    "1854",
+    "1855"
+   ],
+   "ground": "Knights Ground",
+   "result": "Cricmax CT Sunrisers won by 5 Runs",
+   "summary": "Cricmax CT Sunrisers: 107/10(27.5) UCL Electrons A: 102/8(30)"
+  },
+  {
+   "matchId": "5872",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5872&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Sunrisers",
+    "UCL Electrons B"
+   ],
+   "teamIds": [
+    "1854",
+    "1856"
+   ],
+   "ground": "WATERBURY",
+   "result": "Forfeited. Winner: Cricmax CT Sunrisers",
+   "summary": "Cricmax CT Sunrisers: 0/0(0)"
+  },
+  {
+   "matchId": "5870",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5870&clubId=40319",
+   "date": "2025-06-27",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1852",
+    "1857"
+   ],
+   "ground": "Springfield",
+   "result": "SKA-Boston won by 4 Wickets",
+   "summary": "PCA Jaguars: 134/10(30) SKA-Boston: 135/6(28.3)"
+  },
+  {
+   "matchId": "5807",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5807&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "SKA-Boston",
+    "UCL Electrons A"
+   ],
+   "teamIds": [
+    "1857",
+    "1855"
+   ],
+   "ground": "Springfield",
+   "result": "SKA-Boston won by 48 Runs",
+   "summary": "SKA-Boston: 145/10(29.3) UCL Electrons A: 97/9(24.5)"
+  },
+  {
+   "matchId": "5804",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5804&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "1853",
+    "1854"
+   ],
+   "ground": "New Milford",
+   "result": "Cricmax CT Sunrisers won by 9 Wickets",
+   "summary": "New Milford CC: 62/9(30) Cricmax CT Sunrisers: 63/1(11.2)"
+  },
+  {
+   "matchId": "5749",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5749&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "UCL Electrons B",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1856",
+    "1857"
+   ],
+   "ground": "Knights Ground",
+   "result": "SKA-Boston won by 4 Wickets",
+   "summary": "UCL Electrons B: 46/10(16.5) SKA-Boston: 48/6(10)"
+  },
+  {
+   "matchId": "5748",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5748&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "1853",
+    "1854"
+   ],
+   "ground": "Maxwell",
+   "result": "Cricmax CT Sunrisers won by 8 Wickets",
+   "summary": "New Milford CC: 59/8(30) Cricmax CT Sunrisers: 60/2(12.1)"
+  },
+  {
+   "matchId": "5713",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5713&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "UCL Electrons A",
+    "New Milford CC"
+   ],
+   "teamIds": [
+    "1855",
+    "1853"
+   ],
+   "ground": "Knights Ground",
+   "result": "UCL Electrons A won by 3 Wickets",
+   "summary": "New Milford CC: 107/3(30) UCL Electrons A: 108/7(25.1)"
+  },
+  {
+   "matchId": "5686",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5686&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Sunrisers",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1854",
+    "1857"
+   ],
+   "ground": "Springfield",
+   "result": "SKA-Boston won by 9 Wickets",
+   "summary": "Cricmax CT Sunrisers: 135/10(24.5) SKA-Boston: 140/1(21.1)"
+  },
+  {
+   "matchId": "5684",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5684&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "UCL Electrons A"
+   ],
+   "teamIds": [
+    "1852",
+    "1855"
+   ],
+   "ground": "WATERBURY",
+   "result": "UCL Electrons A won by 8 Wickets",
+   "summary": "PCA Jaguars: 110/9(30) UCL Electrons A: 111/2(23.4)"
+  },
+  {
+   "matchId": "5606",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5606&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1853",
+    "1857"
+   ],
+   "ground": "New Milford",
+   "result": "SKA-Boston won by 83 Runs",
+   "summary": "SKA-Boston: 165/7(30) New Milford CC: 82/10(27.4)"
+  },
+  {
+   "matchId": "5505",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5505&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "UCL Electrons A"
+   ],
+   "teamIds": [
+    "1852",
+    "1855"
+   ],
+   "ground": "WATERBURY",
+   "result": "PCA Jaguars won by 65 Runs",
+   "summary": "PCA Jaguars: 165/10(27.1) UCL Electrons A: 100/5(22)"
+  },
+  {
+   "matchId": "5325",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5325&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "SKA-Boston",
+    "UCL Electrons B"
+   ],
+   "teamIds": [
+    "1857",
+    "1856"
+   ],
+   "ground": "Knights Ground",
+   "result": "SKA-Boston won by 6 Wickets",
+   "summary": "UCL Electrons B: 40/10(22) SKA-Boston: 41/4(10.3)"
+  },
+  {
+   "matchId": "5244",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5244&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "UCL Electrons A",
+    "SKA-Boston"
+   ],
+   "teamIds": [
+    "1855",
+    "1857"
+   ],
+   "ground": "Groveland",
+   "result": "SKA-Boston won by 39 Runs",
+   "summary": "SKA-Boston: 167/10(28.2) UCL Electrons A: 128/10(27)"
+  },
+  {
+   "matchId": "5141",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5141&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "UCL Electrons A"
+   ],
+   "teamIds": [
+    "1853",
+    "1855"
+   ],
+   "ground": "Danbury",
+   "result": "UCL Electrons A won by 87 Runs",
+   "summary": "UCL Electrons A: 183/4(30) New Milford CC: 96/10(28)"
+  },
+  {
+   "matchId": "5093",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5093&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "New Milford CC",
+    "PCA Jaguars"
+   ],
+   "teamIds": [
+    "1853",
+    "1852"
+   ],
+   "ground": "Danbury",
+   "result": "PCA Jaguars won by 104 Runs",
+   "summary": "PCA Jaguars: 204/3(30) New Milford CC: 100/10(30)"
+  },
+  {
+   "matchId": "4950",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4950&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "UCL Electrons A",
+    "UCL Electrons B"
+   ],
+   "teamIds": [
+    "1855",
+    "1856"
+   ],
+   "ground": "Knights Ground",
+   "result": "Abandoned.",
+   "summary": "UCL Electrons A: 71/3(15.2) UCL Electrons B: 15/3(4)"
+  },
+  {
+   "matchId": "4887",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4887&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "1852",
+    "1854"
+   ],
+   "ground": "Springfield",
+   "result": "Cricmax CT Sunrisers won by 7 Wickets",
+   "summary": "PCA Jaguars: 49/10(19.4) Cricmax CT Sunrisers: 52/3(7)"
+  },
+  {
+   "matchId": "4734",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4734&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "New Milford CC"
+   ],
+   "teamIds": [
+    "1852",
+    "1853"
+   ],
+   "ground": "WATERBURY",
+   "result": "It is a Tie",
+   "summary": "PCA Jaguars: 0/0(0)"
+  }
+ ]
+}

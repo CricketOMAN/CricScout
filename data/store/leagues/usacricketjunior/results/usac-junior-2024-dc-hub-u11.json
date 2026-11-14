@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s244",
+  "id": "legacy-219",
+  "name": "USAC Junior 2024 - DC Hub U11"
+ },
+ "fetchedAt": "2026-11-13T22:42:14.257Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=219&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=219&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3631",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3631&clubId=40319",
+   "date": "2024-06-30",
+   "type": "Super League",
+   "teams": [
+    "Team Green",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1303",
+    "1306"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Green won by 6 Wickets",
+   "summary": "Team Purple: 162/4(25) Team Green: 166/4(17.5)"
+  },
+  {
+   "matchId": "3615",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3615&clubId=40319",
+   "date": "2024-06-30",
+   "type": "Final",
+   "teams": [
+    "Team Orange",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1305",
+    "1304"
+   ],
+   "ground": "WCC 5",
+   "result": "Team Gold won by 6 Wickets",
+   "summary": "Team Orange: 108/9(25) Team Gold: 109/4(24)"
+  },
+  {
+   "matchId": "3611",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3611&clubId=40319",
+   "date": "2024-06-30",
+   "type": "3rd Position",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1301",
+    "1302"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Blue won by 20 Runs",
+   "summary": "Team Blue: 178/3(25) Team Red: 158/8(25)"
+  },
+  {
+   "matchId": "3600",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3600&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1304",
+    "1305"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "Team Gold won by 6 Wickets",
+   "summary": "Team Orange: 43/7(13.3) Team Gold: 45/4(10)"
+  },
+  {
+   "matchId": "3596",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3596&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1303",
+    "1301"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Red won by 82 Runs",
+   "summary": "Team Red: 142/7(25) Team Green: 60/9(15.2)"
+  },
+  {
+   "matchId": "3576",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3576&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1302",
+    "1305"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Orange won by 25 Runs",
+   "summary": "Team Orange: 132/8(25) Team Blue: 107/9(23.5)"
+  },
+  {
+   "matchId": "3575",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3575&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Purple",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1306",
+    "1304"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "Team Gold won by 4 Wickets",
+   "summary": "Team Purple: 89/8(24.3) Team Gold: 90/6(20.5)"
+  },
+  {
+   "matchId": "3538",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3538&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1305",
+    "1301"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "Team Orange won by 3 Wickets",
+   "summary": "Team Red: 89/10(24.5) Team Orange: 93/7(20.1)"
+  },
+  {
+   "matchId": "3537",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3537&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1304",
+    "1302"
+   ],
+   "ground": "FRC",
+   "result": "Team Gold won by 4 Wickets",
+   "summary": "Team Blue: 80/10(24.4) Team Gold: 81/6(23)"
+  },
+  {
+   "matchId": "3536",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3536&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1303",
+    "1306"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Green won by 54 Runs",
+   "summary": "Team Green: 167/1(25) Team Purple: 113/7(25)"
+  },
+  {
+   "matchId": "3529",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3529&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1303",
+    "1305"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Orange won by 7 Wickets",
+   "summary": "Team Green: 50/10(18.2) Team Orange: 52/3(13)"
+  },
+  {
+   "matchId": "3495",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3495&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1301",
+    "1304"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Gold won by 8 Wickets",
+   "summary": "Team Red: 129/7(25) Team Gold: 130/2(24.5)"
+  },
+  {
+   "matchId": "3494",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3494&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Purple",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1306",
+    "1302"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "Team Blue won by 4 Wickets",
+   "summary": "Team Purple: 101/10(24.3) Team Blue: 102/6(19.1)"
+  },
+  {
+   "matchId": "3433",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3433&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "1302",
+    "1303"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Blue won by 10 Wickets",
+   "summary": "Team Green: 84/10(25) Team Blue: 88/0(10.4)"
+  },
+  {
+   "matchId": "3432",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3432&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1301",
+    "1306"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "Team Red won by 3 Wickets",
+   "summary": "Team Purple: 127/8(25) Team Red: 130/7(19.2)"
+  },
+  {
+   "matchId": "3420",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3420&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1302",
+    "1301"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Red won by 49 Runs",
+   "summary": "Team Red: 160/4(25) Team Blue: 111/10(24.1)"
+  },
+  {
+   "matchId": "3394",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3394&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Green"
+   ],
+   "teamIds": [
+    "1304",
+    "1303"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "Team Green won by 2 Wickets",
+   "summary": "Team Gold: 171/8(21.5) Team Green: 172/8(24.3)"
+  },
+  {
+   "matchId": "3391",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3391&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1305",
+    "1306"
+   ],
+   "ground": "Rockledge",
+   "result": "Team Orange won by 8 Wickets",
+   "summary": "Team Purple: 75/10(22.1) Team Orange: 78/2(16.1)"
+  }
+ ]
+}

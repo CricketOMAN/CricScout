@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s62",
+  "id": "legacy-522",
+  "name": "USAC 2026 - Illinois Hub U17"
+ },
+ "fetchedAt": "2026-11-13T21:42:23.103Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=522&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=522&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8796",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8796&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Chicago U17 Blasters",
+    "Chicago U17 Dynamites"
+   ],
+   "teamIds": [
+    "3160",
+    "3161"
+   ],
+   "ground": "CYCAP",
+   "result": "Chicago U17 Blasters won by 8 Wickets",
+   "summary": "Chicago U17 Dynamites: 146/8(30) Chicago U17 Blasters: 147/2(24.1)"
+  },
+  {
+   "matchId": "8610",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8610&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Chicago U17 Blasters",
+    "Chicago U17 Dynamites"
+   ],
+   "teamIds": [
+    "3160",
+    "3161"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "Chicago U17 Blasters: 147/9 (39.5/40 ov)",
+   "summary": "Chicago U17 Blasters: 147/9(39.5) Live"
+  },
+  {
+   "matchId": "8437",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8437&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Chicago U17 Blasters",
+    "Chicago U17 Dynamites"
+   ],
+   "teamIds": [
+    "3160",
+    "3161"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "Chicago U17 Blasters won by 2 Wickets",
+   "summary": "Chicago U17 Dynamites: 133/5(35) Chicago U17 Blasters: 134/8(28.2)"
+  },
+  {
+   "matchId": "8242",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8242&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Chicago U17 Blasters",
+    "Chicago U17 Dynamites"
+   ],
+   "teamIds": [
+    "3160",
+    "3161"
+   ],
+   "ground": "CYCAP",
+   "result": "Chicago U17 Blasters won by 86 Runs",
+   "summary": "Chicago U17 Blasters: 156/7(37) Chicago U17 Dynamites: 70/10(19.4)"
+  }
+ ]
+}

@@ -1,0 +1,728 @@
+{
+ "season": {
+  "key": "s186",
+  "id": "legacy-316",
+  "name": "2025 USAC DC HUB U13"
+ },
+ "fetchedAt": "2026-11-13T22:23:14.355Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=316&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=316&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5913",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5913&clubId=40319",
+   "date": "2025-06-29",
+   "type": "Final",
+   "teams": [
+    "Virginia Kings",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1833",
+    "1837"
+   ],
+   "ground": "Kenilworth",
+   "result": "Virginia Kings won by 16 Runs",
+   "summary": "Virginia Kings: 132/9(30) JMCA: 116/10(27.4)"
+  },
+  {
+   "matchId": "5827",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5827&clubId=40319",
+   "date": "2025-06-22",
+   "type": "Semi Final",
+   "teams": [
+    "SOCA Marvels",
+    "Virginia Kings"
+   ],
+   "teamIds": [
+    "1839",
+    "1833"
+   ],
+   "ground": "Kenilworth",
+   "result": "Virginia Kings won by 4 Wickets",
+   "summary": "SOCA Marvels: 89/10(28.4) Virginia Kings: 90/6(27.2)"
+  },
+  {
+   "matchId": "5826",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5826&clubId=40319",
+   "date": "2025-06-22",
+   "type": "Semi Final",
+   "teams": [
+    "BRSS Knights",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1830",
+    "1837"
+   ],
+   "ground": "FRC",
+   "result": "JMCA won by 4 Wickets",
+   "summary": "BRSS Knights: 54/10(26.5) JMCA: 56/6(22.4)"
+  },
+  {
+   "matchId": "5719",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5719&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "BRSS Sunrisers"
+   ],
+   "teamIds": [
+    "1835",
+    "1829"
+   ],
+   "ground": "Rockledge",
+   "result": "FSSC Sharks won by 9 Wickets",
+   "summary": "BRSS Sunrisers: 136/3(30) FSSC Sharks: 137/1(13.2)"
+  },
+  {
+   "matchId": "5716",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5716&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "Virginia Kings",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "1833",
+    "1831"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "Virginia Kings won by 9 Wickets",
+   "summary": "BRSS Warriors: 61/7(18.2) Virginia Kings: 62/1(6.3)"
+  },
+  {
+   "matchId": "5696",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5696&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "Virginia Cavaliers"
+   ],
+   "teamIds": [
+    "1838",
+    "1832"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "Virginia Cavaliers won by 45 Runs",
+   "summary": "Virginia Cavaliers: 176/6(30) LCCA Titans: 131/9(30)"
+  },
+  {
+   "matchId": "5695",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5695&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "1834",
+    "1839"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SOCA Marvels won by 161 Runs",
+   "summary": "SOCA Marvels: 188/5(30) FSSC Lions: 27/9(14.2)"
+  },
+  {
+   "matchId": "5694",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5694&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "WCA"
+   ],
+   "teamIds": [
+    "1837",
+    "1841"
+   ],
+   "ground": "Kenilworth",
+   "result": "JMCA won by 150 Runs",
+   "summary": "JMCA: 204/6(30) WCA: 54/9(22)"
+  },
+  {
+   "matchId": "5693",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5693&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "SOCA BlueJays"
+   ],
+   "teamIds": [
+    "1830",
+    "1840"
+   ],
+   "ground": "FRC",
+   "result": "BRSS Knights won by 54 Runs",
+   "summary": "BRSS Knights: 168/1(30) SOCA BlueJays: 114/7(30)"
+  },
+  {
+   "matchId": "5592",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5592&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1835",
+    "1838"
+   ],
+   "ground": "Kenilworth",
+   "result": "Abandoned.",
+   "summary": "FSSC Sharks: 0/0(0)"
+  },
+  {
+   "matchId": "5591",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5591&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "Virginia Cavaliers"
+   ],
+   "teamIds": [
+    "1831",
+    "1832"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "Abandoned.",
+   "summary": "BRSS Warriors: 0/0(0)"
+  },
+  {
+   "matchId": "5590",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5590&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "Huskies",
+    "Virginia Kings"
+   ],
+   "teamIds": [
+    "1836",
+    "1833"
+   ],
+   "ground": "Cradlerock",
+   "result": "Abandoned.",
+   "summary": "Huskies: 0/0(0)"
+  },
+  {
+   "matchId": "5589",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5589&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1839",
+    "1830"
+   ],
+   "ground": "Gunners Branch",
+   "result": "Abandoned.",
+   "summary": "SOCA Marvels: 0/0(0)"
+  },
+  {
+   "matchId": "5588",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5588&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "SOCA BlueJays",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1840",
+    "1837"
+   ],
+   "ground": "Gunners Branch",
+   "result": "Abandoned.",
+   "summary": "SOCA BlueJays: 0/0(0)"
+  },
+  {
+   "matchId": "5587",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5587&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "BRSS Sunrisers"
+   ],
+   "teamIds": [
+    "1834",
+    "1829"
+   ],
+   "ground": "Kenilworth",
+   "result": "Abandoned.",
+   "summary": "FSSC Lions: 0/0(0)"
+  },
+  {
+   "matchId": "5458",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5458&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1830",
+    "1834"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "BRSS Knights won by 9 Wickets",
+   "summary": "FSSC Lions: 128/8(28.4) BRSS Knights: 134/1(13.4)"
+  },
+  {
+   "matchId": "5457",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5457&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "WCA"
+   ],
+   "teamIds": [
+    "1838",
+    "1841"
+   ],
+   "ground": "Kenilworth",
+   "result": "LCCA Titans won by 38 Runs",
+   "summary": "LCCA Titans: 118/8(30) WCA: 80/9(24.2)"
+  },
+  {
+   "matchId": "5456",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5456&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "SOCA BlueJays",
+    "Huskies"
+   ],
+   "teamIds": [
+    "1840",
+    "1836"
+   ],
+   "ground": "Cradlerock",
+   "result": "SOCA BlueJays won by 9 Runs",
+   "summary": "SOCA BlueJays: 107/10(29.5) Huskies: 98/9(29.5)"
+  },
+  {
+   "matchId": "5420",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5420&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "1831",
+    "1839"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SOCA Marvels won by 10 Wickets",
+   "summary": "BRSS Warriors: 20/7(17.4) SOCA Marvels: 26/0(2)"
+  },
+  {
+   "matchId": "5419",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5419&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "BRSS Sunrisers",
+    "Virginia Cavaliers"
+   ],
+   "teamIds": [
+    "1829",
+    "1832"
+   ],
+   "ground": "Kenilworth",
+   "result": "Virginia Cavaliers won by 9 Wickets",
+   "summary": "BRSS Sunrisers: 104/5(30) Virginia Cavaliers: 105/1(22)"
+  },
+  {
+   "matchId": "5418",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5418&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "1837",
+    "1835"
+   ],
+   "ground": "FRC",
+   "result": "JMCA won by 5 Wickets",
+   "summary": "FSSC Sharks: 73/8(30) JMCA: 75/5(26.2)"
+  },
+  {
+   "matchId": "5331",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5331&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "WCA",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "1841",
+    "1831"
+   ],
+   "ground": "Kenilworth",
+   "result": "BRSS Warriors won by 62 Runs",
+   "summary": "BRSS Warriors: 165/7(30) WCA: 103/10(26.1)"
+  },
+  {
+   "matchId": "5328",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5328&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "Huskies"
+   ],
+   "teamIds": [
+    "1839",
+    "1836"
+   ],
+   "ground": "Cradlerock",
+   "result": "SOCA Marvels won by 98 Runs",
+   "summary": "SOCA Marvels: 153/7(30) Huskies: 55/9(19.4)"
+  },
+  {
+   "matchId": "5280",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5280&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "Virginia Kings"
+   ],
+   "teamIds": [
+    "1835",
+    "1833"
+   ],
+   "ground": "Kenilworth",
+   "result": "FSSC Sharks won by 9 Wickets",
+   "summary": "Virginia Kings: 106/7(30) FSSC Sharks: 107/1(22.5)"
+  },
+  {
+   "matchId": "5279",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5279&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "SOCA BlueJays",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1840",
+    "1838"
+   ],
+   "ground": "Cradlerock",
+   "result": "LCCA Titans won by 7 Runs",
+   "summary": "LCCA Titans: 107/9(30) SOCA BlueJays: 100/9(30)"
+  },
+  {
+   "matchId": "5278",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5278&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1830",
+    "1837"
+   ],
+   "ground": "FRC",
+   "result": "BRSS Knights won by 21 Runs",
+   "summary": "BRSS Knights: 101/5(30) JMCA: 80/10(25.5)"
+  },
+  {
+   "matchId": "5147",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5147&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "SOCA Marvels"
+   ],
+   "teamIds": [
+    "1838",
+    "1839"
+   ],
+   "ground": "Rockledge",
+   "result": "SOCA Marvels won by 30 Runs",
+   "summary": "SOCA Marvels: 141/10(29.1) LCCA Titans: 111/10(25)"
+  },
+  {
+   "matchId": "5145",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5145&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Virginia Cavaliers",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1832",
+    "1830"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "BRSS Knights won by 3 Wickets",
+   "summary": "Virginia Cavaliers: 170/7(30) BRSS Knights: 171/7(28)"
+  },
+  {
+   "matchId": "5144",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5144&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "BRSS Warriors",
+    "Huskies"
+   ],
+   "teamIds": [
+    "1831",
+    "1836"
+   ],
+   "ground": "Cradlerock",
+   "result": "BRSS Warriors won by 6 Wickets",
+   "summary": "Huskies: 77/10(27.3) BRSS Warriors: 78/4(19.3)"
+  },
+  {
+   "matchId": "5085",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5085&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1837",
+    "1834"
+   ],
+   "ground": "Cradlerock",
+   "result": "JMCA won by 5 Wickets",
+   "summary": "FSSC Lions: 66/8(20.2) JMCA: 69/5(16.3)"
+  },
+  {
+   "matchId": "5084",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5084&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Virginia Kings",
+    "BRSS Sunrisers"
+   ],
+   "teamIds": [
+    "1833",
+    "1829"
+   ],
+   "ground": "Gunners Branch",
+   "result": "Virginia Kings won by 97 Runs",
+   "summary": "Virginia Kings: 147/10(29) BRSS Sunrisers: 50/9(18)"
+  },
+  {
+   "matchId": "5083",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5083&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "WCA",
+    "SOCA BlueJays"
+   ],
+   "teamIds": [
+    "1841",
+    "1840"
+   ],
+   "ground": "Kenilworth",
+   "result": "SOCA BlueJays won by 126 Runs",
+   "summary": "SOCA BlueJays: 218/3(30) WCA: 92/9(30)"
+  },
+  {
+   "matchId": "4943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4943&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "WCA",
+    "Huskies"
+   ],
+   "teamIds": [
+    "1841",
+    "1836"
+   ],
+   "ground": "Cradlerock",
+   "result": "Abandoned.",
+   "summary": "WCA: 0/0(0)"
+  },
+  {
+   "matchId": "4942",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4942&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "BRSS Sunrisers",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1829",
+    "1830"
+   ],
+   "ground": "Gunners Branch",
+   "result": "Abandoned.",
+   "summary": "BRSS Sunrisers: 0/0(0)"
+  },
+  {
+   "matchId": "4941",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4941&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "1834",
+    "1835"
+   ],
+   "ground": "Cradlerock",
+   "result": "Abandoned.",
+   "summary": "FSSC Lions: 0/0(0)"
+  },
+  {
+   "matchId": "4940",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4940&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "Virginia Cavaliers",
+    "Virginia Kings"
+   ],
+   "teamIds": [
+    "1832",
+    "1833"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "Abandoned.",
+   "summary": "Virginia Cavaliers: 0/0(0)"
+  },
+  {
+   "matchId": "4804",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4804&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "SOCA Marvels",
+    "WCA"
+   ],
+   "teamIds": [
+    "1839",
+    "1841"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SOCA Marvels won by 231 Runs",
+   "summary": "SOCA Marvels: 267/2(30) WCA: 36/11(18.3)"
+  },
+  {
+   "matchId": "4803",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4803&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "Virginia Cavaliers",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "1832",
+    "1835"
+   ],
+   "ground": "Kenilworth",
+   "result": "FSSC Sharks won by 10 Runs",
+   "summary": "FSSC Sharks: 177/6(30) Virginia Cavaliers: 167/8(30)"
+  },
+  {
+   "matchId": "4802",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4802&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "SOCA BlueJays",
+    "BRSS Warriors"
+   ],
+   "teamIds": [
+    "1840",
+    "1831"
+   ],
+   "ground": "FRC",
+   "result": "BRSS Warriors won by 3 Runs",
+   "summary": "BRSS Warriors: 135/6(30) SOCA BlueJays: 132/10(29.1)"
+  },
+  {
+   "matchId": "4800",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4800&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "Huskies",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1836",
+    "1838"
+   ],
+   "ground": "Cradlerock",
+   "result": "Huskies won by 2 Runs",
+   "summary": "Huskies: 106/9(30) LCCA Titans: 104/10(29.3)"
+  },
+  {
+   "matchId": "4717",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4717&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "BRSS Sunrisers",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1829",
+    "1837"
+   ],
+   "ground": "Cradlerock",
+   "result": "JMCA won by 3 Wickets",
+   "summary": "BRSS Sunrisers: 63/8(30) JMCA: 67/7(20)"
+  },
+  {
+   "matchId": "4716",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4716&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "Virginia Kings",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1833",
+    "1834"
+   ],
+   "ground": "Kenilworth",
+   "result": "Virginia Kings won by 82 Runs",
+   "summary": "Virginia Kings: 224/7(30) FSSC Lions: 142/8(26.4)"
+  }
+ ]
+}

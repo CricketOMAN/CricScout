@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s319",
+  "id": "legacy-49",
+  "name": "USAC Junior 2023 -Austin Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:10:47.277Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=49&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=49&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1536",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1536&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "IPI-Bullets",
+    "AB Titans"
+   ],
+   "teamIds": [
+    "248",
+    "249"
+   ],
+   "ground": "HUTTO",
+   "result": "IPI-Bullets won by 65 Runs",
+   "summary": "IPI-Bullets: 176/5(20) AB Titans: 111/3(20)"
+  },
+  {
+   "matchId": "1495",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1495&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "AB Warriors",
+    "HCCA Avengers"
+   ],
+   "teamIds": [
+    "250",
+    "499"
+   ],
+   "ground": "Wilco",
+   "result": "AB Warriors won by 224 Runs",
+   "summary": "AB Warriors: 230/2(20) HCCA Avengers: 6/8(4.4)"
+  },
+  {
+   "matchId": "1319",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1319&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "AB Warriors",
+    "IPI-Bullets"
+   ],
+   "teamIds": [
+    "250",
+    "248"
+   ],
+   "ground": "RRCG",
+   "result": "AB Warriors: 0/0 (0/20 ov)",
+   "summary": "AB Warriors: 0/0(0) Live"
+  },
+  {
+   "matchId": "1287",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1287&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "AB Titans",
+    "HCCA Avengers"
+   ],
+   "teamIds": [
+    "249",
+    "499"
+   ],
+   "ground": "RRCG",
+   "result": "AB Titans won by 10 Wickets",
+   "summary": "HCCA Avengers: 29/10(7.3) AB Titans: 30/0(3.4)"
+  },
+  {
+   "matchId": "1191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1191&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "HCCA Avengers",
+    "AB Warriors"
+   ],
+   "teamIds": [
+    "499",
+    "250"
+   ],
+   "ground": "Wilco",
+   "result": "AB Warriors won by 154 Runs",
+   "summary": "AB Warriors: 168/2(15) HCCA Avengers: 14/8(4.4)"
+  },
+  {
+   "matchId": "1015",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1015&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "AB Warriors",
+    "AB Titans"
+   ],
+   "teamIds": [
+    "250",
+    "249"
+   ],
+   "ground": "RRCG",
+   "result": "AB Warriors won by 4 Wickets",
+   "summary": "AB Titans: 114/6(19.1) AB Warriors: 115/6(17.4)"
+  },
+  {
+   "matchId": "930",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=930&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "AB Titans",
+    "AB Warriors"
+   ],
+   "teamIds": [
+    "249",
+    "250"
+   ],
+   "ground": "TBD",
+   "result": "AB Warriors won by 3 Wickets",
+   "summary": "AB Titans: 121/4(20) AB Warriors: 122/7(18.3)"
+  }
+ ]
+}

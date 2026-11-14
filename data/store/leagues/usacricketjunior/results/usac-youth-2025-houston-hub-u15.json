@@ -1,0 +1,490 @@
+{
+ "season": {
+  "key": "s210",
+  "id": "legacy-275",
+  "name": "USAC Youth 2025 - Houston Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:36:29.039Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=275&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=275&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5509",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5509&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "KY Eagles",
+    "NC Superwarriors"
+   ],
+   "teamIds": [
+    "1638",
+    "1639"
+   ],
+   "ground": "JPLW",
+   "result": "KY Eagles won by 1 Run",
+   "summary": "KY Eagles: 133/10(31.5) NC Superwarriors: 132/10(31.1)"
+  },
+  {
+   "matchId": "5504",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5504&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "SL Suns",
+    "EY Cavaliers"
+   ],
+   "teamIds": [
+    "1634",
+    "1637"
+   ],
+   "ground": "JCP",
+   "result": "SL Suns won by 48 Runs",
+   "summary": "SL Suns: 171/10(34.3) EY Cavaliers: 123/8(35)"
+  },
+  {
+   "matchId": "5373",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5373&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "SL Suns",
+    "NW TItans"
+   ],
+   "teamIds": [
+    "1634",
+    "1633"
+   ],
+   "ground": "MatzkeE",
+   "result": "NW TItans won by 5 Wickets",
+   "summary": "SL Suns: 98/9(21.4) NW TItans: 99/5(21.4)"
+  },
+  {
+   "matchId": "5361",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5361&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "NW Panthers"
+   ],
+   "teamIds": [
+    "1635",
+    "1632"
+   ],
+   "ground": "JPLW",
+   "result": "NW Panthers won by 34 Runs",
+   "summary": "NW Panthers: 117/8(26) SL Pulsars: 83/10(22)"
+  },
+  {
+   "matchId": "5195",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5195&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "NW TItans",
+    "SL Pulsars"
+   ],
+   "teamIds": [
+    "1633",
+    "1635"
+   ],
+   "ground": "JPLN",
+   "result": "SL Pulsars won by 2 Wickets",
+   "summary": "NW TItans: 114/9(31.3) SL Pulsars: 115/8(28.5)"
+  },
+  {
+   "matchId": "5189",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5189&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "NC Superwarriors",
+    "EY Cavaliers"
+   ],
+   "teamIds": [
+    "1639",
+    "1637"
+   ],
+   "ground": "Stars",
+   "result": "EY Cavaliers won by 62 Runs",
+   "summary": "EY Cavaliers: 181/7(35) NC Superwarriors: 119/10(24)"
+  },
+  {
+   "matchId": "5185",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5185&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "SL Suns",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "1634",
+    "1636"
+   ],
+   "ground": "JCP",
+   "result": "SL Suns won by 5 Wickets",
+   "summary": "EY Knights: 166/8(35) SL Suns: 168/5(23.1)"
+  },
+  {
+   "matchId": "4996",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4996&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "EY Cavaliers",
+    "NW Panthers"
+   ],
+   "teamIds": [
+    "1637",
+    "1632"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW Panthers won by 111 Runs",
+   "summary": "NW Panthers: 192/7(33.5) EY Cavaliers: 81/10(18.5)"
+  },
+  {
+   "matchId": "4990",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4990&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "KY Eagles",
+    "NW TItans"
+   ],
+   "teamIds": [
+    "1638",
+    "1633"
+   ],
+   "ground": "JPLW",
+   "result": "NW TItans won by 10 Runs",
+   "summary": "NW TItans: 180/6(35) KY Eagles: 170/9(34.5)"
+  },
+  {
+   "matchId": "4988",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4988&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "NC Superwarriors",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "1639",
+    "1636"
+   ],
+   "ground": "Stars",
+   "result": "EY Knights won by 79 Runs",
+   "summary": "EY Knights: 198/7(35) NC Superwarriors: 119/8(25.4)"
+  },
+  {
+   "matchId": "4848",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4848&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "1635",
+    "1636"
+   ],
+   "ground": "JPLW",
+   "result": "SL Pulsars won by 6 Wickets",
+   "summary": "EY Knights: 195/6(35) SL Pulsars: 196/4(32.3)"
+  },
+  {
+   "matchId": "4838",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4838&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "SL Suns",
+    "KY Eagles"
+   ],
+   "teamIds": [
+    "1634",
+    "1638"
+   ],
+   "ground": "Stars",
+   "result": "SL Suns won by 7 Wickets",
+   "summary": "KY Eagles: 150/6(35) SL Suns: 152/3(24.1)"
+  },
+  {
+   "matchId": "4659",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4659&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "EY Cavaliers",
+    "NW TItans"
+   ],
+   "teamIds": [
+    "1637",
+    "1633"
+   ],
+   "ground": "JPLW",
+   "result": "EY Cavaliers won by 1 Run",
+   "summary": "EY Cavaliers: 143/9(33.2) NW TItans: 142/10(35)"
+  },
+  {
+   "matchId": "4658",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4658&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "NW Panthers",
+    "EY Knights"
+   ],
+   "teamIds": [
+    "1632",
+    "1636"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW Panthers won by 210 Runs",
+   "summary": "NW Panthers: 247/6(35) EY Knights: 37/7(12.3)"
+  },
+  {
+   "matchId": "4655",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4655&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "SL Pulsars",
+    "KY Eagles"
+   ],
+   "teamIds": [
+    "1635",
+    "1638"
+   ],
+   "ground": "JPLE",
+   "result": "KY Eagles won by 27 Runs",
+   "summary": "KY Eagles: 144/9(35) SL Pulsars: 117/10(25.5)"
+  },
+  {
+   "matchId": "4652",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4652&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "SL Suns",
+    "NC Superwarriors"
+   ],
+   "teamIds": [
+    "1634",
+    "1639"
+   ],
+   "ground": "Stars",
+   "result": "NC Superwarriors won by 96 Runs",
+   "summary": "NC Superwarriors: 205/10(33.5) SL Suns: 109/9(20.1)"
+  },
+  {
+   "matchId": "4562",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4562&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "NC Superwarriors",
+    "NW TItans"
+   ],
+   "teamIds": [
+    "1639",
+    "1633"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW TItans won by 10 Wickets",
+   "summary": "NC Superwarriors: 30/9(12.5) NW TItans: 31/0(6)"
+  },
+  {
+   "matchId": "4558",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4558&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "KY Eagles",
+    "NW Panthers"
+   ],
+   "teamIds": [
+    "1638",
+    "1632"
+   ],
+   "ground": "JPLW",
+   "result": "NW Panthers won by 12 Runs",
+   "summary": "NW Panthers: 202/9(34.4) KY Eagles: 190/10(33.5)"
+  },
+  {
+   "matchId": "4555",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4555&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "EY Cavaliers",
+    "SL Pulsars"
+   ],
+   "teamIds": [
+    "1637",
+    "1635"
+   ],
+   "ground": "Stars",
+   "result": "SL Pulsars won by 3 Wickets",
+   "summary": "EY Cavaliers: 169/6(35) SL Pulsars: 170/7(31.1)"
+  },
+  {
+   "matchId": "4465",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4465&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "EY Cavaliers",
+    "KY Eagles"
+   ],
+   "teamIds": [
+    "1637",
+    "1638"
+   ],
+   "ground": "JPLW",
+   "result": "KY Eagles won by 11 Runs",
+   "summary": "KY Eagles: 218/9(35) EY Cavaliers: 207/8(33.3)"
+  },
+  {
+   "matchId": "4459",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4459&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "EY Knights",
+    "NW TItans"
+   ],
+   "teamIds": [
+    "1636",
+    "1633"
+   ],
+   "ground": "JCP",
+   "result": "EY Knights won by 7 Wickets",
+   "summary": "NW TItans: 194/8(35) EY Knights: 195/3(33.3)"
+  },
+  {
+   "matchId": "4458",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4458&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "NC Superwarriors",
+    "SL Pulsars"
+   ],
+   "teamIds": [
+    "1639",
+    "1635"
+   ],
+   "ground": "Stars",
+   "result": "NC Superwarriors won by 10 Runs",
+   "summary": "NC Superwarriors: 187/9(35) SL Pulsars: 177/9(33.2)"
+  },
+  {
+   "matchId": "4457",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4457&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "NW Panthers",
+    "SL Suns"
+   ],
+   "teamIds": [
+    "1632",
+    "1634"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW Panthers won by 43 Runs",
+   "summary": "NW Panthers: 170/10(33.4) SL Suns: 127/9(31.4)"
+  },
+  {
+   "matchId": "4352",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4352&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "NW Panthers",
+    "NC Superwarriors"
+   ],
+   "teamIds": [
+    "1632",
+    "1639"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW Panthers won by 10 Wickets",
+   "summary": "NC Superwarriors: 76/9(18.2) NW Panthers: 77/0(12.3)"
+  },
+  {
+   "matchId": "4349",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4349&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "EY Knights",
+    "KY Eagles"
+   ],
+   "teamIds": [
+    "1636",
+    "1638"
+   ],
+   "ground": "JPLW",
+   "result": "KY Eagles won by 7 Wickets",
+   "summary": "EY Knights: 92/7(24.1) KY Eagles: 93/3(17)"
+  },
+  {
+   "matchId": "4299",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4299&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "NW Panthers",
+    "NW TItans"
+   ],
+   "teamIds": [
+    "1632",
+    "1633"
+   ],
+   "ground": "JPLE",
+   "result": "NW Panthers won by 2 Wickets",
+   "summary": "NW TItans: 158/10(30.1) NW Panthers: 159/8(28.1)"
+  },
+  {
+   "matchId": "4295",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4295&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "SL Suns",
+    "SL Pulsars"
+   ],
+   "teamIds": [
+    "1634",
+    "1635"
+   ],
+   "ground": "Stars",
+   "result": "SL Suns won by 6 Wickets",
+   "summary": "SL Pulsars: 89/8(28.2) SL Suns: 90/4(13.3)"
+  },
+  {
+   "matchId": "4294",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4294&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "EY Knights",
+    "EY Cavaliers"
+   ],
+   "teamIds": [
+    "1636",
+    "1637"
+   ],
+   "ground": "JPLW",
+   "result": "EY Knights won by 7 Wickets",
+   "summary": "EY Cavaliers: 207/8(30.5) EY Knights: 208/3(31)"
+  }
+ ]
+}

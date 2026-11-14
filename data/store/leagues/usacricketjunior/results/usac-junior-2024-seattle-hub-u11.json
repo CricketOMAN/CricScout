@@ -1,0 +1,490 @@
+{
+ "season": {
+  "key": "s266",
+  "id": "legacy-192",
+  "name": "USAC Junior 2024 - Seattle Hub U11"
+ },
+ "fetchedAt": "2026-11-13T22:44:26.513Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=192&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=192&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3010",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3010&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "MLCA Cyclones",
+    "SKA Cheetahs"
+   ],
+   "teamIds": [
+    "1110",
+    "1106"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "MLCA Cyclones won by 76 Runs",
+   "summary": "MLCA Cyclones: 158/8(25) SKA Cheetahs: 82/10(21)"
+  },
+  {
+   "matchId": "3007",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3007&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "Super11 Orcas",
+    "SKA Bagheeras"
+   ],
+   "teamIds": [
+    "1111",
+    "1105"
+   ],
+   "ground": "Perrigo Park",
+   "result": "Super11 Orcas won by 52 Runs",
+   "summary": "Super11 Orcas: 198/4(25) SKA Bagheeras: 146/5(25)"
+  },
+  {
+   "matchId": "2985",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2985&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "PBL Titans",
+    "MLCA Sixers"
+   ],
+   "teamIds": [
+    "1108",
+    "1109"
+   ],
+   "ground": "Perrigo Park",
+   "result": "PBL Titans won by 11 Runs",
+   "summary": "PBL Titans: 131/10(25) MLCA Sixers: 120/10(24.1)"
+  },
+  {
+   "matchId": "2973",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2973&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "MLCA Tornadoes",
+    "SKA Dragons"
+   ],
+   "teamIds": [
+    "1104",
+    "1107"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "MLCA Tornadoes won by 117 Runs",
+   "summary": "MLCA Tornadoes: 180/7(25) SKA Dragons: 63/6(25)"
+  },
+  {
+   "matchId": "2953",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2953&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "SKA Bagheeras",
+    "MLCA Tornadoes"
+   ],
+   "teamIds": [
+    "1105",
+    "1104"
+   ],
+   "ground": "Perrigo Park",
+   "result": "SKA Bagheeras won by 59 Runs",
+   "summary": "SKA Bagheeras: 119/4(25) MLCA Tornadoes: 60/9(17.2)"
+  },
+  {
+   "matchId": "2949",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2949&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "MLCA Cyclones",
+    "Super11 Orcas"
+   ],
+   "teamIds": [
+    "1110",
+    "1111"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "Super11 Orcas won by 10 Wickets",
+   "summary": "MLCA Cyclones: 69/10(16.4) Super11 Orcas: 72/0(7.5)"
+  },
+  {
+   "matchId": "2941",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2941&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "PBL Titans",
+    "SKA Dragons"
+   ],
+   "teamIds": [
+    "1108",
+    "1107"
+   ],
+   "ground": "Perrigo Park",
+   "result": "PBL Titans won by 118 Runs",
+   "summary": "PBL Titans: 237/3(25) SKA Dragons: 119/4(25)"
+  },
+  {
+   "matchId": "2925",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2925&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs",
+    "MLCA Sixers"
+   ],
+   "teamIds": [
+    "1106",
+    "1109"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "MLCA Sixers won by 8 Wickets",
+   "summary": "SKA Cheetahs: 108/7(25) MLCA Sixers: 109/2(16.1)"
+  },
+  {
+   "matchId": "2913",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2913&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "Super11 Orcas",
+    "SKA Cheetahs"
+   ],
+   "teamIds": [
+    "1111",
+    "1106"
+   ],
+   "ground": "Perrigo Park",
+   "result": "Super11 Orcas won by 89 Runs",
+   "summary": "Super11 Orcas: 211/9(25) SKA Cheetahs: 122/10(24)"
+  },
+  {
+   "matchId": "2911",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2911&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "MLCA Sixers",
+    "SKA Dragons"
+   ],
+   "teamIds": [
+    "1109",
+    "1107"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "MLCA Sixers won by 144 Runs",
+   "summary": "MLCA Sixers: 203/3(25) SKA Dragons: 59/8(15.3)"
+  },
+  {
+   "matchId": "2889",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2889&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "SKA Bagheeras",
+    "PBL Titans"
+   ],
+   "teamIds": [
+    "1105",
+    "1108"
+   ],
+   "ground": "Perrigo Park",
+   "result": "SKA Bagheeras won by 156 Runs",
+   "summary": "SKA Bagheeras: 233/7(25.1) PBL Titans: 77/7(22)"
+  },
+  {
+   "matchId": "2875",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2875&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "MLCA Tornadoes",
+    "MLCA Cyclones"
+   ],
+   "teamIds": [
+    "1104",
+    "1110"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "MLCA Cyclones won by 3 Wickets",
+   "summary": "MLCA Tornadoes: 97/7(20) MLCA Cyclones: 98/7(18.3)"
+  },
+  {
+   "matchId": "2853",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2853&clubId=40319",
+   "date": "2024-04-26",
+   "type": "League",
+   "teams": [
+    "MLCA Tornadoes",
+    "MLCA Sixers"
+   ],
+   "teamIds": [
+    "1104",
+    "1109"
+   ],
+   "ground": "Marymoor Park",
+   "result": "MLCA Sixers won by 5 Wickets",
+   "summary": "MLCA Tornadoes: 89/6(20) MLCA Sixers: 90/5(18.5)"
+  },
+  {
+   "matchId": "2851",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2851&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "SKA Bagheeras",
+    "SKA Dragons"
+   ],
+   "teamIds": [
+    "1105",
+    "1107"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "SKA Bagheeras won by 249 Runs",
+   "summary": "SKA Bagheeras: 275/6(25) SKA Dragons: 26/7(9.1)"
+  },
+  {
+   "matchId": "2847",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2847&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "Super11 Orcas",
+    "MLCA Sixers"
+   ],
+   "teamIds": [
+    "1111",
+    "1109"
+   ],
+   "ground": "Perrigo Park",
+   "result": "Super11 Orcas won by 126 Runs",
+   "summary": "Super11 Orcas: 206/6(25) MLCA Sixers: 80/9(24.4)"
+  },
+  {
+   "matchId": "2828",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2828&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "MLCA Cyclones",
+    "PBL Titans"
+   ],
+   "teamIds": [
+    "1110",
+    "1108"
+   ],
+   "ground": "Perrigo Park",
+   "result": "MLCA Cyclones won by 64 Runs",
+   "summary": "MLCA Cyclones: 174/6(25) PBL Titans: 110/8(25)"
+  },
+  {
+   "matchId": "2826",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2826&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs",
+    "MLCA Tornadoes"
+   ],
+   "teamIds": [
+    "1106",
+    "1104"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "MLCA Tornadoes won by 2 Wickets",
+   "summary": "SKA Cheetahs: 69/10(21) MLCA Tornadoes: 70/8(18.1)"
+  },
+  {
+   "matchId": "2816",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2816&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "MLCA Cyclones",
+    "SKA Dragons"
+   ],
+   "teamIds": [
+    "1110",
+    "1107"
+   ],
+   "ground": "Perrigo Park",
+   "result": "MLCA Cyclones won by 128 Runs",
+   "summary": "MLCA Cyclones: 148/9(24.2) SKA Dragons: 20/8(7.5)"
+  },
+  {
+   "matchId": "2815",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2815&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "Super11 Orcas",
+    "MLCA Tornadoes"
+   ],
+   "teamIds": [
+    "1111",
+    "1104"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "Super11 Orcas won by 209 Runs",
+   "summary": "Super11 Orcas: 228/3(25) MLCA Tornadoes: 19/10(10.1)"
+  },
+  {
+   "matchId": "2789",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2789&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs",
+    "PBL Titans"
+   ],
+   "teamIds": [
+    "1106",
+    "1108"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "PBL Titans won by 8 Wickets",
+   "summary": "SKA Cheetahs: 39/10(13.1) PBL Titans: 40/2(17.2)"
+  },
+  {
+   "matchId": "2784",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2784&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "SKA Bagheeras",
+    "MLCA Sixers"
+   ],
+   "teamIds": [
+    "1105",
+    "1109"
+   ],
+   "ground": "Perrigo Park",
+   "result": "SKA Bagheeras won by 56 Runs",
+   "summary": "SKA Bagheeras: 168/6(25) MLCA Sixers: 112/8(25)"
+  },
+  {
+   "matchId": "2765",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2765&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "Super11 Orcas",
+    "PBL Titans"
+   ],
+   "teamIds": [
+    "1111",
+    "1108"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "Super11 Orcas won by 110 Runs",
+   "summary": "Super11 Orcas: 172/9(25) PBL Titans: 62/10(22.5)"
+  },
+  {
+   "matchId": "2764",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2764&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs",
+    "SKA Dragons"
+   ],
+   "teamIds": [
+    "1106",
+    "1107"
+   ],
+   "ground": "Perrigo Park",
+   "result": "SKA Cheetahs won by 151 Runs",
+   "summary": "SKA Cheetahs: 193/7(25) SKA Dragons: 42/10(14.2)"
+  },
+  {
+   "matchId": "2748",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2748&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "SKA Bagheeras",
+    "MLCA Cyclones"
+   ],
+   "teamIds": [
+    "1105",
+    "1110"
+   ],
+   "ground": "Perrigo Park",
+   "result": "SKA Bagheeras won by 89 Runs",
+   "summary": "SKA Bagheeras: 198/3(25) MLCA Cyclones: 109/7(22.1)"
+  },
+  {
+   "matchId": "2735",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2735&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "MLCA Tornadoes",
+    "PBL Titans"
+   ],
+   "teamIds": [
+    "1104",
+    "1108"
+   ],
+   "ground": "Perrigo Park",
+   "result": "Forfeited. Winner: PBL Titans",
+   "summary": "MLCA Tornadoes: 0/0(0)"
+  },
+  {
+   "matchId": "2734",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2734&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "MLCA Sixers",
+    "MLCA Cyclones"
+   ],
+   "teamIds": [
+    "1109",
+    "1110"
+   ],
+   "ground": "Perrigo Park",
+   "result": "MLCA Cyclones won by 6 Wickets",
+   "summary": "MLCA Sixers: 95/9(21.3) MLCA Cyclones: 96/4(19)"
+  },
+  {
+   "matchId": "2733",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2733&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "SKA Dragons",
+    "Super11 Orcas"
+   ],
+   "teamIds": [
+    "1107",
+    "1111"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "Super11 Orcas won by 10 Wickets",
+   "summary": "SKA Dragons: 16/9(9.1) Super11 Orcas: 17/0(3.1)"
+  },
+  {
+   "matchId": "2718",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2718&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "SKA Bagheeras",
+    "SKA Cheetahs"
+   ],
+   "teamIds": [
+    "1105",
+    "1106"
+   ],
+   "ground": "Cougar Mountain Mi",
+   "result": "SKA Bagheeras won by 136 Runs",
+   "summary": "SKA Bagheeras: 209/4(25) SKA Cheetahs: 73/10(25)"
+  }
+ ]
+}

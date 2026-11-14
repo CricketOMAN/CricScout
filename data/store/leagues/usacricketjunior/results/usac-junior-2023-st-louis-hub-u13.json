@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s356",
+  "id": "legacy-38",
+  "name": "USAC Junior 2023 -St Louis Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:16:14.954Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=38&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=38&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1794",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1794&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA Hurricanes"
+   ],
+   "teamIds": [
+    "515",
+    "526"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Eagles won by 177 Runs",
+   "summary": "ACAC Eagles: 287/6(30) KYCA Hurricanes: 110/10(26.2)"
+  },
+  {
+   "matchId": "1776",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1776&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "ACAC Strikers",
+    "KYCA Hurricanes"
+   ],
+   "teamIds": [
+    "516",
+    "526"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Strikers won by 8 Wickets",
+   "summary": "KYCA Hurricanes: 99/8(20) ACAC Strikers: 100/2(9.3)"
+  },
+  {
+   "matchId": "1694",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1694&clubId=40319",
+   "date": "2023-06-09",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "ACAC Strikers"
+   ],
+   "teamIds": [
+    "515",
+    "516"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Eagles won by 7 Wickets",
+   "summary": "ACAC Strikers: 83/10(22.1) ACAC Eagles: 87/3(14.4)"
+  },
+  {
+   "matchId": "1684",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1684&clubId=40319",
+   "date": "2023-06-06",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "ACAC Strikers"
+   ],
+   "teamIds": [
+    "515",
+    "516"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Eagles won by 150 Runs",
+   "summary": "ACAC Eagles: 198/2(30) ACAC Strikers: 48/8(12.5)"
+  },
+  {
+   "matchId": "1538",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1538&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "KYCA Hurricanes",
+    "ACAC Strikers"
+   ],
+   "teamIds": [
+    "526",
+    "516"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Strikers won by 5 Wickets",
+   "summary": "KYCA Hurricanes: 75/6(20) ACAC Strikers: 76/5(16.5)"
+  },
+  {
+   "matchId": "1510",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1510&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "KYCA Hurricanes",
+    "ACAC Strikers"
+   ],
+   "teamIds": [
+    "526",
+    "516"
+   ],
+   "ground": "TBD",
+   "result": "KYCA Hurricanes won by 20 Runs",
+   "summary": "KYCA Hurricanes: 97/9(30) ACAC Strikers: 77/8(30)"
+  },
+  {
+   "matchId": "1275",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1275&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "KYCA Hurricanes",
+    "ACAC Eagles"
+   ],
+   "teamIds": [
+    "526",
+    "515"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Eagles won by 103 Runs",
+   "summary": "ACAC Eagles: 192/10(29.5) KYCA Hurricanes: 89/10(27.2)"
+  },
+  {
+   "matchId": "1239",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1239&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "KYCA Hurricanes",
+    "ACAC Eagles"
+   ],
+   "teamIds": [
+    "526",
+    "515"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Eagles won by 141 Runs",
+   "summary": "ACAC Eagles: 179/6(30) KYCA Hurricanes: 38/10(13.5)"
+  }
+ ]
+}

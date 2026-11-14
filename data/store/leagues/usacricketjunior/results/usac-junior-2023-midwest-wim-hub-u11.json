@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s365",
+  "id": "legacy-29",
+  "name": "USAC Junior 2023 -Midwest WIM Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:16:22.854Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=29&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=29&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2277",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2277&clubId=40319",
+   "date": "2023-08-13",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U11",
+    "MVP U11"
+   ],
+   "teamIds": [
+    "555",
+    "556"
+   ],
+   "ground": "TBD",
+   "result": "MYCA(MN) U11 won by 11 Runs (D/L)",
+   "summary": "MYCA(MN) U11: 132/5(25) MVP U11: 88/6(19.3)"
+  },
+  {
+   "matchId": "1775",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1775&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U11",
+    "MVP U11"
+   ],
+   "teamIds": [
+    "555",
+    "556"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA(MN) U11 won by 7 Wickets",
+   "summary": "MVP U11: 104/5(20) MYCA(MN) U11: 105/3(17.4)"
+  },
+  {
+   "matchId": "1340",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1340&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "MYCA(MN) U11",
+    "MVP U11"
+   ],
+   "teamIds": [
+    "555",
+    "556"
+   ],
+   "ground": "TBD",
+   "result": "MYCA(MN) U11 won by 95 Runs",
+   "summary": "MYCA(MN) U11: 119/4(20) MVP U11: 24/9(10.3)"
+  }
+ ]
+}

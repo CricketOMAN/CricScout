@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s152",
+  "id": "legacy-371",
+  "name": "USAC 2025 Houston Regional U13"
+ },
+ "fetchedAt": "2026-11-13T22:15:47.789Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=371&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=371&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5932&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Houston Red",
+    "Houston Green"
+   ],
+   "teamIds": [
+    "2160",
+    "2162"
+   ],
+   "ground": "JCP",
+   "result": "Houston Green: 2/0 (1.2/30 ov)",
+   "summary": "Houston Green: 2/0(1.2) Live"
+  },
+  {
+   "matchId": "5915",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5915&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Houston Blue",
+    "Austin"
+   ],
+   "teamIds": [
+    "2161",
+    "2163"
+   ],
+   "ground": "JCP",
+   "result": "Austin: 140/5 (30/30 ov) Houston Blue: 19/0 (3.1/30 ov)",
+   "summary": "Austin: 140/5(30) Houston Blue: 19/0(3.1) Live"
+  },
+  {
+   "matchId": "5906",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5906&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Houston Green",
+    "Houston Blue"
+   ],
+   "teamIds": [
+    "2162",
+    "2161"
+   ],
+   "ground": "JCP",
+   "result": "Houston Blue won by 3 Wickets",
+   "summary": "Houston Green: 140/6(30) Houston Blue: 141/7(28.1)"
+  },
+  {
+   "matchId": "5882",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5882&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Houston Red",
+    "Austin"
+   ],
+   "teamIds": [
+    "2160",
+    "2163"
+   ],
+   "ground": "JCP",
+   "result": "Austin won by 7 Wickets",
+   "summary": "Houston Red: 124/10(29.5) Austin: 125/3(20.3)"
+  },
+  {
+   "matchId": "5871",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5871&clubId=40319",
+   "date": "2025-06-27",
+   "type": "League",
+   "teams": [
+    "Houston Green",
+    "Austin"
+   ],
+   "teamIds": [
+    "2162",
+    "2163"
+   ],
+   "ground": "JCP",
+   "result": "Austin won by 6 Wickets",
+   "summary": "Houston Green: 93/6(30) Austin: 95/4(24)"
+  },
+  {
+   "matchId": "5861",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5861&clubId=40319",
+   "date": "2025-06-27",
+   "type": "League",
+   "teams": [
+    "Houston Red",
+    "Houston Blue"
+   ],
+   "teamIds": [
+    "2160",
+    "2161"
+   ],
+   "ground": "JCP",
+   "result": "Houston Blue won by 3 Runs",
+   "summary": "Houston Blue: 112/6(30) Houston Red: 109/6(28.4)"
+  }
+ ]
+}

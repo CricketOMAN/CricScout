@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s80",
+  "id": "legacy-497",
+  "name": "USAC 2026 MA HUB U15"
+ },
+ "fetchedAt": "2026-11-13T21:47:27.335Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=497&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=497&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8949",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8949&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON TITANS",
+    "GWCA COSMOS"
+   ],
+   "teamIds": [
+    "2923",
+    "2921"
+   ],
+   "ground": "Knights Ground",
+   "result": "GWCA COSMOS won by 105 Runs",
+   "summary": "GWCA COSMOS: 241/4(30) SKA BOSTON TITANS: 136/5(30)"
+  },
+  {
+   "matchId": "8920",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8920&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "CricOne ATOMIC FORCE",
+    "SKA BOSTON TITANS"
+   ],
+   "teamIds": [
+    "2920",
+    "2923"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ATOMIC FORCE won by 8 Wickets",
+   "summary": "SKA BOSTON TITANS: 83/10(26) CricOne ATOMIC FORCE: 85/2(13.4)"
+  },
+  {
+   "matchId": "8897",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8897&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON TITANS",
+    "GWCA THUNDERS"
+   ],
+   "teamIds": [
+    "2923",
+    "2922"
+   ],
+   "ground": "Knights Ground",
+   "result": "GWCA THUNDERS won by 64 Runs",
+   "summary": "GWCA THUNDERS: 115/7(29.3) SKA BOSTON TITANS: 51/10(21.1)"
+  },
+  {
+   "matchId": "8872",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8872&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "GWCA COSMOS",
+    "GWCA THUNDERS"
+   ],
+   "teamIds": [
+    "2921",
+    "2922"
+   ],
+   "ground": "VVP Billerica",
+   "result": "GWCA THUNDERS won by 3 Wickets",
+   "summary": "GWCA COSMOS: 109/10(28) GWCA THUNDERS: 111/7(27.2)"
+  },
+  {
+   "matchId": "8827",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8827&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON TITANS",
+    "GWCA COSMOS"
+   ],
+   "teamIds": [
+    "2923",
+    "2921"
+   ],
+   "ground": "Knights Ground",
+   "result": "GWCA COSMOS won by 2 Wickets",
+   "summary": "SKA BOSTON TITANS: 77/10(26.1) GWCA COSMOS: 78/8(20.3)"
+  },
+  {
+   "matchId": "8804",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8804&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "CricOne ATOMIC FORCE",
+    "GWCA THUNDERS"
+   ],
+   "teamIds": [
+    "2920",
+    "2922"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ATOMIC FORCE won by 80 Runs",
+   "summary": "CricOne ATOMIC FORCE: 160/5(30) GWCA THUNDERS: 80/10(28.4)"
+  },
+  {
+   "matchId": "8759",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8759&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "CricOne ATOMIC FORCE",
+    "GWCA THUNDERS"
+   ],
+   "teamIds": [
+    "2920",
+    "2922"
+   ],
+   "ground": "VVP Billerica",
+   "result": "CricOne ATOMIC FORCE won by 7 Wickets",
+   "summary": "GWCA THUNDERS: 131/10(30) CricOne ATOMIC FORCE: 135/3(23.2)"
+  },
+  {
+   "matchId": "8738",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8738&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "CricOne ATOMIC FORCE",
+    "GWCA COSMOS"
+   ],
+   "teamIds": [
+    "2920",
+    "2921"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ATOMIC FORCE won by 4 Wickets",
+   "summary": "GWCA COSMOS: 106/10(27.3) CricOne ATOMIC FORCE: 107/6(23.3)"
+  },
+  {
+   "matchId": "8684",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8684&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "GWCA COSMOS",
+    "GWCA THUNDERS"
+   ],
+   "teamIds": [
+    "2921",
+    "2922"
+   ],
+   "ground": "Knights Ground",
+   "result": "GWCA THUNDERS won by 7 Wickets",
+   "summary": "GWCA COSMOS: 134/9(30) GWCA THUNDERS: 138/3(25.3)"
+  },
+  {
+   "matchId": "8600",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8600&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "CricOne ATOMIC FORCE",
+    "GWCA COSMOS"
+   ],
+   "teamIds": [
+    "2920",
+    "2921"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ATOMIC FORCE won by 5 Wickets",
+   "summary": "GWCA COSMOS: 80/10(25.2) CricOne ATOMIC FORCE: 81/5(23.1)"
+  },
+  {
+   "matchId": "8565",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8565&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "GWCA THUNDERS",
+    "SKA BOSTON TITANS"
+   ],
+   "teamIds": [
+    "2922",
+    "2923"
+   ],
+   "ground": "Knights Ground",
+   "result": "GWCA THUNDERS won by 106 Runs",
+   "summary": "GWCA THUNDERS: 165/7(30) SKA BOSTON TITANS: 59/11(21.1)"
+  },
+  {
+   "matchId": "8539",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8539&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "CricOne ATOMIC FORCE",
+    "SKA BOSTON TITANS"
+   ],
+   "teamIds": [
+    "2920",
+    "2923"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ATOMIC FORCE won by 9 Wickets",
+   "summary": "SKA BOSTON TITANS: 23/10(18.4) CricOne ATOMIC FORCE: 24/1(3.5)"
+  },
+  {
+   "matchId": "8372",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8372&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON TITANS",
+    "GWCA THUNDERS"
+   ],
+   "teamIds": [
+    "2923",
+    "2922"
+   ],
+   "ground": "Knights Ground",
+   "result": "GWCA THUNDERS won by 191 Runs",
+   "summary": "GWCA THUNDERS: 217/10(29.4) SKA BOSTON TITANS: 26/10(16.1)"
+  },
+  {
+   "matchId": "8160",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8160&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "GWCA COSMOS",
+    "CricOne ATOMIC FORCE"
+   ],
+   "teamIds": [
+    "2921",
+    "2920"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ATOMIC FORCE won by 2 Wickets",
+   "summary": "GWCA COSMOS: 110/10(24) CricOne ATOMIC FORCE: 111/8(29.1)"
+  },
+  {
+   "matchId": "7787",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7787&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "CricOne ATOMIC FORCE",
+    "GWCA THUNDERS"
+   ],
+   "teamIds": [
+    "2920",
+    "2922"
+   ],
+   "ground": "Chauncy Field #1",
+   "result": "CricOne ATOMIC FORCE won by 7 Wickets",
+   "summary": "GWCA THUNDERS: 170/9(30) CricOne ATOMIC FORCE: 176/3(28.5)"
+  }
+ ]
+}

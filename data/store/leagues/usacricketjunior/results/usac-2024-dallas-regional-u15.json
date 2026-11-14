@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s237",
+  "id": "legacy-227",
+  "name": "USAC 2024 Dallas Regional U15"
+ },
+ "fetchedAt": "2026-11-13T22:39:24.308Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=227&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=227&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3848",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3848&clubId=40319",
+   "date": "2024-08-04",
+   "type": "Final",
+   "teams": [
+    "Dallas U15 Titans",
+    "Dallas U15 Royals"
+   ],
+   "teamIds": [
+    "1339",
+    "1340"
+   ],
+   "ground": "Sandy Lake",
+   "result": "Dallas U15 Royals won by 8 Wickets",
+   "summary": "Dallas U15 Titans: 206/8(30) Dallas U15 Royals: 210/2(29.1)"
+  },
+  {
+   "matchId": "3846",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3846&clubId=40319",
+   "date": "2024-08-04",
+   "type": "3rd Position",
+   "teams": [
+    "Colorado U15 Denver Warriors",
+    "Dallas U15 Kings"
+   ],
+   "teamIds": [
+    "1341",
+    "1338"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Kings won by 3 Wickets",
+   "summary": "Colorado U15 Denver Warriors: 98/10(18.2) Dallas U15 Kings: 99/7(17.3)"
+  },
+  {
+   "matchId": "3834",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3834&clubId=40319",
+   "date": "2024-08-04",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Royals",
+    "Colorado U15 Denver Warriors"
+   ],
+   "teamIds": [
+    "1340",
+    "1341"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Royals won by 2 Wickets",
+   "summary": "Colorado U15 Denver Warriors: 133/10(29.5) Dallas U15 Royals: 134/8(26.4)"
+  },
+  {
+   "matchId": "3832",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3832&clubId=40319",
+   "date": "2024-08-04",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Kings",
+    "Dallas U15 Titans"
+   ],
+   "teamIds": [
+    "1338",
+    "1339"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Titans won by 9 Wickets",
+   "summary": "Dallas U15 Kings: 141/9(30) Dallas U15 Titans: 142/1(18.2)"
+  },
+  {
+   "matchId": "3821",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3821&clubId=40319",
+   "date": "2024-08-03",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Kings",
+    "Dallas U15 Royals"
+   ],
+   "teamIds": [
+    "1338",
+    "1340"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Royals won by 4 Wickets",
+   "summary": "Dallas U15 Kings: 130/10(36.5) Dallas U15 Royals: 131/6(31.3)"
+  },
+  {
+   "matchId": "3820",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3820&clubId=40319",
+   "date": "2024-08-03",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Titans",
+    "Colorado U15 Denver Warriors"
+   ],
+   "teamIds": [
+    "1339",
+    "1341"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Titans won by 31 Runs",
+   "summary": "Dallas U15 Titans: 235/10(40) Colorado U15 Denver Warriors: 204/8(40)"
+  },
+  {
+   "matchId": "3810",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3810&clubId=40319",
+   "date": "2024-08-02",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Kings",
+    "Colorado U15 Denver Warriors"
+   ],
+   "teamIds": [
+    "1338",
+    "1341"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Kings won by 157 Runs",
+   "summary": "Dallas U15 Kings: 299/6(40) Colorado U15 Denver Warriors: 142/10(28.1)"
+  },
+  {
+   "matchId": "3808",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3808&clubId=40319",
+   "date": "2024-08-02",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Titans",
+    "Dallas U15 Royals"
+   ],
+   "teamIds": [
+    "1339",
+    "1340"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Titans won by 4 Wickets",
+   "summary": "Dallas U15 Royals: 233/5(40) Dallas U15 Titans: 238/6(37.5)"
+  }
+ ]
+}

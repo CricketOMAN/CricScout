@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s261",
+  "id": "legacy-198",
+  "name": "Development - East Midwest Hub U11"
+ },
+ "fetchedAt": "2026-11-13T22:42:29.004Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=198&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=198&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4069",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4069&clubId=40319",
+   "date": "2024-09-14",
+   "type": "League",
+   "teams": [
+    "AYCA-U11",
+    "ICY- U11"
+   ],
+   "teamIds": [
+    "1224",
+    "1205"
+   ],
+   "ground": "QUINN PARK",
+   "result": "AYCA-U11 won by 130 Runs",
+   "summary": "AYCA-U11: 286/7(25) ICY- U11: 156/6(22)"
+  },
+  {
+   "matchId": "3011",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3011&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "ICY- U11",
+    "Crics - U11"
+   ],
+   "teamIds": [
+    "1205",
+    "1207"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "ICY- U11 won by 113 Runs",
+   "summary": "ICY- U11: 152/9(25) Crics - U11: 39/9(11.5)"
+  },
+  {
+   "matchId": "2921",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2921&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "ICY- U11",
+    "LCC - U11"
+   ],
+   "teamIds": [
+    "1205",
+    "1206"
+   ],
+   "ground": "Sunil Gavaskar Cricket Field",
+   "result": "ICY- U11 won by 3 Wickets",
+   "summary": "LCC - U11: 145/5(24) ICY- U11: 146/7(23.5)"
+  }
+ ]
+}

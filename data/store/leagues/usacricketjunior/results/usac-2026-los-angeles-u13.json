@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s98",
+  "id": "legacy-479",
+  "name": "USAC 2026 - Los Angeles - U13"
+ },
+ "fetchedAt": "2026-11-13T21:49:47.049Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=479&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=479&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "7821",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7821&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "San Diego Bolts RED",
+    "SCVCA - SCCAY"
+   ],
+   "teamIds": [
+    "2814",
+    "2815"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "SCVCA - SCCAY won by 1 Wicket",
+   "summary": "San Diego Bolts RED: 144/13(26.1) SCVCA - SCCAY: 175/9(23.5)"
+  },
+  {
+   "matchId": "7820",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7820&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "San Diego Bolts BLUE",
+    "Surf Riders - SCYCA RED"
+   ],
+   "teamIds": [
+    "2813",
+    "2818"
+   ],
+   "ground": "Canyonside Park",
+   "result": "San Diego Bolts BLUE won by 81 Runs",
+   "summary": "San Diego Bolts BLUE: 202/8(30) Surf Riders - SCYCA RED: 121/11(22.1)"
+  },
+  {
+   "matchId": "7812",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7812&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "SCYCA BLUE",
+    "WYCA - NextGen"
+   ],
+   "teamIds": [
+    "2816",
+    "2817"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "WYCA - NextGen won by 0 Wickets (D/L)",
+   "summary": "SCYCA BLUE: 118/11(25.3) WYCA - NextGen: 172/10(27.5)"
+  },
+  {
+   "matchId": "7726",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7726&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "San Diego Bolts BLUE",
+    "SCYCA BLUE"
+   ],
+   "teamIds": [
+    "2813",
+    "2816"
+   ],
+   "ground": "Canyonside Park",
+   "result": "San Diego Bolts BLUE won by 20 Runs",
+   "summary": "San Diego Bolts BLUE: 202/10(30) SCYCA BLUE: 182/10(28.3)"
+  },
+  {
+   "matchId": "7725",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7725&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "WYCA - NextGen",
+    "Surf Riders - SCYCA RED"
+   ],
+   "teamIds": [
+    "2817",
+    "2818"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "WYCA - NextGen won by -1 Wickets (D/L)",
+   "summary": "Surf Riders - SCYCA RED: 78/11(17.2) WYCA - NextGen: 214/11(25.5)"
+  },
+  {
+   "matchId": "7612",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7612&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "San Diego Bolts RED",
+    "SCYCA BLUE"
+   ],
+   "teamIds": [
+    "2814",
+    "2816"
+   ],
+   "ground": "Cypress Community Park",
+   "result": "San Diego Bolts RED won by 45 Runs",
+   "summary": "San Diego Bolts RED: 192/10(22.5) SCYCA BLUE: 147/10(24.4)"
+  },
+  {
+   "matchId": "7610",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7610&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "WYCA - NextGen",
+    "San Diego Bolts BLUE"
+   ],
+   "teamIds": [
+    "2817",
+    "2813"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "WYCA - NextGen won by 27 Runs",
+   "summary": "WYCA - NextGen: 107/12(27.2) San Diego Bolts BLUE: 80/10(21.4)"
+  },
+  {
+   "matchId": "7588",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7588&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Surf Riders - SCYCA RED",
+    "SCVCA - SCCAY"
+   ],
+   "teamIds": [
+    "2818",
+    "2815"
+   ],
+   "ground": "Cypress Community Park",
+   "result": "Surf Riders - SCYCA RED won by 0 Wickets",
+   "summary": "SCVCA - SCCAY: 127/10(30.2) Surf Riders - SCYCA RED: 128/10(26)"
+  },
+  {
+   "matchId": "7515",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7515&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "San Diego Bolts BLUE",
+    "SCVCA - SCCAY"
+   ],
+   "teamIds": [
+    "2813",
+    "2815"
+   ],
+   "ground": "Canyonside Park",
+   "result": "San Diego Bolts BLUE won by 0 Wickets",
+   "summary": "SCVCA - SCCAY: 147/9(25) San Diego Bolts BLUE: 149/10(28.5)"
+  },
+  {
+   "matchId": "7512",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7512&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Surf Riders - SCYCA RED",
+    "San Diego Bolts RED"
+   ],
+   "teamIds": [
+    "2818",
+    "2814"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "Surf Riders - SCYCA RED won by 1 Wicket",
+   "summary": "San Diego Bolts RED: 204/11(30) Surf Riders - SCYCA RED: 208/9(22.5)"
+  },
+  {
+   "matchId": "7399",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7399&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "SCVCA - SCCAY",
+    "WYCA - NextGen"
+   ],
+   "teamIds": [
+    "2815",
+    "2817"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "WYCA - NextGen won by 74 Runs",
+   "summary": "WYCA - NextGen: 191/6(28.5) SCVCA - SCCAY: 117/10(25)"
+  },
+  {
+   "matchId": "7397",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7397&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "SCYCA BLUE",
+    "Surf Riders - SCYCA RED"
+   ],
+   "teamIds": [
+    "2816",
+    "2818"
+   ],
+   "ground": "Cypress Community Park",
+   "result": "SCYCA BLUE won by 41 Runs",
+   "summary": "SCYCA BLUE: 175/11(23.3) Surf Riders - SCYCA RED: 134/10(22)"
+  },
+  {
+   "matchId": "7386",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7386&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "San Diego Bolts RED",
+    "San Diego Bolts BLUE"
+   ],
+   "teamIds": [
+    "2814",
+    "2813"
+   ],
+   "ground": "Canyonside Park",
+   "result": "San Diego Bolts BLUE won by 110 Runs",
+   "summary": "San Diego Bolts BLUE: 197/9(25.5) San Diego Bolts RED: 87/11(18.1)"
+  },
+  {
+   "matchId": "7359",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7359&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "WYCA - NextGen",
+    "San Diego Bolts RED"
+   ],
+   "teamIds": [
+    "2817",
+    "2814"
+   ],
+   "ground": "Canyonside Park",
+   "result": "WYCA - NextGen won by 21 Runs",
+   "summary": "WYCA - NextGen: 113/5(18.5) San Diego Bolts RED: 92/7(19.5)"
+  },
+  {
+   "matchId": "7357",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7357&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "SCVCA - SCCAY",
+    "SCYCA BLUE"
+   ],
+   "teamIds": [
+    "2815",
+    "2816"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "SCYCA BLUE won by 7 Runs",
+   "summary": "SCYCA BLUE: 132/10(24) SCVCA - SCCAY: 125/10(24)"
+  }
+ ]
+}

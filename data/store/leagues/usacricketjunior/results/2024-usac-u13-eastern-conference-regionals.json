@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s226",
+  "id": "legacy-244",
+  "name": "2024 USAC U13 - Eastern Conference Regionals"
+ },
+ "fetchedAt": "2026-11-13T22:39:14.850Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=244&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=244&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3964",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3964&clubId=40319",
+   "date": "2024-08-25",
+   "type": "Super League",
+   "teams": [
+    "Team DC",
+    "EMW"
+   ],
+   "teamIds": [
+    "1368",
+    "1372"
+   ],
+   "ground": "WCC 4",
+   "result": "Team DC won by 74 Runs",
+   "summary": "Team DC: 165/10(30) EMW: 91/10(20.2)"
+  },
+  {
+   "matchId": "3963",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3963&clubId=40319",
+   "date": "2024-08-25",
+   "type": "Super League",
+   "teams": [
+    "Team NC",
+    "Team NY"
+   ],
+   "teamIds": [
+    "1371",
+    "1370"
+   ],
+   "ground": "WCC 3",
+   "result": "Team NY won by 4 Wickets",
+   "summary": "Team NC: 181/7(30) Team NY: 184/6(27.4)"
+  },
+  {
+   "matchId": "3962",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3962&clubId=40319",
+   "date": "2024-08-25",
+   "type": "Final",
+   "teams": [
+    "Team NJ",
+    "Team GA"
+   ],
+   "teamIds": [
+    "1369",
+    "1373"
+   ],
+   "ground": "WCC 1",
+   "result": "Team NJ won by 8 Wickets",
+   "summary": "Team GA: 192/6(30) Team NJ: 194/2(19.4)"
+  },
+  {
+   "matchId": "3959",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3959&clubId=40319",
+   "date": "2024-08-24",
+   "type": "League",
+   "teams": [
+    "EMW",
+    "Team NY"
+   ],
+   "teamIds": [
+    "1372",
+    "1370"
+   ],
+   "ground": "WCC 1",
+   "result": "Team NY won by 33 Runs",
+   "summary": "Team NY: 225/9(30.1) EMW: 192/9(30)"
+  },
+  {
+   "matchId": "3958",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3958&clubId=40319",
+   "date": "2024-08-24",
+   "type": "League",
+   "teams": [
+    "Team DC",
+    "Team NC"
+   ],
+   "teamIds": [
+    "1368",
+    "1371"
+   ],
+   "ground": "WCC 4",
+   "result": "Team DC won by 130 Runs",
+   "summary": "Team DC: 158/10(30) Team NC: 28/10(16.2)"
+  },
+  {
+   "matchId": "3957",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3957&clubId=40319",
+   "date": "2024-08-24",
+   "type": "League",
+   "teams": [
+    "Team GA",
+    "Team NJ"
+   ],
+   "teamIds": [
+    "1373",
+    "1369"
+   ],
+   "ground": "WCC 3",
+   "result": "Team NJ won by 6 Wickets",
+   "summary": "Team GA: 168/10(30) Team NJ: 169/4(26.2)"
+  },
+  {
+   "matchId": "3955",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3955&clubId=40319",
+   "date": "2024-08-23",
+   "type": "League",
+   "teams": [
+    "Team GA",
+    "Team NC"
+   ],
+   "teamIds": [
+    "1373",
+    "1371"
+   ],
+   "ground": "WCC 1",
+   "result": "Team GA won by 4 Wickets",
+   "summary": "Team NC: 145/8(30) Team GA: 149/6(23.1)"
+  },
+  {
+   "matchId": "3954",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3954&clubId=40319",
+   "date": "2024-08-23",
+   "type": "League",
+   "teams": [
+    "Team DC",
+    "Team NY"
+   ],
+   "teamIds": [
+    "1368",
+    "1370"
+   ],
+   "ground": "WCC 3",
+   "result": "Team DC won by 4 Runs",
+   "summary": "Team DC: 190/7(30) Team NY: 186/6(30)"
+  },
+  {
+   "matchId": "3953",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3953&clubId=40319",
+   "date": "2024-08-23",
+   "type": "League",
+   "teams": [
+    "EMW",
+    "Team NJ"
+   ],
+   "teamIds": [
+    "1372",
+    "1369"
+   ],
+   "ground": "WCC 4",
+   "result": "Team NJ won by 106 Runs",
+   "summary": "Team NJ: 183/8(30) EMW: 77/10(20.5)"
+  },
+  {
+   "matchId": "3951",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3951&clubId=40319",
+   "date": "2024-08-22",
+   "type": "League",
+   "teams": [
+    "EMW",
+    "Team NC"
+   ],
+   "teamIds": [
+    "1372",
+    "1371"
+   ],
+   "ground": "WCC 3",
+   "result": "Team NC won by 4 Wickets",
+   "summary": "EMW: 117/10(29.2) Team NC: 118/6(21.4)"
+  },
+  {
+   "matchId": "3950",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3950&clubId=40319",
+   "date": "2024-08-22",
+   "type": "League",
+   "teams": [
+    "Team GA",
+    "Team NY"
+   ],
+   "teamIds": [
+    "1373",
+    "1370"
+   ],
+   "ground": "WCC 4",
+   "result": "Team GA won by 43 Runs",
+   "summary": "Team GA: 151/6(30) Team NY: 108/10(19.3)"
+  },
+  {
+   "matchId": "3949",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3949&clubId=40319",
+   "date": "2024-08-22",
+   "type": "League",
+   "teams": [
+    "Team DC",
+    "Team NJ"
+   ],
+   "teamIds": [
+    "1368",
+    "1369"
+   ],
+   "ground": "WCC 1",
+   "result": "Team NJ won by 82 Runs",
+   "summary": "Team NJ: 223/5(30) Team DC: 141/10(29.2)"
+  }
+ ]
+}

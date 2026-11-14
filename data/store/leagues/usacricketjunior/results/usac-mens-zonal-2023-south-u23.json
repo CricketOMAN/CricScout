@@ -1,0 +1,48 @@
+{
+ "season": {
+  "key": "s282",
+  "id": "legacy-130",
+  "name": "USAC Mens Zonal 2023 - South U23"
+ },
+ "fetchedAt": "2026-11-13T22:57:17.655Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=130&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=130&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2439",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2439&clubId=40319",
+   "date": "2023-09-24",
+   "type": "League",
+   "teams": [
+    "U23 RED",
+    "U23 Blue"
+   ],
+   "teamIds": [
+    "833",
+    "834"
+   ],
+   "ground": "PARAM - G2",
+   "result": "U23 Blue won by 130 Runs",
+   "summary": "U23 Blue: 267/9(50) U23 RED: 137/10(35.4)"
+  },
+  {
+   "matchId": "2426",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2426&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "U23 Blue",
+    "U23 RED"
+   ],
+   "teamIds": [
+    "834",
+    "833"
+   ],
+   "ground": "PARAM - G2",
+   "result": "U23 RED won by 91 Runs",
+   "summary": "U23 RED: 283/9(50) U23 Blue: 192/10(47)"
+  }
+ ]
+}

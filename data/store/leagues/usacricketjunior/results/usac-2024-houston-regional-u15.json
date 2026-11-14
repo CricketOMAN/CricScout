@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s240",
+  "id": "legacy-223",
+  "name": "USAC 2024 Houston Regional U15"
+ },
+ "fetchedAt": "2026-11-13T22:39:26.923Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=223&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=223&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3790",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3790&clubId=40319",
+   "date": "2024-07-31",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Houston Red"
+   ],
+   "teamIds": [
+    "1313",
+    "1315"
+   ],
+   "ground": "MatzkeW",
+   "result": "Houston Red won by 1 Wicket",
+   "summary": "Austin: 155/8(40) Houston Red: 156/9(37.4)"
+  },
+  {
+   "matchId": "3789",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3789&clubId=40319",
+   "date": "2024-07-30",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Houston Blue"
+   ],
+   "teamIds": [
+    "1313",
+    "1314"
+   ],
+   "ground": "MatzkeW",
+   "result": "Houston Blue won by 126 Runs",
+   "summary": "Houston Blue: 215/10(40) Austin: 89/10(32.4)"
+  },
+  {
+   "matchId": "3787",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3787&clubId=40319",
+   "date": "2024-07-29",
+   "type": "League",
+   "teams": [
+    "Houston Blue",
+    "Houston Red"
+   ],
+   "teamIds": [
+    "1314",
+    "1315"
+   ],
+   "ground": "MatzkeW",
+   "result": "Houston Red won by 9 Runs",
+   "summary": "Houston Red: 101/8(25) Houston Blue: 92/10(23.4)"
+  }
+ ]
+}

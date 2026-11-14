@@ -1,0 +1,371 @@
+{
+ "season": {
+  "key": "s90",
+  "id": "legacy-487",
+  "name": "USAC 2026 - North Carolina - U13"
+ },
+ "fetchedAt": "2026-11-13T21:49:40.296Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=487&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=487&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8572",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8572&clubId=40319",
+   "date": "2026-06-07",
+   "type": "Super League",
+   "teams": [
+    "Grizzlies - U13",
+    "Hurricanes - U13"
+   ],
+   "teamIds": [
+    "2874",
+    "2869"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Grizzlies - U13 won by 58 Runs",
+   "summary": "Grizzlies - U13: 215/3(30) Hurricanes - U13: 157/10(27.1)"
+  },
+  {
+   "matchId": "8568",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8568&clubId=40319",
+   "date": "2026-06-07",
+   "type": "Super League",
+   "teams": [
+    "Sixers - U13",
+    "Renegades - U13"
+   ],
+   "teamIds": [
+    "2872",
+    "2870"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Sixers - U13 won by 9 Runs",
+   "summary": "Sixers - U13: 150/6(30) Renegades - U13: 141/8(26.3)"
+  },
+  {
+   "matchId": "8500",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8500&clubId=40319",
+   "date": "2026-06-06",
+   "type": "Super League",
+   "teams": [
+    "Stars - U13",
+    "Sixers - U13"
+   ],
+   "teamIds": [
+    "2871",
+    "2872"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Sixers - U13 won by 5 Wickets",
+   "summary": "Stars - U13: 144/8(30) Sixers - U13: 145/5(25)"
+  },
+  {
+   "matchId": "8499",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8499&clubId=40319",
+   "date": "2026-06-06",
+   "type": "Super League",
+   "teams": [
+    "Hurricanes - U13",
+    "Thunders - U13"
+   ],
+   "teamIds": [
+    "2869",
+    "2873"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Hurricanes - U13 won by 3 Wickets",
+   "summary": "Thunders - U13: 184/6(30) Hurricanes - U13: 185/7(29)"
+  },
+  {
+   "matchId": "8385",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8385&clubId=40319",
+   "date": "2026-05-31",
+   "type": "Super League",
+   "teams": [
+    "Grizzlies - U13",
+    "Thunders - U13"
+   ],
+   "teamIds": [
+    "2874",
+    "2873"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Thunders - U13 won by 6 Runs",
+   "summary": "Thunders - U13: 156/3(30) Grizzlies - U13: 150/7(30.2)"
+  },
+  {
+   "matchId": "8382",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8382&clubId=40319",
+   "date": "2026-05-31",
+   "type": "Super League",
+   "teams": [
+    "Stars - U13",
+    "Renegades - U13"
+   ],
+   "teamIds": [
+    "2871",
+    "2870"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Renegades - U13 won by 126 Runs",
+   "summary": "Renegades - U13: 197/6(30) Stars - U13: 71/9(19.1)"
+  },
+  {
+   "matchId": "8174",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8174&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Hurricanes - U13",
+    "Grizzlies - U13"
+   ],
+   "teamIds": [
+    "2869",
+    "2874"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Grizzlies - U13 won by 5 Wickets",
+   "summary": "Hurricanes - U13: 206/8(30) Grizzlies - U13: 209/5(29.3)"
+  },
+  {
+   "matchId": "8170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8170&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Renegades - U13",
+    "Stars - U13"
+   ],
+   "teamIds": [
+    "2870",
+    "2871"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Renegades - U13 won by 50 Runs",
+   "summary": "Renegades - U13: 239/5(30) Stars - U13: 189/10(29.2)"
+  },
+  {
+   "matchId": "8055",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8055&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Sixers - U13",
+    "Thunders - U13"
+   ],
+   "teamIds": [
+    "2872",
+    "2873"
+   ],
+   "ground": "NC Hub Harvel Park",
+   "result": "Sixers - U13 won by 12 Runs",
+   "summary": "Sixers - U13: 160/3(30) Thunders - U13: 148/8(30)"
+  },
+  {
+   "matchId": "7960",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7960&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Thunders - U13",
+    "Grizzlies - U13"
+   ],
+   "teamIds": [
+    "2873",
+    "2874"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Grizzlies - U13 won by 2 Wickets",
+   "summary": "Thunders - U13: 194/6(30) Grizzlies - U13: 197/8(29)"
+  },
+  {
+   "matchId": "7956",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7956&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Hurricanes - U13",
+    "Sixers - U13"
+   ],
+   "teamIds": [
+    "2869",
+    "2872"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Sixers - U13 won by 23 Runs",
+   "summary": "Sixers - U13: 163/8(30) Hurricanes - U13: 140/10(28.1)"
+  },
+  {
+   "matchId": "7759",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7759&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Stars - U13",
+    "Sixers - U13"
+   ],
+   "teamIds": [
+    "2871",
+    "2872"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Stars - U13 won by 24 Runs",
+   "summary": "Stars - U13: 209/4(30) Sixers - U13: 185/10(26.1)"
+  },
+  {
+   "matchId": "7752",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7752&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Renegades - U13",
+    "Thunders - U13"
+   ],
+   "teamIds": [
+    "2870",
+    "2873"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Renegades - U13 won by 8 Wickets",
+   "summary": "Thunders - U13: 159/7(30) Renegades - U13: 162/2(19.1)"
+  },
+  {
+   "matchId": "7539",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7539&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Hurricanes - U13",
+    "Stars - U13"
+   ],
+   "teamIds": [
+    "2869",
+    "2871"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Stars - U13 won by 1 Wicket",
+   "summary": "Hurricanes - U13: 180/8(30) Stars - U13: 181/9(25)"
+  },
+  {
+   "matchId": "7537",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7537&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Renegades - U13",
+    "Grizzlies - U13"
+   ],
+   "teamIds": [
+    "2870",
+    "2874"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Renegades - U13 won by 39 Runs",
+   "summary": "Renegades - U13: 235/4(30) Grizzlies - U13: 196/10(30)"
+  },
+  {
+   "matchId": "7371",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7371&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Hurricanes - U13",
+    "Thunders - U13"
+   ],
+   "teamIds": [
+    "2869",
+    "2873"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Thunders - U13 won by 1 Wicket",
+   "summary": "Hurricanes - U13: 217/9(30) Thunders - U13: 218/9(30)"
+  },
+  {
+   "matchId": "7370",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7370&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Renegades - U13",
+    "Sixers - U13"
+   ],
+   "teamIds": [
+    "2870",
+    "2872"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Sixers - U13 won by 8 Runs",
+   "summary": "Sixers - U13: 165/9(30) Renegades - U13: 157/10(28.5)"
+  },
+  {
+   "matchId": "7289",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7289&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Stars - U13",
+    "Grizzlies - U13"
+   ],
+   "teamIds": [
+    "2871",
+    "2874"
+   ],
+   "ground": "NC Hub Harvel Park",
+   "result": "Stars - U13 won by 57 Runs",
+   "summary": "Stars - U13: 292/4(30) Grizzlies - U13: 235/7(30)"
+  },
+  {
+   "matchId": "7252",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7252&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "Stars - U13",
+    "Thunders - U13"
+   ],
+   "teamIds": [
+    "2871",
+    "2873"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Stars - U13 won by 8 Wickets",
+   "summary": "Thunders - U13: 220/8(30) Stars - U13: 222/2(27)"
+  },
+  {
+   "matchId": "7251",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7251&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "Hurricanes - U13",
+    "Renegades - U13"
+   ],
+   "teamIds": [
+    "2869",
+    "2870"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Hurricanes - U13 won by 5 Wickets",
+   "summary": "Renegades - U13: 85/10(18) Hurricanes - U13: 86/5(15.5)"
+  },
+  {
+   "matchId": "7211",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7211&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Sixers - U13",
+    "Grizzlies - U13"
+   ],
+   "teamIds": [
+    "2872",
+    "2874"
+   ],
+   "ground": "NC Hub Harvel Park",
+   "result": "Sixers - U13 won by 2 Wickets",
+   "summary": "Grizzlies - U13: 172/8(30) Sixers - U13: 173/8(26.3)"
+  }
+ ]
+}

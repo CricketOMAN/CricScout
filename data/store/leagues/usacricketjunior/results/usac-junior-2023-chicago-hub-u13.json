@@ -1,0 +1,235 @@
+{
+ "season": {
+  "key": "s360",
+  "id": "legacy-34",
+  "name": "USAC Junior 2023 -Chicago Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:16:18.334Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=34&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=34&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2225",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2225&clubId=40319",
+   "date": "2023-08-06",
+   "type": "Final",
+   "teams": [
+    "CYCA BEARS",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "614",
+    "616"
+   ],
+   "ground": "DEEPRK",
+   "result": "BPL Warriors won by 3 Wickets",
+   "summary": "CYCA BEARS: 150/6(30) BPL Warriors: 151/7(30)"
+  },
+  {
+   "matchId": "2202",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2202&clubId=40319",
+   "date": "2023-08-04",
+   "type": "Semi Final",
+   "teams": [
+    "BPL Rising Star",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "617",
+    "616"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Warriors won by 6 Wickets",
+   "summary": "BPL Rising Star: 136/5(30) BPL Warriors: 137/4(28)"
+  },
+  {
+   "matchId": "2148",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2148&clubId=40319",
+   "date": "2023-07-30",
+   "type": "League",
+   "teams": [
+    "CYCA BEARS",
+    "CMCE U13"
+   ],
+   "teamIds": [
+    "614",
+    "613"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA BEARS won by 178 Runs",
+   "summary": "CYCA BEARS: 258/5(30) CMCE U13: 80/10(21)"
+  },
+  {
+   "matchId": "2086",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2086&clubId=40319",
+   "date": "2023-07-21",
+   "type": "League",
+   "teams": [
+    "BPL Rising Star",
+    "CYCA GRIZZLIES"
+   ],
+   "teamIds": [
+    "617",
+    "615"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Rising Star won by 6 Wickets",
+   "summary": "CYCA GRIZZLIES: 107/8(30) BPL Rising Star: 109/4(23.2)"
+  },
+  {
+   "matchId": "2085",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2085&clubId=40319",
+   "date": "2023-07-21",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CMCE U13"
+   ],
+   "teamIds": [
+    "616",
+    "613"
+   ],
+   "ground": "BPL",
+   "result": "BPL Warriors won by 127 Runs",
+   "summary": "BPL Warriors: 151/7(30) CMCE U13: 24/10(13)"
+  },
+  {
+   "matchId": "2077",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2077&clubId=40319",
+   "date": "2023-07-16",
+   "type": "League",
+   "teams": [
+    "CYCA GRIZZLIES",
+    "BPL Warriors"
+   ],
+   "teamIds": [
+    "615",
+    "616"
+   ],
+   "ground": "DEEPRK",
+   "result": "BPL Warriors won by 6 Wickets",
+   "summary": "CYCA GRIZZLIES: 104/10(30) BPL Warriors: 105/4(22)"
+  },
+  {
+   "matchId": "2070",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2070&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CYCA GRIZZLIES"
+   ],
+   "teamIds": [
+    "616",
+    "615"
+   ],
+   "ground": "BPL",
+   "result": "BPL Warriors won by 108 Runs",
+   "summary": "BPL Warriors: 168/8(30) CYCA GRIZZLIES: 60/10(22.3)"
+  },
+  {
+   "matchId": "2033",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2033&clubId=40319",
+   "date": "2023-07-09",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CYCA BEARS"
+   ],
+   "teamIds": [
+    "616",
+    "614"
+   ],
+   "ground": "BPL",
+   "result": "CYCA BEARS won by 62 Runs",
+   "summary": "CYCA BEARS: 180/7(30) BPL Warriors: 118/8(30)"
+  },
+  {
+   "matchId": "2021",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2021&clubId=40319",
+   "date": "2023-07-09",
+   "type": "League",
+   "teams": [
+    "CMCE U13",
+    "BPL Rising Star"
+   ],
+   "teamIds": [
+    "613",
+    "617"
+   ],
+   "ground": "BPL",
+   "result": "BPL Rising Star won by 13 Runs",
+   "summary": "BPL Rising Star: 116/6(30) CMCE U13: 103/4(30)"
+  },
+  {
+   "matchId": "2010",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2010&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "BPL Rising Star",
+    "CYCA BEARS"
+   ],
+   "teamIds": [
+    "617",
+    "614"
+   ],
+   "ground": "BPL",
+   "result": "CYCA BEARS won by 5 Wickets",
+   "summary": "BPL Rising Star: 90/6(30) CYCA BEARS: 91/5(16.5)"
+  },
+  {
+   "matchId": "1795",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1795&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "BPL Rising Star",
+    "CYCA GRIZZLIES"
+   ],
+   "teamIds": [
+    "617",
+    "615"
+   ],
+   "ground": "DEEPRK",
+   "result": "BPL Rising Star won by 20 Runs",
+   "summary": "BPL Rising Star: 176/6(24.5) CYCA GRIZZLIES: 156/7(25)"
+  },
+  {
+   "matchId": "1743",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1743&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "BPL Warriors",
+    "CYCA BEARS"
+   ],
+   "teamIds": [
+    "616",
+    "614"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA BEARS won by 7 Wickets",
+   "summary": "BPL Warriors: 101/10(28.1) CYCA BEARS: 102/3(15.1)"
+  },
+  {
+   "matchId": "1693",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1693&clubId=40319",
+   "date": "2023-06-09",
+   "type": "League",
+   "teams": [
+    "CMCE U13",
+    "CYCA BEARS"
+   ],
+   "teamIds": [
+    "613",
+    "614"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA BEARS won by 224 Runs",
+   "summary": "CYCA BEARS: 265/3(30) CMCE U13: 41/10(13.3)"
+  }
+ ]
+}

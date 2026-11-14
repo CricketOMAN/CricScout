@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s324",
+  "id": "legacy-83",
+  "name": "USAC Junior 2023 -Florida&nbsp;Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:10:51.663Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=83&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=83&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1347",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1347&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "Tampa",
+    "Orlando"
+   ],
+   "teamIds": [
+    "503",
+    "504"
+   ],
+   "ground": "Poinciana Ground",
+   "result": "Tampa won by 100 Runs",
+   "summary": "Tampa: 242/8(38.3) Orlando: 142/8(28)"
+  },
+  {
+   "matchId": "1245",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1245&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Tampa",
+    "Ft Lauderdale"
+   ],
+   "teamIds": [
+    "503",
+    "505"
+   ],
+   "ground": "John Mulins Park",
+   "result": "Ft Lauderdale won by 65 Runs",
+   "summary": "Ft Lauderdale: 196/9(38) Tampa: 131/9(36)"
+  },
+  {
+   "matchId": "1152",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1152&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "Orlando",
+    "Ft Lauderdale"
+   ],
+   "teamIds": [
+    "504",
+    "505"
+   ],
+   "ground": "Waverly Grounds",
+   "result": "It is a Tie",
+   "summary": "Orlando: 61/7(18.5) Ft Lauderdale: 61/2(12.2)"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s258",
+  "id": "legacy-201",
+  "name": "USAC JUNIOR 2024 -MIDWEST WIM HUB U13"
+ },
+ "fetchedAt": "2026-11-13T22:42:26.397Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=201&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=201&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3437",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3437&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "MYCA Blizzards",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "1216",
+    "1215"
+   ],
+   "ground": "IOWA Wilson Park",
+   "result": "MYCA Blizzards won by 4 Wickets",
+   "summary": "MVP U13: 76/10(22.2) MYCA Blizzards: 77/6(22.5)"
+  },
+  {
+   "matchId": "3429",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3429&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "WIM U13",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "1217",
+    "1216"
+   ],
+   "ground": "IOWA Wilson Park",
+   "result": "MYCA Blizzards won by 116 Runs",
+   "summary": "MYCA Blizzards: 135/9(24.3) WIM U13: 19/11(8.3)"
+  },
+  {
+   "matchId": "3408",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3408&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "WIM U13",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "1217",
+    "1215"
+   ],
+   "ground": "IOWA Wilson Park",
+   "result": "MVP U13 won by 81 Runs",
+   "summary": "MVP U13: 145/6(25) WIM U13: 64/10(21)"
+  },
+  {
+   "matchId": "3381",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3381&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "MYCA Blizzards",
+    "WIM U13"
+   ],
+   "teamIds": [
+    "1216",
+    "1217"
+   ],
+   "ground": "Zanewood MN",
+   "result": "MYCA Blizzards won by 110 Runs",
+   "summary": "MYCA Blizzards: 196/5(25) WIM U13: 86/4(25)"
+  },
+  {
+   "matchId": "3373",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3373&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "MVP U13",
+    "WIM U13"
+   ],
+   "teamIds": [
+    "1215",
+    "1217"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP U13 won by 145 Runs",
+   "summary": "MVP U13: 173/6(25) WIM U13: 28/10(12.4)"
+  },
+  {
+   "matchId": "3339",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3339&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "MVP U13",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "1215",
+    "1216"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Blizzards won by 62 Runs",
+   "summary": "MYCA Blizzards: 121/7(25) MVP U13: 59/10(22.1)"
+  },
+  {
+   "matchId": "3190",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3190&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "MYCA Blizzards",
+    "WIM U13"
+   ],
+   "teamIds": [
+    "1216",
+    "1217"
+   ],
+   "ground": "Hartkopf",
+   "result": "MYCA Blizzards won by 8 Wickets",
+   "summary": "WIM U13: 40/10(20.2) MYCA Blizzards: 41/2(5)"
+  },
+  {
+   "matchId": "3181",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3181&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "MVP U13",
+    "WIM U13"
+   ],
+   "teamIds": [
+    "1215",
+    "1217"
+   ],
+   "ground": "Ojibway Park Lacrosse Fields",
+   "result": "MVP U13 won by 9 Wickets",
+   "summary": "WIM U13: 29/10(16.1) MVP U13: 30/1(1.2)"
+  },
+  {
+   "matchId": "3051",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3051&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "MVP U13",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "1215",
+    "1216"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Blizzards won by 3 Wickets",
+   "summary": "MVP U13: 100/5(25) MYCA Blizzards: 101/7(24)"
+  }
+ ]
+}

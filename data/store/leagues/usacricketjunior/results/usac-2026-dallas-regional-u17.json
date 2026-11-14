@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s24",
+  "id": "legacy-571",
+  "name": "USAC 2026 Dallas Regional U17"
+ },
+ "fetchedAt": "2026-11-13T21:40:28.930Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=571&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=571&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8959",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8959&clubId=40319",
+   "date": "2026-07-01",
+   "type": "League",
+   "teams": [
+    "Dallas Titans",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "3355",
+    "3357"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas Titans won by 37 Runs",
+   "summary": "Dallas Titans: 209/7(40) Dallas Red: 172/9(36.1)"
+  },
+  {
+   "matchId": "8933",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8933&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Dallas Kings",
+    "Dallas Titans"
+   ],
+   "teamIds": [
+    "3356",
+    "3355"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "Dallas Titans won by 2 Wickets",
+   "summary": "Dallas Kings: 173/8(40) Dallas Titans: 174/8(39.1)"
+  },
+  {
+   "matchId": "8908",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8908&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Dallas Kings",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "3356",
+    "3357"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "Dallas Red won by 9 Wickets",
+   "summary": "Dallas Kings: 111/10(33.5) Dallas Red: 113/1(19)"
+  }
+ ]
+}

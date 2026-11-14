@@ -1,0 +1,1289 @@
+{
+ "season": {
+  "key": "s124",
+  "id": "legacy-446",
+  "name": "USAC 2026 - Dallas U13 Phase 1"
+ },
+ "fetchedAt": "2026-11-13T22:03:06.027Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=446&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=446&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8255",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8255&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "SAC Rahvans U13",
+    "VCA Red U13"
+   ],
+   "teamIds": [
+    "2644",
+    "2653"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U13 won by 3 Runs (D/L)",
+   "summary": "VCA Red U13: 133/10(30) SAC Rahvans U13: 124/8(29.1)"
+  },
+  {
+   "matchId": "8234",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8234&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "SAC Thunders U13",
+    "SKA Royals U13"
+   ],
+   "teamIds": [
+    "2645",
+    "2648"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SKA Royals U13 won by 19 Runs",
+   "summary": "SKA Royals U13: 179/9(29.5) SAC Thunders U13: 160/10(28)"
+  },
+  {
+   "matchId": "8231",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8231&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "DYCL Cheetahs U13"
+   ],
+   "teamIds": [
+    "2636",
+    "2639"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Titans U13 won by 26 Runs",
+   "summary": "CCA Titans U13: 178/7(30) DYCL Cheetahs U13: 152/9(30)"
+  },
+  {
+   "matchId": "8175",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8175&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "TCA Stallions U13",
+    "WCA Blasters U13"
+   ],
+   "teamIds": [
+    "2650",
+    "2655"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Forfeited. Winner: WCA Blasters U13",
+   "summary": "WCA Blasters U13: 104/10(22.4) TCA Stallions U13: 106/2(14)"
+  },
+  {
+   "matchId": "8154",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8154&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers RED U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2631",
+    "2651"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Broncos U13 won by 20 Runs",
+   "summary": "TCA Broncos U13: 203/8(30) All Stars Strikers RED U13: 183/10(29.4)"
+  },
+  {
+   "matchId": "8035",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8035&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "TCA Broncos U13",
+    "SKA Kings U13"
+   ],
+   "teamIds": [
+    "2651",
+    "2647"
+   ],
+   "ground": "Horseshoe",
+   "result": "SKA Kings U13 won by 84 Runs",
+   "summary": "SKA Kings U13: 207/6(30) TCA Broncos U13: 123/9(30)"
+  },
+  {
+   "matchId": "8034",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8034&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CricketMinds Challengers U13",
+    "SKA Royals U13"
+   ],
+   "teamIds": [
+    "2634",
+    "2648"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CricketMinds Challengers U13 won by 169 Runs",
+   "summary": "CricketMinds Challengers U13: 260/3(30) SKA Royals U13: 91/10(30)"
+  },
+  {
+   "matchId": "7953",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7953&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2637",
+    "2652"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Abandoned.",
+   "summary": "TIC Evolution U13: 194/1(27)"
+  },
+  {
+   "matchId": "7944",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7944&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars U13",
+    "HPC Stallions U13"
+   ],
+   "teamIds": [
+    "2640",
+    "2643"
+   ],
+   "ground": "Horseshoe",
+   "result": "HPC Stallions U13 won by 19 Runs (D/L)",
+   "summary": "DYCL Jaguars U13: 123/6(30) HPC Stallions U13: 80/3(16.4)"
+  },
+  {
+   "matchId": "7943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7943&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers BLUE U13",
+    "CricKingdom Dallas Thunderbolts U13"
+   ],
+   "teamIds": [
+    "2632",
+    "2635"
+   ],
+   "ground": "Krum-2",
+   "result": "Abandoned.",
+   "summary": "All Stars Strikers BLUE U13: 128/9(24.2) CricKingdom Dallas Thunderbolts U13: 27/4(8)"
+  },
+  {
+   "matchId": "7840",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7840&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers WHITE U13",
+    "CCA Dynamos U13"
+   ],
+   "teamIds": [
+    "2633",
+    "2638"
+   ],
+   "ground": "Horseshoe",
+   "result": "All Stars Strikers WHITE U13 won by 2 Wickets",
+   "summary": "CCA Dynamos U13: 158/7(30) All Stars Strikers WHITE U13: 159/8(29.5)"
+  },
+  {
+   "matchId": "7839",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7839&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "SKA Rising Stars U13"
+   ],
+   "teamIds": [
+    "2636",
+    "2649"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CCA Titans U13 won by 9 Wickets",
+   "summary": "SKA Rising Stars U13: 76/10(23) CCA Titans U13: 77/1(10.5)"
+  },
+  {
+   "matchId": "7822",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7822&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "SKA Royals U13",
+    "VCA Red U13"
+   ],
+   "teamIds": [
+    "2648",
+    "2653"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U13 won by 8 Wickets",
+   "summary": "SKA Royals U13: 175/8(30) VCA Red U13: 176/2(28.3)"
+  },
+  {
+   "matchId": "7809",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7809&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "TIC Evolution U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2652",
+    "2651"
+   ],
+   "ground": "Trenton East",
+   "result": "TIC Evolution U13 won by 130 Runs",
+   "summary": "TIC Evolution U13: 296/6(30) TCA Broncos U13: 166/10(26.2)"
+  },
+  {
+   "matchId": "7730",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7730&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "SKA Rising Stars U13",
+    "All Stars Strikers WHITE U13"
+   ],
+   "teamIds": [
+    "2649",
+    "2633"
+   ],
+   "ground": "NMCG 2",
+   "result": "All Stars Strikers WHITE U13 won by 7 Wickets",
+   "summary": "SKA Rising Stars U13: 213/4(30) All Stars Strikers WHITE U13: 216/3(27.5)"
+  },
+  {
+   "matchId": "7729",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7729&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "HPC Stallions U13",
+    "CricKingdom Dallas Thunderbolts U13"
+   ],
+   "teamIds": [
+    "2643",
+    "2635"
+   ],
+   "ground": "NMCG 1",
+   "result": "HPC Stallions U13 won by 5 Wickets",
+   "summary": "CricKingdom Dallas Thunderbolts U13: 129/6(30) HPC Stallions U13: 130/5(17.1)"
+  },
+  {
+   "matchId": "7702",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7702&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "SAC Dynamites U13",
+    "CCA Dynamos U13"
+   ],
+   "teamIds": [
+    "2646",
+    "2638"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Dynamites U13 won by 6 Wickets",
+   "summary": "CCA Dynamos U13: 150/8(30) SAC Dynamites U13: 151/4(18.2)"
+  },
+  {
+   "matchId": "7696",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7696&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "SAC Rahvans U13",
+    "DYCL Cheetahs U13"
+   ],
+   "teamIds": [
+    "2644",
+    "2639"
+   ],
+   "ground": "Horseshoe",
+   "result": "SAC Rahvans U13 won by 2 Wickets",
+   "summary": "DYCL Cheetahs U13: 137/10(27.2) SAC Rahvans U13: 138/8(28.1)"
+  },
+  {
+   "matchId": "7642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7642&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "WCA Blasters U13",
+    "VCA Gold U13"
+   ],
+   "teamIds": [
+    "2655",
+    "2654"
+   ],
+   "ground": "Coppell CG",
+   "result": "WCA Blasters U13 won by 7 Wickets",
+   "summary": "VCA Gold U13: 33/10(16) WCA Blasters U13: 34/3(8.5)"
+  },
+  {
+   "matchId": "7634",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7634&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "TCA Stallions U13",
+    "CricketMinds Challengers U13"
+   ],
+   "teamIds": [
+    "2650",
+    "2634"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Forfeited. Winner: CricketMinds Challengers U13",
+   "summary": "CricketMinds Challengers U13: 125/11(29.3) TCA Stallions U13: 126/5(19.4)"
+  },
+  {
+   "matchId": "7632",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7632&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "CCA Giants U13"
+   ],
+   "teamIds": [
+    "2642",
+    "2637"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets U13 won by 30 Runs",
+   "summary": "FCCA Jets U13: 212/5(30) CCA Giants U13: 182/6(30)"
+  },
+  {
+   "matchId": "7628",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7628&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "SAC Thunders U13",
+    "DYCL Jaguars U13"
+   ],
+   "teamIds": [
+    "2645",
+    "2640"
+   ],
+   "ground": "Horseshoe",
+   "result": "SAC Thunders U13 won by 2 Wickets",
+   "summary": "DYCL Jaguars U13: 161/6(30) SAC Thunders U13: 164/8(28.1)"
+  },
+  {
+   "matchId": "7617",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7617&clubId=40319",
+   "date": "2026-05-01",
+   "type": "League",
+   "teams": [
+    "SAC Dynamites U13",
+    "CCA Titans U13"
+   ],
+   "teamIds": [
+    "2646",
+    "2636"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CCA Titans U13 won by 18 Runs",
+   "summary": "CCA Titans U13: 215/5(30) SAC Dynamites U13: 197/8(30)"
+  },
+  {
+   "matchId": "7611",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7611&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers WHITE U13",
+    "VCA Gold U13"
+   ],
+   "teamIds": [
+    "2633",
+    "2654"
+   ],
+   "ground": "Coppell CG",
+   "result": "All Stars Strikers WHITE U13 won by 6 Runs (D/L)",
+   "summary": "VCA Gold U13: 168/7(30) All Stars Strikers WHITE U13: 164/8(28.3)"
+  },
+  {
+   "matchId": "7594",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7594&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "CricKingdom Dallas Thunderbolts U13",
+    "SAC Dynamites U13"
+   ],
+   "teamIds": [
+    "2635",
+    "2646"
+   ],
+   "ground": "Stallions CG3",
+   "result": "SAC Dynamites U13 won by 10 Wickets",
+   "summary": "CricKingdom Dallas Thunderbolts U13: 55/10(17.5) SAC Dynamites U13: 56/0(5.4)"
+  },
+  {
+   "matchId": "7592",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7592&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers RED U13",
+    "SAC Rahvans U13"
+   ],
+   "teamIds": [
+    "2631",
+    "2644"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Rahvans U13 won by 82 Runs",
+   "summary": "SAC Rahvans U13: 203/8(30) All Stars Strikers RED U13: 121/9(25.1)"
+  },
+  {
+   "matchId": "7519",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7519&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers BLUE U13",
+    "WCA Blasters U13"
+   ],
+   "teamIds": [
+    "2632",
+    "2655"
+   ],
+   "ground": "NMCG 1",
+   "result": "WCA Blasters U13 won by 68 Runs",
+   "summary": "WCA Blasters U13: 240/5(30) All Stars Strikers BLUE U13: 172/8(30)"
+  },
+  {
+   "matchId": "7517",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7517&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "CCA Dynamos U13",
+    "TCA Stallions U13"
+   ],
+   "teamIds": [
+    "2638",
+    "2650"
+   ],
+   "ground": "NMCG 2",
+   "result": "Forfeited. Winner: CCA Dynamos U13",
+   "summary": "TCA Stallions U13: 287/4(30) CCA Dynamos U13: 73/10(20.2)"
+  },
+  {
+   "matchId": "7506",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7506&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "SAC Thunders U13",
+    "FCCA Tigers U13"
+   ],
+   "teamIds": [
+    "2645",
+    "2641"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Thunders U13 won by 9 Wickets",
+   "summary": "FCCA Tigers U13: 93/10(27) SAC Thunders U13: 94/1(14.4)"
+  },
+  {
+   "matchId": "7500",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7500&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs U13",
+    "SKA Kings U13"
+   ],
+   "teamIds": [
+    "2639",
+    "2647"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Cheetahs U13 won by 6 Wickets",
+   "summary": "SKA Kings U13: 134/10(24.4) DYCL Cheetahs U13: 136/4(19.1)"
+  },
+  {
+   "matchId": "7497",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7497&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "CricketMinds Challengers U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2634",
+    "2652"
+   ],
+   "ground": "Trenton West",
+   "result": "TIC Evolution U13 won by 5 Wickets",
+   "summary": "CricketMinds Challengers U13: 153/7(30) TIC Evolution U13: 157/5(29)"
+  },
+  {
+   "matchId": "7450",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7450&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "HPC Stallions U13",
+    "SAC Rahvans U13"
+   ],
+   "teamIds": [
+    "2643",
+    "2644"
+   ],
+   "ground": "Stallions CG2",
+   "result": "HPC Stallions U13 won by 48 Runs",
+   "summary": "HPC Stallions U13: 134/10(29) SAC Rahvans U13: 86/10(26.4)"
+  },
+  {
+   "matchId": "7446",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7446&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "CricKingdom Dallas Thunderbolts U13",
+    "SKA Rising Stars U13"
+   ],
+   "teamIds": [
+    "2635",
+    "2649"
+   ],
+   "ground": "Denton CG2",
+   "result": "CricKingdom Dallas Thunderbolts U13 won by 8 Wickets",
+   "summary": "SKA Rising Stars U13: 147/8(30) CricKingdom Dallas Thunderbolts U13: 148/2(25.1)"
+  },
+  {
+   "matchId": "7443",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7443&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "DYCL Jaguars U13"
+   ],
+   "teamIds": [
+    "2637",
+    "2640"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Giants U13 won by 4 Wickets",
+   "summary": "DYCL Jaguars U13: 155/10(30) CCA Giants U13: 156/6(24.3)"
+  },
+  {
+   "matchId": "7435",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7435&clubId=40319",
+   "date": "2026-04-24",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "CCA Titans U13"
+   ],
+   "teamIds": [
+    "2642",
+    "2636"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Titans U13 won by 46 Runs",
+   "summary": "CCA Titans U13: 141/10(28.5) FCCA Jets U13: 95/10(28)"
+  },
+  {
+   "matchId": "7418",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7418&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers BLUE U13",
+    "FCCA Tigers U13"
+   ],
+   "teamIds": [
+    "2632",
+    "2641"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Tigers U13 won by 6 Wickets",
+   "summary": "All Stars Strikers BLUE U13: 138/3(30) FCCA Tigers U13: 142/4(18.4)"
+  },
+  {
+   "matchId": "7405",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7405&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers RED U13",
+    "SKA Royals U13"
+   ],
+   "teamIds": [
+    "2631",
+    "2648"
+   ],
+   "ground": "Trenton West",
+   "result": "All Stars Strikers RED U13 won by 3 Wickets",
+   "summary": "SKA Royals U13: 77/10(18.5) All Stars Strikers RED U13: 82/7(15.4)"
+  },
+  {
+   "matchId": "7270",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7270&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U13",
+    "VCA Red U13"
+   ],
+   "teamIds": [
+    "2641",
+    "2653"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U13 won by 93 Runs",
+   "summary": "VCA Red U13: 136/10(27.3) FCCA Tigers U13: 43/9(20)"
+  },
+  {
+   "matchId": "7244",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7244&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers WHITE U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2633",
+    "2651"
+   ],
+   "ground": "NMCG 2",
+   "result": "TCA Broncos U13 won by 64 Runs",
+   "summary": "TCA Broncos U13: 181/5(30) All Stars Strikers WHITE U13: 117/10(19)"
+  },
+  {
+   "matchId": "7243",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7243&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "SKA Rising Stars U13",
+    "SAC Rahvans U13"
+   ],
+   "teamIds": [
+    "2649",
+    "2644"
+   ],
+   "ground": "NMCG 1",
+   "result": "SAC Rahvans U13 won by 6 Wickets",
+   "summary": "SKA Rising Stars U13: 82/10(25) SAC Rahvans U13: 86/4(7.2)"
+  },
+  {
+   "matchId": "7240",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7240&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "CricketMinds Challengers U13"
+   ],
+   "teamIds": [
+    "2642",
+    "2634"
+   ],
+   "ground": "BF Philips",
+   "result": "CricketMinds Challengers U13 won by 123 Runs",
+   "summary": "CricketMinds Challengers U13: 218/4(31) FCCA Jets U13: 95/10(29.1)"
+  },
+  {
+   "matchId": "7237",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7237&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "TCA Stallions U13"
+   ],
+   "teamIds": [
+    "2636",
+    "2650"
+   ],
+   "ground": "Horseshoe",
+   "result": "Forfeited. Winner: CCA Titans U13",
+   "summary": "CCA Titans U13: 93/10(27.4) TCA Stallions U13: 97/6(19.5)"
+  },
+  {
+   "matchId": "7236",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7236&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "All Stars Strikers RED U13"
+   ],
+   "teamIds": [
+    "2637",
+    "2631"
+   ],
+   "ground": "Trenton West",
+   "result": "CCA Giants U13 won by 43 Runs",
+   "summary": "CCA Giants U13: 175/6(25.3) All Stars Strikers RED U13: 132/7(23)"
+  },
+  {
+   "matchId": "7229",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7229&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "SAC Thunders U13",
+    "HPC Stallions U13"
+   ],
+   "teamIds": [
+    "2645",
+    "2643"
+   ],
+   "ground": "Stallions CG2",
+   "result": "HPC Stallions U13 won by 121 Runs",
+   "summary": "HPC Stallions U13: 214/8(30) SAC Thunders U13: 93/11(29.1)"
+  },
+  {
+   "matchId": "7214",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7214&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "TIC Evolution U13",
+    "WCA Blasters U13"
+   ],
+   "teamIds": [
+    "2652",
+    "2655"
+   ],
+   "ground": "Trenton East",
+   "result": "TIC Evolution U13 won by 116 Runs",
+   "summary": "TIC Evolution U13: 246/3(30) WCA Blasters U13: 130/9(28.4)"
+  },
+  {
+   "matchId": "7208",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7208&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "VCA Gold U13",
+    "DYCL Cheetahs U13"
+   ],
+   "teamIds": [
+    "2654",
+    "2639"
+   ],
+   "ground": "Coppell CG",
+   "result": "DYCL Cheetahs U13 won by 163 Runs",
+   "summary": "DYCL Cheetahs U13: 304/4(30) VCA Gold U13: 141/10(27.2)"
+  },
+  {
+   "matchId": "7201",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7201&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "CCA Dynamos U13",
+    "CricKingdom Dallas Thunderbolts U13"
+   ],
+   "teamIds": [
+    "2638",
+    "2635"
+   ],
+   "ground": "Denton CG2",
+   "result": "CricKingdom Dallas Thunderbolts U13 won by 83 Runs",
+   "summary": "CricKingdom Dallas Thunderbolts U13: 198/3(30) CCA Dynamos U13: 115/10(20.4)"
+  },
+  {
+   "matchId": "7199",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7199&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "SKA Kings U13",
+    "SAC Dynamites U13"
+   ],
+   "teamIds": [
+    "2647",
+    "2646"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SKA Kings U13 won by 46 Runs",
+   "summary": "SKA Kings U13: 162/10(29.3) SAC Dynamites U13: 116/10(24.1)"
+  },
+  {
+   "matchId": "7198",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7198&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars U13",
+    "All Stars Strikers BLUE U13"
+   ],
+   "teamIds": [
+    "2640",
+    "2632"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Jaguars U13 won by 159 Runs",
+   "summary": "DYCL Jaguars U13: 218/9(30) All Stars Strikers BLUE U13: 59/10(14.1)"
+  },
+  {
+   "matchId": "7191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7191&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars U13",
+    "VCA Gold U13"
+   ],
+   "teamIds": [
+    "2640",
+    "2654"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Gold U13 won by 53 Runs",
+   "summary": "VCA Gold U13: 232/7(30) DYCL Jaguars U13: 179/6(30)"
+  },
+  {
+   "matchId": "7183",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7183&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U13",
+    "HPC Stallions U13"
+   ],
+   "teamIds": [
+    "2641",
+    "2643"
+   ],
+   "ground": "BF Philips",
+   "result": "HPC Stallions U13 won by 101 Runs",
+   "summary": "HPC Stallions U13: 168/8(30) FCCA Tigers U13: 67/10(24.3)"
+  },
+  {
+   "matchId": "7176",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7176&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "VCA Red U13"
+   ],
+   "teamIds": [
+    "2637",
+    "2653"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U13 won by 47 Runs",
+   "summary": "VCA Red U13: 161/10(26.5) CCA Giants U13: 114/10(24)"
+  },
+  {
+   "matchId": "7150",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7150&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "HPC Stallions U13",
+    "VCA Gold U13"
+   ],
+   "teamIds": [
+    "2643",
+    "2654"
+   ],
+   "ground": "Coppell CG",
+   "result": "HPC Stallions U13 won by 67 Runs",
+   "summary": "HPC Stallions U13: 206/4(30) VCA Gold U13: 139/10(25.1)"
+  },
+  {
+   "matchId": "7144",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7144&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "WCA Blasters U13"
+   ],
+   "teamIds": [
+    "2642",
+    "2655"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets U13 won by 32 Runs",
+   "summary": "FCCA Jets U13: 203/6(30) WCA Blasters U13: 171/8(30.1)"
+  },
+  {
+   "matchId": "7142",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7142&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "SAC Dynamites U13",
+    "TCA Stallions U13"
+   ],
+   "teamIds": [
+    "2646",
+    "2650"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Forfeited. Winner: SAC Dynamites U13",
+   "summary": "TCA Stallions U13: 214/8(30) SAC Dynamites U13: 89/10(21.4)"
+  },
+  {
+   "matchId": "7141",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7141&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "SAC Rahvans U13"
+   ],
+   "teamIds": [
+    "2637",
+    "2644"
+   ],
+   "ground": "Horseshoe",
+   "result": "SAC Rahvans U13 won by 9 Wickets",
+   "summary": "CCA Giants U13: 177/7(30) SAC Rahvans U13: 180/1(21.1)"
+  },
+  {
+   "matchId": "7134",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7134&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "VCA Red U13"
+   ],
+   "teamIds": [
+    "2636",
+    "2653"
+   ],
+   "ground": "Coppell CG",
+   "result": "CCA Titans U13 won by 8 Wickets",
+   "summary": "VCA Red U13: 131/10(28) CCA Titans U13: 132/2(15.2)"
+  },
+  {
+   "matchId": "7127",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7127&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U13",
+    "All Stars Strikers WHITE U13"
+   ],
+   "teamIds": [
+    "2641",
+    "2633"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Tigers U13 won by 1 Run",
+   "summary": "FCCA Tigers U13: 147/3(25) All Stars Strikers WHITE U13: 146/9(25)"
+  },
+  {
+   "matchId": "7123",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7123&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers BLUE U13",
+    "CricketMinds Challengers U13"
+   ],
+   "teamIds": [
+    "2632",
+    "2634"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CricketMinds Challengers U13 won by 271 Runs",
+   "summary": "CricketMinds Challengers U13: 329/0(30) All Stars Strikers BLUE U13: 58/9(20)"
+  },
+  {
+   "matchId": "7122",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7122&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2639",
+    "2651"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Cheetahs U13 won by 10 Wickets",
+   "summary": "TCA Broncos U13: 143/9(30) DYCL Cheetahs U13: 144/0(15.2)"
+  },
+  {
+   "matchId": "7121",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7121&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "SAC Thunders U13",
+    "All Stars Strikers RED U13"
+   ],
+   "teamIds": [
+    "2645",
+    "2631"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Thunders U13 won by 14 Runs",
+   "summary": "SAC Thunders U13: 214/7(30) All Stars Strikers RED U13: 200/9(28.2)"
+  },
+  {
+   "matchId": "7118",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7118&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "CCA Dynamos U13",
+    "SKA Kings U13"
+   ],
+   "teamIds": [
+    "2638",
+    "2647"
+   ],
+   "ground": "NMCG 2",
+   "result": "SKA Kings U13 won by 10 Wickets",
+   "summary": "CCA Dynamos U13: 95/10(27.4) SKA Kings U13: 98/0(6)"
+  },
+  {
+   "matchId": "7117",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7117&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "SKA Rising Stars U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2649",
+    "2652"
+   ],
+   "ground": "NMCG 1",
+   "result": "TIC Evolution U13 won by 187 Runs",
+   "summary": "TIC Evolution U13: 260/0(30) SKA Rising Stars U13: 73/10(24.3)"
+  },
+  {
+   "matchId": "7084",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7084&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "VCA Gold U13",
+    "All Stars Strikers BLUE U13"
+   ],
+   "teamIds": [
+    "2654",
+    "2632"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Gold U13 won by 105 Runs",
+   "summary": "VCA Gold U13: 214/9(30) All Stars Strikers BLUE U13: 109/9(20)"
+  },
+  {
+   "matchId": "7078",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7078&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U13",
+    "DYCL Cheetahs U13"
+   ],
+   "teamIds": [
+    "2641",
+    "2639"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL Cheetahs U13 won by 3 Wickets",
+   "summary": "FCCA Tigers U13: 162/8(30) DYCL Cheetahs U13: 166/7(19.4)"
+  },
+  {
+   "matchId": "7070",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7070&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "VCA Red U13",
+    "All Stars Strikers RED U13"
+   ],
+   "teamIds": [
+    "2653",
+    "2631"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U13 won by 8 Wickets",
+   "summary": "All Stars Strikers RED U13: 130/8(26.4) VCA Red U13: 133/2(15.5)"
+  },
+  {
+   "matchId": "7063",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7063&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "SKA Kings U13",
+    "All Stars Strikers WHITE U13"
+   ],
+   "teamIds": [
+    "2647",
+    "2633"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "SKA Kings U13 won by 9 Wickets",
+   "summary": "All Stars Strikers WHITE U13: 122/8(23.1) SKA Kings U13: 126/1(15)"
+  },
+  {
+   "matchId": "7062",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7062&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "SKA Rising Stars U13"
+   ],
+   "teamIds": [
+    "2642",
+    "2649"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets U13 won by 64 Runs",
+   "summary": "FCCA Jets U13: 224/7(30) SKA Rising Stars U13: 160/8(30)"
+  },
+  {
+   "matchId": "7061",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7061&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "CricKingdom Dallas Thunderbolts U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2635",
+    "2652"
+   ],
+   "ground": "Stallions CG2",
+   "result": "TIC Evolution U13 won by 201 Runs",
+   "summary": "TIC Evolution U13: 287/4(30) CricKingdom Dallas Thunderbolts U13: 86/10(25.3)"
+  },
+  {
+   "matchId": "7060",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7060&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars U13",
+    "SKA Royals U13"
+   ],
+   "teamIds": [
+    "2640",
+    "2648"
+   ],
+   "ground": "Horseshoe",
+   "result": "SKA Royals U13 won by 144 Runs",
+   "summary": "SKA Royals U13: 243/4(30) DYCL Jaguars U13: 99/10(21)"
+  },
+  {
+   "matchId": "7026",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7026&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "SAC Dynamites U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2646",
+    "2651"
+   ],
+   "ground": "Stallions CG1",
+   "result": "Abandoned.",
+   "summary": "SAC Dynamites U13: 26/1(3)"
+  },
+  {
+   "matchId": "7025",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7025&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "WCA Blasters U13",
+    "CCA Dynamos U13"
+   ],
+   "teamIds": [
+    "2655",
+    "2638"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "WCA Blasters U13: 46/0(9)"
+  },
+  {
+   "matchId": "7024",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7024&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "SAC Thunders U13",
+    "CricketMinds Challengers U13"
+   ],
+   "teamIds": [
+    "2645",
+    "2634"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Abandoned.",
+   "summary": "SAC Thunders U13: 15/1(4.3)"
+  },
+  {
+   "matchId": "7010",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7010&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "SKA Kings U13"
+   ],
+   "teamIds": [
+    "2642",
+    "2647"
+   ],
+   "ground": "BF Philips",
+   "result": "SKA Kings U13 won by 47 Runs",
+   "summary": "SKA Kings U13: 153/6(30) FCCA Jets U13: 106/10(26)"
+  },
+  {
+   "matchId": "7008",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7008&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "SKA Royals U13",
+    "TCA Stallions U13"
+   ],
+   "teamIds": [
+    "2648",
+    "2650"
+   ],
+   "ground": "Horseshoe",
+   "result": "Forfeited. Winner: SKA Royals U13",
+   "summary": "SKA Royals U13: 109/8(30) TCA Stallions U13: 111/1(12)"
+  }
+ ]
+}

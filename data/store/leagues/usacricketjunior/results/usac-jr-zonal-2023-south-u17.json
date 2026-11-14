@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s284",
+  "id": "legacy-128",
+  "name": "USAC JR Zonal 2023 - South U17"
+ },
+ "fetchedAt": "2026-11-13T22:57:19.390Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=128&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=128&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2392",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2392&clubId=40319",
+   "date": "2023-09-10",
+   "type": "League",
+   "teams": [
+    "Georgia U17",
+    "Tennessee U17"
+   ],
+   "teamIds": [
+    "823",
+    "826"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Georgia U17 won by 186 Runs",
+   "summary": "Georgia U17: 261/6(40) Tennessee U17: 75/10(22.5)"
+  },
+  {
+   "matchId": "2391",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2391&clubId=40319",
+   "date": "2023-09-10",
+   "type": "League",
+   "teams": [
+    "North Carolina U17",
+    "Florida U17"
+   ],
+   "teamIds": [
+    "825",
+    "824"
+   ],
+   "ground": "PARAM - G2",
+   "result": "North Carolina U17 won by 185 Runs",
+   "summary": "North Carolina U17: 264/6(40) Florida U17: 79/10(28.3)"
+  },
+  {
+   "matchId": "2379",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2379&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "Florida U17",
+    "Tennessee U17"
+   ],
+   "teamIds": [
+    "824",
+    "826"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Tennessee U17 won by 182 Runs",
+   "summary": "Tennessee U17: 254/10(49.3) Florida U17: 72/10(28)"
+  },
+  {
+   "matchId": "2378",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2378&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "North Carolina U17",
+    "Georgia U17"
+   ],
+   "teamIds": [
+    "825",
+    "823"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Georgia U17 won by 3 Wickets",
+   "summary": "North Carolina U17: 142/10(39) Georgia U17: 143/7(33.3)"
+  },
+  {
+   "matchId": "2377",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2377&clubId=40319",
+   "date": "2023-09-08",
+   "type": "League",
+   "teams": [
+    "Georgia U17",
+    "Florida U17"
+   ],
+   "teamIds": [
+    "823",
+    "824"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Georgia U17 won by 7 Wickets",
+   "summary": "Florida U17: 42/10(20.5) Georgia U17: 43/3(5.5)"
+  },
+  {
+   "matchId": "2376",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2376&clubId=40319",
+   "date": "2023-09-08",
+   "type": "League",
+   "teams": [
+    "North Carolina U17",
+    "Tennessee U17"
+   ],
+   "teamIds": [
+    "825",
+    "826"
+   ],
+   "ground": "PARAM - G4",
+   "result": "North Carolina U17 won by 145 Runs",
+   "summary": "North Carolina U17: 257/8(50) Tennessee U17: 112/10(24.1)"
+  }
+ ]
+}

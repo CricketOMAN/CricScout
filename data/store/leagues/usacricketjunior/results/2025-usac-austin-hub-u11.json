@@ -1,0 +1,439 @@
+{
+ "season": {
+  "key": "s193",
+  "id": "legacy-308",
+  "name": "2025 USAC Austin HUB U11"
+ },
+ "fetchedAt": "2026-11-13T22:26:00.465Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=308&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=308&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5290",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5290&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Austin Elites Champions"
+   ],
+   "teamIds": [
+    "1751",
+    "1754"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "Austin Elites Champions won by 7 Wickets",
+   "summary": "Austin HCCA Starz: 98/10(16.4) Austin Elites Champions: 99/3(10.3)"
+  },
+  {
+   "matchId": "5265",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5265&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U11",
+    "Superkings Cricket Academy"
+   ],
+   "teamIds": [
+    "1752",
+    "1757"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "Austin Blasters U11 won by 9 Wickets",
+   "summary": "Superkings Cricket Academy: 124/9(25.1) Austin Blasters U11: 125/1(14.5)"
+  },
+  {
+   "matchId": "5197",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5197&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "Austin HUB U11",
+    "Austin Elites Pioneers"
+   ],
+   "teamIds": [
+    "1755",
+    "1753"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "Austin Elites Pioneers won by 124 Runs",
+   "summary": "Austin Elites Pioneers: 212/6(25) Austin HUB U11: 88/10(23.4)"
+  },
+  {
+   "matchId": "5143",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5143&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Austin HUB U11",
+    "San Antonio Ninjas"
+   ],
+   "teamIds": [
+    "1755",
+    "1759"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Ninjas won by 9 Wickets",
+   "summary": "Austin HUB U11: 103/10(24.3) San Antonio Ninjas: 106/1(5.3)"
+  },
+  {
+   "matchId": "4998",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4998&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "Austin HCCA Starz"
+   ],
+   "teamIds": [
+    "1759",
+    "1751"
+   ],
+   "ground": "Florence Cricket Ground",
+   "result": "San Antonio Ninjas won by 8 Wickets",
+   "summary": "Austin HCCA Starz: 138/9(25) San Antonio Ninjas: 141/2(13.5)"
+  },
+  {
+   "matchId": "4994",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4994&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U11",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1752",
+    "1758"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "Austin Blasters U11 won by 7 Wickets",
+   "summary": "San Antonio Road Runners: 153/4(25) Austin Blasters U11: 156/3(22.3)"
+  },
+  {
+   "matchId": "4984",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4984&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Austin HUB U11",
+    "Superkings Cricket Academy"
+   ],
+   "teamIds": [
+    "1755",
+    "1757"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Superkings Cricket Academy won by 79 Runs",
+   "summary": "Superkings Cricket Academy: 145/7(25) Austin HUB U11: 66/10(23)"
+  },
+  {
+   "matchId": "4827",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4827&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Austin HUB U11",
+    "Austin Elites Champions"
+   ],
+   "teamIds": [
+    "1755",
+    "1754"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Elites Champions won by 139 Runs",
+   "summary": "Austin Elites Champions: 202/7(25) Austin HUB U11: 63/10(23.5)"
+  },
+  {
+   "matchId": "4928",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4928&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "Superkings Cricket Academy",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1757",
+    "1758"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Road Runners won by 223 Runs",
+   "summary": "San Antonio Road Runners: 292/0(25) Superkings Cricket Academy: 69/7(25)"
+  },
+  {
+   "matchId": "4893",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4893&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "Austin Blasters U11"
+   ],
+   "teamIds": [
+    "1753",
+    "1752"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Blasters U11 won by 7 Wickets",
+   "summary": "Austin Elites Pioneers: 71/10(18.2) Austin Blasters U11: 72/3(14.4)"
+  },
+  {
+   "matchId": "4835",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4835&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "Austin HUB U11"
+   ],
+   "teamIds": [
+    "1754",
+    "1755"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Elites Champions: 0/0 (0/25 ov)",
+   "summary": "Austin Elites Champions: 0/0(0) Live"
+  },
+  {
+   "matchId": "4703",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4703&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "San Antonio Ninjas"
+   ],
+   "teamIds": [
+    "1753",
+    "1759"
+   ],
+   "ground": "Wilco Youth",
+   "result": "San Antonio Ninjas won by 14 Runs",
+   "summary": "San Antonio Ninjas: 141/4(25) Austin Elites Pioneers: 127/10(25)"
+  },
+  {
+   "matchId": "4653",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4653&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1754",
+    "1758"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Road Runners won by 12 Runs",
+   "summary": "San Antonio Road Runners: 173/4(25) Austin Elites Champions: 161/2(25)"
+  },
+  {
+   "matchId": "4646",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4646&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "Austin HUB U11",
+    "Austin HCCA Starz"
+   ],
+   "teamIds": [
+    "1755",
+    "1751"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin HCCA Starz won by 192 Runs",
+   "summary": "Austin HCCA Starz: 215/6(25) Austin HUB U11: 23/9(19.1)"
+  },
+  {
+   "matchId": "4586",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4586&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "Austin Blasters U11"
+   ],
+   "teamIds": [
+    "1754",
+    "1752"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Blasters U11 won by 10 Wickets",
+   "summary": "Austin Elites Champions: 160/7(25) Austin Blasters U11: 162/0(14.2)"
+  },
+  {
+   "matchId": "4557",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4557&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1753",
+    "1758"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "Austin Elites Pioneers won by 16 Runs",
+   "summary": "Austin Elites Pioneers: 187/3(25) San Antonio Road Runners: 171/5(25)"
+  },
+  {
+   "matchId": "4551",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4551&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "Superkings Cricket Academy",
+    "Austin HCCA Starz"
+   ],
+   "teamIds": [
+    "1757",
+    "1751"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin HCCA Starz won by 7 Wickets",
+   "summary": "Superkings Cricket Academy: 101/9(25) Austin HCCA Starz: 102/3(12.3)"
+  },
+  {
+   "matchId": "4542",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4542&clubId=40319",
+   "date": "2025-04-18",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "Austin Elites Champions"
+   ],
+   "teamIds": [
+    "1759",
+    "1754"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "Austin Elites Champions won by 7 Wickets",
+   "summary": "San Antonio Ninjas: 172/3(25) Austin Elites Champions: 176/3(22.5)"
+  },
+  {
+   "matchId": "4536",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4536&clubId=40319",
+   "date": "2025-04-18",
+   "type": "League",
+   "teams": [
+    "Austin Elites Pioneers",
+    "Superkings Cricket Academy"
+   ],
+   "teamIds": [
+    "1753",
+    "1757"
+   ],
+   "ground": "Hutto",
+   "result": "Austin Elites Pioneers won by 274 Runs",
+   "summary": "Austin Elites Pioneers: 350/1(28) Superkings Cricket Academy: 76/8(23.5)"
+  },
+  {
+   "matchId": "4491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4491&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "San Antonio Road Runners",
+    "Austin HCCA Starz"
+   ],
+   "teamIds": [
+    "1758",
+    "1751"
+   ],
+   "ground": "Wilco Youth",
+   "result": "San Antonio Road Runners won by 97 Runs",
+   "summary": "San Antonio Road Runners: 212/3(25) Austin HCCA Starz: 115/10(22.1)"
+  },
+  {
+   "matchId": "4468",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4468&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U11",
+    "San Antonio Ninjas"
+   ],
+   "teamIds": [
+    "1752",
+    "1759"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Ninjas won by 7 Wickets",
+   "summary": "Austin Blasters U11: 162/3(25) San Antonio Ninjas: 163/3(18.1)"
+  },
+  {
+   "matchId": "4460",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4460&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "Austin Elites Champions",
+    "Superkings Cricket Academy"
+   ],
+   "teamIds": [
+    "1754",
+    "1757"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Elites Champions won by 200 Runs",
+   "summary": "Austin Elites Champions: 262/2(25) Superkings Cricket Academy: 62/10(25)"
+  },
+  {
+   "matchId": "4452",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4452&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "Austin HUB U11",
+    "Austin Elites Pioneers"
+   ],
+   "teamIds": [
+    "1755",
+    "1753"
+   ],
+   "ground": "CPCG",
+   "result": "Austin Elites Pioneers won by 9 Wickets",
+   "summary": "Austin HUB U11: 95/9(25) Austin Elites Pioneers: 96/1(8.5)"
+  },
+  {
+   "matchId": "4379",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4379&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "San Antonio Ninjas",
+    "San Antonio Road Runners"
+   ],
+   "teamIds": [
+    "1759",
+    "1758"
+   ],
+   "ground": "San Antonio Culbera Ground",
+   "result": "San Antonio Ninjas won by 8 Wickets",
+   "summary": "San Antonio Road Runners: 186/2(25) San Antonio Ninjas: 187/2(24.4)"
+  },
+  {
+   "matchId": "4372",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4372&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "Austin HCCA Starz",
+    "Austin Blasters U11"
+   ],
+   "teamIds": [
+    "1751",
+    "1752"
+   ],
+   "ground": "Wilco Youth",
+   "result": "Austin Blasters U11 won by 9 Wickets",
+   "summary": "Austin HCCA Starz: 64/10(20.4) Austin Blasters U11: 65/1(9.2)"
+  }
+ ]
+}

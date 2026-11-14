@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s295",
+  "id": "legacy-126",
+  "name": "USAC Bay Area 2023 - U13 Trials"
+ },
+ "fetchedAt": "2026-11-13T23:05:30.134Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=126&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=126&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2363",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2363&clubId=40319",
+   "date": "2023-08-27",
+   "type": "League",
+   "teams": [
+    "TEAM BLUE",
+    "TEAM GREEN"
+   ],
+   "teamIds": [
+    "807",
+    "809"
+   ],
+   "ground": "TBD",
+   "result": "TEAM GREEN won by 17 Runs (D/L)",
+   "summary": "TEAM GREEN: 57/10(23.5) TEAM BLUE: 82/7(30)"
+  },
+  {
+   "matchId": "2358",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2358&clubId=40319",
+   "date": "2023-08-27",
+   "type": "League",
+   "teams": [
+    "TEAM ORANGE",
+    "TEAM RED"
+   ],
+   "teamIds": [
+    "810",
+    "808"
+   ],
+   "ground": "TBD",
+   "result": "TEAM ORANGE won by 34 Runs",
+   "summary": "TEAM ORANGE: 120/8(30) TEAM RED: 86/5(30)"
+  },
+  {
+   "matchId": "2352",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2352&clubId=40319",
+   "date": "2023-08-26",
+   "type": "League",
+   "teams": [
+    "TEAM BLUE",
+    "TEAM ORANGE"
+   ],
+   "teamIds": [
+    "807",
+    "810"
+   ],
+   "ground": "TBD",
+   "result": "TEAM ORANGE won by 29 Runs",
+   "summary": "TEAM ORANGE: 112/10(29.5) TEAM BLUE: 83/10(26.1)"
+  },
+  {
+   "matchId": "2346",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2346&clubId=40319",
+   "date": "2023-08-26",
+   "type": "League",
+   "teams": [
+    "TEAM RED",
+    "TEAM GREEN"
+   ],
+   "teamIds": [
+    "808",
+    "809"
+   ],
+   "ground": "TBD",
+   "result": "TEAM RED won by 78 Runs",
+   "summary": "TEAM RED: 132/6(30) TEAM GREEN: 54/9(25)"
+  }
+ ]
+}

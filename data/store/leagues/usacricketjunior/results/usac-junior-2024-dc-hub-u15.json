@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s246",
+  "id": "legacy-217",
+  "name": "USAC Junior 2024 - DC Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:42:16.046Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=217&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=217&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3617",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3617&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1290",
+    "1289"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Red won by 55 Runs",
+   "summary": "Team Red: 212/10(39.2) Team Blue: 157/10(28.3)"
+  },
+  {
+   "matchId": "3614",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3614&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1292",
+    "1291"
+   ],
+   "ground": "WCC 4",
+   "result": "Team Gold won by 24 Runs",
+   "summary": "Team Gold: 147/10(37.5) Team Green: 123/10(30)"
+  },
+  {
+   "matchId": "3612",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3612&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "Team Purple",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1294",
+    "1293"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Purple won by 15 Runs",
+   "summary": "Team Purple: 216/8(40) Team Orange: 201/10(37.1)"
+  },
+  {
+   "matchId": "3582",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3582&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1289",
+    "1293"
+   ],
+   "ground": "WCC 4",
+   "result": "Team Red won by 3 Runs",
+   "summary": "Team Red: 180/10(34.4) Team Orange: 177/10(34.2)"
+  },
+  {
+   "matchId": "3580",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3580&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1291",
+    "1290"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Gold won by 2 Wickets",
+   "summary": "Team Blue: 286/7(40) Team Gold: 289/8(38.1)"
+  },
+  {
+   "matchId": "3579",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3579&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1292",
+    "1294"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Green won by 84 Runs",
+   "summary": "Team Green: 228/5(40) Team Purple: 144/10(30.4)"
+  },
+  {
+   "matchId": "3534",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3534&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1292",
+    "1289"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Green won by 10 Runs",
+   "summary": "Team Green: 208/10(40) Team Red: 198/9(33.1)"
+  },
+  {
+   "matchId": "3533",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3533&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1291",
+    "1294"
+   ],
+   "ground": "WCC 2",
+   "result": "Team Purple won by 33 Runs",
+   "summary": "Team Purple: 216/5(40) Team Gold: 183/9(35.1)"
+  },
+  {
+   "matchId": "3532",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3532&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1290",
+    "1293"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Blue won by 9 Wickets",
+   "summary": "Team Orange: 176/10(38.5) Team Blue: 177/1(25.5)"
+  },
+  {
+   "matchId": "3507",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3507&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "1290",
+    "1292"
+   ],
+   "ground": "WCC 2",
+   "result": "Team Blue won by 4 Wickets",
+   "summary": "Team Green: 151/10(34.1) Team Blue: 155/6(27.2)"
+  },
+  {
+   "matchId": "3505",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3505&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1293",
+    "1291"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Orange won by 4 Wickets",
+   "summary": "Team Gold: 112/10(28) Team Orange: 113/6(19.2)"
+  },
+  {
+   "matchId": "3502",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3502&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1289",
+    "1294"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Red won by 83 Runs",
+   "summary": "Team Red: 278/4(40) Team Purple: 195/10(32)"
+  },
+  {
+   "matchId": "3438",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3438&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Team Purple",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1294",
+    "1293"
+   ],
+   "ground": "WCC 2",
+   "result": "Team Purple won by 5 Wickets",
+   "summary": "Team Orange: 198/8(40) Team Purple: 201/5(34.3)"
+  },
+  {
+   "matchId": "3436",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3436&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1290",
+    "1289"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Red won by 2 Wickets",
+   "summary": "Team Blue: 247/8(40) Team Red: 251/8(37.5)"
+  },
+  {
+   "matchId": "3435",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3435&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Green"
+   ],
+   "teamIds": [
+    "1291",
+    "1292"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Gold won by 50 Runs",
+   "summary": "Team Gold: 211/10(37.3) Team Green: 161/10(34.2)"
+  },
+  {
+   "matchId": "3402",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3402&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Green"
+   ],
+   "teamIds": [
+    "1293",
+    "1292"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Green won by 27 Runs",
+   "summary": "Team Green: 244/10(39.2) Team Orange: 217/9(37.3)"
+  },
+  {
+   "matchId": "3401",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3401&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1290",
+    "1294"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Blue won by 1 Wicket",
+   "summary": "Team Purple: 209/8(40) Team Blue: 210/9(39.2)"
+  },
+  {
+   "matchId": "3399",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3399&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1289",
+    "1291"
+   ],
+   "ground": "WCC 2",
+   "result": "Team Gold won by 3 Wickets",
+   "summary": "Team Red: 140/10(34.5) Team Gold: 141/7(30.5)"
+  }
+ ]
+}

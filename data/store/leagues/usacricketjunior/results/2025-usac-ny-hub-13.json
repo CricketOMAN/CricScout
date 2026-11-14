@@ -1,0 +1,99 @@
+{
+ "season": {
+  "key": "s170",
+  "id": "legacy-343",
+  "name": "2025 USAC - NY Hub 13"
+ },
+ "fetchedAt": "2026-11-13T22:18:16.532Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=343&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=343&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5726",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5726&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "NJYCA - U13 - Celestials",
+    "ICUSA - U13 - Sons of Liberty"
+   ],
+   "teamIds": [
+    "2063",
+    "2061"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "NJYCA - U13 - Celestials: 0/0(0)"
+  },
+  {
+   "matchId": "5402",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5402&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "ICUSA - U13 - Sons of Liberty",
+    "NJYCA - U13 - Celestials"
+   ],
+   "teamIds": [
+    "2061",
+    "2063"
+   ],
+   "ground": "NJYCA",
+   "result": "NJYCA - U13 - Celestials won by 9 Wickets",
+   "summary": "ICUSA - U13 - Sons of Liberty: 48/9(17.5) NJYCA - U13 - Celestials: 49/1(9)"
+  },
+  {
+   "matchId": "5137",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5137&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "QUCA U13",
+    "ICUSA - U13 - Sons of Liberty"
+   ],
+   "teamIds": [
+    "2055",
+    "2061"
+   ],
+   "ground": "Roy A. Sweeney Cricket Oval, Erskine Street, Brooklyn, NY",
+   "result": "QUCA U13 won by 7 Wickets",
+   "summary": "ICUSA - U13 - Sons of Liberty: 100/6(30) QUCA U13: 101/3(17.1)"
+  },
+  {
+   "matchId": "5002",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5002&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "QUCA U13",
+    "NJYCA - U13 - Celestials"
+   ],
+   "teamIds": [
+    "2055",
+    "2063"
+   ],
+   "ground": "Idlewild",
+   "result": "NJYCA - U13 - Celestials won by 8 Wickets",
+   "summary": "QUCA U13: 139/8(25) NJYCA - U13 - Celestials: 140/2(21.4)"
+  },
+  {
+   "matchId": "4830",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4830&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "NJYCA - U13 - Celestials",
+    "QUCA U13"
+   ],
+   "teamIds": [
+    "2063",
+    "2055"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U13 won by 6 Wickets",
+   "summary": "NJYCA - U13 - Celestials: 136/10(22.2) QUCA U13: 139/4(15.3)"
+  }
+ ]
+}

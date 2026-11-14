@@ -1,0 +1,184 @@
+{
+ "season": {
+  "key": "s306",
+  "id": "legacy-113",
+  "name": "USAC JR Zonal 2023 - MidAtlantic U15"
+ },
+ "fetchedAt": "2026-11-13T23:08:24.144Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=113&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=113&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2180",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2180&clubId=40319",
+   "date": "2023-08-03",
+   "type": "Final",
+   "teams": [
+    "NJ 12",
+    "DC 12"
+   ],
+   "teamIds": [
+    "747",
+    "748"
+   ],
+   "ground": "WCC 1",
+   "result": "DC 12 won by 47 Runs",
+   "summary": "DC 12: 208/9(39.4) NJ 12: 161/10(39.4)"
+  },
+  {
+   "matchId": "2162",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2162&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "DC BLUE",
+    "NJ PURPLE"
+   ],
+   "teamIds": [
+    "738",
+    "740"
+   ],
+   "ground": "WCC 4",
+   "result": "NJ PURPLE won by 34 Runs",
+   "summary": "NJ PURPLE: 171/8(40) DC BLUE: 137/10(31.5)"
+  },
+  {
+   "matchId": "2159",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2159&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "DC RED",
+    "NJ YELLOW"
+   ],
+   "teamIds": [
+    "737",
+    "742"
+   ],
+   "ground": "WCC 3",
+   "result": "NJ YELLOW won by 2 Wickets",
+   "summary": "DC RED: 171/9(37) NJ YELLOW: 172/8(39.1)"
+  },
+  {
+   "matchId": "2157",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2157&clubId=40319",
+   "date": "2023-08-02",
+   "type": "League",
+   "teams": [
+    "DC YELLOW",
+    "NJ BLUE"
+   ],
+   "teamIds": [
+    "739",
+    "741"
+   ],
+   "ground": "WCC 1",
+   "result": "NJ BLUE won by 6 Wickets",
+   "summary": "DC YELLOW: 229/4(40) NJ BLUE: 230/4(39.2)"
+  },
+  {
+   "matchId": "2152",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2152&clubId=40319",
+   "date": "2023-08-01",
+   "type": "League",
+   "teams": [
+    "NJ BLUE",
+    "DC RED"
+   ],
+   "teamIds": [
+    "741",
+    "737"
+   ],
+   "ground": "WCC 4",
+   "result": "NJ BLUE won by 41 Runs",
+   "summary": "NJ BLUE: 175/10(40) DC RED: 134/10(36.5)"
+  },
+  {
+   "matchId": "2151",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2151&clubId=40319",
+   "date": "2023-08-01",
+   "type": "League",
+   "teams": [
+    "NJ PURPLE",
+    "DC YELLOW"
+   ],
+   "teamIds": [
+    "740",
+    "739"
+   ],
+   "ground": "WCC 3",
+   "result": "NJ PURPLE won by 2 Runs",
+   "summary": "NJ PURPLE: 181/9(40) DC YELLOW: 179/8(40)"
+  },
+  {
+   "matchId": "2150",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2150&clubId=40319",
+   "date": "2023-08-01",
+   "type": "League",
+   "teams": [
+    "NJ YELLOW",
+    "DC BLUE"
+   ],
+   "teamIds": [
+    "742",
+    "738"
+   ],
+   "ground": "WCC 1",
+   "result": "DC BLUE won by 103 Runs",
+   "summary": "DC BLUE: 219/4(40) NJ YELLOW: 116/10(31.5)"
+  },
+  {
+   "matchId": "2145",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2145&clubId=40319",
+   "date": "2023-07-31",
+   "type": "League",
+   "teams": [
+    "DC BLUE",
+    "NJ BLUE"
+   ],
+   "teamIds": [
+    "738",
+    "741"
+   ],
+   "ground": "WCC 3",
+   "result": "NJ BLUE won by 25 Runs",
+   "summary": "NJ BLUE: 174/9(40) DC BLUE: 149/10(39.2)"
+  },
+  {
+   "matchId": "2144",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2144&clubId=40319",
+   "date": "2023-07-31",
+   "type": "League",
+   "teams": [
+    "DC YELLOW",
+    "NJ YELLOW"
+   ],
+   "teamIds": [
+    "739",
+    "742"
+   ],
+   "ground": "WCC 4",
+   "result": "NJ YELLOW won by 42 Runs",
+   "summary": "NJ YELLOW: 146/10(35.2) DC YELLOW: 104/10(33.1)"
+  },
+  {
+   "matchId": "2143",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2143&clubId=40319",
+   "date": "2023-07-31",
+   "type": "League",
+   "teams": [
+    "DC RED",
+    "NJ PURPLE"
+   ],
+   "teamIds": [
+    "737",
+    "740"
+   ],
+   "ground": "WCC 1",
+   "result": "DC RED won by 55 Runs",
+   "summary": "DC RED: 186/7(40) NJ PURPLE: 131/10(34.2)"
+  }
+ ]
+}

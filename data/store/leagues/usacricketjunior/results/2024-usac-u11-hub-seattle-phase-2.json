@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s214",
+  "id": "legacy-264",
+  "name": "2024 USAC U11 Hub - Seattle Phase 2"
+ },
+ "fetchedAt": "2026-11-13T22:36:32.673Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=264&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=264&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4182&clubId=40319",
+   "date": "2024-10-26",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1495",
+    "1494"
+   ],
+   "ground": "Perrigo 2",
+   "result": "Team Green won by 1 Run",
+   "summary": "Team Green: 227/6(30) Team Blue: 226/4(30)"
+  },
+  {
+   "matchId": "4174",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4174&clubId=40319",
+   "date": "2024-10-20",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1495",
+    "1493"
+   ],
+   "ground": "Perrigo 2",
+   "result": "Team Red won by 4 Wickets",
+   "summary": "Team Green: 169/5(30) Team Red: 171/6(26.3)"
+  },
+  {
+   "matchId": "4164",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4164&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1494",
+    "1493"
+   ],
+   "ground": "Perrigo 2",
+   "result": "Team Red won by 4 Wickets",
+   "summary": "Team Blue: 143/6(30) Team Red: 144/6(23.3)"
+  }
+ ]
+}

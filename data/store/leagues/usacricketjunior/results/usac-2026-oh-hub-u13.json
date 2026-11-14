@@ -1,0 +1,337 @@
+{
+ "season": {
+  "key": "s70",
+  "id": "legacy-514",
+  "name": "USAC 2026 - OH HUB - U13"
+ },
+ "fetchedAt": "2026-11-13T21:44:59.454Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=514&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=514&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9272",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9272&clubId=40319",
+   "date": "2026-08-02",
+   "type": "League",
+   "teams": [
+    "ACC Warriors",
+    "Super Kings Jaguars"
+   ],
+   "teamIds": [
+    "3126",
+    "3129"
+   ],
+   "ground": "Emerald Glen",
+   "result": "ACC Warriors won by 82 Runs",
+   "summary": "ACC Warriors: 109/6(21) Super Kings Jaguars: 27/11(14)"
+  },
+  {
+   "matchId": "9051",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9051&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "ACC Warriors",
+    "Super Kings Jaguars"
+   ],
+   "teamIds": [
+    "3126",
+    "3129"
+   ],
+   "ground": "TBD",
+   "result": "ACC Warriors won by 6 Wickets",
+   "summary": "Super Kings Jaguars: 90/9(30) ACC Warriors: 92/4(28.5)"
+  },
+  {
+   "matchId": "8754",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8754&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "MCA Conquerors",
+    "AYCA Chargers"
+   ],
+   "teamIds": [
+    "3131",
+    "3128"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA Conquerors won by 6 Wickets",
+   "summary": "AYCA Chargers: 104/10(24.4) MCA Conquerors: 105/4(18.4)"
+  },
+  {
+   "matchId": "8714",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8714&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "Super Kings Jaguars",
+    "PYCA Titans"
+   ],
+   "teamIds": [
+    "3129",
+    "3130"
+   ],
+   "ground": "TBD",
+   "result": "PYCA Titans won by 108 Runs",
+   "summary": "PYCA Titans: 192/6(30) Super Kings Jaguars: 84/9(30)"
+  },
+  {
+   "matchId": "8713",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8713&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "ACC Warriors",
+    "AYCA Strikers"
+   ],
+   "teamIds": [
+    "3126",
+    "3127"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Strikers won by 165 Runs",
+   "summary": "AYCA Strikers: 196/6(30) ACC Warriors: 31/10(15)"
+  },
+  {
+   "matchId": "8665",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8665&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "ACC Warriors",
+    "PYCA Titans"
+   ],
+   "teamIds": [
+    "3126",
+    "3130"
+   ],
+   "ground": "North Park",
+   "result": "PYCA Titans won by 126 Runs",
+   "summary": "PYCA Titans: 166/10(28.5) ACC Warriors: 40/11(11.1)"
+  },
+  {
+   "matchId": "8661",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8661&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "AYCA Strikers",
+    "MCA Conquerors"
+   ],
+   "teamIds": [
+    "3127",
+    "3131"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Strikers won by 97 Runs",
+   "summary": "AYCA Strikers: 184/9(29.5) MCA Conquerors: 87/10(22.5)"
+  },
+  {
+   "matchId": "8651",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8651&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "AYCA Strikers",
+    "AYCA Chargers"
+   ],
+   "teamIds": [
+    "3127",
+    "3128"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Strikers won by 157 Runs",
+   "summary": "AYCA Strikers: 238/5(30) AYCA Chargers: 81/10(21.2)"
+  },
+  {
+   "matchId": "8582",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8582&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "AYCA Strikers",
+    "PYCA Titans"
+   ],
+   "teamIds": [
+    "3127",
+    "3130"
+   ],
+   "ground": "TBD",
+   "result": "AYCA Strikers won by 101 Runs",
+   "summary": "AYCA Strikers: 157/10(29.5) PYCA Titans: 56/10(25.1)"
+  },
+  {
+   "matchId": "8513",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8513&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "AYCA Chargers",
+    "PYCA Titans"
+   ],
+   "teamIds": [
+    "3128",
+    "3130"
+   ],
+   "ground": "TBD",
+   "result": "PYCA Titans won by 7 Wickets",
+   "summary": "AYCA Chargers: 87/10(20.3) PYCA Titans: 88/3(15)"
+  },
+  {
+   "matchId": "8501",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8501&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "ACC Warriors",
+    "Super Kings Jaguars"
+   ],
+   "teamIds": [
+    "3126",
+    "3129"
+   ],
+   "ground": "North Park",
+   "result": "Abandoned.",
+   "summary": "ACC Warriors: 117/2(14.5)"
+  },
+  {
+   "matchId": "8390",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8390&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "AYCA Strikers",
+    "PYCA Titans"
+   ],
+   "teamIds": [
+    "3127",
+    "3130"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Strikers won by 1 Wicket",
+   "summary": "PYCA Titans: 72/9(30) AYCA Strikers: 73/9(23.4)"
+  },
+  {
+   "matchId": "8319",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8319&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "MCA Conquerors",
+    "ACC Warriors"
+   ],
+   "teamIds": [
+    "3131",
+    "3126"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA Conquerors won by 202 Runs",
+   "summary": "MCA Conquerors: 269/2(30) ACC Warriors: 67/10(17.2)"
+  },
+  {
+   "matchId": "8294",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8294&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "AYCA Chargers",
+    "Super Kings Jaguars"
+   ],
+   "teamIds": [
+    "3128",
+    "3129"
+   ],
+   "ground": "North Park",
+   "result": "AYCA Chargers won by 67 Runs",
+   "summary": "AYCA Chargers: 123/9(30.2) Super Kings Jaguars: 56/10(22.3)"
+  },
+  {
+   "matchId": "8079",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8079&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MCA Conquerors",
+    "PYCA Titans"
+   ],
+   "teamIds": [
+    "3131",
+    "3130"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA Conquerors won by 30 Runs",
+   "summary": "MCA Conquerors: 193/7(30) PYCA Titans: 163/11(29.2)"
+  },
+  {
+   "matchId": "7975",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7975&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "MCA Conquerors",
+    "Super Kings Jaguars"
+   ],
+   "teamIds": [
+    "3131",
+    "3129"
+   ],
+   "ground": "QUINN PARK",
+   "result": "MCA Conquerors won by 263 Runs",
+   "summary": "MCA Conquerors: 317/5(30) Super Kings Jaguars: 54/10(14.4)"
+  },
+  {
+   "matchId": "7881",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7881&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "ACC Warriors",
+    "AYCA Chargers"
+   ],
+   "teamIds": [
+    "3126",
+    "3128"
+   ],
+   "ground": "North Park",
+   "result": "AYCA Chargers won by 102 Runs",
+   "summary": "AYCA Chargers: 133/8(30) ACC Warriors: 31/10(12.1)"
+  },
+  {
+   "matchId": "7782",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7782&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "MCA Conquerors",
+    "AYCA Strikers"
+   ],
+   "teamIds": [
+    "3131",
+    "3127"
+   ],
+   "ground": "QUINN PARK",
+   "result": "AYCA Strikers won by 2 Wickets",
+   "summary": "MCA Conquerors: 142/10(29.2) AYCA Strikers: 143/8(23)"
+  },
+  {
+   "matchId": "7599",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7599&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "AYCA Strikers",
+    "Super Kings Jaguars"
+   ],
+   "teamIds": [
+    "3127",
+    "3129"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Strikers won by 8 Wickets",
+   "summary": "Super Kings Jaguars: 45/9(23.3) AYCA Strikers: 46/2(4)"
+  }
+ ]
+}

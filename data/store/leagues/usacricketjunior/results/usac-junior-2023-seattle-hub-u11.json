@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s371",
+  "id": "legacy-20",
+  "name": "USAC Junior 2023 - Seattle Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:18:29.632Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=20&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=20&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2481",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2481&clubId=40319",
+   "date": "2023-10-28",
+   "type": "Final",
+   "teams": [
+    "Team Pink",
+    "Team Green"
+   ],
+   "teamIds": [
+    "645",
+    "837"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "Team Green won by 5 Wickets",
+   "summary": "Team Pink: 88/10(30) Team Green: 91/5(28)"
+  },
+  {
+   "matchId": "2478",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2478&clubId=40319",
+   "date": "2023-10-22",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Pink"
+   ],
+   "teamIds": [
+    "837",
+    "645"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "Team Pink won by 9 Runs",
+   "summary": "Team Pink: 114/3(30) Team Green: 105/9(30)"
+  },
+  {
+   "matchId": "2471",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2471&clubId=40319",
+   "date": "2023-10-15",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "644",
+    "837"
+   ],
+   "ground": "Perrigo 2",
+   "result": "Team Green won by 32 Runs",
+   "summary": "Team Green: 117/7(30) Team Blue: 85/10(24.2)"
+  },
+  {
+   "matchId": "2467",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2467&clubId=40319",
+   "date": "2023-10-14",
+   "type": "League",
+   "teams": [
+    "Team Pink",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "645",
+    "644"
+   ],
+   "ground": "Perrigo 2",
+   "result": "Team Pink won by 4 Runs",
+   "summary": "Team Pink: 138/6(30) Team Blue: 134/10(30)"
+  }
+ ]
+}

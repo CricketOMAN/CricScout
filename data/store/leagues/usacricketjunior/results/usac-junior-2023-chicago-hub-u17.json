@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s358",
+  "id": "legacy-36",
+  "name": "USAC Junior 2023 -Chicago Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:16:16.632Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=36&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=36&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2284",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2284&clubId=40319",
+   "date": "2023-08-13",
+   "type": "League",
+   "teams": [
+    "CYCA Blackhawks",
+    "CMCE U17"
+   ],
+   "teamIds": [
+    "601",
+    "600"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA Blackhawks won by 10 Wickets",
+   "summary": "CMCE U17: 38/9(17.3) CYCA Blackhawks: 39/0(3.4)"
+  },
+  {
+   "matchId": "2261",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2261&clubId=40319",
+   "date": "2023-08-11",
+   "type": "League",
+   "teams": [
+    "CMCE U17",
+    "BPL Challengers"
+   ],
+   "teamIds": [
+    "600",
+    "598"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Challengers won by 9 Wickets",
+   "summary": "CMCE U17: 69/10(16) BPL Challengers: 74/1(10.1)"
+  },
+  {
+   "matchId": "2226",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2226&clubId=40319",
+   "date": "2023-08-06",
+   "type": "League",
+   "teams": [
+    "CYCA Blackhawks",
+    "BPL Challengers"
+   ],
+   "teamIds": [
+    "601",
+    "598"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA Blackhawks won by 111 Runs",
+   "summary": "CYCA Blackhawks: 292/7(40) BPL Challengers: 181/10(39.5)"
+  },
+  {
+   "matchId": "2204",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2204&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "BPL Challengers",
+    "CMCE U17"
+   ],
+   "teamIds": [
+    "598",
+    "600"
+   ],
+   "ground": "BPL",
+   "result": "BPL Challengers won by 6 Wickets",
+   "summary": "CMCE U17: 85/10(21.3) BPL Challengers: 87/4(12)"
+  },
+  {
+   "matchId": "2141",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2141&clubId=40319",
+   "date": "2023-07-30",
+   "type": "League",
+   "teams": [
+    "CYCA Blackhawks",
+    "BPL Challengers"
+   ],
+   "teamIds": [
+    "601",
+    "598"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA Blackhawks won by 48 Runs",
+   "summary": "CYCA Blackhawks: 105/10(28.5) BPL Challengers: 57/10(29.3)"
+  },
+  {
+   "matchId": "2120",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2120&clubId=40319",
+   "date": "2023-07-28",
+   "type": "League",
+   "teams": [
+    "CYCA Blackhawks",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "601",
+    "599"
+   ],
+   "ground": "CYCAP",
+   "result": "BPL Dominators won by 17 Runs",
+   "summary": "BPL Dominators: 150/7(30) CYCA Blackhawks: 133/8(28.1)"
+  },
+  {
+   "matchId": "1803",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1803&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "CMCE U17",
+    "CYCA Blackhawks"
+   ],
+   "teamIds": [
+    "600",
+    "601"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA Blackhawks won by 102 Runs",
+   "summary": "CYCA Blackhawks: 102/0(13)"
+  },
+  {
+   "matchId": "1756",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1756&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "BPL Challengers",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "598",
+    "599"
+   ],
+   "ground": "CYCAP",
+   "result": "BPL Dominators won by 60 Runs",
+   "summary": "BPL Dominators: 181/10(39.3) BPL Challengers: 121/9(40)"
+  },
+  {
+   "matchId": "1695",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1695&clubId=40319",
+   "date": "2023-06-09",
+   "type": "League",
+   "teams": [
+    "BPL Dominators",
+    "CMCE U17"
+   ],
+   "teamIds": [
+    "599",
+    "600"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 233 Runs",
+   "summary": "BPL Dominators: 389/8(40) CMCE U17: 156/7(35.5)"
+  }
+ ]
+}

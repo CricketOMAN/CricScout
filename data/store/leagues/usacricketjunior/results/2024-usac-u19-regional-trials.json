@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s235",
+  "id": "legacy-231",
+  "name": "2024 - USAC U19 Regional Trials"
+ },
+ "fetchedAt": "2026-11-13T22:39:22.543Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=231&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=231&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3941",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3941&clubId=40319",
+   "date": "2024-08-18",
+   "type": "League",
+   "teams": [
+    "Bay Area Blue",
+    "Bay Area Red"
+   ],
+   "teamIds": [
+    "1342",
+    "1343"
+   ],
+   "ground": "Davis",
+   "result": "Bay Area Red won by 56 Runs (D/L)",
+   "summary": "Bay Area Red: 166/12(43.1) Bay Area Blue: 193/9(42)"
+  },
+  {
+   "matchId": "3884",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3884&clubId=40319",
+   "date": "2024-08-11",
+   "type": "League",
+   "teams": [
+    "Bay Area Blue",
+    "Bay Area Red"
+   ],
+   "teamIds": [
+    "1342",
+    "1343"
+   ],
+   "ground": "Wilson Field",
+   "result": "Bay Area Blue won by 48 Runs",
+   "summary": "Bay Area Blue: 190/10(45.4) Bay Area Red: 142/10(38)"
+  },
+  {
+   "matchId": "3875",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3875&clubId=40319",
+   "date": "2024-08-10",
+   "type": "League",
+   "teams": [
+    "Bay Area Blue",
+    "Bay Area Red"
+   ],
+   "teamIds": [
+    "1342",
+    "1343"
+   ],
+   "ground": "Wilson Field",
+   "result": "Bay Area Red won by 4 Runs",
+   "summary": "Bay Area Red: 214/10(49.5) Bay Area Blue: 210/8(50)"
+  },
+  {
+   "matchId": "3826",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3826&clubId=40319",
+   "date": "2024-08-03",
+   "type": "League",
+   "teams": [
+    "Bay Area Blue",
+    "Bay Area Red"
+   ],
+   "teamIds": [
+    "1342",
+    "1343"
+   ],
+   "ground": "MH Field-2",
+   "result": "Bay Area Blue won by 142 Runs (D/L)",
+   "summary": "Bay Area Blue: 91/10(22.5) Bay Area Red: 82/10(20.3)"
+  }
+ ]
+}

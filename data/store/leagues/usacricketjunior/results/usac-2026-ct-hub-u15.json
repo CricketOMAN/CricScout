@@ -1,0 +1,337 @@
+{
+ "season": {
+  "key": "s103",
+  "id": "legacy-474",
+  "name": "USAC 2026 - CT Hub U15"
+ },
+ "fetchedAt": "2026-11-13T21:49:53.460Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=474&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=474&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8885",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8885&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "NMCC Foxes",
+    "CCA Thunderbolts"
+   ],
+   "teamIds": [
+    "2760",
+    "3099"
+   ],
+   "ground": "New Milford",
+   "result": "Forfeited. Winner: NMCC Foxes",
+   "summary": "NMCC Foxes: 0/0(0)"
+  },
+  {
+   "matchId": "8896",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8896&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "NMCC Foxes",
+    "KRCA CT Kings B"
+   ],
+   "teamIds": [
+    "2760",
+    "2764"
+   ],
+   "ground": "New Milford",
+   "result": "NMCC Foxes won by 10 Wickets",
+   "summary": "KRCA CT Kings B: 72/9(27.4) NMCC Foxes: 76/0(5.1)"
+  },
+  {
+   "matchId": "8876",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8876&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "KRCA CT Kings A",
+    "PCA Jaguars"
+   ],
+   "teamIds": [
+    "2763",
+    "2762"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Kings A won by 203 Runs",
+   "summary": "KRCA CT Kings A: 307/1(30) PCA Jaguars: 104/9(30)"
+  },
+  {
+   "matchId": "8792",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8792&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "NMCC Foxes",
+    "CCA Thunderbolts"
+   ],
+   "teamIds": [
+    "2760",
+    "3099"
+   ],
+   "ground": "New Milford",
+   "result": "NMCC Foxes won by 389 Runs",
+   "summary": "NMCC Foxes: 459/5(30) CCA Thunderbolts: 70/11(26.3)"
+  },
+  {
+   "matchId": "8790",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8790&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "KRCA CT Kings B"
+   ],
+   "teamIds": [
+    "2762",
+    "2764"
+   ],
+   "ground": "WATERBURY",
+   "result": "PCA Jaguars won by 10 Wickets",
+   "summary": "KRCA CT Kings B: 95/8(30) PCA Jaguars: 99/0(8.3)"
+  },
+  {
+   "matchId": "8767",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8767&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "KRCA CT Kings A",
+    "PCA Jaguars"
+   ],
+   "teamIds": [
+    "2763",
+    "2762"
+   ],
+   "ground": "WATERBURY",
+   "result": "KRCA CT Kings A won by 7 Wickets",
+   "summary": "PCA Jaguars: 137/10(27.2) KRCA CT Kings A: 141/3(19.3)"
+  },
+  {
+   "matchId": "8693",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8693&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "KRCA CT Kings B",
+    "CCA Thunderbolts"
+   ],
+   "teamIds": [
+    "2764",
+    "3099"
+   ],
+   "ground": "WATERBURY",
+   "result": "KRCA CT Kings B won by 6 Wickets",
+   "summary": "CCA Thunderbolts: 100/10(24.3) KRCA CT Kings B: 101/4(20)"
+  },
+  {
+   "matchId": "8692",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8692&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "NMCC Foxes",
+    "KRCA CT Kings A"
+   ],
+   "teamIds": [
+    "2760",
+    "2763"
+   ],
+   "ground": "Danbury",
+   "result": "KRCA CT Kings A won by 7 Wickets",
+   "summary": "NMCC Foxes: 111/8(30) KRCA CT Kings A: 112/3(15.2)"
+  },
+  {
+   "matchId": "8537",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8537&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "CCA Thunderbolts"
+   ],
+   "teamIds": [
+    "2762",
+    "3099"
+   ],
+   "ground": "WATERBURY",
+   "result": "PCA Jaguars won by 236 Runs",
+   "summary": "PCA Jaguars: 313/7(30) CCA Thunderbolts: 77/10(23.3)"
+  },
+  {
+   "matchId": "8491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8491&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "NMCC Foxes",
+    "KRCA CT Kings A"
+   ],
+   "teamIds": [
+    "2760",
+    "2763"
+   ],
+   "ground": "New Milford",
+   "result": "KRCA CT Kings A won by 108 Runs",
+   "summary": "KRCA CT Kings A: 173/6(30) NMCC Foxes: 65/10(22.4)"
+  },
+  {
+   "matchId": "8342",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8342&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "KRCA CT Kings A",
+    "CCA Thunderbolts"
+   ],
+   "teamIds": [
+    "2763",
+    "3099"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Kings A won by 10 Wickets",
+   "summary": "CCA Thunderbolts: 25/10(13.2) KRCA CT Kings A: 26/0(1.5)"
+  },
+  {
+   "matchId": "8306",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8306&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "NMCC Foxes"
+   ],
+   "teamIds": [
+    "2762",
+    "2760"
+   ],
+   "ground": "WATERBURY",
+   "result": "NMCC Foxes won by 6 Wickets",
+   "summary": "PCA Jaguars: 163/7(25) NMCC Foxes: 164/4(23.5)"
+  },
+  {
+   "matchId": "8120",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8120&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "PCA Jaguars",
+    "CCA Thunderbolts"
+   ],
+   "teamIds": [
+    "2762",
+    "3099"
+   ],
+   "ground": "New Milford",
+   "result": "PCA Jaguars won by 165 Runs",
+   "summary": "PCA Jaguars: 271/8(30) CCA Thunderbolts: 106/7(30)"
+  },
+  {
+   "matchId": "8101",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8101&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "KRCA CT Kings B",
+    "KRCA CT Kings A"
+   ],
+   "teamIds": [
+    "2764",
+    "2763"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Kings A won by 278 Runs",
+   "summary": "KRCA CT Kings A: 365/8(29.1) KRCA CT Kings B: 87/10(29.1)"
+  },
+  {
+   "matchId": "8002",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8002&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "NMCC Foxes",
+    "PCA Jaguars"
+   ],
+   "teamIds": [
+    "2760",
+    "2762"
+   ],
+   "ground": "New Milford",
+   "result": "PCA Jaguars won by 29 Runs",
+   "summary": "PCA Jaguars: 131/4(26) NMCC Foxes: 102/10(25.4)"
+  },
+  {
+   "matchId": "7635",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7635&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NMCC Foxes",
+    "KRCA CT Kings B"
+   ],
+   "teamIds": [
+    "2760",
+    "2764"
+   ],
+   "ground": "WATERBURY",
+   "result": "NMCC Foxes won by 144 Runs",
+   "summary": "NMCC Foxes: 207/7(30) KRCA CT Kings B: 63/10(26.4)"
+  },
+  {
+   "matchId": "7581",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7581&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "KRCA CT Kings B",
+    "KRCA CT Kings A"
+   ],
+   "teamIds": [
+    "2764",
+    "2763"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Kings A won by 208 Runs",
+   "summary": "KRCA CT Kings A: 267/2(30) KRCA CT Kings B: 59/9(30)"
+  },
+  {
+   "matchId": "7492",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7492&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "KRCA CT Kings A",
+    "CCA Thunderbolts"
+   ],
+   "teamIds": [
+    "2763",
+    "3099"
+   ],
+   "ground": "Maxwell",
+   "result": "KRCA CT Kings A won by 10 Wickets",
+   "summary": "CCA Thunderbolts: 54/10(28.1) KRCA CT Kings A: 57/0(3.5)"
+  },
+  {
+   "matchId": "7489",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7489&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "KRCA CT Kings B",
+    "PCA Jaguars"
+   ],
+   "teamIds": [
+    "2764",
+    "2762"
+   ],
+   "ground": "WATERBURY",
+   "result": "Abandoned.",
+   "summary": "PCA Jaguars: 184/4(20)"
+  }
+ ]
+}

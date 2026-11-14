@@ -1,0 +1,303 @@
+{
+ "season": {
+  "key": "s219",
+  "id": "legacy-252",
+  "name": "2024 USAC U15 - Western Conference Regionals"
+ },
+ "fetchedAt": "2026-11-13T22:36:39.309Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=252&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=252&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4024",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4024&clubId=40319",
+   "date": "2024-09-02",
+   "type": "Final",
+   "teams": [
+    "Bay Area - Warriors",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1409",
+    "1414"
+   ],
+   "ground": "Davis",
+   "result": "Bay Area - Warriors won by 75 Runs",
+   "summary": "Bay Area - Warriors: 154/10(40) Missouri: 79/10(28.2)"
+  },
+  {
+   "matchId": "4023",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4023&clubId=40319",
+   "date": "2024-09-02",
+   "type": "Eliminator",
+   "teams": [
+    "Houston",
+    "Seattle"
+   ],
+   "teamIds": [
+    "1407",
+    "1411"
+   ],
+   "ground": "Meriwest",
+   "result": "Seattle won by 77 Runs",
+   "summary": "Seattle: 161/10(37.1) Houston: 84/10(29.2)"
+  },
+  {
+   "matchId": "4022",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4022&clubId=40319",
+   "date": "2024-09-02",
+   "type": "3rd Position",
+   "teams": [
+    "Dallas - Royals",
+    "Bay Area - Knights"
+   ],
+   "teamIds": [
+    "1408",
+    "1413"
+   ],
+   "ground": "FSP",
+   "result": "Bay Area - Knights won by 71 Runs",
+   "summary": "Bay Area - Knights: 166/10(39.3) Dallas - Royals: 95/10(30)"
+  },
+  {
+   "matchId": "4021",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4021&clubId=40319",
+   "date": "2024-09-02",
+   "type": "Eliminator",
+   "teams": [
+    "Los Angeles",
+    "Dallas - Titans"
+   ],
+   "teamIds": [
+    "1410",
+    "1412"
+   ],
+   "ground": "Seabreeze",
+   "result": "Los Angeles won by 5 Wickets",
+   "summary": "Dallas - Titans: 215/10(39.3) Los Angeles: 221/5(37)"
+  },
+  {
+   "matchId": "4009",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4009&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Dallas - Royals",
+    "Bay Area - Warriors"
+   ],
+   "teamIds": [
+    "1408",
+    "1409"
+   ],
+   "ground": "Davis",
+   "result": "Bay Area - Warriors won by 4 Wickets",
+   "summary": "Dallas - Royals: 153/9(40) Bay Area - Warriors: 154/6(29.5)"
+  },
+  {
+   "matchId": "4008",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4008&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Los Angeles"
+   ],
+   "teamIds": [
+    "1407",
+    "1410"
+   ],
+   "ground": "FSP",
+   "result": "Houston won by 8 Wickets",
+   "summary": "Los Angeles: 94/10(24) Houston: 98/2(19.2)"
+  },
+  {
+   "matchId": "4007",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4007&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Dallas - Titans",
+    "Bay Area - Knights"
+   ],
+   "teamIds": [
+    "1412",
+    "1413"
+   ],
+   "ground": "Meriwest",
+   "result": "Bay Area - Knights won by 7 Runs",
+   "summary": "Bay Area - Knights: 132/10(36.1) Dallas - Titans: 125/10(33)"
+  },
+  {
+   "matchId": "4006",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4006&clubId=40319",
+   "date": "2024-09-01",
+   "type": "League",
+   "teams": [
+    "Seattle",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1411",
+    "1414"
+   ],
+   "ground": "FCP",
+   "result": "Missouri won by 12 Runs",
+   "summary": "Missouri: 224/7(40) Seattle: 212/10(24.4)"
+  },
+  {
+   "matchId": "3996",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3996&clubId=40319",
+   "date": "2024-08-31",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Bay Area - Warriors"
+   ],
+   "teamIds": [
+    "1407",
+    "1409"
+   ],
+   "ground": "Davis",
+   "result": "Bay Area - Warriors won by 118 Runs",
+   "summary": "Bay Area - Warriors: 206/10(39.5) Houston: 88/10(29.3)"
+  },
+  {
+   "matchId": "3995",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3995&clubId=40319",
+   "date": "2024-08-31",
+   "type": "League",
+   "teams": [
+    "Dallas - Royals",
+    "Los Angeles"
+   ],
+   "teamIds": [
+    "1408",
+    "1410"
+   ],
+   "ground": "FSP",
+   "result": "Los Angeles won by 3 Wickets",
+   "summary": "Dallas - Royals: 145/10(30.4) Los Angeles: 146/7(35.2)"
+  },
+  {
+   "matchId": "3994",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3994&clubId=40319",
+   "date": "2024-08-31",
+   "type": "League",
+   "teams": [
+    "Dallas - Titans",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1412",
+    "1414"
+   ],
+   "ground": "Seabreeze",
+   "result": "Missouri won by 2 Wickets",
+   "summary": "Dallas - Titans: 125/9(40) Missouri: 126/8(36.3)"
+  },
+  {
+   "matchId": "3993",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3993&clubId=40319",
+   "date": "2024-08-31",
+   "type": "League",
+   "teams": [
+    "Seattle",
+    "Bay Area - Knights"
+   ],
+   "teamIds": [
+    "1411",
+    "1413"
+   ],
+   "ground": "Meriwest",
+   "result": "Bay Area - Knights won by 62 Runs",
+   "summary": "Bay Area - Knights: 104/10(34.4) Seattle: 42/10(15.4)"
+  },
+  {
+   "matchId": "3984",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3984&clubId=40319",
+   "date": "2024-08-30",
+   "type": "League",
+   "teams": [
+    "Bay Area - Knights",
+    "Missouri"
+   ],
+   "teamIds": [
+    "1413",
+    "1414"
+   ],
+   "ground": "MH Field-2",
+   "result": "Missouri won by 66 Runs",
+   "summary": "Missouri: 258/6(40) Bay Area - Knights: 192/10(31.5)"
+  },
+  {
+   "matchId": "3983",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3983&clubId=40319",
+   "date": "2024-08-30",
+   "type": "League",
+   "teams": [
+    "Bay Area - Warriors",
+    "Los Angeles"
+   ],
+   "teamIds": [
+    "1409",
+    "1410"
+   ],
+   "ground": "FCP",
+   "result": "Bay Area - Warriors won by 169 Runs",
+   "summary": "Bay Area - Warriors: 307/7(40) Los Angeles: 138/10(33.1)"
+  },
+  {
+   "matchId": "3982",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3982&clubId=40319",
+   "date": "2024-08-30",
+   "type": "League",
+   "teams": [
+    "Seattle",
+    "Dallas - Titans"
+   ],
+   "teamIds": [
+    "1411",
+    "1412"
+   ],
+   "ground": "Meriwest",
+   "result": "Seattle won by 4 Runs",
+   "summary": "Seattle: 159/10(35) Dallas - Titans: 155/10(38.5)"
+  },
+  {
+   "matchId": "3981",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3981&clubId=40319",
+   "date": "2024-08-30",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Dallas - Royals"
+   ],
+   "teamIds": [
+    "1407",
+    "1408"
+   ],
+   "ground": "FSP",
+   "result": "Dallas - Royals won by 1 Wicket",
+   "summary": "Houston: 132/10(39.4) Dallas - Royals: 133/9(38.1)"
+  },
+  {
+   "matchId": "3972",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3972&clubId=40319",
+   "date": "2024-08-25",
+   "type": "Practice",
+   "teams": [
+    "Bay Area - Knights",
+    "Bay Area - Warriors"
+   ],
+   "teamIds": [
+    "1413",
+    "1409"
+   ],
+   "ground": "MH Field-1",
+   "result": "Bay Area - Warriors won by 7 Wickets (D/L)",
+   "summary": "Bay Area - Knights: 137/10(32.4) Bay Area - Warriors: 138/3(34.3)"
+  }
+ ]
+}

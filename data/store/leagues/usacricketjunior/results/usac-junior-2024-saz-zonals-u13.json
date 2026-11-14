@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s241",
+  "id": "legacy-222",
+  "name": "USAC Junior 2024 - SAZ Zonals U13"
+ },
+ "fetchedAt": "2026-11-13T22:39:28.032Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=222&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=222&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3750",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3750&clubId=40319",
+   "date": "2024-07-21",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1311",
+    "1312"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Purple won by 3 Runs",
+   "summary": "Team Purple: 213/9(30) Team Blue: 210/4(30)"
+  },
+  {
+   "matchId": "3728",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3728&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1311",
+    "1312"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Purple won by 8 Runs (D/L)",
+   "summary": "Team Blue: 194/10(28.3) Team Purple: 117/3(19)"
+  },
+  {
+   "matchId": "3674",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3674&clubId=40319",
+   "date": "2024-07-14",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1311",
+    "1312"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Blue won by 5 Runs",
+   "summary": "Team Blue: 200/6(30) Team Purple: 195/9(30)"
+  },
+  {
+   "matchId": "3661",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3661&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1311",
+    "1312"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Blue won by 8 Wickets",
+   "summary": "Team Purple: 166/7(30) Team Blue: 167/2(26.5)"
+  }
+ ]
+}

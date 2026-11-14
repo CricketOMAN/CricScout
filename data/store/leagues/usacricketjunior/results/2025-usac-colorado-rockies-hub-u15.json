@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s177",
+  "id": "legacy-325",
+  "name": "2025 USAC Colorado Rockies Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T22:23:05.993Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=325&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=325&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5269",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5269&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "DYCA-Thornton Trojans U15",
+    "DYCA-Denver Dynamites U15"
+   ],
+   "teamIds": [
+    "1886",
+    "1887"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Thornton Trojans U15 won by 11 Runs",
+   "summary": "DYCA-Thornton Trojans U15: 114/6(19.5) DYCA-Denver Dynamites U15: 103/9(20)"
+  },
+  {
+   "matchId": "5224",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5224&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U15",
+    "DYCA-Thornton Trojans U15"
+   ],
+   "teamIds": [
+    "1887",
+    "1886"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Thornton Trojans U15 won by 8 Wickets",
+   "summary": "DYCA-Denver Dynamites U15: 113/4(20) DYCA-Thornton Trojans U15: 114/2(14.3)"
+  },
+  {
+   "matchId": "4766",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4766&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U15",
+    "DYCA-Thornton Trojans U15"
+   ],
+   "teamIds": [
+    "1887",
+    "1886"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Thornton Trojans U15 won by 5 Wickets",
+   "summary": "DYCA-Denver Dynamites U15: 88/7(20) DYCA-Thornton Trojans U15: 91/5(19.5)"
+  },
+  {
+   "matchId": "4878",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4878&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U15",
+    "DYCA-Thornton Trojans U15"
+   ],
+   "teamIds": [
+    "1887",
+    "1886"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Thornton Trojans U15 won by 50 Runs",
+   "summary": "DYCA-Thornton Trojans U15: 147/8(20) DYCA-Denver Dynamites U15: 97/5(20)"
+  },
+  {
+   "matchId": "4496",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4496&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "DYCA-Thornton Trojans U15",
+    "DYCA-Denver Dynamites U15"
+   ],
+   "teamIds": [
+    "1886",
+    "1887"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Denver Dynamites U15 won by 23 Runs",
+   "summary": "DYCA-Denver Dynamites U15: 141/5(20) DYCA-Thornton Trojans U15: 118/7(18)"
+  },
+  {
+   "matchId": "4478",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4478&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "DYCA-Denver Dynamites U15",
+    "DYCA-Thornton Trojans U15"
+   ],
+   "teamIds": [
+    "1887",
+    "1886"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Denver Dynamites U15 won by 9 Wickets",
+   "summary": "DYCA-Thornton Trojans U15: 163/4(20) DYCA-Denver Dynamites U15: 164/1(18.2)"
+  }
+ ]
+}

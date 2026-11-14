@@ -1,0 +1,252 @@
+{
+ "season": {
+  "key": "s160",
+  "id": "legacy-360",
+  "name": "2025 USAC Missouri Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:15:55.084Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=360&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=360&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5967",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5967&clubId=40319",
+   "date": "2025-07-02",
+   "type": "League",
+   "teams": [
+    "STL U15",
+    "ICE-1-U15"
+   ],
+   "teamIds": [
+    "2129",
+    "2130"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE-1-U15 won by 47 Runs",
+   "summary": "ICE-1-U15: 111/10(27.2) STL U15: 64/10(26.4)"
+  },
+  {
+   "matchId": "5965",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5965&clubId=40319",
+   "date": "2025-07-02",
+   "type": "League",
+   "teams": [
+    "WIM U15",
+    "ICE-2-U15"
+   ],
+   "teamIds": [
+    "2132",
+    "2131"
+   ],
+   "ground": "DP Cricket Ground",
+   "result": "ICE-2-U15 won by 9 Runs",
+   "summary": "ICE-2-U15: 78/9(30) WIM U15: 69/11(29.3)"
+  },
+  {
+   "matchId": "5962",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5962&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "STL U15",
+    "ICE-1-U15"
+   ],
+   "teamIds": [
+    "2129",
+    "2130"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE-1-U15 won by 37 Runs",
+   "summary": "ICE-1-U15: 151/6(30) STL U15: 114/9(29.5)"
+  },
+  {
+   "matchId": "5961",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5961&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "WIM U15",
+    "ICE-2-U15"
+   ],
+   "teamIds": [
+    "2132",
+    "2131"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE-2-U15 won by 9 Wickets",
+   "summary": "WIM U15: 88/11(28.5) ICE-2-U15: 91/1(15.5)"
+  },
+  {
+   "matchId": "5955",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5955&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "WIM U15",
+    "ICE-1-U15"
+   ],
+   "teamIds": [
+    "2132",
+    "2130"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE-1-U15 won by 7 Wickets",
+   "summary": "WIM U15: 93/11(29.5) ICE-1-U15: 94/3(15.1)"
+  },
+  {
+   "matchId": "5954",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5954&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "STL U15",
+    "ICE-2-U15"
+   ],
+   "teamIds": [
+    "2129",
+    "2131"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "STL U15 won by 7 Wickets",
+   "summary": "ICE-2-U15: 79/10(29.2) STL U15: 82/3(23.3)"
+  },
+  {
+   "matchId": "5944",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5944&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "STL U15",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "2129",
+    "2132"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "WIM U15 won by 15 Runs",
+   "summary": "WIM U15: 165/9(40) STL U15: 150/11(38.3)"
+  },
+  {
+   "matchId": "5933",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5933&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "ICE-1-U15",
+    "ICE-2-U15"
+   ],
+   "teamIds": [
+    "2130",
+    "2131"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "ICE-1-U15 won by 58 Runs",
+   "summary": "ICE-1-U15: 161/8(35) ICE-2-U15: 103/10(34.4)"
+  },
+  {
+   "matchId": "5926",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5926&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "STL U15",
+    "WIM U15"
+   ],
+   "teamIds": [
+    "2129",
+    "2132"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "STL U15 won by 27 Runs",
+   "summary": "STL U15: 136/10(26.5) WIM U15: 109/9(30)"
+  },
+  {
+   "matchId": "5888",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5888&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "ICE-1-U15",
+    "ICE-2-U15"
+   ],
+   "teamIds": [
+    "2130",
+    "2131"
+   ],
+   "ground": "BPL",
+   "result": "ICE-1-U15 won by 9 Wickets",
+   "summary": "ICE-2-U15: 73/11(26.4) ICE-1-U15: 74/1(9.3)"
+  },
+  {
+   "matchId": "5816",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5816&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "WIM U15",
+    "ICE-1-U15"
+   ],
+   "teamIds": [
+    "2132",
+    "2130"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "ICE-1-U15 won by 192 Runs",
+   "summary": "ICE-1-U15: 245/8(35) WIM U15: 53/10(26.1)"
+  },
+  {
+   "matchId": "5781",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5781&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "STL U15",
+    "ICE-2-U15"
+   ],
+   "teamIds": [
+    "2129",
+    "2131"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "STL U15 won by 19 Runs",
+   "summary": "STL U15: 163/9(35) ICE-2-U15: 144/10(35)"
+  },
+  {
+   "matchId": "5770",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5770&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "WIM U15",
+    "ICE-2-U15"
+   ],
+   "teamIds": [
+    "2132",
+    "2131"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "ICE-2-U15 won by 83 Runs",
+   "summary": "ICE-2-U15: 152/5(30) WIM U15: 69/10(29.3)"
+  },
+  {
+   "matchId": "5760",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5760&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "STL U15",
+    "ICE-1-U15"
+   ],
+   "teamIds": [
+    "2129",
+    "2130"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "ICE-1-U15 won by 43 Runs (D/L)",
+   "summary": "ICE-1-U15: 139/7(25) STL U15: 100/10(24.5)"
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s267",
+  "id": "legacy-191",
+  "name": "USAC Junior 2024 - Seattle Hub U13"
+ },
+ "fetchedAt": "2026-11-13T22:44:27.355Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=191&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=191&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3491&clubId=40319",
+   "date": "2024-06-21",
+   "type": "League",
+   "teams": [
+    "MLCA Superkings",
+    "SKA Singams"
+   ],
+   "teamIds": [
+    "1099",
+    "1101"
+   ],
+   "ground": "Monroe High School",
+   "result": "Abandoned. Winner: MLCA Superkings",
+   "summary": "MLCA Superkings: 136/8(26.5) SKA Singams: 53/2(15)"
+  },
+  {
+   "matchId": "3021",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3021&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "SKA Tigers",
+    "SKA Singams"
+   ],
+   "teamIds": [
+    "1100",
+    "1101"
+   ],
+   "ground": "Marymoor Park",
+   "result": "SKA Singams won by 8 Wickets",
+   "summary": "SKA Tigers: 65/10(29.4) SKA Singams: 66/2(11.3)"
+  },
+  {
+   "matchId": "2942",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2942&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "PBL Knights",
+    "SKA Tigers"
+   ],
+   "teamIds": [
+    "1098",
+    "1100"
+   ],
+   "ground": "Marymoor Park",
+   "result": "PBL Knights won by 68 Runs",
+   "summary": "PBL Knights: 183/8(30) SKA Tigers: 115/10(24.5)"
+  },
+  {
+   "matchId": "2926",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2926&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "MLCAS Warriors",
+    "MLCA Superkings"
+   ],
+   "teamIds": [
+    "1097",
+    "1099"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "MLCAS Warriors won by 31 Runs (D/L)",
+   "summary": "MLCAS Warriors: 134/3(25) MLCA Superkings: 124/10(22.2)"
+  },
+  {
+   "matchId": "2914",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2914&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "SKA Tigers",
+    "MLCA Superkings"
+   ],
+   "teamIds": [
+    "1100",
+    "1099"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "MLCA Superkings won by 10 Wickets",
+   "summary": "SKA Tigers: 28/8(14.2) MLCA Superkings: 29/0(4.5)"
+  },
+  {
+   "matchId": "2890",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2890&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "SKA Singams",
+    "MLCAS Warriors"
+   ],
+   "teamIds": [
+    "1101",
+    "1097"
+   ],
+   "ground": "Marymoor Park",
+   "result": "SKA Singams won by 11 Runs",
+   "summary": "SKA Singams: 172/8(30) MLCAS Warriors: 161/7(30)"
+  },
+  {
+   "matchId": "2846",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2846&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "BCC ORS U13",
+    "SKA Tigers"
+   ],
+   "teamIds": [
+    "1102",
+    "1100"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "BCC ORS U13 won by 96 Runs",
+   "summary": "BCC ORS U13: 184/4(30) SKA Tigers: 88/9(26.1)"
+  },
+  {
+   "matchId": "2831",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2831&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "SKA Singams",
+    "BCC ORS U13"
+   ],
+   "teamIds": [
+    "1101",
+    "1102"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "BCC ORS U13 won by 8 Wickets",
+   "summary": "SKA Singams: 134/4(30) BCC ORS U13: 137/2(27.1)"
+  },
+  {
+   "matchId": "2822",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2822&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "PBL Knights",
+    "MLCAS Warriors"
+   ],
+   "teamIds": [
+    "1098",
+    "1097"
+   ],
+   "ground": "Marymoor Park",
+   "result": "MLCAS Warriors won by 5 Wickets",
+   "summary": "PBL Knights: 176/7(30) MLCAS Warriors: 177/5(27.4)"
+  },
+  {
+   "matchId": "2817",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2817&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "MLCAS Warriors",
+    "BCC ORS U13"
+   ],
+   "teamIds": [
+    "1097",
+    "1102"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "MLCAS Warriors won by 75 Runs",
+   "summary": "MLCAS Warriors: 198/6(30) BCC ORS U13: 123/6(30)"
+  },
+  {
+   "matchId": "2781",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2781&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "MLCA Superkings",
+    "PBL Knights"
+   ],
+   "teamIds": [
+    "1099",
+    "1098"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "MLCA Superkings won by 70 Runs",
+   "summary": "MLCA Superkings: 179/4(30) PBL Knights: 109/10(26.5)"
+  },
+  {
+   "matchId": "2759",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2759&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "PBL Knights",
+    "SKA Singams"
+   ],
+   "teamIds": [
+    "1098",
+    "1101"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "SKA Singams won by 5 Wickets",
+   "summary": "PBL Knights: 84/10(29.3) SKA Singams: 86/5(27.1)"
+  },
+  {
+   "matchId": "2749",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2749&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "MLCAS Warriors",
+    "SKA Tigers"
+   ],
+   "teamIds": [
+    "1097",
+    "1100"
+   ],
+   "ground": "Mt.Si High School",
+   "result": "MLCAS Warriors won by 204 Runs",
+   "summary": "MLCAS Warriors: 282/3(30) SKA Tigers: 78/10(20.4)"
+  },
+  {
+   "matchId": "2747",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2747&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "MLCA Superkings",
+    "BCC ORS U13"
+   ],
+   "teamIds": [
+    "1099",
+    "1102"
+   ],
+   "ground": "Marymoor Park",
+   "result": "BCC ORS U13 won by 29 Runs",
+   "summary": "BCC ORS U13: 102/9(29.5) MLCA Superkings: 73/8(23)"
+  },
+  {
+   "matchId": "2722",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2722&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "PBL Knights",
+    "BCC ORS U13"
+   ],
+   "teamIds": [
+    "1098",
+    "1102"
+   ],
+   "ground": "Marymoor Park",
+   "result": "BCC ORS U13 won by 8 Wickets",
+   "summary": "PBL Knights: 62/8(16.3) BCC ORS U13: 63/2(6.1)"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "season": {
+  "key": "s40",
+  "id": "legacy-553",
+  "name": "USAC 2026 | North Carolina | U13 | Regionals"
+ },
+ "fetchedAt": "2026-11-13T21:41:17.809Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=553&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=553&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8926",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8926&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3271",
+    "3272"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "Team Blue won by 16 Runs",
+   "summary": "Team Blue: 182/6(40) Team Red: 166/7(40)"
+  },
+  {
+   "matchId": "8902",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8902&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3271",
+    "3272"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "Team Red won by 18 Runs",
+   "summary": "Team Red: 134/10(35.3) Team Blue: 116/10(33.3)"
+  },
+  {
+   "matchId": "8807",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8807&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3272",
+    "3271"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Team Blue won by 8 Wickets",
+   "summary": "Team Red: 166/8(40) Team Blue: 167/2(33.3)"
+  },
+  {
+   "matchId": "8768",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8768&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3272",
+    "3271"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Team Red won by 5 Wickets",
+   "summary": "Team Blue: 157/10(39) Team Red: 158/5(35)"
+  },
+  {
+   "matchId": "8756",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8756&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3271",
+    "3272"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Team Red won by 4 Wickets",
+   "summary": "Team Blue: 159/9(40) Team Red: 160/6(36.2)"
+  }
+ ]
+}

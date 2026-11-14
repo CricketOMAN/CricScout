@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s12",
+  "id": "legacy-594",
+  "name": "USAC 2026 Western Conference U13 Leg 2"
+ },
+ "fetchedAt": "2026-11-13T21:39:57.281Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=594&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=594&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9247",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9247&clubId=40319",
+   "date": "2026-07-27",
+   "type": "League",
+   "teams": [
+    "North Central Blasters",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3473",
+    "3479"
+   ],
+   "ground": "Sandy Lake",
+   "result": "Northwest Blazers won by 28 Runs",
+   "summary": "Northwest Blazers: 172/4(30) North Central Blasters: 144/10(28.4)"
+  },
+  {
+   "matchId": "9246",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9246&clubId=40319",
+   "date": "2026-07-27",
+   "type": "League",
+   "teams": [
+    "North Central Knights",
+    "Bay Area Titans"
+   ],
+   "teamIds": [
+    "3474",
+    "3476"
+   ],
+   "ground": "NMCG 2",
+   "result": "Bay Area Titans won by 4 Wickets",
+   "summary": "North Central Knights: 163/8(30) Bay Area Titans: 167/6(25.1)"
+  },
+  {
+   "matchId": "9245",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9245&clubId=40319",
+   "date": "2026-07-27",
+   "type": "League",
+   "teams": [
+    "Mid West A",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3472",
+    "3478"
+   ],
+   "ground": "Alma Ground",
+   "result": "Mid West A won by 38 Runs",
+   "summary": "Mid West A: 137/6(30) LA Avengers: 99/7(30)"
+  },
+  {
+   "matchId": "9244",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9244&clubId=40319",
+   "date": "2026-07-27",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "Bay Area Unicorns"
+   ],
+   "teamIds": [
+    "3475",
+    "3477"
+   ],
+   "ground": "NMCG 1",
+   "result": "Bay Area Unicorns won by 8 Wickets",
+   "summary": "South Central Supernovas: 92/10(28.1) Bay Area Unicorns: 94/2(12.3)"
+  },
+  {
+   "matchId": "9243",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9243&clubId=40319",
+   "date": "2026-07-26",
+   "type": "League",
+   "teams": [
+    "North Central Knights",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3474",
+    "3478"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "LA Avengers won by 34 Runs",
+   "summary": "LA Avengers: 133/10(28.5) North Central Knights: 99/10(28.4)"
+  },
+  {
+   "matchId": "9242",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9242&clubId=40319",
+   "date": "2026-07-26",
+   "type": "League",
+   "teams": [
+    "North Central Blasters",
+    "Bay Area Unicorns"
+   ],
+   "teamIds": [
+    "3473",
+    "3477"
+   ],
+   "ground": "BF Philips",
+   "result": "Bay Area Unicorns won by 7 Wickets",
+   "summary": "North Central Blasters: 133/9(30) Bay Area Unicorns: 134/3(20.2)"
+  },
+  {
+   "matchId": "9230",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9230&clubId=40319",
+   "date": "2026-07-26",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3475",
+    "3479"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "South Central Supernovas won by 5 Wickets",
+   "summary": "Northwest Blazers: 108/10(26.5) South Central Supernovas: 109/5(25.1)"
+  },
+  {
+   "matchId": "9229",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9229&clubId=40319",
+   "date": "2026-07-26",
+   "type": "League",
+   "teams": [
+    "Mid West A",
+    "Bay Area Titans"
+   ],
+   "teamIds": [
+    "3472",
+    "3476"
+   ],
+   "ground": "BF Philips",
+   "result": "Super Over. Winner: Bay Area Titans",
+   "summary": "Mid West A: 136/6(30) Bay Area Titans: 136/10(29.2)"
+  },
+  {
+   "matchId": "9226",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9226&clubId=40319",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "Mid West A",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3472",
+    "3479"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "Mid West A won by 4 Wickets",
+   "summary": "Northwest Blazers: 112/9(30) Mid West A: 116/6(28.2)"
+  },
+  {
+   "matchId": "9225",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9225&clubId=40319",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "Bay Area Titans"
+   ],
+   "teamIds": [
+    "3475",
+    "3476"
+   ],
+   "ground": "BF Philips",
+   "result": "Bay Area Titans won by 7 Wickets",
+   "summary": "South Central Supernovas: 131/8(30) Bay Area Titans: 132/3(21.1)"
+  },
+  {
+   "matchId": "9202",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9202&clubId=40319",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "North Central Blasters",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3473",
+    "3478"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "North Central Blasters won by 4 Runs",
+   "summary": "North Central Blasters: 141/10(26.5) LA Avengers: 137/10(29.2)"
+  },
+  {
+   "matchId": "9200",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9200&clubId=40319",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "North Central Knights",
+    "Bay Area Unicorns"
+   ],
+   "teamIds": [
+    "3474",
+    "3477"
+   ],
+   "ground": "BF Philips",
+   "result": "Bay Area Unicorns won by 6 Wickets",
+   "summary": "North Central Knights: 99/10(29.5) Bay Area Unicorns: 100/4(22.4)"
+  },
+  {
+   "matchId": "9197",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9197&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "North Central Knights",
+    "Northwest Blazers"
+   ],
+   "teamIds": [
+    "3474",
+    "3479"
+   ],
+   "ground": "BF Philips",
+   "result": "North Central Knights won by 8 Runs",
+   "summary": "North Central Knights: 91/10(27.3) Northwest Blazers: 83/10(23.4)"
+  },
+  {
+   "matchId": "9188",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9188&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "LA Avengers"
+   ],
+   "teamIds": [
+    "3475",
+    "3478"
+   ],
+   "ground": "BF Philips",
+   "result": "South Central Supernovas won by 8 Wickets",
+   "summary": "LA Avengers: 97/9(30) South Central Supernovas: 100/2(12.2)"
+  },
+  {
+   "matchId": "9179",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9179&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "North Central Blasters",
+    "Bay Area Titans"
+   ],
+   "teamIds": [
+    "3473",
+    "3476"
+   ],
+   "ground": "NMCG 1",
+   "result": "Bay Area Titans won by 15 Runs",
+   "summary": "Bay Area Titans: 152/9(30) North Central Blasters: 137/10(28.1)"
+  },
+  {
+   "matchId": "9178",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9178&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "Mid West A",
+    "Bay Area Unicorns"
+   ],
+   "teamIds": [
+    "3472",
+    "3477"
+   ],
+   "ground": "NMCG 2",
+   "result": "Bay Area Unicorns won by 24 Runs",
+   "summary": "Bay Area Unicorns: 156/7(30) Mid West A: 132/10(28)"
+  }
+ ]
+}

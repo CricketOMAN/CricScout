@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s154",
+  "id": "legacy-367",
+  "name": "2025 Dallas Hub Selection Trials"
+ },
+ "fetchedAt": "2026-11-13T22:15:49.547Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=367&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=367&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5854",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5854&clubId=40319",
+   "date": "2025-06-24",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Blue",
+    "Dallas U15 Red"
+   ],
+   "teamIds": [
+    "2147",
+    "2148"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Blue won by 37 Runs",
+   "summary": "Dallas U15 Blue: 186/10(40) Dallas U15 Red: 149/10(40)"
+  },
+  {
+   "matchId": "5853",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5853&clubId=40319",
+   "date": "2025-06-24",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Green",
+    "Dallas U15 Yellow"
+   ],
+   "teamIds": [
+    "2149",
+    "2150"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Green won by 12 Runs",
+   "summary": "Dallas U15 Green: 139/11(36) Dallas U15 Yellow: 127/10(35.3)"
+  },
+  {
+   "matchId": "5850",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5850&clubId=40319",
+   "date": "2025-06-23",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Yellow",
+    "Dallas U13 Red"
+   ],
+   "teamIds": [
+    "2146",
+    "2144"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U13 Red won by 99 Runs",
+   "summary": "Dallas U13 Red: 188/9(28) Dallas U13 Yellow: 89/11(28.5)"
+  },
+  {
+   "matchId": "5849",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5849&clubId=40319",
+   "date": "2025-06-23",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Blue",
+    "Dallas U13 Green"
+   ],
+   "teamIds": [
+    "2143",
+    "2145"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U13 Green won by 46 Runs (D/L)",
+   "summary": "Dallas U13 Green: 77/11(27.5) Dallas U13 Blue: 80/11(20.5)"
+  },
+  {
+   "matchId": "5852",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5852&clubId=40319",
+   "date": "2025-06-23",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Blue",
+    "Dallas U15 Green"
+   ],
+   "teamIds": [
+    "2147",
+    "2149"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Green won by 2 Wickets",
+   "summary": "Dallas U15 Blue: 184/4(40) Dallas U15 Green: 185/8(38.3)"
+  },
+  {
+   "matchId": "5851",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5851&clubId=40319",
+   "date": "2025-06-23",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Yellow",
+    "Dallas U15 Red"
+   ],
+   "teamIds": [
+    "2150",
+    "2148"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Yellow won by 6 Wickets",
+   "summary": "Dallas U15 Red: 159/11(39.1) Dallas U15 Yellow: 160/4(31)"
+  },
+  {
+   "matchId": "5847",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5847&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Green",
+    "Dallas U13 Yellow"
+   ],
+   "teamIds": [
+    "2145",
+    "2146"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Dallas U13 Yellow won by 51 Runs (D/L)",
+   "summary": "Dallas U13 Yellow: 193/9(30) Dallas U13 Green: 127/11(29.1)"
+  },
+  {
+   "matchId": "5832",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5832&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Blue",
+    "Dallas U13 Red"
+   ],
+   "teamIds": [
+    "2143",
+    "2144"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Dallas U13 Red won by 30 Runs",
+   "summary": "Dallas U13 Red: 161/6(30) Dallas U13 Blue: 131/8(30)"
+  },
+  {
+   "matchId": "5823",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5823&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Yellow",
+    "Dallas U13 Blue"
+   ],
+   "teamIds": [
+    "2146",
+    "2143"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Dallas U13 Blue won by 3 Wickets (D/L)",
+   "summary": "Dallas U13 Yellow: 97/8(30) Dallas U13 Blue: 126/7(30)"
+  },
+  {
+   "matchId": "5796",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5796&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas U13 Red",
+    "Dallas U13 Green"
+   ],
+   "teamIds": [
+    "2144",
+    "2145"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Dallas U13 Green won by 6 Runs (D/L)",
+   "summary": "Dallas U13 Green: 100/10(30) Dallas U13 Red: 143/9(30)"
+  },
+  {
+   "matchId": "5822",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5822&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Yellow",
+    "Dallas U15 Blue"
+   ],
+   "teamIds": [
+    "2150",
+    "2147"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Yellow won by 111 Runs",
+   "summary": "Dallas U15 Yellow: 194/8(40) Dallas U15 Blue: 83/10(30.5)"
+  },
+  {
+   "matchId": "5821",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5821&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Red",
+    "Dallas U15 Green"
+   ],
+   "teamIds": [
+    "2148",
+    "2149"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Red won by 2 Wickets",
+   "summary": "Dallas U15 Green: 145/11(30.4) Dallas U15 Red: 146/8(36.3)"
+  }
+ ]
+}

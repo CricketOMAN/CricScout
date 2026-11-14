@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s157",
+  "id": "legacy-364",
+  "name": "2025 USAC DC HUB U15 - Phase 2"
+ },
+ "fetchedAt": "2026-11-13T22:15:52.138Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=364&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=364&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5773",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5773&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "2133",
+    "2134"
+   ],
+   "ground": "Bolen 19",
+   "result": "Team Blue won by 5 Wickets",
+   "summary": "Team Red: 105/9(30) Team Blue: 106/5(19)"
+  },
+  {
+   "matchId": "5772",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5772&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2135",
+    "2136"
+   ],
+   "ground": "Bolen 18",
+   "result": "Team Green won by 102 Runs",
+   "summary": "Team Green: 230/5(30) Team Yellow: 128/10(29.5)"
+  },
+  {
+   "matchId": "5763",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5763&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2133",
+    "2136"
+   ],
+   "ground": "Bolen 18",
+   "result": "Team Red won by 8 Runs",
+   "summary": "Team Red: 188/7(30) Team Yellow: 180/7(30)"
+  },
+  {
+   "matchId": "5762",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5762&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "2134",
+    "2135"
+   ],
+   "ground": "Bolen 19",
+   "result": "Team Blue won by 21 Runs",
+   "summary": "Team Blue: 191/10(29.3) Team Green: 170/9(30)"
+  },
+  {
+   "matchId": "5740",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5740&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "2133",
+    "2135"
+   ],
+   "ground": "Bolen 19",
+   "result": "Team Green won by 18 Runs (D/L)",
+   "summary": "Team Red: 96/10(25.3) Team Green: 75/5(19.5)"
+  },
+  {
+   "matchId": "5739",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5739&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2134",
+    "2136"
+   ],
+   "ground": "Bolen 18",
+   "result": "Team Yellow won by 23 Runs (D/L)",
+   "summary": "Team Yellow: 176/5(35) Team Blue: 99/6(22.3)"
+  },
+  {
+   "matchId": "5733",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5733&clubId=40319",
+   "date": "2025-06-18",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "2133",
+    "2134"
+   ],
+   "ground": "NPHS1",
+   "result": "Team Blue: 53/1 (10.3/40 ov)",
+   "summary": "Team Blue: 53/1(10.3) Live"
+  },
+  {
+   "matchId": "5732",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5732&clubId=40319",
+   "date": "2025-06-18",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2135",
+    "2136"
+   ],
+   "ground": "NPHS2",
+   "result": "Abandoned.",
+   "summary": "Team Yellow: 38/2(12) Live"
+  }
+ ]
+}

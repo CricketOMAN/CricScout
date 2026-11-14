@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s136",
+  "id": "legacy-390",
+  "name": "2025 USAC - NY Hub 11"
+ },
+ "fetchedAt": "2026-11-13T22:12:45.807Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=390&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=390&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6269",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6269&clubId=40319",
+   "date": "2025-08-19",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2277",
+    "2276"
+   ],
+   "ground": "NJYCA",
+   "result": "Team Blue won by 5 Runs",
+   "summary": "Team Blue: 121/12(35) Team Red: 116/10(32.4)"
+  },
+  {
+   "matchId": "6264",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6264&clubId=40319",
+   "date": "2025-08-18",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2277",
+    "2276"
+   ],
+   "ground": "NJYCA",
+   "result": "Team Blue won by 2 Wickets (D/L)",
+   "summary": "Team Red: 137/13(33.2) Team Blue: 213/8(33.4)"
+  },
+  {
+   "matchId": "6235",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6235&clubId=40319",
+   "date": "2025-08-14",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2277",
+    "2276"
+   ],
+   "ground": "Idlewild",
+   "result": "Team Red won by 2 Wickets (D/L)",
+   "summary": "Team Blue: 128/13(27.4) Team Red: 152/8(32.5)"
+  },
+  {
+   "matchId": "6229",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6229&clubId=40319",
+   "date": "2025-08-13",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2277",
+    "2276"
+   ],
+   "ground": "Idlewild",
+   "result": "Team Red won by 79 Runs",
+   "summary": "Team Red: 201/7(35) Team Blue: 122/13(23.5)"
+  }
+ ]
+}

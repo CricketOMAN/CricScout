@@ -1,0 +1,354 @@
+{
+ "season": {
+  "key": "s264",
+  "id": "legacy-194",
+  "name": "USAC Junior 2024 - NC Hub U13"
+ },
+ "fetchedAt": "2026-11-13T22:44:24.691Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=194&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=194&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3732",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3732&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "NC Edens U13",
+    "NC Bourdas U13"
+   ],
+   "teamIds": [
+    "1164",
+    "1163"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Bourdas U13 won by 59 Runs",
+   "summary": "NC Bourdas U13: 145/6(30) NC Edens U13: 86/10(21)"
+  },
+  {
+   "matchId": "3727",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3727&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "NC Lords U13",
+    "NC Wankhede U13"
+   ],
+   "teamIds": [
+    "1165",
+    "1166"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Lords U13 won by 114 Runs",
+   "summary": "NC Lords U13: 153/7(30) NC Wankhede U13: 39/0(9.2)"
+  },
+  {
+   "matchId": "3657",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3657&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "NC Edens U13",
+    "NC Gabbas U13"
+   ],
+   "teamIds": [
+    "1164",
+    "1162"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Gabbas U13 won by 9 Wickets",
+   "summary": "NC Edens U13: 71/10(22.3) NC Gabbas U13: 72/1(12.4)"
+  },
+  {
+   "matchId": "3655",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3655&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "NC Bourdas U13",
+    "NC Wankhede U13"
+   ],
+   "teamIds": [
+    "1163",
+    "1166"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Bourdas U13 won by 5 Wickets",
+   "summary": "NC Wankhede U13: 72/9(19.2) NC Bourdas U13: 73/5(12.4)"
+  },
+  {
+   "matchId": "3578",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3578&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "NC Lords U13",
+    "NC Edens U13"
+   ],
+   "teamIds": [
+    "1165",
+    "1164"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Lords U13 won by 7 Wickets",
+   "summary": "NC Edens U13: 176/4(30) NC Lords U13: 177/3(19.1)"
+  },
+  {
+   "matchId": "3571",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3571&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "NC Bourdas U13",
+    "NC Gabbas U13"
+   ],
+   "teamIds": [
+    "1163",
+    "1162"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Gabbas U13 won by 2 Wickets",
+   "summary": "NC Bourdas U13: 197/10(30) NC Gabbas U13: 199/8(29.2)"
+  },
+  {
+   "matchId": "3509",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3509&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "NC Gabbas U13",
+    "NC Wankhede U13"
+   ],
+   "teamIds": [
+    "1162",
+    "1166"
+   ],
+   "ground": "NC Hub - Tanglewood Cricket Ground",
+   "result": "NC Gabbas U13 won by 32 Runs",
+   "summary": "NC Gabbas U13: 89/10(21.2) NC Wankhede U13: 57/10(24.4)"
+  },
+  {
+   "matchId": "3500",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3500&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "NC Bourdas U13",
+    "NC Lords U13"
+   ],
+   "teamIds": [
+    "1163",
+    "1165"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Lords U13 won by 5 Wickets",
+   "summary": "NC Bourdas U13: 218/6(30) NC Lords U13: 221/5(30)"
+  },
+  {
+   "matchId": "3345",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3345&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "NC Wankhede U13",
+    "NC Edens U13"
+   ],
+   "teamIds": [
+    "1166",
+    "1164"
+   ],
+   "ground": "NC Hub - Tanglewood Cricket Ground",
+   "result": "NC Edens U13 won by 7 Wickets",
+   "summary": "NC Wankhede U13: 47/10(17.1) NC Edens U13: 48/3(9.4)"
+  },
+  {
+   "matchId": "3343",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3343&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "NC Gabbas U13",
+    "NC Lords U13"
+   ],
+   "teamIds": [
+    "1162",
+    "1165"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Lords U13 won by 7 Wickets",
+   "summary": "NC Gabbas U13: 105/7(28) NC Lords U13: 106/3(17.3)"
+  },
+  {
+   "matchId": "3313",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3313&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "NC Wankhede U13",
+    "NC Bourdas U13"
+   ],
+   "teamIds": [
+    "1166",
+    "1163"
+   ],
+   "ground": "NC Hub - Piney Grove",
+   "result": "NC Wankhede U13: 150/4 (30/30 ov) NC Bourdas U13: 33/1 (6.1/30 ov)",
+   "summary": "NC Wankhede U13: 150/4(30) NC Bourdas U13: 33/1(6.1) Live"
+  },
+  {
+   "matchId": "3260",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3260&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "NC Bourdas U13",
+    "NC Lords U13"
+   ],
+   "teamIds": [
+    "1163",
+    "1165"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Bourdas U13 won by 40 Runs",
+   "summary": "NC Bourdas U13: 186/5(30) NC Lords U13: 146/6(30)"
+  },
+  {
+   "matchId": "3257",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3257&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "NC Wankhede U13",
+    "NC Gabbas U13"
+   ],
+   "teamIds": [
+    "1166",
+    "1162"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Wankhede U13 won by 8 Wickets",
+   "summary": "NC Gabbas U13: 100/10(15.5) NC Wankhede U13: 101/2(7)"
+  },
+  {
+   "matchId": "3050",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3050&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NC Lords U13",
+    "NC Wankhede U13"
+   ],
+   "teamIds": [
+    "1165",
+    "1166"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Lords U13 won by 70 Runs",
+   "summary": "NC Lords U13: 195/7(30) NC Wankhede U13: 125/10(28.4)"
+  },
+  {
+   "matchId": "3048",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3048&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NC Bourdas U13",
+    "NC Edens U13"
+   ],
+   "teamIds": [
+    "1163",
+    "1164"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Bourdas U13 won by 7 Wickets",
+   "summary": "NC Edens U13: 70/10(20.3) NC Bourdas U13: 71/3(10.2)"
+  },
+  {
+   "matchId": "2962",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2962&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "NC Edens U13",
+    "NC Gabbas U13"
+   ],
+   "teamIds": [
+    "1164",
+    "1162"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Gabbas U13 won by 145 Runs",
+   "summary": "NC Gabbas U13: 235/6(27.4) NC Edens U13: 90/10(21.4)"
+  },
+  {
+   "matchId": "2908",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2908&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "NC Gabbas U13",
+    "NC Bourdas U13"
+   ],
+   "teamIds": [
+    "1162",
+    "1163"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Bourdas U13 won by 6 Wickets",
+   "summary": "NC Gabbas U13: 157/8(30) NC Bourdas U13: 158/4(27.1)"
+  },
+  {
+   "matchId": "2864",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2864&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "NC Edens U13",
+    "NC Lords U13"
+   ],
+   "teamIds": [
+    "1164",
+    "1165"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Lords U13 won by 8 Wickets",
+   "summary": "NC Edens U13: 79/10(24.1) NC Lords U13: 80/2(11.4)"
+  },
+  {
+   "matchId": "2777",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2777&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "NC Gabbas U13",
+    "NC Lords U13"
+   ],
+   "teamIds": [
+    "1162",
+    "1165"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Gabbas U13 won by 7 Wickets",
+   "summary": "NC Lords U13: 173/5(30) NC Gabbas U13: 175/3(25.3)"
+  },
+  {
+   "matchId": "2768",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2768&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "NC Wankhede U13",
+    "NC Edens U13"
+   ],
+   "teamIds": [
+    "1166",
+    "1164"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Wankhede U13 won by 3 Wickets",
+   "summary": "NC Edens U13: 161/10(29.1) NC Wankhede U13: 164/7(28.3)"
+  }
+ ]
+}

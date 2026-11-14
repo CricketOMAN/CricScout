@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s46",
+  "id": "legacy-545",
+  "name": "USAC 2026 - Seattle HUB - Phase2 - U15"
+ },
+ "fetchedAt": "2026-11-13T21:41:34.369Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=545&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=545&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8789",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8789&clubId=40319",
+   "date": "2026-06-20",
+   "type": "Final",
+   "teams": [
+    "Team Red",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "3244",
+    "3247"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Team Red won by 63 Runs",
+   "summary": "Team Red: 285/11(40) Team Orange: 222/11(37.3)"
+  },
+  {
+   "matchId": "8788",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8788&clubId=40319",
+   "date": "2026-06-20",
+   "type": "3rd Position",
+   "teams": [
+    "Team Yellow",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3246",
+    "3245"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Team Yellow: 278/5 (40/40 ov) Team Green: 156/9 (26.4/40 ov)",
+   "summary": "Team Yellow: 278/5(40) Team Green: 156/9(26.4) Live"
+  },
+  {
+   "matchId": "8612",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8612&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3244",
+    "3246"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Team Red won by 125 Runs (D/L)",
+   "summary": "Team Yellow: 112/11(35) Team Red: 237/10(40)"
+  },
+  {
+   "matchId": "8607",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8607&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "3245",
+    "3247"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Team Orange won by 1 Run (D/L)",
+   "summary": "Team Green: 187/10(40) Team Orange: 250/8(40)"
+  },
+  {
+   "matchId": "8423",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8423&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3247",
+    "3244"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Team Red won by 0 Wickets (D/L)",
+   "summary": "Team Orange: 196/11(40) Team Red: 263/10(33.3)"
+  },
+  {
+   "matchId": "8419",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8419&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3245",
+    "3246"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Team Yellow won by 107 Runs",
+   "summary": "Team Yellow: 211/11(40) Team Green: 104/11(24.1)"
+  },
+  {
+   "matchId": "8337",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8337&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "3246",
+    "3247"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "Team Orange won by -2 Wickets (D/L)",
+   "summary": "Team Yellow: 159/12(31.2) Team Orange: 208/12(39.3)"
+  },
+  {
+   "matchId": "8336",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8336&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3244",
+    "3245"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Team Red won by 63 Runs",
+   "summary": "Team Red: 204/12(36.2) Team Green: 141/12(28)"
+  }
+ ]
+}

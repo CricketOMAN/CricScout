@@ -1,0 +1,456 @@
+{
+ "season": {
+  "key": "s270",
+  "id": "legacy-176",
+  "name": "USAC Youth 2024 - Austin Hub"
+ },
+ "fetchedAt": "2026-11-13T22:44:32.963Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=176&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=176&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3718",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3718&clubId=40319",
+   "date": "2024-07-18",
+   "type": "League",
+   "teams": [
+    "Austin Starz U15",
+    "Austin Blasters U15"
+   ],
+   "teamIds": [
+    "994",
+    "993"
+   ],
+   "ground": "LPCL G3",
+   "result": "Austin Blasters U15 won by 9 Runs",
+   "summary": "Austin Blasters U15: 155/5(30) Austin Starz U15: 146/8(28.5)"
+  },
+  {
+   "matchId": "3697",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3697&clubId=40319",
+   "date": "2024-07-17",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "Austin Starz U15"
+   ],
+   "teamIds": [
+    "993",
+    "994"
+   ],
+   "ground": "LPCL G3",
+   "result": "Austin Starz U15 won by 7 Wickets",
+   "summary": "Austin Blasters U15: 166/4(30) Austin Starz U15: 167/3(28.1)"
+  },
+  {
+   "matchId": "3693",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3693&clubId=40319",
+   "date": "2024-07-16",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "Austin Starz U15"
+   ],
+   "teamIds": [
+    "993",
+    "994"
+   ],
+   "ground": "LPCL G3",
+   "result": "Austin Blasters U15 won by 6 Wickets",
+   "summary": "Austin Starz U15: 161/10(28.1) Austin Blasters U15: 162/4(25.1)"
+  },
+  {
+   "matchId": "3301",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3301&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U11 Blue",
+    "SA Power Rangers U11"
+   ],
+   "teamIds": [
+    "987",
+    "989"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "SA Power Rangers U11 won by 80 Runs",
+   "summary": "SA Power Rangers U11: 151/4(20) Austin Blasters U11 Blue: 71/8(20)"
+  },
+  {
+   "matchId": "3262",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3262&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "Austin Bullets U13",
+    "SanAustin Starz U13"
+   ],
+   "teamIds": [
+    "992",
+    "991"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "Austin Bullets U13 won by 124 Runs",
+   "summary": "Austin Bullets U13: 209/9(24.4) SanAustin Starz U13: 85/8(25)"
+  },
+  {
+   "matchId": "3222",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3222&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "Austin Bullets U13"
+   ],
+   "teamIds": [
+    "990",
+    "992"
+   ],
+   "ground": "HUTTO",
+   "result": "Austin Bullets U13 won by 7 Wickets",
+   "summary": "Austin Blasters U13: 162/5(25) Austin Bullets U13: 166/3(24.3)"
+  },
+  {
+   "matchId": "3185",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3185&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "SanAustin Starz U13",
+    "Austin Bullets U13"
+   ],
+   "teamIds": [
+    "991",
+    "992"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Bullets U13 won by 100 Runs",
+   "summary": "Austin Bullets U13: 168/1(25) SanAustin Starz U13: 68/10(16.3)"
+  },
+  {
+   "matchId": "3133",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3133&clubId=40319",
+   "date": "2024-05-17",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U11 Red",
+    "Austin Starz U11"
+   ],
+   "teamIds": [
+    "986",
+    "988"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Starz U11 won by 9 Wickets",
+   "summary": "Austin Blasters U11 Red: 68/5(20) Austin Starz U11: 69/1(12.1)"
+  },
+  {
+   "matchId": "3038",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3038&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "SA Power Rangers U11",
+    "Austin Starz U11"
+   ],
+   "teamIds": [
+    "989",
+    "988"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "SA Power Rangers U11 won by 155 Runs",
+   "summary": "SA Power Rangers U11: 246/1(20) Austin Starz U11: 91/7(20)"
+  },
+  {
+   "matchId": "3098",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3098&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "SanAustin Starz U13"
+   ],
+   "teamIds": [
+    "990",
+    "991"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blasters U13 won by 39 Runs",
+   "summary": "Austin Blasters U13: 160/5(25) SanAustin Starz U13: 121/8(25)"
+  },
+  {
+   "matchId": "3030",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3030&clubId=40319",
+   "date": "2024-05-10",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U11 Blue",
+    "Austin Blasters U11 Red"
+   ],
+   "teamIds": [
+    "987",
+    "986"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blasters U11 Red won by 19 Runs",
+   "summary": "Austin Blasters U11 Red: 114/5(20) Austin Blasters U11 Blue: 95/7(20)"
+  },
+  {
+   "matchId": "2988",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2988&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "SA Power Rangers U11",
+    "Austin Blasters U11 Red"
+   ],
+   "teamIds": [
+    "989",
+    "986"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "SA Power Rangers U11 won by 7 Wickets",
+   "summary": "Austin Blasters U11 Red: 132/2(20) SA Power Rangers U11: 133/3(19.4)"
+  },
+  {
+   "matchId": "3005",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3005&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "Austin Bullets U13",
+    "Austin Blasters U13"
+   ],
+   "teamIds": [
+    "992",
+    "990"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Bullets U13 won by 42 Runs",
+   "summary": "Austin Bullets U13: 110/7(25) Austin Blasters U13: 68/10(19.5)"
+  },
+  {
+   "matchId": "2910",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2910&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "SanAustin Starz U13"
+   ],
+   "teamIds": [
+    "990",
+    "991"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blasters U13 won by 7 Wickets",
+   "summary": "SanAustin Starz U13: 71/10(18) Austin Blasters U13: 72/3(14.1)"
+  },
+  {
+   "matchId": "2844",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2844&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "Austin Starz U11",
+    "Austin Blasters U11 Blue"
+   ],
+   "teamIds": [
+    "988",
+    "987"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blasters U11 Blue won by 4 Runs",
+   "summary": "Austin Blasters U11 Blue: 57/7(18.4) Austin Starz U11: 53/8(20)"
+  },
+  {
+   "matchId": "2742",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2742&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "SanAustin Starz U13",
+    "Austin Blasters U13"
+   ],
+   "teamIds": [
+    "991",
+    "990"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "Austin Blasters U13 won by 29 Runs",
+   "summary": "Austin Blasters U13: 146/8(25) SanAustin Starz U13: 117/6(25)"
+  },
+  {
+   "matchId": "2753",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2753&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "Austin Starz U15",
+    "Austin Blasters U15"
+   ],
+   "teamIds": [
+    "994",
+    "993"
+   ],
+   "ground": "Wilco",
+   "result": "Austin Starz U15 won by 69 Runs",
+   "summary": "Austin Starz U15: 166/7(30) Austin Blasters U15: 97/10(22.2)"
+  },
+  {
+   "matchId": "2732",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2732&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "Austin Starz U11",
+    "SA Power Rangers U11"
+   ],
+   "teamIds": [
+    "988",
+    "989"
+   ],
+   "ground": "RRCG",
+   "result": "SA Power Rangers U11 won by 10 Wickets",
+   "summary": "Austin Starz U11: 41/10(17.4) SA Power Rangers U11: 42/0(6.4)"
+  },
+  {
+   "matchId": "2698",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2698&clubId=40319",
+   "date": "2024-04-12",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U11 Blue",
+    "Austin Blasters U11 Red"
+   ],
+   "teamIds": [
+    "987",
+    "986"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blasters U11 Red won by 8 Wickets",
+   "summary": "Austin Blasters U11 Blue: 81/6(20) Austin Blasters U11 Red: 82/2(11.1)"
+  },
+  {
+   "matchId": "2693",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2693&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "Austin Starz U11",
+    "Austin Blasters U11 Red"
+   ],
+   "teamIds": [
+    "988",
+    "986"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blasters U11 Red won by 9 Wickets",
+   "summary": "Austin Starz U11: 47/7(20) Austin Blasters U11 Red: 48/1(8)"
+  },
+  {
+   "matchId": "2677",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2677&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "SA Power Rangers U11",
+    "Austin Blasters U11 Blue"
+   ],
+   "teamIds": [
+    "989",
+    "987"
+   ],
+   "ground": "Culebra park ground(San Antonio)",
+   "result": "SA Power Rangers U11 won by 25 Runs",
+   "summary": "SA Power Rangers U11: 110/6(20) Austin Blasters U11 Blue: 85/5(20)"
+  },
+  {
+   "matchId": "2687",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2687&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "Austin Starz U15",
+    "Austin Blasters U15"
+   ],
+   "teamIds": [
+    "994",
+    "993"
+   ],
+   "ground": "Wilco",
+   "result": "Austin Blasters U15 won by 60 Runs",
+   "summary": "Austin Blasters U15: 201/8(30) Austin Starz U15: 141/9(27.4)"
+  },
+  {
+   "matchId": "2664",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2664&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "Austin Bullets U13"
+   ],
+   "teamIds": [
+    "990",
+    "992"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Bullets U13 won by 9 Wickets",
+   "summary": "Austin Blasters U13: 102/8(22) Austin Bullets U13: 103/1(17.3)"
+  },
+  {
+   "matchId": "2631",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2631&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "SA Power Rangers U11",
+    "Austin Blasters U11 Red"
+   ],
+   "teamIds": [
+    "989",
+    "986"
+   ],
+   "ground": "RRCG",
+   "result": "SA Power Rangers U11 won by 5 Wickets",
+   "summary": "Austin Blasters U11 Red: 61/7(19.5) SA Power Rangers U11: 62/5(15.1)"
+  },
+  {
+   "matchId": "2628",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2628&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "Austin Starz U15"
+   ],
+   "teamIds": [
+    "993",
+    "994"
+   ],
+   "ground": "HUTTO",
+   "result": "Austin Starz U15 won by 27 Runs",
+   "summary": "Austin Starz U15: 168/10(29.2) Austin Blasters U15: 141/9(30)"
+  },
+  {
+   "matchId": "2608",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2608&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U11 Blue",
+    "Austin Starz U11"
+   ],
+   "teamIds": [
+    "987",
+    "988"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blasters U11 Blue won by 16 Runs",
+   "summary": "Austin Blasters U11 Blue: 88/5(20) Austin Starz U11: 72/9(20)"
+  }
+ ]
+}

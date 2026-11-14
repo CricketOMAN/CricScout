@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s222",
+  "id": "legacy-248",
+  "name": "2024 - NC Regionals U15"
+ },
+ "fetchedAt": "2026-11-13T22:36:41.874Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=248&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=248&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3966",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3966&clubId=40319",
+   "date": "2024-08-25",
+   "type": "League",
+   "teams": [
+    "NC Blue",
+    "FL U15"
+   ],
+   "teamIds": [
+    "1385",
+    "1396"
+   ],
+   "ground": "Lyons Creek Ground",
+   "result": "NC Blue won by 48 Runs",
+   "summary": "NC Blue: 194/6(30) FL U15: 146/5(30)"
+  },
+  {
+   "matchId": "3960",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3960&clubId=40319",
+   "date": "2024-08-24",
+   "type": "League",
+   "teams": [
+    "FL U15",
+    "NC Red"
+   ],
+   "teamIds": [
+    "1396",
+    "1384"
+   ],
+   "ground": "Lyons Creek Ground",
+   "result": "NC Red won by 9 Wickets",
+   "summary": "FL U15: 85/10(27.2) NC Red: 86/1(14.1)"
+  },
+  {
+   "matchId": "3922",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3922&clubId=40319",
+   "date": "2024-08-17",
+   "type": "League",
+   "teams": [
+    "NC Blue",
+    "NC Red"
+   ],
+   "teamIds": [
+    "1385",
+    "1384"
+   ],
+   "ground": "NCHub - VP #2",
+   "result": "NC Red won by 5 Wickets",
+   "summary": "NC Blue: 176/9(40) NC Red: 177/5(30.2)"
+  }
+ ]
+}

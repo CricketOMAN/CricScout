@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s60",
+  "id": "legacy-524",
+  "name": "USAC 2026 - Seattle HUB - Phase1 - U13"
+ },
+ "fetchedAt": "2026-11-13T21:42:17.295Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=524&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=524&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8446",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8446&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "MSKS11 Team 2",
+    "STB Team 2"
+   ],
+   "teamIds": [
+    "3209",
+    "3202"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "STB Team 2 won by 85 Runs",
+   "summary": "STB Team 2: 188/3(30) MSKS11 Team 2: 103/8(26.2)"
+  },
+  {
+   "matchId": "8440",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8440&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Chargers MLCA",
+    "MSKS11 Team 1"
+   ],
+   "teamIds": [
+    "3207",
+    "3204"
+   ],
+   "ground": "FWS",
+   "result": "Chargers MLCA won by 37 Runs",
+   "summary": "Chargers MLCA: 156/10(26) MSKS11 Team 1: 119/10(29.5)"
+  },
+  {
+   "matchId": "8416",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8416&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "ICCS",
+    "STB Team 1"
+   ],
+   "teamIds": [
+    "3205",
+    "3206"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "ICCS won by 31 Runs",
+   "summary": "ICCS: 181/6(30) STB Team 1: 150/9(29.2)"
+  },
+  {
+   "matchId": "8405",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8405&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "PBL Team 1",
+    "MLC Team 1"
+   ],
+   "teamIds": [
+    "3203",
+    "3208"
+   ],
+   "ground": "FWS",
+   "result": "MLC Team 1 won by 2 Runs (D/L)",
+   "summary": "PBL Team 1: 44/10(17.1) MLC Team 1: 181/9(30)"
+  },
+  {
+   "matchId": "8364",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8364&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Chargers MLCA",
+    "MSKS11 Team 2"
+   ],
+   "teamIds": [
+    "3207",
+    "3209"
+   ],
+   "ground": "FWS",
+   "result": "Chargers MLCA won by 86 Runs",
+   "summary": "Chargers MLCA: 166/5(30) MSKS11 Team 2: 80/10(20.5)"
+  },
+  {
+   "matchId": "8360",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8360&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "PBL Team 1",
+    "ICCS"
+   ],
+   "teamIds": [
+    "3203",
+    "3205"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "PBL Team 1 won by 6 Runs",
+   "summary": "PBL Team 1: 224/9(30) ICCS: 218/7(30)"
+  },
+  {
+   "matchId": "8323",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8323&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "STB Team 1",
+    "MLC Team 1"
+   ],
+   "teamIds": [
+    "3206",
+    "3208"
+   ],
+   "ground": "FWS",
+   "result": "MLC Team 1 won by 92 Runs",
+   "summary": "MLC Team 1: 172/9(30) STB Team 1: 80/8(29.2)"
+  },
+  {
+   "matchId": "8316",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8316&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "STB Team 2",
+    "MSKS11 Team 1"
+   ],
+   "teamIds": [
+    "3202",
+    "3204"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "MSKS11 Team 1 won by 3 Wickets (D/L)",
+   "summary": "STB Team 2: 100/9(27) MSKS11 Team 1: 156/7(29.5)"
+  },
+  {
+   "matchId": "8253",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8253&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "ICCS",
+    "STB Team 2"
+   ],
+   "teamIds": [
+    "3205",
+    "3202"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "ICCS won by 104 Runs",
+   "summary": "ICCS: 203/10(29.3) STB Team 2: 99/9(20.2)"
+  },
+  {
+   "matchId": "8250",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8250&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "MSKS11 Team 2",
+    "STB Team 1"
+   ],
+   "teamIds": [
+    "3209",
+    "3206"
+   ],
+   "ground": "Snoqualmie Middle School",
+   "result": "STB Team 1 won by 3 Wickets",
+   "summary": "MSKS11 Team 2: 94/9(25) STB Team 1: 95/7(25.3)"
+  },
+  {
+   "matchId": "8246",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8246&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "PBL Team 1",
+    "MSKS11 Team 1"
+   ],
+   "teamIds": [
+    "3203",
+    "3204"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "PBL Team 1 won by 3 Wickets",
+   "summary": "MSKS11 Team 1: 107/10(23.2) PBL Team 1: 108/7(28.3)"
+  },
+  {
+   "matchId": "8200",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8200&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Chargers MLCA",
+    "MLC Team 1"
+   ],
+   "teamIds": [
+    "3207",
+    "3208"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "MLC Team 1 won by 52 Runs",
+   "summary": "MLC Team 1: 165/1(30) Chargers MLCA: 113/11(29.2)"
+  },
+  {
+   "matchId": "8147",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8147&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "STB Team 2",
+    "PBL Team 1"
+   ],
+   "teamIds": [
+    "3202",
+    "3203"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "PBL Team 1 won by 102 Runs",
+   "summary": "PBL Team 1: 151/5(20) STB Team 2: 49/3(11.5)"
+  },
+  {
+   "matchId": "8144",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8144&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MSKS11 Team 1",
+    "ICCS"
+   ],
+   "teamIds": [
+    "3204",
+    "3205"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "MSKS11 Team 1 won by 5 Wickets",
+   "summary": "ICCS: 111/5(20) MSKS11 Team 1: 113/5(16.4)"
+  },
+  {
+   "matchId": "8131",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8131&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "STB Team 1",
+    "Chargers MLCA"
+   ],
+   "teamIds": [
+    "3206",
+    "3207"
+   ],
+   "ground": "Snoqualmie Elementary School",
+   "result": "Chargers MLCA won by 1 Run (D/L)",
+   "summary": "STB Team 1: 65/6(20) Chargers MLCA: 107/4(20)"
+  },
+  {
+   "matchId": "8121",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8121&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MLC Team 1",
+    "MSKS11 Team 2"
+   ],
+   "teamIds": [
+    "3208",
+    "3209"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "MLC Team 1 won by 7 Wickets",
+   "summary": "MSKS11 Team 2: 111/3(20) MLC Team 1: 112/3(18.5)"
+  }
+ ]
+}

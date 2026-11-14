@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s18",
+  "id": "legacy-585",
+  "name": "USAC 2026 Northeast Regional U13"
+ },
+ "fetchedAt": "2026-11-13T21:40:09.689Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=585&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=585&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9191&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "Connecticut",
+    "New York"
+   ],
+   "teamIds": [
+    "3397",
+    "3399"
+   ],
+   "ground": "Knights Ground",
+   "result": "Connecticut won by 5 Wickets",
+   "summary": "New York: 101/8(25) Connecticut: 102/5(23.4)"
+  },
+  {
+   "matchId": "9182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9182&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "Massachusetts",
+    "New York"
+   ],
+   "teamIds": [
+    "3398",
+    "3399"
+   ],
+   "ground": "Knights Ground",
+   "result": "Massachusetts won by 4 Runs",
+   "summary": "Massachusetts: 104/8(25) New York: 100/5(25)"
+  },
+  {
+   "matchId": "9174",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9174&clubId=40319",
+   "date": "2026-07-23",
+   "type": "League",
+   "teams": [
+    "Massachusetts",
+    "Connecticut"
+   ],
+   "teamIds": [
+    "3398",
+    "3397"
+   ],
+   "ground": "Knights Ground",
+   "result": "Connecticut won by 8 Wickets",
+   "summary": "Massachusetts: 71/8(30) Connecticut: 73/2(18.3)"
+  },
+  {
+   "matchId": "9140",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9140&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "Connecticut",
+    "Massachusetts"
+   ],
+   "teamIds": [
+    "3397",
+    "3398"
+   ],
+   "ground": "KENEY PARK 1",
+   "result": "Massachusetts won by 7 Wickets",
+   "summary": "Connecticut: 133/10(29) Massachusetts: 134/3(23)"
+  },
+  {
+   "matchId": "9119",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9119&clubId=40319",
+   "date": "2026-07-17",
+   "type": "League",
+   "teams": [
+    "New York",
+    "Connecticut"
+   ],
+   "teamIds": [
+    "3399",
+    "3397"
+   ],
+   "ground": "Idlewild",
+   "result": "Connecticut won by 27 Runs",
+   "summary": "Connecticut: 185/3(30) New York: 158/6(30)"
+  },
+  {
+   "matchId": "9114",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9114&clubId=40319",
+   "date": "2026-07-16",
+   "type": "League",
+   "teams": [
+    "New York",
+    "Massachusetts"
+   ],
+   "teamIds": [
+    "3399",
+    "3398"
+   ],
+   "ground": "Idlewild",
+   "result": "Massachusetts won by 2 Runs (D/L)",
+   "summary": "New York: 103/8(30) Massachusetts: 179/7(30)"
+  }
+ ]
+}

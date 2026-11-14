@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s49",
+  "id": "legacy-538",
+  "name": "2026 BA USAC Girls League Season 1 (#538)"
+ },
+ "fetchedAt": "2026-11-13T21:41:43.731Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=538&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=538&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9602",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9602&clubId=40319",
+   "date": "2026-10-04",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3233",
+    "3234"
+   ],
+   "ground": "Quail Run",
+   "result": "Team Blue won by 5 Wickets",
+   "summary": "Team Red: 166/9(30) Team Blue: 168/5(27.2)"
+  },
+  {
+   "matchId": "9542",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9542&clubId=40319",
+   "date": "2026-09-27",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3233",
+    "3234"
+   ],
+   "ground": "Quail Run",
+   "result": "Team Red won by 3 Runs",
+   "summary": "Team Red: 169/5(30) Team Blue: 166/7(30)"
+  },
+  {
+   "matchId": "9529",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9529&clubId=40319",
+   "date": "2026-09-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3233",
+    "3234"
+   ],
+   "ground": "TBD",
+   "result": "Team Red won by 9 Wickets",
+   "summary": "Team Blue: 69/9(20) Team Red: 72/1(10.3)"
+  },
+  {
+   "matchId": "9392",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9392&clubId=40319",
+   "date": "2026-08-23",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3233",
+    "3234"
+   ],
+   "ground": "TBD",
+   "result": "Team Red won by 3 Wickets",
+   "summary": "Team Blue: 95/8(19.1) Team Red: 96/7(19.2)"
+  },
+  {
+   "matchId": "8590",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8590&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3233",
+    "3234"
+   ],
+   "ground": "Rancho 1",
+   "result": "Team Blue won by 19 Runs",
+   "summary": "Team Blue: 156/6(25) Team Red: 137/9(25)"
+  },
+  {
+   "matchId": "8615",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8615&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3231",
+    "3232"
+   ],
+   "ground": "Rancho 1",
+   "result": "Team Red won by 4 Wickets (D/L)",
+   "summary": "Team Blue: 109/8(18) Team Red: 150/6(24.2)"
+  },
+  {
+   "matchId": "8525",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8525&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3234",
+    "3233"
+   ],
+   "ground": "Rancho 1",
+   "result": "Team Blue won by 38 Runs",
+   "summary": "Team Blue: 181/4(25) Team Red: 143/8(22.4)"
+  },
+  {
+   "matchId": "8418",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8418&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3233",
+    "3234"
+   ],
+   "ground": "Emerald Glen",
+   "result": "Team Red won by 7 Wickets",
+   "summary": "Team Blue: 90/10(23.5) Team Red: 94/3(18)"
+  },
+  {
+   "matchId": "8441",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8441&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3231",
+    "3232"
+   ],
+   "ground": "Emerald Glen",
+   "result": "Team Red won by 98 Runs",
+   "summary": "Team Red: 170/6(25) Team Blue: 72/6(25)"
+  },
+  {
+   "matchId": "8254",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8254&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3233",
+    "3234"
+   ],
+   "ground": "Quail Run",
+   "result": "Team Red won by 47 Runs",
+   "summary": "Team Red: 157/2(25) Team Blue: 110/9(23.3)"
+  },
+  {
+   "matchId": "8208",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8208&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3232",
+    "3231"
+   ],
+   "ground": "Quail Run",
+   "result": "Team Red won by 4 Wickets (D/L)",
+   "summary": "Team Blue: 105/10(24.5) Team Red: 185/6(22)"
+  },
+  {
+   "matchId": "8020",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8020&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3231",
+    "3232"
+   ],
+   "ground": "Quail Run",
+   "result": "Team Blue won by 8 Runs",
+   "summary": "Team Blue: 149/7(25) Team Red: 141/9(25)"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s37",
+  "id": "legacy-556",
+  "name": "USAC 2026 - Dallas U13 Phase 2"
+ },
+ "fetchedAt": "2026-11-13T21:41:07.240Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=556&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=556&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8830",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8830&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas Orange U13",
+    "Dallas Gold U13"
+   ],
+   "teamIds": [
+    "3286",
+    "3284"
+   ],
+   "ground": "Coppell CG",
+   "result": "Dallas Gold U13 won by 6 Wickets",
+   "summary": "Dallas Orange U13: 120/8(30) Dallas Gold U13: 121/4(19.5)"
+  },
+  {
+   "matchId": "8826",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8826&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas Green U13",
+    "Dallas Navy U13"
+   ],
+   "teamIds": [
+    "3287",
+    "3285"
+   ],
+   "ground": "Frisco NE2",
+   "result": "Dallas Green U13 won by 4 Wickets",
+   "summary": "Dallas Navy U13: 69/10(22.4) Dallas Green U13: 70/6(18)"
+  },
+  {
+   "matchId": "8824",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8824&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas Blue U13",
+    "Dallas Teal U13"
+   ],
+   "teamIds": [
+    "3291",
+    "3289"
+   ],
+   "ground": "Frisco NE1",
+   "result": "Dallas Blue U13 won by 52 Runs",
+   "summary": "Dallas Blue U13: 158/5(30) Dallas Teal U13: 106/10(28.5)"
+  },
+  {
+   "matchId": "8823",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8823&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Dallas Red U13",
+    "Dallas Purple U13"
+   ],
+   "teamIds": [
+    "3290",
+    "3288"
+   ],
+   "ground": "Frisco NE3",
+   "result": "Dallas Red U13 won by 5 Wickets",
+   "summary": "Dallas Purple U13: 129/8(30) Dallas Red U13: 133/5(24.3)"
+  }
+ ]
+}

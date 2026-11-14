@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s335",
+  "id": "legacy-63",
+  "name": "USAC Junior 2023 -New England Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:13:12.698Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=63&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=63&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2016",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2016&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "NCAA Trailblazers",
+    "SCTCA XI"
+   ],
+   "teamIds": [
+    "623",
+    "625"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "SCTCA XI won by 59 Runs",
+   "summary": "SCTCA XI: 112/6(15) NCAA Trailblazers: 53/9(15)"
+  },
+  {
+   "matchId": "2015",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2015&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "UCL Electrons",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "627",
+    "622"
+   ],
+   "ground": "Franklin Field",
+   "result": "Cricmax CT Sunrisers won by 38 Runs",
+   "summary": "Cricmax CT Sunrisers: 124/6(20) UCL Electrons: 86/6(20)"
+  },
+  {
+   "matchId": "1993",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1993&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "NCAA Trailblazers",
+    "SCTCA XI"
+   ],
+   "teamIds": [
+    "623",
+    "625"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "NCAA Trailblazers won by 7 Wickets",
+   "summary": "SCTCA XI: 120/10(29.4) NCAA Trailblazers: 122/3(22.4)"
+  },
+  {
+   "matchId": "1989",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1989&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "UCL Electrons",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "627",
+    "622"
+   ],
+   "ground": "Franklin Field",
+   "result": "Cricmax CT Sunrisers won by 61 Runs",
+   "summary": "Cricmax CT Sunrisers: 126/10(23.5) UCL Electrons: 65/10(19.4)"
+  },
+  {
+   "matchId": "1984",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1984&clubId=40319",
+   "date": "2023-07-07",
+   "type": "League",
+   "teams": [
+    "UCL Electrons",
+    "NCAA Trailblazers"
+   ],
+   "teamIds": [
+    "627",
+    "623"
+   ],
+   "ground": "Idylbrook Recreation",
+   "result": "NCAA Trailblazers won by 61 Runs",
+   "summary": "NCAA Trailblazers: 114/3(20) UCL Electrons: 53/10(15.3)"
+  },
+  {
+   "matchId": "1982",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1982&clubId=40319",
+   "date": "2023-07-07",
+   "type": "League",
+   "teams": [
+    "SCTCA XI",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "625",
+    "622"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "It is a Tie",
+   "summary": "Cricmax CT Sunrisers: 112/9(25) SCTCA XI: 112/5(25)"
+  },
+  {
+   "matchId": "1972",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1972&clubId=40319",
+   "date": "2023-07-07",
+   "type": "League",
+   "teams": [
+    "UCL Electrons",
+    "NCAA Trailblazers"
+   ],
+   "teamIds": [
+    "627",
+    "623"
+   ],
+   "ground": "Idylbrook Recreation",
+   "result": "NCAA Trailblazers won by 120 Runs",
+   "summary": "NCAA Trailblazers: 210/0(25) UCL Electrons: 90/8(25)"
+  },
+  {
+   "matchId": "1971",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1971&clubId=40319",
+   "date": "2023-07-07",
+   "type": "League",
+   "teams": [
+    "SCTCA XI",
+    "Cricmax CT Sunrisers"
+   ],
+   "teamIds": [
+    "625",
+    "622"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "Cricmax CT Sunrisers won by 22 Runs",
+   "summary": "Cricmax CT Sunrisers: 110/6(25) SCTCA XI: 88/10(21.3)"
+  }
+ ]
+}

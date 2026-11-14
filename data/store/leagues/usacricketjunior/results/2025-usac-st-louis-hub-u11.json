@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s199",
+  "id": "legacy-299",
+  "name": "2025 USAC St. Louis Hub - U11"
+ },
+ "fetchedAt": "2026-11-13T22:26:05.630Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=299&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=299&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5753",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5753&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers U11",
+    "KYCA ICONS U11"
+   ],
+   "teamIds": [
+    "2052",
+    "2053"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Crushers U11 won by 9 Wickets",
+   "summary": "KYCA ICONS U11: 86/8(25) ACAC Crushers U11: 87/1(16.1)"
+  },
+  {
+   "matchId": "5742",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5742&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers U11",
+    "KYCA ICONS U11"
+   ],
+   "teamIds": [
+    "2052",
+    "2053"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Crushers U11 won by 7 Wickets",
+   "summary": "KYCA ICONS U11: 83/10(22.5) ACAC Crushers U11: 84/3(18.5)"
+  },
+  {
+   "matchId": "5679",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5679&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers U11",
+    "KYCA ICONS U11"
+   ],
+   "teamIds": [
+    "2052",
+    "2053"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Crushers U11 won by 58 Runs",
+   "summary": "ACAC Crushers U11: 140/5(25) KYCA ICONS U11: 82/9(25)"
+  },
+  {
+   "matchId": "5660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5660&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers U11",
+    "KYCA ICONS U11"
+   ],
+   "teamIds": [
+    "2052",
+    "2053"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Crushers U11 won by 4 Wickets",
+   "summary": "KYCA ICONS U11: 32/10(18.3) ACAC Crushers U11: 33/6(10.2)"
+  },
+  {
+   "matchId": "5627",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5627&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "ACAC U11 Team A",
+    "ACAC U11 Team B"
+   ],
+   "teamIds": [
+    "2105",
+    "2106"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "ACAC U11 Team A: 0/0(20) ACAC U11 Team B: 0/0(20)"
+  },
+  {
+   "matchId": "5535",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5535&clubId=40319",
+   "date": "2025-06-06",
+   "type": "League",
+   "teams": [
+    "ACAC U11 Team A",
+    "ACAC U11 Team B"
+   ],
+   "teamIds": [
+    "2105",
+    "2106"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "ACAC U11 Team A: 0/0(20) ACAC U11 Team B: 0/0(20)"
+  },
+  {
+   "matchId": "5485",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5485&clubId=40319",
+   "date": "2025-06-05",
+   "type": "League",
+   "teams": [
+    "ACAC U11 Team A",
+    "ACAC U11 Team B"
+   ],
+   "teamIds": [
+    "2105",
+    "2106"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "ACAC U11 Team A: 0/0(20) ACAC U11 Team B: 0/0(20)"
+  },
+  {
+   "matchId": "5482",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5482&clubId=40319",
+   "date": "2025-06-04",
+   "type": "League",
+   "teams": [
+    "ACAC U11 Team A",
+    "ACAC U11 Team B"
+   ],
+   "teamIds": [
+    "2105",
+    "2106"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "Abandoned.",
+   "summary": "ACAC U11 Team A: 0/0(20) ACAC U11 Team B: 0/0(20)"
+  }
+ ]
+}

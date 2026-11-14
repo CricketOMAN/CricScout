@@ -1,0 +1,1221 @@
+{
+ "season": {
+  "key": "s292",
+  "id": "legacy-70",
+  "name": "USAC Junior 2023 -DC Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:05:27.629Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=70&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=70&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1899",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1899&clubId=40319",
+   "date": "2023-06-18",
+   "type": "Final",
+   "teams": [
+    "Bowie",
+    "HCYC Knights"
+   ],
+   "teamIds": [
+    "306",
+    "309"
+   ],
+   "ground": "Kenilworth",
+   "result": "HCYC Knights won by 113 Runs",
+   "summary": "HCYC Knights: 308/5(30) Bowie: 195/10(25.2)"
+  },
+  {
+   "matchId": "1888",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1888&clubId=40319",
+   "date": "2023-06-18",
+   "type": "Final",
+   "teams": [
+    "SSCA Mavericks",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "316",
+    "323"
+   ],
+   "ground": "WCC 2",
+   "result": "LCCA Titans won by 6 Wickets",
+   "summary": "SSCA Mavericks: 237/6(30) LCCA Titans: 238/4(27.1)"
+  },
+  {
+   "matchId": "1809",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1809&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Super League",
+   "teams": [
+    "SOCA Vikings",
+    "FSSC Eagles"
+   ],
+   "teamIds": [
+    "311",
+    "314"
+   ],
+   "ground": "Cradlerock",
+   "result": "Forfeited. Winner: SOCA Vikings",
+   "summary": "SOCA Vikings: 0/0(30) FSSC Eagles: 0/0(30)"
+  },
+  {
+   "matchId": "1797",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1797&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Semi Final",
+   "teams": [
+    "HCYC Knights",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "309",
+    "313"
+   ],
+   "ground": "FRC",
+   "result": "HCYC Knights won by 164 Runs",
+   "summary": "HCYC Knights: 241/4(30) LCCA Capitals: 77/10(21.1)"
+  },
+  {
+   "matchId": "1796",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1796&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Semi Final",
+   "teams": [
+    "Bowie",
+    "SOCA Blue Jays"
+   ],
+   "teamIds": [
+    "306",
+    "310"
+   ],
+   "ground": "Rockledge",
+   "result": "Bowie won by 8 Wickets",
+   "summary": "SOCA Blue Jays: 115/10(29) Bowie: 118/2(15.4)"
+  },
+  {
+   "matchId": "1766",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1766&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Super League",
+   "teams": [
+    "SSCA Royals",
+    "SSCA Knights"
+   ],
+   "teamIds": [
+    "308",
+    "307"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Knights won by 7 Wickets",
+   "summary": "SSCA Royals: 92/10(24.2) SSCA Knights: 93/3(17.2)"
+  },
+  {
+   "matchId": "1802",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1802&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Semi Final",
+   "teams": [
+    "LCCA Titans",
+    "WCA Gladiators"
+   ],
+   "teamIds": [
+    "323",
+    "319"
+   ],
+   "ground": "Hanson Park",
+   "result": "LCCA Titans won by 99 Runs",
+   "summary": "LCCA Titans: 360/3(30) WCA Gladiators: 261/10(28)"
+  },
+  {
+   "matchId": "1799",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1799&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Super League",
+   "teams": [
+    "SSCA Pacers",
+    "SSCA Warriors"
+   ],
+   "teamIds": [
+    "317",
+    "318"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Warriors won by 19 Runs",
+   "summary": "SSCA Warriors: 153/6(30) SSCA Pacers: 134/8(30)"
+  },
+  {
+   "matchId": "1798",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1798&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Super League",
+   "teams": [
+    "WCA Knights",
+    "SSCA Raptors"
+   ],
+   "teamIds": [
+    "320",
+    "315"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "SSCA Raptors won by 165 Runs",
+   "summary": "SSCA Raptors: 260/1(30) WCA Knights: 95/7(30)"
+  },
+  {
+   "matchId": "1768",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1768&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Super League",
+   "teams": [
+    "SOCA Jaguars",
+    "Richmond Strikers"
+   ],
+   "teamIds": [
+    "324",
+    "325"
+   ],
+   "ground": "Rockledge",
+   "result": "Richmond Strikers won by 8 Wickets",
+   "summary": "SOCA Jaguars: 133/6(26) Richmond Strikers: 134/2(17.4)"
+  },
+  {
+   "matchId": "1767",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1767&clubId=40319",
+   "date": "2023-06-11",
+   "type": "Semi Final",
+   "teams": [
+    "FSSC Lions",
+    "SSCA Mavericks"
+   ],
+   "teamIds": [
+    "322",
+    "316"
+   ],
+   "ground": "Hanson Park",
+   "result": "SSCA Mavericks won by 69 Runs",
+   "summary": "SSCA Mavericks: 270/10(30) FSSC Lions: 201/4(30)"
+  },
+  {
+   "matchId": "1675",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1675&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "SOCA Blue Jays",
+    "SSCA Royals"
+   ],
+   "teamIds": [
+    "310",
+    "308"
+   ],
+   "ground": "Cradlerock",
+   "result": "SOCA Blue Jays won by 8 Wickets",
+   "summary": "SSCA Royals: 108/9(30) SOCA Blue Jays: 109/2(20.1)"
+  },
+  {
+   "matchId": "1674",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1674&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "FSSC Eagles"
+   ],
+   "teamIds": [
+    "306",
+    "314"
+   ],
+   "ground": "Rockledge",
+   "result": "Bowie won by 204 Runs",
+   "summary": "Bowie: 233/8(30) FSSC Eagles: 29/5(6.3)"
+  },
+  {
+   "matchId": "1670",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1670&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "SSCA Knights",
+    "LCCA Rising Stars"
+   ],
+   "teamIds": [
+    "307",
+    "312"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Knights won by 8 Wickets",
+   "summary": "LCCA Rising Stars: 83/10(26.3) SSCA Knights: 84/2(14.3)"
+  },
+  {
+   "matchId": "1640",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1640&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "LCCA Capitals",
+    "HCYC Knights"
+   ],
+   "teamIds": [
+    "313",
+    "309"
+   ],
+   "ground": "Rockledge",
+   "result": "HCYC Knights won by 3 Wickets",
+   "summary": "LCCA Capitals: 131/10(29.2) HCYC Knights: 135/7(23.1)"
+  },
+  {
+   "matchId": "1671",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1671&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "SOCA Jaguars",
+    "SSCA Pacers"
+   ],
+   "teamIds": [
+    "324",
+    "317"
+   ],
+   "ground": "FRC",
+   "result": "SSCA Pacers won by 43 Runs",
+   "summary": "SSCA Pacers: 169/4(30) SOCA Jaguars: 126/3(30.2)"
+  },
+  {
+   "matchId": "1645",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1645&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SSCA Raptors"
+   ],
+   "teamIds": [
+    "322",
+    "315"
+   ],
+   "ground": "FRC",
+   "result": "FSSC Lions won by 103 Runs",
+   "summary": "FSSC Lions: 199/6(30) SSCA Raptors: 96/6(30)"
+  },
+  {
+   "matchId": "1642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1642&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "SSCA Warriors"
+   ],
+   "teamIds": [
+    "321",
+    "318"
+   ],
+   "ground": "Cradlerock",
+   "result": "SSCA Warriors won by 134 Runs",
+   "summary": "SSCA Warriors: 219/4(30) FSSC Sharks: 85/10(21.3)"
+  },
+  {
+   "matchId": "1641",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1641&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "SSCA Mavericks",
+    "Richmond Strikers"
+   ],
+   "teamIds": [
+    "316",
+    "325"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Mavericks won by 173 Runs",
+   "summary": "SSCA Mavericks: 227/2(30) Richmond Strikers: 54/10(18.2)"
+  },
+  {
+   "matchId": "1639",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1639&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "WCA Gladiators",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "319",
+    "323"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "LCCA Titans won by 74 Runs",
+   "summary": "LCCA Titans: 284/2(30) WCA Gladiators: 210/10(28)"
+  },
+  {
+   "matchId": "1533",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1533&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "HCYC Knights",
+    "FSSC Eagles"
+   ],
+   "teamIds": [
+    "309",
+    "314"
+   ],
+   "ground": "FRC",
+   "result": "HCYC Knights won by 164 Runs",
+   "summary": "HCYC Knights: 283/3(30) FSSC Eagles: 119/6(30)"
+  },
+  {
+   "matchId": "1529",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1529&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "SSCA Royals"
+   ],
+   "teamIds": [
+    "306",
+    "308"
+   ],
+   "ground": "Rockledge",
+   "result": "SSCA Royals won by 17 Runs",
+   "summary": "SSCA Royals: 149/9(30) Bowie: 132/10(22.5)"
+  },
+  {
+   "matchId": "1528",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1528&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "SOCA Blue Jays",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "310",
+    "313"
+   ],
+   "ground": "Cradlerock",
+   "result": "SOCA Blue Jays won by 3 Wickets",
+   "summary": "LCCA Capitals: 86/10(28.4) SOCA Blue Jays: 87/7(25.5)"
+  },
+  {
+   "matchId": "1501",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1501&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "LCCA Rising Stars",
+    "SOCA Vikings"
+   ],
+   "teamIds": [
+    "312",
+    "311"
+   ],
+   "ground": "Rockledge",
+   "result": "SOCA Vikings won by 67 Runs",
+   "summary": "SOCA Vikings: 160/9(28.5) LCCA Rising Stars: 93/9(18.3)"
+  },
+  {
+   "matchId": "1532",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1532&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SSCA Mavericks"
+   ],
+   "teamIds": [
+    "322",
+    "316"
+   ],
+   "ground": "Aldie",
+   "result": "FSSC Lions won by 5 Wickets",
+   "summary": "SSCA Mavericks: 173/4(30) FSSC Lions: 178/5(27.2)"
+  },
+  {
+   "matchId": "1500",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1500&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "FSSC Sharks",
+    "SSCA Pacers"
+   ],
+   "teamIds": [
+    "321",
+    "317"
+   ],
+   "ground": "Aldie",
+   "result": "SSCA Pacers won by 17 Runs",
+   "summary": "SSCA Pacers: 136/6(30) FSSC Sharks: 119/9(30)"
+  },
+  {
+   "matchId": "1499",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1499&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "WCA Knights",
+    "SOCA Jaguars"
+   ],
+   "teamIds": [
+    "320",
+    "324"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "SOCA Jaguars won by 201 Runs",
+   "summary": "SOCA Jaguars: 270/3(30) WCA Knights: 69/10(30)"
+  },
+  {
+   "matchId": "1498",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1498&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "SSCA Warriors",
+    "WCA Gladiators"
+   ],
+   "teamIds": [
+    "318",
+    "319"
+   ],
+   "ground": "Cradlerock",
+   "result": "WCA Gladiators won by 126 Runs",
+   "summary": "WCA Gladiators: 195/9(30) SSCA Warriors: 69/10(24.2)"
+  },
+  {
+   "matchId": "1497",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1497&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "SSCA Raptors",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "315",
+    "323"
+   ],
+   "ground": "Gunners Branch",
+   "result": "LCCA Titans won by 136 Runs",
+   "summary": "LCCA Titans: 239/2(30) SSCA Raptors: 103/5(30)"
+  },
+  {
+   "matchId": "1437",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1437&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "LCCA Rising Stars"
+   ],
+   "teamIds": [
+    "306",
+    "312"
+   ],
+   "ground": "Rockledge",
+   "result": "Bowie won by 245 Runs",
+   "summary": "Bowie: 329/4(30) LCCA Rising Stars: 84/8(22)"
+  },
+  {
+   "matchId": "1436",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1436&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "SSCA Knights",
+    "SOCA Vikings"
+   ],
+   "teamIds": [
+    "307",
+    "311"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Knights won by 9 Wickets",
+   "summary": "SOCA Vikings: 72/9(23.2) SSCA Knights: 73/1(11)"
+  },
+  {
+   "matchId": "1435",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1435&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "SOCA Blue Jays",
+    "FSSC Eagles"
+   ],
+   "teamIds": [
+    "310",
+    "314"
+   ],
+   "ground": "Cradlerock",
+   "result": "SOCA Blue Jays won by 4 Wickets",
+   "summary": "FSSC Eagles: 82/10(21.4) SOCA Blue Jays: 83/6(26.3)"
+  },
+  {
+   "matchId": "1434",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1434&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "WCA Knights",
+    "SSCA Pacers"
+   ],
+   "teamIds": [
+    "320",
+    "317"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "SSCA Pacers won by 201 Runs",
+   "summary": "SSCA Pacers: 229/4(29) WCA Knights: 28/9(17.1)"
+  },
+  {
+   "matchId": "1411",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1411&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "Richmond Strikers",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "325",
+    "322"
+   ],
+   "ground": "Dunncroft Castle Point Park",
+   "result": "FSSC Lions won by 17 Runs",
+   "summary": "FSSC Lions: 178/6(30) Richmond Strikers: 161/9(30)"
+  },
+  {
+   "matchId": "1406",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1406&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "SOCA Jaguars",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "324",
+    "321"
+   ],
+   "ground": "FRC",
+   "result": "SOCA Jaguars won by 10 Wickets",
+   "summary": "FSSC Sharks: 44/8(22) SOCA Jaguars: 46/0(10.1)"
+  },
+  {
+   "matchId": "1405",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1405&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "WCA Gladiators",
+    "SSCA Raptors"
+   ],
+   "teamIds": [
+    "319",
+    "315"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "WCA Gladiators won by 109 Runs",
+   "summary": "WCA Gladiators: 173/7(25) SSCA Raptors: 64/7(25)"
+  },
+  {
+   "matchId": "1403",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1403&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "SSCA Warriors"
+   ],
+   "teamIds": [
+    "323",
+    "318"
+   ],
+   "ground": "Gunners Branch",
+   "result": "LCCA Titans won by 7 Wickets",
+   "summary": "SSCA Warriors: 80/10(21.4) LCCA Titans: 82/3(11.5)"
+  },
+  {
+   "matchId": "1318",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1318&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SOCA Vikings",
+    "HCYC Knights"
+   ],
+   "teamIds": [
+    "311",
+    "309"
+   ],
+   "ground": "FRC",
+   "result": "Abandoned.",
+   "summary": "SOCA Vikings: 89/9(30) HCYC Knights: 11/0(2)"
+  },
+  {
+   "matchId": "1316",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1316&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "SOCA Blue Jays"
+   ],
+   "teamIds": [
+    "306",
+    "310"
+   ],
+   "ground": "Rockledge",
+   "result": "Bowie won by 5 Wickets",
+   "summary": "SOCA Blue Jays: 124/9(30) Bowie: 125/5(26.5)"
+  },
+  {
+   "matchId": "1315",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1315&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SSCA Knights",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "307",
+    "313"
+   ],
+   "ground": "Cradlerock",
+   "result": "LCCA Capitals won by 48 Runs",
+   "summary": "LCCA Capitals: 82/8(19.3) SSCA Knights: 34/10(17)"
+  },
+  {
+   "matchId": "1291",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1291&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "LCCA Rising Stars",
+    "SSCA Royals"
+   ],
+   "teamIds": [
+    "312",
+    "308"
+   ],
+   "ground": "Rockledge",
+   "result": "Winner: SSCA Royals (D/L)",
+   "summary": "SSCA Royals: 201/7(30) LCCA Rising Stars: 89/2(17)"
+  },
+  {
+   "matchId": "1314",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1314&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SSCA Raptors",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "315",
+    "321"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Raptors won by 9 Wickets",
+   "summary": "FSSC Sharks: 67/10(25.4) SSCA Raptors: 68/1(15.3)"
+  },
+  {
+   "matchId": "1292",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1292&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "WCA Knights",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "320",
+    "322"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "FSSC Lions won by 232 Runs",
+   "summary": "FSSC Lions: 312/3(30) WCA Knights: 80/9(30)"
+  },
+  {
+   "matchId": "1290",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1290&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SSCA Warriors",
+    "Richmond Strikers"
+   ],
+   "teamIds": [
+    "318",
+    "325"
+   ],
+   "ground": "Cradlerock",
+   "result": "Richmond Strikers won by 5 Wickets",
+   "summary": "SSCA Warriors: 136/10(29.2) Richmond Strikers: 137/5(24.1)"
+  },
+  {
+   "matchId": "1289",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1289&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SOCA Jaguars",
+    "SSCA Mavericks"
+   ],
+   "teamIds": [
+    "324",
+    "316"
+   ],
+   "ground": "FRC",
+   "result": "SSCA Mavericks won by 86 Runs",
+   "summary": "SSCA Mavericks: 168/6(30) SOCA Jaguars: 82/10(27)"
+  },
+  {
+   "matchId": "1288",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1288&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "SSCA Pacers",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "317",
+    "323"
+   ],
+   "ground": "Gunners Branch",
+   "result": "LCCA Titans won by 62 Runs",
+   "summary": "LCCA Titans: 145/8(30) SSCA Pacers: 83/7(30)"
+  },
+  {
+   "matchId": "1211",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1211&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "SSCA Knights",
+    "SOCA Blue Jays"
+   ],
+   "teamIds": [
+    "307",
+    "310"
+   ],
+   "ground": "Gunners Branch",
+   "result": "Abandoned.",
+   "summary": "SSCA Knights: 0/0(0)"
+  },
+  {
+   "matchId": "1210",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1210&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "SOCA Vikings",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "311",
+    "313"
+   ],
+   "ground": "FRC",
+   "result": "Abandoned.",
+   "summary": "SOCA Vikings: 0/0(0)"
+  },
+  {
+   "matchId": "1209",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1209&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "HCYC Knights"
+   ],
+   "teamIds": [
+    "306",
+    "309"
+   ],
+   "ground": "Rockledge",
+   "result": "Abandoned.",
+   "summary": "Bowie: 0/0(0)"
+  },
+  {
+   "matchId": "1205",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1205&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "FSSC Eagles",
+    "SSCA Royals"
+   ],
+   "teamIds": [
+    "314",
+    "308"
+   ],
+   "ground": "Rockledge",
+   "result": "Abandoned.",
+   "summary": "FSSC Eagles: 0/0(0)"
+  },
+  {
+   "matchId": "1213",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1213&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "WCA Gladiators",
+    "SSCA Mavericks"
+   ],
+   "teamIds": [
+    "319",
+    "316"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "Abandoned.",
+   "summary": "WCA Gladiators: 0/0(0)"
+  },
+  {
+   "matchId": "1212",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1212&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "SSCA Warriors",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "318",
+    "322"
+   ],
+   "ground": "Cradlerock",
+   "result": "Abandoned.",
+   "summary": "SSCA Warriors: 0/0(0)"
+  },
+  {
+   "matchId": "1208",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1208&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "WCA Knights",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "320",
+    "323"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "Abandoned.",
+   "summary": "WCA Knights: 0/0(0)"
+  },
+  {
+   "matchId": "1207",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1207&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "SSCA Pacers",
+    "Richmond Strikers"
+   ],
+   "teamIds": [
+    "317",
+    "325"
+   ],
+   "ground": "Gunners Branch",
+   "result": "Abandoned.",
+   "summary": "SSCA Pacers: 0/0(0)"
+  },
+  {
+   "matchId": "1206",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1206&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "SOCA Jaguars",
+    "SSCA Raptors"
+   ],
+   "teamIds": [
+    "324",
+    "315"
+   ],
+   "ground": "FRC",
+   "result": "Abandoned.",
+   "summary": "SOCA Jaguars: 0/0(0)"
+  },
+  {
+   "matchId": "1140",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1140&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "SOCA Vikings",
+    "FSSC Eagles"
+   ],
+   "teamIds": [
+    "311",
+    "314"
+   ],
+   "ground": "FRC",
+   "result": "FSSC Eagles won by 35 Runs (D/L)",
+   "summary": "FSSC Eagles: 169/8(30) SOCA Vikings: 128/9(25)"
+  },
+  {
+   "matchId": "1139",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1139&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "SSCA Royals",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "308",
+    "313"
+   ],
+   "ground": "Cradlerock",
+   "result": "LCCA Capitals won by 8 Runs",
+   "summary": "LCCA Capitals: 101/8(30) SSCA Royals: 93/10(29)"
+  },
+  {
+   "matchId": "1136",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1136&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "Bowie",
+    "SSCA Knights"
+   ],
+   "teamIds": [
+    "306",
+    "307"
+   ],
+   "ground": "Rockledge",
+   "result": "Bowie won by 6 Wickets",
+   "summary": "SSCA Knights: 148/4(30) Bowie: 150/4(21.5)"
+  },
+  {
+   "matchId": "1113",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1113&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "HCYC Knights",
+    "LCCA Rising Stars"
+   ],
+   "teamIds": [
+    "309",
+    "312"
+   ],
+   "ground": "FRC",
+   "result": "HCYC Knights won by 126 Runs",
+   "summary": "HCYC Knights: 216/4(30) LCCA Rising Stars: 90/10(21.1)"
+  },
+  {
+   "matchId": "1138",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1138&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "SSCA Pacers",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "317",
+    "322"
+   ],
+   "ground": "Gunners Branch",
+   "result": "FSSC Lions won by 6 Wickets",
+   "summary": "SSCA Pacers: 104/9(30) FSSC Lions: 105/4(24.4)"
+  },
+  {
+   "matchId": "1116",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1116&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "Richmond Strikers",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "325",
+    "323"
+   ],
+   "ground": "Dunncroft Castle Point Park",
+   "result": "LCCA Titans won by 192 Runs",
+   "summary": "LCCA Titans: 324/1(30) Richmond Strikers: 132/7(30)"
+  },
+  {
+   "matchId": "1114",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1114&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "SSCA Warriors",
+    "WCA Knights"
+   ],
+   "teamIds": [
+    "318",
+    "320"
+   ],
+   "ground": "Cradlerock",
+   "result": "SSCA Warriors won by 209 Runs",
+   "summary": "SSCA Warriors: 243/6(30) WCA Knights: 34/10(11.1)"
+  },
+  {
+   "matchId": "1112",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1112&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "WCA Gladiators",
+    "SOCA Jaguars"
+   ],
+   "teamIds": [
+    "319",
+    "324"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "WCA Gladiators won by 179 Runs",
+   "summary": "WCA Gladiators: 330/2(30) SOCA Jaguars: 151/6(30)"
+  },
+  {
+   "matchId": "1111",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1111&clubId=40319",
+   "date": "2023-04-23",
+   "type": "League",
+   "teams": [
+    "SSCA Mavericks",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "316",
+    "321"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Mavericks won by 180 Runs",
+   "summary": "SSCA Mavericks: 260/3(30) FSSC Sharks: 80/10(30)"
+  },
+  {
+   "matchId": "1042",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1042&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "SSCA Royals",
+    "SOCA Vikings"
+   ],
+   "teamIds": [
+    "308",
+    "311"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Royals won by 4 Wickets",
+   "summary": "SOCA Vikings: 113/9(27.1) SSCA Royals: 114/6(23)"
+  },
+  {
+   "matchId": "1040",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1040&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "LCCA Rising Stars",
+    "SOCA Blue Jays"
+   ],
+   "teamIds": [
+    "312",
+    "310"
+   ],
+   "ground": "Rockledge",
+   "result": "SOCA Blue Jays won by 9 Wickets",
+   "summary": "LCCA Rising Stars: 72/10(26.4) SOCA Blue Jays: 73/1(10)"
+  },
+  {
+   "matchId": "1024",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1024&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "HCYC Knights",
+    "SSCA Knights"
+   ],
+   "teamIds": [
+    "309",
+    "307"
+   ],
+   "ground": "FRC",
+   "result": "HCYC Knights won by 136 Runs",
+   "summary": "HCYC Knights: 179/8(30) SSCA Knights: 43/10(21.2)"
+  },
+  {
+   "matchId": "1023",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1023&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "FSSC Eagles",
+    "LCCA Capitals"
+   ],
+   "teamIds": [
+    "314",
+    "313"
+   ],
+   "ground": "Rockledge",
+   "result": "LCCA Capitals won by 81 Runs",
+   "summary": "LCCA Capitals: 180/6(30) FSSC Eagles: 99/10(26.2)"
+  },
+  {
+   "matchId": "1041",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1041&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "WCA Gladiators",
+    "FSSC Sharks"
+   ],
+   "teamIds": [
+    "319",
+    "321"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "WCA Gladiators won by 10 Wickets",
+   "summary": "FSSC Sharks: 63/10(18.4) WCA Gladiators: 64/0(6.1)"
+  },
+  {
+   "matchId": "1025",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1025&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "WCA Knights",
+    "Richmond Strikers"
+   ],
+   "teamIds": [
+    "320",
+    "325"
+   ],
+   "ground": "WSK - Leesburg",
+   "result": "Richmond Strikers won by 5 Wickets",
+   "summary": "WCA Knights: 131/8(30) Richmond Strikers: 133/5(12)"
+  },
+  {
+   "matchId": "1022",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1022&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "SSCA Raptors",
+    "SSCA Mavericks"
+   ],
+   "teamIds": [
+    "315",
+    "316"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SSCA Mavericks won by 138 Runs",
+   "summary": "SSCA Mavericks: 240/4(30) SSCA Raptors: 102/9(30)"
+  }
+ ]
+}

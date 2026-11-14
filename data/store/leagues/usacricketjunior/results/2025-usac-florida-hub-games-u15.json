@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s190",
+  "id": "legacy-312",
+  "name": "2025 USAC Florida Hub Games - U15"
+ },
+ "fetchedAt": "2026-11-13T22:25:57.491Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=312&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=312&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5379",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5379&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "RSCA U15",
+    "YGCA U15"
+   ],
+   "teamIds": [
+    "1804",
+    "1806"
+   ],
+   "ground": "Palm Bay Ground",
+   "result": "RSCA U15 won by 9 Wickets",
+   "summary": "YGCA U15: 99/8(27.2) RSCA U15: 100/1(23.3)"
+  },
+  {
+   "matchId": "5295",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5295&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "FPYCA U15",
+    "TCL U15"
+   ],
+   "teamIds": [
+    "1803",
+    "1805"
+   ],
+   "ground": "Sarasota Cricket Gro",
+   "result": "TCL U15 won by 91 Runs",
+   "summary": "TCL U15: 254/4(40.1) FPYCA U15: 163/7(36.5)"
+  },
+  {
+   "matchId": "5196",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5196&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "TCL U15",
+    "YGCA U15"
+   ],
+   "teamIds": [
+    "1805",
+    "1806"
+   ],
+   "ground": "Sarasota Cricket Gro",
+   "result": "YGCA U15 won by 36 Runs",
+   "summary": "YGCA U15: 170/8(40.2) TCL U15: 134/8(38.3)"
+  },
+  {
+   "matchId": "5192",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5192&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "FPYCA U15",
+    "RSCA U15"
+   ],
+   "teamIds": [
+    "1803",
+    "1804"
+   ],
+   "ground": "Poinciana Ground",
+   "result": "RSCA U15 won by 7 Wickets",
+   "summary": "FPYCA U15: 85/9(33.4) RSCA U15: 86/3(14)"
+  },
+  {
+   "matchId": "5107",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5107&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "RSCA U15",
+    "TCL U15"
+   ],
+   "teamIds": [
+    "1804",
+    "1805"
+   ],
+   "ground": "Brian Piccolo South",
+   "result": "RSCA U15 won by 38 Runs",
+   "summary": "RSCA U15: 100/10(26) TCL U15: 62/9(15.2)"
+  },
+  {
+   "matchId": "4997",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4997&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "RSCA U15",
+    "YGCA U15"
+   ],
+   "teamIds": [
+    "1804",
+    "1806"
+   ],
+   "ground": "Brian Piccolo South",
+   "result": "YGCA U15 won by 140 Runs",
+   "summary": "YGCA U15: 196/10(39.5) RSCA U15: 56/10(19.4)"
+  },
+  {
+   "matchId": "4845",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4845&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "FPYCA U15",
+    "YGCA U15"
+   ],
+   "teamIds": [
+    "1803",
+    "1806"
+   ],
+   "ground": "Winter Haven Ground",
+   "result": "YGCA U15 won by 313 Runs",
+   "summary": "YGCA U15: 403/5(40) FPYCA U15: 90/8(22.3)"
+  },
+  {
+   "matchId": "4662",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4662&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "YGCA U15",
+    "TCL U15"
+   ],
+   "teamIds": [
+    "1806",
+    "1805"
+   ],
+   "ground": "Brian Piccolo South",
+   "result": "YGCA U15 won by 66 Runs",
+   "summary": "YGCA U15: 166/9(37.3) TCL U15: 100/10(24.4)"
+  },
+  {
+   "matchId": "4660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4660&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "FPYCA U15",
+    "RSCA U15"
+   ],
+   "teamIds": [
+    "1803",
+    "1804"
+   ],
+   "ground": "Poinciana Ground",
+   "result": "RSCA U15 won by 95 Runs",
+   "summary": "RSCA U15: 186/7(38) FPYCA U15: 91/9(23.5)"
+  },
+  {
+   "matchId": "4602",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4602&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "YGCA U15",
+    "FPYCA U15"
+   ],
+   "teamIds": [
+    "1806",
+    "1803"
+   ],
+   "ground": "Brian Piccolo South",
+   "result": "YGCA U15 won by 259 Runs",
+   "summary": "YGCA U15: 304/4(40) FPYCA U15: 45/10(23.2)"
+  },
+  {
+   "matchId": "4564",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4564&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "RSCA U15",
+    "TCL U15"
+   ],
+   "teamIds": [
+    "1804",
+    "1805"
+   ],
+   "ground": "Waverly Grounds",
+   "result": "RSCA U15 won by 7 Wickets",
+   "summary": "TCL U15: 45/10(16.2) RSCA U15: 48/3(10.1)"
+  },
+  {
+   "matchId": "4461",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4461&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "TCL U15",
+    "FPYCA U15"
+   ],
+   "teamIds": [
+    "1805",
+    "1803"
+   ],
+   "ground": "Winter Haven Ground",
+   "result": "TCL U15 won by 152 Runs",
+   "summary": "TCL U15: 352/5(38.5) FPYCA U15: 200/7(38.3)"
+  }
+ ]
+}

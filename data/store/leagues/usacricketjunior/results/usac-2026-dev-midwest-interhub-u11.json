@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s16",
+  "id": "legacy-587",
+  "name": "USAC 2026 Dev - Midwest Interhub U11"
+ },
+ "fetchedAt": "2026-11-13T21:40:03.264Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=587&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=587&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9066",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9066&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "MN+IA HUB U11",
+    "STLKS HUB U11"
+   ],
+   "teamIds": [
+    "3416",
+    "3417"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MN+IA HUB U11 won by 7 Wickets",
+   "summary": "STLKS HUB U11: 56/7(20) MN+IA HUB U11: 57/3(8.1)"
+  },
+  {
+   "matchId": "9065",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9065&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U11",
+    "ILLINOIS HUB 2 U11"
+   ],
+   "teamIds": [
+    "3414",
+    "3415"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "ILLINOIS HUB 1 U11 won by 5 Wickets",
+   "summary": "ILLINOIS HUB 2 U11: 96/9(20) ILLINOIS HUB 1 U11: 101/5(18.2)"
+  },
+  {
+   "matchId": "9041",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9041&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "STLKS HUB U11",
+    "ILLINOIS HUB 2 U11"
+   ],
+   "teamIds": [
+    "3417",
+    "3415"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "ILLINOIS HUB 2 U11 won by 6 Wickets",
+   "summary": "STLKS HUB U11: 46/9(20) ILLINOIS HUB 2 U11: 47/4(12.1)"
+  },
+  {
+   "matchId": "9040",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9040&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "MN+IA HUB U11",
+    "ILLINOIS HUB 1 U11"
+   ],
+   "teamIds": [
+    "3416",
+    "3414"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MN+IA HUB U11 won by 15 Runs",
+   "summary": "MN+IA HUB U11: 154/4(20) ILLINOIS HUB 1 U11: 139/6(20)"
+  },
+  {
+   "matchId": "9031",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9031&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U11",
+    "STLKS HUB U11"
+   ],
+   "teamIds": [
+    "3414",
+    "3417"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "ILLINOIS HUB 1 U11 won by 6 Wickets",
+   "summary": "STLKS HUB U11: 55/10(19) ILLINOIS HUB 1 U11: 56/4(8.3)"
+  },
+  {
+   "matchId": "9030",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9030&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "MN+IA HUB U11",
+    "ILLINOIS HUB 2 U11"
+   ],
+   "teamIds": [
+    "3416",
+    "3415"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "ILLINOIS HUB 2 U11 won by 5 Wickets",
+   "summary": "MN+IA HUB U11: 114/9(25) ILLINOIS HUB 2 U11: 115/5(22.5)"
+  },
+  {
+   "matchId": "9008",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9008&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "STLKS HUB U11",
+    "ILLINOIS HUB 2 U11"
+   ],
+   "teamIds": [
+    "3417",
+    "3415"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "ILLINOIS HUB 2 U11 won by 57 Runs",
+   "summary": "ILLINOIS HUB 2 U11: 131/8(25) STLKS HUB U11: 74/8(25)"
+  },
+  {
+   "matchId": "9007",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9007&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U11",
+    "MN+IA HUB U11"
+   ],
+   "teamIds": [
+    "3414",
+    "3416"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MN+IA HUB U11 won by 74 Runs",
+   "summary": "MN+IA HUB U11: 214/5(25) ILLINOIS HUB 1 U11: 140/10(21)"
+  },
+  {
+   "matchId": "8992",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8992&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U11",
+    "ILLINOIS HUB 2 U11"
+   ],
+   "teamIds": [
+    "3414",
+    "3415"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "ILLINOIS HUB 1 U11 won by 6 Wickets",
+   "summary": "ILLINOIS HUB 2 U11: 130/5(25) ILLINOIS HUB 1 U11: 132/4(16.5)"
+  },
+  {
+   "matchId": "8991",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8991&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "MN+IA HUB U11",
+    "STLKS HUB U11"
+   ],
+   "teamIds": [
+    "3416",
+    "3417"
+   ],
+   "ground": "MN Bryn Mawr",
+   "result": "MN+IA HUB U11 won by 173 Runs",
+   "summary": "MN+IA HUB U11: 243/2(25) STLKS HUB U11: 70/8(25)"
+  },
+  {
+   "matchId": "8983",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8983&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "STLKS HUB U11",
+    "ILLINOIS HUB 1 U11"
+   ],
+   "teamIds": [
+    "3417",
+    "3414"
+   ],
+   "ground": "MN Bryn Mawr",
+   "result": "ILLINOIS HUB 1 U11 won by 10 Wickets",
+   "summary": "STLKS HUB U11: 33/10(13.2) ILLINOIS HUB 1 U11: 35/0(3.2)"
+  },
+  {
+   "matchId": "8982",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8982&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "MN+IA HUB U11",
+    "ILLINOIS HUB 2 U11"
+   ],
+   "teamIds": [
+    "3416",
+    "3415"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "ILLINOIS HUB 2 U11 won by 3 Wickets",
+   "summary": "MN+IA HUB U11: 79/10(22.3) ILLINOIS HUB 2 U11: 83/7(22.2)"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "season": {
+  "key": "s141",
+  "id": "legacy-385",
+  "name": "USAC 2025 Austin Hub Selection Trails U11"
+ },
+ "fetchedAt": "2026-11-13T22:12:50.217Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=385&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=385&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5973",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5973&clubId=40319",
+   "date": "2025-07-11",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2240",
+    "2239"
+   ],
+   "ground": "CPCG",
+   "result": "Team Blue won by 6 Wickets",
+   "summary": "Team Red: 197/4(30) Team Blue: 198/4(25.2)"
+  }
+ ]
+}

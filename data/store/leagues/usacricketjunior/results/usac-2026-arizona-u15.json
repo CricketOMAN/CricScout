@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s92",
+  "id": "legacy-485",
+  "name": "USAC 2026 - Arizona - U15"
+ },
+ "fetchedAt": "2026-11-13T21:49:42.056Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=485&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=485&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "7351",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7351&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "AZYCA U15",
+    "ANYCA U15"
+   ],
+   "teamIds": [
+    "2825",
+    "2826"
+   ],
+   "ground": "Snedigar East Park",
+   "result": "ANYCA U15 won by 74 Runs",
+   "summary": "ANYCA U15: 177/6(19) AZYCA U15: 103/7(19)"
+  },
+  {
+   "matchId": "7216",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7216&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "ANYCA U15",
+    "AZYCA U15"
+   ],
+   "teamIds": [
+    "2826",
+    "2825"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "ANYCA U15 won by 100 Runs",
+   "summary": "ANYCA U15: 220/5(25) AZYCA U15: 120/11(25)"
+  },
+  {
+   "matchId": "7171",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7171&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "ANYCA U15",
+    "AZYCA U15"
+   ],
+   "teamIds": [
+    "2826",
+    "2825"
+   ],
+   "ground": "Grovers Basin Park",
+   "result": "ANYCA U15: 206/4 (25/25 ov) AZYCA U15: 122/10 (18.2/25 ov)",
+   "summary": "ANYCA U15: 206/4(25) AZYCA U15: 122/10(18.2) Live"
+  },
+  {
+   "matchId": "7169",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7169&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "AZYCA U15",
+    "ANYCA U15"
+   ],
+   "teamIds": [
+    "2825",
+    "2826"
+   ],
+   "ground": "Snedigar East Park",
+   "result": "AZYCA U15 won by 17 Runs (D/L)",
+   "summary": "AZYCA U15: 109/3(25) ANYCA U15: 182/7(21.5)"
+  }
+ ]
+}

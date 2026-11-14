@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s36",
+  "id": "legacy-557",
+  "name": "USAC 2026 - DC - U15 Phase 2"
+ },
+ "fetchedAt": "2026-11-13T21:41:04.126Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=557&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=557&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8878",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8878&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3296",
+    "3297"
+   ],
+   "ground": "TBD",
+   "result": "Team Yellow won by 6 Wickets",
+   "summary": "Team Green: 124/9(25) Team Yellow: 125/4(17.2)"
+  },
+  {
+   "matchId": "8877",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8877&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3295",
+    "3294"
+   ],
+   "ground": "TBD",
+   "result": "Team Blue won by 7 Wickets",
+   "summary": "Team Red: 207/9(25) Team Blue: 208/3(22.4)"
+  },
+  {
+   "matchId": "8870",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8870&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3295",
+    "3296"
+   ],
+   "ground": "TBD",
+   "result": "Team Blue won by 4 Wickets",
+   "summary": "Team Green: 151/7(30) Team Blue: 155/6(22)"
+  },
+  {
+   "matchId": "8868",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8868&clubId=40319",
+   "date": "2026-06-25",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3294",
+    "3297"
+   ],
+   "ground": "TBD",
+   "result": "Team Red won by 5 Wickets",
+   "summary": "Team Yellow: 163/9(30) Team Red: 164/5(24.5)"
+  },
+  {
+   "matchId": "8860",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8860&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3295",
+    "3297"
+   ],
+   "ground": "NPHS1",
+   "result": "Team Blue won by 122 Runs",
+   "summary": "Team Blue: 258/6(40) Team Yellow: 136/10(31.1)"
+  },
+  {
+   "matchId": "8858",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8858&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3294",
+    "3296"
+   ],
+   "ground": "NPHS2",
+   "result": "Team Red won by 104 Runs",
+   "summary": "Team Red: 231/7(40) Team Green: 127/10(29.3)"
+  },
+  {
+   "matchId": "8841",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8841&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3294",
+    "3295"
+   ],
+   "ground": "TBD",
+   "result": "Team Blue won by 17 Runs",
+   "summary": "Team Blue: 263/11(37.2) Team Red: 246/11(38.1)"
+  },
+  {
+   "matchId": "8838",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8838&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3296",
+    "3297"
+   ],
+   "ground": "TBD",
+   "result": "Team Green won by 23 Runs (D/L)",
+   "summary": "Team Green: 178/10(35.5) Team Yellow: 256/5(37.2)"
+  }
+ ]
+}

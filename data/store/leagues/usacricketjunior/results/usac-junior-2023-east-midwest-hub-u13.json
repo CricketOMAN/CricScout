@@ -1,0 +1,252 @@
+{
+ "season": {
+  "key": "s352",
+  "id": "legacy-42",
+  "name": "USAC Junior 2023 -East Midwest Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:16:11.642Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=42&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=42&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2354",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2354&clubId=40319",
+   "date": "2023-08-27",
+   "type": "Final",
+   "teams": [
+    "MYCA TIGERS",
+    "AYCA STRIKERS"
+   ],
+   "teamIds": [
+    "536",
+    "538"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "MYCA TIGERS won by 6 Wickets",
+   "summary": "AYCA STRIKERS: 157/9(30) MYCA TIGERS: 161/4(29.5)"
+  },
+  {
+   "matchId": "2330",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2330&clubId=40319",
+   "date": "2023-08-20",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS TROY",
+    "AYCA STRIKERS"
+   ],
+   "teamIds": [
+    "537",
+    "538"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "AYCA STRIKERS won by 9 Runs",
+   "summary": "AYCA STRIKERS: 174/5(30) PRIME STRIKERS TROY: 165/9(30)"
+  },
+  {
+   "matchId": "2027",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2027&clubId=40319",
+   "date": "2023-07-09",
+   "type": "League",
+   "teams": [
+    "ICY WARRIORS",
+    "MYCA TIGERS"
+   ],
+   "teamIds": [
+    "546",
+    "536"
+   ],
+   "ground": "QUINN PARK",
+   "result": "MYCA TIGERS won by 149 Runs",
+   "summary": "MYCA TIGERS: 193/4(30) ICY WARRIORS: 44/10(16.3)"
+  },
+  {
+   "matchId": "1906",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1906&clubId=40319",
+   "date": "2023-06-19",
+   "type": "League",
+   "teams": [
+    "MYCA TIGERS",
+    "PRIME STRIKERS TROY"
+   ],
+   "teamIds": [
+    "536",
+    "537"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "MYCA TIGERS won by 70 Runs",
+   "summary": "MYCA TIGERS: 141/6(30) PRIME STRIKERS TROY: 71/10(24.1)"
+  },
+  {
+   "matchId": "1844",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1844&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "MCA CONQUERORS",
+    "ICY WARRIORS"
+   ],
+   "teamIds": [
+    "548",
+    "546"
+   ],
+   "ground": "QUINN PARK",
+   "result": "MCA CONQUERORS won by 178 Runs",
+   "summary": "MCA CONQUERORS: 214/10(29.5) ICY WARRIORS: 36/10(15.5)"
+  },
+  {
+   "matchId": "1757",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1757&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "MCA CONQUERORS",
+    "PRIME STRIKERS TROY"
+   ],
+   "teamIds": [
+    "548",
+    "537"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA CONQUERORS won by 133 Runs",
+   "summary": "MCA CONQUERORS: 208/7(25) PRIME STRIKERS TROY: 75/10(21)"
+  },
+  {
+   "matchId": "1718",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1718&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "ICY WARRIORS",
+    "PRIME STRIKERS TROY"
+   ],
+   "teamIds": [
+    "546",
+    "537"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "PRIME STRIKERS TROY won by 14 Runs",
+   "summary": "PRIME STRIKERS TROY: 112/7(25) ICY WARRIORS: 98/8(25)"
+  },
+  {
+   "matchId": "1716",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1716&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "MYCA TIGERS",
+    "AYCA STRIKERS"
+   ],
+   "teamIds": [
+    "536",
+    "538"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "MYCA TIGERS won by 35 Runs",
+   "summary": "MYCA TIGERS: 179/8(30) AYCA STRIKERS: 144/10(26.2)"
+  },
+  {
+   "matchId": "1585",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1585&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "AYCA STRIKERS",
+    "PRIME STRIKERS TROY"
+   ],
+   "teamIds": [
+    "538",
+    "537"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA STRIKERS won by 14 Runs",
+   "summary": "AYCA STRIKERS: 143/10(30) PRIME STRIKERS TROY: 129/10(27.4)"
+  },
+  {
+   "matchId": "1513",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1513&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "MCA CONQUERORS",
+    "ICY WARRIORS"
+   ],
+   "teamIds": [
+    "548",
+    "546"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "MCA CONQUERORS won by 83 Runs",
+   "summary": "MCA CONQUERORS: 222/1(29.5) ICY WARRIORS: 139/7(30)"
+  },
+  {
+   "matchId": "1512",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1512&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "MYCA TIGERS",
+    "PRIME STRIKERS TROY"
+   ],
+   "teamIds": [
+    "536",
+    "537"
+   ],
+   "ground": "CRC PARK",
+   "result": "MYCA TIGERS won by 41 Runs",
+   "summary": "MYCA TIGERS: 126/4(30) PRIME STRIKERS TROY: 85/8(29.2)"
+  },
+  {
+   "matchId": "1459",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1459&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "AYCA STRIKERS",
+    "ICY WARRIORS"
+   ],
+   "teamIds": [
+    "538",
+    "546"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "AYCA STRIKERS won by 7 Wickets",
+   "summary": "ICY WARRIORS: 49/10(23.2) AYCA STRIKERS: 50/3(10.5)"
+  },
+  {
+   "matchId": "1410",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1410&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "MCA CONQUERORS",
+    "MYCA TIGERS"
+   ],
+   "teamIds": [
+    "548",
+    "536"
+   ],
+   "ground": "QUINN PARK",
+   "result": "MYCA TIGERS won by 80 Runs",
+   "summary": "MYCA TIGERS: 111/10(28.3) MCA CONQUERORS: 31/10(15.3)"
+  },
+  {
+   "matchId": "1327",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1327&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "AYCA STRIKERS",
+    "MCA CONQUERORS"
+   ],
+   "teamIds": [
+    "538",
+    "548"
+   ],
+   "ground": "QUINN PARK",
+   "result": "MCA CONQUERORS won by 51 Runs",
+   "summary": "MCA CONQUERORS: 154/10(27) AYCA STRIKERS: 103/10(27)"
+  }
+ ]
+}

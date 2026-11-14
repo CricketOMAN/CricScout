@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s140",
+  "id": "legacy-386",
+  "name": "EMW Dev U13 2025"
+ },
+ "fetchedAt": "2026-11-13T22:12:49.350Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=386&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=386&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6780",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6780&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "PYCA U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "2535",
+    "2522"
+   ],
+   "ground": "TBD",
+   "result": "PYCA U13 won by 7 Runs",
+   "summary": "PYCA U13: 124/8(15) AYCA U13: 117/6(15)"
+  },
+  {
+   "matchId": "6753",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6753&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "PYCA U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "2535",
+    "2522"
+   ],
+   "ground": "TBD",
+   "result": "PYCA U13 won by 44 Runs",
+   "summary": "PYCA U13: 200/2(25) AYCA U13: 156/7(25)"
+  },
+  {
+   "matchId": "6718",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6718&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "2523",
+    "2522"
+   ],
+   "ground": "TBD",
+   "result": "ICY U13 won by 8 Wickets",
+   "summary": "AYCA U13: 86/7(15) ICY U13: 87/2(11.1)"
+  },
+  {
+   "matchId": "6698",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6698&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "2523",
+    "2522"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "AYCA U13 won by 55 Runs",
+   "summary": "AYCA U13: 217/4(25) ICY U13: 162/5(25)"
+  },
+  {
+   "matchId": "6620",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6620&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "AYCA U13",
+    "ICY U13"
+   ],
+   "teamIds": [
+    "2522",
+    "2523"
+   ],
+   "ground": "TBD",
+   "result": "AYCA U13 won by 6 Runs",
+   "summary": "AYCA U13: 73/6(17) ICY U13: 67/9(17)"
+  },
+  {
+   "matchId": "6601",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6601&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "AYCA U13",
+    "ICY U13"
+   ],
+   "teamIds": [
+    "2522",
+    "2523"
+   ],
+   "ground": "TBD",
+   "result": "AYCA U13 won by 56 Runs",
+   "summary": "AYCA U13: 121/9(25) ICY U13: 65/9(24.1)"
+  },
+  {
+   "matchId": "6492",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6492&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "2523",
+    "2522"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "ICY U13 won by 20 Runs",
+   "summary": "ICY U13: 124/4(17) AYCA U13: 104/4(17)"
+  },
+  {
+   "matchId": "6448",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6448&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "AYCA U13"
+   ],
+   "teamIds": [
+    "2523",
+    "2522"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "ICY U13 won by 90 Runs",
+   "summary": "ICY U13: 204/1(25) AYCA U13: 114/5(25)"
+  },
+  {
+   "matchId": "5982",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5982&clubId=40319",
+   "date": "2025-07-12",
+   "type": "League",
+   "teams": [
+    "EMW U13 hub team",
+    "Team B"
+   ],
+   "teamIds": [
+    "2246",
+    "2247"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "EMW U13 hub team: 261/7 (40/40 ov) Team B: 70/2 (11.3/40 ov)",
+   "summary": "EMW U13 hub team: 261/7(40) Team B: 70/2(11.3) Live"
+  }
+ ]
+}

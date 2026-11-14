@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s165",
+  "id": "legacy-349",
+  "name": "2025 USAC Seattle - Hub Phase2 - U15"
+ },
+ "fetchedAt": "2026-11-13T22:18:11.585Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=349&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=349&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5166",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5166&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "U15 Team Blue",
+    "U15 Team Green"
+   ],
+   "teamIds": [
+    "2075",
+    "2074"
+   ],
+   "ground": "Fairfield County Park",
+   "result": "Abandoned.",
+   "summary": "U15 Team Blue: 0/0(0) Live"
+  },
+  {
+   "matchId": "5165",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5165&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "U15 Team Yellow",
+    "U15 Team Red"
+   ],
+   "teamIds": [
+    "2076",
+    "2073"
+   ],
+   "ground": "Fairfield County Park",
+   "result": "Abandoned.",
+   "summary": "U15 Team Yellow: 0/0(0) Live"
+  },
+  {
+   "matchId": "5136",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5136&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "U15 Team Blue",
+    "U15 Team Red"
+   ],
+   "teamIds": [
+    "2075",
+    "2073"
+   ],
+   "ground": "Fairfield County Park",
+   "result": "U15 Team Red won by 15 Runs (D/L)",
+   "summary": "U15 Team Blue: 129/9(30.2) U15 Team Red: 127/3(37)"
+  },
+  {
+   "matchId": "5135",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5135&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "U15 Team Yellow",
+    "U15 Team Green"
+   ],
+   "teamIds": [
+    "2076",
+    "2074"
+   ],
+   "ground": "Fairfield County Park",
+   "result": "U15 Team Green won by 67 Runs",
+   "summary": "U15 Team Green: 171/8(40) U15 Team Yellow: 104/5(28.1)"
+  },
+  {
+   "matchId": "5046",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5046&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "U15 Team Green",
+    "U15 Team Red"
+   ],
+   "teamIds": [
+    "2074",
+    "2073"
+   ],
+   "ground": "Fairfield County Park",
+   "result": "U15 Team Red won by 5 Wickets",
+   "summary": "U15 Team Green: 123/11(37.4) U15 Team Red: 124/5(32.5)"
+  },
+  {
+   "matchId": "5044",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5044&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "U15 Team Yellow",
+    "U15 Team Blue"
+   ],
+   "teamIds": [
+    "2076",
+    "2075"
+   ],
+   "ground": "Fairfield County Park",
+   "result": "U15 Team Blue won by 2 Runs",
+   "summary": "U15 Team Blue: 174/8(40) U15 Team Yellow: 172/10(37.1)"
+  }
+ ]
+}

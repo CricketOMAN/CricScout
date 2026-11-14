@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s357",
+  "id": "legacy-37",
+  "name": "USAC Junior 2023 -St Louis Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:16:15.791Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=37&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=37&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1390",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1390&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "KYCA Icons",
+    "ACAC Crushers"
+   ],
+   "teamIds": [
+    "514",
+    "513"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Crushers won by 9 Wickets",
+   "summary": "KYCA Icons: 50/10(19.4) ACAC Crushers: 52/1(8.2)"
+  },
+  {
+   "matchId": "1348",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1348&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "KYCA Icons",
+    "ACAC Crushers"
+   ],
+   "teamIds": [
+    "514",
+    "513"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Crushers won by 44 Runs",
+   "summary": "ACAC Crushers: 100/9(25) KYCA Icons: 56/10(23.1)"
+  },
+  {
+   "matchId": "1188",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1188&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "KYCA Icons",
+    "ACAC Crushers"
+   ],
+   "teamIds": [
+    "514",
+    "513"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Crushers won by 39 Runs",
+   "summary": "ACAC Crushers: 114/7(20) KYCA Icons: 75/10(18.1)"
+  },
+  {
+   "matchId": "1160",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1160&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "KYCA Icons",
+    "ACAC Crushers"
+   ],
+   "teamIds": [
+    "514",
+    "513"
+   ],
+   "ground": "TBD",
+   "result": "ACAC Crushers won by 4 Wickets",
+   "summary": "KYCA Icons: 73/9(20) ACAC Crushers: 74/6(15.3)"
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s337",
+  "id": "legacy-61",
+  "name": "USAC Junior 2023 -New England Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:13:14.586Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=61&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=61&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2422",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2422&clubId=40319",
+   "date": "2023-08-26",
+   "type": "League",
+   "teams": [
+    "NCAA Rookies A",
+    "UCL Protons"
+   ],
+   "teamIds": [
+    "636",
+    "641"
+   ],
+   "ground": "HOPKINTON",
+   "result": "Abandoned.",
+   "summary": "NCAA Rookies A: 0/0(0)"
+  },
+  {
+   "matchId": "2421",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2421&clubId=40319",
+   "date": "2023-08-26",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Super Kings",
+    "SCTCA XI B"
+   ],
+   "teamIds": [
+    "635",
+    "640"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Abandoned.",
+   "summary": "Cricmax CT Super Kings: 0/0(0)"
+  },
+  {
+   "matchId": "2343",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2343&clubId=40319",
+   "date": "2023-08-26",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Super Kings",
+    "SCTCA XI A"
+   ],
+   "teamIds": [
+    "635",
+    "639"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Cricmax CT Super Kings won by 8 Wickets",
+   "summary": "SCTCA XI A: 35/9(14.5) Cricmax CT Super Kings: 36/2(10.2)"
+  },
+  {
+   "matchId": "2221",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2221&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "SCTCA XI B"
+   ],
+   "teamIds": [
+    "641",
+    "640"
+   ],
+   "ground": "WATERBURY",
+   "result": "Forfeited. Winner: SCTCA XI B",
+   "summary": "UCL Protons: 0/0(0)"
+  },
+  {
+   "matchId": "2220",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2220&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "NCAA Rookies A",
+    "SCTCA XI A"
+   ],
+   "teamIds": [
+    "636",
+    "639"
+   ],
+   "ground": "HOPKINTON",
+   "result": "Forfeited. Winner: NCAA Rookies A",
+   "summary": "NCAA Rookies A: 0/0(0)"
+  },
+  {
+   "matchId": "1978",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1978&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Super Kings",
+    "NCAA Rookies B"
+   ],
+   "teamIds": [
+    "635",
+    "637"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Forfeited. Winner: Cricmax CT Super Kings",
+   "summary": "Cricmax CT Super Kings: 0/0(0)"
+  },
+  {
+   "matchId": "2130",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2130&clubId=40319",
+   "date": "2023-07-29",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Super Kings",
+    "SCTCA XI A"
+   ],
+   "teamIds": [
+    "635",
+    "639"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Cricmax CT Super Kings won by 56 Runs",
+   "summary": "Cricmax CT Super Kings: 138/8(25) SCTCA XI A: 82/6(25)"
+  },
+  {
+   "matchId": "1977",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1977&clubId=40319",
+   "date": "2023-07-29",
+   "type": "League",
+   "teams": [
+    "UCL Protons",
+    "NCAA Rookies B"
+   ],
+   "teamIds": [
+    "641",
+    "637"
+   ],
+   "ground": "HOPKINTON",
+   "result": "Forfeited. Winner: UCL Protons",
+   "summary": "UCL Protons: 0/0(0)"
+  },
+  {
+   "matchId": "2101",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2101&clubId=40319",
+   "date": "2023-07-22",
+   "type": "League",
+   "teams": [
+    "NCAA Rookies A",
+    "Cricmax CT Super Kings"
+   ],
+   "teamIds": [
+    "636",
+    "635"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Cricmax CT Super Kings won by 5 Wickets",
+   "summary": "NCAA Rookies A: 70/8(25) Cricmax CT Super Kings: 71/5(16)"
+  },
+  {
+   "matchId": "1976",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1976&clubId=40319",
+   "date": "2023-07-22",
+   "type": "League",
+   "teams": [
+    "SCTCA XI B",
+    "NCAA Rookies B"
+   ],
+   "teamIds": [
+    "640",
+    "637"
+   ],
+   "ground": "SPRINGFIELD",
+   "result": "Forfeited. Winner: SCTCA XI B",
+   "summary": "SCTCA XI B: 0/0(0)"
+  },
+  {
+   "matchId": "2064",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2064&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Super Kings",
+    "UCL Protons"
+   ],
+   "teamIds": [
+    "635",
+    "641"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Cricmax CT Super Kings won by 6 Wickets",
+   "summary": "UCL Protons: 45/10(16) Cricmax CT Super Kings: 46/4(14.1)"
+  },
+  {
+   "matchId": "1975",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1975&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "NCAA Rookies A",
+    "NCAA Rookies B"
+   ],
+   "teamIds": [
+    "636",
+    "637"
+   ],
+   "ground": "HOPKINTON",
+   "result": "Forfeited. Winner: NCAA Rookies A",
+   "summary": "NCAA Rookies A: 0/0(0)"
+  },
+  {
+   "matchId": "2153",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2153&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Super Kings",
+    "SCTCA XI B"
+   ],
+   "teamIds": [
+    "635",
+    "640"
+   ],
+   "ground": "New Milford",
+   "result": "Cricmax CT Super Kings won by 7 Wickets",
+   "summary": "SCTCA XI B: 37/10(15) Cricmax CT Super Kings: 38/3(5.4)"
+  },
+  {
+   "matchId": "1994",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1994&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "NCAA Rookies A",
+    "UCL Protons"
+   ],
+   "teamIds": [
+    "636",
+    "641"
+   ],
+   "ground": "HOPKINTON",
+   "result": "NCAA Rookies A won by 146 Runs",
+   "summary": "NCAA Rookies A: 191/3(20) UCL Protons: 45/10(15.5)"
+  },
+  {
+   "matchId": "1974",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1974&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "NCAA Rookies B",
+    "SCTCA XI A"
+   ],
+   "teamIds": [
+    "637",
+    "639"
+   ],
+   "ground": "New Milford",
+   "result": "Forfeited. Winner: SCTCA XI A",
+   "summary": "NCAA Rookies B: 0/0(0)"
+  }
+ ]
+}

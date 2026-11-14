@@ -1,0 +1,337 @@
+{
+ "season": {
+  "key": "s195",
+  "id": "legacy-304",
+  "name": "2025 USAC Morrisville -Hub - U13"
+ },
+ "fetchedAt": "2026-11-13T22:26:02.257Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=304&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=304&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5436",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5436&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "U13-Lords",
+    "U13-Perth"
+   ],
+   "teamIds": [
+    "1725",
+    "1728"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "U13-Perth won by 17 Runs",
+   "summary": "U13-Perth: 200/7(30) U13-Lords: 183/9(30)"
+  },
+  {
+   "matchId": "5433",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5433&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "U13-Edens",
+    "U13-Wankades"
+   ],
+   "teamIds": [
+    "1723",
+    "1726"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Edens won by 128 Runs",
+   "summary": "U13-Edens: 239/7(30) U13-Wankades: 111/8(30)"
+  },
+  {
+   "matchId": "5289",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5289&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "U13-Lords",
+    "U13-Gabbas"
+   ],
+   "teamIds": [
+    "1725",
+    "1727"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Gabbas won by 1 Wicket",
+   "summary": "U13-Lords: 172/6(30) U13-Gabbas: 176/9(27.5)"
+  },
+  {
+   "matchId": "5287",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5287&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "U13-Edens",
+    "U13-Bourdas"
+   ],
+   "teamIds": [
+    "1723",
+    "1724"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "U13-Edens won by 25 Runs",
+   "summary": "U13-Edens: 207/7(30) U13-Bourdas: 182/6(30)"
+  },
+  {
+   "matchId": "5108",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5108&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "U13-Lords",
+    "U13-Edens"
+   ],
+   "teamIds": [
+    "1725",
+    "1723"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Edens won by 9 Runs",
+   "summary": "U13-Edens: 196/5(30) U13-Lords: 187/10(29.5)"
+  },
+  {
+   "matchId": "4936",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4936&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "U13-Perth",
+    "U13-Gabbas"
+   ],
+   "teamIds": [
+    "1728",
+    "1727"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "U13-Perth won by 9 Wickets",
+   "summary": "U13-Gabbas: 128/10(19.4) U13-Perth: 129/1(13.5)"
+  },
+  {
+   "matchId": "4933",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4933&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "U13-Wankades",
+    "U13-Bourdas"
+   ],
+   "teamIds": [
+    "1726",
+    "1724"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Bourdas won by 73 Runs",
+   "summary": "U13-Bourdas: 211/7(30) U13-Wankades: 138/10(26.5)"
+  },
+  {
+   "matchId": "4790",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4790&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "U13-Edens",
+    "U13-Perth"
+   ],
+   "teamIds": [
+    "1723",
+    "1728"
+   ],
+   "ground": "NC Hub - Piney Grove",
+   "result": "U13-Edens won by 63 Runs",
+   "summary": "U13-Edens: 224/7(30) U13-Perth: 161/10(26.2)"
+  },
+  {
+   "matchId": "4729",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4729&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "U13-Bourdas",
+    "U13-Lords"
+   ],
+   "teamIds": [
+    "1724",
+    "1725"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Bourdas won by 6 Wickets",
+   "summary": "U13-Lords: 204/6(30) U13-Bourdas: 205/4(29.4)"
+  },
+  {
+   "matchId": "4728",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4728&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "U13-Gabbas",
+    "U13-Wankades"
+   ],
+   "teamIds": [
+    "1727",
+    "1726"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "U13-Gabbas won by 1 Run",
+   "summary": "U13-Gabbas: 185/9(30) U13-Wankades: 184/10(30)"
+  },
+  {
+   "matchId": "4598",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4598&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "U13-Bourdas",
+    "U13-Wankades"
+   ],
+   "teamIds": [
+    "1724",
+    "1726"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Bourdas won by 6 Wickets",
+   "summary": "U13-Wankades: 193/5(30) U13-Bourdas: 194/4(24)"
+  },
+  {
+   "matchId": "4597",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4597&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "U13-Edens",
+    "U13-Gabbas"
+   ],
+   "teamIds": [
+    "1723",
+    "1727"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "U13-Edens won by 45 Runs",
+   "summary": "U13-Edens: 209/8(30) U13-Gabbas: 164/6(30)"
+  },
+  {
+   "matchId": "4512",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4512&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "U13-Perth",
+    "U13-Lords"
+   ],
+   "teamIds": [
+    "1728",
+    "1725"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Perth won by 3 Wickets",
+   "summary": "U13-Lords: 177/6(30) U13-Perth: 178/7(23.2)"
+  },
+  {
+   "matchId": "4511",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4511&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "U13-Wankades",
+    "U13-Edens"
+   ],
+   "teamIds": [
+    "1726",
+    "1723"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "U13-Edens won by 6 Runs",
+   "summary": "U13-Edens: 181/10(24.3) U13-Wankades: 175/9(30)"
+  },
+  {
+   "matchId": "4418",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4418&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "U13-Gabbas",
+    "U13-Lords"
+   ],
+   "teamIds": [
+    "1727",
+    "1725"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Gabbas won by 19 Runs",
+   "summary": "U13-Gabbas: 194/8(30) U13-Lords: 175/10(28)"
+  },
+  {
+   "matchId": "4417",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4417&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "U13-Perth",
+    "U13-Bourdas"
+   ],
+   "teamIds": [
+    "1728",
+    "1724"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "U13-Bourdas won by 1 Run",
+   "summary": "U13-Bourdas: 253/10(29.5) U13-Perth: 252/9(30)"
+  },
+  {
+   "matchId": "4382",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4382&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "U13-Gabbas",
+    "U13-Perth"
+   ],
+   "teamIds": [
+    "1727",
+    "1728"
+   ],
+   "ground": "NC Hub - Weston Park",
+   "result": "U13-Gabbas won by 67 Runs",
+   "summary": "U13-Gabbas: 198/6(30) U13-Perth: 131/10(23.1)"
+  },
+  {
+   "matchId": "4381",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4381&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "U13-Edens",
+    "U13-Bourdas"
+   ],
+   "teamIds": [
+    "1723",
+    "1724"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "U13-Edens won by 2 Wickets",
+   "summary": "U13-Bourdas: 128/10(25.5) U13-Edens: 129/8(20.4)"
+  },
+  {
+   "matchId": "4378",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4378&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "U13-Lords",
+    "U13-Wankades"
+   ],
+   "teamIds": [
+    "1725",
+    "1726"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "U13-Wankades won by 29 Runs",
+   "summary": "U13-Wankades: 288/6(30) U13-Lords: 259/7(30)"
+  }
+ ]
+}

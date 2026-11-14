@@ -1,0 +1,3890 @@
+{
+ "season": {
+  "key": "s209",
+  "id": "legacy-266",
+  "name": "2025 Bay Area USAC&nbsp;Hub"
+ },
+ "fetchedAt": "2026-11-13T22:36:28.045Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=266&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=266&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6877",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6877&clubId=40319",
+   "date": "2025-10-25",
+   "type": "3rd Position",
+   "teams": [
+    "USCA ISLANDERS",
+    "CCA SAMURAIS"
+   ],
+   "teamIds": [
+    "2312",
+    "2307"
+   ],
+   "ground": "Doxey Park",
+   "result": "CCA SAMURAIS won by 29 Runs",
+   "summary": "CCA SAMURAIS: 140/4(25) USCA ISLANDERS: 111/10(23.4)"
+  },
+  {
+   "matchId": "6872",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6872&clubId=40319",
+   "date": "2025-10-25",
+   "type": "Final",
+   "teams": [
+    "DSCA TIGERS",
+    "INDUS AVENGERS"
+   ],
+   "teamIds": [
+    "2310",
+    "2311"
+   ],
+   "ground": "Rancho 1",
+   "result": "DSCA TIGERS won by 6 Wickets",
+   "summary": "INDUS AVENGERS: 130/6(25) DSCA TIGERS: 131/4(22.3)"
+  },
+  {
+   "matchId": "6878",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6878&clubId=40319",
+   "date": "2025-10-25",
+   "type": "League",
+   "teams": [
+    "CCA EB CRUSADERS",
+    "CFC CHALLENGERS"
+   ],
+   "teamIds": [
+    "2317",
+    "2319"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CFC CHALLENGERS won by 15 Runs",
+   "summary": "CFC CHALLENGERS: 122/8(25) CCA EB CRUSADERS: 107/10(25)"
+  },
+  {
+   "matchId": "6874",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6874&clubId=40319",
+   "date": "2025-10-25",
+   "type": "League",
+   "teams": [
+    "DSCA HAWKS",
+    "INDUS PRINCE"
+   ],
+   "teamIds": [
+    "2323",
+    "2321"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA HAWKS won by 3 Wickets",
+   "summary": "INDUS PRINCE: 109/7(25) DSCA HAWKS: 110/7(24.4)"
+  },
+  {
+   "matchId": "6873",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6873&clubId=40319",
+   "date": "2025-10-25",
+   "type": "League",
+   "teams": [
+    "BCA WARRIORS",
+    "CCA YORKERS"
+   ],
+   "teamIds": [
+    "2318",
+    "2320"
+   ],
+   "ground": "Bowman",
+   "result": "CCA YORKERS won by 10 Wickets",
+   "summary": "BCA WARRIORS: 86/11(22.3) CCA YORKERS: 87/0(11.2)"
+  },
+  {
+   "matchId": "6785",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6785&clubId=40319",
+   "date": "2025-10-11",
+   "type": "Eliminator",
+   "teams": [
+    "BCA HAWKS",
+    "VKCA BOLTS"
+   ],
+   "teamIds": [
+    "2303",
+    "2306"
+   ],
+   "ground": "Challenger",
+   "result": "BCA HAWKS won by 7 Wickets",
+   "summary": "VKCA BOLTS: 133/10(22.4) BCA HAWKS: 134/3(14.4)"
+  },
+  {
+   "matchId": "6766",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6766&clubId=40319",
+   "date": "2025-10-11",
+   "type": "Final",
+   "teams": [
+    "CCA TORNADOS",
+    "VKCA VOLTS"
+   ],
+   "teamIds": [
+    "2299",
+    "2300"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA TORNADOS won by 3 Wickets",
+   "summary": "VKCA VOLTS: 143/6(25) CCA TORNADOS: 145/7(24.2)"
+  },
+  {
+   "matchId": "6765",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6765&clubId=40319",
+   "date": "2025-10-11",
+   "type": "3rd Position",
+   "teams": [
+    "SRCA WARRIORS",
+    "STRIKERS SUPERKINGS SCORCHERS"
+   ],
+   "teamIds": [
+    "2304",
+    "2302"
+   ],
+   "ground": "Quail Run",
+   "result": "SRCA WARRIORS won by 2 Wickets",
+   "summary": "STRIKERS SUPERKINGS SCORCHERS: 75/8(25) SRCA WARRIORS: 81/8(20.2)"
+  },
+  {
+   "matchId": "6762",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6762&clubId=40319",
+   "date": "2025-10-11",
+   "type": "Eliminator",
+   "teams": [
+    "BCA KNIGHTS",
+    "CCA PANTHERS"
+   ],
+   "teamIds": [
+    "2301",
+    "2305"
+   ],
+   "ground": "Challenger",
+   "result": "BCA KNIGHTS won by 22 Runs",
+   "summary": "BCA KNIGHTS: 214/1(25) CCA PANTHERS: 192/8(25)"
+  },
+  {
+   "matchId": "6786",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6786&clubId=40319",
+   "date": "2025-10-11",
+   "type": "Eliminator",
+   "teams": [
+    "BCA SPARTANS",
+    "DCL KNIGHTS"
+   ],
+   "teamIds": [
+    "2316",
+    "2315"
+   ],
+   "ground": "Quail Run",
+   "result": "DCL KNIGHTS won by 6 Wickets",
+   "summary": "BCA SPARTANS: 95/10(25) DCL KNIGHTS: 96/4(20.2)"
+  },
+  {
+   "matchId": "6784",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6784&clubId=40319",
+   "date": "2025-10-11",
+   "type": "Eliminator",
+   "teams": [
+    "CRICKINGDOM",
+    "STRIKERS SUPERKINGS CHALLENGERS"
+   ],
+   "teamIds": [
+    "2309",
+    "2313"
+   ],
+   "ground": "Bowman",
+   "result": "CRICKINGDOM won by 31 Runs",
+   "summary": "CRICKINGDOM: 204/6(25) STRIKERS SUPERKINGS CHALLENGERS: 173/4(25)"
+  },
+  {
+   "matchId": "6778",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6778&clubId=40319",
+   "date": "2025-10-11",
+   "type": "Eliminator",
+   "teams": [
+    "CCA CHALLENGERS",
+    "YJCA TITANS"
+   ],
+   "teamIds": [
+    "2308",
+    "2314"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA CHALLENGERS won by 10 Wickets",
+   "summary": "YJCA TITANS: 85/10(18.3) CCA CHALLENGERS: 86/0(8.3)"
+  },
+  {
+   "matchId": "6777",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6777&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "CCA EB CRUSADERS",
+    "CCA CARDINALS"
+   ],
+   "teamIds": [
+    "2317",
+    "2322"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA EB CRUSADERS won by 7 Wickets",
+   "summary": "CCA CARDINALS: 84/9(25) CCA EB CRUSADERS: 85/3(18.3)"
+  },
+  {
+   "matchId": "6764",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6764&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "BCA WARRIORS",
+    "INDUS PRINCE"
+   ],
+   "teamIds": [
+    "2318",
+    "2321"
+   ],
+   "ground": "Bowman",
+   "result": "INDUS PRINCE won by 4 Wickets",
+   "summary": "BCA WARRIORS: 155/8(25) INDUS PRINCE: 157/6(22.4)"
+  },
+  {
+   "matchId": "6761",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6761&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "CFC CHALLENGERS",
+    "DSCA HAWKS"
+   ],
+   "teamIds": [
+    "2319",
+    "2323"
+   ],
+   "ground": "Ken Mercer",
+   "result": "CFC CHALLENGERS won by 73 Runs",
+   "summary": "CFC CHALLENGERS: 136/4(25) DSCA HAWKS: 63/9(16.3)"
+  },
+  {
+   "matchId": "6690",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6690&clubId=40319",
+   "date": "2025-10-04",
+   "type": "Semi Final",
+   "teams": [
+    "SRCA WARRIORS",
+    "VKCA VOLTS"
+   ],
+   "teamIds": [
+    "2304",
+    "2300"
+   ],
+   "ground": "Quail Run",
+   "result": "VKCA VOLTS won by 32 Runs",
+   "summary": "VKCA VOLTS: 127/6(25) SRCA WARRIORS: 95/8(25)"
+  },
+  {
+   "matchId": "6689",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6689&clubId=40319",
+   "date": "2025-10-04",
+   "type": "Semi Final",
+   "teams": [
+    "STRIKERS SUPERKINGS SCORCHERS",
+    "CCA TORNADOS"
+   ],
+   "teamIds": [
+    "2302",
+    "2299"
+   ],
+   "ground": "Sierramont",
+   "result": "CCA TORNADOS won by 82 Runs",
+   "summary": "CCA TORNADOS: 139/6(25) STRIKERS SUPERKINGS SCORCHERS: 57/10(20.4)"
+  },
+  {
+   "matchId": "6677",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6677&clubId=40319",
+   "date": "2025-10-04",
+   "type": "Eliminator",
+   "teams": [
+    "CCA PANTHERS",
+    "BCA HAWKS"
+   ],
+   "teamIds": [
+    "2305",
+    "2303"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA PANTHERS won by 77 Runs",
+   "summary": "CCA PANTHERS: 212/6(25) BCA HAWKS: 135/7(25)"
+  },
+  {
+   "matchId": "6660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6660&clubId=40319",
+   "date": "2025-10-04",
+   "type": "Eliminator",
+   "teams": [
+    "BCA KNIGHTS",
+    "VKCA BOLTS"
+   ],
+   "teamIds": [
+    "2301",
+    "2306"
+   ],
+   "ground": "Challenger",
+   "result": "BCA KNIGHTS won by 9 Wickets",
+   "summary": "VKCA BOLTS: 99/8(25) BCA KNIGHTS: 101/1(16.3)"
+  },
+  {
+   "matchId": "6687",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6687&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "YJCA TITANS",
+    "CCA CHALLENGERS"
+   ],
+   "teamIds": [
+    "2314",
+    "2308"
+   ],
+   "ground": "Bradshaw",
+   "result": "CCA CHALLENGERS won by 20 Runs",
+   "summary": "CCA CHALLENGERS: 177/3(25) YJCA TITANS: 157/6(25)"
+  },
+  {
+   "matchId": "6686",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6686&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "BCA SPARTANS",
+    "USCA ISLANDERS"
+   ],
+   "teamIds": [
+    "2316",
+    "2312"
+   ],
+   "ground": "Bowman",
+   "result": "USCA ISLANDERS won by 8 Wickets",
+   "summary": "BCA SPARTANS: 89/10(24) USCA ISLANDERS: 90/2(16.5)"
+  },
+  {
+   "matchId": "6679",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6679&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "CCA SAMURAIS",
+    "INDUS AVENGERS"
+   ],
+   "teamIds": [
+    "2307",
+    "2311"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA SAMURAIS won by 95 Runs",
+   "summary": "CCA SAMURAIS: 163/5(25) INDUS AVENGERS: 68/10(14.5)"
+  },
+  {
+   "matchId": "6662",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6662&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "DCL KNIGHTS",
+    "DSCA TIGERS"
+   ],
+   "teamIds": [
+    "2315",
+    "2310"
+   ],
+   "ground": "Quail Run",
+   "result": "DSCA TIGERS won by 134 Runs",
+   "summary": "DSCA TIGERS: 205/7(25) DCL KNIGHTS: 71/7(25)"
+  },
+  {
+   "matchId": "6658",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6658&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "STRIKERS SUPERKINGS CHALLENGERS",
+    "CRICKINGDOM"
+   ],
+   "teamIds": [
+    "2313",
+    "2309"
+   ],
+   "ground": "Sierramont",
+   "result": "CRICKINGDOM won by 30 Runs",
+   "summary": "CRICKINGDOM: 165/10(24.4) STRIKERS SUPERKINGS CHALLENGERS: 135/6(25)"
+  },
+  {
+   "matchId": "6685",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6685&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "CCA CARDINALS",
+    "BCA WARRIORS"
+   ],
+   "teamIds": [
+    "2322",
+    "2318"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA CARDINALS won by 20 Runs",
+   "summary": "CCA CARDINALS: 114/6(25) BCA WARRIORS: 94/10(23)"
+  },
+  {
+   "matchId": "6663",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6663&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "CCA YORKERS",
+    "INDUS PRINCE"
+   ],
+   "teamIds": [
+    "2320",
+    "2321"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA YORKERS won by 33 Runs",
+   "summary": "CCA YORKERS: 134/8(25) INDUS PRINCE: 101/11(23.4)"
+  },
+  {
+   "matchId": "6661",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6661&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "DSCA HAWKS",
+    "CCA EB CRUSADERS"
+   ],
+   "teamIds": [
+    "2323",
+    "2317"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA HAWKS won by 3 Wickets",
+   "summary": "CCA EB CRUSADERS: 36/10(14.5) DSCA HAWKS: 37/7(12.4)"
+  },
+  {
+   "matchId": "6590",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6590&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "CCA PANTHERS",
+    "BCA KNIGHTS"
+   ],
+   "teamIds": [
+    "2305",
+    "2301"
+   ],
+   "ground": "Dilworth",
+   "result": "BCA KNIGHTS won by 7 Wickets",
+   "summary": "CCA PANTHERS: 179/3(25) BCA KNIGHTS: 180/3(23.3)"
+  },
+  {
+   "matchId": "6563",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6563&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "VKCA VOLTS",
+    "SRCA WARRIORS"
+   ],
+   "teamIds": [
+    "2300",
+    "2304"
+   ],
+   "ground": "Quail Run",
+   "result": "SRCA WARRIORS won by 1 Wicket",
+   "summary": "VKCA VOLTS: 123/7(25) SRCA WARRIORS: 124/9(24.5)"
+  },
+  {
+   "matchId": "6558",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6558&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "CCA TORNADOS",
+    "BCA HAWKS"
+   ],
+   "teamIds": [
+    "2299",
+    "2303"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA TORNADOS won by 155 Runs",
+   "summary": "CCA TORNADOS: 252/2(25) BCA HAWKS: 97/10(24.1)"
+  },
+  {
+   "matchId": "6553",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6553&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "STRIKERS SUPERKINGS SCORCHERS",
+    "VKCA BOLTS"
+   ],
+   "teamIds": [
+    "2302",
+    "2306"
+   ],
+   "ground": "Sierramont",
+   "result": "STRIKERS SUPERKINGS SCORCHERS won by 8 Wickets",
+   "summary": "VKCA BOLTS: 82/8(25) STRIKERS SUPERKINGS SCORCHERS: 86/2(9.2)"
+  },
+  {
+   "matchId": "6591",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6591&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "YJCA TITANS",
+    "BCA SPARTANS"
+   ],
+   "teamIds": [
+    "2314",
+    "2316"
+   ],
+   "ground": "Bradshaw",
+   "result": "YJCA TITANS won by 71 Runs",
+   "summary": "YJCA TITANS: 230/6(25) BCA SPARTANS: 159/8(25)"
+  },
+  {
+   "matchId": "6585",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6585&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "STRIKERS SUPERKINGS CHALLENGERS",
+    "DCL KNIGHTS"
+   ],
+   "teamIds": [
+    "2313",
+    "2315"
+   ],
+   "ground": "Sierramont",
+   "result": "STRIKERS SUPERKINGS CHALLENGERS won by 3 Wickets",
+   "summary": "DCL KNIGHTS: 150/8(25) STRIKERS SUPERKINGS CHALLENGERS: 155/7(24.4)"
+  },
+  {
+   "matchId": "6568",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6568&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "USCA ISLANDERS",
+    "CCA SAMURAIS"
+   ],
+   "teamIds": [
+    "2312",
+    "2307"
+   ],
+   "ground": "Doxey Park",
+   "result": "CCA SAMURAIS won by 65 Runs",
+   "summary": "CCA SAMURAIS: 141/6(25) USCA ISLANDERS: 76/10(21)"
+  },
+  {
+   "matchId": "6562",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6562&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "CRICKINGDOM",
+    "INDUS AVENGERS"
+   ],
+   "teamIds": [
+    "2309",
+    "2311"
+   ],
+   "ground": "Bowman",
+   "result": "INDUS AVENGERS won by 92 Runs",
+   "summary": "INDUS AVENGERS: 231/5(25) CRICKINGDOM: 139/8(25)"
+  },
+  {
+   "matchId": "6561",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6561&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "DSCA TIGERS",
+    "CCA CHALLENGERS"
+   ],
+   "teamIds": [
+    "2310",
+    "2308"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA TIGERS won by 129 Runs",
+   "summary": "DSCA TIGERS: 148/7(25) CCA CHALLENGERS: 19/10(14.2)"
+  },
+  {
+   "matchId": "6589",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6589&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "CFC CHALLENGERS",
+    "BCA WARRIORS"
+   ],
+   "teamIds": [
+    "2319",
+    "2318"
+   ],
+   "ground": "Quail Run",
+   "result": "CFC CHALLENGERS won by 7 Wickets",
+   "summary": "BCA WARRIORS: 95/5(25) CFC CHALLENGERS: 97/3(14.1)"
+  },
+  {
+   "matchId": "6587",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6587&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "CCA CARDINALS",
+    "DSCA HAWKS"
+   ],
+   "teamIds": [
+    "2322",
+    "2323"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA CARDINALS won by 62 Runs",
+   "summary": "CCA CARDINALS: 184/5(25) DSCA HAWKS: 122/10(24.1)"
+  },
+  {
+   "matchId": "6557",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6557&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "CCA EB CRUSADERS",
+    "CCA YORKERS"
+   ],
+   "teamIds": [
+    "2317",
+    "2320"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA YORKERS won by 2 Wickets",
+   "summary": "CCA EB CRUSADERS: 104/4(25) CCA YORKERS: 105/8(24.3)"
+  },
+  {
+   "matchId": "6494",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6494&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "VKCA VOLTS",
+    "STRIKERS SUPERKINGS SCORCHERS"
+   ],
+   "teamIds": [
+    "2300",
+    "2302"
+   ],
+   "ground": "FCP",
+   "result": "VKCA VOLTS won by 3 Wickets",
+   "summary": "STRIKERS SUPERKINGS SCORCHERS: 132/6(25) VKCA VOLTS: 133/7(25)"
+  },
+  {
+   "matchId": "6476",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6476&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "CCA PANTHERS",
+    "SRCA WARRIORS"
+   ],
+   "teamIds": [
+    "2305",
+    "2304"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "SRCA WARRIORS won by 52 Runs",
+   "summary": "SRCA WARRIORS: 225/6(25) CCA PANTHERS: 173/9(25)"
+  },
+  {
+   "matchId": "6468",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6468&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "VKCA BOLTS",
+    "BCA HAWKS"
+   ],
+   "teamIds": [
+    "2306",
+    "2303"
+   ],
+   "ground": "FCP",
+   "result": "BCA HAWKS won by 9 Wickets",
+   "summary": "VKCA BOLTS: 70/10(25) BCA HAWKS: 71/1(15.2)"
+  },
+  {
+   "matchId": "6455",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6455&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "BCA KNIGHTS",
+    "CCA TORNADOS"
+   ],
+   "teamIds": [
+    "2301",
+    "2299"
+   ],
+   "ground": "Challenger",
+   "result": "CCA TORNADOS won by 9 Wickets",
+   "summary": "BCA KNIGHTS: 131/5(25) CCA TORNADOS: 132/1(19)"
+  },
+  {
+   "matchId": "6496",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6496&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "CCA SAMURAIS",
+    "YJCA TITANS"
+   ],
+   "teamIds": [
+    "2307",
+    "2314"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA SAMURAIS won by 143 Runs",
+   "summary": "CCA SAMURAIS: 209/9(25) YJCA TITANS: 66/10(16.3)"
+  },
+  {
+   "matchId": "6486",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6486&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "INDUS AVENGERS",
+    "CCA CHALLENGERS"
+   ],
+   "teamIds": [
+    "2311",
+    "2308"
+   ],
+   "ground": "Rancho 1",
+   "result": "INDUS AVENGERS won by 4 Wickets",
+   "summary": "CCA CHALLENGERS: 179/9(25) INDUS AVENGERS: 183/6(22.3)"
+  },
+  {
+   "matchId": "6472",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6472&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "USCA ISLANDERS",
+    "DCL KNIGHTS"
+   ],
+   "teamIds": [
+    "2312",
+    "2315"
+   ],
+   "ground": "Doxey Park",
+   "result": "USCA ISLANDERS won by 7 Wickets",
+   "summary": "DCL KNIGHTS: 38/10(16.5) USCA ISLANDERS: 39/3(10.5)"
+  },
+  {
+   "matchId": "6467",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6467&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "CRICKINGDOM",
+    "DSCA TIGERS"
+   ],
+   "teamIds": [
+    "2309",
+    "2310"
+   ],
+   "ground": "Bowman",
+   "result": "DSCA TIGERS won by 187 Runs",
+   "summary": "DSCA TIGERS: 281/3(25) CRICKINGDOM: 94/10(23.4)"
+  },
+  {
+   "matchId": "6454",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6454&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "STRIKERS SUPERKINGS CHALLENGERS",
+    "BCA SPARTANS"
+   ],
+   "teamIds": [
+    "2313",
+    "2316"
+   ],
+   "ground": "Sierramont",
+   "result": "BCA SPARTANS won by 5 Wickets",
+   "summary": "STRIKERS SUPERKINGS CHALLENGERS: 165/5(25) BCA SPARTANS: 166/5(23)"
+  },
+  {
+   "matchId": "6488",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6488&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "INDUS PRINCE",
+    "CCA EB CRUSADERS"
+   ],
+   "teamIds": [
+    "2321",
+    "2317"
+   ],
+   "ground": "Rancho 2",
+   "result": "CCA EB CRUSADERS won by 12 Runs",
+   "summary": "CCA EB CRUSADERS: 162/7(25) INDUS PRINCE: 150/8(25)"
+  },
+  {
+   "matchId": "6487",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6487&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "CCA YORKERS",
+    "DSCA HAWKS"
+   ],
+   "teamIds": [
+    "2320",
+    "2323"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA YORKERS won by 120 Runs",
+   "summary": "CCA YORKERS: 172/5(25) DSCA HAWKS: 52/10(19)"
+  },
+  {
+   "matchId": "6463",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6463&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "CFC CHALLENGERS",
+    "CCA CARDINALS"
+   ],
+   "teamIds": [
+    "2319",
+    "2322"
+   ],
+   "ground": "Quail Run",
+   "result": "CFC CHALLENGERS won by 101 Runs",
+   "summary": "CFC CHALLENGERS: 190/8(25) CCA CARDINALS: 89/8(24.4)"
+  },
+  {
+   "matchId": "6397",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6397&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "BCA HAWKS",
+    "VKCA VOLTS"
+   ],
+   "teamIds": [
+    "2303",
+    "2300"
+   ],
+   "ground": "Challenger",
+   "result": "VKCA VOLTS won by 7 Wickets",
+   "summary": "BCA HAWKS: 70/9(25) VKCA VOLTS: 72/3(11.1)"
+  },
+  {
+   "matchId": "6365",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6365&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "SRCA WARRIORS",
+    "CCA TORNADOS"
+   ],
+   "teamIds": [
+    "2304",
+    "2299"
+   ],
+   "ground": "Quail Run",
+   "result": "CCA TORNADOS won by 3 Wickets",
+   "summary": "SRCA WARRIORS: 101/9(25) CCA TORNADOS: 102/7(24.1)"
+  },
+  {
+   "matchId": "6360",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6360&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "BCA KNIGHTS",
+    "VKCA BOLTS"
+   ],
+   "teamIds": [
+    "2301",
+    "2306"
+   ],
+   "ground": "Challenger",
+   "result": "BCA KNIGHTS won by 68 Runs",
+   "summary": "BCA KNIGHTS: 160/7(25) VKCA BOLTS: 92/5(25)"
+  },
+  {
+   "matchId": "6358",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6358&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "STRIKERS SUPERKINGS SCORCHERS",
+    "CCA PANTHERS"
+   ],
+   "teamIds": [
+    "2302",
+    "2305"
+   ],
+   "ground": "Sierramont",
+   "result": "STRIKERS SUPERKINGS SCORCHERS won by 8 Wickets",
+   "summary": "CCA PANTHERS: 134/4(25) STRIKERS SUPERKINGS SCORCHERS: 136/2(14.4)"
+  },
+  {
+   "matchId": "6395",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6395&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "YJCA TITANS",
+    "CRICKINGDOM"
+   ],
+   "teamIds": [
+    "2314",
+    "2309"
+   ],
+   "ground": "Bradshaw",
+   "result": "YJCA TITANS won by 5 Wickets",
+   "summary": "CRICKINGDOM: 217/8(25) YJCA TITANS: 220/5(23.3)"
+  },
+  {
+   "matchId": "6392",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6392&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "INDUS AVENGERS",
+    "DCL KNIGHTS"
+   ],
+   "teamIds": [
+    "2311",
+    "2315"
+   ],
+   "ground": "Rancho 1",
+   "result": "INDUS AVENGERS won by 267 Runs",
+   "summary": "INDUS AVENGERS: 358/4(25) DCL KNIGHTS: 91/10(12.5)"
+  },
+  {
+   "matchId": "6390",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6390&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "CCA CHALLENGERS",
+    "USCA ISLANDERS"
+   ],
+   "teamIds": [
+    "2308",
+    "2312"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA CHALLENGERS won by 48 Runs",
+   "summary": "CCA CHALLENGERS: 177/10(24.2) USCA ISLANDERS: 129/10(25)"
+  },
+  {
+   "matchId": "6388",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6388&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "CCA SAMURAIS",
+    "STRIKERS SUPERKINGS CHALLENGERS"
+   ],
+   "teamIds": [
+    "2307",
+    "2313"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA SAMURAIS won by 9 Wickets",
+   "summary": "STRIKERS SUPERKINGS CHALLENGERS: 76/4(25) CCA SAMURAIS: 77/1(8.1)"
+  },
+  {
+   "matchId": "6368",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6368&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "BCA SPARTANS",
+    "DSCA TIGERS"
+   ],
+   "teamIds": [
+    "2316",
+    "2310"
+   ],
+   "ground": "Bowman",
+   "result": "DSCA TIGERS won by 303 Runs",
+   "summary": "DSCA TIGERS: 356/4(25) BCA SPARTANS: 53/10(18.3)"
+  },
+  {
+   "matchId": "6389",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6389&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "CCA CARDINALS",
+    "CCA YORKERS"
+   ],
+   "teamIds": [
+    "2322",
+    "2320"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA YORKERS won by 23 Runs",
+   "summary": "CCA YORKERS: 154/7(25) CCA CARDINALS: 131/7(25)"
+  },
+  {
+   "matchId": "6387",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6387&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "INDUS PRINCE",
+    "CFC CHALLENGERS"
+   ],
+   "teamIds": [
+    "2321",
+    "2319"
+   ],
+   "ground": "Rancho 2",
+   "result": "CFC CHALLENGERS won by 141 Runs",
+   "summary": "CFC CHALLENGERS: 211/6(25) INDUS PRINCE: 70/10(16.3)"
+  },
+  {
+   "matchId": "6369",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6369&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "DSCA HAWKS",
+    "BCA WARRIORS"
+   ],
+   "teamIds": [
+    "2323",
+    "2318"
+   ],
+   "ground": "Nielsen",
+   "result": "BCA WARRIORS won by 30 Runs",
+   "summary": "BCA WARRIORS: 130/9(25) DSCA HAWKS: 100/8(24)"
+  },
+  {
+   "matchId": "6322",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6322&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "CCA TORNADOS",
+    "STRIKERS SUPERKINGS SCORCHERS"
+   ],
+   "teamIds": [
+    "2299",
+    "2302"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA TORNADOS won by 8 Wickets",
+   "summary": "STRIKERS SUPERKINGS SCORCHERS: 166/8(25) CCA TORNADOS: 167/2(22.2)"
+  },
+  {
+   "matchId": "6313",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6313&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "VKCA BOLTS",
+    "SRCA WARRIORS"
+   ],
+   "teamIds": [
+    "2306",
+    "2304"
+   ],
+   "ground": "Quail Run",
+   "result": "SRCA WARRIORS won by 10 Wickets",
+   "summary": "VKCA BOLTS: 45/10(17.5) SRCA WARRIORS: 46/0(4)"
+  },
+  {
+   "matchId": "6312",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6312&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "BCA HAWKS",
+    "CCA PANTHERS"
+   ],
+   "teamIds": [
+    "2303",
+    "2305"
+   ],
+   "ground": "Challenger",
+   "result": "CCA PANTHERS won by 8 Wickets",
+   "summary": "BCA HAWKS: 66/8(25) CCA PANTHERS: 67/2(12.1)"
+  },
+  {
+   "matchId": "6304",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6304&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "VKCA VOLTS",
+    "BCA KNIGHTS"
+   ],
+   "teamIds": [
+    "2300",
+    "2301"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA VOLTS won by 40 Runs",
+   "summary": "VKCA VOLTS: 149/10(25) BCA KNIGHTS: 109/10(24.3)"
+  },
+  {
+   "matchId": "6324",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6324&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "YJCA TITANS",
+    "DCL KNIGHTS"
+   ],
+   "teamIds": [
+    "2314",
+    "2315"
+   ],
+   "ground": "Quail Run",
+   "result": "YJCA TITANS won by 44 Runs",
+   "summary": "YJCA TITANS: 134/4(25) DCL KNIGHTS: 90/10(17.3)"
+  },
+  {
+   "matchId": "6320",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6320&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "CCA CHALLENGERS",
+    "STRIKERS SUPERKINGS CHALLENGERS"
+   ],
+   "teamIds": [
+    "2308",
+    "2313"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA CHALLENGERS won by 9 Wickets",
+   "summary": "STRIKERS SUPERKINGS CHALLENGERS: 141/7(25) CCA CHALLENGERS: 142/1(15.5)"
+  },
+  {
+   "matchId": "6318",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6318&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "INDUS AVENGERS",
+    "BCA SPARTANS"
+   ],
+   "teamIds": [
+    "2311",
+    "2316"
+   ],
+   "ground": "Rancho 1",
+   "result": "INDUS AVENGERS won by 145 Runs",
+   "summary": "INDUS AVENGERS: 325/3(25) BCA SPARTANS: 180/5(25)"
+  },
+  {
+   "matchId": "6316",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6316&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "USCA ISLANDERS",
+    "CRICKINGDOM"
+   ],
+   "teamIds": [
+    "2312",
+    "2309"
+   ],
+   "ground": "Doxey Park",
+   "result": "USCA ISLANDERS won by 5 Wickets",
+   "summary": "CRICKINGDOM: 119/10(24.3) USCA ISLANDERS: 122/5(24.4)"
+  },
+  {
+   "matchId": "6310",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6310&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "DSCA TIGERS",
+    "CCA SAMURAIS"
+   ],
+   "teamIds": [
+    "2310",
+    "2307"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA TIGERS won by 58 Runs",
+   "summary": "DSCA TIGERS: 126/5(25) CCA SAMURAIS: 68/9(25)"
+  },
+  {
+   "matchId": "6321",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6321&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "INDUS PRINCE",
+    "CCA CARDINALS"
+   ],
+   "teamIds": [
+    "2321",
+    "2322"
+   ],
+   "ground": "Rancho 2",
+   "result": "CCA CARDINALS won by 5 Wickets",
+   "summary": "INDUS PRINCE: 114/7(25) CCA CARDINALS: 115/5(23.4)"
+  },
+  {
+   "matchId": "6319",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6319&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "CCA YORKERS",
+    "CFC CHALLENGERS"
+   ],
+   "teamIds": [
+    "2320",
+    "2319"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CFC CHALLENGERS won by 51 Runs",
+   "summary": "CFC CHALLENGERS: 147/4(25) CCA YORKERS: 96/10(23.3)"
+  },
+  {
+   "matchId": "6314",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6314&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "BCA WARRIORS",
+    "CCA EB CRUSADERS"
+   ],
+   "teamIds": [
+    "2318",
+    "2317"
+   ],
+   "ground": "Bowman",
+   "result": "CCA EB CRUSADERS won by 7 Wickets",
+   "summary": "BCA WARRIORS: 114/7(25) CCA EB CRUSADERS: 115/3(18.3)"
+  },
+  {
+   "matchId": "5322",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5322&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "2088",
+    "2089"
+   ],
+   "ground": "FSP",
+   "result": "Team Green won by 6 Wickets",
+   "summary": "Team Blue: 169/10(39.3) Team Green: 172/4(37)"
+  },
+  {
+   "matchId": "5277",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5277&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "2092",
+    "2093"
+   ],
+   "ground": "WRMS",
+   "result": "Team Green won by 32 Runs",
+   "summary": "Team Green: 158/6(30) Team Blue: 126/14(29)"
+  },
+  {
+   "matchId": "5232",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5232&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2095",
+    "2094"
+   ],
+   "ground": "WRMS",
+   "result": "Team Red won by 9 Runs",
+   "summary": "Team Red: 136/7(30.1) Team Yellow: 127/4(30)"
+  },
+  {
+   "matchId": "5162",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5162&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2092",
+    "2095"
+   ],
+   "ground": "WRMS",
+   "result": "Team Blue won by 16 Runs",
+   "summary": "Team Blue: 154/5(30) Team Yellow: 138/6(30)"
+  },
+  {
+   "matchId": "5126",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5126&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "2094",
+    "2093"
+   ],
+   "ground": "WRMS",
+   "result": "Team Red won by 5 Wickets",
+   "summary": "Team Green: 157/4(30) Team Red: 158/5(27.1)"
+  },
+  {
+   "matchId": "5132",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5132&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2089",
+    "2090"
+   ],
+   "ground": "FSP",
+   "result": "Team Red won by 4 Wickets",
+   "summary": "Team Green: 137/11(37.3) Team Red: 140/6(39)"
+  },
+  {
+   "matchId": "5078",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5078&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2093",
+    "2095"
+   ],
+   "ground": "WRMS",
+   "result": "Team Green won by 3 Wickets",
+   "summary": "Team Yellow: 131/9(30) Team Green: 136/7(23.5)"
+  },
+  {
+   "matchId": "5035",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5035&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "2094",
+    "2092"
+   ],
+   "ground": "WRMS",
+   "result": "Team Red won by 7 Wickets",
+   "summary": "Team Blue: 116/7(30) Team Red: 117/3(21.4)"
+  },
+  {
+   "matchId": "5039",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5039&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "2090",
+    "2088"
+   ],
+   "ground": "FSP",
+   "result": "Team Red won by 98 Runs",
+   "summary": "Team Red: 228/10(40) Team Blue: 130/11(30.5)"
+  },
+  {
+   "matchId": "4868",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4868&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "BCA Warriors",
+    "SRCA Stars"
+   ],
+   "teamIds": [
+    "1691",
+    "1695"
+   ],
+   "ground": "FCP",
+   "result": "SRCA Stars won by 21 Runs",
+   "summary": "SRCA Stars: 201/6(40) BCA Warriors: 180/10(39.4)"
+  },
+  {
+   "matchId": "4886",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4886&clubId=40319",
+   "date": "2025-05-03",
+   "type": "Final",
+   "teams": [
+    "DCL Legends",
+    "CCA Centurions"
+   ],
+   "teamIds": [
+    "1687",
+    "1685"
+   ],
+   "ground": "FSP",
+   "result": "DCL Legends won by 75 Runs",
+   "summary": "DCL Legends: 149/10(39.2) CCA Centurions: 74/9(22.4)"
+  },
+  {
+   "matchId": "4810",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4810&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "USCA Islanders",
+    "CCA EB Tornadoes"
+   ],
+   "teamIds": [
+    "1717",
+    "1712"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA EB Tornadoes won by 10 Wickets",
+   "summary": "USCA Islanders: 67/8(30) CCA EB Tornadoes: 68/0(11)"
+  },
+  {
+   "matchId": "4808",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4808&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "BCA Fires"
+   ],
+   "teamIds": [
+    "1713",
+    "1710"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Sunnyvale Stars won by 81 Runs",
+   "summary": "CCA Sunnyvale Stars: 184/1(30) BCA Fires: 103/6(30)"
+  },
+  {
+   "matchId": "4794",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4794&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "RYCC Eagles",
+    "VKCA Dynamos"
+   ],
+   "teamIds": [
+    "1716",
+    "1718"
+   ],
+   "ground": "Judah",
+   "result": "VKCA Dynamos won by 68 Runs",
+   "summary": "VKCA Dynamos: 87/11(27.3) RYCC Eagles: 19/10(11.5)"
+  },
+  {
+   "matchId": "4793",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4793&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "ASCE Spartans",
+    "DSCA Challengers"
+   ],
+   "teamIds": [
+    "1709",
+    "1715"
+   ],
+   "ground": "Fair Oaks",
+   "result": "ASCE Spartans won by 84 Runs",
+   "summary": "ASCE Spartans: 166/7(30) DSCA Challengers: 82/10(25.2)"
+  },
+  {
+   "matchId": "4792",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4792&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "BCA Titans",
+    "CFC Falcons"
+   ],
+   "teamIds": [
+    "1711",
+    "1714"
+   ],
+   "ground": "Seabreeze",
+   "result": "BCA Titans won by 119 Runs",
+   "summary": "BCA Titans: 162/6(30) CFC Falcons: 43/10(20.4)"
+  },
+  {
+   "matchId": "4817",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4817&clubId=40319",
+   "date": "2025-04-27",
+   "type": "Qualifier",
+   "teams": [
+    "DSCA Panthers",
+    "CCA Fremont Thunder"
+   ],
+   "teamIds": [
+    "1703",
+    "1700"
+   ],
+   "ground": "Quail Run",
+   "result": "CCA Fremont Thunder won by 58 Runs",
+   "summary": "CCA Fremont Thunder: 170/3(30) DSCA Panthers: 112/8(30)"
+  },
+  {
+   "matchId": "4815",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4815&clubId=40319",
+   "date": "2025-04-27",
+   "type": "Qualifier",
+   "teams": [
+    "Strikers Jaguars",
+    "DCL Hawks"
+   ],
+   "teamIds": [
+    "1706",
+    "1702"
+   ],
+   "ground": "Eastin",
+   "result": "Strikers Jaguars won by 4 Wickets",
+   "summary": "DCL Hawks: 164/3(30) Strikers Jaguars: 165/6(28.2)"
+  },
+  {
+   "matchId": "4814",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4814&clubId=40319",
+   "date": "2025-04-27",
+   "type": "Qualifier",
+   "teams": [
+    "BCA Bolts",
+    "CCA San Jose Lightning"
+   ],
+   "teamIds": [
+    "1697",
+    "1701"
+   ],
+   "ground": "Easterbrook",
+   "result": "BCA Bolts won by 10 Wickets",
+   "summary": "CCA San Jose Lightning: 57/9(20.2) BCA Bolts: 63/0(9.4)"
+  },
+  {
+   "matchId": "4813",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4813&clubId=40319",
+   "date": "2025-04-27",
+   "type": "Qualifier",
+   "teams": [
+    "CCA Cupertino Comets",
+    "VKCA Vikings"
+   ],
+   "teamIds": [
+    "1699",
+    "1708"
+   ],
+   "ground": "Meriwest",
+   "result": "VKCA Vikings won by 64 Runs",
+   "summary": "VKCA Vikings: 203/8(30) CCA Cupertino Comets: 139/5(30)"
+  },
+  {
+   "matchId": "4809",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4809&clubId=40319",
+   "date": "2025-04-27",
+   "type": "Final",
+   "teams": [
+    "SRCA Warriors",
+    "BCA Mavericks"
+   ],
+   "teamIds": [
+    "1705",
+    "1698"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA Warriors won by 89 Runs",
+   "summary": "SRCA Warriors: 231/4(30) BCA Mavericks: 142/10(29.4)"
+  },
+  {
+   "matchId": "4787",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4787&clubId=40319",
+   "date": "2025-04-27",
+   "type": "Qualifier",
+   "teams": [
+    "Indus Yodhas",
+    "Strikers Panthers"
+   ],
+   "teamIds": [
+    "1704",
+    "1707"
+   ],
+   "ground": "Rancho 1",
+   "result": "Strikers Panthers won by 15 Runs",
+   "summary": "Strikers Panthers: 129/6(30) Indus Yodhas: 114/10(24.4)"
+  },
+  {
+   "matchId": "4691",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4691&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "CCA EB Falcons"
+   ],
+   "teamIds": [
+    "1696",
+    "1692"
+   ],
+   "ground": "Judah",
+   "result": "CCA EB Falcons won by 3 Wickets",
+   "summary": "SYCA Eagles: 114/10(37.2) CCA EB Falcons: 115/7(28.2)"
+  },
+  {
+   "matchId": "4687",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4687&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "DSCA Lions",
+    "Indus-YJCC Titans"
+   ],
+   "teamIds": [
+    "1693",
+    "1694"
+   ],
+   "ground": "Eastin",
+   "result": "DSCA Lions won by 140 Runs",
+   "summary": "DSCA Lions: 211/6(40) Indus-YJCC Titans: 71/10(21.1)"
+  },
+  {
+   "matchId": "4706",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4706&clubId=40319",
+   "date": "2025-04-26",
+   "type": "Qualifier",
+   "teams": [
+    "BCA Bravehearts",
+    "Strikers Vikings"
+   ],
+   "teamIds": [
+    "1683",
+    "1689"
+   ],
+   "ground": "Easterbrook",
+   "result": "BCA Bravehearts won by 9 Wickets",
+   "summary": "Strikers Vikings: 98/10(27.1) BCA Bravehearts: 102/1(22.5)"
+  },
+  {
+   "matchId": "4688",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4688&clubId=40319",
+   "date": "2025-04-26",
+   "type": "Qualifier",
+   "teams": [
+    "CCA Titans",
+    "VKCA Vulkans"
+   ],
+   "teamIds": [
+    "1686",
+    "1690"
+   ],
+   "ground": "Dilworth",
+   "result": "VKCA Vulkans won by 2 Wickets",
+   "summary": "CCA Titans: 195/8(40) VKCA Vulkans: 199/8(40)"
+  },
+  {
+   "matchId": "4670",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4670&clubId=40319",
+   "date": "2025-04-26",
+   "type": "Qualifier",
+   "teams": [
+    "BCA Bravos",
+    "DSCA Rhinos"
+   ],
+   "teamIds": [
+    "1684",
+    "1688"
+   ],
+   "ground": "FCP",
+   "result": "DSCA Rhinos won by 7 Wickets",
+   "summary": "BCA Bravos: 215/6(40) DSCA Rhinos: 220/3(36.2)"
+  },
+  {
+   "matchId": "4624",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4624&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "CFC Falcons",
+    "USCA Islanders"
+   ],
+   "teamIds": [
+    "1714",
+    "1717"
+   ],
+   "ground": "Alisal",
+   "result": "CFC Falcons won by 7 Wickets",
+   "summary": "USCA Islanders: 40/10(17.2) CFC Falcons: 41/3(10.1)"
+  },
+  {
+   "matchId": "4621",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4621&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "RYCC Eagles"
+   ],
+   "teamIds": [
+    "1713",
+    "1716"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Sunnyvale Stars won by 163 Runs",
+   "summary": "CCA Sunnyvale Stars: 221/3(30) RYCC Eagles: 58/9(12.2)"
+  },
+  {
+   "matchId": "4615",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4615&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "VKCA Dynamos",
+    "DSCA Challengers"
+   ],
+   "teamIds": [
+    "1718",
+    "1715"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA Dynamos won by 115 Runs",
+   "summary": "VKCA Dynamos: 184/8(30) DSCA Challengers: 69/7(30)"
+  },
+  {
+   "matchId": "4609",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4609&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "ASCE Spartans",
+    "CCA EB Tornadoes"
+   ],
+   "teamIds": [
+    "1709",
+    "1712"
+   ],
+   "ground": "Fair Oaks",
+   "result": "CCA EB Tornadoes won by 66 Runs",
+   "summary": "CCA EB Tornadoes: 131/8(30) ASCE Spartans: 65/6(20.3)"
+  },
+  {
+   "matchId": "4631",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4631&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Qualifier",
+   "teams": [
+    "CCA San Jose Lightning",
+    "Strikers Panthers"
+   ],
+   "teamIds": [
+    "1701",
+    "1707"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA San Jose Lightning won by 7 Wickets",
+   "summary": "Strikers Panthers: 46/10(18.5) CCA San Jose Lightning: 47/3(14.1)"
+  },
+  {
+   "matchId": "4626",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4626&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Qualifier",
+   "teams": [
+    "BCA Bolts",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "1697",
+    "1704"
+   ],
+   "ground": "Challenger",
+   "result": "BCA Bolts won by 108 Runs",
+   "summary": "BCA Bolts: 178/5(30) Indus Yodhas: 70/10(22.2)"
+  },
+  {
+   "matchId": "4616",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4616&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Semi Final",
+   "teams": [
+    "BCA Mavericks",
+    "CCA Cupertino Comets"
+   ],
+   "teamIds": [
+    "1698",
+    "1699"
+   ],
+   "ground": "FCP",
+   "result": "BCA Mavericks won by 7 Wickets",
+   "summary": "CCA Cupertino Comets: 170/7(30) BCA Mavericks: 173/3(27.4)"
+  },
+  {
+   "matchId": "4612",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4612&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Qualifier",
+   "teams": [
+    "DSCA Panthers",
+    "Strikers Jaguars"
+   ],
+   "teamIds": [
+    "1703",
+    "1706"
+   ],
+   "ground": "FSP",
+   "result": "DSCA Panthers won by 6 Wickets",
+   "summary": "Strikers Jaguars: 106/8(30) DSCA Panthers: 109/4(26)"
+  },
+  {
+   "matchId": "4610",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4610&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Semi Final",
+   "teams": [
+    "SRCA Warriors",
+    "VKCA Vikings"
+   ],
+   "teamIds": [
+    "1705",
+    "1708"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA Warriors won by 223 Runs",
+   "summary": "SRCA Warriors: 257/4(30) VKCA Vikings: 34/7(16.4)"
+  },
+  {
+   "matchId": "4605",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4605&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Qualifier",
+   "teams": [
+    "CCA Fremont Thunder",
+    "DCL Hawks"
+   ],
+   "teamIds": [
+    "1700",
+    "1702"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Fremont Thunder won by 63 Runs",
+   "summary": "CCA Fremont Thunder: 177/6(30) DCL Hawks: 114/10(27.1)"
+  },
+  {
+   "matchId": "4622",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4622&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Qualifier",
+   "teams": [
+    "BCA Bravehearts",
+    "VKCA Vulkans"
+   ],
+   "teamIds": [
+    "1683",
+    "1690"
+   ],
+   "ground": "Easterbrook",
+   "result": "BCA Bravehearts won by 4 Runs",
+   "summary": "BCA Bravehearts: 134/8(37.2) VKCA Vulkans: 130/10(31.5)"
+  },
+  {
+   "matchId": "4614",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4614&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Semi Final",
+   "teams": [
+    "CCA Centurions",
+    "DSCA Rhinos"
+   ],
+   "teamIds": [
+    "1685",
+    "1688"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Centurions won by 5 Wickets",
+   "summary": "DSCA Rhinos: 102/10(32.3) CCA Centurions: 104/5(32.1)"
+  },
+  {
+   "matchId": "4611",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4611&clubId=40319",
+   "date": "2025-04-20",
+   "type": "Qualifier",
+   "teams": [
+    "Strikers Vikings",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "1689",
+    "1686"
+   ],
+   "ground": "Eastin",
+   "result": "Strikers Vikings won by 42 Runs",
+   "summary": "Strikers Vikings: 179/10(38.3) CCA Titans: 137/10(27.2)"
+  },
+  {
+   "matchId": "4578",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4578&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "DSCA Lions",
+    "CCA EB Falcons"
+   ],
+   "teamIds": [
+    "1693",
+    "1692"
+   ],
+   "ground": "Northgate",
+   "result": "CCA EB Falcons won by 15 Runs",
+   "summary": "CCA EB Falcons: 97/9(32.3) DSCA Lions: 82/9(30.5)"
+  },
+  {
+   "matchId": "4577",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4577&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "SRCA Stars"
+   ],
+   "teamIds": [
+    "1696",
+    "1695"
+   ],
+   "ground": "Roseville Maidu",
+   "result": "SRCA Stars won by 6 Wickets",
+   "summary": "SYCA Eagles: 167/10(38.5) SRCA Stars: 168/4(26.1)"
+  },
+  {
+   "matchId": "4576",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4576&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "Indus-YJCC Titans",
+    "BCA Warriors"
+   ],
+   "teamIds": [
+    "1694",
+    "1691"
+   ],
+   "ground": "FCP",
+   "result": "BCA Warriors won by 261 Runs",
+   "summary": "BCA Warriors: 373/3(40) Indus-YJCC Titans: 112/10(27.1)"
+  },
+  {
+   "matchId": "4580",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4580&clubId=40319",
+   "date": "2025-04-19",
+   "type": "Semi Final",
+   "teams": [
+    "DCL Legends",
+    "BCA Bravos"
+   ],
+   "teamIds": [
+    "1687",
+    "1684"
+   ],
+   "ground": "FSP",
+   "result": "DCL Legends won by 2 Wickets",
+   "summary": "BCA Bravos: 113/10(32.4) DCL Legends: 114/8(35)"
+  },
+  {
+   "matchId": "4530",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4530&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "DSCA Lions",
+    "BCA Warriors"
+   ],
+   "teamIds": [
+    "1693",
+    "1691"
+   ],
+   "ground": "FSP",
+   "result": "BCA Warriors won by 3 Wickets",
+   "summary": "DSCA Lions: 130/10(34.1) BCA Warriors: 131/7(31)"
+  },
+  {
+   "matchId": "4522",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4522&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "Strikers Panthers",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "1707",
+    "1697"
+   ],
+   "ground": "Sierramont",
+   "result": "BCA Bolts won by 7 Wickets",
+   "summary": "Strikers Panthers: 98/8(30) BCA Bolts: 99/3(17.1)"
+  },
+  {
+   "matchId": "4479",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4479&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "BCA Titans"
+   ],
+   "teamIds": [
+    "1710",
+    "1711"
+   ],
+   "ground": "FCP",
+   "result": "BCA Fires won by 195 Runs",
+   "summary": "BCA Fires: 242/4(30) BCA Titans: 47/10(11.3)"
+  },
+  {
+   "matchId": "4431",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4431&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "CCA EB Tornadoes",
+    "DSCA Challengers"
+   ],
+   "teamIds": [
+    "1712",
+    "1715"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA EB Tornadoes won by 70 Runs",
+   "summary": "CCA EB Tornadoes: 121/9(30) DSCA Challengers: 51/10(21.1)"
+  },
+  {
+   "matchId": "4427",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4427&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "BCA Titans",
+    "CCA Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "1711",
+    "1713"
+   ],
+   "ground": "Steam",
+   "result": "CCA Sunnyvale Stars won by 106 Runs",
+   "summary": "CCA Sunnyvale Stars: 165/2(30) BCA Titans: 59/10(21.4)"
+  },
+  {
+   "matchId": "4426",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4426&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "RYCC Eagles",
+    "USCA Islanders"
+   ],
+   "teamIds": [
+    "1716",
+    "1717"
+   ],
+   "ground": "Judah",
+   "result": "RYCC Eagles won by 8 Wickets",
+   "summary": "USCA Islanders: 73/10(18.5) RYCC Eagles: 76/2(12.2)"
+  },
+  {
+   "matchId": "4424",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4424&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "ASCE Spartans",
+    "CFC Falcons"
+   ],
+   "teamIds": [
+    "1709",
+    "1714"
+   ],
+   "ground": "Northgate",
+   "result": "ASCE Spartans won by 54 Runs",
+   "summary": "ASCE Spartans: 121/10(27.3) CFC Falcons: 67/10(28.4)"
+  },
+  {
+   "matchId": "4423",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4423&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "VKCA Dynamos",
+    "BCA Fires"
+   ],
+   "teamIds": [
+    "1718",
+    "1710"
+   ],
+   "ground": "Eastin",
+   "result": "BCA Fires won by 9 Wickets",
+   "summary": "VKCA Dynamos: 55/10(24) BCA Fires: 56/1(18.2)"
+  },
+  {
+   "matchId": "4430",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4430&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Comets",
+    "SRCA Warriors"
+   ],
+   "teamIds": [
+    "1699",
+    "1705"
+   ],
+   "ground": "Dilworth",
+   "result": "SRCA Warriors won by 8 Wickets",
+   "summary": "CCA Cupertino Comets: 108/9(30) SRCA Warriors: 114/2(23.1)"
+  },
+  {
+   "matchId": "4428",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4428&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Thunder",
+    "BCA Mavericks"
+   ],
+   "teamIds": [
+    "1700",
+    "1698"
+   ],
+   "ground": "Meriwest",
+   "result": "BCA Mavericks won by 1 Wicket",
+   "summary": "CCA Fremont Thunder: 113/10(29.3) BCA Mavericks: 114/9(29.1)"
+  },
+  {
+   "matchId": "4425",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4425&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "DSCA Panthers",
+    "VKCA Vikings"
+   ],
+   "teamIds": [
+    "1703",
+    "1708"
+   ],
+   "ground": "FSP",
+   "result": "VKCA Vikings won by 4 Wickets",
+   "summary": "DSCA Panthers: 57/10(25.4) VKCA Vikings: 58/6(15.3)"
+  },
+  {
+   "matchId": "4422",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4422&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "Strikers Jaguars",
+    "CCA San Jose Lightning"
+   ],
+   "teamIds": [
+    "1706",
+    "1701"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Jaguars won by 22 Runs",
+   "summary": "Strikers Jaguars: 130/9(30) CCA San Jose Lightning: 108/9(30)"
+  },
+  {
+   "matchId": "4420",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4420&clubId=40319",
+   "date": "2025-04-06",
+   "type": "League",
+   "teams": [
+    "Indus Yodhas",
+    "DCL Hawks"
+   ],
+   "teamIds": [
+    "1704",
+    "1702"
+   ],
+   "ground": "FCP",
+   "result": "DCL Hawks won by 50 Runs",
+   "summary": "DCL Hawks: 191/6(30) Indus Yodhas: 141/9(30)"
+  },
+  {
+   "matchId": "4409",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4409&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "SRCA Stars",
+    "CCA EB Falcons"
+   ],
+   "teamIds": [
+    "1695",
+    "1692"
+   ],
+   "ground": "FSP",
+   "result": "SRCA Stars won by 52 Runs",
+   "summary": "SRCA Stars: 150/9(32) CCA EB Falcons: 98/9(31.2)"
+  },
+  {
+   "matchId": "4403",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4403&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "Indus-YJCC Titans",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "1694",
+    "1696"
+   ],
+   "ground": "North Lake",
+   "result": "SYCA Eagles won by 288 Runs",
+   "summary": "SYCA Eagles: 360/8(40.1) Indus-YJCC Titans: 72/9(20)"
+  },
+  {
+   "matchId": "4410",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4410&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "DCL Legends"
+   ],
+   "teamIds": [
+    "1686",
+    "1687"
+   ],
+   "ground": "Meriwest",
+   "result": "DCL Legends won by 71 Runs",
+   "summary": "DCL Legends: 126/10(29.1) CCA Titans: 55/9(24.1)"
+  },
+  {
+   "matchId": "4408",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4408&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "Strikers Vikings",
+    "BCA Bravehearts"
+   ],
+   "teamIds": [
+    "1689",
+    "1683"
+   ],
+   "ground": "Sierramont",
+   "result": "Strikers Vikings won by 7 Wickets",
+   "summary": "BCA Bravehearts: 155/10(34.4) Strikers Vikings: 158/3(27.2)"
+  },
+  {
+   "matchId": "4406",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4406&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "BCA Bravos",
+    "CCA Centurions"
+   ],
+   "teamIds": [
+    "1684",
+    "1685"
+   ],
+   "ground": "Steam",
+   "result": "BCA Bravos won by 32 Runs",
+   "summary": "BCA Bravos: 213/6(40) CCA Centurions: 181/9(37)"
+  },
+  {
+   "matchId": "4404",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4404&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "VKCA Vulkans"
+   ],
+   "teamIds": [
+    "1688",
+    "1690"
+   ],
+   "ground": "Davis",
+   "result": "DSCA Rhinos won by 4 Wickets",
+   "summary": "VKCA Vulkans: 110/10(38) DSCA Rhinos: 114/6(26.4)"
+  },
+  {
+   "matchId": "4393",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4393&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "USCA Islanders",
+    "DSCA Challengers"
+   ],
+   "teamIds": [
+    "1717",
+    "1715"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "DSCA Challengers won by 271 Runs",
+   "summary": "DSCA Challengers: 333/8(30) USCA Islanders: 62/10(18.5)"
+  },
+  {
+   "matchId": "4390",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4390&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "RYCC Eagles"
+   ],
+   "teamIds": [
+    "1710",
+    "1716"
+   ],
+   "ground": "Mossdale",
+   "result": "BCA Fires won by 119 Runs",
+   "summary": "BCA Fires: 195/4(30) RYCC Eagles: 76/11(25.2)"
+  },
+  {
+   "matchId": "4388",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4388&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "CCA EB Tornadoes",
+    "CFC Falcons"
+   ],
+   "teamIds": [
+    "1712",
+    "1714"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA EB Tornadoes won by 134 Runs",
+   "summary": "CCA EB Tornadoes: 186/5(30) CFC Falcons: 52/8(30)"
+  },
+  {
+   "matchId": "4386",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4386&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "BCA Titans",
+    "VKCA Dynamos"
+   ],
+   "teamIds": [
+    "1711",
+    "1718"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA Dynamos won by 1 Wicket",
+   "summary": "BCA Titans: 74/10(27.2) VKCA Dynamos: 75/9(25.2)"
+  },
+  {
+   "matchId": "4396",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4396&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "DSCA Panthers",
+    "CCA Fremont Thunder"
+   ],
+   "teamIds": [
+    "1703",
+    "1700"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Fremont Thunder won by 4 Wickets",
+   "summary": "DSCA Panthers: 150/5(30) CCA Fremont Thunder: 152/6(26.5)"
+  },
+  {
+   "matchId": "4395",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4395&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "Indus Yodhas",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "1704",
+    "1697"
+   ],
+   "ground": "Rancho 1",
+   "result": "BCA Bolts won by 44 Runs",
+   "summary": "BCA Bolts: 167/10(30) Indus Yodhas: 123/10(30)"
+  },
+  {
+   "matchId": "4394",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4394&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "DCL Hawks",
+    "CCA San Jose Lightning"
+   ],
+   "teamIds": [
+    "1702",
+    "1701"
+   ],
+   "ground": "WRMS",
+   "result": "DCL Hawks won by 9 Wickets",
+   "summary": "CCA San Jose Lightning: 106/4(30) DCL Hawks: 107/1(14.1)"
+  },
+  {
+   "matchId": "4385",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4385&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "Strikers Jaguars",
+    "Strikers Panthers"
+   ],
+   "teamIds": [
+    "1706",
+    "1707"
+   ],
+   "ground": "Fair Oaks",
+   "result": "Strikers Jaguars won by 36 Runs",
+   "summary": "Strikers Jaguars: 173/5(30) Strikers Panthers: 137/10(29.5)"
+  },
+  {
+   "matchId": "4384",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4384&clubId=40319",
+   "date": "2025-03-30",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "CCA Cupertino Comets"
+   ],
+   "teamIds": [
+    "1708",
+    "1699"
+   ],
+   "ground": "FCP",
+   "result": "CCA Cupertino Comets won by 27 Runs",
+   "summary": "CCA Cupertino Comets: 123/10(29.3) VKCA Vikings: 96/10(27.1)"
+  },
+  {
+   "matchId": "4373",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4373&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "ASCE Spartans"
+   ],
+   "teamIds": [
+    "1713",
+    "1709"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Sunnyvale Stars won by 286 Runs",
+   "summary": "CCA Sunnyvale Stars: 360/1(30) ASCE Spartans: 74/10(22.2)"
+  },
+  {
+   "matchId": "4363",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4363&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "CCA EB Falcons",
+    "Indus-YJCC Titans"
+   ],
+   "teamIds": [
+    "1692",
+    "1694"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA EB Falcons won by 185 Runs",
+   "summary": "CCA EB Falcons: 294/7(40) Indus-YJCC Titans: 109/10(33)"
+  },
+  {
+   "matchId": "4362",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4362&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "SRCA Stars",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "1695",
+    "1693"
+   ],
+   "ground": "FSP",
+   "result": "DSCA Lions won by 51 Runs",
+   "summary": "DSCA Lions: 192/5(40) SRCA Stars: 141/10(35.2)"
+  },
+  {
+   "matchId": "4359",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4359&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "BCA Warriors"
+   ],
+   "teamIds": [
+    "1696",
+    "1691"
+   ],
+   "ground": "Judah",
+   "result": "BCA Warriors won by 2 Wickets",
+   "summary": "SYCA Eagles: 166/10(39.5) BCA Warriors: 167/8(38.5)"
+  },
+  {
+   "matchId": "4370",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4370&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "BCA Mavericks",
+    "SRCA Warriors"
+   ],
+   "teamIds": [
+    "1698",
+    "1705"
+   ],
+   "ground": "FCP",
+   "result": "SRCA Warriors won by 5 Wickets",
+   "summary": "BCA Mavericks: 141/10(30) SRCA Warriors: 144/5(25.4)"
+  },
+  {
+   "matchId": "4364",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4364&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "CCA Centurions",
+    "BCA Bravehearts"
+   ],
+   "teamIds": [
+    "1685",
+    "1683"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Centurions won by 77 Runs",
+   "summary": "CCA Centurions: 278/2(40) BCA Bravehearts: 201/10(37.2)"
+  },
+  {
+   "matchId": "4361",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4361&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "VKCA Vulkans",
+    "DCL Legends"
+   ],
+   "teamIds": [
+    "1690",
+    "1687"
+   ],
+   "ground": "Northgate",
+   "result": "DCL Legends won by 83 Runs",
+   "summary": "DCL Legends: 188/6(40) VKCA Vulkans: 105/10(30.2)"
+  },
+  {
+   "matchId": "4360",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4360&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "Strikers Vikings",
+    "BCA Bravos"
+   ],
+   "teamIds": [
+    "1689",
+    "1684"
+   ],
+   "ground": "Eastin",
+   "result": "Strikers Vikings won by 3 Wickets",
+   "summary": "BCA Bravos: 173/9(40) Strikers Vikings: 174/7(34.1)"
+  },
+  {
+   "matchId": "4358",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4358&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "1688",
+    "1686"
+   ],
+   "ground": "Davis",
+   "result": "DSCA Rhinos won by 6 Wickets",
+   "summary": "CCA Titans: 92/9(40) DSCA Rhinos: 93/4(12.1)"
+  },
+  {
+   "matchId": "4339",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4339&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "USCA Islanders",
+    "ASCE Spartans"
+   ],
+   "teamIds": [
+    "1717",
+    "1709"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "ASCE Spartans won by 125 Runs",
+   "summary": "ASCE Spartans: 206/5(30) USCA Islanders: 81/7(30)"
+  },
+  {
+   "matchId": "4338",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4338&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "VKCA Dynamos"
+   ],
+   "teamIds": [
+    "1713",
+    "1718"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Sunnyvale Stars won by 137 Runs",
+   "summary": "CCA Sunnyvale Stars: 207/5(30) VKCA Dynamos: 70/10(28.1)"
+  },
+  {
+   "matchId": "4335",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4335&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "BCA Titans",
+    "RYCC Eagles"
+   ],
+   "teamIds": [
+    "1711",
+    "1716"
+   ],
+   "ground": "Mossdale",
+   "result": "RYCC Eagles won by 2 Wickets",
+   "summary": "BCA Titans: 98/10(30) RYCC Eagles: 99/8(27.1)"
+  },
+  {
+   "matchId": "4332",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4332&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "CFC Falcons",
+    "DSCA Challengers"
+   ],
+   "teamIds": [
+    "1714",
+    "1715"
+   ],
+   "ground": "Alisal",
+   "result": "DSCA Challengers won by 22 Runs",
+   "summary": "DSCA Challengers: 93/10(30) CFC Falcons: 71/10(23.1)"
+  },
+  {
+   "matchId": "4328",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4328&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "CCA EB Tornadoes"
+   ],
+   "teamIds": [
+    "1710",
+    "1712"
+   ],
+   "ground": "Fair Oaks",
+   "result": "BCA Fires won by 182 Runs",
+   "summary": "BCA Fires: 247/2(30) CCA EB Tornadoes: 65/10(23.5)"
+  },
+  {
+   "matchId": "4341",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4341&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "Strikers Jaguars",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "1706",
+    "1704"
+   ],
+   "ground": "Tracy",
+   "result": "Strikers Jaguars won by 7 Wickets",
+   "summary": "Indus Yodhas: 44/10(28.4) Strikers Jaguars: 48/3(10.3)"
+  },
+  {
+   "matchId": "4337",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4337&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Comets",
+    "CCA Fremont Thunder"
+   ],
+   "teamIds": [
+    "1699",
+    "1700"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Cupertino Comets won by 12 Runs",
+   "summary": "CCA Cupertino Comets: 161/6(30) CCA Fremont Thunder: 149/8(30)"
+  },
+  {
+   "matchId": "4331",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4331&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "BCA Bolts",
+    "CCA San Jose Lightning"
+   ],
+   "teamIds": [
+    "1697",
+    "1701"
+   ],
+   "ground": "Steam",
+   "result": "BCA Bolts won by 4 Wickets",
+   "summary": "CCA San Jose Lightning: 100/9(30) BCA Bolts: 102/6(29)"
+  },
+  {
+   "matchId": "4330",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4330&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "DSCA Panthers",
+    "SRCA Warriors"
+   ],
+   "teamIds": [
+    "1703",
+    "1705"
+   ],
+   "ground": "FSP",
+   "result": "SRCA Warriors won by 97 Runs",
+   "summary": "SRCA Warriors: 211/3(30) DSCA Panthers: 114/8(30)"
+  },
+  {
+   "matchId": "4329",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4329&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "DCL Hawks",
+    "Strikers Panthers"
+   ],
+   "teamIds": [
+    "1702",
+    "1707"
+   ],
+   "ground": "WRMS",
+   "result": "DCL Hawks won by 3 Wickets",
+   "summary": "Strikers Panthers: 113/9(30) DCL Hawks: 114/7(29.1)"
+  },
+  {
+   "matchId": "4327",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4327&clubId=40319",
+   "date": "2025-03-23",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "BCA Mavericks"
+   ],
+   "teamIds": [
+    "1708",
+    "1698"
+   ],
+   "ground": "FCP",
+   "result": "BCA Mavericks won by 11 Runs",
+   "summary": "BCA Mavericks: 144/8(30) VKCA Vikings: 133/9(30)"
+  },
+  {
+   "matchId": "4309",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4309&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "Indus-YJCC Titans",
+    "SRCA Stars"
+   ],
+   "teamIds": [
+    "1694",
+    "1695"
+   ],
+   "ground": "Rancho 1",
+   "result": "SRCA Stars won by 242 Runs",
+   "summary": "SRCA Stars: 355/8(40) Indus-YJCC Titans: 113/7(36)"
+  },
+  {
+   "matchId": "4308",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4308&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "DSCA Lions",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "1693",
+    "1696"
+   ],
+   "ground": "San Lorenzo",
+   "result": "SYCA Eagles won by 44 Runs",
+   "summary": "SYCA Eagles: 121/9(40) DSCA Lions: 77/8(22.4)"
+  },
+  {
+   "matchId": "4304",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4304&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "BCA Warriors",
+    "CCA EB Falcons"
+   ],
+   "teamIds": [
+    "1691",
+    "1692"
+   ],
+   "ground": "NLCG",
+   "result": "BCA Warriors won by 24 Runs",
+   "summary": "BCA Warriors: 182/10(39.4) CCA EB Falcons: 158/10(36.4)"
+  },
+  {
+   "matchId": "4310",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4310&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "CCA Centurions",
+    "Strikers Vikings"
+   ],
+   "teamIds": [
+    "1685",
+    "1689"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Centurions won by 6 Wickets",
+   "summary": "Strikers Vikings: 149/9(40) CCA Centurions: 150/4(29.5)"
+  },
+  {
+   "matchId": "4307",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4307&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "BCA Bravos",
+    "BCA Bravehearts"
+   ],
+   "teamIds": [
+    "1684",
+    "1683"
+   ],
+   "ground": "Steam",
+   "result": "BCA Bravos won by 67 Runs",
+   "summary": "BCA Bravos: 250/6(40) BCA Bravehearts: 183/8(40)"
+  },
+  {
+   "matchId": "4306",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4306&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "DCL Legends",
+    "DSCA Rhinos"
+   ],
+   "teamIds": [
+    "1687",
+    "1688"
+   ],
+   "ground": "FSP",
+   "result": "DCL Legends won by 60 Runs",
+   "summary": "DCL Legends: 162/10(37.2) DSCA Rhinos: 102/10(27.4)"
+  },
+  {
+   "matchId": "4305",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4305&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "VKCA Vulkans",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "1690",
+    "1686"
+   ],
+   "ground": "Eastin",
+   "result": "VKCA Vulkans won by 44 Runs",
+   "summary": "VKCA Vulkans: 217/10(37.5) CCA Titans: 173/9(40)"
+  },
+  {
+   "matchId": "4286",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4286&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Comets",
+    "USCA Islanders"
+   ],
+   "teamIds": [
+    "1541",
+    "1555"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Cupertino Comets won by 311 Runs",
+   "summary": "CCA Cupertino Comets: 350/2(26) USCA Islanders: 39/8(26)"
+  },
+  {
+   "matchId": "4285",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4285&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "BCA Titans",
+    "DCL Hawks"
+   ],
+   "teamIds": [
+    "1540",
+    "1547"
+   ],
+   "ground": "Steam",
+   "result": "DCL Hawks won by 10 Wickets",
+   "summary": "BCA Titans: 68/10(23.5) DCL Hawks: 70/0(11)"
+  },
+  {
+   "matchId": "4284",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4284&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "DSCA Panthers",
+    "ASCE Spartans"
+   ],
+   "teamIds": [
+    "1549",
+    "1536"
+   ],
+   "ground": "FCP",
+   "result": "DSCA Panthers won by 96 Runs",
+   "summary": "DSCA Panthers: 188/5(25) ASCE Spartans: 92/7(25)"
+  },
+  {
+   "matchId": "4283",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4283&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "Strikers Panthers"
+   ],
+   "teamIds": [
+    "1557",
+    "1554"
+   ],
+   "ground": "Eastin",
+   "result": "Strikers Panthers won by 7 Wickets",
+   "summary": "VKCA Vikings: 72/10(23.4) Strikers Panthers: 73/3(23)"
+  },
+  {
+   "matchId": "4282",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4282&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "BCA Bolts",
+    "RYCC Eagles"
+   ],
+   "teamIds": [
+    "1537",
+    "1551"
+   ],
+   "ground": "Mossdale",
+   "result": "BCA Bolts won by 4 Wickets",
+   "summary": "RYCC Eagles: 48/6(20.5) BCA Bolts: 49/6(11)"
+  },
+  {
+   "matchId": "4280",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4280&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "Strikers Jaguars",
+    "CCA Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "1553",
+    "1545"
+   ],
+   "ground": "Fair Oaks",
+   "result": "It is a Tie",
+   "summary": "Strikers Jaguars: 163/10(28.3) CCA Sunnyvale Stars: 163/5(30)"
+  },
+  {
+   "matchId": "4278",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4278&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "CFC Falcons",
+    "BCA Mavericks"
+   ],
+   "teamIds": [
+    "1546",
+    "1539"
+   ],
+   "ground": "Alisal",
+   "result": "BCA Mavericks won by 234 Runs",
+   "summary": "BCA Mavericks: 263/6(30) CFC Falcons: 29/10(15.5)"
+  },
+  {
+   "matchId": "4277",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4277&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "SRCA Warriors",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "1552",
+    "1550"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA Warriors won by 6 Wickets",
+   "summary": "Indus Yodhas: 91/8(30) SRCA Warriors: 92/4(14.3)"
+  },
+  {
+   "matchId": "4276",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4276&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "CCA EB Tornadoes",
+    "CCA Fremont Thunder"
+   ],
+   "teamIds": [
+    "1542",
+    "1543"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Fremont Thunder won by 169 Runs",
+   "summary": "CCA Fremont Thunder: 220/3(30) CCA EB Tornadoes: 51/5(30)"
+  },
+  {
+   "matchId": "4275",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4275&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "DSCA Challengers"
+   ],
+   "teamIds": [
+    "1538",
+    "1548"
+   ],
+   "ground": "FCP",
+   "result": "BCA Fires won by 8 Wickets",
+   "summary": "DSCA Challengers: 64/10(29.2) BCA Fires: 65/2(6)"
+  },
+  {
+   "matchId": "4281",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4281&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "DCL Legends",
+    "SRCA Stars"
+   ],
+   "teamIds": [
+    "1564",
+    "1568"
+   ],
+   "ground": "Emerald Glen",
+   "result": "DCL Legends won by 5 Wickets",
+   "summary": "SRCA Stars: 79/10(32.1) DCL Legends: 80/5(21.1)"
+  },
+  {
+   "matchId": "4279",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4279&clubId=40319",
+   "date": "2025-03-16",
+   "type": "League",
+   "teams": [
+    "CCA EB Falcons",
+    "BCA Bravos"
+   ],
+   "teamIds": [
+    "1562",
+    "1559"
+   ],
+   "ground": "Dilworth",
+   "result": "BCA Bravos won by 177 Runs",
+   "summary": "BCA Bravos: 239/4(40) CCA EB Falcons: 62/10(38.2)"
+  },
+  {
+   "matchId": "4271",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4271&clubId=40319",
+   "date": "2025-03-15",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Lightning",
+    "VKCA Dynamos"
+   ],
+   "teamIds": [
+    "1544",
+    "1556"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA San Jose Lightning won by 8 Wickets",
+   "summary": "VKCA Dynamos: 116/6(30) CCA San Jose Lightning: 117/2(23.4)"
+  },
+  {
+   "matchId": "4267",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4267&clubId=40319",
+   "date": "2025-03-15",
+   "type": "League",
+   "teams": [
+    "Indus-YJCC Titans",
+    "Strikers Vikings"
+   ],
+   "teamIds": [
+    "1567",
+    "1569"
+   ],
+   "ground": "Rancho 1",
+   "result": "Strikers Vikings won by 10 Wickets",
+   "summary": "Indus-YJCC Titans: 59/10(17.5) Strikers Vikings: 63/0(4.5)"
+  },
+  {
+   "matchId": "4266",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4266&clubId=40319",
+   "date": "2025-03-15",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "1566",
+    "1570"
+   ],
+   "ground": "Steam",
+   "result": "DSCA Rhinos won by 9 Wickets",
+   "summary": "SYCA Eagles: 27/10(12.2) DSCA Rhinos: 29/1(4.4)"
+  },
+  {
+   "matchId": "4265",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4265&clubId=40319",
+   "date": "2025-03-15",
+   "type": "League",
+   "teams": [
+    "VKCA Vulkans",
+    "CCA Centurions"
+   ],
+   "teamIds": [
+    "1571",
+    "1561"
+   ],
+   "ground": "Northgate",
+   "result": "CCA Centurions won by 95 Runs",
+   "summary": "CCA Centurions: 195/6(40) VKCA Vulkans: 100/10(32.3)"
+  },
+  {
+   "matchId": "4264",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4264&clubId=40319",
+   "date": "2025-03-15",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "BCA Warriors"
+   ],
+   "teamIds": [
+    "1563",
+    "1560"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Titans won by 116 Runs",
+   "summary": "CCA Titans: 175/5(40) BCA Warriors: 59/10(21.5)"
+  },
+  {
+   "matchId": "4263",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4263&clubId=40319",
+   "date": "2025-03-15",
+   "type": "League",
+   "teams": [
+    "BCA Bravehearts",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "1558",
+    "1565"
+   ],
+   "ground": "FCP",
+   "result": "BCA Bravehearts won by 153 Runs",
+   "summary": "BCA Bravehearts: 304/5(40) DSCA Lions: 151/10(39.3)"
+  },
+  {
+   "matchId": "4258",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4258&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "USCA Islanders"
+   ],
+   "teamIds": [
+    "1545",
+    "1555"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Sunnyvale Stars won by 10 Wickets",
+   "summary": "USCA Islanders: 26/10(11.3) CCA Sunnyvale Stars: 27/0(2.5)"
+  },
+  {
+   "matchId": "4257",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4257&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "Strikers Panthers",
+    "BCA Fires"
+   ],
+   "teamIds": [
+    "1554",
+    "1538"
+   ],
+   "ground": "Eastin",
+   "result": "BCA Fires won by 7 Wickets",
+   "summary": "Strikers Panthers: 91/10(28.2) BCA Fires: 92/3(24.2)"
+  },
+  {
+   "matchId": "4256",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4256&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Lightning",
+    "CCA EB Tornadoes"
+   ],
+   "teamIds": [
+    "1544",
+    "1542"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA San Jose Lightning won by 88 Runs",
+   "summary": "CCA San Jose Lightning: 149/9(30) CCA EB Tornadoes: 61/10(28.4)"
+  },
+  {
+   "matchId": "4255",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4255&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Comets",
+    "Strikers Jaguars"
+   ],
+   "teamIds": [
+    "1541",
+    "1553"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Cupertino Comets won by 92 Runs",
+   "summary": "CCA Cupertino Comets: 208/3(30) Strikers Jaguars: 116/9(30)"
+  },
+  {
+   "matchId": "4254",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4254&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "RYCC Eagles",
+    "DSCA Panthers"
+   ],
+   "teamIds": [
+    "1551",
+    "1549"
+   ],
+   "ground": "Judah",
+   "result": "DSCA Panthers won by 8 Wickets",
+   "summary": "RYCC Eagles: 103/9(30) DSCA Panthers: 104/2(19.1)"
+  },
+  {
+   "matchId": "4253",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4253&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "DCL Hawks",
+    "BCA Mavericks"
+   ],
+   "teamIds": [
+    "1547",
+    "1539"
+   ],
+   "ground": "WRMS",
+   "result": "BCA Mavericks won by 10 Wickets",
+   "summary": "DCL Hawks: 77/8(30) BCA Mavericks: 78/0(11.4)"
+  },
+  {
+   "matchId": "4252",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4252&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "CFC Falcons",
+    "BCA Titans"
+   ],
+   "teamIds": [
+    "1546",
+    "1540"
+   ],
+   "ground": "Alisal",
+   "result": "BCA Titans won by 106 Runs",
+   "summary": "BCA Titans: 167/5(30) CFC Falcons: 61/10(23.3)"
+  },
+  {
+   "matchId": "4251",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4251&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "DSCA Challengers",
+    "VKCA Vikings"
+   ],
+   "teamIds": [
+    "1548",
+    "1557"
+   ],
+   "ground": "FSP",
+   "result": "VKCA Vikings won by 166 Runs",
+   "summary": "VKCA Vikings: 201/4(30) DSCA Challengers: 35/9(18)"
+  },
+  {
+   "matchId": "4250",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4250&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "BCA Bolts",
+    "SRCA Warriors"
+   ],
+   "teamIds": [
+    "1537",
+    "1552"
+   ],
+   "ground": "Mossdale",
+   "result": "SRCA Warriors won by 10 Wickets",
+   "summary": "BCA Bolts: 100/8(30) SRCA Warriors: 101/0(13)"
+  },
+  {
+   "matchId": "4249",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4249&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "ASCE Spartans",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "1536",
+    "1550"
+   ],
+   "ground": "Fair Oaks",
+   "result": "Indus Yodhas won by 2 Wickets",
+   "summary": "ASCE Spartans: 95/9(30) Indus Yodhas: 96/8(24.5)"
+  },
+  {
+   "matchId": "4248",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4248&clubId=40319",
+   "date": "2025-03-09",
+   "type": "League",
+   "teams": [
+    "VKCA Dynamos",
+    "CCA Fremont Thunder"
+   ],
+   "teamIds": [
+    "1556",
+    "1543"
+   ],
+   "ground": "FCP",
+   "result": "CCA Fremont Thunder won by 9 Wickets",
+   "summary": "VKCA Dynamos: 93/10(23.3) CCA Fremont Thunder: 95/1(18)"
+  },
+  {
+   "matchId": "4247",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4247&clubId=40319",
+   "date": "2025-03-08",
+   "type": "League",
+   "teams": [
+    "CCA Centurions",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "1561",
+    "1563"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Centurions won by 7 Wickets",
+   "summary": "CCA Titans: 135/8(38) CCA Centurions: 136/3(37.3)"
+  },
+  {
+   "matchId": "4246",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4246&clubId=40319",
+   "date": "2025-03-08",
+   "type": "League",
+   "teams": [
+    "Strikers Vikings",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "1569",
+    "1570"
+   ],
+   "ground": "Eastin",
+   "result": "Strikers Vikings won by 5 Wickets",
+   "summary": "SYCA Eagles: 163/10(39.3) Strikers Vikings: 164/5(27.3)"
+  },
+  {
+   "matchId": "4245",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4245&clubId=40319",
+   "date": "2025-03-08",
+   "type": "League",
+   "teams": [
+    "DCL Legends",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "1564",
+    "1565"
+   ],
+   "ground": "FSP",
+   "result": "DCL Legends won by 203 Runs",
+   "summary": "DCL Legends: 268/10(39.5) DSCA Lions: 65/9(36.1)"
+  },
+  {
+   "matchId": "4244",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4244&clubId=40319",
+   "date": "2025-03-08",
+   "type": "League",
+   "teams": [
+    "CCA EB Falcons",
+    "VKCA Vulkans"
+   ],
+   "teamIds": [
+    "1562",
+    "1571"
+   ],
+   "ground": "Dilworth",
+   "result": "VKCA Vulkans won by 4 Wickets",
+   "summary": "CCA EB Falcons: 128/9(40) VKCA Vulkans: 130/6(21.4)"
+  },
+  {
+   "matchId": "4243",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4243&clubId=40319",
+   "date": "2025-03-08",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "Indus-YJCC Titans"
+   ],
+   "teamIds": [
+    "1566",
+    "1567"
+   ],
+   "ground": "Steam",
+   "result": "DSCA Rhinos won by 288 Runs",
+   "summary": "DSCA Rhinos: 362/5(40) Indus-YJCC Titans: 74/10(28.1)"
+  },
+  {
+   "matchId": "4242",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4242&clubId=40319",
+   "date": "2025-03-08",
+   "type": "League",
+   "teams": [
+    "BCA Bravehearts",
+    "SRCA Stars"
+   ],
+   "teamIds": [
+    "1558",
+    "1568"
+   ],
+   "ground": "Northgate",
+   "result": "BCA Bravehearts won by 7 Wickets",
+   "summary": "SRCA Stars: 170/9(40) BCA Bravehearts: 171/3(21.5)"
+  },
+  {
+   "matchId": "4241",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4241&clubId=40319",
+   "date": "2025-03-08",
+   "type": "League",
+   "teams": [
+    "BCA Bravos",
+    "BCA Warriors"
+   ],
+   "teamIds": [
+    "1559",
+    "1560"
+   ],
+   "ground": "FCP",
+   "result": "BCA Bravos won by 250 Runs",
+   "summary": "BCA Bravos: 317/4(40) BCA Warriors: 67/10(32.1)"
+  },
+  {
+   "matchId": "4240",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4240&clubId=40319",
+   "date": "2025-03-02",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Comets",
+    "CCA Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "1541",
+    "1545"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Cupertino Comets won by 43 Runs",
+   "summary": "CCA Cupertino Comets: 150/9(30) CCA Sunnyvale Stars: 107/10(26.5)"
+  },
+  {
+   "matchId": "4239",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4239&clubId=40319",
+   "date": "2025-03-02",
+   "type": "League",
+   "teams": [
+    "USCA Islanders",
+    "Strikers Jaguars"
+   ],
+   "teamIds": [
+    "1555",
+    "1553"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "Strikers Jaguars won by 331 Runs",
+   "summary": "Strikers Jaguars: 352/2(30) USCA Islanders: 21/10(12.5)"
+  },
+  {
+   "matchId": "4238",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4238&clubId=40319",
+   "date": "2025-03-02",
+   "type": "League",
+   "teams": [
+    "BCA Mavericks",
+    "BCA Titans"
+   ],
+   "teamIds": [
+    "1539",
+    "1540"
+   ],
+   "ground": "Mossdale",
+   "result": "BCA Mavericks won by 223 Runs",
+   "summary": "BCA Mavericks: 273/4(30) BCA Titans: 50/10(18.5)"
+  },
+  {
+   "matchId": "4237",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4237&clubId=40319",
+   "date": "2025-03-02",
+   "type": "League",
+   "teams": [
+    "RYCC Eagles",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "1551",
+    "1550"
+   ],
+   "ground": "Judah",
+   "result": "Indus Yodhas won by 6 Wickets",
+   "summary": "RYCC Eagles: 97/10(27.1) Indus Yodhas: 98/4(22.4)"
+  },
+  {
+   "matchId": "4236",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4236&clubId=40319",
+   "date": "2025-03-02",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "VKCA Vikings"
+   ],
+   "teamIds": [
+    "1538",
+    "1557"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Vikings won by 55 Runs",
+   "summary": "VKCA Vikings: 138/9(30) BCA Fires: 83/10(24.2)"
+  },
+  {
+   "matchId": "4234",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4234&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "Strikers Panthers",
+    "DSCA Challengers"
+   ],
+   "teamIds": [
+    "1554",
+    "1548"
+   ],
+   "ground": "Eastin",
+   "result": "Strikers Panthers won by 10 Wickets",
+   "summary": "DSCA Challengers: 85/10(29.2) Strikers Panthers: 86/0(11.1)"
+  },
+  {
+   "matchId": "4230",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4230&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "CFC Falcons",
+    "DCL Hawks"
+   ],
+   "teamIds": [
+    "1546",
+    "1547"
+   ],
+   "ground": "Alisal",
+   "result": "DCL Hawks won by 10 Wickets",
+   "summary": "CFC Falcons: 25/10(14.3) DCL Hawks: 26/0(3.3)"
+  },
+  {
+   "matchId": "4229",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4229&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "SRCA Warriors",
+    "ASCE Spartans"
+   ],
+   "teamIds": [
+    "1552",
+    "1536"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA Warriors won by 272 Runs",
+   "summary": "SRCA Warriors: 288/3(30) ASCE Spartans: 16/10(12.2)"
+  },
+  {
+   "matchId": "4228",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4228&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "DSCA Panthers",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "1549",
+    "1537"
+   ],
+   "ground": "Challenger",
+   "result": "DSCA Panthers won by 7 Wickets",
+   "summary": "BCA Bolts: 128/10(30) DSCA Panthers: 129/3(26.2)"
+  },
+  {
+   "matchId": "4224",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4224&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "VKCA Dynamos",
+    "CCA EB Tornadoes"
+   ],
+   "teamIds": [
+    "1556",
+    "1542"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Dynamos won by 5 Wickets",
+   "summary": "CCA EB Tornadoes: 68/10(22.5) VKCA Dynamos: 71/5(14.5)"
+  },
+  {
+   "matchId": "4223",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4223&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Thunder",
+    "CCA San Jose Lightning"
+   ],
+   "teamIds": [
+    "1543",
+    "1544"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA Fremont Thunder won by 7 Wickets",
+   "summary": "CCA San Jose Lightning: 39/10(19.2) CCA Fremont Thunder: 40/3(7.4)"
+  },
+  {
+   "matchId": "4235",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4235&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "Indus-YJCC Titans"
+   ],
+   "teamIds": [
+    "1570",
+    "1567"
+   ],
+   "ground": "Judah",
+   "result": "SYCA Eagles won by 227 Runs",
+   "summary": "SYCA Eagles: 303/10(38.3) Indus-YJCC Titans: 76/10(27.3)"
+  },
+  {
+   "matchId": "4233",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4233&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "CCA Centurions",
+    "CCA EB Falcons"
+   ],
+   "teamIds": [
+    "1561",
+    "1562"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Centurions won by 318 Runs",
+   "summary": "CCA Centurions: 372/5(40) CCA EB Falcons: 54/10(24.2)"
+  },
+  {
+   "matchId": "4232",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4232&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "SRCA Stars",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "1568",
+    "1565"
+   ],
+   "ground": "FSP",
+   "result": "SRCA Stars won by 7 Wickets",
+   "summary": "DSCA Lions: 109/10(29.5) SRCA Stars: 110/3(24.4)"
+  },
+  {
+   "matchId": "4231",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4231&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "BCA Bravos"
+   ],
+   "teamIds": [
+    "1563",
+    "1559"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Titans won by 5 Wickets",
+   "summary": "BCA Bravos: 95/10(28.4) CCA Titans: 99/5(30.5)"
+  },
+  {
+   "matchId": "4227",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4227&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "Strikers Vikings"
+   ],
+   "teamIds": [
+    "1566",
+    "1569"
+   ],
+   "ground": "Davis",
+   "result": "DSCA Rhinos won by 47 Runs",
+   "summary": "DSCA Rhinos: 227/10(39.5) Strikers Vikings: 180/6(40)"
+  },
+  {
+   "matchId": "4226",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4226&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "VKCA Vulkans",
+    "BCA Warriors"
+   ],
+   "teamIds": [
+    "1571",
+    "1560"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA Vulkans won by 217 Runs",
+   "summary": "VKCA Vulkans: 302/7(40) BCA Warriors: 85/10(27)"
+  },
+  {
+   "matchId": "4225",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4225&clubId=40319",
+   "date": "2025-03-01",
+   "type": "League",
+   "teams": [
+    "BCA Bravehearts",
+    "DCL Legends"
+   ],
+   "teamIds": [
+    "1558",
+    "1564"
+   ],
+   "ground": "FCP",
+   "result": "DCL Legends won by 4 Wickets",
+   "summary": "BCA Bravehearts: 250/7(40) DCL Legends: 252/6(37.5)"
+  }
+ ]
+}

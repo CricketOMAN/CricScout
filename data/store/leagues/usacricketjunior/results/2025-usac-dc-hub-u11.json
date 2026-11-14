@@ -1,0 +1,660 @@
+{
+ "season": {
+  "key": "s187",
+  "id": "legacy-315",
+  "name": "2025 USAC DC HUB U11"
+ },
+ "fetchedAt": "2026-11-13T22:25:54.869Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=315&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=315&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5881",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5881&clubId=40319",
+   "date": "2025-06-28",
+   "type": "Final",
+   "teams": [
+    "FSSC Lions",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1822",
+    "1825"
+   ],
+   "ground": "Kenilworth",
+   "result": "FSSC Lions won by 6 Wickets",
+   "summary": "LCCA Titans: 109/10(28) FSSC Lions: 110/4(23.3)"
+  },
+  {
+   "matchId": "5809",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5809&clubId=40319",
+   "date": "2025-06-21",
+   "type": "Semi Final",
+   "teams": [
+    "HCYC Kings",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1823",
+    "1825"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "LCCA Titans won by 54 Runs",
+   "summary": "LCCA Titans: 84/10(27.2) HCYC Kings: 30/9(11)"
+  },
+  {
+   "matchId": "5808",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5808&clubId=40319",
+   "date": "2025-06-21",
+   "type": "Semi Final",
+   "teams": [
+    "FSSC Lions",
+    "BRSS Superkings"
+   ],
+   "teamIds": [
+    "1822",
+    "1820"
+   ],
+   "ground": "Rockledge",
+   "result": "FSSC Lions won by 1 Run",
+   "summary": "FSSC Lions: 124/7(30) BRSS Superkings: 123/8(30)"
+  },
+  {
+   "matchId": "5683",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5683&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SOCA Bolts"
+   ],
+   "teamIds": [
+    "1822",
+    "1827"
+   ],
+   "ground": "Rockledge",
+   "result": "FSSC Lions won by 88 Runs",
+   "summary": "FSSC Lions: 155/8(28.4) SOCA Bolts: 67/9(25)"
+  },
+  {
+   "matchId": "5680",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5680&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "BRSS Virginia Cavaliers"
+   ],
+   "teamIds": [
+    "1825",
+    "1819"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "LCCA Titans won by 180 Runs",
+   "summary": "LCCA Titans: 249/5(30) BRSS Virginia Cavaliers: 69/9(23.1)"
+  },
+  {
+   "matchId": "5654",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5654&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "HCYC Kings",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1823",
+    "1824"
+   ],
+   "ground": "Overlook Elementary School",
+   "result": "JMCA won by 4 Wickets",
+   "summary": "HCYC Kings: 128/10(30) JMCA: 129/6(28.4)"
+  },
+  {
+   "matchId": "5653",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5653&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "SOCA Blazers",
+    "BRSS Superkings"
+   ],
+   "teamIds": [
+    "1828",
+    "1820"
+   ],
+   "ground": "Gunners Branch",
+   "result": "BRSS Superkings won by 31 Runs",
+   "summary": "BRSS Superkings: 99/8(27.4) SOCA Blazers: 68/9(28.2)"
+  },
+  {
+   "matchId": "5640",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5640&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1826",
+    "1821"
+   ],
+   "ground": "Rockledge",
+   "result": "Forfeited. Winner: BRSS Knights",
+   "summary": "RYC Strikers: 0/0(0)"
+  },
+  {
+   "matchId": "5548",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5548&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "BRSS Superkings",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "1820",
+    "1823"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "HCYC Kings won by 81 Runs",
+   "summary": "HCYC Kings: 151/9(30) BRSS Superkings: 70/8(19.3)"
+  },
+  {
+   "matchId": "5529",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5529&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "SOCA Bolts",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "1827",
+    "1826"
+   ],
+   "ground": "Richmond",
+   "result": "SOCA Bolts won by 73 Runs",
+   "summary": "SOCA Bolts: 172/7(29.2) RYC Strikers: 99/10(20.4)"
+  },
+  {
+   "matchId": "5508",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5508&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1821",
+    "1822"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "FSSC Lions won by 5 Runs",
+   "summary": "FSSC Lions: 135/5(20) BRSS Knights: 130/5(20)"
+  },
+  {
+   "matchId": "5494",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5494&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "BRSS Virginia Cavaliers",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1819",
+    "1824"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "Abandoned.",
+   "summary": "JMCA: 84/1(12.3)"
+  },
+  {
+   "matchId": "5493",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5493&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "SOCA Blazers",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1828",
+    "1825"
+   ],
+   "ground": "Rockledge",
+   "result": "LCCA Titans won by 55 Runs",
+   "summary": "LCCA Titans: 125/4(19.4) SOCA Blazers: 70/9(17.1)"
+  },
+  {
+   "matchId": "5584",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5584&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "BRSS Superkings",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1820",
+    "1825"
+   ],
+   "ground": "Gunners Branch",
+   "result": "Abandoned.",
+   "summary": "BRSS Superkings: 0/0(0)"
+  },
+  {
+   "matchId": "5583",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5583&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1822",
+    "1824"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "Abandoned.",
+   "summary": "FSSC Lions: 0/0(0)"
+  },
+  {
+   "matchId": "5582",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5582&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "HCYC Kings",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1823",
+    "1821"
+   ],
+   "ground": "Rockledge",
+   "result": "Abandoned.",
+   "summary": "HCYC Kings: 0/0(0)"
+  },
+  {
+   "matchId": "5472",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5472&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "SOCA Blazers"
+   ],
+   "teamIds": [
+    "1826",
+    "1828"
+   ],
+   "ground": "Rockledge",
+   "result": "Forfeited. Winner: SOCA Blazers",
+   "summary": "RYC Strikers: 0/0(0)"
+  },
+  {
+   "matchId": "5381",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5381&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "BRSS Virginia Cavaliers",
+    "SOCA Bolts"
+   ],
+   "teamIds": [
+    "1819",
+    "1827"
+   ],
+   "ground": "Gunners Branch",
+   "result": "SOCA Bolts won by 33 Runs",
+   "summary": "SOCA Bolts: 81/8(20) BRSS Virginia Cavaliers: 48/5(16)"
+  },
+  {
+   "matchId": "5250",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5250&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "SOCA Blazers"
+   ],
+   "teamIds": [
+    "1822",
+    "1828"
+   ],
+   "ground": "Rockledge",
+   "result": "FSSC Lions won by 4 Runs",
+   "summary": "FSSC Lions: 161/6(30) SOCA Blazers: 157/2(30)"
+  },
+  {
+   "matchId": "5248",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5248&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "JMCA"
+   ],
+   "teamIds": [
+    "1821",
+    "1824"
+   ],
+   "ground": "BRRS - Leesburg New",
+   "result": "JMCA won by 83 Runs",
+   "summary": "JMCA: 132/7(30) BRSS Knights: 49/8(20.1)"
+  },
+  {
+   "matchId": "5218",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5218&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "BRSS Superkings",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "1820",
+    "1826"
+   ],
+   "ground": "Richmond",
+   "result": "BRSS Superkings won by 9 Wickets",
+   "summary": "RYC Strikers: 66/10(25.5) BRSS Superkings: 67/1(8.1)"
+  },
+  {
+   "matchId": "5172",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5172&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "SOCA Bolts"
+   ],
+   "teamIds": [
+    "1825",
+    "1827"
+   ],
+   "ground": "Gunners Branch",
+   "result": "LCCA Titans won by 98 Runs",
+   "summary": "LCCA Titans: 131/4(30) SOCA Bolts: 33/9(18.2)"
+  },
+  {
+   "matchId": "5170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5170&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "HCYC Kings",
+    "BRSS Virginia Cavaliers"
+   ],
+   "teamIds": [
+    "1823",
+    "1819"
+   ],
+   "ground": "Rockledge",
+   "result": "HCYC Kings won by 120 Runs",
+   "summary": "HCYC Kings: 183/9(30) BRSS Virginia Cavaliers: 63/7(20)"
+  },
+  {
+   "matchId": "5050",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5050&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "SOCA Blazers",
+    "BRSS Virginia Cavaliers"
+   ],
+   "teamIds": [
+    "1828",
+    "1819"
+   ],
+   "ground": "Rockledge",
+   "result": "SOCA Blazers won by 9 Wickets",
+   "summary": "BRSS Virginia Cavaliers: 107/8(27) SOCA Blazers: 110/1(14.5)"
+  },
+  {
+   "matchId": "5045",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5045&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "BRSS Knights",
+    "SOCA Bolts"
+   ],
+   "teamIds": [
+    "1821",
+    "1827"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "BRSS Knights won by 9 Wickets",
+   "summary": "SOCA Bolts: 54/10(23) BRSS Knights: 55/1(12.1)"
+  },
+  {
+   "matchId": "4968",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4968&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "1826",
+    "1823"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "HCYC Kings won by 135 Runs",
+   "summary": "HCYC Kings: 246/6(30) RYC Strikers: 111/10(24.2)"
+  },
+  {
+   "matchId": "4967",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4967&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "FSSC Lions",
+    "BRSS Superkings"
+   ],
+   "teamIds": [
+    "1822",
+    "1820"
+   ],
+   "ground": "Gunners Branch",
+   "result": "FSSC Lions won by 29 Runs",
+   "summary": "FSSC Lions: 115/5(30) BRSS Superkings: 86/6(30)"
+  },
+  {
+   "matchId": "4966",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4966&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1824",
+    "1825"
+   ],
+   "ground": "Rockledge",
+   "result": "LCCA Titans won by 7 Runs",
+   "summary": "LCCA Titans: 151/4(30) JMCA: 144/5(30)"
+  },
+  {
+   "matchId": "4921",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4921&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "BRSS Virginia Cavaliers",
+    "RYC Strikers"
+   ],
+   "teamIds": [
+    "1819",
+    "1826"
+   ],
+   "ground": "Richmond",
+   "result": "Forfeited. Winner: RYC Strikers",
+   "summary": "BRSS Virginia Cavaliers: 0/0(0)"
+  },
+  {
+   "matchId": "4895",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4895&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "SOCA Blazers",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1828",
+    "1821"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "BRSS Knights won by 85 Runs",
+   "summary": "BRSS Knights: 201/5(29.1) SOCA Blazers: 116/9(21.3)"
+  },
+  {
+   "matchId": "4892",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4892&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "LCCA Titans",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1825",
+    "1822"
+   ],
+   "ground": "Rockledge",
+   "result": "FSSC Lions won by 7 Wickets",
+   "summary": "LCCA Titans: 106/10(28.2) FSSC Lions: 110/3(15.1)"
+  },
+  {
+   "matchId": "4824",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4824&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "SOCA Bolts",
+    "HCYC Kings"
+   ],
+   "teamIds": [
+    "1827",
+    "1823"
+   ],
+   "ground": "Whitehall Elementary School",
+   "result": "HCYC Kings won by 18 Runs",
+   "summary": "HCYC Kings: 158/10(25) SOCA Bolts: 140/4(28.3)"
+  },
+  {
+   "matchId": "4823",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4823&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "BRSS Superkings"
+   ],
+   "teamIds": [
+    "1824",
+    "1820"
+   ],
+   "ground": "Gunners Branch",
+   "result": "BRSS Superkings won by 55 Runs",
+   "summary": "BRSS Superkings: 116/6(30) JMCA: 61/10(20.3)"
+  },
+  {
+   "matchId": "4769",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4769&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "BRSS Virginia Cavaliers",
+    "BRSS Knights"
+   ],
+   "teamIds": [
+    "1819",
+    "1821"
+   ],
+   "ground": "Gunners Branch",
+   "result": "Abandoned.",
+   "summary": "BRSS Virginia Cavaliers: 0/0(0)"
+  },
+  {
+   "matchId": "4700",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4700&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "HCYC Kings",
+    "LCCA Titans"
+   ],
+   "teamIds": [
+    "1823",
+    "1825"
+   ],
+   "ground": "Rockledge",
+   "result": "Abandoned.",
+   "summary": "HCYC Kings: 42/2(9.5)"
+  },
+  {
+   "matchId": "4698",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4698&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "SOCA Bolts",
+    "BRSS Superkings"
+   ],
+   "teamIds": [
+    "1827",
+    "1820"
+   ],
+   "ground": "Gunners Branch",
+   "result": "BRSS Superkings won by 50 Runs",
+   "summary": "BRSS Superkings: 123/7(30) SOCA Bolts: 73/10(26.3)"
+  },
+  {
+   "matchId": "4651",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4651&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "JMCA",
+    "SOCA Blazers"
+   ],
+   "teamIds": [
+    "1824",
+    "1828"
+   ],
+   "ground": "Guilford",
+   "result": "JMCA won by 6 Wickets",
+   "summary": "SOCA Blazers: 73/9(26.3) JMCA: 80/4(26.1)"
+  },
+  {
+   "matchId": "4638",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4638&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "RYC Strikers",
+    "FSSC Lions"
+   ],
+   "teamIds": [
+    "1826",
+    "1822"
+   ],
+   "ground": "Overlook Elementary School",
+   "result": "FSSC Lions won by 136 Runs",
+   "summary": "FSSC Lions: 183/6(30) RYC Strikers: 47/9(17.2)"
+  }
+ ]
+}

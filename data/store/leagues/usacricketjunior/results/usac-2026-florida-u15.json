@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s113",
+  "id": "legacy-456",
+  "name": "USAC 2026 - Florida - U15"
+ },
+ "fetchedAt": "2026-11-13T21:57:24.288Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=456&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=456&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8716",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8716&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "Tampa Cricket League",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2884",
+    "2885"
+   ],
+   "ground": "OCG - Orlando Cricke",
+   "result": "Tampa Cricket League won by 8 Wickets",
+   "summary": "Young Genius Academy: 74/7(21.1) Tampa Cricket League: 80/2(11.4)"
+  },
+  {
+   "matchId": "8668",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8668&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2883",
+    "2885"
+   ],
+   "ground": "OCG - Orlando Cricke",
+   "result": "Roy Silva Academy won by 7 Wickets",
+   "summary": "Young Genius Academy: 45/9(14.3) Roy Silva Academy: 47/3(10)"
+  },
+  {
+   "matchId": "8580",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8580&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2883",
+    "2884"
+   ],
+   "ground": "OCG - Orlando Cricke",
+   "result": "Tampa Cricket League won by 2 Wickets",
+   "summary": "Roy Silva Academy: 179/9(38.1) Tampa Cricket League: 180/8(38.3)"
+  },
+  {
+   "matchId": "8507",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8507&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Tampa Cricket League",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2884",
+    "2885"
+   ],
+   "ground": "OCG - Orlando Cricke",
+   "result": "Tampa Cricket League won by 59 Runs",
+   "summary": "Tampa Cricket League: 147/6(40) Young Genius Academy: 88/10(27.5)"
+  },
+  {
+   "matchId": "8063",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8063&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2883",
+    "2885"
+   ],
+   "ground": "Brian Piccolo South",
+   "result": "Roy Silva Academy won by 48 Runs",
+   "summary": "Roy Silva Academy: 103/9(26.3) Young Genius Academy: 55/8(18.4)"
+  },
+  {
+   "matchId": "7773",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7773&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2883",
+    "2884"
+   ],
+   "ground": "OCG - Orlando Cricke",
+   "result": "Roy Silva Academy won by 7 Wickets",
+   "summary": "Tampa Cricket League: 75/8(18.2) Roy Silva Academy: 76/3(14)"
+  },
+  {
+   "matchId": "7543",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7543&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2883",
+    "2885"
+   ],
+   "ground": "Sarasota Cricket Gro",
+   "result": "Roy Silva Academy won by 37 Runs",
+   "summary": "Roy Silva Academy: 194/5(40) Young Genius Academy: 157/8(39.3)"
+  },
+  {
+   "matchId": "7382",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7382&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2883",
+    "2884"
+   ],
+   "ground": "Evans Cricket Ground",
+   "result": "Roy Silva Academy won by 7 Wickets",
+   "summary": "Tampa Cricket League: 249/8(40) Roy Silva Academy: 253/3(35.4)"
+  },
+  {
+   "matchId": "7254",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7254&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "Tampa Cricket League",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2884",
+    "2885"
+   ],
+   "ground": "Sarasota Cricket Gro",
+   "result": "Young Genius Academy won by 4 Runs",
+   "summary": "Young Genius Academy: 142/9(32.1) Tampa Cricket League: 138/11(31.3)"
+  }
+ ]
+}

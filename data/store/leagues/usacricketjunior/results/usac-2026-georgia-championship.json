@@ -1,0 +1,2173 @@
+{
+ "season": {
+  "key": "s76",
+  "id": "legacy-501",
+  "name": "USAC 2026 Georgia Championship"
+ },
+ "fetchedAt": "2026-11-13T21:47:23.328Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=501&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=501&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9357",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9357&clubId=40319",
+   "date": "2026-08-23",
+   "type": "League",
+   "teams": [
+    "Team A",
+    "Team C"
+   ],
+   "teamIds": [
+    "3510",
+    "3512"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Team A: 169/11 (36/40 ov) Team C: 170/9 (35/40 ov) (D/L)",
+   "summary": "Team A: 169/11(36) Team C: 170/9(35) Live"
+  },
+  {
+   "matchId": "9354",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9354&clubId=40319",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Team A",
+    "Team B"
+   ],
+   "teamIds": [
+    "3510",
+    "3511"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Team B won by 10 Runs (D/L)",
+   "summary": "Team B: 92/11(26.2) Team A: 239/11(40)"
+  },
+  {
+   "matchId": "9350",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9350&clubId=40319",
+   "date": "2026-08-16",
+   "type": "League",
+   "teams": [
+    "Team C",
+    "Team B"
+   ],
+   "teamIds": [
+    "3512",
+    "3511"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Team C won by 41 Runs",
+   "summary": "Team C: 234/4(40) Team B: 193/10(40)"
+  },
+  {
+   "matchId": "9340",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9340&clubId=40319",
+   "date": "2026-08-15",
+   "type": "League",
+   "teams": [
+    "Team C",
+    "Team A"
+   ],
+   "teamIds": [
+    "3512",
+    "3510"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Team A won by 0 Wickets",
+   "summary": "Team C: 154/11(35.4) Team A: 155/10(26.5)"
+  },
+  {
+   "matchId": "9330",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9330&clubId=40319",
+   "date": "2026-08-09",
+   "type": "League",
+   "teams": [
+    "Team B",
+    "Team A"
+   ],
+   "teamIds": [
+    "3511",
+    "3510"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Team A won by 57 Runs",
+   "summary": "Team A: 220/8(40) Team B: 163/11(40)"
+  },
+  {
+   "matchId": "9322",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9322&clubId=40319",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "Team B",
+    "Team C"
+   ],
+   "teamIds": [
+    "3511",
+    "3512"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Team B won by 55 Runs (D/L)",
+   "summary": "Team B: 112/12(27) Team C: 194/7(32.3)"
+  },
+  {
+   "matchId": "8928",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8928&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "U15 Georgia B",
+    "U15 Georgia A"
+   ],
+   "teamIds": [
+    "3368",
+    "3367"
+   ],
+   "ground": "PARAM - G5",
+   "result": "U15 Georgia B: 128/11 (33.3/50 ov) U15 Georgia A: 107/10 (35.2/50 ov)",
+   "summary": "U15 Georgia B: 128/11(33.3) U15 Georgia A: 107/10(35.2) Live"
+  },
+  {
+   "matchId": "8929",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8929&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "U13 Georgia B",
+    "U13 Georgia A"
+   ],
+   "teamIds": [
+    "3370",
+    "3369"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "U13 Georgia A won by 37 Runs (D/L)",
+   "summary": "U13 Georgia A: 194/10(41) U13 Georgia B: 262/6(50)"
+  },
+  {
+   "matchId": "8903",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8903&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "U13 Georgia C",
+    "U13 Georgia B"
+   ],
+   "teamIds": [
+    "3371",
+    "3370"
+   ],
+   "ground": "ACF - G6",
+   "result": "U13 Georgia C won by 73 Runs",
+   "summary": "U13 Georgia C: 222/10(45) U13 Georgia B: 149/9(47.3)"
+  },
+  {
+   "matchId": "8890",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8890&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "U15 Georgia A",
+    "U15 Georgia B"
+   ],
+   "teamIds": [
+    "3367",
+    "3368"
+   ],
+   "ground": "PARAM - G2",
+   "result": "U15 Georgia A won by 2 Runs (D/L)",
+   "summary": "U15 Georgia A: 128/11(31.2) U15 Georgia B: 135/11(34.3)"
+  },
+  {
+   "matchId": "8888",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8888&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "U13 Georgia A",
+    "U13 Georgia C"
+   ],
+   "teamIds": [
+    "3369",
+    "3371"
+   ],
+   "ground": "ACF - G6",
+   "result": "U13 Georgia A won by 22 Runs (D/L)",
+   "summary": "U13 Georgia A: 256/10(40) U13 Georgia C: 333/7(50)"
+  },
+  {
+   "matchId": "8825",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8825&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Stride Tigers",
+    "ACA Stars"
+   ],
+   "teamIds": [
+    "3074",
+    "3071"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ACA Stars won by 14 Runs",
+   "summary": "ACA Stars: 159/9(30) Stride Tigers: 145/8(30)"
+  },
+  {
+   "matchId": "8821",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8821&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "NACA RED U11"
+   ],
+   "teamIds": [
+    "3072",
+    "3067"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA RED U11 won by 128 Runs",
+   "summary": "NACA RED U11: 258/5(30) NACA Blue U11: 130/8(23)"
+  },
+  {
+   "matchId": "8819",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8819&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Sixers Royals U11",
+    "ACA Bears"
+   ],
+   "teamIds": [
+    "3068",
+    "3066"
+   ],
+   "ground": "Shakerag",
+   "result": "ACA Bears won by 24 Runs",
+   "summary": "ACA Bears: 254/5(30) Sixers Royals U11: 230/4(30)"
+  },
+  {
+   "matchId": "8758",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8758&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "Sixers Royals U11",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "3068",
+    "3072"
+   ],
+   "ground": "Shakerag",
+   "result": "Sixers Royals U11 won by 43 Runs",
+   "summary": "Sixers Royals U11: 219/5(30) NACA Blue U11: 176/6(30)"
+  },
+  {
+   "matchId": "8741",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8741&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "ACA Bears",
+    "ARSCA U11 All Star"
+   ],
+   "teamIds": [
+    "3066",
+    "3075"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ARSCA U11 All Star won by 125 Runs",
+   "summary": "ARSCA U11 All Star: 263/4(30) ACA Bears: 138/10(22.5)"
+  },
+  {
+   "matchId": "8739",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8739&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "Propath U11",
+    "Sixers Royals U11"
+   ],
+   "teamIds": [
+    "3070",
+    "3068"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "Propath U11 won by 52 Runs (D/L)",
+   "summary": "Propath U11: 268/4(30) Sixers Royals U11: 112/5(15.2)"
+  },
+  {
+   "matchId": "8733",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8733&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "3073",
+    "3072"
+   ],
+   "ground": "TBD",
+   "result": "TCA U11 Chiefs won by 165 Runs",
+   "summary": "TCA U11 Chiefs: 184/7(30) NACA Blue U11: 19/9(9)"
+  },
+  {
+   "matchId": "8704",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8704&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "ARSCA Blues",
+    "ACA Stars"
+   ],
+   "teamIds": [
+    "3069",
+    "3071"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ARSCA Blues won by 95 Runs (D/L)",
+   "summary": "ARSCA Blues: 271/2(30) ACA Stars: 130/7(23.5)"
+  },
+  {
+   "matchId": "8744",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8744&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "Stride Eagles",
+    "ACA Lions"
+   ],
+   "teamIds": [
+    "3081",
+    "3087"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Stride Eagles won by 7 Wickets",
+   "summary": "ACA Lions: 73/7(24.5) Stride Eagles: 79/3(15.3)"
+  },
+  {
+   "matchId": "8691",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8691&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "ACA Lions",
+    "ACZ"
+   ],
+   "teamIds": [
+    "3087",
+    "3086"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ACA Lions won by 6 Wickets",
+   "summary": "ACZ: 55/6(16.5) ACA Lions: 56/4(13.2)"
+  },
+  {
+   "matchId": "8689",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8689&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "ProPath StormBreakers",
+    "ACA Warriors"
+   ],
+   "teamIds": [
+    "3084",
+    "3082"
+   ],
+   "ground": "ACF - G6",
+   "result": "ACA Warriors won by 8 Wickets",
+   "summary": "ProPath StormBreakers: 104/9(28.5) ACA Warriors: 105/2(20.5)"
+  },
+  {
+   "matchId": "8685",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8685&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "ACA Tigers",
+    "Stride Eagles"
+   ],
+   "teamIds": [
+    "3076",
+    "3081"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ACA Tigers won by 119 Runs",
+   "summary": "ACA Tigers: 223/6(30) Stride Eagles: 104/10(25)"
+  },
+  {
+   "matchId": "8679",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8679&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "TCA Hawks",
+    "Sixers Strikers U13"
+   ],
+   "teamIds": [
+    "3079",
+    "3078"
+   ],
+   "ground": "Nashville",
+   "result": "TCA Hawks won by 139 Runs",
+   "summary": "TCA Hawks: 321/6(30) Sixers Strikers U13: 182/7(21.4)"
+  },
+  {
+   "matchId": "8648",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8648&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "ACA Tigers",
+    "ACZ"
+   ],
+   "teamIds": [
+    "3076",
+    "3086"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ACA Tigers won by 87 Runs",
+   "summary": "ACA Tigers: 233/5(30) ACZ: 146/2(30)"
+  },
+  {
+   "matchId": "8647",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8647&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "ACA Warriors",
+    "Stride Eagles"
+   ],
+   "teamIds": [
+    "3082",
+    "3081"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ACA Warriors won by 5 Wickets",
+   "summary": "Stride Eagles: 130/7(30) ACA Warriors: 131/5(20.2)"
+  },
+  {
+   "matchId": "8642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8642&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "Sixers Dynamites",
+    "AYCC Panthers Pros"
+   ],
+   "teamIds": [
+    "3091",
+    "3092"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Sixers Dynamites won by 5 Wickets",
+   "summary": "AYCC Panthers Pros: 91/10(26.1) Sixers Dynamites: 92/5(23.5)"
+  },
+  {
+   "matchId": "8641",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8641&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "ACA Giants",
+    "NACA BLUE U15"
+   ],
+   "teamIds": [
+    "3088",
+    "3094"
+   ],
+   "ground": "PARAM - G4",
+   "result": "NACA BLUE U15 won by 107 Runs",
+   "summary": "NACA BLUE U15: 209/10(33.4) ACA Giants: 102/10(28)"
+  },
+  {
+   "matchId": "8635",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8635&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "Stride Tigers",
+    "ARSCA Blues"
+   ],
+   "teamIds": [
+    "3074",
+    "3069"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ARSCA Blues won by 36 Runs",
+   "summary": "ARSCA Blues: 203/7(30) Stride Tigers: 167/7(30)"
+  },
+  {
+   "matchId": "8634",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8634&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "ARSCA U11 All Star",
+    "Propath U11"
+   ],
+   "teamIds": [
+    "3075",
+    "3070"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Propath U11 won by 3 Wickets",
+   "summary": "ARSCA U11 All Star: 202/4(30) Propath U11: 204/7(28.5)"
+  },
+  {
+   "matchId": "8632",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8632&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "Sixers Royals U11",
+    "NACA RED U11"
+   ],
+   "teamIds": [
+    "3068",
+    "3067"
+   ],
+   "ground": "Shakerag",
+   "result": "Sixers Royals U11 won by 78 Runs",
+   "summary": "Sixers Royals U11: 248/9(30) NACA RED U11: 170/10(29.2)"
+  },
+  {
+   "matchId": "8627",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8627&clubId=40319",
+   "date": "2026-06-10",
+   "type": "League",
+   "teams": [
+    "Sixers Strikers U13",
+    "ProPath StormBreakers"
+   ],
+   "teamIds": [
+    "3078",
+    "3084"
+   ],
+   "ground": "ACF - G6",
+   "result": "ProPath StormBreakers won by 4 Wickets",
+   "summary": "Sixers Strikers U13: 123/7(30) ProPath StormBreakers: 124/6(23.4)"
+  },
+  {
+   "matchId": "8624",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8624&clubId=40319",
+   "date": "2026-06-10",
+   "type": "League",
+   "teams": [
+    "NACA RED U13",
+    "ACA Tigers"
+   ],
+   "teamIds": [
+    "3083",
+    "3076"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA RED U13 won by 8 Wickets",
+   "summary": "ACA Tigers: 228/8(25.5) NACA RED U13: 233/2(27)"
+  },
+  {
+   "matchId": "8748",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8748&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "ACA Bears"
+   ],
+   "teamIds": [
+    "3073",
+    "3066"
+   ],
+   "ground": "Nashville",
+   "result": "Abandoned.",
+   "summary": "TCA U11 Chiefs: 0/0(0)"
+  },
+  {
+   "matchId": "8605",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8605&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Propath U11",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "3070",
+    "3072"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Propath U11 won by 196 Runs",
+   "summary": "Propath U11: 314/3(30) NACA Blue U11: 118/8(28.1)"
+  },
+  {
+   "matchId": "8601",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8601&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "ACA Stars",
+    "ARSCA U11 All Star"
+   ],
+   "teamIds": [
+    "3071",
+    "3075"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "ARSCA U11 All Star won by 10 Wickets",
+   "summary": "ACA Stars: 82/11(22.4) ARSCA U11 All Star: 85/0(10.4)"
+  },
+  {
+   "matchId": "8593",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8593&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "NACA RED U11",
+    "Stride Tigers"
+   ],
+   "teamIds": [
+    "3067",
+    "3074"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA RED U11 won by 133 Runs",
+   "summary": "NACA RED U11: 278/3(30) Stride Tigers: 145/7(30)"
+  },
+  {
+   "matchId": "8561",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8561&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "ARSCA Blues",
+    "Sixers Royals U11"
+   ],
+   "teamIds": [
+    "3069",
+    "3068"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Sixers Royals U11 won by 24 Runs",
+   "summary": "Sixers Royals U11: 191/5(30) ARSCA Blues: 167/8(30)"
+  },
+  {
+   "matchId": "8602",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8602&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "ACA Warriors",
+    "ACA Lions"
+   ],
+   "teamIds": [
+    "3082",
+    "3087"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ACA Warriors won by 131 Runs",
+   "summary": "ACA Warriors: 211/4(30) ACA Lions: 80/10(21)"
+  },
+  {
+   "matchId": "8562",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8562&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "ARSCA U13 All Star",
+    "TCA Hawks"
+   ],
+   "teamIds": [
+    "3085",
+    "3079"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ARSCA U13 All Star won by 7 Wickets",
+   "summary": "TCA Hawks: 142/10(23.2) ARSCA U13 All Star: 145/3(21)"
+  },
+  {
+   "matchId": "8578",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8578&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "ACA Giants",
+    "ACA Aces"
+   ],
+   "teamIds": [
+    "3088",
+    "3089"
+   ],
+   "ground": "PARAM - G1",
+   "result": "Abandoned.",
+   "summary": "ACA Aces: 232/7(40) ACA Giants: 25/2(6.5)"
+  },
+  {
+   "matchId": "8575",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8575&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Sixers Warriors",
+    "Sixers Dynamites"
+   ],
+   "teamIds": [
+    "3090",
+    "3091"
+   ],
+   "ground": "PARAM - G6",
+   "result": "Abandoned.",
+   "summary": "Sixers Warriors: 232/9(40) Sixers Dynamites: 46/3(10)"
+  },
+  {
+   "matchId": "8544",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8544&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "ACZ",
+    "ARSCA U13 All Star"
+   ],
+   "teamIds": [
+    "3086",
+    "3085"
+   ],
+   "ground": "ACF - G6",
+   "result": "ARSCA U13 All Star won by 9 Wickets",
+   "summary": "ACZ: 115/9(26.4) ARSCA U13 All Star: 121/1(12.2)"
+  },
+  {
+   "matchId": "8535",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8535&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "NACA BLUE U13",
+    "TCA Hawks"
+   ],
+   "teamIds": [
+    "3077",
+    "3079"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA BLUE U13 won by 19 Runs",
+   "summary": "NACA BLUE U13: 191/6(30) TCA Hawks: 172/10(29.4)"
+  },
+  {
+   "matchId": "8484",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8484&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "ProPath StormBreakers",
+    "ACA Tigers"
+   ],
+   "teamIds": [
+    "3084",
+    "3076"
+   ],
+   "ground": "ACF - G6",
+   "result": "ProPath StormBreakers won by 29 Runs",
+   "summary": "ProPath StormBreakers: 173/4(30) ACA Tigers: 144/9(21.4)"
+  },
+  {
+   "matchId": "8481",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8481&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "ACA Lions",
+    "ProPath Mavericks"
+   ],
+   "teamIds": [
+    "3087",
+    "3080"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ProPath Mavericks won by 94 Runs",
+   "summary": "ProPath Mavericks: 243/5(30) ACA Lions: 149/7(30)"
+  },
+  {
+   "matchId": "8473",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8473&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "NACA RED U13",
+    "Stride Eagles"
+   ],
+   "teamIds": [
+    "3083",
+    "3081"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA RED U13 won by 6 Wickets",
+   "summary": "Stride Eagles: 134/11(28.2) NACA RED U13: 135/4(24.1)"
+  },
+  {
+   "matchId": "8468",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8468&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "Sixers Strikers U13",
+    "ProPath Mavericks"
+   ],
+   "teamIds": [
+    "3078",
+    "3080"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ProPath Mavericks won by 7 Wickets",
+   "summary": "Sixers Strikers U13: 133/11(29.2) ProPath Mavericks: 135/3(20.1)"
+  },
+  {
+   "matchId": "8467",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8467&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "NACA BLUE U13",
+    "ACA Tigers"
+   ],
+   "teamIds": [
+    "3077",
+    "3076"
+   ],
+   "ground": "Cauley Creek",
+   "result": "ACA Tigers won by 79 Runs",
+   "summary": "ACA Tigers: 243/3(30) NACA BLUE U13: 164/5(30)"
+  },
+  {
+   "matchId": "8462",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8462&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "ProPath StormBreakers",
+    "ACZ"
+   ],
+   "teamIds": [
+    "3084",
+    "3086"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ProPath StormBreakers won by 5 Wickets",
+   "summary": "ACZ: 60/10(19.1) ProPath StormBreakers: 61/5(13.3)"
+  },
+  {
+   "matchId": "8465",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8465&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "AYCC Panthers Pros",
+    "NACA RED U15"
+   ],
+   "teamIds": [
+    "3092",
+    "3093"
+   ],
+   "ground": "ACF - G5",
+   "result": "NACA RED U15 won by 2 Wickets",
+   "summary": "AYCC Panthers Pros: 198/10(37.5) NACA RED U15: 199/8(32.3)"
+  },
+  {
+   "matchId": "8464",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8464&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "Sixers Dynamites",
+    "NACA BLUE U15"
+   ],
+   "teamIds": [
+    "3091",
+    "3094"
+   ],
+   "ground": "ACF - G1",
+   "result": "NACA BLUE U15 won by 169 Runs",
+   "summary": "NACA BLUE U15: 327/6(40) Sixers Dynamites: 158/10(37.1)"
+  },
+  {
+   "matchId": "8463",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8463&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "Sixers Warriors",
+    "ACA Giants"
+   ],
+   "teamIds": [
+    "3090",
+    "3088"
+   ],
+   "ground": "ACF - G2",
+   "result": "ACA Giants won by 21 Runs",
+   "summary": "ACA Giants: 223/5(40) Sixers Warriors: 202/9(33.5)"
+  },
+  {
+   "matchId": "8456",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8456&clubId=40319",
+   "date": "2026-06-04",
+   "type": "League",
+   "teams": [
+    "AYCC Panthers Pros",
+    "NACA BLUE U15"
+   ],
+   "teamIds": [
+    "3092",
+    "3094"
+   ],
+   "ground": "ACF - G1",
+   "result": "NACA BLUE U15 won by 259 Runs",
+   "summary": "NACA BLUE U15: 379/6(40) AYCC Panthers Pros: 120/10(22.1)"
+  },
+  {
+   "matchId": "8455",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8455&clubId=40319",
+   "date": "2026-06-04",
+   "type": "League",
+   "teams": [
+    "NACA RED U15",
+    "ACA Giants"
+   ],
+   "teamIds": [
+    "3093",
+    "3088"
+   ],
+   "ground": "ACF - G2",
+   "result": "NACA RED U15 won by 3 Wickets",
+   "summary": "ACA Giants: 308/5(40) NACA RED U15: 311/7(40)"
+  },
+  {
+   "matchId": "8454",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8454&clubId=40319",
+   "date": "2026-06-04",
+   "type": "League",
+   "teams": [
+    "Sixers Warriors",
+    "ACA Aces"
+   ],
+   "teamIds": [
+    "3090",
+    "3089"
+   ],
+   "ground": "ACF - G5",
+   "result": "ACA Aces won by 137 Runs",
+   "summary": "ACA Aces: 323/6(40) Sixers Warriors: 186/10(30.3)"
+  },
+  {
+   "matchId": "8451",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8451&clubId=40319",
+   "date": "2026-06-03",
+   "type": "League",
+   "teams": [
+    "Sixers Strikers U13",
+    "ACA Warriors"
+   ],
+   "teamIds": [
+    "3078",
+    "3082"
+   ],
+   "ground": "ACF - G6",
+   "result": "ACA Warriors won by 9 Wickets",
+   "summary": "Sixers Strikers U13: 111/8(30) ACA Warriors: 112/1(14.1)"
+  },
+  {
+   "matchId": "8450",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8450&clubId=40319",
+   "date": "2026-06-03",
+   "type": "League",
+   "teams": [
+    "Stride Eagles",
+    "ACZ"
+   ],
+   "teamIds": [
+    "3081",
+    "3086"
+   ],
+   "ground": "ACF - G6",
+   "result": "ACZ won by 7 Wickets",
+   "summary": "Stride Eagles: 98/11(26) ACZ: 100/3(17.5)"
+  },
+  {
+   "matchId": "8425",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8425&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "ACA Bears",
+    "Stride Tigers"
+   ],
+   "teamIds": [
+    "3066",
+    "3074"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ACA Bears won by 139 Runs",
+   "summary": "ACA Bears: 239/6(30) Stride Tigers: 100/10(27.2)"
+  },
+  {
+   "matchId": "8420",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8420&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "ARSCA Blues"
+   ],
+   "teamIds": [
+    "3073",
+    "3069"
+   ],
+   "ground": "Nashville",
+   "result": "Winner: TCA U11 Chiefs",
+   "summary": "ARSCA Blues: 141/9(29.3) TCA U11 Chiefs: 137/9(28)"
+  },
+  {
+   "matchId": "8371",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8371&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "ACA Stars",
+    "Propath U11"
+   ],
+   "teamIds": [
+    "3071",
+    "3070"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "Propath U11 won by 4 Wickets",
+   "summary": "ACA Stars: 90/10(18.3) Propath U11: 91/6(20.3)"
+  },
+  {
+   "matchId": "8393",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8393&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Sixers Dynamites",
+    "ACA Aces"
+   ],
+   "teamIds": [
+    "3091",
+    "3089"
+   ],
+   "ground": "PARAM - G6",
+   "result": "ACA Aces won by 236 Runs",
+   "summary": "ACA Aces: 320/7(40) Sixers Dynamites: 84/9(27.4)"
+  },
+  {
+   "matchId": "8391",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8391&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "NACA BLUE U15",
+    "NACA RED U15"
+   ],
+   "teamIds": [
+    "3094",
+    "3093"
+   ],
+   "ground": "PARAM - G1",
+   "result": "NACA RED U15 won by 2 Runs",
+   "summary": "NACA RED U15: 166/10(31.3) NACA BLUE U15: 164/10(27.5)"
+  },
+  {
+   "matchId": "8702",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8702&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "ProPath StormBreakers",
+    "NACA BLUE U13"
+   ],
+   "teamIds": [
+    "3084",
+    "3077"
+   ],
+   "ground": "ACF - G6",
+   "result": "Abandoned.",
+   "summary": "ProPath StormBreakers: 0/0(0)"
+  },
+  {
+   "matchId": "8701",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8701&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "TCA Hawks",
+    "ACA Lions"
+   ],
+   "teamIds": [
+    "3079",
+    "3087"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "TCA Hawks: 0/0(0)"
+  },
+  {
+   "matchId": "8348",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8348&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "ACZ",
+    "ProPath Mavericks"
+   ],
+   "teamIds": [
+    "3086",
+    "3080"
+   ],
+   "ground": "ACF - G6",
+   "result": "It is a Tie",
+   "summary": "ProPath Mavericks: 179/3(30) ACZ: 179/7(30)"
+  },
+  {
+   "matchId": "8346",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8346&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "ACA Warriors",
+    "NACA RED U13"
+   ],
+   "teamIds": [
+    "3082",
+    "3083"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA RED U13 won by 8 Wickets",
+   "summary": "ACA Warriors: 150/5(30) NACA RED U13: 152/2(22.3)"
+  },
+  {
+   "matchId": "8270",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8270&clubId=40319",
+   "date": "2026-05-29",
+   "type": "League",
+   "teams": [
+    "ProPath Mavericks",
+    "ARSCA U13 All Star"
+   ],
+   "teamIds": [
+    "3080",
+    "3085"
+   ],
+   "ground": "ACF - G6",
+   "result": "ProPath Mavericks won by 4 Wickets",
+   "summary": "ARSCA U13 All Star: 143/10(29.1) ProPath Mavericks: 144/6(28.2)"
+  },
+  {
+   "matchId": "8268",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8268&clubId=40319",
+   "date": "2026-05-29",
+   "type": "League",
+   "teams": [
+    "NACA BLUE U13",
+    "NACA RED U13"
+   ],
+   "teamIds": [
+    "3077",
+    "3083"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA RED U13 won by 21 Runs",
+   "summary": "NACA RED U13: 197/5(30) NACA BLUE U13: 176/10(28.1)"
+  },
+  {
+   "matchId": "8269",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8269&clubId=40319",
+   "date": "2026-05-29",
+   "type": "League",
+   "teams": [
+    "NACA BLUE U15",
+    "Sixers Dynamites"
+   ],
+   "teamIds": [
+    "3094",
+    "3091"
+   ],
+   "ground": "ACF - G5",
+   "result": "NACA BLUE U15 won by 355 Runs",
+   "summary": "NACA BLUE U15: 424/5(40) Sixers Dynamites: 69/11(26.2)"
+  },
+  {
+   "matchId": "8267",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8267&clubId=40319",
+   "date": "2026-05-29",
+   "type": "League",
+   "teams": [
+    "NACA RED U15",
+    "Sixers Warriors"
+   ],
+   "teamIds": [
+    "3093",
+    "3090"
+   ],
+   "ground": "ACF - G1",
+   "result": "NACA RED U15 won by 7 Wickets",
+   "summary": "Sixers Warriors: 147/10(29.3) NACA RED U15: 150/3(26)"
+  },
+  {
+   "matchId": "8266",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8266&clubId=40319",
+   "date": "2026-05-29",
+   "type": "League",
+   "teams": [
+    "AYCC Panthers Pros",
+    "ACA Aces"
+   ],
+   "teamIds": [
+    "3092",
+    "3089"
+   ],
+   "ground": "ACF - G2",
+   "result": "ACA Aces won by 234 Runs",
+   "summary": "ACA Aces: 349/4(40) AYCC Panthers Pros: 115/9(30.3)"
+  },
+  {
+   "matchId": "8640",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8640&clubId=40319",
+   "date": "2026-05-28",
+   "type": "League",
+   "teams": [
+    "NACA RED U15",
+    "Sixers Dynamites"
+   ],
+   "teamIds": [
+    "3093",
+    "3091"
+   ],
+   "ground": "ACF - G2",
+   "result": "Abandoned.",
+   "summary": "NACA RED U15: 0/0(0)"
+  },
+  {
+   "matchId": "8639",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8639&clubId=40319",
+   "date": "2026-05-28",
+   "type": "League",
+   "teams": [
+    "AYCC Panthers Pros",
+    "ACA Giants"
+   ],
+   "teamIds": [
+    "3092",
+    "3088"
+   ],
+   "ground": "ACF - G5",
+   "result": "Abandoned.",
+   "summary": "AYCC Panthers Pros: 0/0(0)"
+  },
+  {
+   "matchId": "8638",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8638&clubId=40319",
+   "date": "2026-05-28",
+   "type": "League",
+   "teams": [
+    "NACA BLUE U15",
+    "Sixers Warriors"
+   ],
+   "teamIds": [
+    "3094",
+    "3090"
+   ],
+   "ground": "ACF - G1",
+   "result": "Abandoned.",
+   "summary": "NACA BLUE U15: 0/0(0)"
+  },
+  {
+   "matchId": "8218",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8218&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "NACA RED U11",
+    "ARSCA U11 All Star"
+   ],
+   "teamIds": [
+    "3067",
+    "3075"
+   ],
+   "ground": "Shakerag",
+   "result": "NACA RED U11 won by 7 Wickets",
+   "summary": "ARSCA U11 All Star: 194/6(30) NACA RED U11: 197/3(24.2)"
+  },
+  {
+   "matchId": "8216",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8216&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "TCA U11 Chiefs",
+    "Stride Tigers"
+   ],
+   "teamIds": [
+    "3073",
+    "3074"
+   ],
+   "ground": "Nashville",
+   "result": "TCA U11 Chiefs won by 7 Wickets",
+   "summary": "Stride Tigers: 99/10(24.3) TCA U11 Chiefs: 101/3(18.5)"
+  },
+  {
+   "matchId": "8210",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8210&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "ACA Stars"
+   ],
+   "teamIds": [
+    "3072",
+    "3071"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA Blue U11 won by 6 Wickets",
+   "summary": "ACA Stars: 182/9(30) NACA Blue U11: 183/4(18.2)"
+  },
+  {
+   "matchId": "8151",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8151&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "ACA Bears",
+    "ARSCA Blues"
+   ],
+   "teamIds": [
+    "3066",
+    "3069"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ACA Bears won by 8 Wickets",
+   "summary": "ARSCA Blues: 217/4(30) ACA Bears: 221/2(24.2)"
+  },
+  {
+   "matchId": "8182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8182&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Sixers Dynamites",
+    "ACA Giants"
+   ],
+   "teamIds": [
+    "3091",
+    "3088"
+   ],
+   "ground": "PARAM - G4",
+   "result": "ACA Giants won by 9 Wickets",
+   "summary": "Sixers Dynamites: 65/11(16.5) ACA Giants: 67/1(5.1)"
+  },
+  {
+   "matchId": "8181",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8181&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "ACA Aces",
+    "Sixers Warriors"
+   ],
+   "teamIds": [
+    "3089",
+    "3090"
+   ],
+   "ground": "PARAM - G3",
+   "result": "ACA Aces won by 50 Runs",
+   "summary": "ACA Aces: 282/6(40) Sixers Warriors: 232/8(40)"
+  },
+  {
+   "matchId": "8112",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8112&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "ACZ",
+    "ACA Warriors"
+   ],
+   "teamIds": [
+    "3086",
+    "3082"
+   ],
+   "ground": "ACF - G6",
+   "result": "ACA Warriors won by 184 Runs",
+   "summary": "ACA Warriors: 310/3(30) ACZ: 126/9(25.5)"
+  },
+  {
+   "matchId": "8107",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8107&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "ProPath Mavericks",
+    "Sixers Strikers U13"
+   ],
+   "teamIds": [
+    "3080",
+    "3078"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ProPath Mavericks won by 124 Runs",
+   "summary": "ProPath Mavericks: 233/8(30) Sixers Strikers U13: 109/10(21.4)"
+  },
+  {
+   "matchId": "8037",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8037&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "ARSCA U13 All Star",
+    "ProPath StormBreakers"
+   ],
+   "teamIds": [
+    "3085",
+    "3084"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ProPath StormBreakers won by 6 Wickets",
+   "summary": "ARSCA U13 All Star: 162/10(26.5) ProPath StormBreakers: 165/4(28.2)"
+  },
+  {
+   "matchId": "8025",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8025&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Stride Eagles",
+    "NACA BLUE U13"
+   ],
+   "teamIds": [
+    "3081",
+    "3077"
+   ],
+   "ground": "ACF - G6",
+   "result": "NACA BLUE U13 won by 69 Runs",
+   "summary": "NACA BLUE U13: 247/6(30) Stride Eagles: 178/5(30)"
+  },
+  {
+   "matchId": "8007",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8007&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "ARSCA U11 All Star",
+    "ARSCA Blues"
+   ],
+   "teamIds": [
+    "3075",
+    "3069"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ARSCA U11 All Star won by 75 Runs",
+   "summary": "ARSCA U11 All Star: 232/3(30) ARSCA Blues: 157/8(30)"
+  },
+  {
+   "matchId": "7987",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7987&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "Stride Tigers"
+   ],
+   "teamIds": [
+    "3072",
+    "3074"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA Blue U11 won by 67 Runs",
+   "summary": "NACA Blue U11: 276/3(30) Stride Tigers: 209/5(30)"
+  },
+  {
+   "matchId": "7986",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7986&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "NACA RED U11",
+    "ACA Stars"
+   ],
+   "teamIds": [
+    "3067",
+    "3071"
+   ],
+   "ground": "Shakerag",
+   "result": "NACA RED U11 won by 6 Wickets",
+   "summary": "ACA Stars: 202/11(29.2) NACA RED U11: 204/4(24.5)"
+  },
+  {
+   "matchId": "7976",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7976&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Sixers Royals U11",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "3068",
+    "3073"
+   ],
+   "ground": "Shakerag",
+   "result": "TCA U11 Chiefs won by 22 Runs",
+   "summary": "TCA U11 Chiefs: 178/9(30) Sixers Royals U11: 156/9(30)"
+  },
+  {
+   "matchId": "7942",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7942&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "Propath U11",
+    "ACA Bears"
+   ],
+   "teamIds": [
+    "3070",
+    "3066"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ACA Bears won by 156 Runs",
+   "summary": "ACA Bears: 223/9(30) Propath U11: 67/10(15.3)"
+  },
+  {
+   "matchId": "7969",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7969&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "NACA RED U15",
+    "AYCC Panthers Pros"
+   ],
+   "teamIds": [
+    "3093",
+    "3092"
+   ],
+   "ground": "PARAM - G1",
+   "result": "NACA RED U15 won by 162 Runs",
+   "summary": "NACA RED U15: 252/8(40) AYCC Panthers Pros: 90/9(21.4)"
+  },
+  {
+   "matchId": "7967",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7967&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "ACA Giants",
+    "Sixers Warriors"
+   ],
+   "teamIds": [
+    "3088",
+    "3090"
+   ],
+   "ground": "PARAM - G5",
+   "result": "Sixers Warriors won by 10 Runs",
+   "summary": "Sixers Warriors: 77/10(26.2) ACA Giants: 67/10(24.4)"
+  },
+  {
+   "matchId": "7910",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7910&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "ACA Stars",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "3071",
+    "3073"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "TCA U11 Chiefs won by 39 Runs",
+   "summary": "TCA U11 Chiefs: 158/8(30) ACA Stars: 119/11(17)"
+  },
+  {
+   "matchId": "7915",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7915&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "ACA Lions",
+    "ProPath StormBreakers"
+   ],
+   "teamIds": [
+    "3087",
+    "3084"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ProPath StormBreakers won by 6 Wickets",
+   "summary": "ACA Lions: 170/9(30) ProPath StormBreakers: 171/4(21.3)"
+  },
+  {
+   "matchId": "7907",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7907&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Stride Eagles",
+    "ProPath Mavericks"
+   ],
+   "teamIds": [
+    "3081",
+    "3080"
+   ],
+   "ground": "ACF - G6",
+   "result": "ProPath Mavericks won by 180 Runs",
+   "summary": "ProPath Mavericks: 258/3(30) Stride Eagles: 78/10(21.2)"
+  },
+  {
+   "matchId": "7896",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7896&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "TCA Hawks",
+    "NACA RED U13"
+   ],
+   "teamIds": [
+    "3079",
+    "3083"
+   ],
+   "ground": "Nashville",
+   "result": "NACA RED U13 won by 130 Runs",
+   "summary": "NACA RED U13: 275/7(30.1) TCA Hawks: 145/10(26.1)"
+  },
+  {
+   "matchId": "7848",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7848&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "ACA Tigers",
+    "Sixers Strikers U13"
+   ],
+   "teamIds": [
+    "3076",
+    "3078"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ACA Tigers won by 216 Runs",
+   "summary": "ACA Tigers: 347/3(30) Sixers Strikers U13: 131/7(30)"
+  },
+  {
+   "matchId": "7843",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7843&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "ARSCA U13 All Star",
+    "ACA Warriors"
+   ],
+   "teamIds": [
+    "3085",
+    "3082"
+   ],
+   "ground": "ACF - G6",
+   "result": "ARSCA U13 All Star won by 3 Wickets",
+   "summary": "ACA Warriors: 153/6(30) ARSCA U13 All Star: 154/7(29.5)"
+  },
+  {
+   "matchId": "7802",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7802&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Stride Tigers",
+    "ARSCA U11 All Star"
+   ],
+   "teamIds": [
+    "3074",
+    "3075"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ARSCA U11 All Star won by 190 Runs",
+   "summary": "ARSCA U11 All Star: 289/1(30) Stride Tigers: 99/10(27.5)"
+  },
+  {
+   "matchId": "7801",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7801&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "ACA Bears",
+    "NACA RED U11"
+   ],
+   "teamIds": [
+    "3066",
+    "3067"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA RED U11 won by 16 Runs",
+   "summary": "NACA RED U11: 239/2(30) ACA Bears: 223/9(30)"
+  },
+  {
+   "matchId": "7764",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7764&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "ARSCA Blues",
+    "Propath U11"
+   ],
+   "teamIds": [
+    "3069",
+    "3070"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "ARSCA Blues won by 6 Wickets",
+   "summary": "Propath U11: 91/11(14.3) ARSCA Blues: 92/4(12.3)"
+  },
+  {
+   "matchId": "7742",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7742&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "ACA Stars",
+    "Sixers Royals U11"
+   ],
+   "teamIds": [
+    "3071",
+    "3068"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Sixers Royals U11 won by 67 Runs",
+   "summary": "Sixers Royals U11: 188/4(30) ACA Stars: 121/10(20.1)"
+  },
+  {
+   "matchId": "7741",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7741&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "ACA Warriors",
+    "TCA Hawks"
+   ],
+   "teamIds": [
+    "3082",
+    "3079"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ACA Warriors won by 214 Runs",
+   "summary": "ACA Warriors: 322/3(30) TCA Hawks: 108/10(17.2)"
+  },
+  {
+   "matchId": "7770",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7770&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "NACA BLUE U15",
+    "AYCC Panthers Pros"
+   ],
+   "teamIds": [
+    "3094",
+    "3092"
+   ],
+   "ground": "PARAM - G6",
+   "result": "NACA BLUE U15 won by 192 Runs",
+   "summary": "NACA BLUE U15: 329/6(40) AYCC Panthers Pros: 137/10(27.1)"
+  },
+  {
+   "matchId": "7769",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7769&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "ACA Aces",
+    "Sixers Dynamites"
+   ],
+   "teamIds": [
+    "3089",
+    "3091"
+   ],
+   "ground": "PARAM - G1",
+   "result": "ACA Aces won by 299 Runs",
+   "summary": "ACA Aces: 377/3(40) Sixers Dynamites: 78/8(14.5)"
+  },
+  {
+   "matchId": "7706",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7706&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "ProPath Mavericks",
+    "ACA Tigers"
+   ],
+   "teamIds": [
+    "3080",
+    "3076"
+   ],
+   "ground": "ACF - G6",
+   "result": "ACA Tigers won by 36 Runs",
+   "summary": "ACA Tigers: 245/4(30) ProPath Mavericks: 209/6(30)"
+  },
+  {
+   "matchId": "7700",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7700&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "ACZ",
+    "TCA Hawks"
+   ],
+   "teamIds": [
+    "3086",
+    "3079"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "TCA Hawks won by 27 Runs",
+   "summary": "TCA Hawks: 276/6(30) ACZ: 249/9(28.3)"
+  },
+  {
+   "matchId": "7687",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7687&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NACA BLUE U13",
+    "Sixers Strikers U13"
+   ],
+   "teamIds": [
+    "3077",
+    "3078"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA BLUE U13 won by 8 Wickets",
+   "summary": "Sixers Strikers U13: 135/10(28.5) NACA BLUE U13: 137/2(20)"
+  },
+  {
+   "matchId": "7633",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7633&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "ARSCA U13 All Star",
+    "ACA Lions"
+   ],
+   "teamIds": [
+    "3085",
+    "3087"
+   ],
+   "ground": "ACF - G6",
+   "result": "ARSCA U13 All Star won by 9 Wickets",
+   "summary": "ACA Lions: 178/4(30) ARSCA U13 All Star: 181/1(28)"
+  },
+  {
+   "matchId": "7618",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7618&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NACA RED U13",
+    "ProPath StormBreakers"
+   ],
+   "teamIds": [
+    "3083",
+    "3084"
+   ],
+   "ground": "Cauley Creek",
+   "result": "NACA RED U13 won by 73 Runs",
+   "summary": "NACA RED U13: 234/6(30) ProPath StormBreakers: 161/8(30)"
+  },
+  {
+   "matchId": "7568",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7568&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "NACA Blue U11",
+    "ACA Bears"
+   ],
+   "teamIds": [
+    "3072",
+    "3066"
+   ],
+   "ground": "Cauley Creek",
+   "result": "ACA Bears won by 146 Runs",
+   "summary": "ACA Bears: 278/7(30) NACA Blue U11: 132/10(29.3)"
+  },
+  {
+   "matchId": "7527",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7527&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "ARSCA U11 All Star",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "3075",
+    "3073"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ARSCA U11 All Star won by 7 Wickets",
+   "summary": "TCA U11 Chiefs: 95/10(23.2) ARSCA U11 All Star: 96/3(10.5)"
+  },
+  {
+   "matchId": "7520",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7520&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "ARSCA Blues",
+    "NACA RED U11"
+   ],
+   "teamIds": [
+    "3069",
+    "3067"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA RED U11 won by 80 Runs",
+   "summary": "NACA RED U11: 280/4(30) ARSCA Blues: 200/8(30)"
+  },
+  {
+   "matchId": "7563",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7563&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "ACA Aces",
+    "NACA BLUE U15"
+   ],
+   "teamIds": [
+    "3089",
+    "3094"
+   ],
+   "ground": "PARAM - G4",
+   "result": "NACA BLUE U15 won by 7 Wickets",
+   "summary": "ACA Aces: 147/9(30.4) NACA BLUE U15: 148/3(23.5)"
+  },
+  {
+   "matchId": "7551",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7551&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "ACA Giants",
+    "NACA RED U15"
+   ],
+   "teamIds": [
+    "3088",
+    "3093"
+   ],
+   "ground": "PARAM - G3",
+   "result": "ACA Giants won by 20 Runs",
+   "summary": "ACA Giants: 231/9(40) NACA RED U15: 211/10(40)"
+  },
+  {
+   "matchId": "7498",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7498&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Propath U11",
+    "TCA U11 Chiefs"
+   ],
+   "teamIds": [
+    "3070",
+    "3073"
+   ],
+   "ground": "ACF - G6",
+   "result": "Propath U11 won by 116 Runs",
+   "summary": "Propath U11: 239/3(18) TCA U11 Chiefs: 123/10(16.5)"
+  },
+  {
+   "matchId": "7507",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7507&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "ACA Lions",
+    "NACA RED U13"
+   ],
+   "teamIds": [
+    "3087",
+    "3083"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA RED U13 won by 143 Runs",
+   "summary": "NACA RED U13: 298/4(30.1) ACA Lions: 155/10(26)"
+  },
+  {
+   "matchId": "7482",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7482&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "TCA Hawks",
+    "ARSCA U13 All Star"
+   ],
+   "teamIds": [
+    "3079",
+    "3085"
+   ],
+   "ground": "Nashville",
+   "result": "Abandoned.",
+   "summary": "TCA Hawks: 161/8(25) ARSCA U13 All Star: 39/0(4)"
+  },
+  {
+   "matchId": "7453",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7453&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "ACA Tigers",
+    "NACA BLUE U13"
+   ],
+   "teamIds": [
+    "3076",
+    "3077"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ACA Tigers won by 34 Runs",
+   "summary": "ACA Tigers: 215/6(30) NACA BLUE U13: 181/3(30)"
+  },
+  {
+   "matchId": "7451",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7451&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Sixers Strikers U13",
+    "Stride Eagles"
+   ],
+   "teamIds": [
+    "3078",
+    "3081"
+   ],
+   "ground": "ACF - G6",
+   "result": "Winner: Stride Eagles",
+   "summary": "Sixers Strikers U13: 207/10(30) Stride Eagles: 161/2(22.3)"
+  },
+  {
+   "matchId": "7407",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7407&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "ARSCA U11 All Star",
+    "NACA Blue U11"
+   ],
+   "teamIds": [
+    "3075",
+    "3072"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "ARSCA U11 All Star won by 10 Wickets",
+   "summary": "NACA Blue U11: 77/9(16.5) ARSCA U11 All Star: 78/0(5.1)"
+  },
+  {
+   "matchId": "7391",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7391&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "NACA RED U11",
+    "Propath U11"
+   ],
+   "teamIds": [
+    "3067",
+    "3070"
+   ],
+   "ground": "Cauley Creek",
+   "result": "Propath U11 won by 10 Wickets",
+   "summary": "NACA RED U11: 208/9(30) Propath U11: 210/0(18)"
+  },
+  {
+   "matchId": "7364",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7364&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Stride Tigers",
+    "Sixers Royals U11"
+   ],
+   "teamIds": [
+    "3074",
+    "3068"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "Sixers Royals U11 won by 152 Runs",
+   "summary": "Sixers Royals U11: 242/4(29.3) Stride Tigers: 90/10(20.5)"
+  },
+  {
+   "matchId": "7384",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7384&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Sixers Warriors",
+    "AYCC Panthers Pros"
+   ],
+   "teamIds": [
+    "3090",
+    "3092"
+   ],
+   "ground": "PARAM - G1",
+   "result": "Sixers Warriors won by 104 Runs",
+   "summary": "Sixers Warriors: 271/3(40) AYCC Panthers Pros: 167/8(37)"
+  },
+  {
+   "matchId": "7377",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7377&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "ACA Aces",
+    "NACA RED U15"
+   ],
+   "teamIds": [
+    "3089",
+    "3093"
+   ],
+   "ground": "PARAM - G5",
+   "result": "NACA RED U15 won by 144 Runs",
+   "summary": "NACA RED U15: 235/4(40) ACA Aces: 91/9(22.3)"
+  },
+  {
+   "matchId": "7337",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7337&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "ProPath Mavericks",
+    "NACA BLUE U13"
+   ],
+   "teamIds": [
+    "3080",
+    "3077"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "ProPath Mavericks won by 128 Runs",
+   "summary": "ProPath Mavericks: 206/4(30.1) NACA BLUE U13: 78/10(17.1)"
+  },
+  {
+   "matchId": "7294",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7294&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "NACA RED U13",
+    "ARSCA U13 All Star"
+   ],
+   "teamIds": [
+    "3083",
+    "3085"
+   ],
+   "ground": "Cauley Creek",
+   "result": "ARSCA U13 All Star won by 8 Wickets",
+   "summary": "NACA RED U13: 124/10(29) ARSCA U13 All Star: 128/2(22.5)"
+  }
+ ]
+}

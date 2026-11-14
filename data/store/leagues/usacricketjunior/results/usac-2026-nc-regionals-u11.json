@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s9",
+  "id": "legacy-597",
+  "name": "USAC 2026 NC Regionals U11"
+ },
+ "fetchedAt": "2026-11-13T21:39:54.429Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=597&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=597&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9356",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9356&clubId=40319",
+   "date": "2026-08-23",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Red"
+   ],
+   "teamIds": [
+    "3492",
+    "3493"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Blue won by 39 Runs",
+   "summary": "Blue: 154/10(30) Red: 115/10(28.3)"
+  },
+  {
+   "matchId": "9352",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9352&clubId=40319",
+   "date": "2026-08-22",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "3493",
+    "3492"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Blue won by 19 Runs",
+   "summary": "Blue: 154/7(30.3) Red: 135/11(30)"
+  },
+  {
+   "matchId": "9241",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9241&clubId=40319",
+   "date": "2026-07-26",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "3493",
+    "3492"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Red won by 12 Runs",
+   "summary": "Red: 174/4(30) Blue: 162/8(30)"
+  }
+ ]
+}

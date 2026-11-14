@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s263",
+  "id": "legacy-195",
+  "name": "USAC Junior 2024 - NC Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:44:23.771Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=195&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=195&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3751",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3751&clubId=40319",
+   "date": "2024-07-21",
+   "type": "Final",
+   "teams": [
+    "NC Victorians U15",
+    "NC Centennials U15"
+   ],
+   "teamIds": [
+    "1173",
+    "1167"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Centennials U15 won by 37 Runs",
+   "summary": "NC Centennials U15: 203/5(40) NC Victorians U15: 166/10(38.1)"
+  },
+  {
+   "matchId": "3675",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3675&clubId=40319",
+   "date": "2024-07-14",
+   "type": "League",
+   "teams": [
+    "NC Victorians U15",
+    "NC Centennials U15"
+   ],
+   "teamIds": [
+    "1173",
+    "1167"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Centennials U15 won by 9 Wickets",
+   "summary": "NC Victorians U15: 153/11(35.3) NC Centennials U15: 154/1(18.1)"
+  },
+  {
+   "matchId": "3616",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3616&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "NC Centennials U15",
+    "NC Victorians U15"
+   ],
+   "teamIds": [
+    "1167",
+    "1173"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Centennials U15 won by 10 Wickets",
+   "summary": "NC Victorians U15: 161/10(29.4) NC Centennials U15: 162/0(19.4)"
+  },
+  {
+   "matchId": "3544",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3544&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "NC Traffords U15",
+    "NC Ovals U15"
+   ],
+   "teamIds": [
+    "1172",
+    "1168"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Ovals U15 won by 7 Wickets",
+   "summary": "NC Traffords U15: 194/8(40) NC Ovals U15: 195/3(26.3)"
+  },
+  {
+   "matchId": "3441",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3441&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "NC Traffords U15",
+    "NC Centennials U15"
+   ],
+   "teamIds": [
+    "1172",
+    "1167"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "NC Traffords U15 won by 59 Runs",
+   "summary": "NC Traffords U15: 210/10(39.5) NC Centennials U15: 151/10(28.3)"
+  },
+  {
+   "matchId": "3297",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3297&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "NC Victorians U15",
+    "NC Traffords U15"
+   ],
+   "teamIds": [
+    "1173",
+    "1172"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "NC Traffords U15 won by 163 Runs",
+   "summary": "NC Traffords U15: 252/9(40) NC Victorians U15: 89/9(20.3)"
+  },
+  {
+   "matchId": "3296",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3296&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "NC Ovals U15",
+    "NC Centennials U15"
+   ],
+   "teamIds": [
+    "1168",
+    "1167"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Ovals U15 won by 4 Runs",
+   "summary": "NC Ovals U15: 223/8(40) NC Centennials U15: 219/8(40)"
+  },
+  {
+   "matchId": "3195",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3195&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "NC Ovals U15",
+    "NC Victorians U15"
+   ],
+   "teamIds": [
+    "1168",
+    "1173"
+   ],
+   "ground": "NC Hub - Weston Park",
+   "result": "NC Ovals U15 won by 78 Runs",
+   "summary": "NC Ovals U15: 209/3(35) NC Victorians U15: 131/10(32.3)"
+  },
+  {
+   "matchId": "3113",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3113&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "NC Traffords U15",
+    "NC Ovals U15"
+   ],
+   "teamIds": [
+    "1172",
+    "1168"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Traffords U15 won by 66 Runs",
+   "summary": "NC Traffords U15: 233/7(40) NC Ovals U15: 167/10(33.5)"
+  },
+  {
+   "matchId": "2943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2943&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "NC Ovals U15",
+    "NC Victorians U15"
+   ],
+   "teamIds": [
+    "1168",
+    "1173"
+   ],
+   "ground": "NC Hub - Piney Grove",
+   "result": "NC Ovals U15 won by 163 Runs",
+   "summary": "NC Ovals U15: 265/9(41.1) NC Victorians U15: 102/10(28.1)"
+  },
+  {
+   "matchId": "2920",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2920&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "NC Traffords U15",
+    "NC Centennials U15"
+   ],
+   "teamIds": [
+    "1172",
+    "1167"
+   ],
+   "ground": "NC Hub - Shiloh Cricket Ground",
+   "result": "NC Centennials U15 won by 7 Wickets",
+   "summary": "NC Traffords U15: 190/8(40) NC Centennials U15: 191/3(29.3)"
+  }
+ ]
+}

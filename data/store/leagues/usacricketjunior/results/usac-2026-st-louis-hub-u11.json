@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s88",
+  "id": "legacy-489",
+  "name": "USAC 2026 St. Louis Hub U11"
+ },
+ "fetchedAt": "2026-11-13T21:47:34.891Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=489&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=489&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8015",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8015&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers",
+    "Kansas U11"
+   ],
+   "teamIds": [
+    "2886",
+    "2887"
+   ],
+   "ground": "Heritage Park",
+   "result": "ACAC Crushers won by 6 Wickets",
+   "summary": "Kansas U11: 50/6(11.5) ACAC Crushers: 51/4(10.2)"
+  },
+  {
+   "matchId": "7958",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7958&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers",
+    "Kansas U11"
+   ],
+   "teamIds": [
+    "2886",
+    "2887"
+   ],
+   "ground": "Heritage Park",
+   "result": "Kansas U11 won by 3 Wickets",
+   "summary": "ACAC Crushers: 156/5(29.3) Kansas U11: 157/7(28.5)"
+  },
+  {
+   "matchId": "7925",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7925&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers",
+    "Kansas U11"
+   ],
+   "teamIds": [
+    "2886",
+    "2887"
+   ],
+   "ground": "Heritage Park",
+   "result": "Kansas U11 won by 4 Wickets",
+   "summary": "ACAC Crushers: 114/8(24.5) Kansas U11: 115/6(22.4)"
+  },
+  {
+   "matchId": "7874",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7874&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers",
+    "Kansas U11"
+   ],
+   "teamIds": [
+    "2886",
+    "2887"
+   ],
+   "ground": "Heritage Park",
+   "result": "Kansas U11 won by 9 Wickets",
+   "summary": "ACAC Crushers: 101/9(30) Kansas U11: 102/1(15)"
+  },
+  {
+   "matchId": "7583",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7583&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers",
+    "Kansas U11"
+   ],
+   "teamIds": [
+    "2886",
+    "2887"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Crushers won by 123 Runs",
+   "summary": "ACAC Crushers: 223/2(29.3) Kansas U11: 100/10(23.4)"
+  },
+  {
+   "matchId": "7538",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7538&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers",
+    "Kansas U11"
+   ],
+   "teamIds": [
+    "2886",
+    "2887"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Crushers won by 5 Wickets",
+   "summary": "Kansas U11: 61/10(15.5) ACAC Crushers: 62/5(15.4)"
+  },
+  {
+   "matchId": "7481",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7481&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "ACAC Crushers",
+    "Kansas U11"
+   ],
+   "teamIds": [
+    "2886",
+    "2887"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Crushers won by 76 Runs",
+   "summary": "ACAC Crushers: 210/5(28.2) Kansas U11: 134/7(29.4)"
+  }
+ ]
+}

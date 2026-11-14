@@ -1,0 +1,371 @@
+{
+ "season": {
+  "key": "s202",
+  "id": "legacy-290",
+  "name": "2025 USAC SoCalAZ - Hub - U13"
+ },
+ "fetchedAt": "2026-11-13T22:26:08.426Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=290&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=290&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4963",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4963&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "SDCCYA BLUE",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "1768",
+    "1766"
+   ],
+   "ground": "Cypress Community Park",
+   "result": "SDCCYA BLUE won by 4 Runs",
+   "summary": "SDCCYA BLUE: 162/1(22) SCYCA: 158/6(24.5)"
+  },
+  {
+   "matchId": "5275",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5275&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "WYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1767",
+    "1770"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "WYCA-SCCAY won by 2 Runs (D/L)",
+   "summary": "SCVCA: 146/5(25) WYCA-SCCAY: 180/7(25)"
+  },
+  {
+   "matchId": "5215",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5215&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "1767",
+    "1766"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "SCYCA: 194/10 (25/25 ov) SCVCA: 122/8 (19.3/25 ov)",
+   "summary": "SCYCA: 194/10(25) SCVCA: 122/8(19.3) Live"
+  },
+  {
+   "matchId": "5160",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5160&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "SDCCYA GREEN"
+   ],
+   "teamIds": [
+    "1766",
+    "1769"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA GREEN won by 3 Runs",
+   "summary": "SDCCYA GREEN: 141/4(25) SCYCA: 138/6(22.2)"
+  },
+  {
+   "matchId": "5119",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5119&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "ANYCA",
+    "SDCCYA BLUE"
+   ],
+   "teamIds": [
+    "1765",
+    "1768"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SDCCYA BLUE won by 4 Wickets",
+   "summary": "ANYCA: 76/9(25) SDCCYA BLUE: 77/6(21.5)"
+  },
+  {
+   "matchId": "5117",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5117&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "SKA-AZYCA"
+   ],
+   "teamIds": [
+    "1766",
+    "1771"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SCYCA won by 3 Wickets",
+   "summary": "SKA-AZYCA: 113/10(22.5) SCYCA: 114/7(23.2)"
+  },
+  {
+   "matchId": "5075",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5075&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "SDCCYA BLUE",
+    "SKA-AZYCA"
+   ],
+   "teamIds": [
+    "1768",
+    "1771"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SDCCYA BLUE won by 6 Wickets",
+   "summary": "SKA-AZYCA: 74/9(25) SDCCYA BLUE: 77/4(23.5)"
+  },
+  {
+   "matchId": "5074",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5074&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "SDCCYA GREEN",
+    "ANYCA"
+   ],
+   "teamIds": [
+    "1769",
+    "1765"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA GREEN won by 44 Runs",
+   "summary": "SDCCYA GREEN: 147/9(24) ANYCA: 103/10(22)"
+  },
+  {
+   "matchId": "5015",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5015&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "SDCCYA GREEN",
+    "SDCCYA BLUE"
+   ],
+   "teamIds": [
+    "1769",
+    "1768"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA BLUE won by 2 Wickets",
+   "summary": "SDCCYA GREEN: 101/12(24.2) SDCCYA BLUE: 108/8(21.5)"
+  },
+  {
+   "matchId": "4948",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4948&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "SKA-AZYCA",
+    "SDCCYA GREEN"
+   ],
+   "teamIds": [
+    "1771",
+    "1769"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA GREEN won by 66 Runs",
+   "summary": "SDCCYA GREEN: 164/6(22) SKA-AZYCA: 98/9(20.5)"
+  },
+  {
+   "matchId": "4947",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4947&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "ANYCA"
+   ],
+   "teamIds": [
+    "1766",
+    "1765"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "It is a Tie",
+   "summary": "ANYCA: 59/12(17.4) SCYCA: 59/6(21.4)"
+  },
+  {
+   "matchId": "4909",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4909&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "ANYCA",
+    "WYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1765",
+    "1770"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "WYCA-SCCAY won by 45 Runs",
+   "summary": "WYCA-SCCAY: 182/4(24) ANYCA: 137/8(24)"
+  },
+  {
+   "matchId": "4863",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4863&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "WYCA-SCCAY",
+    "SKA-AZYCA"
+   ],
+   "teamIds": [
+    "1770",
+    "1771"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SKA-AZYCA: 90/10 (22.5/25 ov) WYCA-SCCAY: 126/6 (24/25 ov) (D/L)",
+   "summary": "SKA-AZYCA: 90/10(22.5) WYCA-SCCAY: 126/6(24) Live"
+  },
+  {
+   "matchId": "4628",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4628&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "SDCCYA GREEN",
+    "WYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1769",
+    "1770"
+   ],
+   "ground": "Canyonside Park",
+   "result": "WYCA-SCCAY won by 39 Runs",
+   "summary": "WYCA-SCCAY: 176/6(25) SDCCYA GREEN: 137/9(22.2)"
+  },
+  {
+   "matchId": "4604",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4604&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "WYCA-SCCAY",
+    "SDCCYA BLUE"
+   ],
+   "teamIds": [
+    "1770",
+    "1768"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA BLUE won by 7 Wickets",
+   "summary": "WYCA-SCCAY: 116/4(25) SDCCYA BLUE: 120/3(24.5)"
+  },
+  {
+   "matchId": "4591",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4591&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "SDCCYA GREEN"
+   ],
+   "teamIds": [
+    "1767",
+    "1769"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SDCCYA GREEN won by 6 Runs",
+   "summary": "SDCCYA GREEN: 121/6(21.1) SCVCA: 115/8(21)"
+  },
+  {
+   "matchId": "4570",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4570&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "SDCCYA BLUE",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1768",
+    "1767"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SDCCYA BLUE won by 75 Runs",
+   "summary": "SDCCYA BLUE: 206/6(25) SCVCA: 131/6(25)"
+  },
+  {
+   "matchId": "4516",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4516&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "SKA-AZYCA",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1771",
+    "1767"
+   ],
+   "ground": "Turtle Rock 2",
+   "result": "SCVCA won by 2 Runs (D/L)",
+   "summary": "SKA-AZYCA: 142/9(25) SCVCA: 184/5(25)"
+  },
+  {
+   "matchId": "4490",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4490&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "ANYCA",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1765",
+    "1767"
+   ],
+   "ground": "Turtle Rock 2",
+   "result": "SCVCA won by 1 Run (D/L)",
+   "summary": "ANYCA: 131/9(19.5) SCVCA: 137/3(20)"
+  },
+  {
+   "matchId": "4474",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4474&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "WYCA-SCCAY",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "1770",
+    "1766"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "SCYCA won by 2 Runs",
+   "summary": "SCYCA: 167/4(25) WYCA-SCCAY: 165/9(25)"
+  },
+  {
+   "matchId": "4402",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4402&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "SKA-AZYCA",
+    "ANYCA"
+   ],
+   "teamIds": [
+    "1771",
+    "1765"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "SKA-AZYCA won by 4 Runs",
+   "summary": "SKA-AZYCA: 110/10(23) ANYCA: 106/7(25)"
+  }
+ ]
+}

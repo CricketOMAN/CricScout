@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s33",
+  "id": "legacy-560",
+  "name": "Midwest Interhub U15"
+ },
+ "fetchedAt": "2026-11-13T21:40:54.244Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=560&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=560&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8857",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8857&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "STL+KS HUB U15",
+    "MN+IA HUB U15"
+   ],
+   "teamIds": [
+    "3309",
+    "3310"
+   ],
+   "ground": "TBD",
+   "result": "MN+IA HUB U15 won by 41 Runs",
+   "summary": "MN+IA HUB U15: 217/7(40) STL+KS HUB U15: 176/7(40)"
+  },
+  {
+   "matchId": "8850",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8850&clubId=40319",
+   "date": "2026-06-23",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U15",
+    "STL+KS HUB U15"
+   ],
+   "teamIds": [
+    "3307",
+    "3309"
+   ],
+   "ground": "TBD",
+   "result": "STL+KS HUB U15 won by 22 Runs",
+   "summary": "STL+KS HUB U15: 140/10(38.4) ILLINOIS HUB 1 U15: 118/10(24.4)"
+  },
+  {
+   "matchId": "8849",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8849&clubId=40319",
+   "date": "2026-06-23",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 2 U15",
+    "MN+IA HUB U15"
+   ],
+   "teamIds": [
+    "3308",
+    "3310"
+   ],
+   "ground": "TBD",
+   "result": "MN+IA HUB U15 won by 7 Wickets",
+   "summary": "ILLINOIS HUB 2 U15: 95/10(23.2) MN+IA HUB U15: 96/3(21.5)"
+  },
+  {
+   "matchId": "8843",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8843&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U15",
+    "MN+IA HUB U15"
+   ],
+   "teamIds": [
+    "3307",
+    "3310"
+   ],
+   "ground": "TBD",
+   "result": "MN+IA HUB U15 won by 11 Runs",
+   "summary": "MN+IA HUB U15: 181/10(36.5) ILLINOIS HUB 1 U15: 170/10(38.5)"
+  },
+  {
+   "matchId": "8842",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8842&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 2 U15",
+    "STL+KS HUB U15"
+   ],
+   "teamIds": [
+    "3308",
+    "3309"
+   ],
+   "ground": "TBD",
+   "result": "ILLINOIS HUB 2 U15 won by 99 Runs",
+   "summary": "ILLINOIS HUB 2 U15: 204/5(40) STL+KS HUB U15: 105/11(31.4)"
+  },
+  {
+   "matchId": "8775",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8775&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U15",
+    "ILLINOIS HUB 2 U15"
+   ],
+   "teamIds": [
+    "3307",
+    "3308"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "ILLINOIS HUB 1 U15 won by 8 Wickets",
+   "summary": "ILLINOIS HUB 2 U15: 146/6(40) ILLINOIS HUB 1 U15: 147/2(33.4)"
+  }
+ ]
+}

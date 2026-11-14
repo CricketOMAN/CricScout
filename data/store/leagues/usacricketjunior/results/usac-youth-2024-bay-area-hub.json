@@ -1,0 +1,3091 @@
+{
+ "season": {
+  "key": "s274",
+  "id": "legacy-140",
+  "name": "USAC Youth 2024 - Bay Area Hub"
+ },
+ "fetchedAt": "2026-11-13T22:54:43.836Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=140&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=140&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4216",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4216&clubId=40319",
+   "date": "2024-11-09",
+   "type": "League",
+   "teams": [
+    "USCA ISLANDERS",
+    "BCA EAGLES"
+   ],
+   "teamIds": [
+    "1490",
+    "1486"
+   ],
+   "ground": "Dilworth",
+   "result": "USCA ISLANDERS won by 5 Wickets",
+   "summary": "BCA EAGLES: 96/9(25) USCA ISLANDERS: 98/5(22.5)"
+  },
+  {
+   "matchId": "4215",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4215&clubId=40319",
+   "date": "2024-11-09",
+   "type": "League",
+   "teams": [
+    "CCA PANTHERS",
+    "INDUS U11 YODHAS"
+   ],
+   "teamIds": [
+    "1487",
+    "1489"
+   ],
+   "ground": "Cupertino Library",
+   "result": "INDUS U11 YODHAS won by 46 Runs",
+   "summary": "INDUS U11 YODHAS: 152/5(25) CCA PANTHERS: 106/10(19.5)"
+  },
+  {
+   "matchId": "4192",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4192&clubId=40319",
+   "date": "2024-10-26",
+   "type": "Eliminator",
+   "teams": [
+    "CCA CARDINALS",
+    "SRCA SUPERKINGS"
+   ],
+   "teamIds": [
+    "1473",
+    "1477"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA CARDINALS won by 5 Wickets",
+   "summary": "SRCA SUPERKINGS: 132/3(25) CCA CARDINALS: 133/5(23.1)"
+  },
+  {
+   "matchId": "4188",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4188&clubId=40319",
+   "date": "2024-10-26",
+   "type": "Eliminator",
+   "teams": [
+    "CCA CHALLENGERS",
+    "VKCA VOLCANOS"
+   ],
+   "teamIds": [
+    "1474",
+    "1479"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA CHALLENGERS won by 50 Runs",
+   "summary": "CCA CHALLENGERS: 155/6(25) VKCA VOLCANOS: 105/10(20)"
+  },
+  {
+   "matchId": "4187",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4187&clubId=40319",
+   "date": "2024-10-26",
+   "type": "3rd Position",
+   "teams": [
+    "BCA HAWKS",
+    "DSCA TIGERS"
+   ],
+   "teamIds": [
+    "1471",
+    "1476"
+   ],
+   "ground": "Northgate",
+   "result": "BCA HAWKS won by 3 Wickets",
+   "summary": "DSCA TIGERS: 70/10(19.3) BCA HAWKS: 71/7(20.2)"
+  },
+  {
+   "matchId": "4185",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4185&clubId=40319",
+   "date": "2024-10-26",
+   "type": "Final",
+   "teams": [
+    "SRCA WARRIORS",
+    "CCA TORNADOES"
+   ],
+   "teamIds": [
+    "1478",
+    "1475"
+   ],
+   "ground": "WRMS",
+   "result": "CCA TORNADOES won by 59 Runs",
+   "summary": "CCA TORNADOES: 204/5(25) SRCA WARRIORS: 145/10(23)"
+  },
+  {
+   "matchId": "4191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4191&clubId=40319",
+   "date": "2024-10-26",
+   "type": "3rd Position",
+   "teams": [
+    "CCA SAMURAIS",
+    "DCL CAPITALS"
+   ],
+   "teamIds": [
+    "1481",
+    "1482"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA SAMURAIS won by 41 Runs",
+   "summary": "CCA SAMURAIS: 139/5(25) DCL CAPITALS: 98/10(24.2)"
+  },
+  {
+   "matchId": "4186",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4186&clubId=40319",
+   "date": "2024-10-26",
+   "type": "Final",
+   "teams": [
+    "BCA FALCONS",
+    "STRIKERS SCORCHERS"
+   ],
+   "teamIds": [
+    "1480",
+    "1484"
+   ],
+   "ground": "Challenger",
+   "result": "STRIKERS SCORCHERS won by 3 Wickets",
+   "summary": "BCA FALCONS: 97/10(21.4) STRIKERS SCORCHERS: 98/7(24.5)"
+  },
+  {
+   "matchId": "4184",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4184&clubId=40319",
+   "date": "2024-10-26",
+   "type": "Eliminator",
+   "teams": [
+    "DSCA HAWKS",
+    "VKCA DYNAMOS"
+   ],
+   "teamIds": [
+    "1483",
+    "1485"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA HAWKS won by 4 Wickets",
+   "summary": "VKCA DYNAMOS: 75/10(23.3) DSCA HAWKS: 76/6(23.1)"
+  },
+  {
+   "matchId": "4189",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4189&clubId=40319",
+   "date": "2024-10-26",
+   "type": "League",
+   "teams": [
+    "CFC ROYALS",
+    "USCA ISLANDERS"
+   ],
+   "teamIds": [
+    "1488",
+    "1490"
+   ],
+   "ground": "Alisal",
+   "result": "USCA ISLANDERS won by 7 Wickets",
+   "summary": "CFC ROYALS: 49/10(18) USCA ISLANDERS: 50/3(14.1)"
+  },
+  {
+   "matchId": "4183",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4183&clubId=40319",
+   "date": "2024-10-26",
+   "type": "League",
+   "teams": [
+    "INDUS U11 YODHAS",
+    "BCA EAGLES"
+   ],
+   "teamIds": [
+    "1489",
+    "1486"
+   ],
+   "ground": "Rancho 1",
+   "result": "INDUS U11 YODHAS won by 195 Runs",
+   "summary": "INDUS U11 YODHAS: 295/1(25) BCA EAGLES: 100/9(25)"
+  },
+  {
+   "matchId": "4172",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4172&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "CCA TORNADOES",
+    "SRCA SUPERKINGS"
+   ],
+   "teamIds": [
+    "1475",
+    "1477"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA TORNADOES won by 8 Wickets",
+   "summary": "SRCA SUPERKINGS: 103/10(24) CCA TORNADOES: 104/2(12.1)"
+  },
+  {
+   "matchId": "4170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4170&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "SRCA WARRIORS",
+    "CCA CARDINALS"
+   ],
+   "teamIds": [
+    "1478",
+    "1473"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA WARRIORS won by 88 Runs",
+   "summary": "SRCA WARRIORS: 155/6(25) CCA CARDINALS: 67/10(18.5)"
+  },
+  {
+   "matchId": "4167",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4167&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "DSCA TIGERS",
+    "CCA CHALLENGERS"
+   ],
+   "teamIds": [
+    "1476",
+    "1474"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA TIGERS won by 5 Runs",
+   "summary": "DSCA TIGERS: 99/6(25) CCA CHALLENGERS: 94/7(25)"
+  },
+  {
+   "matchId": "4166",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4166&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "VKCA VOLCANOS",
+    "BCA HAWKS"
+   ],
+   "teamIds": [
+    "1479",
+    "1471"
+   ],
+   "ground": "Northgate",
+   "result": "BCA HAWKS won by 37 Runs",
+   "summary": "BCA HAWKS: 123/7(25) VKCA VOLCANOS: 86/10(21.2)"
+  },
+  {
+   "matchId": "4171",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4171&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "CCA SAMURAIS",
+    "BCA FALCONS"
+   ],
+   "teamIds": [
+    "1481",
+    "1480"
+   ],
+   "ground": "Cupertino Library",
+   "result": "BCA FALCONS won by 6 Runs",
+   "summary": "BCA FALCONS: 94/10(20) CCA SAMURAIS: 88/10(24.3)"
+  },
+  {
+   "matchId": "4169",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4169&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "STRIKERS SCORCHERS",
+    "VKCA DYNAMOS"
+   ],
+   "teamIds": [
+    "1484",
+    "1485"
+   ],
+   "ground": "Eastin",
+   "result": "STRIKERS SCORCHERS won by 7 Wickets",
+   "summary": "VKCA DYNAMOS: 82/10(19.2) STRIKERS SCORCHERS: 83/3(12.3)"
+  },
+  {
+   "matchId": "4168",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4168&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "DCL CAPITALS",
+    "DSCA HAWKS"
+   ],
+   "teamIds": [
+    "1482",
+    "1483"
+   ],
+   "ground": "Alisal",
+   "result": "DCL CAPITALS won by 36 Runs",
+   "summary": "DCL CAPITALS: 71/10(24.2) DSCA HAWKS: 35/10(12.1)"
+  },
+  {
+   "matchId": "4173",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4173&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "USCA ISLANDERS",
+    "CCA PANTHERS"
+   ],
+   "teamIds": [
+    "1490",
+    "1487"
+   ],
+   "ground": "Dilworth",
+   "result": "It is a Tie",
+   "summary": "USCA ISLANDERS: 92/5(25) CCA PANTHERS: 92/9(25)"
+  },
+  {
+   "matchId": "4165",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4165&clubId=40319",
+   "date": "2024-10-19",
+   "type": "League",
+   "teams": [
+    "BCA EAGLES",
+    "CFC ROYALS"
+   ],
+   "teamIds": [
+    "1486",
+    "1488"
+   ],
+   "ground": "Challenger",
+   "result": "BCA EAGLES won by 6 Wickets",
+   "summary": "CFC ROYALS: 116/6(25) BCA EAGLES: 117/4(20.1)"
+  },
+  {
+   "matchId": "4149",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4149&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "CCA CHALLENGERS",
+    "CCA CARDINALS"
+   ],
+   "teamIds": [
+    "1474",
+    "1473"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "CCA CHALLENGERS won by 8 Wickets",
+   "summary": "CCA CARDINALS: 97/9(25) CCA CHALLENGERS: 101/2(12.5)"
+  },
+  {
+   "matchId": "4143",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4143&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "VKCA VOLCANOS",
+    "CCA TORNADOES"
+   ],
+   "teamIds": [
+    "1479",
+    "1475"
+   ],
+   "ground": "Northgate",
+   "result": "CCA TORNADOES won by 40 Runs",
+   "summary": "CCA TORNADOES: 158/4(25) VKCA VOLCANOS: 118/10(23.4)"
+  },
+  {
+   "matchId": "4142",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4142&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "DSCA TIGERS",
+    "SRCA WARRIORS"
+   ],
+   "teamIds": [
+    "1476",
+    "1478"
+   ],
+   "ground": "Nielsen",
+   "result": "SRCA WARRIORS won by 24 Runs",
+   "summary": "SRCA WARRIORS: 115/8(25) DSCA TIGERS: 91/10(19.3)"
+  },
+  {
+   "matchId": "4141",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4141&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "SRCA SUPERKINGS",
+    "BCA HAWKS"
+   ],
+   "teamIds": [
+    "1477",
+    "1471"
+   ],
+   "ground": "WRMS",
+   "result": "BCA HAWKS won by 47 Runs",
+   "summary": "BCA HAWKS: 148/6(25) SRCA SUPERKINGS: 101/9(24.4)"
+  },
+  {
+   "matchId": "4145",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4145&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "STRIKERS SCORCHERS",
+    "DSCA HAWKS"
+   ],
+   "teamIds": [
+    "1484",
+    "1483"
+   ],
+   "ground": "Eastin",
+   "result": "STRIKERS SCORCHERS won by 7 Wickets",
+   "summary": "DSCA HAWKS: 90/9(25) STRIKERS SCORCHERS: 91/3(19.3)"
+  },
+  {
+   "matchId": "4144",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4144&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "BCA FALCONS",
+    "VKCA DYNAMOS"
+   ],
+   "teamIds": [
+    "1480",
+    "1485"
+   ],
+   "ground": "Challenger",
+   "result": "BCA FALCONS won by 125 Runs",
+   "summary": "BCA FALCONS: 151/6(25) VKCA DYNAMOS: 26/10(13.1)"
+  },
+  {
+   "matchId": "4140",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4140&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "DCL CAPITALS",
+    "CCA SAMURAIS"
+   ],
+   "teamIds": [
+    "1482",
+    "1481"
+   ],
+   "ground": "Alisal",
+   "result": "CCA SAMURAIS won by 29 Runs",
+   "summary": "CCA SAMURAIS: 60/10(21.2) DCL CAPITALS: 31/10(17.5)"
+  },
+  {
+   "matchId": "4150",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4150&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "INDUS U11 YODHAS",
+    "USCA ISLANDERS"
+   ],
+   "teamIds": [
+    "1489",
+    "1490"
+   ],
+   "ground": "Rancho 1",
+   "result": "INDUS U11 YODHAS won by 117 Runs",
+   "summary": "INDUS U11 YODHAS: 205/5(25) USCA ISLANDERS: 88/10(22.4)"
+  },
+  {
+   "matchId": "4148",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4148&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "CCA PANTHERS",
+    "CFC ROYALS"
+   ],
+   "teamIds": [
+    "1487",
+    "1488"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA PANTHERS won by 59 Runs",
+   "summary": "CCA PANTHERS: 130/6(25) CFC ROYALS: 71/10(22)"
+  },
+  {
+   "matchId": "4131",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4131&clubId=40319",
+   "date": "2024-10-06",
+   "type": "League",
+   "teams": [
+    "BCA HAWKS",
+    "CCA TORNADOES"
+   ],
+   "teamIds": [
+    "1471",
+    "1475"
+   ],
+   "ground": "FCP",
+   "result": "CCA TORNADOES won by 73 Runs",
+   "summary": "CCA TORNADOES: 174/7(25) BCA HAWKS: 101/10(21.1)"
+  },
+  {
+   "matchId": "4123",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4123&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "CCA CHALLENGERS",
+    "SRCA WARRIORS"
+   ],
+   "teamIds": [
+    "1474",
+    "1478"
+   ],
+   "ground": "Chaat Bhavan",
+   "result": "SRCA WARRIORS won by 5 Wickets",
+   "summary": "CCA CHALLENGERS: 134/7(25) SRCA WARRIORS: 135/5(23.3)"
+  },
+  {
+   "matchId": "4122",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4122&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "CCA CARDINALS",
+    "DSCA TIGERS"
+   ],
+   "teamIds": [
+    "1473",
+    "1476"
+   ],
+   "ground": "Dilworth",
+   "result": "DSCA TIGERS won by 115 Runs",
+   "summary": "DSCA TIGERS: 235/5(25) CCA CARDINALS: 120/7(25)"
+  },
+  {
+   "matchId": "4117",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4117&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "SRCA SUPERKINGS",
+    "VKCA VOLCANOS"
+   ],
+   "teamIds": [
+    "1477",
+    "1479"
+   ],
+   "ground": "WRMS",
+   "result": "VKCA VOLCANOS won by 67 Runs",
+   "summary": "VKCA VOLCANOS: 182/8(25) SRCA SUPERKINGS: 115/8(25)"
+  },
+  {
+   "matchId": "4120",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4120&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "VKCA DYNAMOS",
+    "DCL CAPITALS"
+   ],
+   "teamIds": [
+    "1485",
+    "1482"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA DYNAMOS won by 20 Runs",
+   "summary": "VKCA DYNAMOS: 115/9(25) DCL CAPITALS: 95/10(23.4)"
+  },
+  {
+   "matchId": "4119",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4119&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "DSCA HAWKS",
+    "BCA FALCONS"
+   ],
+   "teamIds": [
+    "1483",
+    "1480"
+   ],
+   "ground": "Nielsen",
+   "result": "BCA FALCONS won by 97 Runs",
+   "summary": "BCA FALCONS: 135/5(25) DSCA HAWKS: 38/10(15.5)"
+  },
+  {
+   "matchId": "4115",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4115&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "CCA SAMURAIS",
+    "STRIKERS SCORCHERS"
+   ],
+   "teamIds": [
+    "1481",
+    "1484"
+   ],
+   "ground": "Cupertino Library",
+   "result": "It is a Tie",
+   "summary": "CCA SAMURAIS: 92/9(25) STRIKERS SCORCHERS: 92/6(25)"
+  },
+  {
+   "matchId": "4118",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4118&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "CFC ROYALS",
+    "INDUS U11 YODHAS"
+   ],
+   "teamIds": [
+    "1488",
+    "1489"
+   ],
+   "ground": "Alisal",
+   "result": "INDUS U11 YODHAS won by 78 Runs",
+   "summary": "INDUS U11 YODHAS: 177/4(25) CFC ROYALS: 99/9(25)"
+  },
+  {
+   "matchId": "4116",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4116&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "BCA EAGLES",
+    "CCA PANTHERS"
+   ],
+   "teamIds": [
+    "1486",
+    "1487"
+   ],
+   "ground": "Challenger",
+   "result": "BCA EAGLES won by 40 Runs",
+   "summary": "BCA EAGLES: 126/8(25) CCA PANTHERS: 86/10(16.5)"
+  },
+  {
+   "matchId": "3968",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3968&clubId=40319",
+   "date": "2024-08-25",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1272",
+    "1271"
+   ],
+   "ground": "MH Field-1",
+   "result": "Team Red won by 4 Runs",
+   "summary": "Team Red: 230/6(30) Team Blue: 226/9(30)"
+  },
+  {
+   "matchId": "3929",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3929&clubId=40319",
+   "date": "2024-08-17",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1285",
+    "1287"
+   ],
+   "ground": "FSP",
+   "result": "Team Blue: 236/8 (40/40 ov) Team Red: 102/10 (24.2/40 ov)",
+   "summary": "Team Blue: 236/8(40) Team Red: 102/10(24.2) Live"
+  },
+  {
+   "matchId": "3386",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3386&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "Team White",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1286",
+    "1285"
+   ],
+   "ground": "FSP",
+   "result": "Team Red won by 12 Runs",
+   "summary": "Team Red: 154/10(29.5) Team White: 142/8(34.2)"
+  },
+  {
+   "matchId": "3377",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3377&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team White"
+   ],
+   "teamIds": [
+    "1287",
+    "1286"
+   ],
+   "ground": "FSP",
+   "result": "Team Blue won by 105 Runs",
+   "summary": "Team Blue: 215/5(35) Team White: 110/10(28.4)"
+  },
+  {
+   "matchId": "3351",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3351&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1285",
+    "1287"
+   ],
+   "ground": "FSP",
+   "result": "Team Red won by 3 Runs",
+   "summary": "Team Red: 166/10(34.5) Team Blue: 163/6(28.5)"
+  },
+  {
+   "matchId": "3290",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3290&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1271",
+    "1272"
+   ],
+   "ground": "WRMS",
+   "result": "Team Blue won by 4 Wickets",
+   "summary": "Team Red: 108/8(30) Team Blue: 109/6(29.2)"
+  },
+  {
+   "matchId": "3264",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3264&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "Team White",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1273",
+    "1271"
+   ],
+   "ground": "WRMS",
+   "result": "It is a Tie",
+   "summary": "Team White: 90/11(29.5) Team Blue: 90/7(23.5)"
+  },
+  {
+   "matchId": "3246",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3246&clubId=40319",
+   "date": "2024-05-27",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team White"
+   ],
+   "teamIds": [
+    "1272",
+    "1273"
+   ],
+   "ground": "WRMS",
+   "result": "Team White won by 4 Runs",
+   "summary": "Team White: 140/8(30) Team Red: 136/7(30)"
+  },
+  {
+   "matchId": "3245",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3245&clubId=40319",
+   "date": "2024-05-26",
+   "type": "3rd Position",
+   "teams": [
+    "CCA Centurions",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "1085",
+    "1087"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Titans won by 7 Wickets",
+   "summary": "CCA Centurions: 170/6(40) CCA Titans: 172/3(38)"
+  },
+  {
+   "matchId": "3244",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3244&clubId=40319",
+   "date": "2024-05-26",
+   "type": "Eliminator",
+   "teams": [
+    "EYCA Vikings",
+    "BCA Bravos"
+   ],
+   "teamIds": [
+    "1092",
+    "1084"
+   ],
+   "ground": "SCCG, Santa Clara Cricket Astro Ground -",
+   "result": "BCA Bravos won by 55 Runs",
+   "summary": "BCA Bravos: 135/9(35.5) EYCA Vikings: 80/10(23.3)"
+  },
+  {
+   "matchId": "3243",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3243&clubId=40319",
+   "date": "2024-05-26",
+   "type": "Final",
+   "teams": [
+    "Dublin Legends",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "1091",
+    "1094"
+   ],
+   "ground": "FSP",
+   "result": "SYCA Eagles won by 3 Wickets",
+   "summary": "Dublin Legends: 142/10(34.3) SYCA Eagles: 145/7(25.4)"
+  },
+  {
+   "matchId": "3242",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3242&clubId=40319",
+   "date": "2024-05-26",
+   "type": "Eliminator",
+   "teams": [
+    "DSCA Lions",
+    "CFC Sunrisers"
+   ],
+   "teamIds": [
+    "1089",
+    "1088"
+   ],
+   "ground": "GRMS",
+   "result": "CFC Sunrisers won by 2 Wickets",
+   "summary": "DSCA Lions: 145/9(40) CFC Sunrisers: 149/8(40)"
+  },
+  {
+   "matchId": "3241",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3241&clubId=40319",
+   "date": "2024-05-26",
+   "type": "Eliminator",
+   "teams": [
+    "DSCA Rhinos",
+    "VKCA Vulcans"
+   ],
+   "teamIds": [
+    "1090",
+    "1096"
+   ],
+   "ground": "Eastin",
+   "result": "DSCA Rhinos won by 40 Runs",
+   "summary": "DSCA Rhinos: 176/9(38.2) VKCA Vulcans: 136/10(28)"
+  },
+  {
+   "matchId": "3240",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3240&clubId=40319",
+   "date": "2024-05-26",
+   "type": "Eliminator",
+   "teams": [
+    "BCA Bravehearts",
+    "CCA Falcons"
+   ],
+   "teamIds": [
+    "1083",
+    "1086"
+   ],
+   "ground": "FCP",
+   "result": "BCA Bravehearts won by 9 Wickets",
+   "summary": "CCA Falcons: 220/10(39.1) BCA Bravehearts: 221/1(30.3)"
+  },
+  {
+   "matchId": "3239",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3239&clubId=40319",
+   "date": "2024-05-25",
+   "type": "League",
+   "teams": [
+    "USAC BA Hub XI",
+    "CCA Falcons"
+   ],
+   "teamIds": [
+    "1095",
+    "1086"
+   ],
+   "ground": "WRMS",
+   "result": "USAC BA Hub XI won by 34 Runs",
+   "summary": "USAC BA Hub XI: 114/10(29.2) CCA Falcons: 80/10(30.5)"
+  },
+  {
+   "matchId": "3238",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3238&clubId=40319",
+   "date": "2024-05-25",
+   "type": "League",
+   "teams": [
+    "BCA Bravehearts",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "1083",
+    "1089"
+   ],
+   "ground": "SCCG, Santa Clara Cricket Astro Ground -",
+   "result": "BCA Bravehearts won by 49 Runs",
+   "summary": "BCA Bravehearts: 194/7(34.3) DSCA Lions: 145/8(40)"
+  },
+  {
+   "matchId": "3237",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3237&clubId=40319",
+   "date": "2024-05-25",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "DSCA Rhinos"
+   ],
+   "teamIds": [
+    "1092",
+    "1090"
+   ],
+   "ground": "Sierramont",
+   "result": "EYCA Vikings won by 42 Runs",
+   "summary": "EYCA Vikings: 186/10(39) DSCA Rhinos: 144/9(36.5)"
+  },
+  {
+   "matchId": "3236",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3236&clubId=40319",
+   "date": "2024-05-25",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "San Ramon Stars"
+   ],
+   "teamIds": [
+    "1087",
+    "1093"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Titans won by 224 Runs",
+   "summary": "CCA Titans: 307/5(40) San Ramon Stars: 83/10(34.2)"
+  },
+  {
+   "matchId": "3235",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3235&clubId=40319",
+   "date": "2024-05-25",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "BCA Bravos"
+   ],
+   "teamIds": [
+    "1094",
+    "1084"
+   ],
+   "ground": "Roseville",
+   "result": "SYCA Eagles won by 7 Wickets",
+   "summary": "BCA Bravos: 299/7(40) SYCA Eagles: 303/3(36.5)"
+  },
+  {
+   "matchId": "3234",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3234&clubId=40319",
+   "date": "2024-05-25",
+   "type": "League",
+   "teams": [
+    "Dublin Legends",
+    "CCA Centurions"
+   ],
+   "teamIds": [
+    "1091",
+    "1085"
+   ],
+   "ground": "FSP",
+   "result": "CCA Centurions won by 77 Runs",
+   "summary": "CCA Centurions: 188/9(38.5) Dublin Legends: 111/10(35.5)"
+  },
+  {
+   "matchId": "3233",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3233&clubId=40319",
+   "date": "2024-05-25",
+   "type": "League",
+   "teams": [
+    "VKCA Vulcans",
+    "CFC Sunrisers"
+   ],
+   "teamIds": [
+    "1096",
+    "1088"
+   ],
+   "ground": "Eastin",
+   "result": "VKCA Vulcans won by 10 Wickets",
+   "summary": "CFC Sunrisers: 54/10(16.5) VKCA Vulcans: 58/0(4.5)"
+  },
+  {
+   "matchId": "3227",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3227&clubId=40319",
+   "date": "2024-05-19",
+   "type": "Eliminator",
+   "teams": [
+    "CFC Superkings",
+    "CCA Palo Alto Panthers"
+   ],
+   "teamIds": [
+    "1074",
+    "1071"
+   ],
+   "ground": "GRMS",
+   "result": "CFC Superkings won by 123 Runs",
+   "summary": "CFC Superkings: 164/4(30) CCA Palo Alto Panthers: 41/7(13.4)"
+  },
+  {
+   "matchId": "3226",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3226&clubId=40319",
+   "date": "2024-05-19",
+   "type": "Eliminator",
+   "teams": [
+    "ASCE Hawks",
+    "Strikers Jaguars"
+   ],
+   "teamIds": [
+    "1065",
+    "1081"
+   ],
+   "ground": "Eastin",
+   "result": "Strikers Jaguars won by 8 Wickets",
+   "summary": "ASCE Hawks: 114/7(30) Strikers Jaguars: 116/2(16.3)"
+  },
+  {
+   "matchId": "3225",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3225&clubId=40319",
+   "date": "2024-05-19",
+   "type": "Eliminator",
+   "teams": [
+    "BCA Bolts",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "1066",
+    "1078"
+   ],
+   "ground": "Rancho 1",
+   "result": "BCA Bolts won by 8 Wickets",
+   "summary": "Indus Yodhas: 118/8(30) BCA Bolts: 120/2(22.1)"
+  },
+  {
+   "matchId": "3223",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3223&clubId=40319",
+   "date": "2024-05-19",
+   "type": "Eliminator",
+   "teams": [
+    "BCA Fires",
+    "DCL Titans"
+   ],
+   "teamIds": [
+    "1067",
+    "1076"
+   ],
+   "ground": "Mossdale",
+   "result": "DCL Titans won by 36 Runs",
+   "summary": "DCL Titans: 144/7(30) BCA Fires: 108/10(29.2)"
+  },
+  {
+   "matchId": "3217",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3217&clubId=40319",
+   "date": "2024-05-19",
+   "type": "Final",
+   "teams": [
+    "BCA Mavericks",
+    "SRCA Capitals"
+   ],
+   "teamIds": [
+    "1068",
+    "1080"
+   ],
+   "ground": "FSP",
+   "result": "BCA Mavericks won by 5 Wickets",
+   "summary": "SRCA Capitals: 122/7(30) BCA Mavericks: 126/5(22.3)"
+  },
+  {
+   "matchId": "3215",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3215&clubId=40319",
+   "date": "2024-05-19",
+   "type": "3rd Position",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "CCA Cupertino Comets"
+   ],
+   "teamIds": [
+    "1073",
+    "1069"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Sunnyvale Stars won by 29 Runs",
+   "summary": "CCA Sunnyvale Stars: 104/6(30) CCA Cupertino Comets: 75/10(26.2)"
+  },
+  {
+   "matchId": "3213",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3213&clubId=40319",
+   "date": "2024-05-19",
+   "type": "Eliminator",
+   "teams": [
+    "DSCA Panthers",
+    "VKCA Vikings"
+   ],
+   "teamIds": [
+    "1077",
+    "1082"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA Vikings won by 8 Wickets",
+   "summary": "DSCA Panthers: 124/9(30) VKCA Vikings: 125/2(15.4)"
+  },
+  {
+   "matchId": "3201",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3201&clubId=40319",
+   "date": "2024-05-19",
+   "type": "Eliminator",
+   "teams": [
+    "DCL Knightriders",
+    "CCA Fremont Thunders"
+   ],
+   "teamIds": [
+    "1075",
+    "1070"
+   ],
+   "ground": "GRMS",
+   "result": "DCL Knightriders won by 31 Runs",
+   "summary": "DCL Knightriders: 122/7(30) CCA Fremont Thunders: 91/9(27)"
+  },
+  {
+   "matchId": "3180",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3180&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "CCA Centurions",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "1085",
+    "1094"
+   ],
+   "ground": "Meriwest",
+   "result": "SYCA Eagles won by 6 Wickets",
+   "summary": "CCA Centurions: 210/5(40) SYCA Eagles: 211/4(35.1)"
+  },
+  {
+   "matchId": "3173",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3173&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "VKCA Vulcans"
+   ],
+   "teamIds": [
+    "1092",
+    "1096"
+   ],
+   "ground": "FCP",
+   "result": "EYCA Vikings won by 51 Runs",
+   "summary": "EYCA Vikings: 271/4(40) VKCA Vulcans: 220/10(34.4)"
+  },
+  {
+   "matchId": "3172",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3172&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "DSCA Lions",
+    "CFC Sunrisers"
+   ],
+   "teamIds": [
+    "1089",
+    "1088"
+   ],
+   "ground": "Sierramont",
+   "result": "DSCA Lions won by 24 Runs",
+   "summary": "DSCA Lions: 116/10(31) CFC Sunrisers: 92/10(24.1)"
+  },
+  {
+   "matchId": "3171",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3171&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "1090",
+    "1087"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Titans won by 4 Wickets",
+   "summary": "DSCA Rhinos: 148/9(38.2) CCA Titans: 149/6(38.2)"
+  },
+  {
+   "matchId": "3170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3170&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "USAC BA Hub XI",
+    "San Ramon Stars"
+   ],
+   "teamIds": [
+    "1095",
+    "1093"
+   ],
+   "ground": "WRMS",
+   "result": "San Ramon Stars won by 23 Runs",
+   "summary": "San Ramon Stars: 75/10(28.4) USAC BA Hub XI: 52/10(19.4)"
+  },
+  {
+   "matchId": "3168",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3168&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "Dublin Legends",
+    "BCA Bravos"
+   ],
+   "teamIds": [
+    "1091",
+    "1084"
+   ],
+   "ground": "FSP",
+   "result": "Dublin Legends won by 198 Runs",
+   "summary": "Dublin Legends: 306/6(40) BCA Bravos: 108/9(29.4)"
+  },
+  {
+   "matchId": "3164",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3164&clubId=40319",
+   "date": "2024-05-18",
+   "type": "League",
+   "teams": [
+    "CCA Falcons",
+    "BCA Bravehearts"
+   ],
+   "teamIds": [
+    "1086",
+    "1083"
+   ],
+   "ground": "Northgate",
+   "result": "BCA Bravehearts won by 6 Wickets",
+   "summary": "CCA Falcons: 160/9(40) BCA Bravehearts: 163/4(38)"
+  },
+  {
+   "matchId": "3130",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3130&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Thunders",
+    "CCA Palo Alto Panthers"
+   ],
+   "teamIds": [
+    "1070",
+    "1071"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Fremont Thunders won by 6 Wickets",
+   "summary": "CCA Palo Alto Panthers: 96/6(30) CCA Fremont Thunders: 97/4(16.2)"
+  },
+  {
+   "matchId": "3129",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3129&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "Indus Yodhas",
+    "RYCC Sacramento Eagles"
+   ],
+   "teamIds": [
+    "1078",
+    "1079"
+   ],
+   "ground": "GRMS",
+   "result": "RYCC Sacramento Eagles won by 6 Wickets",
+   "summary": "Indus Yodhas: 61/9(23) RYCC Sacramento Eagles: 62/4(19.2)"
+  },
+  {
+   "matchId": "3128",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3128&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Comets",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "1069",
+    "1065"
+   ],
+   "ground": "Eastin",
+   "result": "CCA Cupertino Comets won by 6 Wickets",
+   "summary": "ASCE Hawks: 114/5(30) CCA Cupertino Comets: 115/4(22.3)"
+  },
+  {
+   "matchId": "3125",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3125&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "1082",
+    "1066"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Vikings won by 166 Runs",
+   "summary": "VKCA Vikings: 238/5(30) BCA Bolts: 72/10(20.5)"
+  },
+  {
+   "matchId": "3123",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3123&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "BCA Fires"
+   ],
+   "teamIds": [
+    "1073",
+    "1067"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Sunnyvale Stars won by 10 Wickets",
+   "summary": "BCA Fires: 49/9(25.2) CCA Sunnyvale Stars: 50/0(6.1)"
+  },
+  {
+   "matchId": "3122",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3122&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "BCA Mavericks",
+    "DCL Titans"
+   ],
+   "teamIds": [
+    "1068",
+    "1076"
+   ],
+   "ground": "Alisal",
+   "result": "BCA Mavericks won by 6 Wickets",
+   "summary": "DCL Titans: 59/10(22.5) BCA Mavericks: 60/4(16.4)"
+  },
+  {
+   "matchId": "3121",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3121&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "SRCA Capitals",
+    "DSCA Panthers"
+   ],
+   "teamIds": [
+    "1080",
+    "1077"
+   ],
+   "ground": "FSP",
+   "result": "SRCA Capitals won by 18 Runs",
+   "summary": "SRCA Capitals: 113/5(30) DSCA Panthers: 95/10(28.2)"
+  },
+  {
+   "matchId": "3118",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3118&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "DCL Knightriders",
+    "CFC Superkings"
+   ],
+   "teamIds": [
+    "1075",
+    "1074"
+   ],
+   "ground": "GRMS",
+   "result": "DCL Knightriders won by 29 Runs",
+   "summary": "DCL Knightriders: 142/6(30) CFC Superkings: 113/9(29.4)"
+  },
+  {
+   "matchId": "3116",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3116&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Lightning",
+    "Strikers Jaguars"
+   ],
+   "teamIds": [
+    "1072",
+    "1081"
+   ],
+   "ground": "Dilworth",
+   "result": "Strikers Jaguars won by 123 Runs",
+   "summary": "Strikers Jaguars: 180/6(30.1) CCA San Jose Lightning: 57/9(27.1)"
+  },
+  {
+   "matchId": "3064",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3064&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "BCA Mavericks",
+    "BCA Fires"
+   ],
+   "teamIds": [
+    "1068",
+    "1067"
+   ],
+   "ground": "Challenger",
+   "result": "BCA Mavericks won by 166 Runs",
+   "summary": "BCA Mavericks: 291/0(30) BCA Fires: 125/9(28.5)"
+  },
+  {
+   "matchId": "3088",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3088&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "USAC BA Hub XI"
+   ],
+   "teamIds": [
+    "1092",
+    "1095"
+   ],
+   "ground": "WRMS",
+   "result": "EYCA Vikings won by 306 Runs",
+   "summary": "EYCA Vikings: 356/4(40) USAC BA Hub XI: 50/7(11.2)"
+  },
+  {
+   "matchId": "3085",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3085&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "BCA Bravos",
+    "CCA Centurions"
+   ],
+   "teamIds": [
+    "1084",
+    "1085"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Centurions won by 6 Wickets",
+   "summary": "BCA Bravos: 110/8(35.4) CCA Centurions: 112/4(38.1)"
+  },
+  {
+   "matchId": "3083",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3083&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "San Ramon Stars",
+    "BCA Bravehearts"
+   ],
+   "teamIds": [
+    "1093",
+    "1083"
+   ],
+   "ground": "SCCG",
+   "result": "San Ramon Stars won by 43 Runs",
+   "summary": "San Ramon Stars: 209/7(40) BCA Bravehearts: 166/9(34.3)"
+  },
+  {
+   "matchId": "3082",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3082&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "CCA Falcons",
+    "CFC Sunrisers"
+   ],
+   "teamIds": [
+    "1086",
+    "1088"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Falcons won by 6 Wickets",
+   "summary": "CFC Sunrisers: 141/9(34.1) CCA Falcons: 143/4(25)"
+  },
+  {
+   "matchId": "3081",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3081&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "Dublin Legends",
+    "DSCA Rhinos"
+   ],
+   "teamIds": [
+    "1091",
+    "1090"
+   ],
+   "ground": "FSP",
+   "result": "Dublin Legends won by 6 Wickets",
+   "summary": "DSCA Rhinos: 211/7(40) Dublin Legends: 214/4(28.2)"
+  },
+  {
+   "matchId": "3080",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3080&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "VKCA Vulcans",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "1096",
+    "1089"
+   ],
+   "ground": "Northgate",
+   "result": "VKCA Vulcans won by 318 Runs",
+   "summary": "VKCA Vulcans: 369/10(39.5) DSCA Lions: 51/10(21.3)"
+  },
+  {
+   "matchId": "3028",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3028&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "1082",
+    "1078"
+   ],
+   "ground": "Rancho 1",
+   "result": "VKCA Vikings won by 297 Runs",
+   "summary": "VKCA Vikings: 329/2(30) Indus Yodhas: 32/8(10.5)"
+  },
+  {
+   "matchId": "3027",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3027&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "DCL Knightriders",
+    "RYCC Sacramento Eagles"
+   ],
+   "teamIds": [
+    "1075",
+    "1079"
+   ],
+   "ground": "Ken Mercer",
+   "result": "RYCC Sacramento Eagles won by 3 Wickets",
+   "summary": "DCL Knightriders: 74/10(23.5) RYCC Sacramento Eagles: 78/7(29.2)"
+  },
+  {
+   "matchId": "3026",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3026&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "ASCE Hawks",
+    "DCL Titans"
+   ],
+   "teamIds": [
+    "1065",
+    "1076"
+   ],
+   "ground": "Eastin",
+   "result": "DCL Titans won by 114 Runs",
+   "summary": "DCL Titans: 186/5(30) ASCE Hawks: 72/8(28.5)"
+  },
+  {
+   "matchId": "3024",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3024&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Comets",
+    "DSCA Panthers"
+   ],
+   "teamIds": [
+    "1069",
+    "1077"
+   ],
+   "ground": "Dilworth",
+   "result": "DSCA Panthers won by 8 Runs",
+   "summary": "DSCA Panthers: 121/7(30) CCA Cupertino Comets: 113/7(30)"
+  },
+  {
+   "matchId": "3023",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3023&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "Strikers Jaguars",
+    "CCA Palo Alto Panthers"
+   ],
+   "teamIds": [
+    "1081",
+    "1071"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "Strikers Jaguars won by 10 Wickets",
+   "summary": "CCA Palo Alto Panthers: 31/7(14.2) Strikers Jaguars: 35/0(2.3)"
+  },
+  {
+   "matchId": "3022",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3022&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "SRCA Capitals",
+    "CCA Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "1080",
+    "1073"
+   ],
+   "ground": "Alisal",
+   "result": "CCA Sunnyvale Stars won by 7 Wickets",
+   "summary": "SRCA Capitals: 47/10(24.2) CCA Sunnyvale Stars: 48/3(25)"
+  },
+  {
+   "matchId": "3017",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3017&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "CFC Superkings",
+    "CCA Fremont Thunders"
+   ],
+   "teamIds": [
+    "1074",
+    "1070"
+   ],
+   "ground": "Ken Mercer",
+   "result": "CCA Fremont Thunders won by 18 Runs",
+   "summary": "CCA Fremont Thunders: 70/9(25.5) CFC Superkings: 52/9(21.1)"
+  },
+  {
+   "matchId": "3014",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3014&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Lightning",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "1072",
+    "1066"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA San Jose Lightning won by 7 Wickets",
+   "summary": "BCA Bolts: 81/8(30) CCA San Jose Lightning: 82/3(15.2)"
+  },
+  {
+   "matchId": "3020",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3020&clubId=40319",
+   "date": "2024-05-05",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "1087",
+    "1094"
+   ],
+   "ground": "Roseville",
+   "result": "SYCA Eagles won by 9 Wickets",
+   "summary": "CCA Titans: 165/8(39.4) SYCA Eagles: 166/1(18.5)"
+  },
+  {
+   "matchId": "2954",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2954&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "BCA Mavericks",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "1068",
+    "1065"
+   ],
+   "ground": "FCP",
+   "result": "BCA Mavericks won by 0 Runs",
+   "summary": "BCA Mavericks: 0/0(0)"
+  },
+  {
+   "matchId": "2952",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2952&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "DCL Knightriders",
+    "CCA San Jose Lightning"
+   ],
+   "teamIds": [
+    "1075",
+    "1072"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA San Jose Lightning won by 51 Runs",
+   "summary": "CCA San Jose Lightning: 125/6(30) DCL Knightriders: 74/10(29.4)"
+  },
+  {
+   "matchId": "2951",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2951&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "Indus Yodhas",
+    "CCA Palo Alto Panthers"
+   ],
+   "teamIds": [
+    "1078",
+    "1071"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "Indus Yodhas won by 52 Runs",
+   "summary": "Indus Yodhas: 138/9(30) CCA Palo Alto Panthers: 86/9(21)"
+  },
+  {
+   "matchId": "2950",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2950&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "RYCC Sacramento Eagles",
+    "CFC Superkings"
+   ],
+   "teamIds": [
+    "1079",
+    "1074"
+   ],
+   "ground": "GRMS",
+   "result": "CFC Superkings won by 2 Runs",
+   "summary": "CFC Superkings: 83/9(26) RYCC Sacramento Eagles: 81/10(18)"
+  },
+  {
+   "matchId": "2948",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2948&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "BCA Bolts",
+    "DSCA Panthers"
+   ],
+   "teamIds": [
+    "1066",
+    "1077"
+   ],
+   "ground": "Mossdale",
+   "result": "DSCA Panthers won by 149 Runs",
+   "summary": "DSCA Panthers: 186/2(30) BCA Bolts: 37/10(16.2)"
+  },
+  {
+   "matchId": "2947",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2947&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "Strikers Jaguars",
+    "CCA Fremont Thunders"
+   ],
+   "teamIds": [
+    "1081",
+    "1070"
+   ],
+   "ground": "Northgate",
+   "result": "Strikers Jaguars won by 187 Runs",
+   "summary": "Strikers Jaguars: 232/3(30) CCA Fremont Thunders: 45/10(24)"
+  },
+  {
+   "matchId": "2945",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2945&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "DCL Titans",
+    "CCA Cupertino Comets"
+   ],
+   "teamIds": [
+    "1076",
+    "1069"
+   ],
+   "ground": "Alisal",
+   "result": "CCA Cupertino Comets won by 9 Runs",
+   "summary": "CCA Cupertino Comets: 67/10(25) DCL Titans: 58/10(29)"
+  },
+  {
+   "matchId": "2939",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2939&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "VKCA Vikings"
+   ],
+   "teamIds": [
+    "1073",
+    "1082"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Sunnyvale Stars won by 7 Wickets",
+   "summary": "VKCA Vikings: 162/10(29.3) CCA Sunnyvale Stars: 163/3(27.3)"
+  },
+  {
+   "matchId": "2931",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2931&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "SRCA Capitals",
+    "BCA Fires"
+   ],
+   "teamIds": [
+    "1080",
+    "1067"
+   ],
+   "ground": "GRMS",
+   "result": "SRCA Capitals won by 9 Runs",
+   "summary": "SRCA Capitals: 136/6(30) BCA Fires: 127/9(29.4)"
+  },
+  {
+   "matchId": "2946",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2946&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "CCA Falcons",
+    "CCA Centurions"
+   ],
+   "teamIds": [
+    "1086",
+    "1085"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Centurions won by 9 Wickets",
+   "summary": "CCA Falcons: 59/8(24.1) CCA Centurions: 62/1(8.3)"
+  },
+  {
+   "matchId": "2944",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2944&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "San Ramon Stars",
+    "CFC Sunrisers"
+   ],
+   "teamIds": [
+    "1093",
+    "1088"
+   ],
+   "ground": "FSP",
+   "result": "San Ramon Stars won by 72 Runs",
+   "summary": "San Ramon Stars: 210/10(38.5) CFC Sunrisers: 138/10(30.1)"
+  },
+  {
+   "matchId": "2901",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2901&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "BCA Bravos"
+   ],
+   "teamIds": [
+    "1087",
+    "1084"
+   ],
+   "ground": "Meriwest",
+   "result": "BCA Bravos won by 62 Runs",
+   "summary": "BCA Bravos: 164/8(40) CCA Titans: 102/8(37)"
+  },
+  {
+   "matchId": "2899",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2899&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "1092",
+    "1089"
+   ],
+   "ground": "Sierramont",
+   "result": "EYCA Vikings won by 9 Wickets",
+   "summary": "DSCA Lions: 57/8(19.5) EYCA Vikings: 58/1(4.1)"
+  },
+  {
+   "matchId": "2896",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2896&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "Dublin Legends",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "1091",
+    "1094"
+   ],
+   "ground": "FSP",
+   "result": "Dublin Legends won by 90 Runs",
+   "summary": "Dublin Legends: 266/10(40) SYCA Eagles: 176/10(32.1)"
+  },
+  {
+   "matchId": "2895",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2895&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "VKCA Vulcans",
+    "BCA Bravehearts"
+   ],
+   "teamIds": [
+    "1096",
+    "1083"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Vulcans won by 6 Wickets",
+   "summary": "BCA Bravehearts: 160/7(40) VKCA Vulcans: 161/4(18)"
+  },
+  {
+   "matchId": "2894",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2894&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "USAC BA Hub XI"
+   ],
+   "teamIds": [
+    "1090",
+    "1095"
+   ],
+   "ground": "WRMS",
+   "result": "DSCA Rhinos won by 61 Runs",
+   "summary": "DSCA Rhinos: 204/6(40) USAC BA Hub XI: 143/10(36)"
+  },
+  {
+   "matchId": "2852",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2852&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "RYCC Sacramento Eagles",
+    "CCA Fremont Thunders"
+   ],
+   "teamIds": [
+    "1079",
+    "1070"
+   ],
+   "ground": "Judah",
+   "result": "Forfeited. Winner: RYCC Sacramento Eagles",
+   "summary": "RYCC Sacramento Eagles: 0/0(0)"
+  },
+  {
+   "matchId": "2850",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2850&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "Strikers Jaguars"
+   ],
+   "teamIds": [
+    "1082",
+    "1081"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Vikings won by 65 Runs",
+   "summary": "VKCA Vikings: 214/4(30) Strikers Jaguars: 149/3(30)"
+  },
+  {
+   "matchId": "2849",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2849&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "ASCE Hawks",
+    "DCL Knightriders"
+   ],
+   "teamIds": [
+    "1065",
+    "1075"
+   ],
+   "ground": "GRMS",
+   "result": "ASCE Hawks won by 9 Wickets",
+   "summary": "DCL Knightriders: 93/8(30) ASCE Hawks: 94/1(22.1)"
+  },
+  {
+   "matchId": "2848",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2848&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "Indus Yodhas",
+    "CCA Cupertino Comets"
+   ],
+   "teamIds": [
+    "1078",
+    "1069"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Cupertino Comets won by 10 Wickets",
+   "summary": "Indus Yodhas: 41/8(27.1) CCA Cupertino Comets: 44/0(3.4)"
+  },
+  {
+   "matchId": "2845",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2845&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "BCA Mavericks",
+    "CCA Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "1068",
+    "1073"
+   ],
+   "ground": "Challenger",
+   "result": "BCA Mavericks won by 5 Wickets",
+   "summary": "CCA Sunnyvale Stars: 117/6(30) BCA Mavericks: 118/5(21.1)"
+  },
+  {
+   "matchId": "2843",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2843&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "DSCA Panthers",
+    "CCA Palo Alto Panthers"
+   ],
+   "teamIds": [
+    "1077",
+    "1071"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "DSCA Panthers won by 10 Wickets",
+   "summary": "CCA Palo Alto Panthers: 65/8(23.1) DSCA Panthers: 66/0(7.4)"
+  },
+  {
+   "matchId": "2829",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2829&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "SRCA Capitals",
+    "DCL Titans"
+   ],
+   "teamIds": [
+    "1080",
+    "1076"
+   ],
+   "ground": "GRMS",
+   "result": "SRCA Capitals won by 8 Runs",
+   "summary": "SRCA Capitals: 90/10(21.3) DCL Titans: 82/10(26.2)"
+  },
+  {
+   "matchId": "2824",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2824&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Lightning",
+    "CFC Superkings"
+   ],
+   "teamIds": [
+    "1072",
+    "1074"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA San Jose Lightning won by 6 Runs",
+   "summary": "CCA San Jose Lightning: 107/6(28.2) CFC Superkings: 101/6(30)"
+  },
+  {
+   "matchId": "2819",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2819&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "1067",
+    "1066"
+   ],
+   "ground": "Challenger",
+   "result": "BCA Fires won by 93 Runs",
+   "summary": "BCA Fires: 174/10(28.1) BCA Bolts: 81/10(25.5)"
+  },
+  {
+   "matchId": "2842",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2842&clubId=40319",
+   "date": "2024-04-21",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "BCA Bravehearts"
+   ],
+   "teamIds": [
+    "1090",
+    "1083"
+   ],
+   "ground": "FSP",
+   "result": "DSCA Rhinos won by 8 Wickets",
+   "summary": "BCA Bravehearts: 46/9(14.5) DSCA Rhinos: 47/2(8.1)"
+  },
+  {
+   "matchId": "2818",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2818&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "RYCC Sacramento Eagles",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "1079",
+    "1065"
+   ],
+   "ground": "Challenger",
+   "result": "ASCE Hawks won by 112 Runs",
+   "summary": "ASCE Hawks: 178/7(30) RYCC Sacramento Eagles: 66/10(21)"
+  },
+  {
+   "matchId": "2804",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2804&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "DSCA Panthers"
+   ],
+   "teamIds": [
+    "1073",
+    "1077"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Sunnyvale Stars won by 29 Runs",
+   "summary": "CCA Sunnyvale Stars: 147/5(30) DSCA Panthers: 118/5(30)"
+  },
+  {
+   "matchId": "2785",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2785&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "CCA San Jose Lightning"
+   ],
+   "teamIds": [
+    "1067",
+    "1072"
+   ],
+   "ground": "Challenger",
+   "result": "BCA Fires won by 3 Wickets",
+   "summary": "CCA San Jose Lightning: 155/3(30) BCA Fires: 156/7(28.2)"
+  },
+  {
+   "matchId": "2806",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2806&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "CCA Falcons",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "1086",
+    "1089"
+   ],
+   "ground": "Sierramont",
+   "result": "CCA Falcons won by 19 Runs",
+   "summary": "CCA Falcons: 167/5(30) DSCA Lions: 148/4(30)"
+  },
+  {
+   "matchId": "2805",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2805&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "BCA Bravos",
+    "VKCA Vulcans"
+   ],
+   "teamIds": [
+    "1084",
+    "1096"
+   ],
+   "ground": "SCCG",
+   "result": "BCA Bravos won by 136 Runs",
+   "summary": "BCA Bravos: 212/4(40) VKCA Vulcans: 76/10(17.5)"
+  },
+  {
+   "matchId": "2801",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2801&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "Dublin Legends",
+    "EYCA Vikings"
+   ],
+   "teamIds": [
+    "1091",
+    "1092"
+   ],
+   "ground": "FSP",
+   "result": "Dublin Legends won by 21 Runs",
+   "summary": "Dublin Legends: 164/7(40) EYCA Vikings: 143/8(33.2)"
+  },
+  {
+   "matchId": "2797",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2797&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "USAC BA Hub XI",
+    "CFC Sunrisers"
+   ],
+   "teamIds": [
+    "1095",
+    "1088"
+   ],
+   "ground": "WRMS",
+   "result": "USAC BA Hub XI won by 176 Runs",
+   "summary": "USAC BA Hub XI: 291/9(37.1) CFC Sunrisers: 115/10(29.4)"
+  },
+  {
+   "matchId": "2794",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2794&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "CCA Centurions",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "1085",
+    "1087"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Titans won by 9 Runs",
+   "summary": "CCA Titans: 159/7(40) CCA Centurions: 150/8(39.1)"
+  },
+  {
+   "matchId": "2763",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2763&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "CFC Superkings",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "1074",
+    "1078"
+   ],
+   "ground": "FHS",
+   "result": "Indus Yodhas won by 4 Wickets",
+   "summary": "CFC Superkings: 48/10(17.4) Indus Yodhas: 49/6(19)"
+  },
+  {
+   "matchId": "2762",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2762&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Comets",
+    "BCA Mavericks"
+   ],
+   "teamIds": [
+    "1069",
+    "1068"
+   ],
+   "ground": "Dilworth",
+   "result": "BCA Mavericks won by 10 Wickets",
+   "summary": "CCA Cupertino Comets: 94/10(28.4) BCA Mavericks: 95/0(8.1)"
+  },
+  {
+   "matchId": "2760",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2760&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "CCA Palo Alto Panthers",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "1071",
+    "1066"
+   ],
+   "ground": "Northgate",
+   "result": "BCA Bolts won by 83 Runs",
+   "summary": "BCA Bolts: 158/9(36.4) CCA Palo Alto Panthers: 75/8(29.5)"
+  },
+  {
+   "matchId": "2757",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2757&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "SRCA Capitals"
+   ],
+   "teamIds": [
+    "1082",
+    "1080"
+   ],
+   "ground": "Alisal",
+   "result": "SRCA Capitals won by 9 Wickets",
+   "summary": "VKCA Vikings: 29/9(17.1) SRCA Capitals: 30/1(8.1)"
+  },
+  {
+   "matchId": "2756",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2756&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "DCL Knightriders",
+    "CCA Fremont Thunders"
+   ],
+   "teamIds": [
+    "1075",
+    "1070"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "DCL Knightriders won by 57 Runs",
+   "summary": "DCL Knightriders: 143/4(30) CCA Fremont Thunders: 86/8(30)"
+  },
+  {
+   "matchId": "2746",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2746&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "Strikers Jaguars",
+    "DCL Titans"
+   ],
+   "teamIds": [
+    "1081",
+    "1076"
+   ],
+   "ground": "FHS",
+   "result": "DCL Titans won by 5 Runs (D/L)",
+   "summary": "DCL Titans: 137/7(30) Strikers Jaguars: 111/6(26.2)"
+  },
+  {
+   "matchId": "2754",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2754&clubId=40319",
+   "date": "2024-04-14",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "San Ramon Stars"
+   ],
+   "teamIds": [
+    "1094",
+    "1093"
+   ],
+   "ground": "Roseville Maidu",
+   "result": "SYCA Eagles won by 262 Runs",
+   "summary": "SYCA Eagles: 327/10(39.2) San Ramon Stars: 65/8(16.1)"
+  },
+  {
+   "matchId": "2697",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2697&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "DCL Titans",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "918",
+    "909"
+   ],
+   "ground": "Sierramont",
+   "result": "DCL Titans won by 9 Wickets",
+   "summary": "ASCE Hawks: 38/8(20.3) DCL Titans: 39/1(6.5)"
+  },
+  {
+   "matchId": "2692",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2692&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "CFC Superkings",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "915",
+    "920"
+   ],
+   "ground": "FHS",
+   "result": "CFC Superkings won by 17 Runs",
+   "summary": "CFC Superkings: 124/8(30) Indus Yodhas: 107/8(22.5)"
+  },
+  {
+   "matchId": "2691",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2691&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "RYCC Sacramento Eagles",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "922",
+    "910"
+   ],
+   "ground": "Judah",
+   "result": "BCA Bolts won by 1 Wicket",
+   "summary": "RYCC Sacramento Eagles: 120/9(27.5) BCA Bolts: 157/9(33)"
+  },
+  {
+   "matchId": "2689",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2689&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "BCA Mavericks"
+   ],
+   "teamIds": [
+    "926",
+    "912"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Vikings won by 99 Runs",
+   "summary": "VKCA Vikings: 168/9(30) BCA Mavericks: 69/10(28.1)"
+  },
+  {
+   "matchId": "2681",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2681&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Lightning",
+    "CCA Sunnyvale Stars"
+   ],
+   "teamIds": [
+    "914",
+    "925"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Sunnyvale Stars won by 85 Runs",
+   "summary": "CCA Sunnyvale Stars: 145/8(30) CCA San Jose Lightning: 60/4(30)"
+  },
+  {
+   "matchId": "2680",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2680&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "Strikers Jaguars",
+    "CCA Cupertino Comets"
+   ],
+   "teamIds": [
+    "924",
+    "916"
+   ],
+   "ground": "Sierramont",
+   "result": "CCA Cupertino Comets won by 62 Runs",
+   "summary": "CCA Cupertino Comets: 154/6(30) Strikers Jaguars: 92/9(28.1)"
+  },
+  {
+   "matchId": "2688",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2688&clubId=40319",
+   "date": "2024-04-07",
+   "type": "League",
+   "teams": [
+    "DSCA Lions",
+    "San Ramon Stars"
+   ],
+   "teamIds": [
+    "933",
+    "937"
+   ],
+   "ground": "FSP",
+   "result": "San Ramon Stars won by 7 Wickets",
+   "summary": "DSCA Lions: 84/9(25.4) San Ramon Stars: 85/3(16.3)"
+  },
+  {
+   "matchId": "2656",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2656&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "USAC BA Hub XI",
+    "EYCA Vikings"
+   ],
+   "teamIds": [
+    "940",
+    "936"
+   ],
+   "ground": "Sierramont",
+   "result": "EYCA Vikings won by 177 Runs",
+   "summary": "EYCA Vikings: 259/4(30) USAC BA Hub XI: 82/9(19.1)"
+  },
+  {
+   "matchId": "2632",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2632&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "CCA Palo Alto Panthers"
+   ],
+   "teamIds": [
+    "911",
+    "921"
+   ],
+   "ground": "Dilworth",
+   "result": "BCA Fires won by 10 Wickets",
+   "summary": "CCA Palo Alto Panthers: 16/8(9.5) BCA Fires: 17/0(2.1)"
+  },
+  {
+   "matchId": "2629",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2629&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Thunders",
+    "DCL Knightriders"
+   ],
+   "teamIds": [
+    "913",
+    "917"
+   ],
+   "ground": "FHS",
+   "result": "DCL Knightriders won by 40 Runs",
+   "summary": "DCL Knightriders: 107/10(25) CCA Fremont Thunders: 67/9(25)"
+  },
+  {
+   "matchId": "2621",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2621&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "DSCA Panthers",
+    "SRCA Capitals"
+   ],
+   "teamIds": [
+    "919",
+    "923"
+   ],
+   "ground": "FHS",
+   "result": "SRCA Capitals won by 71 Runs",
+   "summary": "SRCA Capitals: 113/6(25) DSCA Panthers: 42/9(17.2)"
+  },
+  {
+   "matchId": "2624",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2624&clubId=40319",
+   "date": "2024-03-31",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "BCA Bravehearts"
+   ],
+   "teamIds": [
+    "934",
+    "927"
+   ],
+   "ground": "Mossdale",
+   "result": "DSCA Rhinos won by 8 Wickets",
+   "summary": "BCA Bravehearts: 111/5(30) DSCA Rhinos: 112/2(16.1)"
+  },
+  {
+   "matchId": "2602",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2602&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "BCA Bravos",
+    "CCA Titans"
+   ],
+   "teamIds": [
+    "928",
+    "931"
+   ],
+   "ground": "FCP",
+   "result": "CCA Titans won by 84 Runs",
+   "summary": "CCA Titans: 135/8(30) BCA Bravos: 51/9(12.3)"
+  },
+  {
+   "matchId": "2573",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2573&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Lightning",
+    "Strikers Jaguars"
+   ],
+   "teamIds": [
+    "914",
+    "924"
+   ],
+   "ground": "Dilworth",
+   "result": "Strikers Jaguars won by 52 Runs",
+   "summary": "Strikers Jaguars: 120/6(20) CCA San Jose Lightning: 68/7(20)"
+  },
+  {
+   "matchId": "2571",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2571&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "SRCA Capitals",
+    "CCA Cupertino Comets"
+   ],
+   "teamIds": [
+    "923",
+    "916"
+   ],
+   "ground": "Alisal",
+   "result": "Abandoned.",
+   "summary": "CCA Cupertino Comets: 65/8(20) SRCA Capitals: 12/2(6.1)"
+  },
+  {
+   "matchId": "2569",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2569&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "Indus Yodhas",
+    "RYCC Sacramento Eagles"
+   ],
+   "teamIds": [
+    "920",
+    "922"
+   ],
+   "ground": "Rancho 1",
+   "result": "RYCC Sacramento Eagles won by 5 Wickets",
+   "summary": "Indus Yodhas: 84/5(20) RYCC Sacramento Eagles: 85/5(20)"
+  },
+  {
+   "matchId": "2568",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2568&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Thunders",
+    "CCA Palo Alto Panthers"
+   ],
+   "teamIds": [
+    "913",
+    "921"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "CCA Palo Alto Panthers won by 8 Wickets",
+   "summary": "CCA Fremont Thunders: 57/9(15.2) CCA Palo Alto Panthers: 58/2(18)"
+  },
+  {
+   "matchId": "2565",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2565&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "BCA Fires",
+    "DCL Knightriders"
+   ],
+   "teamIds": [
+    "911",
+    "917"
+   ],
+   "ground": "FCP",
+   "result": "BCA Fires won by 7 Wickets",
+   "summary": "DCL Knightriders: 88/5(20) BCA Fires: 89/3(15.3)"
+  },
+  {
+   "matchId": "2564",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2564&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "BCA Bolts",
+    "DSCA Panthers"
+   ],
+   "teamIds": [
+    "910",
+    "919"
+   ],
+   "ground": "Mossdale",
+   "result": "DSCA Panthers won by 10 Wickets",
+   "summary": "BCA Bolts: 63/6(20) DSCA Panthers: 65/0(10.1)"
+  },
+  {
+   "matchId": "2562",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2562&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "VKCA Vikings"
+   ],
+   "teamIds": [
+    "925",
+    "926"
+   ],
+   "ground": "Dilworth",
+   "result": "VKCA Vikings won by 23 Runs",
+   "summary": "VKCA Vikings: 108/3(20) CCA Sunnyvale Stars: 85/3(20)"
+  },
+  {
+   "matchId": "2560",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2560&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "DCL Titans",
+    "BCA Mavericks"
+   ],
+   "teamIds": [
+    "918",
+    "912"
+   ],
+   "ground": "FCP",
+   "result": "BCA Mavericks won by 6 Wickets",
+   "summary": "DCL Titans: 114/5(20) BCA Mavericks: 115/4(18.2)"
+  },
+  {
+   "matchId": "2559",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2559&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "CFC Superkings",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "915",
+    "909"
+   ],
+   "ground": "FHS",
+   "result": "ASCE Hawks won by 9 Wickets",
+   "summary": "CFC Superkings: 83/8(20) ASCE Hawks: 84/1(15.3)"
+  },
+  {
+   "matchId": "2566",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2566&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "CCA Centurions"
+   ],
+   "teamIds": [
+    "938",
+    "929"
+   ],
+   "ground": "Judah",
+   "result": "CCA Centurions won by 5 Runs",
+   "summary": "CCA Centurions: 131/7(29.2) SYCA Eagles: 126/9(28.3)"
+  },
+  {
+   "matchId": "2561",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2561&clubId=40319",
+   "date": "2024-03-24",
+   "type": "League",
+   "teams": [
+    "Dublin Legends",
+    "VKCA Vulcans"
+   ],
+   "teamIds": [
+    "935",
+    "939"
+   ],
+   "ground": "Emerald Glen",
+   "result": "Dublin Legends won by 9 Wickets",
+   "summary": "VKCA Vulcans: 123/9(25) Dublin Legends: 124/1(13.5)"
+  },
+  {
+   "matchId": "2554",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2554&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "CCA Falcons",
+    "CFC Sunrisers"
+   ],
+   "teamIds": [
+    "930",
+    "932"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Falcons won by 99 Runs",
+   "summary": "CCA Falcons: 177/4(30) CFC Sunrisers: 78/10(26)"
+  },
+  {
+   "matchId": "2543",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2543&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "CFC Superkings",
+    "CCA Cupertino Comets"
+   ],
+   "teamIds": [
+    "915",
+    "916"
+   ],
+   "ground": "GRMS",
+   "result": "CCA Cupertino Comets won by 187 Runs",
+   "summary": "CCA Cupertino Comets: 230/6(30) CFC Superkings: 43/8(15.2)"
+  },
+  {
+   "matchId": "2542",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2542&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Thunders",
+    "Strikers Jaguars"
+   ],
+   "teamIds": [
+    "913",
+    "924"
+   ],
+   "ground": "Dilworth",
+   "result": "Strikers Jaguars won by 9 Wickets",
+   "summary": "CCA Fremont Thunders: 36/9(16.2) Strikers Jaguars: 37/1(7.1)"
+  },
+  {
+   "matchId": "2541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2541&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "BCA Mavericks",
+    "BCA Fires"
+   ],
+   "teamIds": [
+    "912",
+    "911"
+   ],
+   "ground": "Mossdale",
+   "result": "BCA Mavericks won by 115 Runs",
+   "summary": "BCA Mavericks: 249/3(30) BCA Fires: 134/9(29.4)"
+  },
+  {
+   "matchId": "2540",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2540&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Lightning",
+    "Indus Yodhas"
+   ],
+   "teamIds": [
+    "914",
+    "920"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "CCA San Jose Lightning won by 283 Runs",
+   "summary": "CCA San Jose Lightning: 335/4(30) Indus Yodhas: 52/6(14.1)"
+  },
+  {
+   "matchId": "2539",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2539&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "RYCC Sacramento Eagles",
+    "DSCA Panthers"
+   ],
+   "teamIds": [
+    "922",
+    "919"
+   ],
+   "ground": "Judah",
+   "result": "DSCA Panthers won by 170 Runs",
+   "summary": "DSCA Panthers: 218/6(30) RYCC Sacramento Eagles: 48/8(17.4)"
+  },
+  {
+   "matchId": "2537",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2537&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "DCL Titans",
+    "CCA Palo Alto Panthers"
+   ],
+   "teamIds": [
+    "918",
+    "921"
+   ],
+   "ground": "Alisal",
+   "result": "DCL Titans won by 235 Runs",
+   "summary": "DCL Titans: 266/7(30) CCA Palo Alto Panthers: 31/6(16.2)"
+  },
+  {
+   "matchId": "2536",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2536&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "VKCA Vikings",
+    "DCL Knightriders"
+   ],
+   "teamIds": [
+    "926",
+    "917"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Vikings won by 222 Runs",
+   "summary": "VKCA Vikings: 252/3(30) DCL Knightriders: 30/9(16.3)"
+  },
+  {
+   "matchId": "2535",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2535&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "CCA Sunnyvale Stars",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "925",
+    "909"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Sunnyvale Stars won by 104 Runs",
+   "summary": "CCA Sunnyvale Stars: 192/6(30) ASCE Hawks: 88/9(30)"
+  },
+  {
+   "matchId": "2534",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2534&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "SRCA Capitals",
+    "BCA Bolts"
+   ],
+   "teamIds": [
+    "923",
+    "910"
+   ],
+   "ground": "GRMS",
+   "result": "SRCA Capitals won by 9 Wickets",
+   "summary": "BCA Bolts: 52/8(27) SRCA Capitals: 58/1(11.2)"
+  },
+  {
+   "matchId": "2538",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2538&clubId=40319",
+   "date": "2024-03-17",
+   "type": "League",
+   "teams": [
+    "DSCA Rhinos",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "934",
+    "938"
+   ],
+   "ground": "FSP",
+   "result": "SYCA Eagles won by 5 Wickets",
+   "summary": "DSCA Rhinos: 98/10(33.2) SYCA Eagles: 102/5(30.1)"
+  },
+  {
+   "matchId": "2533",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2533&clubId=40319",
+   "date": "2024-03-16",
+   "type": "League",
+   "teams": [
+    "VKCA Vulcans",
+    "USAC BA Hub XI"
+   ],
+   "teamIds": [
+    "939",
+    "940"
+   ],
+   "ground": "FSP",
+   "result": "VKCA Vulcans won by 5 Runs",
+   "summary": "VKCA Vulcans: 156/9(40) USAC BA Hub XI: 151/10(38.4)"
+  },
+  {
+   "matchId": "2532",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2532&clubId=40319",
+   "date": "2024-03-16",
+   "type": "League",
+   "teams": [
+    "CCA Titans",
+    "San Ramon Stars"
+   ],
+   "teamIds": [
+    "931",
+    "937"
+   ],
+   "ground": "Meriwest",
+   "result": "CCA Titans won by 6 Wickets",
+   "summary": "San Ramon Stars: 140/7(40) CCA Titans: 141/4(29.4)"
+  },
+  {
+   "matchId": "2531",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2531&clubId=40319",
+   "date": "2024-03-16",
+   "type": "League",
+   "teams": [
+    "EYCA Vikings",
+    "CCA Falcons"
+   ],
+   "teamIds": [
+    "936",
+    "930"
+   ],
+   "ground": "WRMS",
+   "result": "EYCA Vikings won by 8 Wickets",
+   "summary": "CCA Falcons: 74/9(36.4) EYCA Vikings: 76/2(13.5)"
+  },
+  {
+   "matchId": "2530",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2530&clubId=40319",
+   "date": "2024-03-16",
+   "type": "League",
+   "teams": [
+    "BCA Bravehearts",
+    "Dublin Legends"
+   ],
+   "teamIds": [
+    "927",
+    "935"
+   ],
+   "ground": "SCCG",
+   "result": "Dublin Legends won by 158 Runs",
+   "summary": "Dublin Legends: 269/8(36.2) BCA Bravehearts: 111/7(26)"
+  },
+  {
+   "matchId": "2529",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2529&clubId=40319",
+   "date": "2024-03-16",
+   "type": "League",
+   "teams": [
+    "CCA Centurions",
+    "DSCA Lions"
+   ],
+   "teamIds": [
+    "929",
+    "933"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Centurions won by 285 Runs",
+   "summary": "CCA Centurions: 337/6(40) DSCA Lions: 52/9(22.4)"
+  },
+  {
+   "matchId": "2528",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2528&clubId=40319",
+   "date": "2024-03-16",
+   "type": "League",
+   "teams": [
+    "BCA Bravos",
+    "CFC Sunrisers"
+   ],
+   "teamIds": [
+    "928",
+    "932"
+   ],
+   "ground": "FCP",
+   "result": "BCA Bravos won by 348 Runs",
+   "summary": "BCA Bravos: 379/7(40) CFC Sunrisers: 31/10(16.4)"
+  }
+ ]
+}

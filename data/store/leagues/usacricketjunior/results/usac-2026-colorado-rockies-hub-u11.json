@@ -1,0 +1,99 @@
+{
+ "season": {
+  "key": "s67",
+  "id": "legacy-517",
+  "name": "USAC 2026 Colorado Rockies Hub - U11"
+ },
+ "fetchedAt": "2026-11-13T21:44:56.718Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=517&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=517&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8203",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8203&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "DYCA-Parker Patriots U11",
+    "CSA-Dragons"
+   ],
+   "teamIds": [
+    "3137",
+    "3138"
+   ],
+   "ground": "Dry Creek Colorado",
+   "result": "CSA-Dragons won by 23 Runs",
+   "summary": "CSA-Dragons: 130/9(20) DYCA-Parker Patriots U11: 107/7(20)"
+  },
+  {
+   "matchId": "7933",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7933&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "DYCA-Parker Patriots U11",
+    "CSA-Dragons"
+   ],
+   "teamIds": [
+    "3137",
+    "3138"
+   ],
+   "ground": "Dry Creek Colorado",
+   "result": "DYCA-Parker Patriots U11 won by 3 Wickets",
+   "summary": "CSA-Dragons: 73/10(16) DYCA-Parker Patriots U11: 76/7(15.1)"
+  },
+  {
+   "matchId": "7893",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7893&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CSA-Dragons",
+    "DYCA-Parker Patriots U11"
+   ],
+   "teamIds": [
+    "3138",
+    "3137"
+   ],
+   "ground": "Dry Creek Colorado",
+   "result": "DYCA-Parker Patriots U11 won by 4 Wickets",
+   "summary": "CSA-Dragons: 92/7(20) DYCA-Parker Patriots U11: 93/6(18.4)"
+  },
+  {
+   "matchId": "7691",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7691&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "CSA-Dragons",
+    "DYCA-Parker Patriots U11"
+   ],
+   "teamIds": [
+    "3138",
+    "3137"
+   ],
+   "ground": "TBD",
+   "result": "DYCA-Parker Patriots U11 won by 59 Runs",
+   "summary": "DYCA-Parker Patriots U11: 140/4(25) CSA-Dragons: 81/10(24.2)"
+  },
+  {
+   "matchId": "7561",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7561&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "DYCA-Parker Patriots U11",
+    "CSA-Dragons"
+   ],
+   "teamIds": [
+    "3137",
+    "3138"
+   ],
+   "ground": "Erie Colorado",
+   "result": "DYCA-Parker Patriots U11 won by 7 Wickets",
+   "summary": "CSA-Dragons: 70/10(18.1) DYCA-Parker Patriots U11: 71/3(13.5)"
+  }
+ ]
+}

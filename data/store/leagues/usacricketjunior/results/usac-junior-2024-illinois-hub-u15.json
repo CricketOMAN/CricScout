@@ -1,0 +1,371 @@
+{
+ "season": {
+  "key": "s252",
+  "id": "legacy-207",
+  "name": "USAC Junior 2024 - Illinois Hub u15"
+ },
+ "fetchedAt": "2026-11-13T22:42:21.110Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=207&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=207&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4159",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4159&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "CMCE Tigers",
+    "BPL Braves"
+   ],
+   "teamIds": [
+    "1266",
+    "1241"
+   ],
+   "ground": "BPL",
+   "result": "BPL Braves won by 173 Runs",
+   "summary": "BPL Braves: 292/3(30) CMCE Tigers: 119/8(30)"
+  },
+  {
+   "matchId": "4157",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4157&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "CYCA GRIZZLIES",
+    "CPA Panthers"
+   ],
+   "teamIds": [
+    "1245",
+    "1265"
+   ],
+   "ground": "BPL",
+   "result": "CYCA GRIZZLIES won by 268 Runs",
+   "summary": "CYCA GRIZZLIES: 283/4(30) CPA Panthers: 15/7(9.4)"
+  },
+  {
+   "matchId": "4156",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4156&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "BPL Dominators",
+    "CYCA Bulls"
+   ],
+   "teamIds": [
+    "1242",
+    "1244"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "BPL Dominators: 0/0(0)"
+  },
+  {
+   "matchId": "4155",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4155&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "CPA Panthers",
+    "BPL Braves"
+   ],
+   "teamIds": [
+    "1265",
+    "1241"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "CPA Panthers: 0/0(0)"
+  },
+  {
+   "matchId": "4154",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4154&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "CPA Panthers",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "1265",
+    "1242"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "CPA Panthers: 0/0(0)"
+  },
+  {
+   "matchId": "4153",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4153&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls",
+    "CYCA GRIZZLIES"
+   ],
+   "teamIds": [
+    "1244",
+    "1245"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "CYCA Bulls: 0/0(0)"
+  },
+  {
+   "matchId": "4146",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4146&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "CMCE Tigers",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "1266",
+    "1242"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "BPL Dominators won by 10 Wickets",
+   "summary": "CMCE Tigers: 73/9(23.4) BPL Dominators: 74/0(7.2)"
+  },
+  {
+   "matchId": "4133",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4133&clubId=40319",
+   "date": "2024-10-06",
+   "type": "League",
+   "teams": [
+    "CMCE Tigers",
+    "CPA Panthers"
+   ],
+   "teamIds": [
+    "1266",
+    "1265"
+   ],
+   "ground": "CYCAP",
+   "result": "CMCE Tigers won by 33 Runs",
+   "summary": "CMCE Tigers: 142/10(29.5) CPA Panthers: 109/6(18.1)"
+  },
+  {
+   "matchId": "4128",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4128&clubId=40319",
+   "date": "2024-10-06",
+   "type": "League",
+   "teams": [
+    "CYCA GRIZZLIES",
+    "CPA Panthers"
+   ],
+   "teamIds": [
+    "1245",
+    "1265"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA GRIZZLIES won by 98 Runs",
+   "summary": "CYCA GRIZZLIES: 165/7(30) CPA Panthers: 67/5(16.3)"
+  },
+  {
+   "matchId": "4125",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4125&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "1244",
+    "1266"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA Bulls won by 291 Runs",
+   "summary": "CYCA Bulls: 336/4(30) CMCE Tigers: 45/9(18.3)"
+  },
+  {
+   "matchId": "4110",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4110&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls",
+    "CPA Panthers"
+   ],
+   "teamIds": [
+    "1244",
+    "1265"
+   ],
+   "ground": "CYCAP",
+   "result": "CYCA Bulls won by 242 Runs",
+   "summary": "CYCA Bulls: 277/4(30) CPA Panthers: 35/7(10.2)"
+  },
+  {
+   "matchId": "4074",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4074&clubId=40319",
+   "date": "2024-09-14",
+   "type": "League",
+   "teams": [
+    "BPL Braves",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "1241",
+    "1242"
+   ],
+   "ground": "BPL",
+   "result": "BPL Dominators won by 63 Runs",
+   "summary": "BPL Dominators: 164/3(30) BPL Braves: 101/7(24.3)"
+  },
+  {
+   "matchId": "3760",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3760&clubId=40319",
+   "date": "2024-07-21",
+   "type": "League",
+   "teams": [
+    "CYCA Bulls",
+    "BPL Dominators"
+   ],
+   "teamIds": [
+    "1244",
+    "1242"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA Bulls won by 3 Wickets",
+   "summary": "BPL Dominators: 126/8(32.3) CYCA Bulls: 129/7(33.5)"
+  },
+  {
+   "matchId": "3747",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3747&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "CYCA GRIZZLIES",
+    "BPL Braves"
+   ],
+   "teamIds": [
+    "1245",
+    "1241"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "BPL Braves won by 6 Wickets",
+   "summary": "CYCA GRIZZLIES: 85/9(31) BPL Braves: 89/4(19.3)"
+  },
+  {
+   "matchId": "3725",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3725&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "CMCE Tigers",
+    "CPA Panthers"
+   ],
+   "teamIds": [
+    "1266",
+    "1265"
+   ],
+   "ground": "Hanover Park",
+   "result": "CMCE Tigers won by 26 Runs",
+   "summary": "CMCE Tigers: 80/6(14.5) CPA Panthers: 54/3(20.2)"
+  },
+  {
+   "matchId": "3668",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3668&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "BPL Braves",
+    "CYCA Bulls"
+   ],
+   "teamIds": [
+    "1241",
+    "1244"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA Bulls won by 10 Wickets",
+   "summary": "BPL Braves: 39/10(17.2) CYCA Bulls: 40/0(7.1)"
+  },
+  {
+   "matchId": "3652",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3652&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "CYCA GRIZZLIES",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "1245",
+    "1266"
+   ],
+   "ground": "Hanover Park",
+   "result": "CYCA GRIZZLIES won by 9 Wickets",
+   "summary": "CMCE Tigers: 67/10(21) CYCA GRIZZLIES: 69/1(11.2)"
+  },
+  {
+   "matchId": "3633",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3633&clubId=40319",
+   "date": "2024-06-30",
+   "type": "League",
+   "teams": [
+    "CYCA GRIZZLIES",
+    "CYCA Bulls"
+   ],
+   "teamIds": [
+    "1245",
+    "1244"
+   ],
+   "ground": "Tigers Park - South Elgin",
+   "result": "CYCA Bulls won by 165 Runs",
+   "summary": "CYCA Bulls: 259/5(35) CYCA GRIZZLIES: 94/10(25.2)"
+  },
+  {
+   "matchId": "3527",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3527&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "BPL Dominators",
+    "BPL Braves"
+   ],
+   "teamIds": [
+    "1242",
+    "1241"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "BPL Braves won by 2 Wickets",
+   "summary": "BPL Dominators: 172/9(30.2) BPL Braves: 173/8(34.5)"
+  },
+  {
+   "matchId": "3457",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3457&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "BPL Dominators",
+    "CMCE Tigers"
+   ],
+   "teamIds": [
+    "1242",
+    "1266"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Dominators won by 9 Wickets",
+   "summary": "CMCE Tigers: 72/9(33) BPL Dominators: 74/1(7.4)"
+  },
+  {
+   "matchId": "3389",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3389&clubId=40319",
+   "date": "2024-06-14",
+   "type": "League",
+   "teams": [
+    "BPL Braves",
+    "CYCA GRIZZLIES"
+   ],
+   "teamIds": [
+    "1241",
+    "1245"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Braves won by 62 Runs",
+   "summary": "BPL Braves: 204/8(35) CYCA GRIZZLIES: 142/9(31.1)"
+  }
+ ]
+}

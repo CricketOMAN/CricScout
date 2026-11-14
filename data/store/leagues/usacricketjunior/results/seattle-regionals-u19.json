@@ -1,0 +1,31 @@
+{
+ "season": {
+  "key": "s228",
+  "id": "legacy-242",
+  "name": "Seattle Regionals U19"
+ },
+ "fetchedAt": "2026-11-13T22:39:16.558Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=242&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=242&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3882",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3882&clubId=40319",
+   "date": "2024-08-11",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1365",
+    "1364"
+   ],
+   "ground": "McCollum Park",
+   "result": "Team Blue won by 3 Runs",
+   "summary": "Team Blue: 189/10(39.1) Team Red: 186/10(34)"
+  }
+ ]
+}

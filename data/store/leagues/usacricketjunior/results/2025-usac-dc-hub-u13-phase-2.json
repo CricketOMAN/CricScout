@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s156",
+  "id": "legacy-365",
+  "name": "2025 USAC DC HUB U13 - Phase 2"
+ },
+ "fetchedAt": "2026-11-13T22:15:51.256Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=365&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=365&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5758",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5758&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2137",
+    "2140"
+   ],
+   "ground": "SK1",
+   "result": "Team Red won by 9 Runs (D/L)",
+   "summary": "Team Red: 41/10(21.4) Team Yellow: 120/6(30)"
+  },
+  {
+   "matchId": "5757",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5757&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "2138",
+    "2139"
+   ],
+   "ground": "SK2",
+   "result": "Team Blue won by 15 Runs",
+   "summary": "Team Blue: 165/6(30) Team Green: 150/8(30)"
+  },
+  {
+   "matchId": "5738",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5738&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2138",
+    "2140"
+   ],
+   "ground": "SK2",
+   "result": "Team Yellow won by 68 Runs",
+   "summary": "Team Yellow: 138/6(30) Team Blue: 70/10(19)"
+  },
+  {
+   "matchId": "5737",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5737&clubId=40319",
+   "date": "2025-06-19",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "2137",
+    "2139"
+   ],
+   "ground": "SK1",
+   "result": "Team Red won by 42 Runs",
+   "summary": "Team Red: 137/8(30) Team Green: 95/10(24.1)"
+  },
+  {
+   "matchId": "5731",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5731&clubId=40319",
+   "date": "2025-06-18",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "2139",
+    "2140"
+   ],
+   "ground": "SK2",
+   "result": "Team Green: 133/5 (30/30 ov)",
+   "summary": "Team Green: 133/5(30) Live"
+  },
+  {
+   "matchId": "5730",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5730&clubId=40319",
+   "date": "2025-06-18",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "2137",
+    "2138"
+   ],
+   "ground": "SK1",
+   "result": "Team Blue: 135/9 (30/30 ov)",
+   "summary": "Team Blue: 135/9(30) Live"
+  }
+ ]
+}

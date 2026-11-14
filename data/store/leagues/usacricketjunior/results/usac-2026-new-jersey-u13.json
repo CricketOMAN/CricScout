@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s107",
+  "id": "legacy-470",
+  "name": "USAC 2026 - New Jersey - U13"
+ },
+ "fetchedAt": "2026-11-13T21:52:06.598Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=470&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=470&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9137",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9137&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Yellow"
+   ],
+   "teamIds": [
+    "3436",
+    "3437"
+   ],
+   "ground": "TBD",
+   "result": "Yellow won by 1 Run (D/L)",
+   "summary": "Blue: 141/9(36) Yellow: 149/10(36)"
+  },
+  {
+   "matchId": "9134",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9134&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Maroon"
+   ],
+   "teamIds": [
+    "3438",
+    "3441"
+   ],
+   "ground": "TBD",
+   "result": "Maroon won by 1 Run (D/L)",
+   "summary": "Red: 131/10(28.4) Maroon: 152/4(36)"
+  },
+  {
+   "matchId": "9133",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9133&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "Orange",
+    "Purple"
+   ],
+   "teamIds": [
+    "3440",
+    "3439"
+   ],
+   "ground": "TBD",
+   "result": "Purple won by 3 Wickets",
+   "summary": "Orange: 188/10(36) Purple: 190/7(35.2)"
+  },
+  {
+   "matchId": "9117",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9117&clubId=40319",
+   "date": "2026-07-17",
+   "type": "League",
+   "teams": [
+    "Yellow",
+    "Maroon"
+   ],
+   "teamIds": [
+    "3437",
+    "3441"
+   ],
+   "ground": "TBD",
+   "result": "Yellow won by 47 Runs",
+   "summary": "Yellow: 202/8(36) Maroon: 155/7(36)"
+  },
+  {
+   "matchId": "9116",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9116&clubId=40319",
+   "date": "2026-07-17",
+   "type": "League",
+   "teams": [
+    "Purple",
+    "Blue"
+   ],
+   "teamIds": [
+    "3439",
+    "3436"
+   ],
+   "ground": "TBD",
+   "result": "Blue won by 1 Run (D/L)",
+   "summary": "Purple: 144/10(36) Blue: 161/9(36)"
+  },
+  {
+   "matchId": "9115",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9115&clubId=40319",
+   "date": "2026-07-17",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Orange"
+   ],
+   "teamIds": [
+    "3438",
+    "3440"
+   ],
+   "ground": "TBD",
+   "result": "Orange won by 1 Run (D/L)",
+   "summary": "Red: 161/9(36) Orange: 223/6(36)"
+  },
+  {
+   "matchId": "9111",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9111&clubId=40319",
+   "date": "2026-07-16",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Purple"
+   ],
+   "teamIds": [
+    "3438",
+    "3439"
+   ],
+   "ground": "TBD",
+   "result": "Purple won by 9 Runs",
+   "summary": "Purple: 228/9(36) Red: 219/9(36)"
+  },
+  {
+   "matchId": "9110",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9110&clubId=40319",
+   "date": "2026-07-16",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Maroon"
+   ],
+   "teamIds": [
+    "3436",
+    "3441"
+   ],
+   "ground": "TBD",
+   "result": "Blue won by 2 Runs",
+   "summary": "Blue: 149/10(35.5) Maroon: 147/11(36)"
+  },
+  {
+   "matchId": "9109",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9109&clubId=40319",
+   "date": "2026-07-16",
+   "type": "League",
+   "teams": [
+    "Yellow",
+    "Orange"
+   ],
+   "teamIds": [
+    "3437",
+    "3440"
+   ],
+   "ground": "TBD",
+   "result": "Yellow won by 3 Wickets",
+   "summary": "Orange: 196/8(36) Yellow: 197/7(35)"
+  },
+  {
+   "matchId": "9106",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9106&clubId=40319",
+   "date": "2026-07-15",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Orange"
+   ],
+   "teamIds": [
+    "3436",
+    "3440"
+   ],
+   "ground": "TBD",
+   "result": "Blue won by 78 Runs",
+   "summary": "Blue: 193/7(36) Orange: 115/12(28.4)"
+  },
+  {
+   "matchId": "9105",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9105&clubId=40319",
+   "date": "2026-07-15",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Yellow"
+   ],
+   "teamIds": [
+    "3438",
+    "3437"
+   ],
+   "ground": "TBD",
+   "result": "Yellow won by 1 Run",
+   "summary": "Yellow: 162/12(34.5) Red: 161/11(36)"
+  },
+  {
+   "matchId": "9103",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9103&clubId=40319",
+   "date": "2026-07-15",
+   "type": "League",
+   "teams": [
+    "Purple",
+    "Maroon"
+   ],
+   "teamIds": [
+    "3439",
+    "3441"
+   ],
+   "ground": "TBD",
+   "result": "Purple won by 16 Runs",
+   "summary": "Purple: 213/10(35) Maroon: 197/10(35)"
+  },
+  {
+   "matchId": "9096",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9096&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "Yellow",
+    "Purple"
+   ],
+   "teamIds": [
+    "3437",
+    "3439"
+   ],
+   "ground": "TBD",
+   "result": "Purple won by 12 Runs",
+   "summary": "Purple: 230/12(35.5) Yellow: 218/7(36)"
+  },
+  {
+   "matchId": "9094",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9094&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "3438",
+    "3436"
+   ],
+   "ground": "TBD",
+   "result": "Red won by 37 Runs",
+   "summary": "Red: 194/10(35) Blue: 157/12(34.2)"
+  },
+  {
+   "matchId": "9093",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9093&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "Orange",
+    "Maroon"
+   ],
+   "teamIds": [
+    "3440",
+    "3441"
+   ],
+   "ground": "TBD",
+   "result": "Maroon won by 32 Runs",
+   "summary": "Maroon: 201/7(36) Orange: 169/11(36)"
+  }
+ ]
+}

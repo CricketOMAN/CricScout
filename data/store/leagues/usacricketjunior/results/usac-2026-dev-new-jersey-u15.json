@@ -1,0 +1,2258 @@
+{
+ "season": {
+  "key": "s110",
+  "id": "legacy-463",
+  "name": "USAC 2026 Dev - New Jersey - U15"
+ },
+ "fetchedAt": "2026-11-13T21:52:13.479Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=463&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=463&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9344",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9344&clubId=40319",
+   "date": "2026-08-15",
+   "type": "Final",
+   "teams": [
+    "RRA NJ Orions",
+    "Knight Riders Destroyers"
+   ],
+   "teamIds": [
+    "2972",
+    "2966"
+   ],
+   "ground": "TBD",
+   "result": "RRA NJ Orions won by 20 Runs",
+   "summary": "RRA NJ Orions: 143/8(40) Knight Riders Destroyers: 123/10(37.2)"
+  },
+  {
+   "matchId": "9343",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9343&clubId=40319",
+   "date": "2026-08-15",
+   "type": "Final",
+   "teams": [
+    "Jersey Titans Spartans",
+    "Gameday Renegades"
+   ],
+   "teamIds": [
+    "2974",
+    "2977"
+   ],
+   "ground": "TBD",
+   "result": "Jersey Titans Spartans won by 96 Runs",
+   "summary": "Jersey Titans Spartans: 218/6(40) Gameday Renegades: 122/10(32.1)"
+  },
+  {
+   "matchId": "9341",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9341&clubId=40319",
+   "date": "2026-08-15",
+   "type": "Final",
+   "teams": [
+    "Gameday Firebirds",
+    "RRA NJ - Phoenix"
+   ],
+   "teamIds": [
+    "2997",
+    "2993"
+   ],
+   "ground": "TBD",
+   "result": "RRA NJ - Phoenix won by 8 Wickets",
+   "summary": "Gameday Firebirds: 142/10(39.1) RRA NJ - Phoenix: 144/2(24.3)"
+  },
+  {
+   "matchId": "9342",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9342&clubId=40319",
+   "date": "2026-08-14",
+   "type": "Final",
+   "teams": [
+    "SKA Lions",
+    "DreamCricket Drona Elite"
+   ],
+   "teamIds": [
+    "2998",
+    "2989"
+   ],
+   "ground": "TBD",
+   "result": "SKA Lions won by 10 Runs",
+   "summary": "SKA Lions: 106/9(31) DreamCricket Drona Elite: 96/10(27.5)"
+  },
+  {
+   "matchId": "9334",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9334&clubId=40319",
+   "date": "2026-08-10",
+   "type": "Semi Final",
+   "teams": [
+    "Knight Riders Destroyers",
+    "DreamCricket Jaguars"
+   ],
+   "teamIds": [
+    "2966",
+    "2967"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Destroyers won by 163 Runs",
+   "summary": "Knight Riders Destroyers: 214/2(40) DreamCricket Jaguars: 51/10(25)"
+  },
+  {
+   "matchId": "9326",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9326&clubId=40319",
+   "date": "2026-08-08",
+   "type": "Super League",
+   "teams": [
+    "DreamCricket Drona Elite",
+    "Rising Stars Mavericks"
+   ],
+   "teamIds": [
+    "2989",
+    "2985"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: DreamCricket Drona Elite",
+   "summary": "DreamCricket Drona Elite: 0/0(0)"
+  },
+  {
+   "matchId": "9271",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9271&clubId=40319",
+   "date": "2026-08-01",
+   "type": "Quarter Final",
+   "teams": [
+    "Knight Riders Destroyers",
+    "Knight Riders Crushers"
+   ],
+   "teamIds": [
+    "2966",
+    "2979"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Destroyers won by 10 Wickets",
+   "summary": "Knight Riders Crushers: 143/9(40) Knight Riders Destroyers: 144/0(25.5)"
+  },
+  {
+   "matchId": "9269",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9269&clubId=40319",
+   "date": "2026-08-01",
+   "type": "Super League",
+   "teams": [
+    "RRA NJ Solaris",
+    "Gameday Renegades"
+   ],
+   "teamIds": [
+    "2983",
+    "2977"
+   ],
+   "ground": "TBD",
+   "result": "Gameday Renegades won by 71 Runs",
+   "summary": "Gameday Renegades: 128/10(35.4) RRA NJ Solaris: 57/10(18.3)"
+  },
+  {
+   "matchId": "9267",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9267&clubId=40319",
+   "date": "2026-08-01",
+   "type": "Semi Final",
+   "teams": [
+    "RRA NJ Orions",
+    "Drona Sports Quasars"
+   ],
+   "teamIds": [
+    "2972",
+    "2980"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "RRA NJ Orions won by 177 Runs",
+   "summary": "RRA NJ Orions: 357/6(40) Drona Sports Quasars: 180/10(40)"
+  },
+  {
+   "matchId": "9266",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9266&clubId=40319",
+   "date": "2026-08-01",
+   "type": "Super League",
+   "teams": [
+    "Jersey Titans Spartans",
+    "CCCA Tigers"
+   ],
+   "teamIds": [
+    "2974",
+    "2969"
+   ],
+   "ground": "TBD",
+   "result": "Jersey Titans Spartans won by 9 Wickets",
+   "summary": "CCCA Tigers: 104/10(27.5) Jersey Titans Spartans: 105/1(10.2)"
+  },
+  {
+   "matchId": "9327",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9327&clubId=40319",
+   "date": "2026-08-01",
+   "type": "Quarter Final",
+   "teams": [
+    "Rising Stars Mavericks",
+    "Princeton Yodhas"
+   ],
+   "teamIds": [
+    "2985",
+    "2999"
+   ],
+   "ground": "Plainsboro Community Park",
+   "result": "Forfeited. Winner: Rising Stars Mavericks",
+   "summary": "Rising Stars Mavericks: 0/0(0)"
+  },
+  {
+   "matchId": "9268",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9268&clubId=40319",
+   "date": "2026-08-01",
+   "type": "Super League",
+   "teams": [
+    "SKA Lions",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "2998",
+    "2994"
+   ],
+   "ground": "TBD",
+   "result": "SKA Lions won by 79 Runs",
+   "summary": "SKA Lions: 176/8(40) StarSportsUS Crushers: 97/7(23)"
+  },
+  {
+   "matchId": "9265",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9265&clubId=40319",
+   "date": "2026-08-01",
+   "type": "Semi Final",
+   "teams": [
+    "Knight Riders Challengers",
+    "Gameday Firebirds"
+   ],
+   "teamIds": [
+    "2986",
+    "2997"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Gameday Firebirds won by 45 Runs",
+   "summary": "Gameday Firebirds: 205/9(40) Knight Riders Challengers: 160/11(38.1)"
+  },
+  {
+   "matchId": "9261",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9261&clubId=40319",
+   "date": "2026-08-01",
+   "type": "Semi Final",
+   "teams": [
+    "FJSC Blazers",
+    "RRA NJ - Phoenix"
+   ],
+   "teamIds": [
+    "2984",
+    "2993"
+   ],
+   "ground": "Dwyer",
+   "result": "RRA NJ - Phoenix won by 41 Runs",
+   "summary": "RRA NJ - Phoenix: 163/7(34) FJSC Blazers: 122/10(32)"
+  },
+  {
+   "matchId": "9221",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9221&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "DreamCricket Jaguars",
+    "DreamCricket Panthers"
+   ],
+   "teamIds": [
+    "2967",
+    "2973"
+   ],
+   "ground": "TBD",
+   "result": "DreamCricket Jaguars won by 8 Wickets",
+   "summary": "DreamCricket Panthers: 167/10(34.2) DreamCricket Jaguars: 168/2(37.4)"
+  },
+  {
+   "matchId": "9218",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9218&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "Jersey Titans Spartans",
+    "DreamCricket Leopards"
+   ],
+   "teamIds": [
+    "2974",
+    "2981"
+   ],
+   "ground": "TBD",
+   "result": "Jersey Titans Spartans won by 10 Wickets",
+   "summary": "DreamCricket Leopards: 84/9(23.4) Jersey Titans Spartans: 89/0(7.4)"
+  },
+  {
+   "matchId": "9217",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9217&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "Delhi Capitals Dominators",
+    "Drona Sports Quasars"
+   ],
+   "teamIds": [
+    "2978",
+    "2980"
+   ],
+   "ground": "TBD",
+   "result": "Drona Sports Quasars won by 1 Wicket",
+   "summary": "Delhi Capitals Dominators: 127/9(27.5) Drona Sports Quasars: 128/9(37.2)"
+  },
+  {
+   "matchId": "9214",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9214&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Qualifier",
+   "teams": [
+    "NJRoyal Mavericks",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "2970",
+    "2982"
+   ],
+   "ground": "TBD",
+   "result": "NJRoyal Mavericks won by 47 Runs",
+   "summary": "NJRoyal Mavericks: 188/10(32.1) ICUSA Black Mambas: 141/9(32)"
+  },
+  {
+   "matchId": "9213",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9213&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "Jersey Titans Helios",
+    "CCCA Tigers"
+   ],
+   "teamIds": [
+    "2971",
+    "2969"
+   ],
+   "ground": "TBD",
+   "result": "CCCA Tigers won by 7 Wickets",
+   "summary": "Jersey Titans Helios: 51/9(17.5) CCCA Tigers: 52/3(8.4)"
+  },
+  {
+   "matchId": "9211",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9211&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "RRA NJ Orions",
+    "RRA NJ Lynx"
+   ],
+   "teamIds": [
+    "2972",
+    "2968"
+   ],
+   "ground": "TBD",
+   "result": "RRA NJ Orions won by 105 Runs",
+   "summary": "RRA NJ Orions: 270/9(40) RRA NJ Lynx: 165/10(33.3)"
+  },
+  {
+   "matchId": "9210",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9210&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "RRA NJ Solaris",
+    "Knight Riders Rangers"
+   ],
+   "teamIds": [
+    "2983",
+    "2976"
+   ],
+   "ground": "TBD",
+   "result": "RRA NJ Solaris won by 7 Wickets",
+   "summary": "Knight Riders Rangers: 153/10(28.2) RRA NJ Solaris: 156/3(19.4)"
+  },
+  {
+   "matchId": "9209",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9209&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "StarSportsUS Lions",
+    "Gameday Renegades"
+   ],
+   "teamIds": [
+    "2975",
+    "2977"
+   ],
+   "ground": "TBD",
+   "result": "Gameday Renegades won by 47 Runs",
+   "summary": "Gameday Renegades: 236/10(37.4) StarSportsUS Lions: 189/8(40)"
+  },
+  {
+   "matchId": "9215",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9215&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "Jersey Titans Warriors",
+    "RRA NJ - Phoenix"
+   ],
+   "teamIds": [
+    "2987",
+    "2993"
+   ],
+   "ground": "TBD",
+   "result": "RRA NJ - Phoenix won by 7 Wickets",
+   "summary": "Jersey Titans Warriors: 66/7(23.5) RRA NJ - Phoenix: 67/3(10.1)"
+  },
+  {
+   "matchId": "9201",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9201&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "FJSC Blazers",
+    "DreamCricket Pumas"
+   ],
+   "teamIds": [
+    "2984",
+    "2992"
+   ],
+   "ground": "TBD",
+   "result": "FJSC Blazers won by 5 Wickets",
+   "summary": "DreamCricket Pumas: 66/10(18.5) FJSC Blazers: 67/5(17)"
+  },
+  {
+   "matchId": "9018",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9018&clubId=40319",
+   "date": "2026-07-25",
+   "type": "Quarter Final",
+   "teams": [
+    "Knight Riders Challengers",
+    "Gameday Avengers"
+   ],
+   "teamIds": [
+    "2986",
+    "2988"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Challengers won by 8 Wickets",
+   "summary": "Gameday Avengers: 126/11(37.3) Knight Riders Challengers: 127/2(21.1)"
+  },
+  {
+   "matchId": "9025",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9025&clubId=40319",
+   "date": "2026-07-11",
+   "type": "Quarter Final",
+   "teams": [
+    "DreamCricket Drona Elite",
+    "Delhi Capitals Giants"
+   ],
+   "teamIds": [
+    "2989",
+    "2990"
+   ],
+   "ground": "TBD",
+   "result": "DreamCricket Drona Elite won by 3 Wickets",
+   "summary": "Delhi Capitals Giants: 123/11(30.1) DreamCricket Drona Elite: 124/7(28.2)"
+  },
+  {
+   "matchId": "9017",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9017&clubId=40319",
+   "date": "2026-07-11",
+   "type": "Quarter Final",
+   "teams": [
+    "Princeton Yodhas",
+    "Rising Stars Mavericks"
+   ],
+   "teamIds": [
+    "2999",
+    "2985"
+   ],
+   "ground": "TBD",
+   "result": "Rising Stars Mavericks: 374/8 (40/40 ov) Princeton Yodhas: 165/8 (30.4/40 ov)",
+   "summary": "Rising Stars Mavericks: 374/8(40) Princeton Yodhas: 165/8(30.4) Live"
+  },
+  {
+   "matchId": "9010",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9010&clubId=40319",
+   "date": "2026-07-11",
+   "type": "Quarter Final",
+   "teams": [
+    "Gameday Firebirds",
+    "RRA NJ Polaris"
+   ],
+   "teamIds": [
+    "2997",
+    "2996"
+   ],
+   "ground": "TBD",
+   "result": "Gameday Firebirds won by 96 Runs",
+   "summary": "Gameday Firebirds: 245/7(40) RRA NJ Polaris: 149/10(32.4)"
+  },
+  {
+   "matchId": "9005",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9005&clubId=40319",
+   "date": "2026-07-11",
+   "type": "Quarter Final",
+   "teams": [
+    "StarSportsUS Crushers",
+    "CCCA Pumas"
+   ],
+   "teamIds": [
+    "2994",
+    "2995"
+   ],
+   "ground": "TBD",
+   "result": "StarSportsUS Crushers won by 49 Runs",
+   "summary": "StarSportsUS Crushers: 181/8(40) CCCA Pumas: 132/9(28.4)"
+  },
+  {
+   "matchId": "8998",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8998&clubId=40319",
+   "date": "2026-07-11",
+   "type": "Quarter Final",
+   "teams": [
+    "SKA Lions",
+    "KCR Raptors"
+   ],
+   "teamIds": [
+    "2998",
+    "2991"
+   ],
+   "ground": "TBD",
+   "result": "Forfeited. Winner: SKA Lions",
+   "summary": "SKA Lions: 0/0(0)"
+  },
+  {
+   "matchId": "8559",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8559&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "NJRoyal Mavericks",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "2970",
+    "2982"
+   ],
+   "ground": "Ten Eyck Park",
+   "result": "Abandoned. Winner: NJRoyal Mavericks",
+   "summary": "NJRoyal Mavericks: 0/0(0)"
+  },
+  {
+   "matchId": "8531",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8531&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "DreamCricket Leopards",
+    "Knight Riders Rangers"
+   ],
+   "teamIds": [
+    "2981",
+    "2976"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Rangers won by 98 Runs (D/L)",
+   "summary": "Knight Riders Rangers: 273/3(40) DreamCricket Leopards: 138/7(31.1)"
+  },
+  {
+   "matchId": "8530",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8530&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Gameday Renegades",
+    "CCCA Tigers"
+   ],
+   "teamIds": [
+    "2977",
+    "2969"
+   ],
+   "ground": "TBD",
+   "result": "CCCA Tigers won by 6 Wickets",
+   "summary": "Gameday Renegades: 132/10(29.4) CCCA Tigers: 135/4(28)"
+  },
+  {
+   "matchId": "8524",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8524&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Spartans",
+    "RRA NJ Solaris"
+   ],
+   "teamIds": [
+    "2974",
+    "2983"
+   ],
+   "ground": "TBD",
+   "result": "Jersey Titans Spartans won by 10 Wickets",
+   "summary": "RRA NJ Solaris: 77/8(19.2) Jersey Titans Spartans: 78/0(10.4)"
+  },
+  {
+   "matchId": "8521",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8521&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "RRA NJ Orions",
+    "Knight Riders Destroyers"
+   ],
+   "teamIds": [
+    "2972",
+    "2966"
+   ],
+   "ground": "TBD",
+   "result": "RRA NJ Orions won by 5 Wickets",
+   "summary": "Knight Riders Destroyers: 117/9(40) RRA NJ Orions: 118/5(28.2)"
+  },
+  {
+   "matchId": "8520",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8520&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "RRA NJ Lynx",
+    "Knight Riders Crushers"
+   ],
+   "teamIds": [
+    "2968",
+    "2979"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Crushers won by 6 Wickets",
+   "summary": "RRA NJ Lynx: 116/11(31.5) Knight Riders Crushers: 120/4(21.4)"
+  },
+  {
+   "matchId": "8519",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8519&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Delhi Capitals Dominators",
+    "DreamCricket Jaguars"
+   ],
+   "teamIds": [
+    "2978",
+    "2967"
+   ],
+   "ground": "TBD",
+   "result": "DreamCricket Jaguars won by 8 Wickets",
+   "summary": "Delhi Capitals Dominators: 200/10(40.2) DreamCricket Jaguars: 201/2(32.1)"
+  },
+  {
+   "matchId": "8517",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8517&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Drona Sports Quasars",
+    "DreamCricket Panthers"
+   ],
+   "teamIds": [
+    "2980",
+    "2973"
+   ],
+   "ground": "NJYCA",
+   "result": "Drona Sports Quasars won by 37 Runs",
+   "summary": "Drona Sports Quasars: 198/6(40) DreamCricket Panthers: 161/11(35)"
+  },
+  {
+   "matchId": "8482",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8482&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Helios",
+    "StarSportsUS Lions"
+   ],
+   "teamIds": [
+    "2971",
+    "2975"
+   ],
+   "ground": "TBD",
+   "result": "StarSportsUS Lions won by 31 Runs",
+   "summary": "StarSportsUS Lions: 154/9(35) Jersey Titans Helios: 123/10(30.3)"
+  },
+  {
+   "matchId": "8546",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8546&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Rising Stars Mavericks",
+    "KCR Raptors"
+   ],
+   "teamIds": [
+    "2985",
+    "2991"
+   ],
+   "ground": "Plainsboro Community Park",
+   "result": "Forfeited. Winner: Rising Stars Mavericks",
+   "summary": "Rising Stars Mavericks: 0/0(0)"
+  },
+  {
+   "matchId": "8541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8541&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "DreamCricket Drona Elite"
+   ],
+   "teamIds": [
+    "2994",
+    "2989"
+   ],
+   "ground": "Walt Disney Elementary School",
+   "result": "DreamCricket Drona Elite won by 6 Wickets",
+   "summary": "StarSportsUS Crushers: 96/10(33) DreamCricket Drona Elite: 97/4(25.1)"
+  },
+  {
+   "matchId": "8538",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8538&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Gameday Avengers",
+    "DreamCricket Pumas"
+   ],
+   "teamIds": [
+    "2988",
+    "2992"
+   ],
+   "ground": "Huntington Valley, PA",
+   "result": "Gameday Avengers won by 4 Wickets",
+   "summary": "DreamCricket Pumas: 125/11(24.1) Gameday Avengers: 126/6(29.5)"
+  },
+  {
+   "matchId": "8533",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8533&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "RRA NJ - Phoenix",
+    "RRA NJ Polaris"
+   ],
+   "teamIds": [
+    "2993",
+    "2996"
+   ],
+   "ground": "Scotts Corner Road (Cranbury)",
+   "result": "RRA NJ - Phoenix won by 3 Wickets",
+   "summary": "RRA NJ Polaris: 135/11(27.3) RRA NJ - Phoenix: 138/7(18.2)"
+  },
+  {
+   "matchId": "8529",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8529&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "CCCA Pumas",
+    "Delhi Capitals Giants"
+   ],
+   "teamIds": [
+    "2995",
+    "2990"
+   ],
+   "ground": "TBD",
+   "result": "CCCA Pumas won by 59 Runs (D/L)",
+   "summary": "CCCA Pumas: 249/4(40) Delhi Capitals Giants: 88/5(16.2)"
+  },
+  {
+   "matchId": "8523",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8523&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Gameday Firebirds",
+    "Jersey Titans Warriors"
+   ],
+   "teamIds": [
+    "2997",
+    "2987"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Gameday Firebirds won by 131 Runs",
+   "summary": "Gameday Firebirds: 197/10(40) Jersey Titans Warriors: 66/9(18.5)"
+  },
+  {
+   "matchId": "8514",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8514&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "Princeton Yodhas",
+    "SKA Lions"
+   ],
+   "teamIds": [
+    "2999",
+    "2998"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "SKA Lions won by 30 Runs",
+   "summary": "SKA Lions: 206/11(38.5) Princeton Yodhas: 176/9(30.5)"
+  },
+  {
+   "matchId": "8486",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8486&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "FJSC Blazers",
+    "Knight Riders Challengers"
+   ],
+   "teamIds": [
+    "2984",
+    "2986"
+   ],
+   "ground": "Dwyer",
+   "result": "FJSC Blazers won by 72 Runs (D/L)",
+   "summary": "FJSC Blazers: 208/8(35) Knight Riders Challengers: 119/7(27)"
+  },
+  {
+   "matchId": "8470",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8470&clubId=40319",
+   "date": "2026-06-05",
+   "type": "League",
+   "teams": [
+    "RRA NJ - Phoenix",
+    "Knight Riders Challengers"
+   ],
+   "teamIds": [
+    "2993",
+    "2986"
+   ],
+   "ground": "Heavenly Farms (East Brunswick)",
+   "result": "Knight Riders Challengers won by 5 Wickets",
+   "summary": "RRA NJ - Phoenix: 139/6(27) Knight Riders Challengers: 140/5(26.5)"
+  },
+  {
+   "matchId": "8424",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8424&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Princeton Yodhas",
+    "CCCA Pumas"
+   ],
+   "teamIds": [
+    "2999",
+    "2995"
+   ],
+   "ground": "Evans Cricket Ground",
+   "result": "CCCA Pumas won by 40 Runs",
+   "summary": "CCCA Pumas: 240/11(35.4) Princeton Yodhas: 200/9(32.4)"
+  },
+  {
+   "matchId": "8349",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8349&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Drona Sports Quasars",
+    "Delhi Capitals Dominators"
+   ],
+   "teamIds": [
+    "2980",
+    "2978"
+   ],
+   "ground": "NJYCA",
+   "result": "Drona Sports Quasars won by 11 Runs",
+   "summary": "Drona Sports Quasars: 123/9(30) Delhi Capitals Dominators: 112/10(29.3)"
+  },
+  {
+   "matchId": "8335",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8335&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "DreamCricket Jaguars",
+    "CCCA Tigers"
+   ],
+   "teamIds": [
+    "2967",
+    "2969"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "DreamCricket Jaguars won by 9 Wickets",
+   "summary": "CCCA Tigers: 63/10(19) DreamCricket Jaguars: 66/1(6.1)"
+  },
+  {
+   "matchId": "8332",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8332&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Helios",
+    "RRA NJ Lynx"
+   ],
+   "teamIds": [
+    "2971",
+    "2968"
+   ],
+   "ground": "Staten island",
+   "result": "RRA NJ Lynx won by 72 Runs",
+   "summary": "RRA NJ Lynx: 179/7(40) Jersey Titans Helios: 107/10(29.5)"
+  },
+  {
+   "matchId": "8318",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8318&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Knight Riders Destroyers",
+    "NJRoyal Mavericks"
+   ],
+   "teamIds": [
+    "2966",
+    "2970"
+   ],
+   "ground": "Woodrow Wilson Middle School (Edison, NJ)",
+   "result": "Knight Riders Destroyers won by 626 Runs",
+   "summary": "Knight Riders Destroyers: 686/4(40) NJRoyal Mavericks: 60/9(19.2)"
+  },
+  {
+   "matchId": "8313",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8313&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "DreamCricket Leopards",
+    "Knight Riders Crushers"
+   ],
+   "teamIds": [
+    "2981",
+    "2979"
+   ],
+   "ground": "Ten Eyck Park",
+   "result": "Knight Riders Crushers won by 128 Runs",
+   "summary": "Knight Riders Crushers: 205/10(40) DreamCricket Leopards: 77/10(27.3)"
+  },
+  {
+   "matchId": "8305",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8305&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "ICUSA Black Mambas",
+    "Delhi Capitals Dominators"
+   ],
+   "teamIds": [
+    "2982",
+    "2978"
+   ],
+   "ground": "NJYCA",
+   "result": "Delhi Capitals Dominators won by 148 Runs",
+   "summary": "Delhi Capitals Dominators: 215/4(25) ICUSA Black Mambas: 67/10(20.5)"
+  },
+  {
+   "matchId": "8279",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8279&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Knight Riders Rangers",
+    "RRA NJ Orions"
+   ],
+   "teamIds": [
+    "2976",
+    "2972"
+   ],
+   "ground": "Dwight D Eisenhower School (Ground 1)",
+   "result": "RRA NJ Orions won by 5 Wickets",
+   "summary": "Knight Riders Rangers: 112/10(32) RRA NJ Orions: 113/5(25.3)"
+  },
+  {
+   "matchId": "8357",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8357&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "KCR Raptors",
+    "Rising Stars Mavericks"
+   ],
+   "teamIds": [
+    "2991",
+    "2985"
+   ],
+   "ground": "Plainsboro Community Park",
+   "result": "Rising Stars Mavericks won by 6 Wickets",
+   "summary": "KCR Raptors: 93/3(20) Rising Stars Mavericks: 129/4(20)"
+  },
+  {
+   "matchId": "8353",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8353&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "RRA NJ Polaris",
+    "Princeton Yodhas"
+   ],
+   "teamIds": [
+    "2996",
+    "2999"
+   ],
+   "ground": "Knights Cricket Field, (Phoenixville, PA)",
+   "result": "RRA NJ Polaris won by 11 Runs",
+   "summary": "RRA NJ Polaris: 167/8(30) Princeton Yodhas: 156/6(30)"
+  },
+  {
+   "matchId": "8331",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8331&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "DreamCricket Pumas",
+    "FJSC Blazers"
+   ],
+   "teamIds": [
+    "2992",
+    "2984"
+   ],
+   "ground": "Scotts Corner Road (Cranbury)",
+   "result": "FJSC Blazers won by 5 Wickets",
+   "summary": "DreamCricket Pumas: 167/11(38.2) FJSC Blazers: 168/5(39.3)"
+  },
+  {
+   "matchId": "8317",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8317&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "RRA NJ - Phoenix",
+    "Gameday Avengers"
+   ],
+   "teamIds": [
+    "2993",
+    "2988"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "RRA NJ - Phoenix won by 20 Runs",
+   "summary": "RRA NJ - Phoenix: 297/9(40) Gameday Avengers: 277/8(40)"
+  },
+  {
+   "matchId": "8315",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8315&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Delhi Capitals Giants",
+    "Knight Riders Challengers"
+   ],
+   "teamIds": [
+    "2990",
+    "2986"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "Knight Riders Challengers won by 5 Wickets",
+   "summary": "Delhi Capitals Giants: 141/11(39.5) Knight Riders Challengers: 142/5(23.4)"
+  },
+  {
+   "matchId": "8309",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8309&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "SKA Lions",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "2998",
+    "2994"
+   ],
+   "ground": "TBD",
+   "result": "SKA Lions won by 10 Wickets",
+   "summary": "StarSportsUS Crushers: 109/10(21) SKA Lions: 110/0(18.5)"
+  },
+  {
+   "matchId": "8277",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8277&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Warriors",
+    "DreamCricket Drona Elite"
+   ],
+   "teamIds": [
+    "2987",
+    "2989"
+   ],
+   "ground": "Dwyer",
+   "result": "Jersey Titans Warriors won by 8 Wickets",
+   "summary": "DreamCricket Drona Elite: 76/10(18.1) Jersey Titans Warriors: 78/2(10.4)"
+  },
+  {
+   "matchId": "8265",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8265&clubId=40319",
+   "date": "2026-05-28",
+   "type": "League",
+   "teams": [
+    "Knight Riders Crushers",
+    "RRA NJ Solaris"
+   ],
+   "teamIds": [
+    "2979",
+    "2983"
+   ],
+   "ground": "Heavenly Farms (East Brunswick)",
+   "result": "RRA NJ Solaris won by 5 Runs",
+   "summary": "RRA NJ Solaris: 131/8(28) Knight Riders Crushers: 126/9(28)"
+  },
+  {
+   "matchId": "8191",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8191&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "RRA NJ Solaris",
+    "Drona Sports Quasars"
+   ],
+   "teamIds": [
+    "2983",
+    "2980"
+   ],
+   "ground": "NJYCA",
+   "result": "Drona Sports Quasars won by 158 Runs",
+   "summary": "Drona Sports Quasars: 239/5(40) RRA NJ Solaris: 81/10(20.5)"
+  },
+  {
+   "matchId": "8097",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8097&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "DreamCricket Jaguars",
+    "Knight Riders Destroyers"
+   ],
+   "teamIds": [
+    "2967",
+    "2966"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "DreamCricket Jaguars won by 4 Wickets",
+   "summary": "Knight Riders Destroyers: 153/10(38.2) DreamCricket Jaguars: 155/6(37.3)"
+  },
+  {
+   "matchId": "8089",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8089&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "NJRoyal Mavericks",
+    "RRA NJ Lynx"
+   ],
+   "teamIds": [
+    "2970",
+    "2968"
+   ],
+   "ground": "NJYCA",
+   "result": "RRA NJ Lynx won by 106 Runs",
+   "summary": "RRA NJ Lynx: 199/9(40) NJRoyal Mavericks: 93/10(36.2)"
+  },
+  {
+   "matchId": "8087",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8087&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "RRA NJ Orions",
+    "DreamCricket Panthers"
+   ],
+   "teamIds": [
+    "2972",
+    "2973"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "RRA NJ Orions won by 6 Wickets",
+   "summary": "DreamCricket Panthers: 198/7(40) RRA NJ Orions: 199/4(35.5)"
+  },
+  {
+   "matchId": "8084",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8084&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Delhi Capitals Dominators",
+    "Knight Riders Crushers"
+   ],
+   "teamIds": [
+    "2978",
+    "2979"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "Delhi Capitals Dominators won by 55 Runs",
+   "summary": "Delhi Capitals Dominators: 240/8(40) Knight Riders Crushers: 185/10(37.3)"
+  },
+  {
+   "matchId": "8075",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8075&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "RRA NJ Solaris",
+    "DreamCricket Leopards"
+   ],
+   "teamIds": [
+    "2983",
+    "2981"
+   ],
+   "ground": "Applegarth Elementary School (Monroe, NJ)",
+   "result": "RRA NJ Solaris won by 3 Wickets",
+   "summary": "DreamCricket Leopards: 173/9(40) RRA NJ Solaris: 175/7(25.4)"
+  },
+  {
+   "matchId": "8073",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8073&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Drona Sports Quasars",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "2980",
+    "2982"
+   ],
+   "ground": "Sandshore Elimentary School Hackettstown",
+   "result": "Drona Sports Quasars won by 172 Runs",
+   "summary": "Drona Sports Quasars: 280/3(35) ICUSA Black Mambas: 108/8(35)"
+  },
+  {
+   "matchId": "8068",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8068&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Spartans",
+    "Knight Riders Rangers"
+   ],
+   "teamIds": [
+    "2974",
+    "2976"
+   ],
+   "ground": "Galloway, NJ",
+   "result": "Jersey Titans Spartans won by 5 Wickets",
+   "summary": "Knight Riders Rangers: 133/10(39.3) Jersey Titans Spartans: 134/5(29.4)"
+  },
+  {
+   "matchId": "8066",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8066&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CCCA Tigers",
+    "Jersey Titans Helios"
+   ],
+   "teamIds": [
+    "2969",
+    "2971"
+   ],
+   "ground": "TBD",
+   "result": "Jersey Titans Helios won by 128 Runs",
+   "summary": "Jersey Titans Helios: 213/7(40) CCCA Tigers: 85/9(23.4)"
+  },
+  {
+   "matchId": "8024",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8024&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Gameday Renegades",
+    "StarSportsUS Lions"
+   ],
+   "teamIds": [
+    "2977",
+    "2975"
+   ],
+   "ground": "Forbes Field Delaware (Wilmington, DE)",
+   "result": "Gameday Renegades won by 3 Wickets",
+   "summary": "StarSportsUS Lions: 202/10(40) Gameday Renegades: 203/7(37.5)"
+  },
+  {
+   "matchId": "8102",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8102&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CCCA Pumas",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "2995",
+    "2994"
+   ],
+   "ground": "Walt Disney Elementary School",
+   "result": "StarSportsUS Crushers won by 1 Wicket",
+   "summary": "CCCA Pumas: 142/10(33.4) StarSportsUS Crushers: 143/9(34.3)"
+  },
+  {
+   "matchId": "8100",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8100&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Gameday Avengers",
+    "Delhi Capitals Giants"
+   ],
+   "teamIds": [
+    "2988",
+    "2990"
+   ],
+   "ground": "Dicks Avenue (PA)",
+   "result": "Gameday Avengers won by 7 Wickets",
+   "summary": "Delhi Capitals Giants: 157/6(40) Gameday Avengers: 158/3(24.4)"
+  },
+  {
+   "matchId": "8099",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8099&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Gameday Firebirds",
+    "Princeton Yodhas"
+   ],
+   "teamIds": [
+    "2997",
+    "2999"
+   ],
+   "ground": "Huntington Valley, PA",
+   "result": "Gameday Firebirds won by 5 Wickets",
+   "summary": "Princeton Yodhas: 125/9(40) Gameday Firebirds: 126/5(26.2)"
+  },
+  {
+   "matchId": "8093",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8093&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "KCR Raptors",
+    "Jersey Titans Warriors"
+   ],
+   "teamIds": [
+    "2991",
+    "2987"
+   ],
+   "ground": "Van Horne Park (Rocky Hills, NJ)",
+   "result": "Jersey Titans Warriors won by 5 Wickets",
+   "summary": "KCR Raptors: 79/8(22.2) Jersey Titans Warriors: 84/5(23.1)"
+  },
+  {
+   "matchId": "8085",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8085&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Knight Riders Challengers",
+    "DreamCricket Pumas"
+   ],
+   "teamIds": [
+    "2986",
+    "2992"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Knight Riders Challengers won by 55 Runs",
+   "summary": "Knight Riders Challengers: 177/4(40) DreamCricket Pumas: 122/10(34.2)"
+  },
+  {
+   "matchId": "8076",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8076&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Rising Stars Mavericks",
+    "RRA NJ - Phoenix"
+   ],
+   "teamIds": [
+    "2985",
+    "2993"
+   ],
+   "ground": "Plainsboro Community Park",
+   "result": "RRA NJ - Phoenix won by 271 Runs",
+   "summary": "RRA NJ - Phoenix: 340/3(40) Rising Stars Mavericks: 69/8(16)"
+  },
+  {
+   "matchId": "8074",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8074&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "SKA Lions",
+    "RRA NJ Polaris"
+   ],
+   "teamIds": [
+    "2998",
+    "2996"
+   ],
+   "ground": "Village Green Park (Hillsborough, NJ)",
+   "result": "RRA NJ Polaris won by 121 Runs",
+   "summary": "RRA NJ Polaris: 239/9(40) SKA Lions: 118/9(27)"
+  },
+  {
+   "matchId": "8021",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8021&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "FJSC Blazers",
+    "DreamCricket Drona Elite"
+   ],
+   "teamIds": [
+    "2984",
+    "2989"
+   ],
+   "ground": "Dwyer",
+   "result": "FJSC Blazers won by 5 Wickets",
+   "summary": "DreamCricket Drona Elite: 144/9(40) FJSC Blazers: 145/5(23)"
+  },
+  {
+   "matchId": "8019",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8019&clubId=40319",
+   "date": "2026-05-15",
+   "type": "League",
+   "teams": [
+    "RRA NJ Lynx",
+    "Knight Riders Destroyers"
+   ],
+   "teamIds": [
+    "2968",
+    "2966"
+   ],
+   "ground": "TBD",
+   "result": "Knight Riders Destroyers won by 54 Runs",
+   "summary": "Knight Riders Destroyers: 180/5(35) RRA NJ Lynx: 126/10(33.2)"
+  },
+  {
+   "matchId": "7901",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7901&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Spartans",
+    "RRA NJ Orions"
+   ],
+   "teamIds": [
+    "2974",
+    "2972"
+   ],
+   "ground": "Rutgers Avenue Park",
+   "result": "RRA NJ Orions won by 122 Runs",
+   "summary": "RRA NJ Orions: 203/7(40) Jersey Titans Spartans: 81/9(30)"
+  },
+  {
+   "matchId": "7898",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7898&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "NJRoyal Mavericks",
+    "CCCA Tigers"
+   ],
+   "teamIds": [
+    "2970",
+    "2969"
+   ],
+   "ground": "Chester Valley (Malvern, PA)",
+   "result": "CCCA Tigers won by 9 Wickets",
+   "summary": "NJRoyal Mavericks: 44/9(11.5) CCCA Tigers: 48/1(4.5)"
+  },
+  {
+   "matchId": "7894",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7894&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "DreamCricket Panthers",
+    "Gameday Renegades"
+   ],
+   "teamIds": [
+    "2973",
+    "2977"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "DreamCricket Panthers won by 8 Wickets (D/L)",
+   "summary": "Gameday Renegades: 193/10(37.5) DreamCricket Panthers: 136/2(18.3)"
+  },
+  {
+   "matchId": "7886",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7886&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "DreamCricket Leopards",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "2981",
+    "2982"
+   ],
+   "ground": "Ten Eyck Park",
+   "result": "DreamCricket Leopards won by 32 Runs (D/L)",
+   "summary": "ICUSA Black Mambas: 82/9(22.3) DreamCricket Leopards: 77/4(22.3)"
+  },
+  {
+   "matchId": "7858",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7858&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Lions",
+    "Knight Riders Rangers"
+   ],
+   "teamIds": [
+    "2975",
+    "2976"
+   ],
+   "ground": "Walt Disney Elementary School",
+   "result": "StarSportsUS Lions won by 9 Wickets",
+   "summary": "Knight Riders Rangers: 128/7(40) StarSportsUS Lions: 129/1(19.1)"
+  },
+  {
+   "matchId": "7827",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7827&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Helios",
+    "DreamCricket Jaguars"
+   ],
+   "teamIds": [
+    "2971",
+    "2967"
+   ],
+   "ground": "Dwight D Eisenhower School (Ground 1)",
+   "result": "DreamCricket Jaguars won by 158 Runs",
+   "summary": "DreamCricket Jaguars: 243/8(40) Jersey Titans Helios: 85/10(19.1)"
+  },
+  {
+   "matchId": "7902",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7902&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Gameday Firebirds",
+    "SKA Lions"
+   ],
+   "teamIds": [
+    "2997",
+    "2998"
+   ],
+   "ground": "Forbes Field Delaware (Wilmington, DE)",
+   "result": "Gameday Firebirds won by 8 Wickets",
+   "summary": "SKA Lions: 100/5(30) Gameday Firebirds: 101/2(22.3)"
+  },
+  {
+   "matchId": "7895",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7895&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Warriors",
+    "DreamCricket Pumas"
+   ],
+   "teamIds": [
+    "2987",
+    "2992"
+   ],
+   "ground": "Dwyer",
+   "result": "Jersey Titans Warriors won by 4 Wickets (D/L)",
+   "summary": "DreamCricket Pumas: 171/7(40) Jersey Titans Warriors: 134/6(29.4)"
+  },
+  {
+   "matchId": "7891",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7891&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Delhi Capitals Giants",
+    "FJSC Blazers"
+   ],
+   "teamIds": [
+    "2990",
+    "2984"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "FJSC Blazers won by 6 Wickets",
+   "summary": "Delhi Capitals Giants: 106/10(34.4) FJSC Blazers: 107/4(16.2)"
+  },
+  {
+   "matchId": "7878",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7878&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "DreamCricket Drona Elite",
+    "Rising Stars Mavericks"
+   ],
+   "teamIds": [
+    "2989",
+    "2985"
+   ],
+   "ground": "Sandshore Elimentary School Hackettstown",
+   "result": "Forfeited. Winner: DreamCricket Drona Elite",
+   "summary": "Rising Stars Mavericks: 113/9(25.1) DreamCricket Drona Elite: 18/1(6)"
+  },
+  {
+   "matchId": "7847",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7847&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Gameday Avengers",
+    "KCR Raptors"
+   ],
+   "teamIds": [
+    "2988",
+    "2991"
+   ],
+   "ground": "Nelson fields (Glen Mills , PA)",
+   "result": "Gameday Avengers won by 5 Wickets",
+   "summary": "KCR Raptors: 64/10(19.4) Gameday Avengers: 65/5(14.5)"
+  },
+  {
+   "matchId": "7836",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7836&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "RRA NJ Polaris"
+   ],
+   "teamIds": [
+    "2994",
+    "2996"
+   ],
+   "ground": "Scotts Corner Road (Cranbury)",
+   "result": "StarSportsUS Crushers won by 50 Runs",
+   "summary": "StarSportsUS Crushers: 174/10(39.3) RRA NJ Polaris: 124/10(24.4)"
+  },
+  {
+   "matchId": "7689",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7689&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Knight Riders Rangers",
+    "Gameday Renegades"
+   ],
+   "teamIds": [
+    "2976",
+    "2977"
+   ],
+   "ground": "Forbes Field Delaware (Wilmington, DE)",
+   "result": "Gameday Renegades won by 7 Wickets",
+   "summary": "Knight Riders Rangers: 160/6(35) Gameday Renegades: 164/3(21.2)"
+  },
+  {
+   "matchId": "7685",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7685&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "DreamCricket Panthers",
+    "Jersey Titans Spartans"
+   ],
+   "teamIds": [
+    "2973",
+    "2974"
+   ],
+   "ground": "Pine Grove Manor Elementary",
+   "result": "DreamCricket Panthers won by 41 Runs",
+   "summary": "DreamCricket Panthers: 179/6(40) Jersey Titans Spartans: 138/10(36.3)"
+  },
+  {
+   "matchId": "7681",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7681&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "ICUSA Black Mambas",
+    "RRA NJ Solaris"
+   ],
+   "teamIds": [
+    "2982",
+    "2983"
+   ],
+   "ground": "Volunteers Park",
+   "result": "RRA NJ Solaris won by 97 Runs",
+   "summary": "RRA NJ Solaris: 143/11(28.3) ICUSA Black Mambas: 46/9(18.4)"
+  },
+  {
+   "matchId": "7679",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7679&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Knight Riders Crushers",
+    "Drona Sports Quasars"
+   ],
+   "teamIds": [
+    "2979",
+    "2980"
+   ],
+   "ground": "Pension Road, Monroe Township",
+   "result": "Knight Riders Crushers won by 47 Runs",
+   "summary": "Knight Riders Crushers: 165/7(40) Drona Sports Quasars: 118/10(32.4)"
+  },
+  {
+   "matchId": "7673",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7673&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "RRA NJ Lynx",
+    "DreamCricket Jaguars"
+   ],
+   "teamIds": [
+    "2968",
+    "2967"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "RRA NJ Lynx won by 4 Wickets",
+   "summary": "DreamCricket Jaguars: 219/10(39.4) RRA NJ Lynx: 220/6(38.1)"
+  },
+  {
+   "matchId": "7670",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7670&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Delhi Capitals Dominators",
+    "DreamCricket Leopards"
+   ],
+   "teamIds": [
+    "2978",
+    "2981"
+   ],
+   "ground": "Hillsborough Cricket Ground",
+   "result": "Delhi Capitals Dominators won by 363 Runs",
+   "summary": "Delhi Capitals Dominators: 418/8(40) DreamCricket Leopards: 55/11(25.3)"
+  },
+  {
+   "matchId": "7655",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7655&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "RRA NJ Orions",
+    "StarSportsUS Lions"
+   ],
+   "teamIds": [
+    "2972",
+    "2975"
+   ],
+   "ground": "Galloway, NJ",
+   "result": "RRA NJ Orions won by 8 Wickets",
+   "summary": "StarSportsUS Lions: 94/10(30) RRA NJ Orions: 97/2(14.3)"
+  },
+  {
+   "matchId": "7646",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7646&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NJRoyal Mavericks",
+    "Jersey Titans Helios"
+   ],
+   "teamIds": [
+    "2970",
+    "2971"
+   ],
+   "ground": "Dicks Avenue (PA)",
+   "result": "Jersey Titans Helios won by 6 Wickets",
+   "summary": "NJRoyal Mavericks: 21/9(8.4) Jersey Titans Helios: 25/4(11.4)"
+  },
+  {
+   "matchId": "7643",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7643&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Knight Riders Destroyers",
+    "CCCA Tigers"
+   ],
+   "teamIds": [
+    "2966",
+    "2969"
+   ],
+   "ground": "Walt Disney Elementary School",
+   "result": "Knight Riders Destroyers won by 9 Wickets",
+   "summary": "CCCA Tigers: 111/9(31.2) Knight Riders Destroyers: 115/1(10.1)"
+  },
+  {
+   "matchId": "7688",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7688&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Warriors",
+    "RRA NJ - Phoenix"
+   ],
+   "teamIds": [
+    "2987",
+    "2993"
+   ],
+   "ground": "Staten island",
+   "result": "RRA NJ - Phoenix won by 8 Wickets",
+   "summary": "Jersey Titans Warriors: 112/11(26.4) RRA NJ - Phoenix: 113/2(22.2)"
+  },
+  {
+   "matchId": "7676",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7676&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "DreamCricket Pumas",
+    "Gameday Avengers"
+   ],
+   "teamIds": [
+    "2992",
+    "2988"
+   ],
+   "ground": "Scotts Corner Road (Cranbury)",
+   "result": "DreamCricket Pumas won by 49 Runs",
+   "summary": "DreamCricket Pumas: 190/10(40) Gameday Avengers: 141/10(35.5)"
+  },
+  {
+   "matchId": "7675",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7675&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Rising Stars Mavericks",
+    "Delhi Capitals Giants"
+   ],
+   "teamIds": [
+    "2985",
+    "2990"
+   ],
+   "ground": "Plainsboro Community Park",
+   "result": "Delhi Capitals Giants won by 8 Runs",
+   "summary": "Delhi Capitals Giants: 104/10(27.2) Rising Stars Mavericks: 96/10(38.5)"
+  },
+  {
+   "matchId": "7671",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7671&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Princeton Yodhas",
+    "SKA Lions"
+   ],
+   "teamIds": [
+    "2999",
+    "2998"
+   ],
+   "ground": "Van Horne Park (Rocky Hills, NJ)",
+   "result": "Princeton Yodhas won by 34 Runs",
+   "summary": "Princeton Yodhas: 124/10(34.4) SKA Lions: 90/10(25.3)"
+  },
+  {
+   "matchId": "7668",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7668&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "DreamCricket Drona Elite",
+    "Knight Riders Challengers"
+   ],
+   "teamIds": [
+    "2989",
+    "2986"
+   ],
+   "ground": "NJYCA",
+   "result": "Knight Riders Challengers won by 10 Wickets",
+   "summary": "DreamCricket Drona Elite: 110/10(33.3) Knight Riders Challengers: 111/0(19)"
+  },
+  {
+   "matchId": "7650",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7650&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "CCCA Pumas",
+    "RRA NJ Polaris"
+   ],
+   "teamIds": [
+    "2995",
+    "2996"
+   ],
+   "ground": "Stallions CC",
+   "result": "RRA NJ Polaris won by 5 Wickets",
+   "summary": "CCCA Pumas: 174/10(36.1) RRA NJ Polaris: 175/5(34.2)"
+  },
+  {
+   "matchId": "7627",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7627&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Crushers",
+    "Gameday Firebirds"
+   ],
+   "teamIds": [
+    "2994",
+    "2997"
+   ],
+   "ground": "Knights Cricket Field, (Phoenixville, PA)",
+   "result": "Gameday Firebirds won by 7 Wickets",
+   "summary": "StarSportsUS Crushers: 133/10(39.2) Gameday Firebirds: 136/3(24.2)"
+  },
+  {
+   "matchId": "7619",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7619&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "FJSC Blazers",
+    "KCR Raptors"
+   ],
+   "teamIds": [
+    "2984",
+    "2991"
+   ],
+   "ground": "Dwyer",
+   "result": "FJSC Blazers won by 9 Wickets",
+   "summary": "KCR Raptors: 84/9(21.1) FJSC Blazers: 85/1(11.1)"
+  },
+  {
+   "matchId": "7448",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7448&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Gameday Renegades",
+    "Jersey Titans Spartans"
+   ],
+   "teamIds": [
+    "2977",
+    "2974"
+   ],
+   "ground": null,
+   "result": "Jersey Titans Spartans won by 40 Runs",
+   "summary": "Jersey Titans Spartans: 231/11(39.2) Gameday Renegades: 191/10(38)"
+  },
+  {
+   "matchId": "7442",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7442&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "StarSportsUS Lions",
+    "DreamCricket Panthers"
+   ],
+   "teamIds": [
+    "2975",
+    "2973"
+   ],
+   "ground": null,
+   "result": "StarSportsUS Lions won by 14 Runs",
+   "summary": "StarSportsUS Lions: 231/7(35) DreamCricket Panthers: 217/9(35)"
+  },
+  {
+   "matchId": "7440",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7440&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Gameday Firebirds",
+    "CCCA Pumas"
+   ],
+   "teamIds": [
+    "2997",
+    "2995"
+   ],
+   "ground": null,
+   "result": "Gameday Firebirds won by 5 Wickets",
+   "summary": "CCCA Pumas: 90/8(30) Gameday Firebirds: 91/5(19.1)"
+  },
+  {
+   "matchId": "8260",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8260&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Knight Riders Crushers",
+    "ICUSA Black Mambas"
+   ],
+   "teamIds": [
+    "2979",
+    "2982"
+   ],
+   "ground": null,
+   "result": "Forfeited. Winner: Knight Riders Crushers",
+   "summary": "Knight Riders Crushers: 0/0(0)"
+  },
+  {
+   "matchId": "7325",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7325&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "DreamCricket Jaguars",
+    "NJRoyal Mavericks"
+   ],
+   "teamIds": [
+    "2967",
+    "2970"
+   ],
+   "ground": null,
+   "result": "DreamCricket Jaguars won by 10 Wickets",
+   "summary": "NJRoyal Mavericks: 33/10(8.4) DreamCricket Jaguars: 34/0(4.2)"
+  },
+  {
+   "matchId": "7319",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7319&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Spartans",
+    "StarSportsUS Lions"
+   ],
+   "teamIds": [
+    "2974",
+    "2975"
+   ],
+   "ground": null,
+   "result": "Jersey Titans Spartans won by 6 Wickets",
+   "summary": "StarSportsUS Lions: 145/10(38) Jersey Titans Spartans: 149/4(23.5)"
+  },
+  {
+   "matchId": "7315",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7315&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Drona Sports Quasars",
+    "DreamCricket Leopards"
+   ],
+   "teamIds": [
+    "2980",
+    "2981"
+   ],
+   "ground": null,
+   "result": "Drona Sports Quasars won by 143 Runs",
+   "summary": "Drona Sports Quasars: 224/10(39.4) DreamCricket Leopards: 81/11(35.4)"
+  },
+  {
+   "matchId": "7313",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7313&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "DreamCricket Panthers",
+    "Knight Riders Rangers"
+   ],
+   "teamIds": [
+    "2973",
+    "2976"
+   ],
+   "ground": null,
+   "result": "DreamCricket Panthers won by 167 Runs",
+   "summary": "DreamCricket Panthers: 208/6(40) Knight Riders Rangers: 41/10(22.3)"
+  },
+  {
+   "matchId": "7308",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7308&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "CCCA Tigers",
+    "RRA NJ Lynx"
+   ],
+   "teamIds": [
+    "2969",
+    "2968"
+   ],
+   "ground": null,
+   "result": "RRA NJ Lynx won by 203 Runs",
+   "summary": "RRA NJ Lynx: 323/4(40) CCCA Tigers: 120/8(24.1)"
+  },
+  {
+   "matchId": "7303",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7303&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Delhi Capitals Dominators",
+    "RRA NJ Solaris"
+   ],
+   "teamIds": [
+    "2978",
+    "2983"
+   ],
+   "ground": null,
+   "result": "Delhi Capitals Dominators won by 177 Runs",
+   "summary": "Delhi Capitals Dominators: 258/6(40) RRA NJ Solaris: 81/10(20.5)"
+  },
+  {
+   "matchId": "7301",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7301&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Jersey Titans Helios",
+    "Knight Riders Destroyers"
+   ],
+   "teamIds": [
+    "2971",
+    "2966"
+   ],
+   "ground": null,
+   "result": "Knight Riders Destroyers won by 10 Wickets",
+   "summary": "Jersey Titans Helios: 88/10(29.3) Knight Riders Destroyers: 89/0(8.2)"
+  },
+  {
+   "matchId": "7300",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7300&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "RRA NJ Orions",
+    "Gameday Renegades"
+   ],
+   "teamIds": [
+    "2972",
+    "2977"
+   ],
+   "ground": null,
+   "result": "RRA NJ Orions won by 240 Runs",
+   "summary": "RRA NJ Orions: 444/5(40) Gameday Renegades: 204/10(39.3)"
+  },
+  {
+   "matchId": "7331",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7331&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "FJSC Blazers",
+    "RRA NJ - Phoenix"
+   ],
+   "teamIds": [
+    "2984",
+    "2993"
+   ],
+   "ground": null,
+   "result": "FJSC Blazers won by 39 Runs",
+   "summary": "FJSC Blazers: 240/7(35) RRA NJ - Phoenix: 201/9(35)"
+  },
+  {
+   "matchId": "7320",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7320&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "RRA NJ Polaris",
+    "Gameday Firebirds"
+   ],
+   "teamIds": [
+    "2996",
+    "2997"
+   ],
+   "ground": null,
+   "result": "Gameday Firebirds won by 4 Wickets",
+   "summary": "RRA NJ Polaris: 123/10(30.4) Gameday Firebirds: 124/6(22.2)"
+  },
+  {
+   "matchId": "7318",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7318&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "DreamCricket Drona Elite",
+    "Gameday Avengers"
+   ],
+   "teamIds": [
+    "2989",
+    "2988"
+   ],
+   "ground": null,
+   "result": "DreamCricket Drona Elite won by 47 Runs",
+   "summary": "DreamCricket Drona Elite: 196/10(35.4) Gameday Avengers: 149/10(26.5)"
+  },
+  {
+   "matchId": "7307",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7307&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Rising Stars Mavericks",
+    "DreamCricket Pumas"
+   ],
+   "teamIds": [
+    "2985",
+    "2992"
+   ],
+   "ground": null,
+   "result": "DreamCricket Pumas won by 4 Wickets",
+   "summary": "Rising Stars Mavericks: 167/10(30.4) DreamCricket Pumas: 168/6(37)"
+  },
+  {
+   "matchId": "7306",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7306&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Knight Riders Challengers",
+    "KCR Raptors"
+   ],
+   "teamIds": [
+    "2986",
+    "2991"
+   ],
+   "ground": null,
+   "result": "Knight Riders Challengers won by 159 Runs",
+   "summary": "Knight Riders Challengers: 231/9(40) KCR Raptors: 72/8(14.5)"
+  },
+  {
+   "matchId": "7305",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7305&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Delhi Capitals Giants",
+    "Jersey Titans Warriors"
+   ],
+   "teamIds": [
+    "2990",
+    "2987"
+   ],
+   "ground": null,
+   "result": "Jersey Titans Warriors won by 131 Runs",
+   "summary": "Jersey Titans Warriors: 216/7(40) Delhi Capitals Giants: 85/10(23.4)"
+  },
+  {
+   "matchId": "7302",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7302&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Princeton Yodhas",
+    "StarSportsUS Crushers"
+   ],
+   "teamIds": [
+    "2999",
+    "2994"
+   ],
+   "ground": null,
+   "result": "Princeton Yodhas won by 2 Wickets",
+   "summary": "StarSportsUS Crushers: 122/11(36.2) Princeton Yodhas: 123/8(28.5)"
+  },
+  {
+   "matchId": "7286",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7286&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "CCCA Pumas",
+    "SKA Lions"
+   ],
+   "teamIds": [
+    "2995",
+    "2998"
+   ],
+   "ground": null,
+   "result": "SKA Lions won by 48 Runs",
+   "summary": "SKA Lions: 203/10(39) CCCA Pumas: 155/10(31.2)"
+  }
+ ]
+}

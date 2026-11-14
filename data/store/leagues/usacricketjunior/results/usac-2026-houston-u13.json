@@ -1,0 +1,490 @@
+{
+ "season": {
+  "key": "s127",
+  "id": "legacy-439",
+  "name": "USAC 2026 - Houston - U13"
+ },
+ "fetchedAt": "2026-11-13T22:05:43.151Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=439&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=439&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8222",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8222&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "SL Nova",
+    "NC Kings"
+   ],
+   "teamIds": [
+    "2597",
+    "2594"
+   ],
+   "ground": "4CP",
+   "result": "NC Kings won by 89 Runs",
+   "summary": "NC Kings: 195/5(30) SL Nova: 106/10(25.4)"
+  },
+  {
+   "matchId": "8113",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8113&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "SL Nova",
+    "EY Bulls"
+   ],
+   "teamIds": [
+    "2597",
+    "2591"
+   ],
+   "ground": "ARB",
+   "result": "EY Bulls won by 17 Runs",
+   "summary": "EY Bulls: 155/10(30) SL Nova: 138/10(22.5)"
+  },
+  {
+   "matchId": "8041",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8041&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "NW Challengers",
+    "SL Stars"
+   ],
+   "teamIds": [
+    "2595",
+    "2598"
+   ],
+   "ground": "MatzkeE",
+   "result": "SL Stars won by 83 Runs",
+   "summary": "SL Stars: 206/10(29.4) NW Challengers: 123/8(30)"
+  },
+  {
+   "matchId": "8039",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8039&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "KY Phoenix",
+    "ST Rangers"
+   ],
+   "teamIds": [
+    "2592",
+    "2599"
+   ],
+   "ground": "JCP",
+   "result": "KY Phoenix won by 10 Wickets",
+   "summary": "ST Rangers: 53/10(23.3) KY Phoenix: 54/0(6)"
+  },
+  {
+   "matchId": "8005",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8005&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "NW Spartans",
+    "ST Rangers"
+   ],
+   "teamIds": [
+    "2596",
+    "2599"
+   ],
+   "ground": "JPLN",
+   "result": "NW Spartans won by 26 Runs",
+   "summary": "NW Spartans: 162/7(30) ST Rangers: 136/6(30)"
+  },
+  {
+   "matchId": "7920",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7920&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "EY Bulls",
+    "KY Phoenix"
+   ],
+   "teamIds": [
+    "2591",
+    "2592"
+   ],
+   "ground": "JPLW",
+   "result": "KY Phoenix won by 118 Runs",
+   "summary": "KY Phoenix: 192/5(30) EY Bulls: 74/10(23.5)"
+  },
+  {
+   "matchId": "7912",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7912&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "NC Kings",
+    "ST Rangers"
+   ],
+   "teamIds": [
+    "2594",
+    "2599"
+   ],
+   "ground": "MatzkeE",
+   "result": "NC Kings won by 112 Runs",
+   "summary": "NC Kings: 213/5(30) ST Rangers: 101/6(30)"
+  },
+  {
+   "matchId": "7906",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7906&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "NW Challengers",
+    "SL Nova"
+   ],
+   "teamIds": [
+    "2595",
+    "2597"
+   ],
+   "ground": "ARB",
+   "result": "NW Challengers won by 86 Runs",
+   "summary": "NW Challengers: 189/5(30) SL Nova: 103/10(28.3)"
+  },
+  {
+   "matchId": "7800",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7800&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "NW Challengers",
+    "NC Kings"
+   ],
+   "teamIds": [
+    "2595",
+    "2594"
+   ],
+   "ground": "MatzkeE",
+   "result": "NC Kings won by 5 Wickets",
+   "summary": "NW Challengers: 119/10(26) NC Kings: 120/5(26)"
+  },
+  {
+   "matchId": "7710",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7710&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NW Challengers",
+    "EY Bulls"
+   ],
+   "teamIds": [
+    "2595",
+    "2591"
+   ],
+   "ground": "MatzkeE",
+   "result": "NW Challengers won by 167 Runs",
+   "summary": "NW Challengers: 246/0(30) EY Bulls: 79/9(22.3)"
+  },
+  {
+   "matchId": "7693",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7693&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "NW Spartans",
+    "SL Nova"
+   ],
+   "teamIds": [
+    "2596",
+    "2597"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW Spartans won by 117 Runs",
+   "summary": "NW Spartans: 178/4(30) SL Nova: 61/9(30)"
+  },
+  {
+   "matchId": "7596",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7596&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "SL Stars",
+    "ST Rangers"
+   ],
+   "teamIds": [
+    "2598",
+    "2599"
+   ],
+   "ground": "4CP",
+   "result": "SL Stars won by 70 Runs",
+   "summary": "SL Stars: 209/4(30) ST Rangers: 139/8(30)"
+  },
+  {
+   "matchId": "7525",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7525&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "NW Spartans",
+    "KY Phoenix"
+   ],
+   "teamIds": [
+    "2596",
+    "2592"
+   ],
+   "ground": "JCP",
+   "result": "KY Phoenix won by 9 Runs",
+   "summary": "KY Phoenix: 161/9(30) NW Spartans: 152/7(30)"
+  },
+  {
+   "matchId": "7505",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7505&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "EY Bulls",
+    "NC Kings"
+   ],
+   "teamIds": [
+    "2591",
+    "2594"
+   ],
+   "ground": "JCP",
+   "result": "NC Kings won by 98 Runs",
+   "summary": "NC Kings: 253/6(30) EY Bulls: 155/8(30.1)"
+  },
+  {
+   "matchId": "7495",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7495&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "NW Spartans",
+    "SL Stars"
+   ],
+   "teamIds": [
+    "2596",
+    "2598"
+   ],
+   "ground": "ARB",
+   "result": "SL Stars won by 80 Runs",
+   "summary": "SL Stars: 201/4(30) NW Spartans: 121/8(30)"
+  },
+  {
+   "matchId": "7494",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7494&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "NW Challengers",
+    "KY Phoenix"
+   ],
+   "teamIds": [
+    "2595",
+    "2592"
+   ],
+   "ground": "MatzkeE",
+   "result": "KY Phoenix won by 3 Wickets",
+   "summary": "NW Challengers: 117/8(30) KY Phoenix: 118/7(26.3)"
+  },
+  {
+   "matchId": "7412",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7412&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "NW Spartans",
+    "NC Kings"
+   ],
+   "teamIds": [
+    "2596",
+    "2594"
+   ],
+   "ground": "MatzkeE",
+   "result": "NC Kings won by 3 Runs",
+   "summary": "NC Kings: 123/8(30) NW Spartans: 120/10(29.3)"
+  },
+  {
+   "matchId": "7157",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7157&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "KY Phoenix",
+    "SL Nova"
+   ],
+   "teamIds": [
+    "2592",
+    "2597"
+   ],
+   "ground": "JPLE",
+   "result": "KY Phoenix won by 119 Runs",
+   "summary": "KY Phoenix: 190/10(29.4) SL Nova: 71/9(20.3)"
+  },
+  {
+   "matchId": "7156",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7156&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "EY Bulls",
+    "SL Stars"
+   ],
+   "teamIds": [
+    "2591",
+    "2598"
+   ],
+   "ground": "Stars",
+   "result": "SL Stars won by 154 Runs",
+   "summary": "SL Stars: 239/4(30) EY Bulls: 85/10(22.4)"
+  },
+  {
+   "matchId": "7152",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7152&clubId=40319",
+   "date": "2026-04-03",
+   "type": "League",
+   "teams": [
+    "NW Challengers",
+    "ST Rangers"
+   ],
+   "teamIds": [
+    "2595",
+    "2599"
+   ],
+   "ground": "JPLE",
+   "result": "NW Challengers won by 55 Runs",
+   "summary": "NW Challengers: 221/5(30) ST Rangers: 166/10(29.4)"
+  },
+  {
+   "matchId": "7151",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7151&clubId=40319",
+   "date": "2026-04-03",
+   "type": "League",
+   "teams": [
+    "SL Nova",
+    "SL Stars"
+   ],
+   "teamIds": [
+    "2597",
+    "2598"
+   ],
+   "ground": "4CP",
+   "result": "SL Stars won by 99 Runs",
+   "summary": "SL Stars: 194/8(30) SL Nova: 95/8(30)"
+  },
+  {
+   "matchId": "7110",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7110&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "NC Kings",
+    "SL Stars"
+   ],
+   "teamIds": [
+    "2594",
+    "2598"
+   ],
+   "ground": "4CP",
+   "result": "SL Stars won by 111 Runs",
+   "summary": "SL Stars: 195/5(30) NC Kings: 84/10(20.2)"
+  },
+  {
+   "matchId": "7109",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7109&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "EY Bulls",
+    "NW Spartans"
+   ],
+   "teamIds": [
+    "2591",
+    "2596"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW Spartans won by 36 Runs",
+   "summary": "NW Spartans: 200/8(30) EY Bulls: 164/8(30)"
+  },
+  {
+   "matchId": "7105",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7105&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "ST Rangers",
+    "SL Nova"
+   ],
+   "teamIds": [
+    "2599",
+    "2597"
+   ],
+   "ground": "JPLE",
+   "result": "SL Nova won by 2 Wickets",
+   "summary": "ST Rangers: 79/10(23.1) SL Nova: 82/8(20.5)"
+  },
+  {
+   "matchId": "7055",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7055&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "KY Phoenix",
+    "NC Kings"
+   ],
+   "teamIds": [
+    "2592",
+    "2594"
+   ],
+   "ground": "JPLW",
+   "result": "KY Phoenix won by 72 Runs",
+   "summary": "KY Phoenix: 249/3(30) NC Kings: 177/6(30)"
+  },
+  {
+   "matchId": "7051",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7051&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "NW Spartans",
+    "NW Challengers"
+   ],
+   "teamIds": [
+    "2596",
+    "2595"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW Spartans won by 28 Runs",
+   "summary": "NW Spartans: 133/10(26.4) NW Challengers: 105/10(25.1)"
+  },
+  {
+   "matchId": "7009",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7009&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "ST Rangers",
+    "EY Bulls"
+   ],
+   "teamIds": [
+    "2599",
+    "2591"
+   ],
+   "ground": "JPLE",
+   "result": "ST Rangers won by 9 Wickets",
+   "summary": "EY Bulls: 181/5(30) ST Rangers: 182/1(22.1)"
+  },
+  {
+   "matchId": "7007",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7007&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "KY Phoenix",
+    "SL Stars"
+   ],
+   "teamIds": [
+    "2592",
+    "2598"
+   ],
+   "ground": "JCP",
+   "result": "KY Phoenix won by 8 Wickets",
+   "summary": "SL Stars: 205/9(30.1) KY Phoenix: 206/2(28.4)"
+  }
+ ]
+}

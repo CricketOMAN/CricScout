@@ -1,0 +1,4978 @@
+{
+ "season": {
+  "key": "s134",
+  "id": "legacy-399",
+  "name": "2025 Dev - Dallas Hub Fall League"
+ },
+ "fetchedAt": "2026-11-13T22:12:44.112Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=399&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=399&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6984",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6984&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "CCA Challengers U15",
+    "TIC Hi Riders U15"
+   ],
+   "teamIds": [
+    "2391",
+    "2394"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Hi Riders U15 won by 69 Runs",
+   "summary": "TIC Hi Riders U15: 218/10(39.5) CCA Challengers U15: 149/10(39.4)"
+  },
+  {
+   "matchId": "6991",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6991&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U11",
+    "RCA Bolts U11"
+   ],
+   "teamIds": [
+    "2327",
+    "2329"
+   ],
+   "ground": "NMCG 2",
+   "result": "FCCA Tigers U11 won by 5 Wickets",
+   "summary": "RCA Bolts U11: 191/9(30) FCCA Tigers U11: 193/5(23.3)"
+  },
+  {
+   "matchId": "6982",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6982&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "SKA Lions U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2332",
+    "2333"
+   ],
+   "ground": "NMCG 2",
+   "result": "TCA Bolts U11 won by 105 Runs",
+   "summary": "TCA Bolts U11: 226/8(30) SKA Lions U11: 121/10(26.4)"
+  },
+  {
+   "matchId": "6977",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6977&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "SAC Colts U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2331",
+    "2330"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts U11 won by 48 Runs",
+   "summary": "SAC Colts U11: 228/5(25) ECA Aggies U11: 180/9(25)"
+  },
+  {
+   "matchId": "6989",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6989&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "ECA Minies U11",
+    "RCA Sparks U11"
+   ],
+   "teamIds": [
+    "2342",
+    "2341"
+   ],
+   "ground": "Stallions CG1",
+   "result": "RCA Sparks U11 won by 13 Runs (D/L)",
+   "summary": "ECA Minies U11: 137/6(25) RCA Sparks U11: 113/4(20)"
+  },
+  {
+   "matchId": "6987",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6987&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "TCA Thunders U11",
+    "SAC Foals U11"
+   ],
+   "teamIds": [
+    "2348",
+    "2344"
+   ],
+   "ground": "Warriors CG",
+   "result": "SAC Foals U11 won by 5 Wickets",
+   "summary": "TCA Thunders U11: 165/7(25) SAC Foals U11: 166/5(19.4)"
+  },
+  {
+   "matchId": "6985",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6985&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "VCA Blue U11",
+    "TCC Cubs U11"
+   ],
+   "teamIds": [
+    "2350",
+    "2347"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Blue U11 won by 92 Runs",
+   "summary": "VCA Blue U11: 215/10(28.5) TCC Cubs U11: 123/10(26.2)"
+  },
+  {
+   "matchId": "6981",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6981&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "CCA Rising Stars U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2339",
+    "2345"
+   ],
+   "ground": "NMCG 1",
+   "result": "SKA Tigers U11 won by 4 Wickets",
+   "summary": "CCA Rising Stars U11: 103/10(24.2) SKA Tigers U11: 106/6(17.2)"
+  },
+  {
+   "matchId": "6979",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6979&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "CCA Blasters U11"
+   ],
+   "teamIds": [
+    "2346",
+    "2338"
+   ],
+   "ground": "Stallions CG1",
+   "result": "CCA Blasters U11 won by 1 Wicket",
+   "summary": "SKA Cheetahs U11: 146/8(25) CCA Blasters U11: 150/9(24.5)"
+  },
+  {
+   "matchId": "6993",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6993&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "TCA Stallions U13"
+   ],
+   "teamIds": [
+    "2353",
+    "2361"
+   ],
+   "ground": "NMCG 1",
+   "result": "CCA Titans U13 won by 65 Runs",
+   "summary": "CCA Titans U13: 238/8(30) TCA Stallions U13: 173/10(30)"
+  },
+  {
+   "matchId": "6988",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6988&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "Crickingdom Eagles U13",
+    "SAC Bolts U13"
+   ],
+   "teamIds": [
+    "2352",
+    "2359"
+   ],
+   "ground": "Stallions CG3",
+   "result": "SAC Bolts U13 won by 196 Runs",
+   "summary": "SAC Bolts U13: 271/4(25) Crickingdom Eagles U13: 75/8(25)"
+  },
+  {
+   "matchId": "6980",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6980&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "WCA Longhorns U13"
+   ],
+   "teamIds": [
+    "2355",
+    "2365"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets U13 won by 120 Runs",
+   "summary": "FCCA Jets U13: 195/5(30) WCA Longhorns U13: 75/10(23.2)"
+  },
+  {
+   "matchId": "6990",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6990&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars U13",
+    "CCA Dynamos U13"
+   ],
+   "teamIds": [
+    "2370",
+    "2368"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Jaguars U13 won by 9 Wickets",
+   "summary": "CCA Dynamos U13: 65/10(19.5) MCA Jaguars U13: 67/1(9.4)"
+  },
+  {
+   "matchId": "6986",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6986&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "SAC Rahvans U13",
+    "SAC Thunder U13"
+   ],
+   "teamIds": [
+    "2373",
+    "2371"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Rahvans U13 won by 21 Runs",
+   "summary": "SAC Rahvans U13: 159/9(25) SAC Thunder U13: 138/6(25)"
+  },
+  {
+   "matchId": "6978",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6978&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "WCA Tigers U13",
+    "SAC Mavericks U13"
+   ],
+   "teamIds": [
+    "2379",
+    "2372"
+   ],
+   "ground": "Stallions CG3",
+   "result": "WCA Tigers U13 won by 131 Runs",
+   "summary": "WCA Tigers U13: 206/7(25) SAC Mavericks U13: 75/10(19.1)"
+  },
+  {
+   "matchId": "6992",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6992&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders U15",
+    "TIC Supernova U15"
+   ],
+   "teamIds": [
+    "2382",
+    "2387"
+   ],
+   "ground": "BF Philips",
+   "result": "TIC Supernova U15 won by 6 Wickets",
+   "summary": "FCCA Commanders U15: 111/10(35.5) TIC Supernova U15: 112/4(22.4)"
+  },
+  {
+   "matchId": "6983",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6983&clubId=40319",
+   "date": "2025-11-16",
+   "type": "League",
+   "teams": [
+    "CCA Spartans U15",
+    "SKA Pumas U15"
+   ],
+   "teamIds": [
+    "2380",
+    "2384"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "CCA Spartans U15 won by 100 Runs",
+   "summary": "CCA Spartans U15: 204/10(39.4) SKA Pumas U15: 104/11(29.1)"
+  },
+  {
+   "matchId": "6974",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6974&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "AllStars Raiders U15"
+   ],
+   "teamIds": [
+    "2393",
+    "2390"
+   ],
+   "ground": "NMCG 2",
+   "result": "AllStars Raiders U15 won by 75 Runs",
+   "summary": "AllStars Raiders U15: 230/3(40) SAC Falcons U15: 155/9(40)"
+  },
+  {
+   "matchId": "6968",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6968&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "MCA Puma U15",
+    "TIC Hi Riders U15"
+   ],
+   "teamIds": [
+    "2392",
+    "2394"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "MCA Puma U15 won by 120 Runs",
+   "summary": "MCA Puma U15: 193/11(37.2) TIC Hi Riders U15: 73/9(32.4)"
+  },
+  {
+   "matchId": "6969",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6969&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts U17",
+    "CCC Lions U17"
+   ],
+   "teamIds": [
+    "2396",
+    "2397"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "CCC Lions U17 won by 50 Runs",
+   "summary": "CCC Lions U17: 189/9(40) DYCL Bolts U17: 139/10(33.4)"
+  },
+  {
+   "matchId": "6965",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6965&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "All Stars Invincibles U17"
+   ],
+   "teamIds": [
+    "2395",
+    "2400"
+   ],
+   "ground": "BF Philips",
+   "result": "All Stars Invincibles U17 won by 69 Runs",
+   "summary": "All Stars Invincibles U17: 213/10(36.2) FCCA Spartans U17: 144/10(30.4)"
+  },
+  {
+   "matchId": "6972",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6972&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "CricKingdom Cubs U11"
+   ],
+   "teamIds": [
+    "2325",
+    "2324"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers U11 won by 155 Runs",
+   "summary": "CCA Strikers U11: 263/2(25) CricKingdom Cubs U11: 108/10(22.3)"
+  },
+  {
+   "matchId": "6963",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6963&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "VCA Red U11",
+    "MCA Tigers U11"
+   ],
+   "teamIds": [
+    "2335",
+    "2328"
+   ],
+   "ground": "Coppell CG",
+   "result": "MCA Tigers U11 won by 5 Wickets",
+   "summary": "VCA Red U11: 139/9(30) MCA Tigers U11: 144/5(20.4)"
+  },
+  {
+   "matchId": "6960",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6960&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "RCA Bolts U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2329",
+    "2334"
+   ],
+   "ground": "Warriors CG",
+   "result": "RCA Bolts U11 won by 6 Wickets",
+   "summary": "TIC Little Masters U11: 203/4(25) RCA Bolts U11: 204/4(21.1)"
+  },
+  {
+   "matchId": "6975",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6975&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "FCCA warriors U11",
+    "TIC Legends U11"
+   ],
+   "teamIds": [
+    "2340",
+    "2349"
+   ],
+   "ground": "BF Philips",
+   "result": "TIC Legends U11 won by 3 Wickets",
+   "summary": "FCCA warriors U11: 94/11(26.4) TIC Legends U11: 95/7(29.2)"
+  },
+  {
+   "matchId": "6971",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6971&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "SAC Foals U11"
+   ],
+   "teamIds": [
+    "2346",
+    "2344"
+   ],
+   "ground": "Stallions CG3",
+   "result": "SKA Cheetahs U11 won by 7 Wickets",
+   "summary": "SAC Foals U11: 116/10(24) SKA Cheetahs U11: 119/3(13.1)"
+  },
+  {
+   "matchId": "6970",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6970&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers Red U11",
+    "CCA Blasters U11"
+   ],
+   "teamIds": [
+    "2336",
+    "2338"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CCA Blasters U11 won by 112 Runs",
+   "summary": "CCA Blasters U11: 196/3(25) All Stars Sparklers Red U11: 84/10(15.2)"
+  },
+  {
+   "matchId": "6961",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6961&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "TCC Cubs U11",
+    "CCA Rising Stars U11"
+   ],
+   "teamIds": [
+    "2347",
+    "2339"
+   ],
+   "ground": "Stallions CG3",
+   "result": "TCC Cubs U11 won by 17 Runs",
+   "summary": "TCC Cubs U11: 175/5(25) CCA Rising Stars U11: 158/5(25)"
+  },
+  {
+   "matchId": "6976",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6976&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "SKA Phoenix U13"
+   ],
+   "teamIds": [
+    "2367",
+    "2375"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "SKA Phoenix U13 won by 78 Runs",
+   "summary": "SKA Phoenix U13: 194/4(30) CCA Giants U13: 116/10(30)"
+  },
+  {
+   "matchId": "6964",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6964&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "TCA Colts U13",
+    "SAC Mavericks U13"
+   ],
+   "teamIds": [
+    "2376",
+    "2372"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Colts U13 won by 113 Runs",
+   "summary": "TCA Colts U13: 208/6(30) SAC Mavericks U13: 95/10(22)"
+  },
+  {
+   "matchId": "6962",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6962&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "CCA Dynamos U13",
+    "All Stars Strikers U13"
+   ],
+   "teamIds": [
+    "2368",
+    "2366"
+   ],
+   "ground": "Stallions CG1",
+   "result": "CCA Dynamos U13 won by 10 Runs",
+   "summary": "CCA Dynamos U13: 158/8(25) All Stars Strikers U13: 148/9(25)"
+  },
+  {
+   "matchId": "6973",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6973&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "VCA U15 U15",
+    "FCCA Commanders U15"
+   ],
+   "teamIds": [
+    "2388",
+    "2382"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U15 U15 won by 9 Wickets",
+   "summary": "FCCA Commanders U15: 204/10(37.3) VCA U15 U15: 205/1(24.4)"
+  },
+  {
+   "matchId": "6967",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6967&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "SKA Pumas U15",
+    "MCA Cheetahs U15"
+   ],
+   "teamIds": [
+    "2384",
+    "2383"
+   ],
+   "ground": "NMCG 1",
+   "result": "MCA Cheetahs U15 won by 10 Wickets",
+   "summary": "SKA Pumas U15: 201/3(40) MCA Cheetahs U15: 202/0(23.1)"
+  },
+  {
+   "matchId": "6966",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6966&clubId=40319",
+   "date": "2025-11-15",
+   "type": "League",
+   "teams": [
+    "TCA Knights U15",
+    "CCA Spartans U15"
+   ],
+   "teamIds": [
+    "2386",
+    "2380"
+   ],
+   "ground": "NMCG 2",
+   "result": "TCA Knights U15 won by 11 Runs",
+   "summary": "TCA Knights U15: 235/5(40) CCA Spartans U15: 224/11(36.5)"
+  },
+  {
+   "matchId": "6958",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6958&clubId=40319",
+   "date": "2025-11-14",
+   "type": "League",
+   "teams": [
+    "SAC Chargers U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2343",
+    "2345"
+   ],
+   "ground": "NMCG 2",
+   "result": "SAC Chargers U11 won by 7 Wickets",
+   "summary": "SKA Tigers U11: 173/2(24.5) SAC Chargers U11: 174/3(19)"
+  },
+  {
+   "matchId": "6959",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6959&clubId=40319",
+   "date": "2025-11-14",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "MCA Lions U13"
+   ],
+   "teamIds": [
+    "2353",
+    "2357"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Lions U13 won by 84 Runs",
+   "summary": "MCA Lions U13: 171/6(28) CCA Titans U13: 87/10(23)"
+  },
+  {
+   "matchId": "6957",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6957&clubId=40319",
+   "date": "2025-11-14",
+   "type": "League",
+   "teams": [
+    "SKA Falcons U13",
+    "SAC Bolts U13"
+   ],
+   "teamIds": [
+    "2360",
+    "2359"
+   ],
+   "ground": "NMCG 1",
+   "result": "SKA Falcons U13 won by 7 Wickets",
+   "summary": "SAC Bolts U13: 178/8(25) SKA Falcons U13: 179/3(24.2)"
+  },
+  {
+   "matchId": "6951",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6951&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "TIC Hi Riders U15",
+    "MCA Puma U15"
+   ],
+   "teamIds": [
+    "2394",
+    "2392"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "MCA Puma U15 won by 7 Wickets",
+   "summary": "TIC Hi Riders U15: 75/9(26.1) MCA Puma U15: 76/3(20.2)"
+  },
+  {
+   "matchId": "6950",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6950&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles U17",
+    "CCC Lions U17"
+   ],
+   "teamIds": [
+    "2400",
+    "2397"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CCC Lions U17 won by 2 Wickets",
+   "summary": "All Stars Invincibles U17: 171/8(40) CCC Lions U17: 177/8(39.3)"
+  },
+  {
+   "matchId": "6947",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6947&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "DYCL Bolts U17"
+   ],
+   "teamIds": [
+    "2395",
+    "2396"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL Bolts U17 won by 75 Runs",
+   "summary": "DYCL Bolts U17: 192/10(38.3) FCCA Spartans U17: 117/10(30.3)"
+  },
+  {
+   "matchId": "6953",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6953&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "VCA Red U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2335",
+    "2334"
+   ],
+   "ground": "Coppell CG",
+   "result": "TIC Little Masters U11 won by 52 Runs",
+   "summary": "TIC Little Masters U11: 244/3(30) VCA Red U11: 192/6(30)"
+  },
+  {
+   "matchId": "6948",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6948&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "SKA Lions U11"
+   ],
+   "teamIds": [
+    "2325",
+    "2332"
+   ],
+   "ground": "NMCG 2",
+   "result": "CCA Strikers U11 won by 7 Wickets",
+   "summary": "SKA Lions U11: 117/8(30) CCA Strikers U11: 118/3(21)"
+  },
+  {
+   "matchId": "6955",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6955&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "ECA Minies U11",
+    "TIC Legends U11"
+   ],
+   "teamIds": [
+    "2342",
+    "2349"
+   ],
+   "ground": "Horseshoe",
+   "result": "ECA Minies U11 won by 1 Run (D/L)",
+   "summary": "ECA Minies U11: 113/9(25) TIC Legends U11: 82/3(20)"
+  },
+  {
+   "matchId": "6954",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6954&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers Red U11",
+    "RCA Sparks U11"
+   ],
+   "teamIds": [
+    "2336",
+    "2341"
+   ],
+   "ground": "Warriors CG",
+   "result": "All Stars Sparklers Red U11 won by 74 Runs",
+   "summary": "All Stars Sparklers Red U11: 204/9(25) RCA Sparks U11: 130/9(19.5)"
+  },
+  {
+   "matchId": "6949",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6949&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars U13",
+    "SKA Phoenix U13"
+   ],
+   "teamIds": [
+    "2370",
+    "2375"
+   ],
+   "ground": "Horseshoe",
+   "result": "SKA Phoenix U13 won by 23 Runs",
+   "summary": "SKA Phoenix U13: 85/3(25) MCA Jaguars U13: 62/10(21.4)"
+  },
+  {
+   "matchId": "6952",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6952&clubId=40319",
+   "date": "2025-11-09",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs U15",
+    "VCA U15 U15"
+   ],
+   "teamIds": [
+    "2383",
+    "2388"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "MCA Cheetahs U15 won by 31 Runs",
+   "summary": "MCA Cheetahs U15: 161/8(40) VCA U15 U15: 130/10(37.1)"
+  },
+  {
+   "matchId": "6945",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6945&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "AllStars Raiders U15",
+    "CCA Challengers U15"
+   ],
+   "teamIds": [
+    "2390",
+    "2391"
+   ],
+   "ground": "NMCG 2",
+   "result": "AllStars Raiders U15 won by 59 Runs",
+   "summary": "AllStars Raiders U15: 245/10(37.1) CCA Challengers U15: 186/10(40)"
+  },
+  {
+   "matchId": "6934",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6934&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "MCA Puma U15",
+    "SAC Falcons U15"
+   ],
+   "teamIds": [
+    "2392",
+    "2393"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "MCA Puma U15 won by 99 Runs",
+   "summary": "MCA Puma U15: 175/10(33.5) SAC Falcons U15: 76/11(23.3)"
+  },
+  {
+   "matchId": "6942",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6942&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "MCA Panthers U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2398",
+    "2399"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "MCA Panthers U17 won by 8 Wickets",
+   "summary": "TCA Warriors U17: 158/7(40) MCA Panthers U17: 160/2(26.5)"
+  },
+  {
+   "matchId": "6938",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6938&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "CricKingdom Cubs U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2324",
+    "2330"
+   ],
+   "ground": "Warriors CG",
+   "result": "ECA Aggies U11 won by 103 Runs",
+   "summary": "ECA Aggies U11: 279/4(25) CricKingdom Cubs U11: 176/10(23.3)"
+  },
+  {
+   "matchId": "6930",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6930&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U11",
+    "SAC Colts U11"
+   ],
+   "teamIds": [
+    "2327",
+    "2331"
+   ],
+   "ground": "BF Philips",
+   "result": "SAC Colts U11 won by 4 Wickets",
+   "summary": "FCCA Tigers U11: 106/10(27.3) SAC Colts U11: 107/6(26.5)"
+  },
+  {
+   "matchId": "6929",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6929&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "RCA Bolts U11"
+   ],
+   "teamIds": [
+    "2325",
+    "2329"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers U11 won by 18 Runs",
+   "summary": "CCA Strikers U11: 206/1(25) RCA Bolts U11: 188/7(25)"
+  },
+  {
+   "matchId": "6928",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6928&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "TCA Bolts U11",
+    "MCA Tigers U11"
+   ],
+   "teamIds": [
+    "2333",
+    "2328"
+   ],
+   "ground": "GPCC1",
+   "result": "TCA Bolts U11 won by 80 Runs",
+   "summary": "TCA Bolts U11: 145/2(25) MCA Tigers U11: 65/10(18.2)"
+  },
+  {
+   "matchId": "6956",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6956&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers Blue U11",
+    "TCC Cubs U11"
+   ],
+   "teamIds": [
+    "2337",
+    "2347"
+   ],
+   "ground": "GPCC1",
+   "result": "Forfeited. Winner: All Stars Sparklers Blue U11",
+   "summary": "All Stars Sparklers Blue U11: 0/0(0)"
+  },
+  {
+   "matchId": "6946",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6946&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "VCA Blue U11",
+    "SAC Foals U11"
+   ],
+   "teamIds": [
+    "2350",
+    "2344"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Blue U11 won by 198 Runs",
+   "summary": "VCA Blue U11: 257/6(30) SAC Foals U11: 59/9(12.4)"
+  },
+  {
+   "matchId": "6932",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6932&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "CCA Rising Stars U11",
+    "SAC Chargers U11"
+   ],
+   "teamIds": [
+    "2339",
+    "2343"
+   ],
+   "ground": "GPCC2",
+   "result": "SAC Chargers U11 won by 41 Runs",
+   "summary": "SAC Chargers U11: 133/10(23.1) CCA Rising Stars U11: 92/9(25)"
+  },
+  {
+   "matchId": "6931",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6931&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2413",
+    "2345"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 9 Wickets",
+   "summary": "SKA Tigers U11: 119/8(25) DYCL Hawks U11: 121/1(22.3)"
+  },
+  {
+   "matchId": "6941",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6941&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "TIC Evolution U13",
+    "RCA Thunders U13"
+   ],
+   "teamIds": [
+    "2362",
+    "2358"
+   ],
+   "ground": "Garland CG3",
+   "result": "TIC Evolution U13 won by 56 Runs",
+   "summary": "TIC Evolution U13: 151/4(25) RCA Thunders U13: 95/10(25)"
+  },
+  {
+   "matchId": "6936",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6936&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "VCA Red U13",
+    "HPC Smashers U13"
+   ],
+   "teamIds": [
+    "2364",
+    "2356"
+   ],
+   "ground": "Coppell CG",
+   "result": "HPC Smashers U13 won by 40 Runs",
+   "summary": "HPC Smashers U13: 156/10(28.3) VCA Red U13: 116/10(29)"
+  },
+  {
+   "matchId": "6927",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6927&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "WCA Longhorns U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2365",
+    "2363"
+   ],
+   "ground": "Garland CG3",
+   "result": "TCA Broncos U13 won by 36 Runs",
+   "summary": "TCA Broncos U13: 142/7(25) WCA Longhorns U13: 106/6(25)"
+  },
+  {
+   "matchId": "6943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6943&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers U13",
+    "TCA Colts U13"
+   ],
+   "teamIds": [
+    "2366",
+    "2376"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Colts U13 won by 5 Wickets",
+   "summary": "All Stars Strikers U13: 122/10(27.2) TCA Colts U13: 123/5(23.5)"
+  },
+  {
+   "matchId": "6940",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6940&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "CCA Dynamos U13",
+    "SAC Mavericks U13"
+   ],
+   "teamIds": [
+    "2368",
+    "2372"
+   ],
+   "ground": "GPCC2",
+   "result": "CCA Dynamos U13 won by 6 Wickets",
+   "summary": "SAC Mavericks U13: 31/9(16.4) CCA Dynamos U13: 32/4(5.2)"
+  },
+  {
+   "matchId": "6939",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6939&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "SAC Rahvans U13",
+    "DYCL Jaguars U13"
+   ],
+   "teamIds": [
+    "2373",
+    "2369"
+   ],
+   "ground": "Horseshoe",
+   "result": "SAC Rahvans U13 won by 9 Wickets",
+   "summary": "DYCL Jaguars U13: 103/9(25) SAC Rahvans U13: 104/1(14.1)"
+  },
+  {
+   "matchId": "6933",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6933&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars U13",
+    "SKA Hawks U13"
+   ],
+   "teamIds": [
+    "2370",
+    "2374"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Jaguars U13 won by 7 Wickets",
+   "summary": "SKA Hawks U13: 105/6(29.4) MCA Jaguars U13: 106/3(21.4)"
+  },
+  {
+   "matchId": "6944",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6944&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "WCA Comets U15",
+    "CCA Spartans U15"
+   ],
+   "teamIds": [
+    "2389",
+    "2380"
+   ],
+   "ground": "NMCG 1",
+   "result": "CCA Spartans U15 won by 247 Runs",
+   "summary": "CCA Spartans U15: 331/5(40) WCA Comets U15: 84/10(23.5)"
+  },
+  {
+   "matchId": "6937",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6937&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "TIC Supernova U15",
+    "DYCL Panthers U15"
+   ],
+   "teamIds": [
+    "2387",
+    "2381"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Supernova U15 won by 54 Runs",
+   "summary": "TIC Supernova U15: 131/8(40) DYCL Panthers U15: 77/10(25.3)"
+  },
+  {
+   "matchId": "6935",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6935&clubId=40319",
+   "date": "2025-11-08",
+   "type": "League",
+   "teams": [
+    "TCC Kings U15",
+    "FCCA Commanders U15"
+   ],
+   "teamIds": [
+    "2385",
+    "2382"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "TCC Kings U15 won by 7 Wickets",
+   "summary": "FCCA Commanders U15: 164/10(32.1) TCC Kings U15: 165/3(24.1)"
+  },
+  {
+   "matchId": "6924",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6924&clubId=40319",
+   "date": "2025-11-07",
+   "type": "League",
+   "teams": [
+    "CricKingdom Cubs U11",
+    "VCA Red U11"
+   ],
+   "teamIds": [
+    "2324",
+    "2335"
+   ],
+   "ground": "Sandy Lake",
+   "result": "VCA Red U11 won by 113 Runs",
+   "summary": "VCA Red U11: 220/5(25) CricKingdom Cubs U11: 107/5(25)"
+  },
+  {
+   "matchId": "6926",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6926&clubId=40319",
+   "date": "2025-11-07",
+   "type": "League",
+   "teams": [
+    "TIC Legends U11",
+    "All Stars Sparklers Red U11"
+   ],
+   "teamIds": [
+    "2349",
+    "2336"
+   ],
+   "ground": "NMCG 2",
+   "result": "All Stars Sparklers Red U11 won by 6 Wickets",
+   "summary": "TIC Legends U11: 190/4(25) All Stars Sparklers Red U11: 191/4(22)"
+  },
+  {
+   "matchId": "6925",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6925&clubId=40319",
+   "date": "2025-11-07",
+   "type": "League",
+   "teams": [
+    "SAC Thunder U13",
+    "CCA Giants U13"
+   ],
+   "teamIds": [
+    "2371",
+    "2367"
+   ],
+   "ground": "NMCG 1",
+   "result": "CCA Giants U13 won by 8 Wickets",
+   "summary": "SAC Thunder U13: 157/8(30) CCA Giants U13: 158/2(21.3)"
+  },
+  {
+   "matchId": "6916",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6916&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles U17",
+    "FCCA Spartans U17"
+   ],
+   "teamIds": [
+    "2400",
+    "2395"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "FCCA Spartans U17 won by 70 Runs",
+   "summary": "FCCA Spartans U17: 212/8(40) All Stars Invincibles U17: 142/10(27.4)"
+  },
+  {
+   "matchId": "6921",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6921&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "TIC Little Masters U11",
+    "CricKingdom Cubs U11"
+   ],
+   "teamIds": [
+    "2334",
+    "2324"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TIC Little Masters U11 won by 211 Runs",
+   "summary": "TIC Little Masters U11: 377/3(30) CricKingdom Cubs U11: 166/7(30)"
+  },
+  {
+   "matchId": "6909",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6909&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "TCA Bolts U11",
+    "FCCA Tigers U11"
+   ],
+   "teamIds": [
+    "2333",
+    "2327"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Tigers U11 won by 78 Runs",
+   "summary": "FCCA Tigers U11: 251/5(30) TCA Bolts U11: 173/3(30.1)"
+  },
+  {
+   "matchId": "6918",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6918&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "TCA Thunders U11",
+    "SAC Chargers U11"
+   ],
+   "teamIds": [
+    "2348",
+    "2343"
+   ],
+   "ground": "Warriors CG",
+   "result": "SAC Chargers U11 won by 100 Runs",
+   "summary": "SAC Chargers U11: 243/6(25) TCA Thunders U11: 143/6(25)"
+  },
+  {
+   "matchId": "6917",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6917&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "VCA Blue U11",
+    "CCA Blasters U11"
+   ],
+   "teamIds": [
+    "2350",
+    "2338"
+   ],
+   "ground": "Coppell CG",
+   "result": "CCA Blasters U11 won by 56 Runs",
+   "summary": "CCA Blasters U11: 147/10(29.5) VCA Blue U11: 91/10(18.1)"
+  },
+  {
+   "matchId": "6920",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6920&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2355",
+    "2362"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Jets U13 won by 7 Wickets",
+   "summary": "TIC Evolution U13: 143/9(30) FCCA Jets U13: 144/3(29)"
+  },
+  {
+   "matchId": "6911",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6911&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "MCA Lions U13",
+    "TCA Stallions U13"
+   ],
+   "teamIds": [
+    "2357",
+    "2361"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Stallions U13 won by 3 Wickets",
+   "summary": "MCA Lions U13: 103/11(24.2) TCA Stallions U13: 104/7(23.5)"
+  },
+  {
+   "matchId": "6910",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6910&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2353",
+    "2363"
+   ],
+   "ground": "Stallions CG2",
+   "result": "TCA Broncos U13 won by 6 Runs",
+   "summary": "TCA Broncos U13: 174/10(28.5) CCA Titans U13: 168/8(30)"
+  },
+  {
+   "matchId": "6922",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6922&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "VCA Blue U13",
+    "SKA Hawks U13"
+   ],
+   "teamIds": [
+    "2378",
+    "2374"
+   ],
+   "ground": "Coppell CG",
+   "result": "SKA Hawks U13 won by 39 Runs",
+   "summary": "SKA Hawks U13: 174/5(30) VCA Blue U13: 135/10(25.5)"
+  },
+  {
+   "matchId": "6919",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6919&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars U13",
+    "SKA Phoenix U13"
+   ],
+   "teamIds": [
+    "2369",
+    "2375"
+   ],
+   "ground": "Horseshoe",
+   "result": "SKA Phoenix U13 won by 21 Runs",
+   "summary": "SKA Phoenix U13: 130/1(25) DYCL Jaguars U13: 109/8(25)"
+  },
+  {
+   "matchId": "6912",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6912&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "WCA Tigers U13",
+    "TIC Thunderbolts U13"
+   ],
+   "teamIds": [
+    "2379",
+    "2377"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "WCA Tigers U13 won by 5 Wickets",
+   "summary": "TIC Thunderbolts U13: 141/5(30) WCA Tigers U13: 142/5(26.2)"
+  },
+  {
+   "matchId": "6915",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6915&clubId=40319",
+   "date": "2025-11-02",
+   "type": "League",
+   "teams": [
+    "TIC Supernova U15",
+    "VCA U15 U15"
+   ],
+   "teamIds": [
+    "2387",
+    "2388"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "VCA U15 U15 won by 7 Wickets",
+   "summary": "TIC Supernova U15: 71/8(27.3) VCA U15 U15: 75/3(11.1)"
+  },
+  {
+   "matchId": "6908",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6908&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "CCA Challengers U15",
+    "MCA Puma U15"
+   ],
+   "teamIds": [
+    "2391",
+    "2392"
+   ],
+   "ground": "NMCG 2",
+   "result": "MCA Puma U15 won by 210 Runs",
+   "summary": "MCA Puma U15: 328/6(40) CCA Challengers U15: 118/10(26.5)"
+  },
+  {
+   "matchId": "6899",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6899&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "AllStars Raiders U15",
+    "SAC Falcons U15"
+   ],
+   "teamIds": [
+    "2390",
+    "2393"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "AllStars Raiders U15 won by 7 Wickets",
+   "summary": "SAC Falcons U15: 50/10(24.2) AllStars Raiders U15: 51/3(8.3)"
+  },
+  {
+   "matchId": "6896",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6896&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2395",
+    "2399"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Spartans U17 won by 67 Runs",
+   "summary": "FCCA Spartans U17: 234/7(35) TCA Warriors U17: 167/8(35)"
+  },
+  {
+   "matchId": "6903",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6903&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "MCA Tigers U11",
+    "SAC Colts U11"
+   ],
+   "teamIds": [
+    "2328",
+    "2331"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts U11 won by 33 Runs",
+   "summary": "SAC Colts U11: 81/10(20) MCA Tigers U11: 48/10(14.5)"
+  },
+  {
+   "matchId": "6901",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6901&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "CricKingdom Cubs U11",
+    "FCCA Tigers U11"
+   ],
+   "teamIds": [
+    "2324",
+    "2327"
+   ],
+   "ground": "Independence",
+   "result": "FCCA Tigers U11 won by 10 Wickets",
+   "summary": "CricKingdom Cubs U11: 102/4(25) FCCA Tigers U11: 103/0(9.1)"
+  },
+  {
+   "matchId": "6893",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6893&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "VCA Red U11",
+    "SKA Lions U11"
+   ],
+   "teamIds": [
+    "2335",
+    "2332"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U11 won by 3 Wickets",
+   "summary": "SKA Lions U11: 73/9(26) VCA Red U11: 75/7(17.1)"
+  },
+  {
+   "matchId": "6891",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6891&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "RCA Bolts U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2329",
+    "2333"
+   ],
+   "ground": "Stallions CG3",
+   "result": "Abandoned.",
+   "summary": "TCA Bolts U11: 71/3(15)"
+  },
+  {
+   "matchId": "6904",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6904&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "ECA Minies U11"
+   ],
+   "teamIds": [
+    "2346",
+    "2342"
+   ],
+   "ground": "Warriors CG",
+   "result": "SKA Cheetahs U11 won by 9 Wickets",
+   "summary": "ECA Minies U11: 82/10(18) SKA Cheetahs U11: 87/1(7.2)"
+  },
+  {
+   "matchId": "6900",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6900&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "SAC Foals U11",
+    "All Stars Sparklers Blue U11"
+   ],
+   "teamIds": [
+    "2344",
+    "2337"
+   ],
+   "ground": "Stallions CG3",
+   "result": "SAC Foals U11 won by 88 Runs",
+   "summary": "SAC Foals U11: 172/8(25) All Stars Sparklers Blue U11: 84/10(19)"
+  },
+  {
+   "matchId": "6889",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6889&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "WCA Titans U11",
+    "CCA Rising Stars U11"
+   ],
+   "teamIds": [
+    "2351",
+    "2339"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Rising Stars U11 won by 7 Wickets",
+   "summary": "WCA Titans U11: 175/10(24.3) CCA Rising Stars U11: 177/3(22.3)"
+  },
+  {
+   "matchId": "6907",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6907&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "VCA Red U13",
+    "DYCL Cheetahs U13"
+   ],
+   "teamIds": [
+    "2364",
+    "2354"
+   ],
+   "ground": "Coppell CG",
+   "result": "DYCL Cheetahs U13 won by 9 Runs",
+   "summary": "DYCL Cheetahs U13: 141/9(30) VCA Red U13: 132/10(30)"
+  },
+  {
+   "matchId": "6890",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6890&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "MCA Lions U13",
+    "SKA Falcons U13"
+   ],
+   "teamIds": [
+    "2357",
+    "2360"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "MCA Lions U13: 219/0(22)"
+  },
+  {
+   "matchId": "6902",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6902&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "SKA Hawks U13",
+    "TCA Colts U13"
+   ],
+   "teamIds": [
+    "2374",
+    "2376"
+   ],
+   "ground": "Horseshoe",
+   "result": "SKA Hawks U13 won by 6 Wickets",
+   "summary": "TCA Colts U13: 60/8(25) SKA Hawks U13: 61/4(9)"
+  },
+  {
+   "matchId": "6894",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6894&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "SKA Phoenix U13",
+    "CCA Dynamos U13"
+   ],
+   "teamIds": [
+    "2375",
+    "2368"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "SKA Phoenix U13 won by 115 Runs",
+   "summary": "SKA Phoenix U13: 192/8(30) CCA Dynamos U13: 77/10(21.2)"
+  },
+  {
+   "matchId": "6892",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6892&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "SAC Mavericks U13",
+    "MCA Jaguars U13"
+   ],
+   "teamIds": [
+    "2372",
+    "2370"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Abandoned.",
+   "summary": "MCA Jaguars U13: 80/0(12)"
+  },
+  {
+   "matchId": "6906",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6906&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "CCA Spartans U15",
+    "MCA Cheetahs U15"
+   ],
+   "teamIds": [
+    "2380",
+    "2383"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Cheetahs U15 won by 7 Wickets",
+   "summary": "CCA Spartans U15: 142/10(36.2) MCA Cheetahs U15: 143/3(29.5)"
+  },
+  {
+   "matchId": "6905",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6905&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "WCA Comets U15",
+    "SKA Pumas U15"
+   ],
+   "teamIds": [
+    "2389",
+    "2384"
+   ],
+   "ground": "NMCG 1",
+   "result": "SKA Pumas U15 won by 46 Runs",
+   "summary": "SKA Pumas U15: 154/10(36.3) WCA Comets U15: 108/10(24.1)"
+  },
+  {
+   "matchId": "6897",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6897&clubId=40319",
+   "date": "2025-11-01",
+   "type": "League",
+   "teams": [
+    "TCA Knights U15",
+    "DYCL Panthers U15"
+   ],
+   "teamIds": [
+    "2386",
+    "2381"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "DYCL Panthers U15 won by 9 Wickets",
+   "summary": "TCA Knights U15: 76/11(25.1) DYCL Panthers U15: 77/1(23.2)"
+  },
+  {
+   "matchId": "6887",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6887&clubId=40319",
+   "date": "2025-10-31",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "WCA Longhorns U13"
+   ],
+   "teamIds": [
+    "2353",
+    "2365"
+   ],
+   "ground": "NMCG 1",
+   "result": "CCA Titans U13 won by 209 Runs",
+   "summary": "CCA Titans U13: 306/5(30) WCA Longhorns U13: 97/9(14.5)"
+  },
+  {
+   "matchId": "6888",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6888&clubId=40319",
+   "date": "2025-10-31",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "All Stars Strikers U13"
+   ],
+   "teamIds": [
+    "2367",
+    "2366"
+   ],
+   "ground": "NMCG 2",
+   "result": "CCA Giants U13 won by 156 Runs",
+   "summary": "CCA Giants U13: 240/0(25) All Stars Strikers U13: 84/10(24)"
+  },
+  {
+   "matchId": "6886",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6886&clubId=40319",
+   "date": "2025-10-26",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers Blue U11",
+    "WCA Titans U11"
+   ],
+   "teamIds": [
+    "2337",
+    "2351"
+   ],
+   "ground": "Warriors CG",
+   "result": "All Stars Sparklers Blue U11 won by 32 Runs",
+   "summary": "All Stars Sparklers Blue U11: 148/6(30) WCA Titans U11: 116/10(27.3)"
+  },
+  {
+   "matchId": "6881",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6881&clubId=40319",
+   "date": "2025-10-26",
+   "type": "League",
+   "teams": [
+    "SAC Chargers U11",
+    "DYCL Hawks U11"
+   ],
+   "teamIds": [
+    "2343",
+    "2413"
+   ],
+   "ground": "Horseshoe",
+   "result": "SAC Chargers U11 won by 39 Runs",
+   "summary": "SAC Chargers U11: 119/4(25) DYCL Hawks U11: 80/10(24.3)"
+  },
+  {
+   "matchId": "6880",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6880&clubId=40319",
+   "date": "2025-10-25",
+   "type": "League",
+   "teams": [
+    "CCA Challengers U15",
+    "AllStars Raiders U15"
+   ],
+   "teamIds": [
+    "2391",
+    "2390"
+   ],
+   "ground": "NMCG 2",
+   "result": "AllStars Raiders U15 won by 5 Wickets",
+   "summary": "CCA Challengers U15: 165/7(40) AllStars Raiders U15: 166/5(31.2)"
+  },
+  {
+   "matchId": "6875",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6875&clubId=40319",
+   "date": "2025-10-25",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs U13",
+    "RCA Thunders U13"
+   ],
+   "teamIds": [
+    "2354",
+    "2358"
+   ],
+   "ground": "Horseshoe",
+   "result": "Winner: DYCL Cheetahs U13",
+   "summary": "RCA Thunders U13: 129/6(30) DYCL Cheetahs U13: 119/5(24)"
+  },
+  {
+   "matchId": "6879",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6879&clubId=40319",
+   "date": "2025-10-25",
+   "type": "League",
+   "teams": [
+    "TCC Kings U15",
+    "TCA Knights U15"
+   ],
+   "teamIds": [
+    "2385",
+    "2386"
+   ],
+   "ground": "NMCG 1",
+   "result": "TCA Knights U15 won by 38 Runs",
+   "summary": "TCA Knights U15: 234/5(40) TCC Kings U15: 196/10(39.4)"
+  },
+  {
+   "matchId": "6864",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6864&clubId=40319",
+   "date": "2025-10-24",
+   "type": "League",
+   "teams": [
+    "MCA Lions U13",
+    "VCA Red U13"
+   ],
+   "teamIds": [
+    "2357",
+    "2364"
+   ],
+   "ground": "NMCG 1",
+   "result": "MCA Lions U13 won by 8 Wickets",
+   "summary": "VCA Red U13: 87/5(25) MCA Lions U13: 88/2(15.3)"
+  },
+  {
+   "matchId": "6863",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6863&clubId=40319",
+   "date": "2025-10-24",
+   "type": "League",
+   "teams": [
+    "SKA Phoenix U13",
+    "SAC Thunder U13"
+   ],
+   "teamIds": [
+    "2375",
+    "2371"
+   ],
+   "ground": "NMCG 2",
+   "result": "SAC Thunder U13 won by 20 Runs (D/L)",
+   "summary": "SAC Thunder U13: 131/10(27.1) SKA Phoenix U13: 54/5(13.3)"
+  },
+  {
+   "matchId": "6846",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6846&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "CCA Challengers U15"
+   ],
+   "teamIds": [
+    "2393",
+    "2391"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "SAC Falcons U15 won by 2 Wickets",
+   "summary": "CCA Challengers U15: 76/10(28.4) SAC Falcons U15: 77/8(37)"
+  },
+  {
+   "matchId": "6847",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6847&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "MCA Panthers U17",
+    "DYCL Bolts U17"
+   ],
+   "teamIds": [
+    "2398",
+    "2396"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "DYCL Bolts U17 won by 45 Runs",
+   "summary": "DYCL Bolts U17: 112/11(31.5) MCA Panthers U17: 67/10(29.1)"
+  },
+  {
+   "matchId": "6862",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6862&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "ECA Aggies U11",
+    "FCCA Tigers U11"
+   ],
+   "teamIds": [
+    "2330",
+    "2327"
+   ],
+   "ground": "Frisco NE1",
+   "result": "FCCA Tigers U11 won by 30 Runs",
+   "summary": "FCCA Tigers U11: 205/7(30) ECA Aggies U11: 175/8(30)"
+  },
+  {
+   "matchId": "6856",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6856&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "MCA Tigers U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2328",
+    "2334"
+   ],
+   "ground": "Warriors CG",
+   "result": "TIC Little Masters U11 won by 1 Run",
+   "summary": "TIC Little Masters U11: 216/4(30) MCA Tigers U11: 215/6(30)"
+  },
+  {
+   "matchId": "6853",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6853&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "VCA Red U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2335",
+    "2333"
+   ],
+   "ground": "Coppell CG",
+   "result": "TCA Bolts U11 won by 9 Runs",
+   "summary": "TCA Bolts U11: 148/5(30) VCA Red U11: 139/8(30)"
+  },
+  {
+   "matchId": "6838",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6838&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "RCA Sparks U11",
+    "FCCA warriors U11"
+   ],
+   "teamIds": [
+    "2341",
+    "2340"
+   ],
+   "ground": "Frisco NE3",
+   "result": "FCCA warriors U11 won by 1 Run",
+   "summary": "FCCA warriors U11: 140/10(25.2) RCA Sparks U11: 139/6(30)"
+  },
+  {
+   "matchId": "6836",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6836&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks U11",
+    "WCA Titans U11"
+   ],
+   "teamIds": [
+    "2413",
+    "2351"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 10 Wickets",
+   "summary": "WCA Titans U11: 59/10(23.3) DYCL Hawks U11: 60/0(5.3)"
+  },
+  {
+   "matchId": "6837",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6837&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "SKA Falcons U13",
+    "RCA Thunders U13"
+   ],
+   "teamIds": [
+    "2360",
+    "2358"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SKA Falcons U13 won by 86 Runs",
+   "summary": "SKA Falcons U13: 209/9(30) RCA Thunders U13: 123/10(19.2)"
+  },
+  {
+   "matchId": "6835",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6835&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "HPC Smashers U13",
+    "FCCA Jets U13"
+   ],
+   "teamIds": [
+    "2356",
+    "2355"
+   ],
+   "ground": "Frisco NE1",
+   "result": "HPC Smashers U13 won by 61 Runs",
+   "summary": "HPC Smashers U13: 173/8(30) FCCA Jets U13: 112/9(30)"
+  },
+  {
+   "matchId": "6860",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6860&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "TCA Colts U13",
+    "CCA Dynamos U13"
+   ],
+   "teamIds": [
+    "2376",
+    "2368"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Colts U13 won by 7 Runs",
+   "summary": "TCA Colts U13: 200/4(30) CCA Dynamos U13: 193/7(30)"
+  },
+  {
+   "matchId": "6858",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6858&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "SAC Mavericks U13",
+    "SAC Rahvans U13"
+   ],
+   "teamIds": [
+    "2372",
+    "2373"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Rahvans U13 won by 85 Runs",
+   "summary": "SAC Rahvans U13: 187/9(29.3) SAC Mavericks U13: 102/7(30)"
+  },
+  {
+   "matchId": "6857",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6857&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "SKA Hawks U13",
+    "WCA Tigers U13"
+   ],
+   "teamIds": [
+    "2374",
+    "2379"
+   ],
+   "ground": "Horseshoe",
+   "result": "SKA Hawks U13 won by 4 Wickets",
+   "summary": "WCA Tigers U13: 103/10(28.1) SKA Hawks U13: 104/6(24.4)"
+  },
+  {
+   "matchId": "6861",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6861&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "SKA Pumas U15",
+    "FCCA Commanders U15"
+   ],
+   "teamIds": [
+    "2384",
+    "2382"
+   ],
+   "ground": "Frisco NE3",
+   "result": "FCCA Commanders U15 won by 146 Runs",
+   "summary": "FCCA Commanders U15: 273/7(40) SKA Pumas U15: 127/10(38.1)"
+  },
+  {
+   "matchId": "6814",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6814&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "TCA Warriors U17",
+    "CCC Lions U17"
+   ],
+   "teamIds": [
+    "2399",
+    "2397"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Abandoned.",
+   "summary": "TCA Warriors U17: 30/2(10)"
+  },
+  {
+   "matchId": "6809",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6809&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "SAC Colts U11",
+    "SKA Lions U11"
+   ],
+   "teamIds": [
+    "2331",
+    "2332"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Abandoned.",
+   "summary": "SAC Colts U11: 258/3(30) SKA Lions U11: 18/2(6.2)"
+  },
+  {
+   "matchId": "6828",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6828&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "ECA Minies U11",
+    "All Stars Sparklers Blue U11"
+   ],
+   "teamIds": [
+    "2342",
+    "2337"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Abandoned.",
+   "summary": "ECA Minies U11: 10/1(2)"
+  },
+  {
+   "matchId": "6807",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6807&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "TCC Cubs U11",
+    "TCA Thunders U11"
+   ],
+   "teamIds": [
+    "2347",
+    "2348"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned. Winner: TCA Thunders U11",
+   "summary": "TCC Cubs U11: 138/7(30) TCA Thunders U11: 113/6(24.2)"
+  },
+  {
+   "matchId": "6806",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6806&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "SKA Tigers U11",
+    "CCA Blasters U11"
+   ],
+   "teamIds": [
+    "2345",
+    "2338"
+   ],
+   "ground": "Warriors CG",
+   "result": "SKA Tigers U11 won by 124 Runs",
+   "summary": "SKA Tigers U11: 223/4(30) CCA Blasters U11: 99/8(22.1)"
+  },
+  {
+   "matchId": "6923",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6923&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "Crickingdom Eagles U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2352",
+    "2363"
+   ],
+   "ground": "Independence",
+   "result": "Forfeited. Winner: TCA Broncos U13",
+   "summary": "Crickingdom Eagles U13: 0/0(0)"
+  },
+  {
+   "matchId": "6827",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6827&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "TIC Evolution U13",
+    "DYCL Cheetahs U13"
+   ],
+   "teamIds": [
+    "2362",
+    "2354"
+   ],
+   "ground": "Horseshoe",
+   "result": "Abandoned.",
+   "summary": "TIC Evolution U13: 46/2(15)"
+  },
+  {
+   "matchId": "6808",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6808&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "SAC Bolts U13",
+    "WCA Longhorns U13"
+   ],
+   "teamIds": [
+    "2359",
+    "2365"
+   ],
+   "ground": "Stallions CG3",
+   "result": "Abandoned.",
+   "summary": "WCA Longhorns U13: 117/11(29.3) SAC Bolts U13: 54/0(6.4)"
+  },
+  {
+   "matchId": "6811",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6811&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "VCA Blue U13",
+    "CCA Giants U13"
+   ],
+   "teamIds": [
+    "2378",
+    "2367"
+   ],
+   "ground": "Coppell CG",
+   "result": "Abandoned.",
+   "summary": "VCA Blue U13: 167/8(30) CCA Giants U13: 64/1(8)"
+  },
+  {
+   "matchId": "6810",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6810&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "TIC Thunderbolts U13",
+    "All Stars Strikers U13"
+   ],
+   "teamIds": [
+    "2377",
+    "2366"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Abandoned.",
+   "summary": "TIC Thunderbolts U13: 195/9(29.1) All Stars Strikers U13: 1/0(1)"
+  },
+  {
+   "matchId": "6834",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6834&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "VCA U15 U15",
+    "DYCL Panthers U15"
+   ],
+   "teamIds": [
+    "2388",
+    "2381"
+   ],
+   "ground": "Coppell CG",
+   "result": "Abandoned.",
+   "summary": "VCA U15 U15: 166/8(35)"
+  },
+  {
+   "matchId": "6833",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6833&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs U15",
+    "TCA Knights U15"
+   ],
+   "teamIds": [
+    "2383",
+    "2386"
+   ],
+   "ground": "NMCG 1",
+   "result": "MCA Cheetahs U15 won by 47 Runs",
+   "summary": "MCA Cheetahs U15: 180/10(34) TCA Knights U15: 133/9(34)"
+  },
+  {
+   "matchId": "6832",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6832&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "TIC Supernova U15",
+    "CCA Spartans U15"
+   ],
+   "teamIds": [
+    "2387",
+    "2380"
+   ],
+   "ground": "NMCG 2",
+   "result": "TIC Supernova U15 won by 26 Runs",
+   "summary": "TIC Supernova U15: 222/7(37) CCA Spartans U15: 196/11(34.2)"
+  },
+  {
+   "matchId": "6831",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6831&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "TCC Kings U15",
+    "WCA Comets U15"
+   ],
+   "teamIds": [
+    "2385",
+    "2389"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "TCC Kings U15 won by 19 Runs",
+   "summary": "TCC Kings U15: 144/10(33.2) WCA Comets U15: 125/10(31.2)"
+  },
+  {
+   "matchId": "6804",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6804&clubId=40319",
+   "date": "2025-10-17",
+   "type": "League",
+   "teams": [
+    "TIC Legends U11",
+    "SKA Cheetahs U11"
+   ],
+   "teamIds": [
+    "2349",
+    "2346"
+   ],
+   "ground": "NMCG 2",
+   "result": "SKA Cheetahs U11 won by 10 Wickets",
+   "summary": "TIC Legends U11: 96/9(30) SKA Cheetahs U11: 97/0(11.2)"
+  },
+  {
+   "matchId": "6803",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6803&clubId=40319",
+   "date": "2025-10-17",
+   "type": "League",
+   "teams": [
+    "SAC Thunder U13",
+    "CCA Dynamos U13"
+   ],
+   "teamIds": [
+    "2371",
+    "2368"
+   ],
+   "ground": "NMCG 1",
+   "result": "SAC Thunder U13 won by 6 Wickets",
+   "summary": "CCA Dynamos U13: 91/10(26.1) SAC Thunder U13: 92/4(15)"
+  },
+  {
+   "matchId": "6791",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6791&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2400",
+    "2399"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TCA Warriors U17 won by 89 Runs",
+   "summary": "TCA Warriors U17: 155/6(40) All Stars Invincibles U17: 66/10(25.2)"
+  },
+  {
+   "matchId": "6794",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6794&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2325",
+    "2330"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Strikers U11 won by 74 Runs",
+   "summary": "CCA Strikers U11: 256/4(25) ECA Aggies U11: 182/8(25)"
+  },
+  {
+   "matchId": "6795",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6795&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers Red U11",
+    "SAC Foals U11"
+   ],
+   "teamIds": [
+    "2336",
+    "2344"
+   ],
+   "ground": "Horseshoe",
+   "result": "All Stars Sparklers Red U11 won by 8 Wickets",
+   "summary": "SAC Foals U11: 150/10(28.4) All Stars Sparklers Red U11: 151/2(21)"
+  },
+  {
+   "matchId": "6792",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6792&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "VCA Blue U11",
+    "All Stars Sparklers Blue U11"
+   ],
+   "teamIds": [
+    "2350",
+    "2337"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Blue U11 won by 9 Wickets",
+   "summary": "All Stars Sparklers Blue U11: 81/10(19.3) VCA Blue U11: 82/1(5.5)"
+  },
+  {
+   "matchId": "6787",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6787&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "TIC Legends U11",
+    "CCA Blasters U11"
+   ],
+   "teamIds": [
+    "2349",
+    "2338"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Blasters U11 won by 146 Runs",
+   "summary": "CCA Blasters U11: 226/4(30) TIC Legends U11: 80/9(22.4)"
+  },
+  {
+   "matchId": "6793",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6793&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "TCA Stallions U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2361",
+    "2363"
+   ],
+   "ground": "Stallions CG2",
+   "result": "TCA Broncos U13 won by 23 Runs",
+   "summary": "TCA Broncos U13: 180/9(30) TCA Stallions U13: 157/7(30)"
+  },
+  {
+   "matchId": "6796",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6796&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "TCA Colts U13",
+    "VCA Blue U13"
+   ],
+   "teamIds": [
+    "2376",
+    "2378"
+   ],
+   "ground": "Coppell CG",
+   "result": "Abandoned.",
+   "summary": "TCA Colts U13: 142/7(30)"
+  },
+  {
+   "matchId": "6789",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6789&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "SAC Thunder U13",
+    "SAC Mavericks U13"
+   ],
+   "teamIds": [
+    "2371",
+    "2372"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Thunder U13 won by 1 Run",
+   "summary": "SAC Thunder U13: 153/6(30) SAC Mavericks U13: 152/8(30)"
+  },
+  {
+   "matchId": "6788",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6788&clubId=40319",
+   "date": "2025-10-12",
+   "type": "League",
+   "teams": [
+    "TCA Knights U15",
+    "SKA Pumas U15"
+   ],
+   "teamIds": [
+    "2386",
+    "2384"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "TCA Knights U15 won by 43 Runs",
+   "summary": "TCA Knights U15: 138/10(33) SKA Pumas U15: 95/11(29.1)"
+  },
+  {
+   "matchId": "6783",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6783&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "TIC Hi Riders U15",
+    "SAC Falcons U15"
+   ],
+   "teamIds": [
+    "2394",
+    "2393"
+   ],
+   "ground": "NMCG 1",
+   "result": "TIC Hi Riders U15 won by 22 Runs",
+   "summary": "TIC Hi Riders U15: 192/9(40) SAC Falcons U15: 170/8(40)"
+  },
+  {
+   "matchId": "6779",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6779&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "AllStars Raiders U15",
+    "MCA Puma U15"
+   ],
+   "teamIds": [
+    "2390",
+    "2392"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "MCA Puma U15 won by 6 Wickets",
+   "summary": "AllStars Raiders U15: 71/10(25.1) MCA Puma U15: 72/4(21.4)"
+  },
+  {
+   "matchId": "6755",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6755&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts U17",
+    "MCA Panthers U17"
+   ],
+   "teamIds": [
+    "2396",
+    "2398"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "MCA Panthers U17 won by 3 Wickets",
+   "summary": "DYCL Bolts U17: 120/11(38.3) MCA Panthers U17: 121/7(37.3)"
+  },
+  {
+   "matchId": "6774",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6774&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "MCA Tigers U11",
+    "RCA Bolts U11"
+   ],
+   "teamIds": [
+    "2328",
+    "2329"
+   ],
+   "ground": "Stallions CG3",
+   "result": "MCA Tigers U11 won by 7 Wickets",
+   "summary": "RCA Bolts U11: 199/5(30) MCA Tigers U11: 202/3(25.2)"
+  },
+  {
+   "matchId": "6752",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6752&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "SAC Colts U11",
+    "VCA Red U11"
+   ],
+   "teamIds": [
+    "2331",
+    "2335"
+   ],
+   "ground": "Coppell CG",
+   "result": "SAC Colts U11 won by 9 Wickets",
+   "summary": "VCA Red U11: 60/10(29.3) SAC Colts U11: 61/1(7.2)"
+  },
+  {
+   "matchId": "6744",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6744&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "TIC Little Masters U11",
+    "SKA Lions U11"
+   ],
+   "teamIds": [
+    "2334",
+    "2332"
+   ],
+   "ground": "Stallions CG2",
+   "result": "TIC Little Masters U11 won by 122 Runs",
+   "summary": "TIC Little Masters U11: 277/4(30) SKA Lions U11: 155/10(27.4)"
+  },
+  {
+   "matchId": "6776",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6776&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "FCCA warriors U11",
+    "SAC Chargers U11"
+   ],
+   "teamIds": [
+    "2340",
+    "2343"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Chargers U11 won by 8 Wickets",
+   "summary": "FCCA warriors U11: 169/6(30) SAC Chargers U11: 170/2(26.5)"
+  },
+  {
+   "matchId": "6775",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6775&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "TCA Thunders U11",
+    "SKA Cheetahs U11"
+   ],
+   "teamIds": [
+    "2348",
+    "2346"
+   ],
+   "ground": "Warriors CG",
+   "result": "SKA Cheetahs U11 won by 246 Runs",
+   "summary": "SKA Cheetahs U11: 344/5(30) TCA Thunders U11: 98/10(24)"
+  },
+  {
+   "matchId": "6746",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6746&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "ECA Minies U11",
+    "WCA Titans U11"
+   ],
+   "teamIds": [
+    "2342",
+    "2351"
+   ],
+   "ground": "Warriors CG",
+   "result": "ECA Minies U11 won by 45 Runs",
+   "summary": "ECA Minies U11: 213/3(27) WCA Titans U11: 168/4(27)"
+  },
+  {
+   "matchId": "6781",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6781&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "VCA Red U13",
+    "FCCA Jets U13"
+   ],
+   "teamIds": [
+    "2364",
+    "2355"
+   ],
+   "ground": "Coppell CG",
+   "result": "FCCA Jets U13 won by 10 Runs (D/L)",
+   "summary": "VCA Red U13: 146/8(30) FCCA Jets U13: 85/4(15)"
+  },
+  {
+   "matchId": "6749",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6749&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "Crickingdom Eagles U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2352",
+    "2362"
+   ],
+   "ground": "Horseshoe",
+   "result": "TIC Evolution U13 won by 10 Wickets",
+   "summary": "Crickingdom Eagles U13: 94/6(25) TIC Evolution U13: 95/0(15.3)"
+  },
+  {
+   "matchId": "6745",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6745&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "RCA Thunders U13",
+    "HPC Smashers U13"
+   ],
+   "teamIds": [
+    "2358",
+    "2356"
+   ],
+   "ground": "Stallions CG3",
+   "result": "HPC Smashers U13 won by 5 Wickets",
+   "summary": "RCA Thunders U13: 162/8(30) HPC Smashers U13: 166/5(26.1)"
+  },
+  {
+   "matchId": "6773",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6773&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "WCA Tigers U13",
+    "DYCL Jaguars U13"
+   ],
+   "teamIds": [
+    "2379",
+    "2369"
+   ],
+   "ground": "Horseshoe",
+   "result": "WCA Tigers U13 won by 114 Runs",
+   "summary": "WCA Tigers U13: 158/5(30) DYCL Jaguars U13: 44/9(12.5)"
+  },
+  {
+   "matchId": "6782",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6782&clubId=40319",
+   "date": "2025-10-11",
+   "type": "League",
+   "teams": [
+    "TCC Kings U15",
+    "TIC Supernova U15"
+   ],
+   "teamIds": [
+    "2385",
+    "2387"
+   ],
+   "ground": "NMCG 2",
+   "result": "TIC Supernova U15 won by 165 Runs",
+   "summary": "TIC Supernova U15: 328/5(38) TCC Kings U15: 163/8(33.2)"
+  },
+  {
+   "matchId": "6740",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6740&clubId=40319",
+   "date": "2025-10-10",
+   "type": "League",
+   "teams": [
+    "RCA Sparks U11",
+    "TCC Cubs U11"
+   ],
+   "teamIds": [
+    "2341",
+    "2347"
+   ],
+   "ground": "NMCG 2",
+   "result": "TCC Cubs U11 won by 49 Runs",
+   "summary": "TCC Cubs U11: 114/11(28.2) RCA Sparks U11: 65/10(16.1)"
+  },
+  {
+   "matchId": "6741",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6741&clubId=40319",
+   "date": "2025-10-10",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "TIC Thunderbolts U13"
+   ],
+   "teamIds": [
+    "2367",
+    "2377"
+   ],
+   "ground": "NMCG 1",
+   "result": "CCA Giants U13 won by 9 Wickets",
+   "summary": "TIC Thunderbolts U13: 121/6(30) CCA Giants U13: 124/1(20.3)"
+  },
+  {
+   "matchId": "6701",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6701&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "TCA Warriors U17",
+    "MCA Panthers U17"
+   ],
+   "teamIds": [
+    "2399",
+    "2398"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TCA Warriors U17 won by 10 Runs",
+   "summary": "TCA Warriors U17: 91/9(40) MCA Panthers U17: 81/10(21.5)"
+  },
+  {
+   "matchId": "6694",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6694&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "CCC Lions U17",
+    "DYCL Bolts U17"
+   ],
+   "teamIds": [
+    "2397",
+    "2396"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "DYCL Bolts U17 won by 3 Runs",
+   "summary": "DYCL Bolts U17: 105/10(38.1) CCC Lions U17: 102/10(34.2)"
+  },
+  {
+   "matchId": "6692",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6692&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "RCA Bolts U11",
+    "SAC Colts U11"
+   ],
+   "teamIds": [
+    "2329",
+    "2331"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts U11 won by 7 Wickets",
+   "summary": "RCA Bolts U11: 123/9(30) SAC Colts U11: 124/3(12.1)"
+  },
+  {
+   "matchId": "6717",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6717&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "CCA Rising Stars U11",
+    "SKA Cheetahs U11"
+   ],
+   "teamIds": [
+    "2339",
+    "2346"
+   ],
+   "ground": "Warriors CG",
+   "result": "SKA Cheetahs U11 won by 8 Wickets",
+   "summary": "CCA Rising Stars U11: 149/7(30) SKA Cheetahs U11: 153/2(20.1)"
+  },
+  {
+   "matchId": "6715",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6715&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "WCA Titans U11",
+    "TCA Thunders U11"
+   ],
+   "teamIds": [
+    "2351",
+    "2348"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Thunders U11 won by 95 Runs",
+   "summary": "TCA Thunders U11: 188/9(30) WCA Titans U11: 93/7(25)"
+  },
+  {
+   "matchId": "6691",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6691&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks U11",
+    "TCC Cubs U11"
+   ],
+   "teamIds": [
+    "2413",
+    "2347"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 124 Runs",
+   "summary": "DYCL Hawks U11: 197/5(30) TCC Cubs U11: 73/11(22.4)"
+  },
+  {
+   "matchId": "6719",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6719&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "MCA Lions U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2357",
+    "2362"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Lions U13 won by 6 Wickets",
+   "summary": "TIC Evolution U13: 136/9(30) MCA Lions U13: 137/4(22.4)"
+  },
+  {
+   "matchId": "6695",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6695&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "WCA Longhorns U13",
+    "TCA Stallions U13"
+   ],
+   "teamIds": [
+    "2365",
+    "2361"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Stallions U13 won by 43 Runs",
+   "summary": "TCA Stallions U13: 194/9(30) WCA Longhorns U13: 151/8(30)"
+  },
+  {
+   "matchId": "6716",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6716&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "SAC Rahvans U13",
+    "CCA Giants U13"
+   ],
+   "teamIds": [
+    "2373",
+    "2367"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Rahvans U13 won by 9 Wickets",
+   "summary": "CCA Giants U13: 128/7(30) SAC Rahvans U13: 129/1(24)"
+  },
+  {
+   "matchId": "6707",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6707&clubId=40319",
+   "date": "2025-10-05",
+   "type": "League",
+   "teams": [
+    "CCA Dynamos U13",
+    "VCA Blue U13"
+   ],
+   "teamIds": [
+    "2368",
+    "2378"
+   ],
+   "ground": "Coppell CG",
+   "result": "CCA Dynamos U13 won by 3 Wickets",
+   "summary": "VCA Blue U13: 178/7(30) CCA Dynamos U13: 179/7(30)"
+  },
+  {
+   "matchId": "6683",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6683&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "MCA Puma U15",
+    "CCA Challengers U15"
+   ],
+   "teamIds": [
+    "2392",
+    "2391"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Puma U15 won by 98 Runs",
+   "summary": "MCA Puma U15: 279/7(40) CCA Challengers U15: 181/7(40)"
+  },
+  {
+   "matchId": "6636",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6636&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "AllStars Raiders U15",
+    "TIC Hi Riders U15"
+   ],
+   "teamIds": [
+    "2390",
+    "2394"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TIC Hi Riders U15 won by 7 Wickets",
+   "summary": "AllStars Raiders U15: 186/7(40) TIC Hi Riders U15: 189/3(35)"
+  },
+  {
+   "matchId": "6676",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6676&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "TIC Little Masters U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2334",
+    "2330"
+   ],
+   "ground": "Warriors CG",
+   "result": "TIC Little Masters U11 won by 116 Runs",
+   "summary": "TIC Little Masters U11: 294/2(30) ECA Aggies U11: 178/7(30)"
+  },
+  {
+   "matchId": "6675",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6675&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "SKA Lions U11",
+    "MCA Tigers U11"
+   ],
+   "teamIds": [
+    "2332",
+    "2328"
+   ],
+   "ground": "Stallions CG3",
+   "result": "MCA Tigers U11 won by 24 Runs",
+   "summary": "MCA Tigers U11: 218/6(30) SKA Lions U11: 194/6(30)"
+  },
+  {
+   "matchId": "6670",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6670&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U11",
+    "CCA Strikers U11"
+   ],
+   "teamIds": [
+    "2327",
+    "2325"
+   ],
+   "ground": "Independence",
+   "result": "FCCA Tigers U11 won by 7 Wickets",
+   "summary": "CCA Strikers U11: 132/10(30) FCCA Tigers U11: 133/3(19.1)"
+  },
+  {
+   "matchId": "6643",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6643&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "FCCA warriors U11",
+    "VCA Blue U11"
+   ],
+   "teamIds": [
+    "2340",
+    "2350"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Blue U11 won by 53 Runs",
+   "summary": "VCA Blue U11: 231/6(30) FCCA warriors U11: 178/8(30)"
+  },
+  {
+   "matchId": "6634",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6634&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "CCA Blasters U11",
+    "ECA Minies U11"
+   ],
+   "teamIds": [
+    "2338",
+    "2342"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Blasters U11 won by 10 Wickets",
+   "summary": "ECA Minies U11: 76/10(20.4) CCA Blasters U11: 77/0(10.1)"
+  },
+  {
+   "matchId": "6633",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6633&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "RCA Sparks U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2341",
+    "2345"
+   ],
+   "ground": "Bakersfield",
+   "result": "SKA Tigers U11 won by 155 Runs",
+   "summary": "SKA Tigers U11: 262/2(29.5) RCA Sparks U11: 107/11(29.3)"
+  },
+  {
+   "matchId": "6688",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6688&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "RCA Thunders U13",
+    "Crickingdom Eagles U13"
+   ],
+   "teamIds": [
+    "2358",
+    "2352"
+   ],
+   "ground": "NMCG 2",
+   "result": "RCA Thunders U13 won by 9 Wickets",
+   "summary": "Crickingdom Eagles U13: 91/10(29.2) RCA Thunders U13: 92/1(11.1)"
+  },
+  {
+   "matchId": "6673",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6673&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs U13",
+    "HPC Smashers U13"
+   ],
+   "teamIds": [
+    "2354",
+    "2356"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Cheetahs U13 won by 3 Wickets",
+   "summary": "HPC Smashers U13: 102/9(26.4) DYCL Cheetahs U13: 103/7(24.1)"
+  },
+  {
+   "matchId": "6637",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6637&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "CCA Titans U13",
+    "SAC Bolts U13"
+   ],
+   "teamIds": [
+    "2353",
+    "2359"
+   ],
+   "ground": "Stallions CG2",
+   "result": "CCA Titans U13 won by 8 Wickets",
+   "summary": "SAC Bolts U13: 158/6(30) CCA Titans U13: 162/2(16.5)"
+  },
+  {
+   "matchId": "6674",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6674&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers U13",
+    "WCA Tigers U13"
+   ],
+   "teamIds": [
+    "2366",
+    "2379"
+   ],
+   "ground": "Stallions CG2",
+   "result": "WCA Tigers U13 won by 67 Runs",
+   "summary": "WCA Tigers U13: 204/9(30) All Stars Strikers U13: 137/10(28.4)"
+  },
+  {
+   "matchId": "6639",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6639&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "TIC Thunderbolts U13",
+    "TCA Colts U13"
+   ],
+   "teamIds": [
+    "2377",
+    "2376"
+   ],
+   "ground": "Stallions CG3",
+   "result": "TIC Thunderbolts U13 won by 9 Wickets",
+   "summary": "TCA Colts U13: 183/7(30) TIC Thunderbolts U13: 184/1(23.4)"
+  },
+  {
+   "matchId": "6635",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6635&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars U13",
+    "DYCL Jaguars U13"
+   ],
+   "teamIds": [
+    "2370",
+    "2369"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars U13 won by 8 Wickets",
+   "summary": "DYCL Jaguars U13: 54/10(29.3) MCA Jaguars U13: 55/2(12.1)"
+  },
+  {
+   "matchId": "6684",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6684&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders U15",
+    "MCA Cheetahs U15"
+   ],
+   "teamIds": [
+    "2382",
+    "2383"
+   ],
+   "ground": "NMCG 1",
+   "result": "MCA Cheetahs U15 won by 121 Runs",
+   "summary": "MCA Cheetahs U15: 247/6(40) FCCA Commanders U15: 126/10(36)"
+  },
+  {
+   "matchId": "6682",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6682&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "CCA Spartans U15",
+    "VCA U15 U15"
+   ],
+   "teamIds": [
+    "2380",
+    "2388"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U15 U15 won by 18 Runs (D/L)",
+   "summary": "CCA Spartans U15: 142/11(29.5) VCA U15 U15: 90/4(19)"
+  },
+  {
+   "matchId": "6681",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6681&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers U15",
+    "TCC Kings U15"
+   ],
+   "teamIds": [
+    "2381",
+    "2385"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "DYCL Panthers U15 won by 263 Runs",
+   "summary": "DYCL Panthers U15: 340/9(40.1) TCC Kings U15: 77/7(14.5)"
+  },
+  {
+   "matchId": "6645",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6645&clubId=40319",
+   "date": "2025-10-04",
+   "type": "League",
+   "teams": [
+    "TCA Knights U15",
+    "WCA Comets U15"
+   ],
+   "teamIds": [
+    "2386",
+    "2389"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TCA Knights U15 won by 40 Runs",
+   "summary": "TCA Knights U15: 74/11(20.4) WCA Comets U15: 34/10(17)"
+  },
+  {
+   "matchId": "6602",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6602&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "TIC Hi Riders U15"
+   ],
+   "teamIds": [
+    "2393",
+    "2394"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Hi Riders U15 won by 36 Runs",
+   "summary": "TIC Hi Riders U15: 125/10(33.2) SAC Falcons U15: 89/10(33.4)"
+  },
+  {
+   "matchId": "6598",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6598&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "AllStars Raiders U15",
+    "MCA Puma U15"
+   ],
+   "teamIds": [
+    "2390",
+    "2392"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Puma U15 won by 10 Wickets",
+   "summary": "AllStars Raiders U15: 94/10(29.3) MCA Puma U15: 95/0(19.5)"
+  },
+  {
+   "matchId": "6595",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6595&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "DYCL Bolts U17"
+   ],
+   "teamIds": [
+    "2395",
+    "2396"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL Bolts U17 won by 28 Runs",
+   "summary": "DYCL Bolts U17: 236/6(40) FCCA Spartans U17: 208/8(40)"
+  },
+  {
+   "matchId": "6618",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6618&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "SAC Colts U11",
+    "CCA Strikers U11"
+   ],
+   "teamIds": [
+    "2331",
+    "2325"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts U11 won by 92 Runs",
+   "summary": "SAC Colts U11: 182/9(30) CCA Strikers U11: 90/10(25.5)"
+  },
+  {
+   "matchId": "6617",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6617&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "CricKingdom Cubs U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2324",
+    "2333"
+   ],
+   "ground": "Warriors CG",
+   "result": "TCA Bolts U11 won by 65 Runs",
+   "summary": "TCA Bolts U11: 249/6(30) CricKingdom Cubs U11: 184/7(30)"
+  },
+  {
+   "matchId": "6616",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6616&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "CCA Blasters U11",
+    "RCA Sparks U11"
+   ],
+   "teamIds": [
+    "2338",
+    "2341"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Blasters U11 won by 131 Runs",
+   "summary": "CCA Blasters U11: 199/3(30) RCA Sparks U11: 68/10(20)"
+  },
+  {
+   "matchId": "6606",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6606&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "VCA Blue U11",
+    "All Stars Sparklers Red U11"
+   ],
+   "teamIds": [
+    "2350",
+    "2336"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Blue U11 won by 77 Runs",
+   "summary": "VCA Blue U11: 241/4(30) All Stars Sparklers Red U11: 164/9(30)"
+  },
+  {
+   "matchId": "6593",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6593&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers Blue U11",
+    "DYCL Hawks U11"
+   ],
+   "teamIds": [
+    "2337",
+    "2413"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 118 Runs",
+   "summary": "DYCL Hawks U11: 195/7(30) All Stars Sparklers Blue U11: 77/10(27.5)"
+  },
+  {
+   "matchId": "6592",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6592&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "WCA Titans U11",
+    "SAC Chargers U11"
+   ],
+   "teamIds": [
+    "2351",
+    "2343"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Chargers U11 won by 188 Runs",
+   "summary": "SAC Chargers U11: 223/5(30) WCA Titans U11: 35/10(10.2)"
+  },
+  {
+   "matchId": "6621",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6621&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "TCA Broncos U13",
+    "MCA Lions U13"
+   ],
+   "teamIds": [
+    "2363",
+    "2357"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Broncos U13 won by 53 Runs",
+   "summary": "TCA Broncos U13: 153/10(30) MCA Lions U13: 100/10(28)"
+  },
+  {
+   "matchId": "6622",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6622&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "VCA Blue U13",
+    "TIC Thunderbolts U13"
+   ],
+   "teamIds": [
+    "2378",
+    "2377"
+   ],
+   "ground": "Coppell CG",
+   "result": "TIC Thunderbolts U13 won by 63 Runs",
+   "summary": "TIC Thunderbolts U13: 215/5(30) VCA Blue U13: 152/9(30)"
+  },
+  {
+   "matchId": "6594",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6594&clubId=40319",
+   "date": "2025-09-28",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers U15",
+    "WCA Comets U15"
+   ],
+   "teamIds": [
+    "2381",
+    "2389"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "DYCL Panthers U15 won by 9 Wickets",
+   "summary": "WCA Comets U15: 70/10(27.1) DYCL Panthers U15: 72/1(10.5)"
+  },
+  {
+   "matchId": "6583",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6583&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "TCA Warriors U17",
+    "CCC Lions U17"
+   ],
+   "teamIds": [
+    "2399",
+    "2397"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "TCA Warriors U17 won by 137 Runs",
+   "summary": "TCA Warriors U17: 245/4(40) CCC Lions U17: 108/9(28.4)"
+  },
+  {
+   "matchId": "6538",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6538&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles U17",
+    "MCA Panthers U17"
+   ],
+   "teamIds": [
+    "2400",
+    "2398"
+   ],
+   "ground": "United CG",
+   "result": "MCA Panthers U17 won by 9 Wickets",
+   "summary": "All Stars Invincibles U17: 130/10(33.3) MCA Panthers U17: 134/1(28)"
+  },
+  {
+   "matchId": "6577",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6577&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "SKA Lions U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2332",
+    "2330"
+   ],
+   "ground": "Warriors CG",
+   "result": "ECA Aggies U11 won by 8 Wickets",
+   "summary": "SKA Lions U11: 99/11(25.5) ECA Aggies U11: 101/2(14.1)"
+  },
+  {
+   "matchId": "6576",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6576&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2327",
+    "2334"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Tigers U11 won by 41 Runs",
+   "summary": "FCCA Tigers U11: 133/9(30) TIC Little Masters U11: 92/9(27.4)"
+  },
+  {
+   "matchId": "6579",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6579&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "SKA Tigers U11",
+    "TIC Legends U11"
+   ],
+   "teamIds": [
+    "2345",
+    "2349"
+   ],
+   "ground": "Stallions CG3",
+   "result": "SKA Tigers U11 won by 116 Runs",
+   "summary": "SKA Tigers U11: 215/6(30) TIC Legends U11: 99/10(22.2)"
+  },
+  {
+   "matchId": "6532",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6532&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "CCA Rising Stars U11",
+    "ECA Minies U11"
+   ],
+   "teamIds": [
+    "2339",
+    "2342"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Rising Stars U11 won by 54 Runs",
+   "summary": "CCA Rising Stars U11: 196/8(30) ECA Minies U11: 142/9(30)"
+  },
+  {
+   "matchId": "6531",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6531&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "FCCA warriors U11",
+    "SAC Foals U11"
+   ],
+   "teamIds": [
+    "2340",
+    "2344"
+   ],
+   "ground": "BF Philips",
+   "result": "SAC Foals U11 won by 1 Wicket",
+   "summary": "FCCA warriors U11: 108/8(30) SAC Foals U11: 109/9(25.3)"
+  },
+  {
+   "matchId": "6586",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6586&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "SKA Falcons U13",
+    "CCA Titans U13"
+   ],
+   "teamIds": [
+    "2360",
+    "2353"
+   ],
+   "ground": "NMCG 1",
+   "result": "CCA Titans U13 won by 9 Wickets",
+   "summary": "SKA Falcons U13: 123/10(29.2) CCA Titans U13: 125/1(20)"
+  },
+  {
+   "matchId": "6542",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6542&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "RCA Thunders U13",
+    "VCA Red U13"
+   ],
+   "teamIds": [
+    "2358",
+    "2364"
+   ],
+   "ground": "Coppell CG",
+   "result": "RCA Thunders U13 won by 6 Wickets",
+   "summary": "VCA Red U13: 93/10(28.1) RCA Thunders U13: 97/4(18.4)"
+  },
+  {
+   "matchId": "6539",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6539&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "HPC Smashers U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2356",
+    "2362"
+   ],
+   "ground": "Stallions CG3",
+   "result": "TIC Evolution U13 won by 5 Runs",
+   "summary": "TIC Evolution U13: 123/6(30) HPC Smashers U13: 118/10(28.2)"
+  },
+  {
+   "matchId": "6536",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6536&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "TCA Stallions U13",
+    "SAC Bolts U13"
+   ],
+   "teamIds": [
+    "2361",
+    "2359"
+   ],
+   "ground": "Stallions CG2",
+   "result": "TCA Stallions U13 won by 94 Runs",
+   "summary": "TCA Stallions U13: 208/10(27.5) SAC Bolts U13: 114/10(30)"
+  },
+  {
+   "matchId": "6533",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6533&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs U13",
+    "WCA Longhorns U13"
+   ],
+   "teamIds": [
+    "2354",
+    "2365"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Cheetahs U13 won by 117 Runs",
+   "summary": "DYCL Cheetahs U13: 191/4(30) WCA Longhorns U13: 74/10(22.3)"
+  },
+  {
+   "matchId": "6588",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6588&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "SKA Hawks U13",
+    "SKA Phoenix U13"
+   ],
+   "teamIds": [
+    "2374",
+    "2375"
+   ],
+   "ground": "NMCG 2",
+   "result": "SKA Hawks U13 won by 4 Wickets",
+   "summary": "SKA Phoenix U13: 95/9(27.5) SKA Hawks U13: 96/6(26)"
+  },
+  {
+   "matchId": "6580",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6580&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars U13",
+    "SAC Thunder U13"
+   ],
+   "teamIds": [
+    "2369",
+    "2371"
+   ],
+   "ground": "Horseshoe",
+   "result": "SAC Thunder U13 won by 6 Wickets",
+   "summary": "DYCL Jaguars U13: 92/8(30) SAC Thunder U13: 93/4(19.1)"
+  },
+  {
+   "matchId": "6578",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6578&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "All Stars Strikers U13",
+    "SAC Rahvans U13"
+   ],
+   "teamIds": [
+    "2366",
+    "2373"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Rahvans U13 won by 128 Runs",
+   "summary": "SAC Rahvans U13: 225/4(30) All Stars Strikers U13: 97/9(30)"
+  },
+  {
+   "matchId": "6571",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6571&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "TCA Colts U13",
+    "SAC Mavericks U13"
+   ],
+   "teamIds": [
+    "2376",
+    "2372"
+   ],
+   "ground": "Independence",
+   "result": null,
+   "summary": "SAC Mavericks U13: 152/6(30) Live"
+  },
+  {
+   "matchId": "6584",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6584&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "SKA Pumas U15",
+    "TCC Kings U15"
+   ],
+   "teamIds": [
+    "2384",
+    "2385"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "SKA Pumas U15 won by 145 Runs",
+   "summary": "SKA Pumas U15: 263/7(40) TCC Kings U15: 118/8(18.3)"
+  },
+  {
+   "matchId": "6582",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6582&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "VCA U15 U15",
+    "TCA Knights U15"
+   ],
+   "teamIds": [
+    "2388",
+    "2386"
+   ],
+   "ground": "Coppell CG",
+   "result": "TCA Knights U15 won by 38 Runs",
+   "summary": "TCA Knights U15: 227/7(40) VCA U15 U15: 189/10(32.4)"
+  },
+  {
+   "matchId": "6545",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6545&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs U15",
+    "TIC Supernova U15"
+   ],
+   "teamIds": [
+    "2383",
+    "2387"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Supernova U15 won by 29 Runs",
+   "summary": "TIC Supernova U15: 161/9(40) MCA Cheetahs U15: 132/9(35.3)"
+  },
+  {
+   "matchId": "6537",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6537&clubId=40319",
+   "date": "2025-09-27",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders U15",
+    "CCA Spartans U15"
+   ],
+   "teamIds": [
+    "2382",
+    "2380"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "FCCA Commanders U15 won by 6 Wickets",
+   "summary": "CCA Spartans U15: 96/10(26) FCCA Commanders U15: 97/4(23.2)"
+  },
+  {
+   "matchId": "6509",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6509&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "TIC Hi Riders U15",
+    "CCA Challengers U15"
+   ],
+   "teamIds": [
+    "2394",
+    "2391"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Hi Riders U15 won by 108 Runs (D/L)",
+   "summary": "TIC Hi Riders U15: 247/4(40) CCA Challengers U15: 58/6(18)"
+  },
+  {
+   "matchId": "6501",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6501&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "MCA Puma U15"
+   ],
+   "teamIds": [
+    "2393",
+    "2392"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "MCA Puma U15 won by 55 Runs",
+   "summary": "MCA Puma U15: 133/10(32.3) SAC Falcons U15: 78/10(31.5)"
+  },
+  {
+   "matchId": "6503",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6503&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2395",
+    "2399"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Warriors U17 won by 154 Runs",
+   "summary": "TCA Warriors U17: 259/10(38.5) FCCA Spartans U17: 105/10(18.4)"
+  },
+  {
+   "matchId": "6523",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6523&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "SKA Lions U11",
+    "CricKingdom Cubs U11"
+   ],
+   "teamIds": [
+    "2332",
+    "2324"
+   ],
+   "ground": "Warriors CG",
+   "result": "SKA Lions U11 won by 230 Runs",
+   "summary": "SKA Lions U11: 357/2(30) CricKingdom Cubs U11: 127/7(22.1)"
+  },
+  {
+   "matchId": "6522",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6522&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2325",
+    "2333"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Strikers U11 won by 3 Wickets",
+   "summary": "TCA Bolts U11: 71/10(15.5) CCA Strikers U11: 75/7(12.4)"
+  },
+  {
+   "matchId": "6512",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6512&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "RCA Bolts U11",
+    "VCA Red U11"
+   ],
+   "teamIds": [
+    "2329",
+    "2335"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U11 won by 6 Wickets",
+   "summary": "RCA Bolts U11: 113/9(28) VCA Red U11: 117/4(18.3)"
+  },
+  {
+   "matchId": "6525",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6525&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "TCC Cubs U11",
+    "WCA Titans U11"
+   ],
+   "teamIds": [
+    "2347",
+    "2351"
+   ],
+   "ground": "Stallions CG2",
+   "result": "TCC Cubs U11 won by 181 Runs",
+   "summary": "TCC Cubs U11: 301/6(30) WCA Titans U11: 120/7(26)"
+  },
+  {
+   "matchId": "6502",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6502&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "FCCA warriors U11",
+    "CCA Rising Stars U11"
+   ],
+   "teamIds": [
+    "2340",
+    "2339"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Rising Stars U11 won by 3 Wickets",
+   "summary": "FCCA warriors U11: 110/10(29.5) CCA Rising Stars U11: 112/7(26.2)"
+  },
+  {
+   "matchId": "6500",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6500&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "DYCL Hawks U11"
+   ],
+   "teamIds": [
+    "2346",
+    "2413"
+   ],
+   "ground": "Horseshoe",
+   "result": "SKA Cheetahs U11 won by 138 Runs",
+   "summary": "SKA Cheetahs U11: 209/3(30) DYCL Hawks U11: 71/10(27.3)"
+  },
+  {
+   "matchId": "6499",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6499&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "SKA Tigers U11",
+    "SAC Foals U11"
+   ],
+   "teamIds": [
+    "2345",
+    "2344"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SKA Tigers U11 won by 132 Runs",
+   "summary": "SKA Tigers U11: 212/7(30) SAC Foals U11: 80/10(19.5)"
+  },
+  {
+   "matchId": "6526",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6526&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "SKA Falcons U13",
+    "TCA Stallions U13"
+   ],
+   "teamIds": [
+    "2360",
+    "2361"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Abandoned.",
+   "summary": "TCA Stallions U13: 175/4(22)"
+  },
+  {
+   "matchId": "6528",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6528&clubId=40319",
+   "date": "2025-09-21",
+   "type": "League",
+   "teams": [
+    "VCA Blue U13",
+    "All Stars Strikers U13"
+   ],
+   "teamIds": [
+    "2378",
+    "2366"
+   ],
+   "ground": "Coppell CG",
+   "result": "Abandoned.",
+   "summary": "All Stars Strikers U13: 120/10(26.5) VCA Blue U13: 12/0(1.4)"
+  },
+  {
+   "matchId": "6493",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6493&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles U17",
+    "DYCL Bolts U17"
+   ],
+   "teamIds": [
+    "2400",
+    "2396"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "DYCL Bolts U17 won by 120 Runs",
+   "summary": "DYCL Bolts U17: 244/10(39.2) All Stars Invincibles U17: 124/10(24)"
+  },
+  {
+   "matchId": "6490",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6490&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "MCA Panthers U17",
+    "CCC Lions U17"
+   ],
+   "teamIds": [
+    "2398",
+    "2397"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Panthers U17 won by 141 Runs",
+   "summary": "MCA Panthers U17: 238/7(40) CCC Lions U17: 97/9(28.4)"
+  },
+  {
+   "matchId": "6478",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6478&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "ECA Aggies U11",
+    "MCA Tigers U11"
+   ],
+   "teamIds": [
+    "2330",
+    "2328"
+   ],
+   "ground": "Warriors CG",
+   "result": "ECA Aggies U11 won by 3 Wickets",
+   "summary": "MCA Tigers U11: 141/10(27.2) ECA Aggies U11: 143/7(23)"
+  },
+  {
+   "matchId": "6483",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6483&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "SAC Chargers U11",
+    "RCA Sparks U11"
+   ],
+   "teamIds": [
+    "2343",
+    "2341"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Chargers U11 won by 162 Runs",
+   "summary": "SAC Chargers U11: 250/8(30) RCA Sparks U11: 88/10(20.1)"
+  },
+  {
+   "matchId": "6482",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6482&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "TCA Thunders U11",
+    "All Stars Sparklers Red U11"
+   ],
+   "teamIds": [
+    "2348",
+    "2336"
+   ],
+   "ground": "Stallions CG3",
+   "result": "All Stars Sparklers Red U11 won by 5 Wickets",
+   "summary": "TCA Thunders U11: 133/7(29.5) All Stars Sparklers Red U11: 136/5(21.1)"
+  },
+  {
+   "matchId": "6441",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6441&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers Blue U11",
+    "TIC Legends U11"
+   ],
+   "teamIds": [
+    "2337",
+    "2349"
+   ],
+   "ground": "Warriors CG",
+   "result": "TIC Legends U11 won by 101 Runs",
+   "summary": "TIC Legends U11: 303/6(30) All Stars Sparklers Blue U11: 202/7(29.3)"
+  },
+  {
+   "matchId": "6491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6491&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "CCA Titans U13"
+   ],
+   "teamIds": [
+    "2355",
+    "2353"
+   ],
+   "ground": "BF Philips",
+   "result": "CCA Titans U13 won by 76 Runs",
+   "summary": "CCA Titans U13: 192/4(30) FCCA Jets U13: 116/10(27.3)"
+  },
+  {
+   "matchId": "6481",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6481&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs U13",
+    "TCA Broncos U13"
+   ],
+   "teamIds": [
+    "2354",
+    "2363"
+   ],
+   "ground": "Horseshoe",
+   "result": "TCA Broncos U13 won by 8 Runs",
+   "summary": "TCA Broncos U13: 117/10(30) DYCL Cheetahs U13: 109/10(28.2)"
+  },
+  {
+   "matchId": "6446",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6446&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "VCA Red U13",
+    "TIC Evolution U13"
+   ],
+   "teamIds": [
+    "2364",
+    "2362"
+   ],
+   "ground": "Coppell CG",
+   "result": "TIC Evolution U13 won by 49 Runs",
+   "summary": "TIC Evolution U13: 148/5(30) VCA Red U13: 99/7(30)"
+  },
+  {
+   "matchId": "6444",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6444&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "SAC Bolts U13",
+    "RCA Thunders U13"
+   ],
+   "teamIds": [
+    "2359",
+    "2358"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Bolts U13 won by 42 Runs",
+   "summary": "SAC Bolts U13: 166/9(28.3) RCA Thunders U13: 124/10(28.4)"
+  },
+  {
+   "matchId": "6440",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6440&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "WCA Longhorns U13",
+    "Crickingdom Eagles U13"
+   ],
+   "teamIds": [
+    "2365",
+    "2352"
+   ],
+   "ground": "Stallions CG3",
+   "result": "WCA Longhorns U13 won by 9 Wickets",
+   "summary": "Crickingdom Eagles U13: 70/10(23.5) WCA Longhorns U13: 74/1(5.1)"
+  },
+  {
+   "matchId": "6497",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6497&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "SAC Rahvans U13",
+    "SKA Hawks U13"
+   ],
+   "teamIds": [
+    "2373",
+    "2374"
+   ],
+   "ground": "NMCG 1",
+   "result": "SKA Hawks U13 won by 4 Wickets",
+   "summary": "SAC Rahvans U13: 113/10(29) SKA Hawks U13: 114/6(25.5)"
+  },
+  {
+   "matchId": "6480",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6480&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "SKA Phoenix U13",
+    "SAC Mavericks U13"
+   ],
+   "teamIds": [
+    "2375",
+    "2372"
+   ],
+   "ground": "Stallions CG1",
+   "result": "SKA Phoenix U13 won by 7 Wickets",
+   "summary": "SAC Mavericks U13: 131/9(30) SKA Phoenix U13: 132/3(15)"
+  },
+  {
+   "matchId": "6442",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6442&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "DYCL Jaguars U13",
+    "TIC Thunderbolts U13"
+   ],
+   "teamIds": [
+    "2369",
+    "2377"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Jaguars U13 won by 17 Runs",
+   "summary": "DYCL Jaguars U13: 122/7(30) TIC Thunderbolts U13: 105/8(26.1)"
+  },
+  {
+   "matchId": "6439",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6439&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "CCA Giants U13",
+    "WCA Tigers U13"
+   ],
+   "teamIds": [
+    "2367",
+    "2379"
+   ],
+   "ground": "Stallions CG1",
+   "result": "WCA Tigers U13 won by 100 Runs",
+   "summary": "WCA Tigers U13: 246/6(27) CCA Giants U13: 146/10(24.3)"
+  },
+  {
+   "matchId": "6489",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6489&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "WCA Comets U15",
+    "VCA U15 U15"
+   ],
+   "teamIds": [
+    "2389",
+    "2388"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U15 U15 won by 3 Wickets",
+   "summary": "WCA Comets U15: 157/10(35.5) VCA U15 U15: 161/7(28.1)"
+  },
+  {
+   "matchId": "6450",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6450&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "TIC Supernova U15",
+    "SKA Pumas U15"
+   ],
+   "teamIds": [
+    "2387",
+    "2384"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Supernova U15 won by 7 Wickets",
+   "summary": "SKA Pumas U15: 56/11(16.4) TIC Supernova U15: 57/3(9.2)"
+  },
+  {
+   "matchId": "6438",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6438&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs U15",
+    "TCC Kings U15"
+   ],
+   "teamIds": [
+    "2383",
+    "2385"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "MCA Cheetahs U15 won by 130 Runs",
+   "summary": "MCA Cheetahs U15: 257/5(40) TCC Kings U15: 127/9(30.1)"
+  },
+  {
+   "matchId": "6436",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6436&clubId=40319",
+   "date": "2025-09-20",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders U15",
+    "DYCL Panthers U15"
+   ],
+   "teamIds": [
+    "2382",
+    "2381"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Commanders U15 won by 3 Wickets",
+   "summary": "DYCL Panthers U15: 190/10(38.2) FCCA Commanders U15: 191/7(39.1)"
+  },
+  {
+   "matchId": "6405",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6405&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "TIC Hi Riders U15",
+    "AllStars Raiders U15"
+   ],
+   "teamIds": [
+    "2394",
+    "2390"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "AllStars Raiders U15 won by 6 Wickets",
+   "summary": "TIC Hi Riders U15: 47/10(20.5) AllStars Raiders U15: 49/4(7.4)"
+  },
+  {
+   "matchId": "6401",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6401&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "MCA Panthers U17",
+    "FCCA Spartans U17"
+   ],
+   "teamIds": [
+    "2398",
+    "2395"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "MCA Panthers U17 won by 8 Wickets",
+   "summary": "FCCA Spartans U17: 98/10(30.4) MCA Panthers U17: 100/2(22.5)"
+  },
+  {
+   "matchId": "6428",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6428&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "CricKingdom Cubs U11",
+    "RCA Bolts U11"
+   ],
+   "teamIds": [
+    "2324",
+    "2329"
+   ],
+   "ground": "Warriors CG",
+   "result": "RCA Bolts U11 won by 220 Runs",
+   "summary": "RCA Bolts U11: 293/9(30) CricKingdom Cubs U11: 73/10(25.3)"
+  },
+  {
+   "matchId": "6427",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6427&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "FCCA Tigers U11",
+    "MCA Tigers U11"
+   ],
+   "teamIds": [
+    "2327",
+    "2328"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Tigers U11 won by 7 Wickets",
+   "summary": "MCA Tigers U11: 119/7(29.5) FCCA Tigers U11: 121/3(17.3)"
+  },
+  {
+   "matchId": "6411",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6411&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "VCA Red U11",
+    "ECA Aggies U11"
+   ],
+   "teamIds": [
+    "2335",
+    "2330"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U11 won by 24 Runs",
+   "summary": "VCA Red U11: 137/9(30) ECA Aggies U11: 113/10(25.3)"
+  },
+  {
+   "matchId": "6404",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6404&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "CCA Strikers U11",
+    "TIC Little Masters U11"
+   ],
+   "teamIds": [
+    "2325",
+    "2334"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CCA Strikers U11 won by 33 Runs",
+   "summary": "CCA Strikers U11: 190/10(30) TIC Little Masters U11: 157/8(30)"
+  },
+  {
+   "matchId": "6426",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6426&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "WCA Titans U11",
+    "SAC Foals U11"
+   ],
+   "teamIds": [
+    "2351",
+    "2344"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Foals U11 won by 192 Runs",
+   "summary": "SAC Foals U11: 264/2(23) WCA Titans U11: 72/10(19.5)"
+  },
+  {
+   "matchId": "6403",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6403&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks U11",
+    "ECA Minies U11"
+   ],
+   "teamIds": [
+    "2413",
+    "2342"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 8 Wickets",
+   "summary": "ECA Minies U11: 25/10(13.1) DYCL Hawks U11: 26/2(5.2)"
+  },
+  {
+   "matchId": "6431",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6431&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "VCA Red U13",
+    "SKA Falcons U13"
+   ],
+   "teamIds": [
+    "2364",
+    "2360"
+   ],
+   "ground": "Coppell CG",
+   "result": "SKA Falcons U13 won by 6 Wickets",
+   "summary": "VCA Red U13: 90/10(21.1) SKA Falcons U13: 92/4(24.2)"
+  },
+  {
+   "matchId": "6402",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6402&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "TCA Broncos U13",
+    "FCCA Jets U13"
+   ],
+   "teamIds": [
+    "2363",
+    "2355"
+   ],
+   "ground": "BF Philips",
+   "result": "TCA Broncos U13 won by 8 Wickets",
+   "summary": "FCCA Jets U13: 95/10(28.2) TCA Broncos U13: 96/2(16.3)"
+  },
+  {
+   "matchId": "6429",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6429&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "CCA Dynamos U13",
+    "SKA Hawks U13"
+   ],
+   "teamIds": [
+    "2368",
+    "2374"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "SKA Hawks U13 won by 8 Wickets",
+   "summary": "CCA Dynamos U13: 122/10(30) SKA Hawks U13: 123/2(14.3)"
+  },
+  {
+   "matchId": "6425",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6425&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "MCA Jaguars U13",
+    "SAC Thunder U13"
+   ],
+   "teamIds": [
+    "2370",
+    "2371"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Jaguars U13 won by 2 Wickets",
+   "summary": "SAC Thunder U13: 75/10(26) MCA Jaguars U13: 77/8(18.5)"
+  },
+  {
+   "matchId": "6400",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6400&clubId=40319",
+   "date": "2025-09-14",
+   "type": "League",
+   "teams": [
+    "SAC Rahvans U13",
+    "WCA Tigers U13"
+   ],
+   "teamIds": [
+    "2373",
+    "2379"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Rahvans U13 won by 118 Runs",
+   "summary": "SAC Rahvans U13: 196/4(30) WCA Tigers U13: 78/9(29.1)"
+  },
+  {
+   "matchId": "6393",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6393&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "CCA Challengers U15"
+   ],
+   "teamIds": [
+    "2393",
+    "2391"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CCA Challengers U15 won by 35 Runs",
+   "summary": "CCA Challengers U15: 149/9(40) SAC Falcons U15: 114/10(34.2)"
+  },
+  {
+   "matchId": "6345",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6345&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "CCC Lions U17",
+    "All Stars Invincibles U17"
+   ],
+   "teamIds": [
+    "2397",
+    "2400"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "All Stars Invincibles U17 won by 5 Wickets",
+   "summary": "CCC Lions U17: 117/10(38) All Stars Invincibles U17: 120/5(23)"
+  },
+  {
+   "matchId": "6341",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6341&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "SAC Colts U11",
+    "TCA Bolts U11"
+   ],
+   "teamIds": [
+    "2331",
+    "2333"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Colts U11 won by 52 Runs",
+   "summary": "SAC Colts U11: 165/4(30) TCA Bolts U11: 113/8(30)"
+  },
+  {
+   "matchId": "6385",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6385&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "All Stars Sparklers Red U11",
+    "All Stars Sparklers Blue U11"
+   ],
+   "teamIds": [
+    "2336",
+    "2337"
+   ],
+   "ground": "Warriors CG",
+   "result": "All Stars Sparklers Red U11 won by 200 Runs",
+   "summary": "All Stars Sparklers Red U11: 231/10(27.3) All Stars Sparklers Blue U11: 31/9(9.5)"
+  },
+  {
+   "matchId": "6384",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6384&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "TCC Cubs U11",
+    "SAC Chargers U11"
+   ],
+   "teamIds": [
+    "2347",
+    "2343"
+   ],
+   "ground": "Stallions CG2",
+   "result": "SAC Chargers U11 won by 9 Wickets",
+   "summary": "TCC Cubs U11: 87/10(26) SAC Chargers U11: 89/1(9.4)"
+  },
+  {
+   "matchId": "6382",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6382&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "CCA Blasters U11",
+    "TCA Thunders U11"
+   ],
+   "teamIds": [
+    "2338",
+    "2348"
+   ],
+   "ground": "Horseshoe",
+   "result": "CCA Blasters U11 won by 7 Wickets",
+   "summary": "TCA Thunders U11: 81/5(30) CCA Blasters U11: 85/3(14.4)"
+  },
+  {
+   "matchId": "6350",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6350&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "SKA Cheetahs U11",
+    "VCA Blue U11"
+   ],
+   "teamIds": [
+    "2346",
+    "2350"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Blue U11 won by 19 Runs",
+   "summary": "VCA Blue U11: 162/5(30) SKA Cheetahs U11: 143/8(30)"
+  },
+  {
+   "matchId": "6344",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6344&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "FCCA warriors U11",
+    "SKA Tigers U11"
+   ],
+   "teamIds": [
+    "2340",
+    "2345"
+   ],
+   "ground": "BF Philips",
+   "result": "SKA Tigers U11 won by 168 Runs",
+   "summary": "SKA Tigers U11: 258/7(30) FCCA warriors U11: 90/9(30)"
+  },
+  {
+   "matchId": "6343",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6343&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "RCA Sparks U11",
+    "CCA Rising Stars U11"
+   ],
+   "teamIds": [
+    "2341",
+    "2339"
+   ],
+   "ground": "Warriors CG",
+   "result": "CCA Rising Stars U11 won by 6 Wickets",
+   "summary": "RCA Sparks U11: 138/9(30) CCA Rising Stars U11: 139/4(20)"
+  },
+  {
+   "matchId": "6381",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6381&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "Crickingdom Eagles U13",
+    "HPC Smashers U13"
+   ],
+   "teamIds": [
+    "2352",
+    "2356"
+   ],
+   "ground": "Stallions CG3",
+   "result": "HPC Smashers U13 won by 178 Runs",
+   "summary": "HPC Smashers U13: 232/2(30) Crickingdom Eagles U13: 54/10(24.3)"
+  },
+  {
+   "matchId": "6347",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6347&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "TCA Colts U13",
+    "DYCL Jaguars U13"
+   ],
+   "teamIds": [
+    "2376",
+    "2369"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Jaguars U13 won by 42 Runs",
+   "summary": "DYCL Jaguars U13: 114/10(30) TCA Colts U13: 72/11(27.2)"
+  },
+  {
+   "matchId": "6346",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6346&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "SAC Mavericks U13",
+    "TIC Thunderbolts U13"
+   ],
+   "teamIds": [
+    "2372",
+    "2377"
+   ],
+   "ground": "Stallions CG3",
+   "result": "TIC Thunderbolts U13 won by 5 Wickets",
+   "summary": "SAC Mavericks U13: 131/10(25.3) TIC Thunderbolts U13: 132/5(26)"
+  },
+  {
+   "matchId": "6394",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6394&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "VCA U15 U15",
+    "TCC Kings U15"
+   ],
+   "teamIds": [
+    "2388",
+    "2385"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA U15 U15 won by 205 Runs",
+   "summary": "VCA U15 U15: 359/6(40) TCC Kings U15: 154/8(25)"
+  },
+  {
+   "matchId": "6391",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6391&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers U15",
+    "SKA Pumas U15"
+   ],
+   "teamIds": [
+    "2381",
+    "2384"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "DYCL Panthers U15 won by 62 Runs",
+   "summary": "DYCL Panthers U15: 224/8(40) SKA Pumas U15: 162/10(38.1)"
+  },
+  {
+   "matchId": "6383",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6383&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "TCA Knights U15",
+    "FCCA Commanders U15"
+   ],
+   "teamIds": [
+    "2386",
+    "2382"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Commanders U15 won by 71 Runs",
+   "summary": "FCCA Commanders U15: 234/9(40) TCA Knights U15: 163/11(33.4)"
+  },
+  {
+   "matchId": "6351",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6351&clubId=40319",
+   "date": "2025-09-13",
+   "type": "League",
+   "teams": [
+    "TIC Supernova U15",
+    "WCA Comets U15"
+   ],
+   "teamIds": [
+    "2387",
+    "2389"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Supernova U15 won by 102 Runs",
+   "summary": "TIC Supernova U15: 223/6(40) WCA Comets U15: 121/10(33.5)"
+  },
+  {
+   "matchId": "6330",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6330&clubId=40319",
+   "date": "2025-09-07",
+   "type": "League",
+   "teams": [
+    "VCA Blue U11",
+    "TIC Legends U11"
+   ],
+   "teamIds": [
+    "2350",
+    "2349"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Blue U11 won by 146 Runs",
+   "summary": "VCA Blue U11: 272/7(30) TIC Legends U11: 126/4(30)"
+  },
+  {
+   "matchId": "6327",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6327&clubId=40319",
+   "date": "2025-09-07",
+   "type": "League",
+   "teams": [
+    "FCCA warriors U11",
+    "TCA Thunders U11"
+   ],
+   "teamIds": [
+    "2340",
+    "2348"
+   ],
+   "ground": "BF Philips",
+   "result": "TCA Thunders U11 won by 37 Runs",
+   "summary": "TCA Thunders U11: 142/3(28) FCCA warriors U11: 105/9(22)"
+  },
+  {
+   "matchId": "6325",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6325&clubId=40319",
+   "date": "2025-09-07",
+   "type": "League",
+   "teams": [
+    "DYCL Hawks U11",
+    "All Stars Sparklers Red U11"
+   ],
+   "teamIds": [
+    "2413",
+    "2336"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Hawks U11 won by 3 Wickets",
+   "summary": "All Stars Sparklers Red U11: 94/9(30) DYCL Hawks U11: 95/7(23.3)"
+  },
+  {
+   "matchId": "6335",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6335&clubId=40319",
+   "date": "2025-09-07",
+   "type": "League",
+   "teams": [
+    "FCCA Jets U13",
+    "SKA Falcons U13"
+   ],
+   "teamIds": [
+    "2355",
+    "2360"
+   ],
+   "ground": "BF Philips",
+   "result": "SKA Falcons U13 won by 2 Runs",
+   "summary": "SKA Falcons U13: 113/10(27.2) FCCA Jets U13: 111/8(30)"
+  },
+  {
+   "matchId": "6333",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6333&clubId=40319",
+   "date": "2025-09-07",
+   "type": "League",
+   "teams": [
+    "MCA Lions U13",
+    "HPC Smashers U13"
+   ],
+   "teamIds": [
+    "2357",
+    "2356"
+   ],
+   "ground": "Horseshoe",
+   "result": "MCA Lions U13 won by 49 Runs",
+   "summary": "MCA Lions U13: 150/10(30) HPC Smashers U13: 101/8(30)"
+  },
+  {
+   "matchId": "6336",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6336&clubId=40319",
+   "date": "2025-09-07",
+   "type": "League",
+   "teams": [
+    "VCA Blue U13",
+    "MCA Jaguars U13"
+   ],
+   "teamIds": [
+    "2378",
+    "2370"
+   ],
+   "ground": "Coppell CG",
+   "result": "MCA Jaguars U13 won by 146 Runs (D/L)",
+   "summary": "MCA Jaguars U13: 241/4(30) VCA Blue U13: 66/9(25)"
+  },
+  {
+   "matchId": "6326",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6326&clubId=40319",
+   "date": "2025-09-07",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers U15",
+    "CCA Spartans U15"
+   ],
+   "teamIds": [
+    "2381",
+    "2380"
+   ],
+   "ground": "Russel Creek G7",
+   "result": "DYCL Panthers U15 won by 4 Wickets",
+   "summary": "CCA Spartans U15: 88/9(27.2) DYCL Panthers U15: 89/6(19.3)"
+  },
+  {
+   "matchId": "6317",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6317&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "DYCL Cheetahs U13",
+    "SAC Bolts U13"
+   ],
+   "teamIds": [
+    "2354",
+    "2359"
+   ],
+   "ground": "Horseshoe",
+   "result": "DYCL Cheetahs U13 won by 48 Runs",
+   "summary": "DYCL Cheetahs U13: 129/7(30) SAC Bolts U13: 81/10(29.1)"
+  },
+  {
+   "matchId": "6323",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6323&clubId=40319",
+   "date": "2025-09-06",
+   "type": "League",
+   "teams": [
+    "MCA Cheetahs U15",
+    "WCA Comets U15"
+   ],
+   "teamIds": [
+    "2383",
+    "2389"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "MCA Cheetahs U15 won by 108 Runs",
+   "summary": "MCA Cheetahs U15: 198/9(40) WCA Comets U15: 90/10(25.4)"
+  }
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "season": {
+  "key": "s159",
+  "id": "legacy-362",
+  "name": "2025 USAC Missouri Hub U13"
+ },
+ "fetchedAt": "2026-11-13T22:15:54.127Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=362&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=362&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5968",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5968&clubId=40319",
+   "date": "2025-07-02",
+   "type": "League",
+   "teams": [
+    "ICE_U13_1",
+    "ICE_U13_2"
+   ],
+   "teamIds": [
+    "2179",
+    "2180"
+   ],
+   "ground": "South Barrington",
+   "result": "ICE_U13_1 won by 1 Wicket",
+   "summary": "ICE_U13_2: 158/7(30) ICE_U13_1: 159/9(30)"
+  },
+  {
+   "matchId": "5966",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5966&clubId=40319",
+   "date": "2025-07-02",
+   "type": "League",
+   "teams": [
+    "STL_U13",
+    "WIM_U13"
+   ],
+   "teamIds": [
+    "2177",
+    "2178"
+   ],
+   "ground": "BPL",
+   "result": "WIM_U13 won by 19 Runs",
+   "summary": "WIM_U13: 132/5(30) STL_U13: 113/10(29.3)"
+  },
+  {
+   "matchId": "5964",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5964&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "WIM_U13",
+    "ICE_U13_1"
+   ],
+   "teamIds": [
+    "2178",
+    "2179"
+   ],
+   "ground": "BPL",
+   "result": "ICE_U13_1 won by 43 Runs",
+   "summary": "ICE_U13_1: 127/3(30) WIM_U13: 84/7(30)"
+  },
+  {
+   "matchId": "5959",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5959&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "STL_U13",
+    "ICE_U13_2"
+   ],
+   "teamIds": [
+    "2177",
+    "2180"
+   ],
+   "ground": "South Barrington",
+   "result": "ICE_U13_2 won by 4 Wickets",
+   "summary": "STL_U13: 128/9(30) ICE_U13_2: 129/6(17.3)"
+  },
+  {
+   "matchId": "5957",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5957&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "WIM_U13",
+    "ICE_U13_1"
+   ],
+   "teamIds": [
+    "2178",
+    "2179"
+   ],
+   "ground": "BPL",
+   "result": "ICE_U13_1 won by 51 Runs",
+   "summary": "ICE_U13_1: 142/7(30) WIM_U13: 91/7(30)"
+  },
+  {
+   "matchId": "5952",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5952&clubId=40319",
+   "date": "2025-07-01",
+   "type": "League",
+   "teams": [
+    "STL_U13",
+    "ICE_U13_2"
+   ],
+   "teamIds": [
+    "2177",
+    "2180"
+   ],
+   "ground": "South Barrington",
+   "result": "ICE_U13_2 won by 8 Wickets",
+   "summary": "STL_U13: 130/9(30) ICE_U13_2: 133/2(20.1)"
+  },
+  {
+   "matchId": "5948",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5948&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "WIM_U13",
+    "ICE_U13_2"
+   ],
+   "teamIds": [
+    "2178",
+    "2180"
+   ],
+   "ground": "South Barrington",
+   "result": "ICE_U13_2 won by 7 Wickets",
+   "summary": "WIM_U13: 142/10(30) ICE_U13_2: 143/3(25.3)"
+  },
+  {
+   "matchId": "5945",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5945&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "STL_U13",
+    "ICE_U13_1"
+   ],
+   "teamIds": [
+    "2177",
+    "2179"
+   ],
+   "ground": "BPL",
+   "result": "ICE_U13_1 won by 86 Runs",
+   "summary": "ICE_U13_1: 172/6(30) STL_U13: 86/9(30)"
+  },
+  {
+   "matchId": "5941",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5941&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "WIM_U13",
+    "ICE_U13_2"
+   ],
+   "teamIds": [
+    "2178",
+    "2180"
+   ],
+   "ground": "South Barrington",
+   "result": "ICE_U13_2 won by 5 Runs",
+   "summary": "ICE_U13_2: 173/4(30) WIM_U13: 168/7(30)"
+  },
+  {
+   "matchId": "5940",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5940&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "STL_U13",
+    "ICE_U13_1"
+   ],
+   "teamIds": [
+    "2177",
+    "2179"
+   ],
+   "ground": "BPL",
+   "result": "ICE_U13_1 won by 10 Wickets",
+   "summary": "STL_U13: 19/10(13) ICE_U13_1: 20/0(4)"
+  },
+  {
+   "matchId": "5935",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5935&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "STL_U13",
+    "WIM_U13"
+   ],
+   "teamIds": [
+    "2177",
+    "2178"
+   ],
+   "ground": "TBD",
+   "result": "WIM_U13 won by 60 Runs",
+   "summary": "WIM_U13: 157/4(30) STL_U13: 97/10(27.4)"
+  },
+  {
+   "matchId": "5934",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5934&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "ICE_U13_1",
+    "ICE_U13_2"
+   ],
+   "teamIds": [
+    "2179",
+    "2180"
+   ],
+   "ground": "BPL",
+   "result": "ICE_U13_1 won by 62 Runs",
+   "summary": "ICE_U13_1: 147/3(30) ICE_U13_2: 85/9(30)"
+  },
+  {
+   "matchId": "5914",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5914&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "ICE_U13_1",
+    "ICE_U13_2"
+   ],
+   "teamIds": [
+    "2179",
+    "2180"
+   ],
+   "ground": "BPL",
+   "result": "ICE_U13_2 won by 14 Runs",
+   "summary": "ICE_U13_2: 90/10(28.4) ICE_U13_1: 76/10(27.5)"
+  },
+  {
+   "matchId": "5912",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5912&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "STL_U13",
+    "WIM_U13"
+   ],
+   "teamIds": [
+    "2177",
+    "2178"
+   ],
+   "ground": "BLSTRD",
+   "result": "WIM_U13 won by 82 Runs",
+   "summary": "WIM_U13: 182/5(30) STL_U13: 100/10(26.3)"
+  }
+ ]
+}

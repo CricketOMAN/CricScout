@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s87",
+  "id": "legacy-490",
+  "name": "USAC 2026 St. Louis Hub U13"
+ },
+ "fetchedAt": "2026-11-13T21:47:33.925Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=490&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=490&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "7813",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7813&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA - U13"
+   ],
+   "teamIds": [
+    "2888",
+    "2889"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "KYCA - U13: 132/1 (20/20 ov) ACAC Eagles: 133/0 (11.2/20 ov)",
+   "summary": "KYCA - U13: 132/1(20) ACAC Eagles: 133/0(11.2) Live"
+  },
+  {
+   "matchId": "7762",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7762&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA - U13"
+   ],
+   "teamIds": [
+    "2888",
+    "2889"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Eagles won by 6 Wickets",
+   "summary": "KYCA - U13: 118/6(30) ACAC Eagles: 119/4(18.4)"
+  },
+  {
+   "matchId": "7720",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7720&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA - U13"
+   ],
+   "teamIds": [
+    "2888",
+    "2889"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Eagles won by 95 Runs",
+   "summary": "ACAC Eagles: 229/9(25) KYCA - U13: 134/7(25)"
+  },
+  {
+   "matchId": "7645",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7645&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA - U13"
+   ],
+   "teamIds": [
+    "2888",
+    "2889"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ACAC Eagles won by 79 Runs",
+   "summary": "ACAC Eagles: 210/10(28.5) KYCA - U13: 131/8(30)"
+  },
+  {
+   "matchId": "7417",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7417&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA - U13"
+   ],
+   "teamIds": [
+    "2888",
+    "2889"
+   ],
+   "ground": "Heritage Park",
+   "result": "ACAC Eagles won by 68 Runs",
+   "summary": "ACAC Eagles: 148/2(20) KYCA - U13: 80/5(20)"
+  },
+  {
+   "matchId": "7374",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7374&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA - U13"
+   ],
+   "teamIds": [
+    "2888",
+    "2889"
+   ],
+   "ground": "Heritage Park",
+   "result": "KYCA - U13 won by 3 Wickets",
+   "summary": "ACAC Eagles: 135/8(30) KYCA - U13: 136/7(29)"
+  },
+  {
+   "matchId": "7352",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7352&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA - U13"
+   ],
+   "teamIds": [
+    "2888",
+    "2889"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "ACAC Eagles won by 67 Runs",
+   "summary": "ACAC Eagles: 174/1(20) KYCA - U13: 107/8(20)"
+  },
+  {
+   "matchId": "7322",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7322&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "ACAC Eagles",
+    "KYCA - U13"
+   ],
+   "teamIds": [
+    "2888",
+    "2889"
+   ],
+   "ground": "Heritage Park",
+   "result": "ACAC Eagles won by 47 Runs",
+   "summary": "ACAC Eagles: 146/3(20) KYCA - U13: 99/2(20)"
+  }
+ ]
+}

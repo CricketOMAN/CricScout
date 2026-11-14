@@ -1,0 +1,252 @@
+{
+ "season": {
+  "key": "s204",
+  "id": "legacy-289",
+  "name": "2025 USAC SoCalAZ - Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T22:29:02.218Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=289&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=289&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5345",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5345&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "SCYCA-SCCAY",
+    "SDCCYA"
+   ],
+   "teamIds": [
+    "1764",
+    "1762"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA won by 1 Wicket",
+   "summary": "SCYCA-SCCAY: 118/11(24.5) SDCCYA: 183/9(24)"
+  },
+  {
+   "matchId": "5307",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5307&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "SDCCYA",
+    "SCYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1762",
+    "1764"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SDCCYA won by 0 Wickets",
+   "summary": "SCYCA-SCCAY: 134/6(30) SDCCYA: 170/10(25.5)"
+  },
+  {
+   "matchId": "5306",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5306&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "AZYCA"
+   ],
+   "teamIds": [
+    "1763",
+    "1761"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "SCYCA: 244/9 (29.3/40 ov) AZYCA: 128/10 (25/40 ov)",
+   "summary": "SCYCA: 244/9(29.3) AZYCA: 128/10(25) Live"
+  },
+  {
+   "matchId": "5274",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5274&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "AZYCA",
+    "ANYCA-WYCA"
+   ],
+   "teamIds": [
+    "1761",
+    "1760"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "ANYCA-WYCA won by 68 Runs",
+   "summary": "ANYCA-WYCA: 170/6(22.5) AZYCA: 102/9(21.3)"
+  },
+  {
+   "matchId": "5210",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5210&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "SCYCA-SCCAY",
+    "ANYCA-WYCA"
+   ],
+   "teamIds": [
+    "1764",
+    "1760"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "SCYCA-SCCAY: 175/7 (30/30 ov) ANYCA-WYCA: 168/8 (26.5/30 ov)",
+   "summary": "SCYCA-SCCAY: 175/7(30) ANYCA-WYCA: 168/8(26.5) Live"
+  },
+  {
+   "matchId": "5080",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5080&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "ANYCA-WYCA",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "1760",
+    "1763"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "ANYCA-WYCA: 158/8 (22/30 ov) SCYCA: 159/7 (21.5/30 ov)",
+   "summary": "ANYCA-WYCA: 158/8(22) SCYCA: 159/7(21.5) Live"
+  },
+  {
+   "matchId": "5011",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5011&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "ANYCA-WYCA",
+    "SCYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1760",
+    "1764"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "ANYCA-WYCA: 215/7 (30/30 ov) SCYCA-SCCAY: 131/10 (27/30 ov)",
+   "summary": "ANYCA-WYCA: 215/7(30) SCYCA-SCCAY: 131/10(27) Live"
+  },
+  {
+   "matchId": "4964",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4964&clubId=40319",
+   "date": "2025-05-04",
+   "type": "League",
+   "teams": [
+    "SDCCYA",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "1762",
+    "1763"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SCYCA: 100/2 (18/23 ov)",
+   "summary": "SCYCA: 100/2(18) Live"
+  },
+  {
+   "matchId": "4590",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4590&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "SCYCA-SCCAY",
+    "AZYCA"
+   ],
+   "teamIds": [
+    "1764",
+    "1761"
+   ],
+   "ground": "Canyonside Park",
+   "result": "SCYCA-SCCAY won by 3 Wickets (D/L)",
+   "summary": "AZYCA: 111/10(19.2) SCYCA-SCCAY: 114/7(23.4)"
+  },
+  {
+   "matchId": "4569",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4569&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "SDCCYA",
+    "AZYCA"
+   ],
+   "teamIds": [
+    "1762",
+    "1761"
+   ],
+   "ground": "Canyonside Park",
+   "result": "AZYCA: 146/9 (25.4/40 ov) SDCCYA: 130/6 (26/40 ov)",
+   "summary": "AZYCA: 146/9(25.4) SDCCYA: 130/6(26) Live"
+  },
+  {
+   "matchId": "4513",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4513&clubId=40319",
+   "date": "2025-04-13",
+   "type": "League",
+   "teams": [
+    "AZYCA",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "1761",
+    "1763"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "SCYCA won by 4 Wickets",
+   "summary": "AZYCA: 179/9(26) SCYCA: 180/6(29)"
+  },
+  {
+   "matchId": "4494",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4494&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "ANYCA-WYCA",
+    "SDCCYA"
+   ],
+   "teamIds": [
+    "1760",
+    "1762"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "SDCCYA won by 4 Wickets",
+   "summary": "ANYCA-WYCA: 131/6(19.5) SDCCYA: 145/6(18.5)"
+  },
+  {
+   "matchId": "4467",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4467&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "ANYCA-WYCA"
+   ],
+   "teamIds": [
+    "1763",
+    "1760"
+   ],
+   "ground": "Turtle Rock 2",
+   "result": "SCYCA won by 31 Runs",
+   "summary": "SCYCA: 186/6(25) ANYCA-WYCA: 155/5(25)"
+  },
+  {
+   "matchId": "4462",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4462&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "AZYCA",
+    "SDCCYA"
+   ],
+   "teamIds": [
+    "1761",
+    "1762"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "SDCCYA won by 58 Runs",
+   "summary": "SDCCYA: 154/6(25) AZYCA: 96/10(19)"
+  }
+ ]
+}

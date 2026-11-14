@@ -1,0 +1,303 @@
+{
+ "season": {
+  "key": "s307",
+  "id": "legacy-88",
+  "name": "USAC Youth 2023 - Dallas Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:08:25.025Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=88&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=88&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1849",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1849&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "MCA Panthers",
+    "TCA Warriors"
+   ],
+   "teamIds": [
+    "217",
+    "218"
+   ],
+   "ground": "Lewisville CG",
+   "result": "MCA Panthers won by 161 Runs",
+   "summary": "MCA Panthers: 309/6(40) TCA Warriors: 148/10(31)"
+  },
+  {
+   "matchId": "1687",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1687&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "TCA Warriors",
+    "DYCL Bolts"
+   ],
+   "teamIds": [
+    "218",
+    "216"
+   ],
+   "ground": "Garland CG3",
+   "result": "Forfeited. Winner: TCA Warriors",
+   "summary": "TCA Warriors: 0/0(0)"
+  },
+  {
+   "matchId": "1632",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1632&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "TCA Warriors",
+    "MCA Panthers"
+   ],
+   "teamIds": [
+    "218",
+    "217"
+   ],
+   "ground": "NMCG 1",
+   "result": "Abandoned.",
+   "summary": "MCA Panthers: 0/0(0)"
+  },
+  {
+   "matchId": "1564",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1564&clubId=40319",
+   "date": "2023-06-02",
+   "type": "League",
+   "teams": [
+    "TiC U17",
+    "MCA Panthers"
+   ],
+   "teamIds": [
+    "219",
+    "217"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Panthers won by 6 Wickets",
+   "summary": "TiC U17: 127/9(38.5) MCA Panthers: 129/4(20)"
+  },
+  {
+   "matchId": "1810",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1810&clubId=40319",
+   "date": "2023-05-14",
+   "type": "League",
+   "teams": [
+    "TCA Warriors",
+    "TiC U17"
+   ],
+   "teamIds": [
+    "218",
+    "219"
+   ],
+   "ground": "DFW CG New",
+   "result": "Abandoned.",
+   "summary": "TCA Warriors: 0/0(0)"
+  },
+  {
+   "matchId": "1688",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1688&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "MCA Panthers",
+    "DYCL Bolts"
+   ],
+   "teamIds": [
+    "217",
+    "216"
+   ],
+   "ground": "Garland CG3",
+   "result": "Forfeited. Winner: MCA Panthers",
+   "summary": "MCA Panthers: 0/0(0)"
+  },
+  {
+   "matchId": "1281",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1281&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "MCA Panthers",
+    "TiC U17"
+   ],
+   "teamIds": [
+    "217",
+    "219"
+   ],
+   "ground": "Garland CG3",
+   "result": "MCA Panthers won by 84 Runs",
+   "summary": "MCA Panthers: 278/5(40) TiC U17: 194/10(33.3)"
+  },
+  {
+   "matchId": "1227",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1227&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts",
+    "TCA Warriors"
+   ],
+   "teamIds": [
+    "216",
+    "218"
+   ],
+   "ground": "Sandy Lake",
+   "result": "TCA Warriors won by 239 Runs",
+   "summary": "TCA Warriors: 363/5(40) DYCL Bolts: 124/8(38)"
+  },
+  {
+   "matchId": "1811",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1811&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "MCA Panthers",
+    "TCA Warriors"
+   ],
+   "teamIds": [
+    "217",
+    "218"
+   ],
+   "ground": "Garland CG3",
+   "result": "Abandoned.",
+   "summary": "MCA Panthers: 0/0(0)"
+  },
+  {
+   "matchId": "1181",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1181&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "TiC U17",
+    "DYCL Bolts"
+   ],
+   "teamIds": [
+    "219",
+    "216"
+   ],
+   "ground": "Sandy Lake",
+   "result": "TiC U17 won by 5 Wickets",
+   "summary": "DYCL Bolts: 196/10(39.3) TiC U17: 200/5(28.1)"
+  },
+  {
+   "matchId": "1058",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1058&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts",
+    "MCA Panthers"
+   ],
+   "teamIds": [
+    "216",
+    "217"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Panthers won by 166 Runs",
+   "summary": "MCA Panthers: 334/8(40.1) DYCL Bolts: 168/6(40.1)"
+  },
+  {
+   "matchId": "976",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=976&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "TiC U17",
+    "TCA Warriors"
+   ],
+   "teamIds": [
+    "219",
+    "218"
+   ],
+   "ground": "Garland CG3",
+   "result": "TCA Warriors won by 7 Wickets",
+   "summary": "TiC U17: 229/6(40) TCA Warriors: 233/3(38)"
+  },
+  {
+   "matchId": "975",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=975&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "MCA Panthers",
+    "DYCL Bolts"
+   ],
+   "teamIds": [
+    "217",
+    "216"
+   ],
+   "ground": "Sandy Lake",
+   "result": "MCA Panthers won by 290 Runs",
+   "summary": "MCA Panthers: 447/6(40) DYCL Bolts: 157/8(34.4)"
+  },
+  {
+   "matchId": "961",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=961&clubId=40319",
+   "date": "2023-04-10",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts",
+    "TiC U17"
+   ],
+   "teamIds": [
+    "216",
+    "219"
+   ],
+   "ground": "Independence",
+   "result": "TiC U17 won by 7 Wickets",
+   "summary": "DYCL Bolts: 131/10(28.5) TiC U17: 132/3(16.1)"
+  },
+  {
+   "matchId": "920",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=920&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "TiC U17",
+    "MCA Panthers"
+   ],
+   "teamIds": [
+    "219",
+    "217"
+   ],
+   "ground": "Irving Polo 2",
+   "result": "MCA Panthers won by 157 Runs",
+   "summary": "MCA Panthers: 251/4(37) TiC U17: 94/10(30.5)"
+  },
+  {
+   "matchId": "917",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=917&clubId=40319",
+   "date": "2023-04-01",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts",
+    "TCA Warriors"
+   ],
+   "teamIds": [
+    "216",
+    "218"
+   ],
+   "ground": "Alma Ground",
+   "result": "TCA Warriors won by 113 Runs",
+   "summary": "TCA Warriors: 244/5(35) DYCL Bolts: 131/10(25)"
+  },
+  {
+   "matchId": "908",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=908&clubId=40319",
+   "date": "2023-03-25",
+   "type": "League",
+   "teams": [
+    "TCA Warriors",
+    "TiC U17"
+   ],
+   "teamIds": [
+    "218",
+    "219"
+   ],
+   "ground": "Sandy Lake",
+   "result": "TCA Warriors won by 5 Wickets (D/L)",
+   "summary": "TiC U17: 214/7(40) TCA Warriors: 193/5(31)"
+  }
+ ]
+}

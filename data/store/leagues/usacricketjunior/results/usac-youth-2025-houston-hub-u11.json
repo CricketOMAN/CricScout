@@ -1,0 +1,524 @@
+{
+ "season": {
+  "key": "s212",
+  "id": "legacy-273",
+  "name": "USAC Youth 2025 - Houston Hub U11"
+ },
+ "fetchedAt": "2026-11-13T22:36:30.973Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=273&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=273&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5398",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5398&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "EY Riders",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1643",
+    "1640"
+   ],
+   "ground": "4CP",
+   "result": "SL Cosmos won by 5 Wickets",
+   "summary": "EY Riders: 178/8(25) SL Cosmos: 182/5(22.5)"
+  },
+  {
+   "matchId": "5358",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5358&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "SL Comets",
+    "KY Falcons"
+   ],
+   "teamIds": [
+    "1641",
+    "1645"
+   ],
+   "ground": "4CP",
+   "result": "KY Falcons won by 9 Wickets",
+   "summary": "SL Comets: 38/9(16.2) KY Falcons: 39/1(4.1)"
+  },
+  {
+   "matchId": "5357",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5357&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "NC Titans"
+   ],
+   "teamIds": [
+    "1644",
+    "1642"
+   ],
+   "ground": "JCP",
+   "result": "NW Stallions won by 30 Runs",
+   "summary": "NW Stallions: 122/8(25) NC Titans: 92/8(21)"
+  },
+  {
+   "matchId": "5182",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5182&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "SL Comets",
+    "EY Riders"
+   ],
+   "teamIds": [
+    "1641",
+    "1643"
+   ],
+   "ground": "MWP",
+   "result": "SL Comets won by 4 Wickets",
+   "summary": "EY Riders: 117/10(17.3) SL Comets: 118/6(24.2)"
+  },
+  {
+   "matchId": "5180",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5180&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1644",
+    "1640"
+   ],
+   "ground": "JPLW",
+   "result": "SL Cosmos won by 48 Runs",
+   "summary": "SL Cosmos: 148/7(25) NW Stallions: 100/8(25)"
+  },
+  {
+   "matchId": "5179",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5179&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "KY Falcons"
+   ],
+   "teamIds": [
+    "1642",
+    "1645"
+   ],
+   "ground": "CR",
+   "result": "KY Falcons won by 148 Runs",
+   "summary": "KY Falcons: 214/5(25) NC Titans: 66/7(13.1)"
+  },
+  {
+   "matchId": "5043",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5043&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "EY Riders",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1643",
+    "1640"
+   ],
+   "ground": "4CP",
+   "result": "SL Cosmos won by 8 Wickets",
+   "summary": "EY Riders: 154/6(25) SL Cosmos: 155/2(14.1)"
+  },
+  {
+   "matchId": "4983",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4983&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "1642",
+    "1641"
+   ],
+   "ground": "MWP",
+   "result": "NC Titans won by 10 Wickets",
+   "summary": "SL Comets: 32/7(13.3) NC Titans: 33/0(5.1)"
+  },
+  {
+   "matchId": "4980",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4980&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "NW Stallions"
+   ],
+   "teamIds": [
+    "1645",
+    "1644"
+   ],
+   "ground": "CR",
+   "result": "KY Falcons won by 64 Runs",
+   "summary": "KY Falcons: 156/6(25) NW Stallions: 92/10(22.3)"
+  },
+  {
+   "matchId": "4894",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4894&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "1644",
+    "1641"
+   ],
+   "ground": "4CP",
+   "result": "NW Stallions won by 6 Wickets",
+   "summary": "SL Comets: 83/10(23) NW Stallions: 84/4(13.1)"
+  },
+  {
+   "matchId": "4832",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4832&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1642",
+    "1640"
+   ],
+   "ground": "MWP",
+   "result": "NC Titans won by 7 Wickets",
+   "summary": "SL Cosmos: 114/8(23.4) NC Titans: 115/3(16.5)"
+  },
+  {
+   "matchId": "4831",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4831&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "EY Riders"
+   ],
+   "teamIds": [
+    "1645",
+    "1643"
+   ],
+   "ground": "CR",
+   "result": "KY Falcons won by 76 Runs",
+   "summary": "KY Falcons: 183/2(25) EY Riders: 107/5(25)"
+  },
+  {
+   "matchId": "4695",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4695&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "KY Falcons"
+   ],
+   "teamIds": [
+    "1644",
+    "1645"
+   ],
+   "ground": "CR",
+   "result": "KY Falcons won by 8 Wickets",
+   "summary": "NW Stallions: 109/9(25) KY Falcons: 110/2(17.4)"
+  },
+  {
+   "matchId": "4647",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4647&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "SL Comets",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1641",
+    "1640"
+   ],
+   "ground": "MWP",
+   "result": "SL Cosmos won by 107 Runs",
+   "summary": "SL Cosmos: 209/7(25) SL Comets: 102/10(23.1)"
+  },
+  {
+   "matchId": "4642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4642&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "EY Riders",
+    "NC Titans"
+   ],
+   "teamIds": [
+    "1643",
+    "1642"
+   ],
+   "ground": "CR",
+   "result": "NC Titans won by 39 Runs",
+   "summary": "NC Titans: 139/6(25) EY Riders: 100/7(25)"
+  },
+  {
+   "matchId": "4552",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4552&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "EY Riders"
+   ],
+   "teamIds": [
+    "1644",
+    "1643"
+   ],
+   "ground": "MWP",
+   "result": "NW Stallions won by 2 Wickets",
+   "summary": "EY Riders: 141/10(25) NW Stallions: 142/8(22.1)"
+  },
+  {
+   "matchId": "4550",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4550&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "1645",
+    "1641"
+   ],
+   "ground": "CR",
+   "result": "KY Falcons won by 158 Runs",
+   "summary": "KY Falcons: 215/10(25) SL Comets: 57/8(15)"
+  },
+  {
+   "matchId": "4549",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4549&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "SL Cosmos",
+    "NC Titans"
+   ],
+   "teamIds": [
+    "1640",
+    "1642"
+   ],
+   "ground": "4CP",
+   "result": "NC Titans won by 34 Runs",
+   "summary": "NC Titans: 188/5(25) SL Cosmos: 154/10(18.2)"
+  },
+  {
+   "matchId": "4500",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4500&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "EY Riders",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "1643",
+    "1641"
+   ],
+   "ground": "MWP",
+   "result": "Forfeited. Winner: SL Comets",
+   "summary": "EY Riders: 0/0(0)"
+  },
+  {
+   "matchId": "4483",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4483&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1644",
+    "1640"
+   ],
+   "ground": "4CP",
+   "result": "NW Stallions won by 8 Wickets",
+   "summary": "SL Cosmos: 173/7(25) NW Stallions: 174/2(21)"
+  },
+  {
+   "matchId": "4453",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4453&clubId=40319",
+   "date": "2025-04-12",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "KY Falcons"
+   ],
+   "teamIds": [
+    "1642",
+    "1645"
+   ],
+   "ground": "CR",
+   "result": "KY Falcons won by 10 Wickets",
+   "summary": "NC Titans: 92/7(23) KY Falcons: 93/0(11.3)"
+  },
+  {
+   "matchId": "4440",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4440&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "EY Riders",
+    "NC Titans"
+   ],
+   "teamIds": [
+    "1643",
+    "1642"
+   ],
+   "ground": "MWP",
+   "result": "No Result",
+   "summary": "EY Riders: 0/0(0)"
+  },
+  {
+   "matchId": "4439",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4439&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1645",
+    "1640"
+   ],
+   "ground": "CR",
+   "result": "No Result",
+   "summary": "KY Falcons: 0/0(0)"
+  },
+  {
+   "matchId": "4438",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4438&clubId=40319",
+   "date": "2025-04-05",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "1644",
+    "1641"
+   ],
+   "ground": "4CP",
+   "result": "No Result",
+   "summary": "NW Stallions: 0/0(0)"
+  },
+  {
+   "matchId": "4369",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4369&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "SL Comets",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1641",
+    "1640"
+   ],
+   "ground": "4CP",
+   "result": "SL Cosmos won by 101 Runs",
+   "summary": "SL Cosmos: 176/7(25) SL Comets: 75/9(20)"
+  },
+  {
+   "matchId": "4354",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4354&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "EY Riders",
+    "KY Falcons"
+   ],
+   "teamIds": [
+    "1643",
+    "1645"
+   ],
+   "ground": "CR",
+   "result": "KY Falcons won by 131 Runs",
+   "summary": "KY Falcons: 161/7(25) EY Riders: 30/9(12.4)"
+  },
+  {
+   "matchId": "4348",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4348&clubId=40319",
+   "date": "2025-03-29",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "NW Stallions"
+   ],
+   "teamIds": [
+    "1642",
+    "1644"
+   ],
+   "ground": "MWP",
+   "result": "NC Titans won by 8 Wickets",
+   "summary": "NW Stallions: 120/6(25) NC Titans: 121/2(16.3)"
+  },
+  {
+   "matchId": "4301",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4301&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "NW Stallions",
+    "EY Riders"
+   ],
+   "teamIds": [
+    "1644",
+    "1643"
+   ],
+   "ground": "MatzkeE",
+   "result": "NW Stallions won by 7 Wickets",
+   "summary": "EY Riders: 137/9(25) NW Stallions: 138/3(19)"
+  },
+  {
+   "matchId": "4297",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4297&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "KY Falcons",
+    "SL Cosmos"
+   ],
+   "teamIds": [
+    "1645",
+    "1640"
+   ],
+   "ground": "CR",
+   "result": "SL Cosmos won by 50 Runs",
+   "summary": "SL Cosmos: 136/10(24.5) KY Falcons: 86/8(16.2)"
+  },
+  {
+   "matchId": "4293",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4293&clubId=40319",
+   "date": "2025-03-22",
+   "type": "League",
+   "teams": [
+    "NC Titans",
+    "SL Comets"
+   ],
+   "teamIds": [
+    "1642",
+    "1641"
+   ],
+   "ground": "MWP",
+   "result": "NC Titans won by 9 Wickets",
+   "summary": "SL Comets: 87/8(21.1) NC Titans: 91/1(13.5)"
+  }
+ ]
+}

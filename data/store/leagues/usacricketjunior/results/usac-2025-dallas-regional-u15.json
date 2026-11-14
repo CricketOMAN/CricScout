@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s150",
+  "id": "legacy-373",
+  "name": "USAC 2025 Dallas Regional U15"
+ },
+ "fetchedAt": "2026-11-13T22:15:46.099Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=373&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=373&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5943",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5943&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Blue",
+    "Colorado U15"
+   ],
+   "teamIds": [
+    "2171",
+    "2173"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Blue won by 40 Runs",
+   "summary": "Dallas U15 Blue: 179/8(40) Colorado U15: 139/11(37.5)"
+  },
+  {
+   "matchId": "5942",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5942&clubId=40319",
+   "date": "2025-06-30",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Yellow",
+    "Dallas U15 Red"
+   ],
+   "teamIds": [
+    "2170",
+    "2172"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Yellow won by 6 Wickets",
+   "summary": "Dallas U15 Red: 99/10(38) Dallas U15 Yellow: 101/4(22.1)"
+  },
+  {
+   "matchId": "5920",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5920&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Colorado U15",
+    "Dallas U15 Yellow"
+   ],
+   "teamIds": [
+    "2173",
+    "2170"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Yellow won by 132 Runs",
+   "summary": "Dallas U15 Yellow: 283/5(40) Colorado U15: 151/8(40)"
+  },
+  {
+   "matchId": "5918",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5918&clubId=40319",
+   "date": "2025-06-29",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Blue",
+    "Dallas U15 Red"
+   ],
+   "teamIds": [
+    "2171",
+    "2172"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Red won by 2 Wickets",
+   "summary": "Dallas U15 Blue: 170/9(40) Dallas U15 Red: 171/8(39.3)"
+  },
+  {
+   "matchId": "5885",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5885&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Yellow",
+    "Dallas U15 Blue"
+   ],
+   "teamIds": [
+    "2170",
+    "2171"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas U15 Blue won by 80 Runs",
+   "summary": "Dallas U15 Blue: 240/8(40) Dallas U15 Yellow: 160/10(35.3)"
+  },
+  {
+   "matchId": "5883",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5883&clubId=40319",
+   "date": "2025-06-28",
+   "type": "League",
+   "teams": [
+    "Dallas U15 Red",
+    "Colorado U15"
+   ],
+   "teamIds": [
+    "2172",
+    "2173"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas U15 Red won by 118 Runs",
+   "summary": "Dallas U15 Red: 216/10(38.4) Colorado U15: 98/10(23.2)"
+  }
+ ]
+}

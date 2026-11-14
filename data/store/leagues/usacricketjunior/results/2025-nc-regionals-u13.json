@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s155",
+  "id": "legacy-366",
+  "name": "2025 NC Regionals - U13"
+ },
+ "fetchedAt": "2026-11-13T22:15:50.362Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=366&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=366&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5828",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5828&clubId=40319",
+   "date": "2025-06-22",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2142",
+    "2141"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Team Blue won by 8 Wickets",
+   "summary": "Team Red: 145/9(30) Team Blue: 147/2(28.3)"
+  },
+  {
+   "matchId": "5782",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5782&clubId=40319",
+   "date": "2025-06-21",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "2141",
+    "2142"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Team Red won by 7 Wickets",
+   "summary": "Team Blue: 155/6(30) Team Red: 158/3(27.5)"
+  },
+  {
+   "matchId": "5761",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5761&clubId=40319",
+   "date": "2025-06-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "2142",
+    "2141"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Team Red won by 35 Runs",
+   "summary": "Team Red: 179/7(30) Team Blue: 144/10(27.1)"
+  }
+ ]
+}

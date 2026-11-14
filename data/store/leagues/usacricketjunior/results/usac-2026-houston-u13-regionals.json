@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s41",
+  "id": "legacy-552",
+  "name": "USAC 2026 - Houston U13 Regionals"
+ },
+ "fetchedAt": "2026-11-13T21:41:19.131Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=552&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=552&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8828",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8828&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Austin Red",
+    "Houston Blue"
+   ],
+   "teamIds": [
+    "3269",
+    "3293"
+   ],
+   "ground": "ACAG",
+   "result": "Houston Blue won by 83 Runs",
+   "summary": "Houston Blue: 237/9(30) Austin Red: 154/5(30)"
+  },
+  {
+   "matchId": "8805",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8805&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Austin Blue",
+    "Houston Red"
+   ],
+   "teamIds": [
+    "3270",
+    "3292"
+   ],
+   "ground": "ACAG",
+   "result": "Houston Red won by 40 Runs",
+   "summary": "Houston Red: 196/6(30) Austin Blue: 156/8(30)"
+  },
+  {
+   "matchId": "8795",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8795&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Austin Blue",
+    "Houston Blue"
+   ],
+   "teamIds": [
+    "3270",
+    "3293"
+   ],
+   "ground": "CPCG",
+   "result": "Houston Blue won by 6 Wickets",
+   "summary": "Austin Blue: 167/2(25) Houston Blue: 168/4(24.3)"
+  },
+  {
+   "matchId": "8778",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8778&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Austin Red",
+    "Houston Red"
+   ],
+   "teamIds": [
+    "3269",
+    "3292"
+   ],
+   "ground": "CPCG",
+   "result": "Houston Red won by 59 Runs",
+   "summary": "Houston Red: 168/4(25) Austin Red: 109/10(25)"
+  },
+  {
+   "matchId": "8761",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8761&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "Houston Blue",
+    "Houston Red"
+   ],
+   "teamIds": [
+    "3293",
+    "3292"
+   ],
+   "ground": "RRCG",
+   "result": "Houston Red won by 14 Runs",
+   "summary": "Houston Red: 166/8(30) Houston Blue: 152/8(30)"
+  },
+  {
+   "matchId": "8752",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8752&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "Austin Blue",
+    "Austin Red"
+   ],
+   "teamIds": [
+    "3270",
+    "3269"
+   ],
+   "ground": "RRCG",
+   "result": "Austin Blue won by 9 Runs",
+   "summary": "Austin Blue: 168/8(27.2) Austin Red: 159/9(30.1)"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s353",
+  "id": "legacy-41",
+  "name": "USAC Junior 2023 -East Midwest Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:16:12.508Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=41&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=41&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2315",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2315&clubId=40319",
+   "date": "2023-08-19",
+   "type": "Final",
+   "teams": [
+    "MYCA HAWKS",
+    "PRIME STRIKERS CANTON"
+   ],
+   "teamIds": [
+    "533",
+    "534"
+   ],
+   "ground": "MURPHY CRICKET FIELD",
+   "result": "MYCA HAWKS won by 7 Wickets",
+   "summary": "PRIME STRIKERS CANTON: 59/10(17.4) MYCA HAWKS: 61/3(10)"
+  },
+  {
+   "matchId": "2215",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2215&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "AYCA STARS",
+    "PRIME STRIKERS CANTON"
+   ],
+   "teamIds": [
+    "535",
+    "534"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "PRIME STRIKERS CANTON won by 3 Wickets",
+   "summary": "AYCA STARS: 80/6(18.5) PRIME STRIKERS CANTON: 81/7(15.1)"
+  },
+  {
+   "matchId": "2212",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2212&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS CANTON",
+    "AYCA STARS"
+   ],
+   "teamIds": [
+    "534",
+    "535"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "PRIME STRIKERS CANTON won by 3 Runs",
+   "summary": "PRIME STRIKERS CANTON: 92/5(19.4) AYCA STARS: 89/9(18.1)"
+  },
+  {
+   "matchId": "2083",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2083&clubId=40319",
+   "date": "2023-07-21",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS CANTON",
+    "MYCA HAWKS"
+   ],
+   "teamIds": [
+    "534",
+    "533"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "MYCA HAWKS won by 140 Runs",
+   "summary": "MYCA HAWKS: 204/4(21.5) PRIME STRIKERS CANTON: 64/8(25.1)"
+  },
+  {
+   "matchId": "1992",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1992&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "AYCA STARS",
+    "MYCA HAWKS"
+   ],
+   "teamIds": [
+    "535",
+    "533"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "MYCA HAWKS won by 99 Runs",
+   "summary": "MYCA HAWKS: 169/4(25) AYCA STARS: 70/10(16.4)"
+  },
+  {
+   "matchId": "1845",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1845&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS CANTON",
+    "MYCA HAWKS"
+   ],
+   "teamIds": [
+    "534",
+    "533"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "MYCA HAWKS won by 8 Wickets",
+   "summary": "PRIME STRIKERS CANTON: 76/10(22.1) MYCA HAWKS: 77/2(14.1)"
+  },
+  {
+   "matchId": "1650",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1650&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "AYCA STARS",
+    "MYCA HAWKS"
+   ],
+   "teamIds": [
+    "535",
+    "533"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "MYCA HAWKS won by 47 Runs",
+   "summary": "MYCA HAWKS: 153/5(25) AYCA STARS: 106/5(25)"
+  },
+  {
+   "matchId": "1379",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1379&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "AYCA STARS",
+    "MYCA HAWKS"
+   ],
+   "teamIds": [
+    "535",
+    "533"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "MYCA HAWKS won by 5 Runs",
+   "summary": "MYCA HAWKS: 86/6(20) AYCA STARS: 81/9(20)"
+  },
+  {
+   "matchId": "1350",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1350&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "AYCA STARS",
+    "PRIME STRIKERS CANTON"
+   ],
+   "teamIds": [
+    "535",
+    "534"
+   ],
+   "ground": "TROY CRICKET GROUND",
+   "result": "AYCA STARS won by 37 Runs",
+   "summary": "AYCA STARS: 105/3(20) PRIME STRIKERS CANTON: 68/10(19.5)"
+  }
+ ]
+}

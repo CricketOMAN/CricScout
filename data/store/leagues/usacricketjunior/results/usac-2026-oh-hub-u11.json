@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s71",
+  "id": "legacy-512",
+  "name": "USAC 2026 - OH HUB - U11"
+ },
+ "fetchedAt": "2026-11-13T21:45:00.395Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=512&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=512&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9541&clubId=40319",
+   "date": "2026-09-27",
+   "type": "League",
+   "teams": [
+    "AYCA Stars",
+    "PYCA Knights"
+   ],
+   "teamIds": [
+    "3120",
+    "3123"
+   ],
+   "ground": "TBD",
+   "result": "AYCA Stars won by 20 Runs",
+   "summary": "AYCA Stars: 118/5(25) PYCA Knights: 98/9(25)"
+  },
+  {
+   "matchId": "9324",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9324&clubId=40319",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "MCA Risers",
+    "AYCA Stars"
+   ],
+   "teamIds": [
+    "3125",
+    "3120"
+   ],
+   "ground": "QUINN PARK",
+   "result": "AYCA Stars won by 8 Wickets",
+   "summary": "MCA Risers: 92/9(23.5) AYCA Stars: 94/2(11.5)"
+  },
+  {
+   "matchId": "8942",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8942&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "AYCA Comets",
+    "MCA Risers"
+   ],
+   "teamIds": [
+    "3121",
+    "3125"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "MCA Risers won by 53 Runs",
+   "summary": "MCA Risers: 109/7(24.5) AYCA Comets: 56/11(21.5)"
+  },
+  {
+   "matchId": "8930",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8930&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "ACC Rising Stars",
+    "MCA Risers"
+   ],
+   "teamIds": [
+    "3119",
+    "3125"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "ACC Rising Stars won by 5 Wickets",
+   "summary": "MCA Risers: 105/9(24.5) ACC Rising Stars: 107/5(18.1)"
+  },
+  {
+   "matchId": "8598",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8598&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "AYCA Stars",
+    "PYCA Knights"
+   ],
+   "teamIds": [
+    "3120",
+    "3123"
+   ],
+   "ground": "TBD",
+   "result": "AYCA Stars won by 63 Runs",
+   "summary": "AYCA Stars: 178/7(29.4) PYCA Knights: 115/10(25.2)"
+  },
+  {
+   "matchId": "8574",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8574&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "AYCA Comets",
+    "PYCA Knights"
+   ],
+   "teamIds": [
+    "3121",
+    "3123"
+   ],
+   "ground": "TBD",
+   "result": "PYCA Knights won by 8 Wickets",
+   "summary": "AYCA Comets: 30/9(16.3) PYCA Knights: 31/2(6)"
+  },
+  {
+   "matchId": "8413",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8413&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "MCA Risers",
+    "AYCA Stars"
+   ],
+   "teamIds": [
+    "3125",
+    "3120"
+   ],
+   "ground": "QUINN PARK",
+   "result": "AYCA Stars won by 7 Wickets",
+   "summary": "MCA Risers: 81/9(22.3) AYCA Stars: 82/3(13.1)"
+  },
+  {
+   "matchId": "8185",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8185&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "AYCA Comets",
+    "ACC Rising Stars"
+   ],
+   "teamIds": [
+    "3121",
+    "3119"
+   ],
+   "ground": "TBD",
+   "result": "ACC Rising Stars won by 9 Wickets",
+   "summary": "AYCA Comets: 52/7(26) ACC Rising Stars: 53/1(8.4)"
+  },
+  {
+   "matchId": "7892",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7892&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "PYCA Knights",
+    "MCA Risers"
+   ],
+   "teamIds": [
+    "3123",
+    "3125"
+   ],
+   "ground": "QUINN PARK",
+   "result": "PYCA Knights won by 109 Runs",
+   "summary": "PYCA Knights: 167/6(23.2) MCA Risers: 58/7(25)"
+  },
+  {
+   "matchId": "7793",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7793&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "ACC Rising Stars",
+    "PYCA Knights"
+   ],
+   "teamIds": [
+    "3119",
+    "3123"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "PYCA Knights won by 50 Runs",
+   "summary": "PYCA Knights: 129/3(23.4) ACC Rising Stars: 79/10(17.3)"
+  },
+  {
+   "matchId": "7529",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7529&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "ACC Rising Stars",
+    "AYCA Stars"
+   ],
+   "teamIds": [
+    "3119",
+    "3120"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Stars won by 123 Runs",
+   "summary": "AYCA Stars: 220/3(23.2) ACC Rising Stars: 97/2(24)"
+  },
+  {
+   "matchId": "7491",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7491&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "AYCA Stars",
+    "AYCA Comets"
+   ],
+   "teamIds": [
+    "3120",
+    "3121"
+   ],
+   "ground": "AYCA CRICKET GROUND",
+   "result": "AYCA Stars won by 168 Runs",
+   "summary": "AYCA Stars: 201/3(24.4) AYCA Comets: 33/10(13.2)"
+  }
+ ]
+}

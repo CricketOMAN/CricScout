@@ -1,0 +1,184 @@
+{
+ "season": {
+  "key": "s82",
+  "id": "legacy-495",
+  "name": "USAC 2026 MA HUB U11"
+ },
+ "fetchedAt": "2026-11-13T21:47:29.138Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=495&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=495&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9478",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9478&clubId=40319",
+   "date": "2026-09-14",
+   "type": "League",
+   "teams": [
+    "GWCA SUPERNOVAS",
+    "SKA BOSTON GLADIATORS"
+   ],
+   "teamIds": [
+    "2910",
+    "2913"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "GWCA SUPERNOVAS won by 9 Wickets",
+   "summary": "SKA BOSTON GLADIATORS: 110/8(20) GWCA SUPERNOVAS: 111/1(11.3)"
+  },
+  {
+   "matchId": "9465",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9465&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON GLADIATORS",
+    "CricOne PROTONS"
+   ],
+   "teamIds": [
+    "2913",
+    "2909"
+   ],
+   "ground": "Knights Ground",
+   "result": "SKA BOSTON GLADIATORS won by 33 Runs",
+   "summary": "SKA BOSTON GLADIATORS: 107/10(19.5) CricOne PROTONS: 74/7(20)"
+  },
+  {
+   "matchId": "9462",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9462&clubId=40319",
+   "date": "2026-09-12",
+   "type": "League",
+   "teams": [
+    "GWCA STELLARS",
+    "SKA BOSTON SPARTANS"
+   ],
+   "teamIds": [
+    "2911",
+    "2912"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "SKA BOSTON SPARTANS won by 66 Runs",
+   "summary": "SKA BOSTON SPARTANS: 160/1(19.3) GWCA STELLARS: 94/10(17.2)"
+  },
+  {
+   "matchId": "8595",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8595&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "GWCA SUPERNOVAS",
+    "GWCA STELLARS"
+   ],
+   "teamIds": [
+    "2910",
+    "2911"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "GWCA STELLARS won by 7 Wickets",
+   "summary": "GWCA SUPERNOVAS: 70/9(26.4) GWCA STELLARS: 71/3(21.5)"
+  },
+  {
+   "matchId": "8422",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8422&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON GLADIATORS",
+    "SKA BOSTON SPARTANS"
+   ],
+   "teamIds": [
+    "2913",
+    "2912"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "SKA BOSTON SPARTANS won by 63 Runs",
+   "summary": "SKA BOSTON SPARTANS: 132/7(20) SKA BOSTON GLADIATORS: 69/8(20)"
+  },
+  {
+   "matchId": "8212",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8212&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CricOne PROTONS",
+    "GWCA SUPERNOVAS"
+   ],
+   "teamIds": [
+    "2909",
+    "2910"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "GWCA SUPERNOVAS won by 15 Runs",
+   "summary": "GWCA SUPERNOVAS: 150/5(20) CricOne PROTONS: 135/6(19)"
+  },
+  {
+   "matchId": "8094",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8094&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "GWCA STELLARS",
+    "SKA BOSTON GLADIATORS"
+   ],
+   "teamIds": [
+    "2911",
+    "2913"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "GWCA STELLARS won by 51 Runs",
+   "summary": "GWCA STELLARS: 133/7(19.5) SKA BOSTON GLADIATORS: 82/10(20)"
+  },
+  {
+   "matchId": "7988",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7988&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "GWCA SUPERNOVAS",
+    "SKA BOSTON SPARTANS"
+   ],
+   "teamIds": [
+    "2910",
+    "2912"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "SKA BOSTON SPARTANS won by 10 Wickets",
+   "summary": "GWCA SUPERNOVAS: 66/10(18.1) SKA BOSTON SPARTANS: 67/0(7.1)"
+  },
+  {
+   "matchId": "7785",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7785&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "GWCA STELLARS",
+    "CricOne PROTONS"
+   ],
+   "teamIds": [
+    "2911",
+    "2909"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "CricOne PROTONS won by 8 Wickets",
+   "summary": "GWCA STELLARS: 113/3(24.5) CricOne PROTONS: 114/2(24)"
+  },
+  {
+   "matchId": "7686",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7686&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON SPARTANS",
+    "CricOne PROTONS"
+   ],
+   "teamIds": [
+    "2912",
+    "2909"
+   ],
+   "ground": "JFK Memorial School Franklin MA",
+   "result": "SKA BOSTON SPARTANS won by 108 Runs",
+   "summary": "SKA BOSTON SPARTANS: 197/4(19.4) CricOne PROTONS: 89/9(20)"
+  }
+ ]
+}

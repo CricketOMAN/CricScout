@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s213",
+  "id": "legacy-265",
+  "name": "USAC 2024 U11 Regionals - South East"
+ },
+ "fetchedAt": "2026-11-13T22:36:31.833Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=265&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=265&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4218",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4218&clubId=40319",
+   "date": "2024-11-10",
+   "type": "League",
+   "teams": [
+    "GA U11",
+    "NC Blue U11"
+   ],
+   "teamIds": [
+    "1499",
+    "1497"
+   ],
+   "ground": "Spears YMCA Field# 2",
+   "result": "GA U11 won by 76 Runs",
+   "summary": "GA U11: 168/5(30) NC Blue U11: 92/10(23.3)"
+  },
+  {
+   "matchId": "4217",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4217&clubId=40319",
+   "date": "2024-11-10",
+   "type": "League",
+   "teams": [
+    "NC Red U11",
+    "DC U11"
+   ],
+   "teamIds": [
+    "1496",
+    "1498"
+   ],
+   "ground": "Spears YMCA Field# 1",
+   "result": "DC U11 won by 90 Runs",
+   "summary": "DC U11: 180/7(30) NC Red U11: 90/8(30)"
+  },
+  {
+   "matchId": "4214",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4214&clubId=40319",
+   "date": "2024-11-09",
+   "type": "League",
+   "teams": [
+    "DC U11",
+    "NC Blue U11"
+   ],
+   "teamIds": [
+    "1498",
+    "1497"
+   ],
+   "ground": "Spears YMCA Field# 2",
+   "result": "DC U11 won by 6 Wickets",
+   "summary": "NC Blue U11: 97/9(24.2) DC U11: 101/4(14.1)"
+  },
+  {
+   "matchId": "4213",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4213&clubId=40319",
+   "date": "2024-11-09",
+   "type": "League",
+   "teams": [
+    "GA U11",
+    "NC Red U11"
+   ],
+   "teamIds": [
+    "1499",
+    "1496"
+   ],
+   "ground": "Spears YMCA Field# 1",
+   "result": "GA U11 won by 30 Runs",
+   "summary": "GA U11: 149/8(25) NC Red U11: 119/10(25)"
+  },
+  {
+   "matchId": "4208",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4208&clubId=40319",
+   "date": "2024-11-09",
+   "type": "League",
+   "teams": [
+    "NC Red U11",
+    "NC Blue U11"
+   ],
+   "teamIds": [
+    "1496",
+    "1497"
+   ],
+   "ground": "Spears YMCA Field# 1",
+   "result": "NC Red U11 won by 6 Wickets",
+   "summary": "NC Blue U11: 164/7(25) NC Red U11: 165/4(22)"
+  },
+  {
+   "matchId": "4207",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4207&clubId=40319",
+   "date": "2024-11-09",
+   "type": "League",
+   "teams": [
+    "GA U11",
+    "DC U11"
+   ],
+   "teamIds": [
+    "1499",
+    "1498"
+   ],
+   "ground": "Spears YMCA Field# 2",
+   "result": "DC U11 won by 95 Runs",
+   "summary": "DC U11: 220/4(25) GA U11: 125/5(25)"
+  }
+ ]
+}

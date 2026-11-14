@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s305",
+  "id": "legacy-116",
+  "name": "USAC JR Zonal 2023 - West U17"
+ },
+ "fetchedAt": "2026-11-13T23:08:23.273Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=116&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=116&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2415",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2415&clubId=40319",
+   "date": "2023-09-17",
+   "type": "Final",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "744",
+    "746"
+   ],
+   "ground": "Davis",
+   "result": "Team Blue won by 129 Runs",
+   "summary": "Team Blue: 231/8(45) Team Yellow: 102/10(35.2)"
+  },
+  {
+   "matchId": "2414",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2414&clubId=40319",
+   "date": "2023-09-17",
+   "type": "3rd Position",
+   "teams": [
+    "Team Red",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "743",
+    "745"
+   ],
+   "ground": "FSP",
+   "result": "Team Red won by 8 Wickets",
+   "summary": "Team Orange: 96/10(31) Team Red: 97/2(22)"
+  },
+  {
+   "matchId": "2405",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2405&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "744",
+    "745"
+   ],
+   "ground": "FSP",
+   "result": "Team Blue won by 62 Runs",
+   "summary": "Team Blue: 192/8(50) Team Orange: 130/10(28.2)"
+  },
+  {
+   "matchId": "2404",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2404&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "743",
+    "746"
+   ],
+   "ground": "Davis",
+   "result": "Team Yellow won by 2 Wickets",
+   "summary": "Team Red: 107/10(28.1) Team Yellow: 108/8(23.4)"
+  },
+  {
+   "matchId": "2337",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2337&clubId=40319",
+   "date": "2023-08-20",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Red"
+   ],
+   "teamIds": [
+    "745",
+    "743"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Team Red won by 19 Runs",
+   "summary": "Team Red: 146/10(34.3) Team Orange: 127/10(34.4)"
+  },
+  {
+   "matchId": "2335",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2335&clubId=40319",
+   "date": "2023-08-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "744",
+    "746"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Team Blue won by 59 Runs",
+   "summary": "Team Blue: 232/10(44.3) Team Yellow: 173/10(35.1)"
+  },
+  {
+   "matchId": "2324",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2324&clubId=40319",
+   "date": "2023-08-19",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "744",
+    "743"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Team Blue won by 4 Wickets",
+   "summary": "Team Red: 152/10(44.3) Team Blue: 156/6(34.2)"
+  },
+  {
+   "matchId": "2323",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2323&clubId=40319",
+   "date": "2023-08-19",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "746",
+    "745"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Team Yellow won by 193 Runs",
+   "summary": "Team Yellow: 278/8(50) Team Orange: 85/10(26.4)"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s130",
+  "id": "legacy-421",
+  "name": "USAC 2025 NY Regional U11"
+ },
+ "fetchedAt": "2026-11-13T22:05:45.895Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=421&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=421&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6876",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6876&clubId=40319",
+   "date": "2025-10-25",
+   "type": "League",
+   "teams": [
+    "NE - MA U11",
+    "NY Hub U11"
+   ],
+   "teamIds": [
+    "2538",
+    "2536"
+   ],
+   "ground": "TBD",
+   "result": "NY Hub U11 won by 46 Runs",
+   "summary": "NY Hub U11: 135/8(22) NE - MA U11: 89/10(19.5)"
+  },
+  {
+   "matchId": "6865",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6865&clubId=40319",
+   "date": "2025-10-25",
+   "type": "League",
+   "teams": [
+    "NE - CT U11",
+    "NY Hub U11"
+   ],
+   "teamIds": [
+    "2537",
+    "2536"
+   ],
+   "ground": "TBD",
+   "result": "NY Hub U11 won by 53 Runs",
+   "summary": "NY Hub U11: 137/3(22) NE - CT U11: 84/10(20.5)"
+  },
+  {
+   "matchId": "6859",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6859&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "NE - CT U11",
+    "NE - MA U11"
+   ],
+   "teamIds": [
+    "2537",
+    "2538"
+   ],
+   "ground": "TBD",
+   "result": "NE - MA U11 won by 55 Runs",
+   "summary": "NE - MA U11: 187/3(20) NE - CT U11: 132/9(20)"
+  },
+  {
+   "matchId": "6840",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6840&clubId=40319",
+   "date": "2025-10-19",
+   "type": "League",
+   "teams": [
+    "NE - CT U11",
+    "NE - MA U11"
+   ],
+   "teamIds": [
+    "2537",
+    "2538"
+   ],
+   "ground": "TBD",
+   "result": "NE - MA U11 won by 17 Runs",
+   "summary": "NE - MA U11: 172/6(25) NE - CT U11: 155/8(25)"
+  },
+  {
+   "matchId": "6829",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6829&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "NY Hub U11",
+    "NE - MA U11"
+   ],
+   "teamIds": [
+    "2536",
+    "2538"
+   ],
+   "ground": "TBD",
+   "result": "NY Hub U11 won by 65 Runs",
+   "summary": "NY Hub U11: 167/5(20) NE - MA U11: 102/9(20)"
+  },
+  {
+   "matchId": "6812",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6812&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "NY Hub U11",
+    "NE - CT U11"
+   ],
+   "teamIds": [
+    "2536",
+    "2537"
+   ],
+   "ground": "TBD",
+   "result": "NY Hub U11 won by 6 Runs",
+   "summary": "NY Hub U11: 156/8(25) NE - CT U11: 150/6(25)"
+  }
+ ]
+}

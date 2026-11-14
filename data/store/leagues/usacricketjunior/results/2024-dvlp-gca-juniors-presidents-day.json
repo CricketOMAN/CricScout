@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s280",
+  "id": "legacy-132",
+  "name": "2024 DVLP - GCA Juniors Presidents Day"
+ },
+ "fetchedAt": "2026-11-13T22:57:16.065Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=132&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=132&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2503",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2503&clubId=40319",
+   "date": "2024-02-19",
+   "type": "League",
+   "teams": [
+    "NY Orange",
+    "NJ Red"
+   ],
+   "teamIds": [
+    "845",
+    "843"
+   ],
+   "ground": "ACF - G2",
+   "result": "NJ Red won by 42 Runs",
+   "summary": "NJ Red: 176/6(25) NY Orange: 134/8(25)"
+  },
+  {
+   "matchId": "2501",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2501&clubId=40319",
+   "date": "2024-02-19",
+   "type": "League",
+   "teams": [
+    "GA Greens",
+    "NC Whites"
+   ],
+   "teamIds": [
+    "847",
+    "846"
+   ],
+   "ground": "ACF - G3",
+   "result": "GA Greens won by 7 Wickets",
+   "summary": "NC Whites: 142/8(30) GA Greens: 143/3(28.3)"
+  },
+  {
+   "matchId": "2499",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2499&clubId=40319",
+   "date": "2024-02-18",
+   "type": "League",
+   "teams": [
+    "GA Greens",
+    "NJ Red"
+   ],
+   "teamIds": [
+    "847",
+    "843"
+   ],
+   "ground": "ACF - G3",
+   "result": "NJ Red won by 27 Runs",
+   "summary": "NJ Red: 159/10(29.5) GA Greens: 132/7(30)"
+  },
+  {
+   "matchId": "2498",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2498&clubId=40319",
+   "date": "2024-02-18",
+   "type": "League",
+   "teams": [
+    "NC Whites",
+    "NY Orange"
+   ],
+   "teamIds": [
+    "846",
+    "845"
+   ],
+   "ground": "ACF - G2",
+   "result": "NC Whites won by 50 Runs",
+   "summary": "NC Whites: 178/4(30) NY Orange: 128/8(30)"
+  },
+  {
+   "matchId": "2495",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2495&clubId=40319",
+   "date": "2024-02-17",
+   "type": "League",
+   "teams": [
+    "GA Greens",
+    "NY Orange"
+   ],
+   "teamIds": [
+    "847",
+    "845"
+   ],
+   "ground": "ACF - G2",
+   "result": "GA Greens won by 10 Wickets",
+   "summary": "NY Orange: 60/10(17) GA Greens: 61/0(7.3)"
+  },
+  {
+   "matchId": "2494",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2494&clubId=40319",
+   "date": "2024-02-17",
+   "type": "League",
+   "teams": [
+    "NC Whites",
+    "NJ Red"
+   ],
+   "teamIds": [
+    "846",
+    "843"
+   ],
+   "ground": "ACF - G3",
+   "result": "NC Whites won by 9 Runs",
+   "summary": "NC Whites: 130/7(30) NJ Red: 121/10(29)"
+  }
+ ]
+}

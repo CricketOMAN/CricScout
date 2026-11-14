@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s129",
+  "id": "legacy-422",
+  "name": "EMW MYCL FALL CUP 2025"
+ },
+ "fetchedAt": "2026-11-13T22:05:45.016Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=422&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=422&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6830",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6830&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "MYCA U13 Lions"
+   ],
+   "teamIds": [
+    "2539",
+    "2540"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "MYCA U13 Lions won by 1 Run",
+   "summary": "MYCA U13 Lions: 137/6(18) ICY U13: 136/5(18)"
+  },
+  {
+   "matchId": "6826",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6826&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "2539",
+    "2541"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "ICY U13 won by 5 Wickets",
+   "summary": "Prime U13: 103/8(20) ICY U13: 104/5(17.1)"
+  },
+  {
+   "matchId": "6805",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6805&clubId=40319",
+   "date": "2025-10-18",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "2540",
+    "2541"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "MYCA U13 Lions won by 4 Wickets",
+   "summary": "Prime U13: 91/7(20) MYCA U13 Lions: 92/6(19.2)"
+  },
+  {
+   "matchId": "6802",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6802&clubId=40319",
+   "date": "2025-10-17",
+   "type": "League",
+   "teams": [
+    "MYCA U13 Lions",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "2540",
+    "2541"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "MYCA U13 Lions won by 8 Wickets",
+   "summary": "Prime U13: 96/10(17.3) MYCA U13 Lions: 98/2(14.4)"
+  },
+  {
+   "matchId": "6801",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6801&clubId=40319",
+   "date": "2025-10-17",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "Prime U13"
+   ],
+   "teamIds": [
+    "2539",
+    "2541"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "ICY U13 won by 24 Runs",
+   "summary": "ICY U13: 116/6(20) Prime U13: 92/9(20)"
+  },
+  {
+   "matchId": "6800",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6800&clubId=40319",
+   "date": "2025-10-17",
+   "type": "League",
+   "teams": [
+    "ICY U13",
+    "MYCA U13 Lions"
+   ],
+   "teamIds": [
+    "2539",
+    "2540"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "MYCA U13 Lions won by 6 Runs",
+   "summary": "MYCA U13 Lions: 167/3(20) ICY U13: 161/6(20)"
+  }
+ ]
+}

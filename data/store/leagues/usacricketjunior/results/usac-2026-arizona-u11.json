@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s94",
+  "id": "legacy-483",
+  "name": "USAC 2026 - Arizona - U11"
+ },
+ "fetchedAt": "2026-11-13T21:49:43.724Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=483&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=483&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "7380",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7380&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "SKA U11",
+    "ANYCA U11"
+   ],
+   "teamIds": [
+    "2821",
+    "2820"
+   ],
+   "ground": "Chuparosa Park",
+   "result": "ANYCA U11 won by 45 Runs (D/L)",
+   "summary": "ANYCA U11: 145/7(22) SKA U11: 204/5(21)"
+  },
+  {
+   "matchId": "7295",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7295&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "ANYCA U11",
+    "AZYCA U11"
+   ],
+   "teamIds": [
+    "2820",
+    "2819"
+   ],
+   "ground": "Turtle Rock 1",
+   "result": "AZYCA U11 won by 35 Runs (D/L)",
+   "summary": "AZYCA U11: 110/8(20) ANYCA U11: 144/6(20)"
+  },
+  {
+   "matchId": "7259",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7259&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "AZYCA U11",
+    "ANYCA U11"
+   ],
+   "teamIds": [
+    "2819",
+    "2820"
+   ],
+   "ground": "Chuparosa Park",
+   "result": "ANYCA U11 won by 67 Runs",
+   "summary": "ANYCA U11: 197/9(20) AZYCA U11: 130/6(20)"
+  },
+  {
+   "matchId": "7224",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7224&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "SKA U11",
+    "AZYCA U11"
+   ],
+   "teamIds": [
+    "2821",
+    "2819"
+   ],
+   "ground": "Chuparosa Park",
+   "result": "AZYCA U11 won by -1 Runs (D/L)",
+   "summary": "AZYCA U11: 87/3(20) SKA U11: 200/1(19.4)"
+  },
+  {
+   "matchId": "7185",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7185&clubId=40319",
+   "date": "2026-04-05",
+   "type": "League",
+   "teams": [
+    "ANYCA U11",
+    "SKA U11"
+   ],
+   "teamIds": [
+    "2820",
+    "2821"
+   ],
+   "ground": "Grovers Basin Park",
+   "result": "ANYCA U11 won by 51 Runs (D/L)",
+   "summary": "ANYCA U11: 123/5(22) SKA U11: 198/4(22)"
+  },
+  {
+   "matchId": "7161",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7161&clubId=40319",
+   "date": "2026-04-04",
+   "type": "League",
+   "teams": [
+    "AZYCA U11",
+    "SKA U11"
+   ],
+   "teamIds": [
+    "2819",
+    "2821"
+   ],
+   "ground": "Tumbleweed Park - field #3",
+   "result": "AZYCA U11 won by 188 Runs (D/L)",
+   "summary": "AZYCA U11: 88/9(19.5) SKA U11: 211/5(20)"
+  }
+ ]
+}

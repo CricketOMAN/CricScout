@@ -1,0 +1,456 @@
+{
+ "season": {
+  "key": "s172",
+  "id": "legacy-341",
+  "name": "2025 USAC Illinois Hub U11"
+ },
+ "fetchedAt": "2026-11-13T22:18:18.568Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=341&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=341&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5723",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5723&clubId=40319",
+   "date": "2025-06-15",
+   "type": "Final",
+   "teams": [
+    "CYCA Cubs - A",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "2025",
+    "2026"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - A won by 9 Wickets",
+   "summary": "BPL Rising Stars: 93/10(29.4) CYCA Cubs - A: 94/1(11.1)"
+  },
+  {
+   "matchId": "5720",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5720&clubId=40319",
+   "date": "2025-06-15",
+   "type": "3rd Position",
+   "teams": [
+    "CMCE Falcons",
+    "Group 2 Team"
+   ],
+   "teamIds": [
+    "2024",
+    "2031"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Falcons won by 10 Wickets",
+   "summary": "Group 2 Team: 56/11(28.3) CMCE Falcons: 57/0(8.1)"
+  },
+  {
+   "matchId": "5690",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5690&clubId=40319",
+   "date": "2025-06-14",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "CYCA Cubs - A"
+   ],
+   "teamIds": [
+    "2031",
+    "2025"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - A won by 9 Wickets",
+   "summary": "Group 2 Team: 75/10(24.4) CYCA Cubs - A: 76/1(10.2)"
+  },
+  {
+   "matchId": "5663",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5663&clubId=40319",
+   "date": "2025-06-14",
+   "type": "Super League",
+   "teams": [
+    "CMCE Falcons",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "2024",
+    "2026"
+   ],
+   "ground": "NKPRK",
+   "result": "BPL Rising Stars won by 4 Wickets",
+   "summary": "CMCE Falcons: 109/10(30) BPL Rising Stars: 110/6(27.5)"
+  },
+  {
+   "matchId": "5648",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5648&clubId=40319",
+   "date": "2025-06-13",
+   "type": "Super League",
+   "teams": [
+    "BPL Rising Stars",
+    "CYCA Cubs - A"
+   ],
+   "teamIds": [
+    "2026",
+    "2025"
+   ],
+   "ground": "South Barrington",
+   "result": "CYCA Cubs - A won by 67 Runs",
+   "summary": "CYCA Cubs - A: 140/6(25) BPL Rising Stars: 73/9(18.1)"
+  },
+  {
+   "matchId": "5647",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5647&clubId=40319",
+   "date": "2025-06-13",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "2031",
+    "2024"
+   ],
+   "ground": "BLSTRD",
+   "result": "CMCE Falcons won by 112 Runs",
+   "summary": "CMCE Falcons: 150/5(30) Group 2 Team: 38/10(23.5)"
+  },
+  {
+   "matchId": "5638",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5638&clubId=40319",
+   "date": "2025-06-12",
+   "type": "Super League",
+   "teams": [
+    "Group 2 Team",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "2031",
+    "2026"
+   ],
+   "ground": "BLSTRD",
+   "result": "BPL Rising Stars won by 83 Runs",
+   "summary": "BPL Rising Stars: 146/7(30) Group 2 Team: 63/10(22.5)"
+  },
+  {
+   "matchId": "5635",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5635&clubId=40319",
+   "date": "2025-06-12",
+   "type": "Super League",
+   "teams": [
+    "CMCE Falcons",
+    "CYCA Cubs - A"
+   ],
+   "teamIds": [
+    "2024",
+    "2025"
+   ],
+   "ground": "South Barrington",
+   "result": "CYCA Cubs - A won by 43 Runs",
+   "summary": "CYCA Cubs - A: 113/10(26.4) CMCE Falcons: 70/8(20)"
+  },
+  {
+   "matchId": "5610",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5610&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - B",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "2029",
+    "2028"
+   ],
+   "ground": "BPL",
+   "result": "Abandoned.",
+   "summary": "CMCE Dragons: 83/6(30) CYCA Cubs - B: 6/1(2)"
+  },
+  {
+   "matchId": "5569",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5569&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - A",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "2025",
+    "2024"
+   ],
+   "ground": "BPL",
+   "result": "CMCE Falcons won by 44 Runs",
+   "summary": "CMCE Falcons: 96/6(27) CYCA Cubs - A: 52/10(20.5)"
+  },
+  {
+   "matchId": "5558",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5558&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "CMCE Dragons",
+    "Chicago U11"
+   ],
+   "teamIds": [
+    "2028",
+    "2027"
+   ],
+   "ground": "BPL",
+   "result": "CMCE Dragons won by 2 Wickets",
+   "summary": "Chicago U11: 121/9(25) CMCE Dragons: 122/8(22.2)"
+  },
+  {
+   "matchId": "5512",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5512&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "BPL Rising Stars",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "2026",
+    "2024"
+   ],
+   "ground": "Nike Park",
+   "result": "BPL Rising Stars won by 6 Wickets",
+   "summary": "CMCE Falcons: 76/10(28) BPL Rising Stars: 80/4(24.3)"
+  },
+  {
+   "matchId": "5487",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5487&clubId=40319",
+   "date": "2025-06-06",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - B",
+    "Chicago U11"
+   ],
+   "teamIds": [
+    "2029",
+    "2027"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - B won by 126 Runs",
+   "summary": "CYCA Cubs - B: 193/7(30) Chicago U11: 67/10(27.2)"
+  },
+  {
+   "matchId": "5486",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5486&clubId=40319",
+   "date": "2025-06-06",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - A",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "2025",
+    "2026"
+   ],
+   "ground": "Nike Park",
+   "result": "CYCA Cubs - A won by 87 Runs",
+   "summary": "CYCA Cubs - A: 141/10(28) BPL Rising Stars: 54/9(17)"
+  },
+  {
+   "matchId": "5483",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5483&clubId=40319",
+   "date": "2025-06-05",
+   "type": "League",
+   "teams": [
+    "CMCE Falcons",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "2024",
+    "2026"
+   ],
+   "ground": "Nike Park",
+   "result": "BPL Rising Stars won by 2 Wickets",
+   "summary": "CMCE Falcons: 78/9(25) BPL Rising Stars: 79/8(22.1)"
+  },
+  {
+   "matchId": "5471",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5471&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - A",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "2025",
+    "2026"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - A won by 93 Runs",
+   "summary": "CYCA Cubs - A: 185/7(30) BPL Rising Stars: 92/8(25.5)"
+  },
+  {
+   "matchId": "5448",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5448&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - B",
+    "Chicago U11"
+   ],
+   "teamIds": [
+    "2029",
+    "2027"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - B won by 141 Runs",
+   "summary": "CYCA Cubs - B: 183/4(30) Chicago U11: 42/10(21)"
+  },
+  {
+   "matchId": "5391",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5391&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - A",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "2025",
+    "2024"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - A won by 24 Runs",
+   "summary": "CYCA Cubs - A: 204/8(29.5) CMCE Falcons: 180/5(30)"
+  },
+  {
+   "matchId": "5362",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5362&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - B",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "2029",
+    "2028"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - B won by 50 Runs",
+   "summary": "CYCA Cubs - B: 170/8(30) CMCE Dragons: 120/7(29.4)"
+  },
+  {
+   "matchId": "5329",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5329&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - A",
+    "BPL Rising Stars"
+   ],
+   "teamIds": [
+    "2025",
+    "2026"
+   ],
+   "ground": "DEEPRK",
+   "result": "BPL Rising Stars won by 8 Wickets",
+   "summary": "CYCA Cubs - A: 146/10(23) BPL Rising Stars: 147/2(22.3)"
+  },
+  {
+   "matchId": "5288",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5288&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "CMCE Dragons",
+    "Chicago U11"
+   ],
+   "teamIds": [
+    "2028",
+    "2027"
+   ],
+   "ground": "DEEPRK",
+   "result": "CMCE Dragons won by 3 Wickets",
+   "summary": "Chicago U11: 102/7(27.1) CMCE Dragons: 104/7(26.5)"
+  },
+  {
+   "matchId": "5242",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5242&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - B",
+    "Chicago U11"
+   ],
+   "teamIds": [
+    "2029",
+    "2027"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - B won by 5 Wickets",
+   "summary": "Chicago U11: 111/10(25.5) CYCA Cubs - B: 112/5(15.2)"
+  },
+  {
+   "matchId": "5142",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5142&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "CMCE Dragons",
+    "CYCA Cubs - B"
+   ],
+   "teamIds": [
+    "2028",
+    "2029"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - B won by 63 Runs",
+   "summary": "CYCA Cubs - B: 156/9(30) CMCE Dragons: 93/10(23.2)"
+  },
+  {
+   "matchId": "5099",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5099&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs - A",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "2025",
+    "2024"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs - A won by 8 Wickets",
+   "summary": "CMCE Falcons: 105/10(29.4) CYCA Cubs - A: 106/2(14.3)"
+  },
+  {
+   "matchId": "5042",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5042&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "CMCE Dragons",
+    "Chicago U11"
+   ],
+   "teamIds": [
+    "2028",
+    "2027"
+   ],
+   "ground": "DEEPRK",
+   "result": "Chicago U11 won by 4 Wickets",
+   "summary": "CMCE Dragons: 88/9(23.4) Chicago U11: 89/6(27)"
+  },
+  {
+   "matchId": "5001",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5001&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "BPL Rising Stars",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "2026",
+    "2024"
+   ],
+   "ground": "Nike Park",
+   "result": "CMCE Falcons won by 14 Runs",
+   "summary": "CMCE Falcons: 114/4(30) BPL Rising Stars: 100/7(29)"
+  }
+ ]
+}

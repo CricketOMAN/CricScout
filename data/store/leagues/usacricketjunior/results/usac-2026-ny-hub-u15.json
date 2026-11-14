@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s85",
+  "id": "legacy-492",
+  "name": "USAC 2026 NY Hub U15"
+ },
+ "fetchedAt": "2026-11-13T21:47:32.027Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=492&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=492&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9803",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9803&clubId=40319",
+   "date": "2026-10-25",
+   "type": "Practice",
+   "teams": [
+    "QUCA U15",
+    "Staten Island CC Varsity"
+   ],
+   "teamIds": [
+    "2903",
+    "3518"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U15 won by 75 Runs",
+   "summary": "QUCA U15: 204/1(30) Staten Island CC Varsity: 129/10(30)"
+  },
+  {
+   "matchId": "9734",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9734&clubId=40319",
+   "date": "2026-10-18",
+   "type": "Practice",
+   "teams": [
+    "QUCA U15",
+    "Staten Island CC Varsity"
+   ],
+   "teamIds": [
+    "2903",
+    "3518"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U15 won by 126 Runs",
+   "summary": "QUCA U15: 188/6(30) Staten Island CC Varsity: 62/10(21)"
+  },
+  {
+   "matchId": "9345",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9345&clubId=40319",
+   "date": "2026-08-15",
+   "type": "Practice",
+   "teams": [
+    "QUCA U15",
+    "Staten Island CC Varsity"
+   ],
+   "teamIds": [
+    "2903",
+    "3518"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U15 won by 179 Runs",
+   "summary": "QUCA U15: 250/3(30) Staten Island CC Varsity: 71/10(15.1)"
+  },
+  {
+   "matchId": "8712",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8712&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "QUCA U15",
+    "ICUSA - U15 - Black Mambas"
+   ],
+   "teamIds": [
+    "2903",
+    "2904"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U15 won by 60 Runs",
+   "summary": "QUCA U15: 234/7(33) ICUSA - U15 - Black Mambas: 174/7(33)"
+  },
+  {
+   "matchId": "8569",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8569&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "NJYCA - Quantum - U15",
+    "QUCA U15"
+   ],
+   "teamIds": [
+    "2905",
+    "2903"
+   ],
+   "ground": "TBD",
+   "result": "NJYCA - Quantum - U15 won by 6 Wickets",
+   "summary": "QUCA U15: 179/8(33.1) NJYCA - Quantum - U15: 180/4(32.2)"
+  },
+  {
+   "matchId": "8412",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8412&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "NJYCA - Quantum - U15",
+    "ICUSA - U15 - Black Mambas"
+   ],
+   "teamIds": [
+    "2905",
+    "2904"
+   ],
+   "ground": "NJYCA",
+   "result": "NJYCA - Quantum - U15 won by 69 Runs",
+   "summary": "NJYCA - Quantum - U15: 131/8(35) ICUSA - U15 - Black Mambas: 62/10(21.2)"
+  },
+  {
+   "matchId": "8161",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8161&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "QUCA U15",
+    "ICUSA - U15 - Black Mambas"
+   ],
+   "teamIds": [
+    "2903",
+    "2904"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U15 won by 10 Wickets",
+   "summary": "ICUSA - U15 - Black Mambas: 103/9(31.4) QUCA U15: 107/0(16)"
+  },
+  {
+   "matchId": "7980",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7980&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "NJYCA - Quantum - U15",
+    "ICUSA - U15 - Black Mambas"
+   ],
+   "teamIds": [
+    "2905",
+    "2904"
+   ],
+   "ground": "NJYCA",
+   "result": "NJYCA - Quantum - U15 won by 123 Runs",
+   "summary": "NJYCA - Quantum - U15: 178/10(36) ICUSA - U15 - Black Mambas: 55/10(20.4)"
+  },
+  {
+   "matchId": "7784",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7784&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "NJYCA - Quantum - U15",
+    "QUCA U15"
+   ],
+   "teamIds": [
+    "2905",
+    "2903"
+   ],
+   "ground": "NJYCA",
+   "result": "NJYCA - Quantum - U15 won by 5 Wickets",
+   "summary": "QUCA U15: 134/11(31.1) NJYCA - Quantum - U15: 135/5(32.3)"
+  },
+  {
+   "matchId": "7570",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7570&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "QUCA U15",
+    "NJYCA - Quantum - U15"
+   ],
+   "teamIds": [
+    "2903",
+    "2905"
+   ],
+   "ground": "NJYCA",
+   "result": "QUCA U15 won by 6 Wickets",
+   "summary": "NJYCA - Quantum - U15: 173/10(34.3) QUCA U15: 174/4(33.2)"
+  },
+  {
+   "matchId": "8617",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8617&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "NJYCA - Quantum - U15",
+    "ICUSA - U15 - Black Mambas"
+   ],
+   "teamIds": [
+    "2905",
+    "2904"
+   ],
+   "ground": null,
+   "result": "Abandoned.",
+   "summary": "NJYCA - Quantum - U15: 0/0(0)"
+  }
+ ]
+}

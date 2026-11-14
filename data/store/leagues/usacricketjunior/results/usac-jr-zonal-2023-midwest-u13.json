@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s299",
+  "id": "legacy-121",
+  "name": "USAC JR Zonal 2023 - Midwest U13"
+ },
+ "fetchedAt": "2026-11-13T23:05:33.390Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=121&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=121&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2446",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2446&clubId=40319",
+   "date": "2023-09-24",
+   "type": "Final",
+   "teams": [
+    "St Louis",
+    "Chicago"
+   ],
+   "teamIds": [
+    "830",
+    "827"
+   ],
+   "ground": "BLSTRD",
+   "result": "Chicago won by 77 Runs",
+   "summary": "Chicago: 178/4(30) St Louis: 101/10(28.4)"
+  },
+  {
+   "matchId": "2440",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2440&clubId=40319",
+   "date": "2023-09-24",
+   "type": "3rd Position",
+   "teams": [
+    "WIM(WI-IA-MN)",
+    "East MW(OH-MI-IN)"
+   ],
+   "teamIds": [
+    "828",
+    "829"
+   ],
+   "ground": "Lake in the Hills",
+   "result": "East MW(OH-MI-IN) won by 36 Runs",
+   "summary": "East MW(OH-MI-IN): 137/8(30) WIM(WI-IA-MN): 101/10(28)"
+  },
+  {
+   "matchId": "2438",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2438&clubId=40319",
+   "date": "2023-09-24",
+   "type": "League",
+   "teams": [
+    "Chicago",
+    "St Louis"
+   ],
+   "teamIds": [
+    "827",
+    "830"
+   ],
+   "ground": "BLSTRD",
+   "result": "Chicago won by 8 Wickets",
+   "summary": "St Louis: 85/10(20) Chicago: 86/2(13.5)"
+  },
+  {
+   "matchId": "2433",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2433&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "East MW(OH-MI-IN)",
+    "Chicago"
+   ],
+   "teamIds": [
+    "829",
+    "827"
+   ],
+   "ground": "Lake in the Hills",
+   "result": "Chicago won by 6 Wickets",
+   "summary": "East MW(OH-MI-IN): 82/10(29.2) Chicago: 83/4(22.5)"
+  },
+  {
+   "matchId": "2432",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2432&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "WIM(WI-IA-MN)",
+    "St Louis"
+   ],
+   "teamIds": [
+    "828",
+    "830"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "St Louis won by 27 Runs",
+   "summary": "St Louis: 90/10(25) WIM(WI-IA-MN): 63/10(22.5)"
+  },
+  {
+   "matchId": "2424",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2424&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "WIM(WI-IA-MN)",
+    "East MW(OH-MI-IN)"
+   ],
+   "teamIds": [
+    "828",
+    "829"
+   ],
+   "ground": "Lake in the Hills",
+   "result": "East MW(OH-MI-IN) won by 46 Runs",
+   "summary": "East MW(OH-MI-IN): 104/5(20) WIM(WI-IA-MN): 58/10(17)"
+  },
+  {
+   "matchId": "2408",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2408&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "WIM(WI-IA-MN)",
+    "Chicago"
+   ],
+   "teamIds": [
+    "828",
+    "827"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "Chicago won by 77 Runs",
+   "summary": "Chicago: 141/5(30) WIM(WI-IA-MN): 64/10(27.4)"
+  },
+  {
+   "matchId": "2407",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2407&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "East MW(OH-MI-IN)",
+    "St Louis"
+   ],
+   "teamIds": [
+    "829",
+    "830"
+   ],
+   "ground": "Northwest Community Park Plainfield",
+   "result": "St Louis won by 30 Runs",
+   "summary": "St Louis: 156/9(30) East MW(OH-MI-IN): 126/9(30)"
+  }
+ ]
+}

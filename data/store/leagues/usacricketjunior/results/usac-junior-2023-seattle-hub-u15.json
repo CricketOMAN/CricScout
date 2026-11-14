@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s373",
+  "id": "legacy-18",
+  "name": "USAC Junior 2023 - Seattle Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:18:31.295Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=18&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=18&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1808",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1808&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Red"
+   ],
+   "teamIds": [
+    "595",
+    "594"
+   ],
+   "ground": "Marymoor Park",
+   "result": "Team Red won by 20 Runs",
+   "summary": "Team Red: 142/4(30) Team Yellow: 122/11(28.5)"
+  },
+  {
+   "matchId": "1807",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1807&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "597",
+    "596"
+   ],
+   "ground": "Perrigo 1",
+   "result": "Team Green won by 20 Runs",
+   "summary": "Team Green: 159/9(30) Team Blue: 139/12(28.3)"
+  },
+  {
+   "matchId": "1759",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1759&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "596",
+    "594"
+   ],
+   "ground": "Perrigo 1",
+   "result": "Team Blue won by 7 Runs",
+   "summary": "Team Blue: 145/9(25) Team Red: 138/8(25)"
+  },
+  {
+   "matchId": "1758",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1758&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "597",
+    "595"
+   ],
+   "ground": "Marymoor Ballfield #2 (Marymoor Soccer 6)",
+   "result": "Team Green won by 2 Wickets",
+   "summary": "Team Yellow: 153/6(28) Team Green: 157/8(27)"
+  },
+  {
+   "matchId": "1700",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1700&clubId=40319",
+   "date": "2023-06-09",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "594",
+    "595"
+   ],
+   "ground": "North Robinswood Park",
+   "result": "Team Red: 2/0 (0/25 ov)",
+   "summary": "Team Red: 2/0(0) Live"
+  },
+  {
+   "matchId": "1666",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1666&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "597",
+    "594"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Team Green won by 60 Runs",
+   "summary": "Team Green: 158/10(30) Team Red: 98/10(22.5)"
+  },
+  {
+   "matchId": "1663",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1663&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "595",
+    "596"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Team Yellow won by 27 Runs",
+   "summary": "Team Yellow: 138/5(30) Team Blue: 111/12(27.2)"
+  },
+  {
+   "matchId": "1616",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1616&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "596",
+    "597"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Team Blue won by 4 Wickets",
+   "summary": "Team Green: 138/7(30) Team Blue: 139/6(29.5)"
+  }
+ ]
+}

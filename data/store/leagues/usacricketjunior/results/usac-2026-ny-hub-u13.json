@@ -1,0 +1,184 @@
+{
+ "season": {
+  "key": "s84",
+  "id": "legacy-493",
+  "name": "USAC 2026 NY Hub U13"
+ },
+ "fetchedAt": "2026-11-13T21:47:30.939Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=493&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=493&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9349",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9349&clubId=40319",
+   "date": "2026-08-16",
+   "type": "Practice",
+   "teams": [
+    "QUCA U13",
+    "Staten Island Cricket club"
+   ],
+   "teamIds": [
+    "2907",
+    "3517"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U13 won by 3 Runs",
+   "summary": "QUCA U13: 165/9(30) Staten Island Cricket club: 162/3(30)"
+  },
+  {
+   "matchId": "9333",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9333&clubId=40319",
+   "date": "2026-08-09",
+   "type": "Practice",
+   "teams": [
+    "QUCA U13",
+    "Staten Island Cricket club"
+   ],
+   "teamIds": [
+    "2907",
+    "3517"
+   ],
+   "ground": "TBD",
+   "result": "QUCA U13 won by 33 Runs",
+   "summary": "QUCA U13: 135/7(30) Staten Island Cricket club: 102/9(27.4)"
+  },
+  {
+   "matchId": "8659",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8659&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "ICUSA - U13 - Sons of Liberty",
+    "QUCA U13"
+   ],
+   "teamIds": [
+    "2908",
+    "2907"
+   ],
+   "ground": "TBD",
+   "result": "ICUSA - U13 - Sons of Liberty won by 34 Runs",
+   "summary": "ICUSA - U13 - Sons of Liberty: 160/5(30) QUCA U13: 126/9(30)"
+  },
+  {
+   "matchId": "8496",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8496&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "NJYCA - Celestials - U13",
+    "QUCA U13"
+   ],
+   "teamIds": [
+    "2906",
+    "2907"
+   ],
+   "ground": "TBD",
+   "result": "NJYCA - Celestials - U13 won by 179 Runs",
+   "summary": "NJYCA - Celestials - U13: 265/2(30) QUCA U13: 86/9(30)"
+  },
+  {
+   "matchId": "8365",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8365&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "NJYCA - Celestials - U13",
+    "ICUSA - U13 - Sons of Liberty"
+   ],
+   "teamIds": [
+    "2906",
+    "2908"
+   ],
+   "ground": "Millridge Field",
+   "result": "NJYCA - Celestials - U13: 254/7 (30/30 ov) ICUSA - U13 - Sons of Liberty: 136/6 (29.3/30 ov)",
+   "summary": "NJYCA - Celestials - U13: 254/7(30) ICUSA - U13 - Sons of Liberty: 136/6(29.3) Live"
+  },
+  {
+   "matchId": "8032",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8032&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "QUCA U13",
+    "ICUSA - U13 - Sons of Liberty"
+   ],
+   "teamIds": [
+    "2907",
+    "2908"
+   ],
+   "ground": "Idlewild",
+   "result": "QUCA U13 won by 18 Runs",
+   "summary": "QUCA U13: 113/10(30) ICUSA - U13 - Sons of Liberty: 95/10(27.2)"
+  },
+  {
+   "matchId": "7837",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7837&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "QUCA U13",
+    "NJYCA - Celestials - U13"
+   ],
+   "teamIds": [
+    "2907",
+    "2906"
+   ],
+   "ground": "Idlewild",
+   "result": "NJYCA - Celestials - U13 won by 161 Runs",
+   "summary": "NJYCA - Celestials - U13: 196/9(30) QUCA U13: 35/6(19)"
+  },
+  {
+   "matchId": "7630",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7630&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "QUCA U13",
+    "NJYCA - Celestials - U13"
+   ],
+   "teamIds": [
+    "2907",
+    "2906"
+   ],
+   "ground": "Idlewild",
+   "result": "NJYCA - Celestials - U13 won by 193 Runs",
+   "summary": "NJYCA - Celestials - U13: 252/2(30) QUCA U13: 59/10(28)"
+  },
+  {
+   "matchId": "8618",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8618&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "QUCA U13",
+    "NJYCA - Celestials - U13"
+   ],
+   "teamIds": [
+    "2907",
+    "2906"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "QUCA U13: 0/0(0)"
+  },
+  {
+   "matchId": "7360",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7360&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "NJYCA - Celestials - U13",
+    "ICUSA - U13 - Sons of Liberty"
+   ],
+   "teamIds": [
+    "2906",
+    "2908"
+   ],
+   "ground": null,
+   "result": "NJYCA - Celestials - U13 won by 165 Runs",
+   "summary": "NJYCA - Celestials - U13: 213/10(28.3) ICUSA - U13 - Sons of Liberty: 48/10(21.4)"
+  }
+ ]
+}

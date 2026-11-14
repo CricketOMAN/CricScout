@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s320",
+  "id": "legacy-50",
+  "name": "USAC Junior 2023 -Austin Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:10:48.129Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=50&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=50&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1947",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1947&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "HCCA Invincibles"
+   ],
+   "teamIds": [
+    "255",
+    "256"
+   ],
+   "ground": "TBD",
+   "result": "HCCA Invincibles won by 10 Wickets",
+   "summary": "Austin Blasters U13: 85/5(20) HCCA Invincibles: 86/0(9.4)"
+  },
+  {
+   "matchId": "1904",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1904&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "HCCA Invincibles"
+   ],
+   "teamIds": [
+    "255",
+    "256"
+   ],
+   "ground": "RRCG",
+   "result": "HCCA Invincibles won by 9 Runs",
+   "summary": "HCCA Invincibles: 137/3(20) Austin Blasters U13: 128/2(20)"
+  },
+  {
+   "matchId": "1760",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1760&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "IPI-Thunder"
+   ],
+   "teamIds": [
+    "255",
+    "254"
+   ],
+   "ground": "RRCG",
+   "result": "IPI-Thunder won by 8 Wickets",
+   "summary": "Austin Blasters U13: 88/10(22) IPI-Thunder: 89/2(15)"
+  },
+  {
+   "matchId": "1485",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1485&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "HCCA Invincibles",
+    "IPI-Thunder"
+   ],
+   "teamIds": [
+    "256",
+    "254"
+   ],
+   "ground": "HUTTO",
+   "result": "HCCA Invincibles won by 8 Wickets",
+   "summary": "IPI-Thunder: 147/3(25) HCCA Invincibles: 151/2(21.3)"
+  },
+  {
+   "matchId": "1280",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1280&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "HCCA Invincibles",
+    "IPI-Thunder"
+   ],
+   "teamIds": [
+    "256",
+    "254"
+   ],
+   "ground": "HUTTO",
+   "result": "HCCA Invincibles won by 22 Runs",
+   "summary": "HCCA Invincibles: 158/8(25) IPI-Thunder: 136/9(25)"
+  },
+  {
+   "matchId": "1218",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1218&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "IPI-Thunder"
+   ],
+   "teamIds": [
+    "255",
+    "254"
+   ],
+   "ground": "RRCG",
+   "result": "IPI-Thunder won by 3 Wickets",
+   "summary": "Austin Blasters U13: 133/9(25) IPI-Thunder: 134/7(22.4)"
+  },
+  {
+   "matchId": "1100",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1100&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U13",
+    "HCCA Invincibles"
+   ],
+   "teamIds": [
+    "255",
+    "256"
+   ],
+   "ground": "RRCG",
+   "result": "HCCA Invincibles won by 7 Wickets",
+   "summary": "Austin Blasters U13: 98/9(25) HCCA Invincibles: 100/3(18.4)"
+  },
+  {
+   "matchId": "1043",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1043&clubId=40319",
+   "date": "2023-04-16",
+   "type": "League",
+   "teams": [
+    "HCCA Invincibles",
+    "IPI-Thunder"
+   ],
+   "teamIds": [
+    "256",
+    "254"
+   ],
+   "ground": "HUTTO",
+   "result": "HCCA Invincibles won by 10 Runs",
+   "summary": "HCCA Invincibles: 204/2(25) IPI-Thunder: 194/5(25)"
+  },
+  {
+   "matchId": "940",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=940&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "IPI-Thunder",
+    "Austin Blasters U13"
+   ],
+   "teamIds": [
+    "254",
+    "255"
+   ],
+   "ground": "RRCG",
+   "result": "IPI-Thunder won by 256 Runs",
+   "summary": "IPI-Thunder: 315/0(25) Austin Blasters U13: 59/10(15.2)"
+  }
+ ]
+}

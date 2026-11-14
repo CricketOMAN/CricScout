@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s34",
+  "id": "legacy-559",
+  "name": "Midwest InterHub U13"
+ },
+ "fetchedAt": "2026-11-13T21:40:57.466Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=559&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=559&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8861",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8861&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "STL+KS HUB U13",
+    "MN+IA HUB U13"
+   ],
+   "teamIds": [
+    "3304",
+    "3305"
+   ],
+   "ground": "South Barrington East Ground",
+   "result": "Abandoned.",
+   "summary": "MN+IA HUB U13: 17/0(3.1)"
+  },
+  {
+   "matchId": "8854",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8854&clubId=40319",
+   "date": "2026-06-24",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U13",
+    "MN+IA HUB U13"
+   ],
+   "teamIds": [
+    "3302",
+    "3305"
+   ],
+   "ground": "South Barrington East Ground",
+   "result": "ILLINOIS HUB 1 U13: 71/5 (21/21 ov) MN+IA HUB U13: 52/0 (9.4/21 ov) (D/L)",
+   "summary": "ILLINOIS HUB 1 U13: 71/5(21) MN+IA HUB U13: 52/0(9.4) Live"
+  },
+  {
+   "matchId": "8853",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8853&clubId=40319",
+   "date": "2026-06-23",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 2 U13",
+    "STL+KS HUB U13"
+   ],
+   "teamIds": [
+    "3303",
+    "3304"
+   ],
+   "ground": "TBD",
+   "result": "STL+KS HUB U13 won by 72 Runs (D/L)",
+   "summary": "STL+KS HUB U13: 96/2(18.3) ILLINOIS HUB 2 U13: 70/5(12)"
+  },
+  {
+   "matchId": "8852",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8852&clubId=40319",
+   "date": "2026-06-23",
+   "type": "League",
+   "teams": [
+    "STL+KS HUB U13",
+    "ILLINOIS HUB 1 U13"
+   ],
+   "teamIds": [
+    "3304",
+    "3302"
+   ],
+   "ground": "TBD",
+   "result": "ILLINOIS HUB 1 U13 won by 55 Runs",
+   "summary": "ILLINOIS HUB 1 U13: 183/3(30) STL+KS HUB U13: 128/7(30)"
+  },
+  {
+   "matchId": "8851",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8851&clubId=40319",
+   "date": "2026-06-23",
+   "type": "League",
+   "teams": [
+    "MN+IA HUB U13",
+    "ILLINOIS HUB 2 U13"
+   ],
+   "teamIds": [
+    "3305",
+    "3303"
+   ],
+   "ground": "South Barrington New Ground",
+   "result": "MN+IA HUB U13 won by 4 Wickets",
+   "summary": "ILLINOIS HUB 2 U13: 140/10(29.4) MN+IA HUB U13: 141/6(29.5)"
+  },
+  {
+   "matchId": "8847",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8847&clubId=40319",
+   "date": "2026-06-23",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U13",
+    "MN+IA HUB U13"
+   ],
+   "teamIds": [
+    "3302",
+    "3305"
+   ],
+   "ground": "South Barrington New Ground",
+   "result": "MN+IA HUB U13 won by 50 Runs",
+   "summary": "MN+IA HUB U13: 173/3(30) ILLINOIS HUB 1 U13: 123/10(29.1)"
+  },
+  {
+   "matchId": "8848",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8848&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 2 U13",
+    "STL+KS HUB U13"
+   ],
+   "teamIds": [
+    "3303",
+    "3304"
+   ],
+   "ground": "South Barrington East Ground",
+   "result": "ILLINOIS HUB 2 U13 won by 141 Runs",
+   "summary": "ILLINOIS HUB 2 U13: 207/5(30) STL+KS HUB U13: 66/10(23)"
+  },
+  {
+   "matchId": "8845",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8845&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "STL+KS HUB U13",
+    "MN+IA HUB U13"
+   ],
+   "teamIds": [
+    "3304",
+    "3305"
+   ],
+   "ground": "South Barrington East Ground",
+   "result": "MN+IA HUB U13 won by 169 Runs",
+   "summary": "MN+IA HUB U13: 206/4(30) STL+KS HUB U13: 37/10(21.2)"
+  },
+  {
+   "matchId": "8844",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8844&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U13",
+    "ILLINOIS HUB 2 U13"
+   ],
+   "teamIds": [
+    "3302",
+    "3303"
+   ],
+   "ground": "South Barrington New Ground",
+   "result": "ILLINOIS HUB 1 U13 won by 2 Runs",
+   "summary": "ILLINOIS HUB 1 U13: 166/3(30) ILLINOIS HUB 2 U13: 164/10(30)"
+  },
+  {
+   "matchId": "8837",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8837&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "ILLINOIS HUB 1 U13",
+    "STL+KS HUB U13"
+   ],
+   "teamIds": [
+    "3302",
+    "3304"
+   ],
+   "ground": "South Barrington New Ground",
+   "result": "ILLINOIS HUB 1 U13 won by 10 Wickets",
+   "summary": "STL+KS HUB U13: 65/9(30) ILLINOIS HUB 1 U13: 70/0(7)"
+  },
+  {
+   "matchId": "8836",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8836&clubId=40319",
+   "date": "2026-06-22",
+   "type": "League",
+   "teams": [
+    "MN+IA HUB U13",
+    "ILLINOIS HUB 2 U13"
+   ],
+   "teamIds": [
+    "3305",
+    "3303"
+   ],
+   "ground": "South Barrington East Ground",
+   "result": "MN+IA HUB U13 won by 5 Wickets",
+   "summary": "ILLINOIS HUB 2 U13: 76/10(23.3) MN+IA HUB U13: 79/5(14.4)"
+  }
+ ]
+}

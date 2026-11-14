@@ -1,0 +1,269 @@
+{
+ "season": {
+  "key": "s14",
+  "id": "legacy-589",
+  "name": "USAC 2026 Mid West Conference U13 Leg 1"
+ },
+ "fetchedAt": "2026-11-13T21:39:59.029Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=589&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=589&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9101",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9101&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "North Central Blasters"
+   ],
+   "teamIds": [
+    "3420",
+    "3423"
+   ],
+   "ground": "LPCL G3",
+   "result": "Abandoned.",
+   "summary": "South Central Supernovas: 0/0(0)"
+  },
+  {
+   "matchId": "9100",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9100&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "South Central Skyfire",
+    "Mid West B"
+   ],
+   "teamIds": [
+    "3421",
+    "3419"
+   ],
+   "ground": "RRCG",
+   "result": "Abandoned.",
+   "summary": "South Central Skyfire: 0/0(0)"
+  },
+  {
+   "matchId": "9092",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9092&clubId=40319",
+   "date": "2026-07-14",
+   "type": "League",
+   "teams": [
+    "North Central Knights",
+    "Mid West A"
+   ],
+   "teamIds": [
+    "3422",
+    "3418"
+   ],
+   "ground": "LPCL G4",
+   "result": "Abandoned.",
+   "summary": "North Central Knights: 7/0(0.5)"
+  },
+  {
+   "matchId": "9087",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9087&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "South Central Skyfire",
+    "North Central Knights"
+   ],
+   "teamIds": [
+    "3421",
+    "3422"
+   ],
+   "ground": "RRCG",
+   "result": "North Central Knights won by 9 Wickets",
+   "summary": "South Central Skyfire: 101/10(28.5) North Central Knights: 102/1(18.3)"
+  },
+  {
+   "matchId": "9073",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9073&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "North Central Blasters",
+    "Mid West A"
+   ],
+   "teamIds": [
+    "3423",
+    "3418"
+   ],
+   "ground": "RRCG",
+   "result": "North Central Blasters won by 9 Runs",
+   "summary": "North Central Blasters: 161/7(30) Mid West A: 152/9(30)"
+  },
+  {
+   "matchId": "9072",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9072&clubId=40319",
+   "date": "2026-07-13",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "Mid West B"
+   ],
+   "teamIds": [
+    "3420",
+    "3419"
+   ],
+   "ground": "LPCL G4",
+   "result": "South Central Supernovas won by 3 Wickets",
+   "summary": "Mid West B: 185/6(30) South Central Supernovas: 187/7(27.3)"
+  },
+  {
+   "matchId": "9068",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9068&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "South Central Skyfire",
+    "North Central Blasters"
+   ],
+   "teamIds": [
+    "3421",
+    "3423"
+   ],
+   "ground": "RRCG",
+   "result": "North Central Blasters won by 46 Runs",
+   "summary": "North Central Blasters: 212/8(30) South Central Skyfire: 166/10(30)"
+  },
+  {
+   "matchId": "9046",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9046&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "North Central Knights",
+    "Mid West B"
+   ],
+   "teamIds": [
+    "3422",
+    "3419"
+   ],
+   "ground": "ACAG",
+   "result": "North Central Knights won by 135 Runs",
+   "summary": "North Central Knights: 201/5(30) Mid West B: 66/10(19.4)"
+  },
+  {
+   "matchId": "9042",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9042&clubId=40319",
+   "date": "2026-07-12",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "Mid West A"
+   ],
+   "teamIds": [
+    "3420",
+    "3418"
+   ],
+   "ground": "RRCG",
+   "result": "South Central Supernovas won by 23 Runs",
+   "summary": "South Central Supernovas: 135/10(29.5) Mid West A: 112/10(27)"
+  },
+  {
+   "matchId": "9032",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9032&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "Mid West B",
+    "North Central Blasters"
+   ],
+   "teamIds": [
+    "3419",
+    "3423"
+   ],
+   "ground": "RRCG",
+   "result": "North Central Blasters won by 75 Runs",
+   "summary": "North Central Blasters: 183/10(30) Mid West B: 108/8(30)"
+  },
+  {
+   "matchId": "9004",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9004&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "North Central Knights"
+   ],
+   "teamIds": [
+    "3420",
+    "3422"
+   ],
+   "ground": "RRCG",
+   "result": "South Central Supernovas won by 28 Runs",
+   "summary": "South Central Supernovas: 174/6(30) North Central Knights: 146/9(30)"
+  },
+  {
+   "matchId": "9000",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9000&clubId=40319",
+   "date": "2026-07-11",
+   "type": "League",
+   "teams": [
+    "South Central Skyfire",
+    "Mid West A"
+   ],
+   "teamIds": [
+    "3421",
+    "3418"
+   ],
+   "ground": "ACAG",
+   "result": "Mid West A won by 46 Runs (D/L)",
+   "summary": "South Central Skyfire: 202/9(30) Mid West A: 146/3(16.3)"
+  },
+  {
+   "matchId": "8993",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8993&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "North Central Knights",
+    "North Central Blasters"
+   ],
+   "teamIds": [
+    "3422",
+    "3423"
+   ],
+   "ground": "RRCG",
+   "result": "North Central Knights won by 17 Runs (D/L)",
+   "summary": "North Central Knights: 139/3(20) North Central Blasters: 136/6(20)"
+  },
+  {
+   "matchId": "8985",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8985&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "South Central Supernovas",
+    "South Central Skyfire"
+   ],
+   "teamIds": [
+    "3420",
+    "3421"
+   ],
+   "ground": "ACAG",
+   "result": "South Central Supernovas won by 113 Runs",
+   "summary": "South Central Supernovas: 329/7(30) South Central Skyfire: 216/8(30)"
+  },
+  {
+   "matchId": "8981",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8981&clubId=40319",
+   "date": "2026-07-10",
+   "type": "League",
+   "teams": [
+    "Mid West A",
+    "Mid West B"
+   ],
+   "teamIds": [
+    "3418",
+    "3419"
+   ],
+   "ground": "RRCG",
+   "result": "Mid West A won by 35 Runs",
+   "summary": "Mid West A: 122/10(25.3) Mid West B: 87/11(21.3)"
+  }
+ ]
+}

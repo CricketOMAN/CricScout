@@ -1,0 +1,354 @@
+{
+ "season": {
+  "key": "s329",
+  "id": "legacy-77",
+  "name": "USAC Junior 2023 -Atlanta Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:10:56.455Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=77&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=77&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2011",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2011&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "MLCA U11 DESTROYERS",
+    "NACA U11 VIKINGS"
+   ],
+   "teamIds": [
+    "468",
+    "470"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "NACA U11 VIKINGS won by 56 Runs",
+   "summary": "NACA U11 VIKINGS: 225/3(30) MLCA U11 DESTROYERS: 169/4(30)"
+  },
+  {
+   "matchId": "2009",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2009&clubId=40319",
+   "date": "2023-07-08",
+   "type": "League",
+   "teams": [
+    "NACA U11 COLTS",
+    "MLCA U11 LIONS"
+   ],
+   "teamIds": [
+    "469",
+    "467"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "MLCA U11 LIONS won by 63 Runs",
+   "summary": "MLCA U11 LIONS: 140/8(30) NACA U11 COLTS: 77/10(14)"
+  },
+  {
+   "matchId": "1868",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1868&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "MLCA U11 LIONS",
+    "Nashville U11 Strikers"
+   ],
+   "teamIds": [
+    "467",
+    "471"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "MLCA U11 LIONS won by 10 Wickets",
+   "summary": "Nashville U11 Strikers: 126/10(29.5) MLCA U11 LIONS: 127/0(16.2)"
+  },
+  {
+   "matchId": "1834",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1834&clubId=40319",
+   "date": "2023-06-17",
+   "type": "League",
+   "teams": [
+    "NACA U11 VIKINGS",
+    "NACA U11 COLTS"
+   ],
+   "teamIds": [
+    "470",
+    "469"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U11 VIKINGS won by 119 Runs",
+   "summary": "NACA U11 VIKINGS: 258/3(30) NACA U11 COLTS: 139/8(20.4)"
+  },
+  {
+   "matchId": "1748",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1748&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "NACA U11 VIKINGS",
+    "Nashville U11 Strikers"
+   ],
+   "teamIds": [
+    "470",
+    "471"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "NACA U11 VIKINGS won by 185 Runs",
+   "summary": "NACA U11 VIKINGS: 263/1(30) Nashville U11 Strikers: 78/7(17.2)"
+  },
+  {
+   "matchId": "1704",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1704&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "MLCA U11 DESTROYERS",
+    "NACA U11 COLTS"
+   ],
+   "teamIds": [
+    "468",
+    "469"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "NACA U11 COLTS won by 8 Wickets",
+   "summary": "MLCA U11 DESTROYERS: 160/8(30) NACA U11 COLTS: 161/2(25.1)"
+  },
+  {
+   "matchId": "1619",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1619&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "MLCA U11 LIONS",
+    "NACA U11 VIKINGS"
+   ],
+   "teamIds": [
+    "467",
+    "470"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "MLCA U11 LIONS won by 10 Wickets",
+   "summary": "NACA U11 VIKINGS: 131/10(22.4) MLCA U11 LIONS: 132/0(14.2)"
+  },
+  {
+   "matchId": "1614",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1614&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Nashville U11 Strikers",
+    "MLCA U11 DESTROYERS"
+   ],
+   "teamIds": [
+    "471",
+    "468"
+   ],
+   "ground": "Whites Creek High School Ground",
+   "result": "MLCA U11 DESTROYERS won by 143 Runs",
+   "summary": "MLCA U11 DESTROYERS: 254/0(30) Nashville U11 Strikers: 111/7(30)"
+  },
+  {
+   "matchId": "1473",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1473&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "NACA U11 COLTS",
+    "Nashville U11 Strikers"
+   ],
+   "teamIds": [
+    "469",
+    "471"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "NACA U11 COLTS won by 9 Wickets",
+   "summary": "Nashville U11 Strikers: 105/9(23.1) NACA U11 COLTS: 106/1(9)"
+  },
+  {
+   "matchId": "1440",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1440&clubId=40319",
+   "date": "2023-05-20",
+   "type": "League",
+   "teams": [
+    "MLCA U11 DESTROYERS",
+    "MLCA U11 LIONS"
+   ],
+   "teamIds": [
+    "468",
+    "467"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "MLCA U11 LIONS won by 21 Runs",
+   "summary": "MLCA U11 LIONS: 147/6(30) MLCA U11 DESTROYERS: 126/7(30)"
+  },
+  {
+   "matchId": "1376",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1376&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "MLCA U11 LIONS",
+    "NACA U11 COLTS"
+   ],
+   "teamIds": [
+    "467",
+    "469"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "MLCA U11 LIONS won by 9 Wickets",
+   "summary": "NACA U11 COLTS: 41/10(16.3) MLCA U11 LIONS: 42/1(8.4)"
+  },
+  {
+   "matchId": "1374",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1374&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "NACA U11 VIKINGS",
+    "MLCA U11 DESTROYERS"
+   ],
+   "teamIds": [
+    "470",
+    "468"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "MLCA U11 DESTROYERS won by 4 Wickets",
+   "summary": "NACA U11 VIKINGS: 136/3(30) MLCA U11 DESTROYERS: 137/6(26.1)"
+  },
+  {
+   "matchId": "1268",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1268&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "Nashville U11 Strikers",
+    "MLCA U11 LIONS"
+   ],
+   "teamIds": [
+    "471",
+    "467"
+   ],
+   "ground": "Goose Creek",
+   "result": "MLCA U11 LIONS won by 102 Runs",
+   "summary": "MLCA U11 LIONS: 226/3(30) Nashville U11 Strikers: 124/9(30)"
+  },
+  {
+   "matchId": "1222",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1222&clubId=40319",
+   "date": "2023-05-06",
+   "type": "League",
+   "teams": [
+    "NACA U11 COLTS",
+    "NACA U11 VIKINGS"
+   ],
+   "teamIds": [
+    "469",
+    "470"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "NACA U11 COLTS won by 3 Wickets",
+   "summary": "NACA U11 VIKINGS: 173/7(30) NACA U11 COLTS: 174/7(25.2)"
+  },
+  {
+   "matchId": "1176",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1176&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "NACA U11 COLTS",
+    "MLCA U11 DESTROYERS"
+   ],
+   "teamIds": [
+    "469",
+    "468"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "MLCA U11 DESTROYERS won by 6 Wickets",
+   "summary": "NACA U11 COLTS: 132/9(26.5) MLCA U11 DESTROYERS: 133/4(20)"
+  },
+  {
+   "matchId": "1170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1170&clubId=40319",
+   "date": "2023-04-29",
+   "type": "League",
+   "teams": [
+    "Nashville U11 Strikers",
+    "NACA U11 VIKINGS"
+   ],
+   "teamIds": [
+    "471",
+    "470"
+   ],
+   "ground": "Whites Creek High School Ground",
+   "result": "NACA U11 VIKINGS won by 8 Wickets",
+   "summary": "Nashville U11 Strikers: 99/7(30) NACA U11 VIKINGS: 101/2(19.1)"
+  },
+  {
+   "matchId": "1090",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1090&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "MLCA U11 DESTROYERS",
+    "Nashville U11 Strikers"
+   ],
+   "teamIds": [
+    "468",
+    "471"
+   ],
+   "ground": "Narsi Farms - Lower",
+   "result": "MLCA U11 DESTROYERS won by 153 Runs",
+   "summary": "MLCA U11 DESTROYERS: 222/6(30) Nashville U11 Strikers: 69/9(18.3)"
+  },
+  {
+   "matchId": "1068",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1068&clubId=40319",
+   "date": "2023-04-22",
+   "type": "League",
+   "teams": [
+    "NACA U11 VIKINGS",
+    "MLCA U11 LIONS"
+   ],
+   "teamIds": [
+    "470",
+    "467"
+   ],
+   "ground": "Narsi Farms - Middle",
+   "result": "MLCA U11 LIONS won by 5 Wickets",
+   "summary": "NACA U11 VIKINGS: 94/3(18) MLCA U11 LIONS: 95/5(15)"
+  },
+  {
+   "matchId": "1008",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1008&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "MLCA U11 LIONS",
+    "MLCA U11 DESTROYERS"
+   ],
+   "teamIds": [
+    "467",
+    "468"
+   ],
+   "ground": "Narsi Farms - Upper",
+   "result": "MLCA U11 DESTROYERS won by 10 Wickets",
+   "summary": "MLCA U11 LIONS: 135/9(30) MLCA U11 DESTROYERS: 136/0(19.4)"
+  },
+  {
+   "matchId": "1001",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1001&clubId=40319",
+   "date": "2023-04-15",
+   "type": "League",
+   "teams": [
+    "Nashville U11 Strikers",
+    "NACA U11 COLTS"
+   ],
+   "teamIds": [
+    "471",
+    "469"
+   ],
+   "ground": "Whites Creek High School Ground",
+   "result": "NACA U11 COLTS won by 10 Wickets",
+   "summary": "Nashville U11 Strikers: 118/10(29.2) NACA U11 COLTS: 119/0(8.4)"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s330",
+  "id": "legacy-76",
+  "name": "USAC Junior 2023 -Morrisville Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:10:57.299Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=76&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=76&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2073",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2073&clubId=40319",
+   "date": "2023-07-16",
+   "type": "League",
+   "teams": [
+    "The NC Windsors",
+    "The NC Providence"
+   ],
+   "teamIds": [
+    "572",
+    "571"
+   ],
+   "ground": "NC Hub - FVAA Lower",
+   "result": "The NC Windsors won by 6 Wickets",
+   "summary": "The NC Providence: 171/6(40) The NC Windsors: 177/4(37.5)"
+  },
+  {
+   "matchId": "1968",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1968&clubId=40319",
+   "date": "2023-07-06",
+   "type": "League",
+   "teams": [
+    "The NC Windsors",
+    "The NC Providence"
+   ],
+   "teamIds": [
+    "572",
+    "571"
+   ],
+   "ground": "NC Hub - FVAA Upper",
+   "result": "The NC Windsors won by 6 Wickets",
+   "summary": "The NC Providence: 166/10(37.2) The NC Windsors: 170/4(34.2)"
+  },
+  {
+   "matchId": "1965",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1965&clubId=40319",
+   "date": "2023-07-04",
+   "type": "League",
+   "teams": [
+    "The NC Providence",
+    "The NC Windsors"
+   ],
+   "teamIds": [
+    "571",
+    "572"
+   ],
+   "ground": "NC Hub - FVAA Upper",
+   "result": "The NC Providence won by 7 Runs",
+   "summary": "The NC Providence: 176/10(39.2) The NC Windsors: 169/10(39.4)"
+  },
+  {
+   "matchId": "1959",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1959&clubId=40319",
+   "date": "2023-07-02",
+   "type": "League",
+   "teams": [
+    "The NC Providence",
+    "The NC Windsors"
+   ],
+   "teamIds": [
+    "571",
+    "572"
+   ],
+   "ground": "NC Hub - FVAA Upper",
+   "result": "The NC Providence won by 2 Wickets",
+   "summary": "The NC Windsors: 216/7(39.2) The NC Providence: 217/8(39.2)"
+  },
+  {
+   "matchId": "1885",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1885&clubId=40319",
+   "date": "2023-06-18",
+   "type": "League",
+   "teams": [
+    "The NC Windsors",
+    "The NC Providence"
+   ],
+   "teamIds": [
+    "572",
+    "571"
+   ],
+   "ground": "NCHub - VP #1",
+   "result": "The NC Providence won by 8 Runs",
+   "summary": "The NC Providence: 175/7(40) The NC Windsors: 167/9(32.5)"
+  },
+  {
+   "matchId": "1777",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1777&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "The NC Providence",
+    "The NC Windsors"
+   ],
+   "teamIds": [
+    "571",
+    "572"
+   ],
+   "ground": "NC Hub - FVAA Lower",
+   "result": "The NC Windsors won by 1 Wicket",
+   "summary": "The NC Providence: 235/9(40) The NC Windsors: 236/9(39.1)"
+  },
+  {
+   "matchId": "1349",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1349&clubId=40319",
+   "date": "2023-05-13",
+   "type": "League",
+   "teams": [
+    "The NC Windsors",
+    "The NC Albions"
+   ],
+   "teamIds": [
+    "572",
+    "570"
+   ],
+   "ground": "NC Hub - FVAA Lower",
+   "result": "The NC Windsors won by 22 Runs",
+   "summary": "The NC Windsors: 173/9(30.3) The NC Albions: 151/10(39)"
+  }
+ ]
+}

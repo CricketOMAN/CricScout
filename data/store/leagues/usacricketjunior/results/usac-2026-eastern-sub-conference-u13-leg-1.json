@@ -1,0 +1,524 @@
+{
+ "season": {
+  "key": "s20",
+  "id": "legacy-581",
+  "name": "USAC 2026 - Eastern Sub-conference U13 Leg 1"
+ },
+ "fetchedAt": "2026-11-13T21:40:16.200Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=581&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=581&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9259",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9259&clubId=40319",
+   "date": "2026-07-30",
+   "type": "League",
+   "teams": [
+    "NE Stars",
+    "NAYCA Team Red"
+   ],
+   "teamIds": [
+    "3393",
+    "3391"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "NAYCA Team Red won by 51 Runs",
+   "summary": "NAYCA Team Red: 210/6(30) NE Stars: 159/8(30)"
+  },
+  {
+   "matchId": "9258",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9258&clubId=40319",
+   "date": "2026-07-30",
+   "type": "League",
+   "teams": [
+    "DC Purple",
+    "NAYCA Team Blue"
+   ],
+   "teamIds": [
+    "3389",
+    "3390"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "NAYCA Team Blue won by 5 Wickets",
+   "summary": "DC Purple: 176/7(30) NAYCA Team Blue: 177/5(28)"
+  },
+  {
+   "matchId": "9257",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9257&clubId=40319",
+   "date": "2026-07-30",
+   "type": "League",
+   "teams": [
+    "DC Blue",
+    "NE Stripes"
+   ],
+   "teamIds": [
+    "3388",
+    "3392"
+   ],
+   "ground": "Woodrow Wilson Middle School (Edison, NJ)",
+   "result": "DC Blue won by 7 Wickets",
+   "summary": "NE Stripes: 147/11(29.5) DC Blue: 148/3(27.5)"
+  },
+  {
+   "matchId": "9256",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9256&clubId=40319",
+   "date": "2026-07-29",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Blue",
+    "NE Stars"
+   ],
+   "teamIds": [
+    "3390",
+    "3393"
+   ],
+   "ground": "Exton Dog Park",
+   "result": "NAYCA Team Blue won by 10 Wickets",
+   "summary": "NE Stars: 88/10(28.1) NAYCA Team Blue: 94/0(15)"
+  },
+  {
+   "matchId": "9255",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9255&clubId=40319",
+   "date": "2026-07-29",
+   "type": "League",
+   "teams": [
+    "DC Blue",
+    "NAYCA Team Red"
+   ],
+   "teamIds": [
+    "3388",
+    "3391"
+   ],
+   "ground": "Veteran's Cricket Gr",
+   "result": "NAYCA Team Red won by 18 Runs",
+   "summary": "NAYCA Team Red: 190/8(30) DC Blue: 172/8(30)"
+  },
+  {
+   "matchId": "9254",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9254&clubId=40319",
+   "date": "2026-07-29",
+   "type": "League",
+   "teams": [
+    "NE Stripes",
+    "DC Purple"
+   ],
+   "teamIds": [
+    "3392",
+    "3389"
+   ],
+   "ground": "Stallions CC",
+   "result": "DC Purple won by 96 Runs",
+   "summary": "DC Purple: 223/5(30) NE Stripes: 127/8(30)"
+  },
+  {
+   "matchId": "9253",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9253&clubId=40319",
+   "date": "2026-07-28",
+   "type": "League",
+   "teams": [
+    "DC Blue",
+    "NAYCA Team Blue"
+   ],
+   "teamIds": [
+    "3388",
+    "3390"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "NAYCA Team Blue won by 10 Wickets",
+   "summary": "DC Blue: 63/11(22.2) NAYCA Team Blue: 64/0(5.5)"
+  },
+  {
+   "matchId": "9252",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9252&clubId=40319",
+   "date": "2026-07-28",
+   "type": "League",
+   "teams": [
+    "DC Purple",
+    "NE Stars"
+   ],
+   "teamIds": [
+    "3389",
+    "3393"
+   ],
+   "ground": "Woodrow Wilson Middle School (Edison, NJ)",
+   "result": "DC Purple won by 41 Runs",
+   "summary": "DC Purple: 182/10(30) NE Stars: 141/10(24.3)"
+  },
+  {
+   "matchId": "9251",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9251&clubId=40319",
+   "date": "2026-07-28",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Red",
+    "NE Stripes"
+   ],
+   "teamIds": [
+    "3391",
+    "3392"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "NAYCA Team Red won by 88 Runs",
+   "summary": "NAYCA Team Red: 205/3(30) NE Stripes: 117/11(28.2)"
+  },
+  {
+   "matchId": "9250",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9250&clubId=40319",
+   "date": "2026-07-27",
+   "type": "League",
+   "teams": [
+    "NE Stripes",
+    "NAYCA Team Blue"
+   ],
+   "teamIds": [
+    "3392",
+    "3390"
+   ],
+   "ground": "Woodrow Wilson Middle School (Edison, NJ)",
+   "result": "NAYCA Team Blue won by 199 Runs",
+   "summary": "NAYCA Team Blue: 294/3(30) NE Stripes: 95/6(30)"
+  },
+  {
+   "matchId": "9249",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9249&clubId=40319",
+   "date": "2026-07-27",
+   "type": "League",
+   "teams": [
+    "NE Stars",
+    "DC Blue"
+   ],
+   "teamIds": [
+    "3393",
+    "3388"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "DC Blue won by 8 Wickets",
+   "summary": "NE Stars: 220/9(30) DC Blue: 221/2(28.1)"
+  },
+  {
+   "matchId": "9248",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9248&clubId=40319",
+   "date": "2026-07-27",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Red",
+    "DC Purple"
+   ],
+   "teamIds": [
+    "3391",
+    "3389"
+   ],
+   "ground": "Conover (Post Rd)",
+   "result": "DC Purple won by 1 Wicket",
+   "summary": "NAYCA Team Red: 175/7(30) DC Purple: 176/9(29.1)"
+  },
+  {
+   "matchId": "9238",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9238&clubId=40319",
+   "date": "2026-07-26",
+   "type": "League",
+   "teams": [
+    "NE Stripes",
+    "NE Stars"
+   ],
+   "teamIds": [
+    "3392",
+    "3393"
+   ],
+   "ground": "TBD",
+   "result": "NE Stars won by 68 Runs",
+   "summary": "NE Stars: 176/11(29.4) NE Stripes: 108/9(30)"
+  },
+  {
+   "matchId": "9189",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9189&clubId=40319",
+   "date": "2026-07-24",
+   "type": "League",
+   "teams": [
+    "NAYCA Team Blue",
+    "NAYCA Team Red"
+   ],
+   "teamIds": [
+    "3390",
+    "3391"
+   ],
+   "ground": "TBD",
+   "result": "NAYCA Team Red won by 6 Wickets",
+   "summary": "NAYCA Team Blue: 140/11(27.4) NAYCA Team Red: 141/4(28.2)"
+  },
+  {
+   "matchId": "9159",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9159&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "NC",
+    "FL-IN"
+   ],
+   "teamIds": [
+    "3446",
+    "3447"
+   ],
+   "ground": "NC Hub HY218-Ground",
+   "result": "NC won by 31 Runs",
+   "summary": "NC: 206/4(30) FL-IN: 175/7(30)"
+  },
+  {
+   "matchId": "9155",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9155&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "GA-A",
+    "GL2"
+   ],
+   "teamIds": [
+    "3444",
+    "3443"
+   ],
+   "ground": "NC Hub - ADDA",
+   "result": "GA-A won by 116 Runs",
+   "summary": "GA-A: 238/1(25) GL2: 122/10(22)"
+  },
+  {
+   "matchId": "9154",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9154&clubId=40319",
+   "date": "2026-07-22",
+   "type": "League",
+   "teams": [
+    "GA-B",
+    "GL1"
+   ],
+   "teamIds": [
+    "3445",
+    "3442"
+   ],
+   "ground": "NC Hub - ARK Salisbury",
+   "result": "GL1 won by 128 Runs",
+   "summary": "GL1: 321/4(30) GA-B: 193/8(30)"
+  },
+  {
+   "matchId": "9152",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9152&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "NC",
+    "GA-B"
+   ],
+   "teamIds": [
+    "3446",
+    "3445"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "NC won by 104 Runs",
+   "summary": "NC: 220/8(30) GA-B: 116/10(25.1)"
+  },
+  {
+   "matchId": "9151",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9151&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "GL2",
+    "GL1"
+   ],
+   "teamIds": [
+    "3443",
+    "3442"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "GL2 won by 37 Runs",
+   "summary": "GL2: 220/10(30) GL1: 183/8(30)"
+  },
+  {
+   "matchId": "9150",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9150&clubId=40319",
+   "date": "2026-07-21",
+   "type": "League",
+   "teams": [
+    "FL-IN",
+    "GA-A"
+   ],
+   "teamIds": [
+    "3447",
+    "3444"
+   ],
+   "ground": "NC Hub - Weston Park",
+   "result": "Super Over. Winner: FL-IN",
+   "summary": "FL-IN: 174/5(30) GA-A: 174/9(30)"
+  },
+  {
+   "matchId": "9142",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9142&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "GL1",
+    "NC"
+   ],
+   "teamIds": [
+    "3442",
+    "3446"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "Abandoned.",
+   "summary": "GL1: 183/10(29.5)"
+  },
+  {
+   "matchId": "9141",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9141&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "FL-IN",
+    "GL2"
+   ],
+   "teamIds": [
+    "3447",
+    "3443"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "Abandoned.",
+   "summary": "FL-IN: 154/6(29.4)"
+  },
+  {
+   "matchId": "9131",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9131&clubId=40319",
+   "date": "2026-07-20",
+   "type": "League",
+   "teams": [
+    "GA-A",
+    "GA-B"
+   ],
+   "teamIds": [
+    "3444",
+    "3445"
+   ],
+   "ground": "NC Hub - Weston Park",
+   "result": "GA-A won by 9 Runs",
+   "summary": "GA-A: 160/6(30) GA-B: 151/7(30)"
+  },
+  {
+   "matchId": "9128",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9128&clubId=40319",
+   "date": "2026-07-19",
+   "type": "League",
+   "teams": [
+    "DC Purple",
+    "DC Blue"
+   ],
+   "teamIds": [
+    "3389",
+    "3388"
+   ],
+   "ground": "MGP (Main)",
+   "result": "DC Purple won by 21 Runs",
+   "summary": "DC Purple: 166/7(30) DC Blue: 145/9(30)"
+  },
+  {
+   "matchId": "9130",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9130&clubId=40319",
+   "date": "2026-07-19",
+   "type": "League",
+   "teams": [
+    "GA-B",
+    "FL-IN"
+   ],
+   "teamIds": [
+    "3445",
+    "3447"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "FL-IN won by 22 Runs",
+   "summary": "FL-IN: 184/7(30) GA-B: 162/4(30)"
+  },
+  {
+   "matchId": "9126",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9126&clubId=40319",
+   "date": "2026-07-19",
+   "type": "League",
+   "teams": [
+    "NC",
+    "GL2"
+   ],
+   "teamIds": [
+    "3446",
+    "3443"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "GL2 won by 16 Runs",
+   "summary": "GL2: 188/7(30) NC: 172/10(29.5)"
+  },
+  {
+   "matchId": "9125",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9125&clubId=40319",
+   "date": "2026-07-19",
+   "type": "League",
+   "teams": [
+    "GA-A",
+    "GL1"
+   ],
+   "teamIds": [
+    "3444",
+    "3442"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "GA-A won by 56 Runs",
+   "summary": "GA-A: 250/7(30) GL1: 194/10(26.5)"
+  },
+  {
+   "matchId": "9124",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9124&clubId=40319",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "GL1",
+    "FL-IN"
+   ],
+   "teamIds": [
+    "3442",
+    "3447"
+   ],
+   "ground": "NC Hub - Weston Park",
+   "result": "FL-IN won by 19 Runs",
+   "summary": "FL-IN: 233/5(30) GL1: 214/7(30)"
+  },
+  {
+   "matchId": "9123",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9123&clubId=40319",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "GA-B",
+    "GL2"
+   ],
+   "teamIds": [
+    "3445",
+    "3443"
+   ],
+   "ground": "Spears YMCA 1",
+   "result": "GL2 won by 101 Runs",
+   "summary": "GL2: 255/8(30) GA-B: 154/8(30)"
+  },
+  {
+   "matchId": "9122",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9122&clubId=40319",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "GA-A",
+    "NC"
+   ],
+   "teamIds": [
+    "3444",
+    "3446"
+   ],
+   "ground": "Spears YMCA 2",
+   "result": "GA-A won by 6 Wickets",
+   "summary": "NC: 168/8(30) GA-A: 169/4(24.4)"
+  }
+ ]
+}

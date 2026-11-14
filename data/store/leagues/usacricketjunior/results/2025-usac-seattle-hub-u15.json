@@ -1,0 +1,184 @@
+{
+ "season": {
+  "key": "s174",
+  "id": "legacy-328",
+  "name": "2025 USAC Seattle - Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T22:23:03.224Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=328&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=328&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4904",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4904&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "U15 NW United",
+    "MLCA"
+   ],
+   "teamIds": [
+    "1907",
+    "1905"
+   ],
+   "ground": "Skyview Middle School",
+   "result": "MLCA won by 54 Runs (D/L)",
+   "summary": "MLCA: 61/7(11.2) U15 NW United: 95/6(19.1)"
+  },
+  {
+   "matchId": "4869",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4869&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "MSKICA",
+    "PBL"
+   ],
+   "teamIds": [
+    "1906",
+    "1908"
+   ],
+   "ground": "Vally View",
+   "result": "MSKICA won by 77 Runs",
+   "summary": "MSKICA: 151/9(19.5) PBL: 74/9(17.4)"
+  },
+  {
+   "matchId": "4820",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4820&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "PBL",
+    "Thunderbolts"
+   ],
+   "teamIds": [
+    "1908",
+    "1910"
+   ],
+   "ground": "Marymoor Park",
+   "result": "PBL won by 68 Runs",
+   "summary": "PBL: 121/9(24.5) Thunderbolts: 53/9(17.3)"
+  },
+  {
+   "matchId": "4784",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4784&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "MLCA",
+    "MSKICA"
+   ],
+   "teamIds": [
+    "1905",
+    "1906"
+   ],
+   "ground": "Marymoor Park",
+   "result": "MSKICA won by 25 Runs",
+   "summary": "MSKICA: 154/8(26.5) MLCA: 129/9(28)"
+  },
+  {
+   "matchId": "4711",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4711&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "MSKICA",
+    "U15 NW United"
+   ],
+   "teamIds": [
+    "1906",
+    "1907"
+   ],
+   "ground": "Skyview Middle School",
+   "result": "MSKICA won by 2 Wickets (D/L)",
+   "summary": "U15 NW United: 40/9(9) MSKICA: 236/8(27.1)"
+  },
+  {
+   "matchId": "4675",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4675&clubId=40319",
+   "date": "2025-04-26",
+   "type": "League",
+   "teams": [
+    "Thunderbolts",
+    "MLCA"
+   ],
+   "teamIds": [
+    "1910",
+    "1905"
+   ],
+   "ground": "Skyview Middle School",
+   "result": "MLCA won by 57 Runs",
+   "summary": "MLCA: 174/10(30) Thunderbolts: 117/10(21.4)"
+  },
+  {
+   "matchId": "4635",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4635&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "MLCA",
+    "PBL"
+   ],
+   "teamIds": [
+    "1905",
+    "1908"
+   ],
+   "ground": "Skyview Middle School",
+   "result": "No Result",
+   "summary": "PBL: 129/8(19.5) MLCA: 28/0(3.2)"
+  },
+  {
+   "matchId": "4617",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4617&clubId=40319",
+   "date": "2025-04-20",
+   "type": "League",
+   "teams": [
+    "Thunderbolts",
+    "U15 NW United"
+   ],
+   "teamIds": [
+    "1910",
+    "1907"
+   ],
+   "ground": "Skyview Middle School",
+   "result": "Thunderbolts won by 47 Runs",
+   "summary": "Thunderbolts: 150/8(22) U15 NW United: 103/6(18)"
+  },
+  {
+   "matchId": "4594",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4594&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "U15 NW United",
+    "PBL"
+   ],
+   "teamIds": [
+    "1907",
+    "1908"
+   ],
+   "ground": "CMS - NSD",
+   "result": "PBL won by 102 Runs",
+   "summary": "PBL: 221/6(25.2) U15 NW United: 119/6(18.4)"
+  },
+  {
+   "matchId": "4572",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4572&clubId=40319",
+   "date": "2025-04-19",
+   "type": "League",
+   "teams": [
+    "Thunderbolts",
+    "MSKICA"
+   ],
+   "teamIds": [
+    "1910",
+    "1906"
+   ],
+   "ground": "CMS - NSD",
+   "result": "MSKICA won by 106 Runs",
+   "summary": "MSKICA: 185/8(31) Thunderbolts: 79/8(22.5)"
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s115",
+  "id": "legacy-454",
+  "name": "USAC 2026 - Florida - U11"
+ },
+ "fetchedAt": "2026-11-13T21:57:26.125Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=454&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=454&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8299",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8299&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2898",
+    "2899"
+   ],
+   "ground": "Sarasota Cricket Gro",
+   "result": "Roy Silva Academy won by 7 Wickets",
+   "summary": "Tampa Cricket League: 75/10(21.2) Roy Silva Academy: 76/3(13.1)"
+  },
+  {
+   "matchId": "8194",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8194&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "Excel Cricket Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2897",
+    "2901"
+   ],
+   "ground": "Lauderhill Sports Park Ground",
+   "result": "Young Genius Academy won by 2 Runs",
+   "summary": "Young Genius Academy: 161/7(30.1) Excel Cricket Academy: 159/8(28.3)"
+  },
+  {
+   "matchId": "8060",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8060&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Florida Panthers Youth Cricket Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2900",
+    "2901"
+   ],
+   "ground": "Central Broward Regional Park",
+   "result": "Young Genius Academy won by 4 Wickets",
+   "summary": "Florida Panthers Youth Cricket Academy: 125/8(30) Young Genius Academy: 126/6(23.3)"
+  },
+  {
+   "matchId": "8059",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8059&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2896",
+    "2899"
+   ],
+   "ground": "Eaglenest Park",
+   "result": "Tampa Cricket League won by 144 Runs",
+   "summary": "Tampa Cricket League: 211/6(30) Angelo's Cricket Academy: 67/10(26.1)"
+  },
+  {
+   "matchId": "7877",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7877&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2898",
+    "2899"
+   ],
+   "ground": "Eaglenest Park",
+   "result": "Roy Silva Academy won by 11 Runs",
+   "summary": "Roy Silva Academy: 77/10(19.3) Tampa Cricket League: 66/10(18)"
+  },
+  {
+   "matchId": "7868",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7868&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Excel Cricket Academy"
+   ],
+   "teamIds": [
+    "2896",
+    "2897"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "Angelo's Cricket Academy won by 5 Wickets",
+   "summary": "Excel Cricket Academy: 120/7(30) Angelo's Cricket Academy: 121/5(27.4)"
+  },
+  {
+   "matchId": "7806",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7806&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "Excel Cricket Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2897",
+    "2899"
+   ],
+   "ground": "Evans Cricket Ground",
+   "result": "Tampa Cricket League won by 39 Runs",
+   "summary": "Tampa Cricket League: 156/9(30) Excel Cricket Academy: 117/10(30)"
+  },
+  {
+   "matchId": "7678",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7678&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Excel Cricket Academy",
+    "Florida Panthers Youth Cricket Academy"
+   ],
+   "teamIds": [
+    "2897",
+    "2900"
+   ],
+   "ground": "Eaglenest Park",
+   "result": "Abandoned.",
+   "summary": "Excel Cricket Academy: 176/4(30) Florida Panthers Youth Cricket Academy: 18/3(8.4)"
+  },
+  {
+   "matchId": "7660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7660&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Tampa Cricket League",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2899",
+    "2901"
+   ],
+   "ground": "Sarasota Cricket Gro",
+   "result": "Tampa Cricket League won by 9 Wickets",
+   "summary": "Young Genius Academy: 56/9(20.1) Tampa Cricket League: 58/1(8.2)"
+  },
+  {
+   "matchId": "7651",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7651&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Angelo's Cricket Academy"
+   ],
+   "teamIds": [
+    "2898",
+    "2896"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "Abandoned.",
+   "summary": "Roy Silva Academy: 130/9(26.5) Angelo's Cricket Academy: 22/2(8.1)"
+  },
+  {
+   "matchId": "7544",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7544&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2896",
+    "2901"
+   ],
+   "ground": "John Mulins Park",
+   "result": "Young Genius Academy won by 81 Runs",
+   "summary": "Young Genius Academy: 121/8(30.1) Angelo's Cricket Academy: 40/10(12.5)"
+  },
+  {
+   "matchId": "7478",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7478&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Florida Panthers Youth Cricket Academy",
+    "Tampa Cricket League"
+   ],
+   "teamIds": [
+    "2900",
+    "2899"
+   ],
+   "ground": "Eaglenest Park",
+   "result": "Tampa Cricket League won by 9 Wickets",
+   "summary": "Florida Panthers Youth Cricket Academy: 31/10(17.5) Tampa Cricket League: 35/1(5.3)"
+  },
+  {
+   "matchId": "7466",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7466&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Excel Cricket Academy"
+   ],
+   "teamIds": [
+    "2898",
+    "2897"
+   ],
+   "ground": "SilverSprings Ground",
+   "result": "Roy Silva Academy won by 93 Runs",
+   "summary": "Roy Silva Academy: 197/3(30) Excel Cricket Academy: 104/10(23.5)"
+  },
+  {
+   "matchId": "7375",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7375&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "Roy Silva Academy",
+    "Young Genius Academy"
+   ],
+   "teamIds": [
+    "2898",
+    "2901"
+   ],
+   "ground": "Lauderhill Sports Park Ground",
+   "result": "Roy Silva Academy won by 10 Wickets",
+   "summary": "Young Genius Academy: 68/8(21.4) Roy Silva Academy: 72/0(9.4)"
+  },
+  {
+   "matchId": "7293",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7293&clubId=40319",
+   "date": "2026-04-18",
+   "type": "League",
+   "teams": [
+    "Angelo's Cricket Academy",
+    "Florida Panthers Youth Cricket Academy"
+   ],
+   "teamIds": [
+    "2896",
+    "2900"
+   ],
+   "ground": "Eaglenest Park",
+   "result": "Florida Panthers Youth Cricket Academy won by 45 Runs",
+   "summary": "Florida Panthers Youth Cricket Academy: 118/7(30) Angelo's Cricket Academy: 73/9(20.5)"
+  },
+  {
+   "matchId": "7217",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7217&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Florida Panthers Youth Cricket Academy",
+    "Roy Silva Academy"
+   ],
+   "teamIds": [
+    "2900",
+    "2898"
+   ],
+   "ground": "Eaglenest Park",
+   "result": "Roy Silva Academy won by 197 Runs",
+   "summary": "Roy Silva Academy: 216/3(30) Florida Panthers Youth Cricket Academy: 19/9(11)"
+  }
+ ]
+}

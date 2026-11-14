@@ -1,0 +1,473 @@
+{
+ "season": {
+  "key": "s119",
+  "id": "legacy-450",
+  "name": "USAC 2026 - Dallas U17"
+ },
+ "fetchedAt": "2026-11-13T21:57:29.697Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=450&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=450&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8449",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8449&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles RED U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2601",
+    "2606"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Abandoned.",
+   "summary": "All Stars Invincibles RED U17: 0/0(0)"
+  },
+  {
+   "matchId": "8271",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8271&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts U17",
+    "TCC SKA U17"
+   ],
+   "teamIds": [
+    "2603",
+    "2607"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Abandoned.",
+   "summary": "DYCL Bolts U17: 0/0(40) TCC SKA U17: 0/0(40)"
+  },
+  {
+   "matchId": "8180",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8180&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "SKA-TIC U17",
+    "TCC SKA U17"
+   ],
+   "teamIds": [
+    "2608",
+    "2607"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "SKA-TIC U17 won by 3 Runs",
+   "summary": "SKA-TIC U17: 224/5(40) TCC SKA U17: 221/9(36.2)"
+  },
+  {
+   "matchId": "8179",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8179&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles RED U17",
+    "FCCA Spartans U17"
+   ],
+   "teamIds": [
+    "2601",
+    "2604"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "FCCA Spartans U17 won by 15 Runs",
+   "summary": "FCCA Spartans U17: 202/10(34.5) All Stars Invincibles RED U17: 187/10(38)"
+  },
+  {
+   "matchId": "8163",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8163&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles BLUE U17",
+    "CricketMinds Elite U17"
+   ],
+   "teamIds": [
+    "2600",
+    "2602"
+   ],
+   "ground": "Stallions CG3",
+   "result": "All Stars Invincibles BLUE U17 won by 41 Runs",
+   "summary": "All Stars Invincibles BLUE U17: 200/8(40) CricketMinds Elite U17: 159/10(35)"
+  },
+  {
+   "matchId": "8134",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8134&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CricketMinds Elite U17",
+    "Rising Stars U17"
+   ],
+   "teamIds": [
+    "2602",
+    "2605"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CricketMinds Elite U17 won by 9 Wickets",
+   "summary": "Rising Stars U17: 121/9(26) CricketMinds Elite U17: 125/1(16.3)"
+  },
+  {
+   "matchId": "8061",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8061&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2603",
+    "2606"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "DYCL Bolts U17 won by 69 Runs",
+   "summary": "DYCL Bolts U17: 167/10(37) TCA Warriors U17: 98/10(31.3)"
+  },
+  {
+   "matchId": "8031",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8031&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "TCC SKA U17"
+   ],
+   "teamIds": [
+    "2604",
+    "2607"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "FCCA Spartans U17 won by 151 Runs",
+   "summary": "FCCA Spartans U17: 297/7(40) TCC SKA U17: 146/7(27.5)"
+  },
+  {
+   "matchId": "7718",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7718&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "DYCL Bolts U17"
+   ],
+   "teamIds": [
+    "2604",
+    "2603"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL Bolts U17 won by 10 Wickets",
+   "summary": "FCCA Spartans U17: 176/9(40) DYCL Bolts U17: 177/0(23.1)"
+  },
+  {
+   "matchId": "7690",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7690&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "SKA-TIC U17",
+    "All Stars Invincibles BLUE U17"
+   ],
+   "teamIds": [
+    "2608",
+    "2600"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "SKA-TIC U17 won by 23 Runs",
+   "summary": "SKA-TIC U17: 180/9(40) All Stars Invincibles BLUE U17: 157/7(33.3)"
+  },
+  {
+   "matchId": "7684",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7684&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "TCC SKA U17",
+    "Rising Stars U17"
+   ],
+   "teamIds": [
+    "2607",
+    "2605"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Rising Stars U17 won by 39 Runs",
+   "summary": "Rising Stars U17: 248/4(40) TCC SKA U17: 209/10(31.4)"
+  },
+  {
+   "matchId": "7631",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7631&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "CricketMinds Elite U17",
+    "All Stars Invincibles RED U17"
+   ],
+   "teamIds": [
+    "2602",
+    "2601"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CricketMinds Elite U17 won by 4 Runs",
+   "summary": "CricketMinds Elite U17: 209/9(40) All Stars Invincibles RED U17: 205/9(40)"
+  },
+  {
+   "matchId": "7546",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7546&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles BLUE U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2600",
+    "2606"
+   ],
+   "ground": "Stallions CG1",
+   "result": "All Stars Invincibles BLUE U17 won by 2 Runs",
+   "summary": "All Stars Invincibles BLUE U17: 186/6(25) TCA Warriors U17: 184/5(25)"
+  },
+  {
+   "matchId": "7542",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7542&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "CricketMinds Elite U17",
+    "TCC SKA U17"
+   ],
+   "teamIds": [
+    "2602",
+    "2607"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CricketMinds Elite U17 won by 154 Runs",
+   "summary": "CricketMinds Elite U17: 266/5(35) TCC SKA U17: 112/9(28)"
+  },
+  {
+   "matchId": "7480",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7480&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "DYCL Bolts U17",
+    "Rising Stars U17"
+   ],
+   "teamIds": [
+    "2603",
+    "2605"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "DYCL Bolts U17 won by 158 Runs",
+   "summary": "DYCL Bolts U17: 203/10(32.4) Rising Stars U17: 45/6(15)"
+  },
+  {
+   "matchId": "7468",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7468&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles RED U17",
+    "SKA-TIC U17"
+   ],
+   "teamIds": [
+    "2601",
+    "2608"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "SKA-TIC U17 won by 16 Runs",
+   "summary": "SKA-TIC U17: 110/9(32.4) All Stars Invincibles RED U17: 94/10(25.2)"
+  },
+  {
+   "matchId": "7239",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7239&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles RED U17",
+    "TCC SKA U17"
+   ],
+   "teamIds": [
+    "2601",
+    "2607"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "All Stars Invincibles RED U17 won by 7 Wickets",
+   "summary": "TCC SKA U17: 79/12(17) All Stars Invincibles RED U17: 83/3(10)"
+  },
+  {
+   "matchId": "7222",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7222&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles BLUE U17",
+    "DYCL Bolts U17"
+   ],
+   "teamIds": [
+    "2600",
+    "2603"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "DYCL Bolts U17 won by 235 Runs",
+   "summary": "DYCL Bolts U17: 266/5(40) All Stars Invincibles BLUE U17: 31/7(11.3)"
+  },
+  {
+   "matchId": "7218",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7218&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "Rising Stars U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2605",
+    "2606"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Rising Stars U17 won by 4 Wickets",
+   "summary": "TCA Warriors U17: 89/10(22.4) Rising Stars U17: 99/6(26)"
+  },
+  {
+   "matchId": "7200",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7200&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "SKA-TIC U17"
+   ],
+   "teamIds": [
+    "2604",
+    "2608"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "SKA-TIC U17 won by 7 Wickets",
+   "summary": "FCCA Spartans U17: 177/10(35.1) SKA-TIC U17: 179/3(29.4)"
+  },
+  {
+   "matchId": "7143",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7143&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "Rising Stars U17",
+    "SKA-TIC U17"
+   ],
+   "teamIds": [
+    "2605",
+    "2608"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "SKA-TIC U17 won by 5 Wickets",
+   "summary": "Rising Stars U17: 149/10(34) SKA-TIC U17: 151/5(26.2)"
+  },
+  {
+   "matchId": "7126",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7126&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles BLUE U17",
+    "FCCA Spartans U17"
+   ],
+   "teamIds": [
+    "2600",
+    "2604"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "All Stars Invincibles BLUE U17 won by 7 Wickets",
+   "summary": "FCCA Spartans U17: 128/10(25.2) All Stars Invincibles BLUE U17: 132/3(26)"
+  },
+  {
+   "matchId": "7125",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7125&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "CricketMinds Elite U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2602",
+    "2606"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "CricketMinds Elite U17 won by 8 Wickets",
+   "summary": "TCA Warriors U17: 97/11(38.5) CricketMinds Elite U17: 98/2(15)"
+  },
+  {
+   "matchId": "7119",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7119&clubId=40319",
+   "date": "2026-03-29",
+   "type": "League",
+   "teams": [
+    "All Stars Invincibles RED U17",
+    "DYCL Bolts U17"
+   ],
+   "teamIds": [
+    "2601",
+    "2603"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "All Stars Invincibles RED U17 won by 98 Runs",
+   "summary": "All Stars Invincibles RED U17: 262/6(40) DYCL Bolts U17: 164/10(29.4)"
+  },
+  {
+   "matchId": "7077",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7077&clubId=40319",
+   "date": "2026-03-22",
+   "type": "League",
+   "teams": [
+    "Rising Stars U17",
+    "All Stars Invincibles BLUE U17"
+   ],
+   "teamIds": [
+    "2605",
+    "2600"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "All Stars Invincibles BLUE U17 won by 7 Wickets",
+   "summary": "Rising Stars U17: 177/10(37.5) All Stars Invincibles BLUE U17: 180/3(25.5)"
+  },
+  {
+   "matchId": "7016",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7016&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "CricketMinds Elite U17",
+    "SKA-TIC U17"
+   ],
+   "teamIds": [
+    "2602",
+    "2608"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Abandoned.",
+   "summary": "CricketMinds Elite U17: 195/10(38.3) SKA-TIC U17: 46/4(7.3)"
+  },
+  {
+   "matchId": "6994",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6994&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "FCCA Spartans U17",
+    "TCA Warriors U17"
+   ],
+   "teamIds": [
+    "2604",
+    "2606"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Spartans U17 won by 18 Runs (D/L)",
+   "summary": "FCCA Spartans U17: 282/10(42) TCA Warriors U17: 242/11(38.4)"
+  }
+ ]
+}

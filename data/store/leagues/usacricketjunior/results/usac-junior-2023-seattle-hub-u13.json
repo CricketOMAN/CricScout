@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s372",
+  "id": "legacy-19",
+  "name": "USAC Junior 2023 - Seattle Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:18:30.460Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=19&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=19&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "1788",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1788&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "593",
+    "590"
+   ],
+   "ground": "ICP Lower Soccer Ground (ICP Lower Soccer Ground)",
+   "result": "Team Red won by 51 Runs",
+   "summary": "Team Red: 202/5(30) Team Green: 151/13(30)"
+  },
+  {
+   "matchId": "1786",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1786&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "592",
+    "591"
+   ],
+   "ground": "Perrigo 1",
+   "result": "Team Blue won by 22 Runs",
+   "summary": "Team Blue: 171/9(29) Team Yellow: 149/11(28.2)"
+  },
+  {
+   "matchId": "1762",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1762&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "592",
+    "590"
+   ],
+   "ground": "Perrigo 1",
+   "result": "Team Blue won by 6 Wickets",
+   "summary": "Team Red: 128/9(25) Team Blue: 129/4(18.1)"
+  },
+  {
+   "matchId": "1723",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1723&clubId=40319",
+   "date": "2023-06-10",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "593",
+    "591"
+   ],
+   "ground": "Perrigo 1",
+   "result": "Team Green won by 2 Wickets",
+   "summary": "Team Yellow: 156/7(25) Team Green: 157/8(23.1)"
+  },
+  {
+   "matchId": "1699",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1699&clubId=40319",
+   "date": "2023-06-09",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "590",
+    "591"
+   ],
+   "ground": "McCollum Park",
+   "result": "Abandoned.",
+   "summary": "Team Red: 138/8(25.1) Team Yellow: 23/3(5.1)"
+  },
+  {
+   "matchId": "1680",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1680&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "593",
+    "590"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Team Red won by 2 Runs",
+   "summary": "Team Red: 118/11(25) Team Green: 116/11(24.4)"
+  },
+  {
+   "matchId": "1679",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1679&clubId=40319",
+   "date": "2023-06-04",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "591",
+    "592"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Team Yellow won by 5 Wickets",
+   "summary": "Team Blue: 161/6(30) Team Yellow: 163/5(28)"
+  },
+  {
+   "matchId": "1633",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1633&clubId=40319",
+   "date": "2023-06-03",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Green"
+   ],
+   "teamIds": [
+    "592",
+    "593"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Team Blue won by 34 Runs",
+   "summary": "Team Blue: 157/5(27) Team Green: 123/7(27)"
+  }
+ ]
+}

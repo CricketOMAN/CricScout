@@ -1,0 +1,371 @@
+{
+ "season": {
+  "key": "s180",
+  "id": "legacy-322",
+  "name": "2025 USAC East Midwest Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T22:23:08.766Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=322&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=322&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6337",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6337&clubId=40319",
+   "date": "2025-08-16",
+   "type": "League",
+   "teams": [
+    "Prime - U15",
+    "MYCA - U15"
+   ],
+   "teamIds": [
+    "1875",
+    "1874"
+   ],
+   "ground": "TBD",
+   "result": "Abandoned.",
+   "summary": "Prime - U15: 0/0(40) MYCA - U15: 0/0(40)"
+  },
+  {
+   "matchId": "5797",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5797&clubId=40319",
+   "date": "2025-06-21",
+   "type": "Practice",
+   "teams": [
+    "Team A",
+    "Team B"
+   ],
+   "teamIds": [
+    "2155",
+    "2156"
+   ],
+   "ground": "TBD",
+   "result": "Team A won by 3 Runs",
+   "summary": "Team A: 136/11(30) Team B: 133/11(30)"
+  },
+  {
+   "matchId": "5728",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5728&clubId=40319",
+   "date": "2025-06-16",
+   "type": "League",
+   "teams": [
+    "MCA - U15",
+    "Prime - U15"
+   ],
+   "teamIds": [
+    "1873",
+    "1875"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "Prime - U15 won by 6 Wickets",
+   "summary": "MCA - U15: 83/10(27) Prime - U15: 85/4(19.3)"
+  },
+  {
+   "matchId": "5709",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5709&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "ICY U15",
+    "Prime - U15"
+   ],
+   "teamIds": [
+    "1889",
+    "1875"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Prime - U15 won by 49 Runs",
+   "summary": "Prime - U15: 151/10(28.4) ICY U15: 102/10(28)"
+  },
+  {
+   "matchId": "5706",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5706&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "AYCA - U15",
+    "MCA - U15"
+   ],
+   "teamIds": [
+    "1872",
+    "1873"
+   ],
+   "ground": "TBD",
+   "result": "AYCA - U15 won by 100 Runs",
+   "summary": "AYCA - U15: 187/10(38.1) MCA - U15: 87/9(25.1)"
+  },
+  {
+   "matchId": "5667",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5667&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "MCA - U15",
+    "AYCA - U15"
+   ],
+   "teamIds": [
+    "1873",
+    "1872"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA - U15 won by 3 Runs",
+   "summary": "MCA - U15: 117/10(38.2) AYCA - U15: 114/10(37.2)"
+  },
+  {
+   "matchId": "5643",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5643&clubId=40319",
+   "date": "2025-06-12",
+   "type": "League",
+   "teams": [
+    "AYCA - U15",
+    "ICY U15"
+   ],
+   "teamIds": [
+    "1872",
+    "1889"
+   ],
+   "ground": "TBD",
+   "result": "AYCA - U15 won by 7 Wickets",
+   "summary": "ICY U15: 38/10(17.5) AYCA - U15: 40/3(5.4)"
+  },
+  {
+   "matchId": "5637",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5637&clubId=40319",
+   "date": "2025-06-12",
+   "type": "League",
+   "teams": [
+    "AYCA - U15",
+    "ICY U15"
+   ],
+   "teamIds": [
+    "1872",
+    "1889"
+   ],
+   "ground": "TBD",
+   "result": "AYCA - U15 won by 5 Wickets",
+   "summary": "ICY U15: 81/10(30.1) AYCA - U15: 82/5(19.1)"
+  },
+  {
+   "matchId": "5570",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5570&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "MYCA - U15",
+    "AYCA - U15"
+   ],
+   "teamIds": [
+    "1874",
+    "1872"
+   ],
+   "ground": "Northville",
+   "result": "AYCA - U15 won by 6 Wickets",
+   "summary": "MYCA - U15: 111/10(34.1) AYCA - U15: 113/4(22.2)"
+  },
+  {
+   "matchId": "5568",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5568&clubId=40319",
+   "date": "2025-06-08",
+   "type": "League",
+   "teams": [
+    "Prime - U15",
+    "ICY U15"
+   ],
+   "teamIds": [
+    "1875",
+    "1889"
+   ],
+   "ground": "Murphy Michigan",
+   "result": "Prime - U15 won by 70 Runs",
+   "summary": "Prime - U15: 177/9(34.5) ICY U15: 107/8(30.4)"
+  },
+  {
+   "matchId": "5524",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5524&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "MYCA - U15",
+    "ICY U15"
+   ],
+   "teamIds": [
+    "1874",
+    "1889"
+   ],
+   "ground": "Murphy Michigan",
+   "result": "MYCA - U15 won by 238 Runs",
+   "summary": "MYCA - U15: 268/4(40) ICY U15: 30/9(15.4)"
+  },
+  {
+   "matchId": "5523",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5523&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "Prime - U15",
+    "AYCA - U15"
+   ],
+   "teamIds": [
+    "1875",
+    "1872"
+   ],
+   "ground": "Northville",
+   "result": "AYCA - U15 won by 9 Wickets",
+   "summary": "Prime - U15: 49/10(26) AYCA - U15: 50/1(6)"
+  },
+  {
+   "matchId": "5489",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5489&clubId=40319",
+   "date": "2025-06-06",
+   "type": "League",
+   "teams": [
+    "MCA - U15",
+    "ICY U15"
+   ],
+   "teamIds": [
+    "1873",
+    "1889"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA - U15 won by 236 Runs",
+   "summary": "MCA - U15: 267/3(40) ICY U15: 31/9(23.5)"
+  },
+  {
+   "matchId": "5426",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5426&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "Prime - U15",
+    "MCA - U15"
+   ],
+   "teamIds": [
+    "1875",
+    "1873"
+   ],
+   "ground": "TBD",
+   "result": "MCA - U15 won by 7 Wickets",
+   "summary": "Prime - U15: 173/10(36.1) MCA - U15: 174/3(31.4)"
+  },
+  {
+   "matchId": "5370",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5370&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "MYCA - U15",
+    "MCA - U15"
+   ],
+   "teamIds": [
+    "1874",
+    "1873"
+   ],
+   "ground": "TBD",
+   "result": "MYCA - U15 won by 15 Runs",
+   "summary": "MYCA - U15: 131/10(33.3) MCA - U15: 116/11(32.3)"
+  },
+  {
+   "matchId": "5303",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5303&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "ICY U15",
+    "MYCA - U15"
+   ],
+   "teamIds": [
+    "1889",
+    "1874"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "MYCA - U15 won by 10 Wickets",
+   "summary": "ICY U15: 67/10(31) MYCA - U15: 68/0(12.1)"
+  },
+  {
+   "matchId": "5209",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5209&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "MCA - U15",
+    "MYCA - U15"
+   ],
+   "teamIds": [
+    "1873",
+    "1874"
+   ],
+   "ground": "HERITAGE GROUND",
+   "result": "MCA - U15 won by 13 Runs",
+   "summary": "MCA - U15: 94/11(39.2) MYCA - U15: 81/10(30.2)"
+  },
+  {
+   "matchId": "5102",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5102&clubId=40319",
+   "date": "2025-05-12",
+   "type": "League",
+   "teams": [
+    "AYCA - U15",
+    "Prime - U15"
+   ],
+   "teamIds": [
+    "1872",
+    "1875"
+   ],
+   "ground": "TBD",
+   "result": "AYCA - U15 won by 77 Runs",
+   "summary": "AYCA - U15: 219/10(39.2) Prime - U15: 142/10(39.5)"
+  },
+  {
+   "matchId": "5014",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5014&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "AYCA - U15",
+    "MYCA - U15"
+   ],
+   "teamIds": [
+    "1872",
+    "1874"
+   ],
+   "ground": "TBD",
+   "result": "MYCA - U15 won by 7 Wickets",
+   "summary": "AYCA - U15: 142/10(38.3) MYCA - U15: 143/3(32)"
+  },
+  {
+   "matchId": "4842",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4842&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "Prime - U15",
+    "MYCA - U15"
+   ],
+   "teamIds": [
+    "1875",
+    "1874"
+   ],
+   "ground": "TBD",
+   "result": "MYCA - U15 won by 9 Wickets",
+   "summary": "Prime - U15: 115/10(36) MYCA - U15: 116/1(12.5)"
+  },
+  {
+   "matchId": "4733",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4733&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "ICY U15",
+    "MCA - U15"
+   ],
+   "teamIds": [
+    "1889",
+    "1873"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "MCA - U15 won by 235 Runs",
+   "summary": "MCA - U15: 311/4(40) ICY U15: 76/10(22)"
+  }
+ ]
+}

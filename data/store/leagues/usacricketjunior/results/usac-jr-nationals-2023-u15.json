@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s294",
+  "id": "legacy-122",
+  "name": "USAC JR Nationals 2023 - U15"
+ },
+ "fetchedAt": "2026-11-13T23:05:29.341Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=122&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=122&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2375",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2375&clubId=40319",
+   "date": "2023-09-04",
+   "type": "3rd Position",
+   "teams": [
+    "Mid-Atlantic Zone",
+    "South Zone"
+   ],
+   "teamIds": [
+    "783",
+    "782"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Mid-Atlantic Zone won by 8 Wickets",
+   "summary": "South Zone: 143/9(40) Mid-Atlantic Zone: 144/2(34.5)"
+  },
+  {
+   "matchId": "2374",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2374&clubId=40319",
+   "date": "2023-09-04",
+   "type": "Final",
+   "teams": [
+    "West Zone",
+    "South West Zone"
+   ],
+   "teamIds": [
+    "779",
+    "780"
+   ],
+   "ground": "PARAM - G2",
+   "result": "West Zone won by 4 Wickets",
+   "summary": "South West Zone: 122/10(34.4) West Zone: 123/6(31)"
+  },
+  {
+   "matchId": "2373",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2373&clubId=40319",
+   "date": "2023-09-04",
+   "type": "Eliminator",
+   "teams": [
+    "Midwest Zone",
+    "East Zone"
+   ],
+   "teamIds": [
+    "781",
+    "784"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Midwest Zone won by 172 Runs",
+   "summary": "Midwest Zone: 236/4(40) East Zone: 64/10(21.4)"
+  },
+  {
+   "matchId": "2372",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2372&clubId=40319",
+   "date": "2023-09-03",
+   "type": "League",
+   "teams": [
+    "South Zone",
+    "East Zone"
+   ],
+   "teamIds": [
+    "782",
+    "784"
+   ],
+   "ground": "PARAM - G2",
+   "result": "South Zone won by 20 Runs",
+   "summary": "South Zone: 159/6(40) East Zone: 139/10(37.2)"
+  },
+  {
+   "matchId": "2371",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2371&clubId=40319",
+   "date": "2023-09-03",
+   "type": "League",
+   "teams": [
+    "Midwest Zone",
+    "Mid-Atlantic Zone"
+   ],
+   "teamIds": [
+    "781",
+    "783"
+   ],
+   "ground": "PARAM - G3",
+   "result": "Mid-Atlantic Zone won by 35 Runs",
+   "summary": "Mid-Atlantic Zone: 145/10(38.2) Midwest Zone: 110/10(35.4)"
+  },
+  {
+   "matchId": "2370",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2370&clubId=40319",
+   "date": "2023-09-03",
+   "type": "League",
+   "teams": [
+    "West Zone",
+    "South West Zone"
+   ],
+   "teamIds": [
+    "779",
+    "780"
+   ],
+   "ground": "PARAM - G4",
+   "result": "West Zone won by 3 Wickets",
+   "summary": "South West Zone: 73/10(25.1) West Zone: 74/7(22.5)"
+  },
+  {
+   "matchId": "2369",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2369&clubId=40319",
+   "date": "2023-09-02",
+   "type": "League",
+   "teams": [
+    "East Zone",
+    "Mid-Atlantic Zone"
+   ],
+   "teamIds": [
+    "784",
+    "783"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Mid-Atlantic Zone won by 29 Runs",
+   "summary": "Mid-Atlantic Zone: 123/10(38.1) East Zone: 94/10(34.1)"
+  },
+  {
+   "matchId": "2368",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2368&clubId=40319",
+   "date": "2023-09-02",
+   "type": "League",
+   "teams": [
+    "South Zone",
+    "West Zone"
+   ],
+   "teamIds": [
+    "782",
+    "779"
+   ],
+   "ground": "PARAM - G2",
+   "result": "West Zone won by 37 Runs",
+   "summary": "West Zone: 192/9(40) South Zone: 155/10(39.3)"
+  },
+  {
+   "matchId": "2367",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2367&clubId=40319",
+   "date": "2023-09-02",
+   "type": "League",
+   "teams": [
+    "South West Zone",
+    "Midwest Zone"
+   ],
+   "teamIds": [
+    "780",
+    "781"
+   ],
+   "ground": "PARAM - G3",
+   "result": "South West Zone won by 70 Runs",
+   "summary": "South West Zone: 192/7(40) Midwest Zone: 122/10(33.4)"
+  },
+  {
+   "matchId": "2366",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2366&clubId=40319",
+   "date": "2023-09-01",
+   "type": "League",
+   "teams": [
+    "Midwest Zone",
+    "South Zone"
+   ],
+   "teamIds": [
+    "781",
+    "782"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Midwest Zone won by 17 Runs",
+   "summary": "Midwest Zone: 178/10(40) South Zone: 161/10(39.1)"
+  },
+  {
+   "matchId": "2365",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2365&clubId=40319",
+   "date": "2023-09-01",
+   "type": "League",
+   "teams": [
+    "West Zone",
+    "East Zone"
+   ],
+   "teamIds": [
+    "779",
+    "784"
+   ],
+   "ground": "PARAM - G3",
+   "result": "West Zone won by 8 Wickets",
+   "summary": "East Zone: 58/10(28) West Zone: 59/2(8.5)"
+  },
+  {
+   "matchId": "2364",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2364&clubId=40319",
+   "date": "2023-09-01",
+   "type": "League",
+   "teams": [
+    "Mid-Atlantic Zone",
+    "South West Zone"
+   ],
+   "teamIds": [
+    "783",
+    "780"
+   ],
+   "ground": "PARAM - G2",
+   "result": "South West Zone won by 108 Runs",
+   "summary": "South West Zone: 181/8(40) Mid-Atlantic Zone: 73/10(25.5)"
+  }
+ ]
+}

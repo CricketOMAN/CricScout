@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s239",
+  "id": "legacy-224",
+  "name": "USAC 2024 South Zone U19 Tri"
+ },
+ "fetchedAt": "2026-11-13T22:39:26.123Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=224&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=224&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3719",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3719&clubId=40319",
+   "date": "2024-07-18",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1318",
+    "1316"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Team Red won by 4 Wickets (D/L)",
+   "summary": "Team Yellow: 0/0(0) Team Red: 181/6(36.1)"
+  },
+  {
+   "matchId": "3704",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3704&clubId=40319",
+   "date": "2024-07-18",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1317",
+    "1319"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Team Purple won by 5 Wickets",
+   "summary": "Team Blue: 175/10(32.5) Team Purple: 179/5(37)"
+  },
+  {
+   "matchId": "3703",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3703&clubId=40319",
+   "date": "2024-07-18",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "1316",
+    "1318"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Team Yellow won by 181 Runs",
+   "summary": "Team Yellow: 181/10(35)"
+  },
+  {
+   "matchId": "3701",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3701&clubId=40319",
+   "date": "2024-07-17",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1318",
+    "1317"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Team Yellow won by 21 Runs (D/L)",
+   "summary": "Team Yellow: 186/10(38.3) Team Blue: 105/7(22)"
+  },
+  {
+   "matchId": "3700",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3700&clubId=40319",
+   "date": "2024-07-17",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1316",
+    "1319"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Team Purple won by 8 Runs (D/L)",
+   "summary": "Team Purple: 176/9(35) Team Red: 141/7(28)"
+  },
+  {
+   "matchId": "3695",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3695&clubId=40319",
+   "date": "2024-07-16",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1318",
+    "1319"
+   ],
+   "ground": "PARAM - G4",
+   "result": "Team Purple won by 137 Runs (D/L)",
+   "summary": "Team Purple: 218/7(44.3) Team Yellow: 100/10(19.1)"
+  },
+  {
+   "matchId": "3694",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3694&clubId=40319",
+   "date": "2024-07-16",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1316",
+    "1317"
+   ],
+   "ground": "PARAM - G2",
+   "result": "Team Blue: 204/10 (39.3/50 ov) Team Red: 156/10 (38/40 ov) (D/L)",
+   "summary": "Team Blue: 204/10(39.3) Team Red: 156/10(38) Live"
+  }
+ ]
+}

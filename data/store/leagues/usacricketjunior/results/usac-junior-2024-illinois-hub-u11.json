@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s254",
+  "id": "legacy-205",
+  "name": "USAC Junior 2024 - Illinois Hub u11"
+ },
+ "fetchedAt": "2026-11-13T22:42:23.095Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=205&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=205&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4152",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4152&clubId=40319",
+   "date": "2024-10-13",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "APCL Schaumburg Stars"
+   ],
+   "teamIds": [
+    "1236",
+    "1263"
+   ],
+   "ground": "DEEPRK",
+   "result": "Forfeited. Winner: CYCA Cubs",
+   "summary": "CYCA Cubs: 0/0(0)"
+  },
+  {
+   "matchId": "4137",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4137&clubId=40319",
+   "date": "2024-10-12",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "1236",
+    "1235"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "CYCA Cubs won by 6 Runs",
+   "summary": "CYCA Cubs: 94/10(26.1) CMCE Falcons: 88/9(25.4)"
+  },
+  {
+   "matchId": "4129",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4129&clubId=40319",
+   "date": "2024-10-06",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "1236",
+    "1234"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs: 278/2 (30/30 ov) CMCE Dragons: 81/5 (26/30 ov)",
+   "summary": "CYCA Cubs: 278/2(30) CMCE Dragons: 81/5(26) Live"
+  },
+  {
+   "matchId": "4127",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4127&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "APCL Schaumburg Stars",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "1263",
+    "1234"
+   ],
+   "ground": "DEEPRK",
+   "result": "Forfeited. Winner: CMCE Dragons",
+   "summary": "APCL Schaumburg Stars: 0/0(0)"
+  },
+  {
+   "matchId": "4109",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4109&clubId=40319",
+   "date": "2024-10-05",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "1236",
+    "1235"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs won by 7 Wickets",
+   "summary": "CMCE Falcons: 95/10(27.2) CYCA Cubs: 96/3(15.5)"
+  },
+  {
+   "matchId": "4104",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4104&clubId=40319",
+   "date": "2024-09-28",
+   "type": "League",
+   "teams": [
+    "CMCE Falcons",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "1235",
+    "1234"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "CMCE Falcons won by 9 Wickets",
+   "summary": "CMCE Dragons: 35/11(15.5) CMCE Falcons: 36/1(9.2)"
+  },
+  {
+   "matchId": "4081",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4081&clubId=40319",
+   "date": "2024-09-21",
+   "type": "League",
+   "teams": [
+    "APCL Schaumburg Stars",
+    "CMCE Falcons"
+   ],
+   "teamIds": [
+    "1263",
+    "1235"
+   ],
+   "ground": "Hoover Math And Science Academy",
+   "result": "CMCE Falcons won by 315 Runs",
+   "summary": "CMCE Falcons: 368/5(30) APCL Schaumburg Stars: 53/2(12)"
+  },
+  {
+   "matchId": "4067",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4067&clubId=40319",
+   "date": "2024-09-14",
+   "type": "League",
+   "teams": [
+    "APCL Schaumburg Stars",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "1263",
+    "1234"
+   ],
+   "ground": "Hoover Math And Science Academy",
+   "result": "CMCE Dragons won by 9 Wickets",
+   "summary": "APCL Schaumburg Stars: 84/6(26.1) CMCE Dragons: 86/1(10.1)"
+  },
+  {
+   "matchId": "4029",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4029&clubId=40319",
+   "date": "2024-09-07",
+   "type": "League",
+   "teams": [
+    "CMCE Falcons",
+    "APCL Schaumburg Stars"
+   ],
+   "teamIds": [
+    "1235",
+    "1263"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "CMCE Falcons won by 10 Wickets",
+   "summary": "APCL Schaumburg Stars: 24/3(8.2) CMCE Falcons: 25/0(2.4)"
+  },
+  {
+   "matchId": "3919",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3919&clubId=40319",
+   "date": "2024-08-17",
+   "type": "League",
+   "teams": [
+    "CMCE Falcons",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "1235",
+    "1234"
+   ],
+   "ground": "Commissioners Park West Cricket Field",
+   "result": "CMCE Falcons won by 8 Wickets",
+   "summary": "CMCE Dragons: 77/10(21.5) CMCE Falcons: 79/2(17.4)"
+  },
+  {
+   "matchId": "3865",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3865&clubId=40319",
+   "date": "2024-08-10",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "CMCE Dragons"
+   ],
+   "teamIds": [
+    "1236",
+    "1234"
+   ],
+   "ground": "Hanover Park",
+   "result": "CYCA Cubs won by 198 Runs",
+   "summary": "CYCA Cubs: 270/5(30) CMCE Dragons: 72/4(30)"
+  },
+  {
+   "matchId": "3454",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3454&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "CYCA Cubs",
+    "APCL Schaumburg Stars"
+   ],
+   "teamIds": [
+    "1236",
+    "1263"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA Cubs won by 8 Wickets",
+   "summary": "APCL Schaumburg Stars: 44/9(21.1) CYCA Cubs: 46/2(4.1)"
+  }
+ ]
+}

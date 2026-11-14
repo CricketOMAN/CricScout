@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s279",
+  "id": "legacy-133",
+  "name": "2024 DVLP - GCA U13 Presidents Day"
+ },
+ "fetchedAt": "2026-11-13T22:57:15.218Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=133&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=133&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2502",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2502&clubId=40319",
+   "date": "2024-02-19",
+   "type": "League",
+   "teams": [
+    "NC U13",
+    "GA U13"
+   ],
+   "teamIds": [
+    "850",
+    "852"
+   ],
+   "ground": "ACF - G5",
+   "result": "NC U13 won by 10 Wickets",
+   "summary": "GA U13: 118/7(30) NC U13: 120/0(21.1)"
+  },
+  {
+   "matchId": "2500",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2500&clubId=40319",
+   "date": "2024-02-19",
+   "type": "League",
+   "teams": [
+    "NJ U13",
+    "DC U13"
+   ],
+   "teamIds": [
+    "851",
+    "848"
+   ],
+   "ground": "ACF - G4",
+   "result": "NJ U13 won by 55 Runs",
+   "summary": "NJ U13: 203/2(25) DC U13: 148/10(24)"
+  },
+  {
+   "matchId": "2497",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2497&clubId=40319",
+   "date": "2024-02-18",
+   "type": "League",
+   "teams": [
+    "NC U13",
+    "NJ U13"
+   ],
+   "teamIds": [
+    "850",
+    "851"
+   ],
+   "ground": "ACF - G4",
+   "result": "NC U13 won by 4 Wickets",
+   "summary": "NJ U13: 151/5(30) NC U13: 152/6(28.1)"
+  },
+  {
+   "matchId": "2496",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2496&clubId=40319",
+   "date": "2024-02-18",
+   "type": "League",
+   "teams": [
+    "GA U13",
+    "DC U13"
+   ],
+   "teamIds": [
+    "852",
+    "848"
+   ],
+   "ground": "ACF - G5",
+   "result": "DC U13 won by 63 Runs",
+   "summary": "DC U13: 200/5(30) GA U13: 137/6(30)"
+  },
+  {
+   "matchId": "2493",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2493&clubId=40319",
+   "date": "2024-02-17",
+   "type": "League",
+   "teams": [
+    "NC U13",
+    "DC U13"
+   ],
+   "teamIds": [
+    "850",
+    "848"
+   ],
+   "ground": "ACF - G5",
+   "result": "DC U13 won by 24 Runs",
+   "summary": "DC U13: 175/7(30) NC U13: 151/9(30)"
+  },
+  {
+   "matchId": "2492",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2492&clubId=40319",
+   "date": "2024-02-17",
+   "type": "League",
+   "teams": [
+    "GA U13",
+    "NJ U13"
+   ],
+   "teamIds": [
+    "852",
+    "851"
+   ],
+   "ground": "ACF - G4",
+   "result": "NJ U13 won by 116 Runs",
+   "summary": "NJ U13: 185/9(30) GA U13: 69/10(21.2)"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s312",
+  "id": "legacy-110",
+  "name": "USAC JR Zonal 2023 - East U15"
+ },
+ "fetchedAt": "2026-11-13T23:08:30.783Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=110&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=110&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2113",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2113&clubId=40319",
+   "date": "2023-07-24",
+   "type": "League",
+   "teams": [
+    "New York Hub U15",
+    "New England Hub U15"
+   ],
+   "teamIds": [
+    "719",
+    "720"
+   ],
+   "ground": "TBD",
+   "result": "New York Hub U15: 109/6 (26/40 ov)",
+   "summary": "New York Hub U15: 109/6(26) Live"
+  },
+  {
+   "matchId": "2105",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2105&clubId=40319",
+   "date": "2023-07-23",
+   "type": "League",
+   "teams": [
+    "New York Hub U15",
+    "New England Hub U15"
+   ],
+   "teamIds": [
+    "719",
+    "720"
+   ],
+   "ground": "TBD",
+   "result": "New York Hub U15 won by 10 Wickets",
+   "summary": "New England Hub U15: 37/10(19.1) New York Hub U15: 40/0(5.3)"
+  },
+  {
+   "matchId": "2093",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2093&clubId=40319",
+   "date": "2023-07-22",
+   "type": "League",
+   "teams": [
+    "New England Hub U15",
+    "New York Hub U15"
+   ],
+   "teamIds": [
+    "720",
+    "719"
+   ],
+   "ground": "TBD",
+   "result": "New York Hub U15 won by 125 Runs",
+   "summary": "New York Hub U15: 175/10(37.1) New England Hub U15: 50/10(17.3)"
+  }
+ ]
+}

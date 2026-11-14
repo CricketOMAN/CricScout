@@ -1,0 +1,99 @@
+{
+ "season": {
+  "key": "s242",
+  "id": "legacy-221",
+  "name": "USAC Junior 2024 - SAZ Zonals U15"
+ },
+ "fetchedAt": "2026-11-13T22:39:28.854Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=221&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=221&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3749",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3749&clubId=40319",
+   "date": "2024-07-21",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1309",
+    "1310"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Purple won by 4 Wickets",
+   "summary": "Team Blue: 211/10(39.3) Team Purple: 213/6(36.2)"
+  },
+  {
+   "matchId": "3726",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3726&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1309",
+    "1310"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Blue won by 26 Runs (D/L)",
+   "summary": "Team Purple: 262/10(36.4) Team Blue: 145/1(23)"
+  },
+  {
+   "matchId": "3691",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3691&clubId=40319",
+   "date": "2024-07-15",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1309",
+    "1310"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Purple won by 49 Runs",
+   "summary": "Team Purple: 257/7(40) Team Blue: 208/9(40)"
+  },
+  {
+   "matchId": "3673",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3673&clubId=40319",
+   "date": "2024-07-14",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1309",
+    "1310"
+   ],
+   "ground": "WCC 3",
+   "result": "Team Purple won by 4 Wickets",
+   "summary": "Team Blue: 208/7(40) Team Purple: 209/6(38.5)"
+  },
+  {
+   "matchId": "3660",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3660&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1309",
+    "1310"
+   ],
+   "ground": "WCC 1",
+   "result": "Team Blue won by 7 Wickets",
+   "summary": "Team Purple: 223/5(40) Team Blue: 224/3(28.1)"
+  }
+ ]
+}

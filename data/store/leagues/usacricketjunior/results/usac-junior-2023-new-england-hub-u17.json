@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s334",
+  "id": "legacy-64",
+  "name": "USAC Junior 2023 -New England Hub U17"
+ },
+ "fetchedAt": "2026-11-13T23:13:11.766Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=64&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=64&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2216",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2216&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "SCTCA XI",
+    "NCAA Titans"
+   ],
+   "teamIds": [
+    "621",
+    "619"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "NCAA Titans won by 31 Runs",
+   "summary": "NCAA Titans: 133/8(30) SCTCA XI: 102/10(23.4)"
+  },
+  {
+   "matchId": "2210",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2210&clubId=40319",
+   "date": "2023-08-05",
+   "type": "League",
+   "teams": [
+    "SCTCA XI",
+    "Cricmax CT"
+   ],
+   "teamIds": [
+    "621",
+    "618"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "SCTCA XI won by 61 Runs",
+   "summary": "SCTCA XI: 117/9(35) Cricmax CT: 56/10(29.4)"
+  },
+  {
+   "matchId": "2203",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2203&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "NCAA Titans",
+    "Cricmax CT"
+   ],
+   "teamIds": [
+    "619",
+    "618"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "NCAA Titans won by 52 Runs",
+   "summary": "NCAA Titans: 142/10(28) Cricmax CT: 90/10(21.3)"
+  },
+  {
+   "matchId": "2194",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2194&clubId=40319",
+   "date": "2023-08-04",
+   "type": "League",
+   "teams": [
+    "SCTCA XI",
+    "Cricmax CT"
+   ],
+   "teamIds": [
+    "621",
+    "618"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "SCTCA XI won by 94 Runs",
+   "summary": "SCTCA XI: 188/5(35) Cricmax CT: 94/9(33.3)"
+  },
+  {
+   "matchId": "2186",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2186&clubId=40319",
+   "date": "2023-08-03",
+   "type": "League",
+   "teams": [
+    "SCTCA XI",
+    "NCAA Titans"
+   ],
+   "teamIds": [
+    "621",
+    "619"
+   ],
+   "ground": "Franklin Field",
+   "result": "NCAA Titans won by 6 Runs",
+   "summary": "NCAA Titans: 76/10(25.1) SCTCA XI: 70/10(27.1)"
+  },
+  {
+   "matchId": "2183",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2183&clubId=40319",
+   "date": "2023-08-03",
+   "type": "League",
+   "teams": [
+    "NCAA Titans",
+    "Cricmax CT"
+   ],
+   "teamIds": [
+    "619",
+    "618"
+   ],
+   "ground": "Franklin Field",
+   "result": "NCAA Titans won by 136 Runs",
+   "summary": "NCAA Titans: 181/6(30) Cricmax CT: 45/10(22.3)"
+  }
+ ]
+}

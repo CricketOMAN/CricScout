@@ -1,0 +1,218 @@
+{
+ "season": {
+  "key": "s45",
+  "id": "legacy-547",
+  "name": "USAC 2026 - Seattle HUB - Phase2 - U13"
+ },
+ "fetchedAt": "2026-11-13T21:41:31.357Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=547&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=547&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8833",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8833&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Green"
+   ],
+   "teamIds": [
+    "3252",
+    "3251"
+   ],
+   "ground": "FWS",
+   "result": "Team Green won by 25 Runs",
+   "summary": "Team Green: 172/6(30) Team Yellow: 147/10(29.1)"
+  },
+  {
+   "matchId": "8832",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8832&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3255",
+    "3250"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "Team Blue won by -1 Wickets (D/L)",
+   "summary": "Team Red: 155/11(29.5) Team Blue: 172/11(29.2)"
+  },
+  {
+   "matchId": "8818",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8818&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "3251",
+    "3253"
+   ],
+   "ground": "FWS",
+   "result": "Team Orange won by 1 Run (D/L)",
+   "summary": "Team Orange: 89/10(27.2) Team Green: 148/3(30)"
+  },
+  {
+   "matchId": "8817",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8817&clubId=40319",
+   "date": "2026-06-21",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Pink"
+   ],
+   "teamIds": [
+    "3250",
+    "3254"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "Team Red won by 77 Runs (D/L)",
+   "summary": "Team Red: 130/4(30) Team Pink: 172/9(29.3)"
+  },
+  {
+   "matchId": "8800",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8800&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Pink",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3254",
+    "3252"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Pink won by 2 Wickets",
+   "summary": "Team Yellow: 163/7(30) Team Pink: 165/8(27)"
+  },
+  {
+   "matchId": "8799",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8799&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "3253",
+    "3255"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "Team Blue won by 92 Runs (D/L)",
+   "summary": "Team Orange: 150/8(30) Team Blue: 241/3(30)"
+  },
+  {
+   "matchId": "8786",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8786&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Pink"
+   ],
+   "teamIds": [
+    "3255",
+    "3254"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Pink won by 125 Runs",
+   "summary": "Team Pink: 268/3(30) Team Blue: 143/8(30)"
+  },
+  {
+   "matchId": "8784",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8784&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3251",
+    "3250"
+   ],
+   "ground": "FWS",
+   "result": "Team Red won by 51 Runs (D/L)",
+   "summary": "Team Red: 124/10(29.5) Team Green: 148/8(24.3)"
+  },
+  {
+   "matchId": "8781",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8781&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "Team Yellow",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "3252",
+    "3253"
+   ],
+   "ground": "MMF Ground 2",
+   "result": "Team Yellow won by 70 Runs",
+   "summary": "Team Yellow: 176/7(30) Team Orange: 106/11(23.2)"
+  },
+  {
+   "matchId": "8616",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8616&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Pink"
+   ],
+   "teamIds": [
+    "3251",
+    "3254"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Pink won by 17 Runs",
+   "summary": "Team Pink: 160/5(30) Team Green: 143/7(30)"
+  },
+  {
+   "matchId": "8591",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8591&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Yellow"
+   ],
+   "teamIds": [
+    "3255",
+    "3252"
+   ],
+   "ground": "Monroe Marshall Field",
+   "result": "Team Blue won by 42 Runs",
+   "summary": "Team Blue: 194/6(30) Team Yellow: 152/11(30)"
+  },
+  {
+   "matchId": "8585",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8585&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Red"
+   ],
+   "teamIds": [
+    "3253",
+    "3250"
+   ],
+   "ground": "FWS",
+   "result": "Team Red won by 53 Runs",
+   "summary": "Team Red: 135/9(30) Team Orange: 82/10(23)"
+  }
+ ]
+}

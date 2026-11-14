@@ -1,0 +1,252 @@
+{
+ "season": {
+  "key": "s201",
+  "id": "legacy-291",
+  "name": "2025 USAC SoCalAZ - Hub - U11"
+ },
+ "fetchedAt": "2026-11-13T22:26:07.385Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=291&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=291&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5470",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5470&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "WYCA"
+   ],
+   "teamIds": [
+    "1914",
+    "1916"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "WYCA won by 8 Wickets",
+   "summary": "SCYCA: 34/10(13.4) WYCA: 35/2(20)"
+  },
+  {
+   "matchId": "5438",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5438&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1914",
+    "1913"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "SCYCA won by 34 Runs",
+   "summary": "SCYCA: 147/10(25) SCVCA: 113/10(20.1)"
+  },
+  {
+   "matchId": "5412",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5412&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "WYCA",
+    "SDCCYA"
+   ],
+   "teamIds": [
+    "1916",
+    "1915"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "WYCA won by 8 Wickets",
+   "summary": "SDCCYA: 81/10(16.2) WYCA: 82/2(25)"
+  },
+  {
+   "matchId": "5383",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5383&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "SDCCYA",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1915",
+    "1913"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "SCVCA won by 11 Runs",
+   "summary": "SCVCA: 149/9(20) SDCCYA: 138/7(20)"
+  },
+  {
+   "matchId": "5305",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5305&clubId=40319",
+   "date": "2025-05-18",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "SDCCYA"
+   ],
+   "teamIds": [
+    "1914",
+    "1915"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SCYCA won by 63 Runs",
+   "summary": "SCYCA: 153/10(24.3) SDCCYA: 90/10(20.2)"
+  },
+  {
+   "matchId": "5270",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5270&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "AZYCA-SCCAY",
+    "SDCCYA"
+   ],
+   "teamIds": [
+    "1911",
+    "1915"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "AZYCA-SCCAY won by 24 Runs",
+   "summary": "AZYCA-SCCAY: 114/2(20) SDCCYA: 90/9(20)"
+  },
+  {
+   "matchId": "5214",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5214&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "SDCCYA",
+    "AZYCA-SCCAY"
+   ],
+   "teamIds": [
+    "1915",
+    "1911"
+   ],
+   "ground": "Fletcher Elementary School",
+   "result": "SDCCYA won by 17 Runs",
+   "summary": "SDCCYA: 97/10(25) AZYCA-SCCAY: 80/10(23.1)"
+  },
+  {
+   "matchId": "5211",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5211&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "WYCA"
+   ],
+   "teamIds": [
+    "1913",
+    "1916"
+   ],
+   "ground": "Central Park, Santa Clarita",
+   "result": "WYCA won by 5 Wickets",
+   "summary": "SCVCA: 135/9(30) WYCA: 136/5(30)"
+  },
+  {
+   "matchId": "5112",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5112&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "WYCA",
+    "ANYCA-SKA"
+   ],
+   "teamIds": [
+    "1916",
+    "1912"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "WYCA won by 126 Runs",
+   "summary": "WYCA: 182/3(20) ANYCA-SKA: 56/10(20)"
+  },
+  {
+   "matchId": "5073",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5073&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "ANYCA-SKA",
+    "WYCA"
+   ],
+   "teamIds": [
+    "1912",
+    "1916"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "WYCA won by 8 Wickets",
+   "summary": "ANYCA-SKA: 61/9(20) WYCA: 62/2(11.2)"
+  },
+  {
+   "matchId": "5017",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5017&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "ANYCA-SKA",
+    "SCVCA"
+   ],
+   "teamIds": [
+    "1912",
+    "1913"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "SCVCA won by 5 Wickets",
+   "summary": "ANYCA-SKA: 112/9(20) SCVCA: 113/5(14)"
+  },
+  {
+   "matchId": "4908",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4908&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "SCYCA",
+    "ANYCA-SKA"
+   ],
+   "teamIds": [
+    "1914",
+    "1912"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "ANYCA-SKA won by 3 Runs",
+   "summary": "ANYCA-SKA: 72/9(20) SCYCA: 69/8(17.1)"
+  },
+  {
+   "matchId": "4857",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4857&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "ANYCA-SKA",
+    "SDCCYA"
+   ],
+   "teamIds": [
+    "1912",
+    "1915"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "SDCCYA won by 6 Wickets",
+   "summary": "ANYCA-SKA: 110/3(20) SDCCYA: 111/4(17)"
+  },
+  {
+   "matchId": "4780",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4780&clubId=40319",
+   "date": "2025-04-27",
+   "type": "League",
+   "teams": [
+    "SCVCA",
+    "SCYCA"
+   ],
+   "teamIds": [
+    "1913",
+    "1914"
+   ],
+   "ground": "Village Green, Woodley, LA",
+   "result": "SCYCA won by 73 Runs",
+   "summary": "SCYCA: 209/7(25) SCVCA: 136/9(25)"
+  }
+ ]
+}

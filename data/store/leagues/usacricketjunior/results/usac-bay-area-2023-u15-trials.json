@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s322",
+  "id": "legacy-105",
+  "name": "USAC Bay Area 2023 - U15 Trials"
+ },
+ "fetchedAt": "2026-11-13T23:10:49.887Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=105&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=105&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2075",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2075&clubId=40319",
+   "date": "2023-07-16",
+   "type": "League",
+   "teams": [
+    "Team1",
+    "Team2"
+   ],
+   "teamIds": [
+    "716",
+    "718"
+   ],
+   "ground": "TBD",
+   "result": "Team2: 127/12 (37.3/40 ov) Team1: 201/7 (26.2/40 ov) (D/L)",
+   "summary": "Team2: 127/12(37.3) Team1: 201/7(26.2) Live"
+  },
+  {
+   "matchId": "2065",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2065&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Orange"
+   ],
+   "teamIds": [
+    "696",
+    "698"
+   ],
+   "ground": "Sierramont",
+   "result": "Blue won by 47 Runs",
+   "summary": "Blue: 229/5(40) Orange: 182/7(40.1)"
+  },
+  {
+   "matchId": "2063",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2063&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Green"
+   ],
+   "teamIds": [
+    "695",
+    "697"
+   ],
+   "ground": "Dilworth",
+   "result": "Red won by 9 Wickets (D/L)",
+   "summary": "Green: 205/10(39.4) Red: 250/1(39.3)"
+  },
+  {
+   "matchId": "1951",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1951&clubId=40319",
+   "date": "2023-06-25",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Green"
+   ],
+   "teamIds": [
+    "696",
+    "697"
+   ],
+   "ground": "FCP",
+   "result": "Blue won by 15 Runs",
+   "summary": "Blue: 158/8(40) Green: 143/10(37)"
+  },
+  {
+   "matchId": "1950",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1950&clubId=40319",
+   "date": "2023-06-25",
+   "type": "League",
+   "teams": [
+    "Orange",
+    "Red"
+   ],
+   "teamIds": [
+    "698",
+    "695"
+   ],
+   "ground": "Meriwest",
+   "result": "Red won by 1 Run",
+   "summary": "Red: 198/10(40) Orange: 197/11(39.5)"
+  },
+  {
+   "matchId": "1945",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1945&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "695",
+    "696"
+   ],
+   "ground": "Dilworth",
+   "result": "Red won by 7 Runs",
+   "summary": "Red: 225/10(40) Blue: 218/9(40)"
+  },
+  {
+   "matchId": "1944",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1944&clubId=40319",
+   "date": "2023-06-24",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Orange"
+   ],
+   "teamIds": [
+    "697",
+    "698"
+   ],
+   "ground": "Meriwest",
+   "result": "Orange won by 5 Wickets",
+   "summary": "Green: 179/6(40) Orange: 181/5(39.1)"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "season": {
+  "key": "s259",
+  "id": "legacy-200",
+  "name": "Development - East Midwest Hub U15"
+ },
+ "fetchedAt": "2026-11-13T22:42:27.319Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=200&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=200&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2919",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2919&clubId=40319",
+   "date": "2024-04-28",
+   "type": "League",
+   "teams": [
+    "MYCL - MCA - U15",
+    "MYCL�-�DCC�-�U15"
+   ],
+   "teamIds": [
+    "1212",
+    "1213"
+   ],
+   "ground": "Medlar Park Ground",
+   "result": "MYCL - MCA - U15 won by 28 Runs",
+   "summary": "MYCL - MCA - U15: 222/9(40) MYCL�-�DCC�-�U15: 194/10(37.5)"
+  }
+ ]
+}

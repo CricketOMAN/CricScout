@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s233",
+  "id": "legacy-234",
+  "name": "USAC Junior 2024 - Missouri Inter-Hub Regionals U13"
+ },
+ "fetchedAt": "2026-11-13T22:39:20.847Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=234&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=234&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3867",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3867&clubId=40319",
+   "date": "2024-08-10",
+   "type": "3rd Position",
+   "teams": [
+    "STL HUB U13",
+    "WIM_U13"
+   ],
+   "teamIds": [
+    "1350",
+    "1349"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "STL HUB U13 won by 3 Runs",
+   "summary": "STL HUB U13: 189/4(30) WIM_U13: 186/6(30)"
+  },
+  {
+   "matchId": "3866",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3866&clubId=40319",
+   "date": "2024-08-10",
+   "type": "Final",
+   "teams": [
+    "ICE LIONS",
+    "ICE TIGERS"
+   ],
+   "teamIds": [
+    "1347",
+    "1348"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE TIGERS won by 8 Wickets",
+   "summary": "ICE LIONS: 134/8(30) ICE TIGERS: 138/2(27.3)"
+  },
+  {
+   "matchId": "3863",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3863&clubId=40319",
+   "date": "2024-08-09",
+   "type": "League",
+   "teams": [
+    "WIM_U13",
+    "ICE LIONS"
+   ],
+   "teamIds": [
+    "1349",
+    "1347"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE LIONS won by 6 Wickets",
+   "summary": "WIM_U13: 74/10(27.1) ICE LIONS: 75/4(15.2)"
+  },
+  {
+   "matchId": "3862",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3862&clubId=40319",
+   "date": "2024-08-09",
+   "type": "League",
+   "teams": [
+    "STL HUB U13",
+    "ICE TIGERS"
+   ],
+   "teamIds": [
+    "1350",
+    "1348"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE TIGERS won by 1 Wicket",
+   "summary": "STL HUB U13: 140/10(30) ICE TIGERS: 141/9(29.3)"
+  },
+  {
+   "matchId": "3861",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3861&clubId=40319",
+   "date": "2024-08-09",
+   "type": "League",
+   "teams": [
+    "ICE TIGERS",
+    "WIM_U13"
+   ],
+   "teamIds": [
+    "1348",
+    "1349"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE TIGERS won by 95 Runs",
+   "summary": "ICE TIGERS: 163/9(30) WIM_U13: 68/10(26.5)"
+  },
+  {
+   "matchId": "3860",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3860&clubId=40319",
+   "date": "2024-08-09",
+   "type": "League",
+   "teams": [
+    "ICE LIONS",
+    "STL HUB U13"
+   ],
+   "teamIds": [
+    "1347",
+    "1350"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "ICE LIONS won by 6 Wickets",
+   "summary": "STL HUB U13: 125/10(29.3) ICE LIONS: 127/4(20.3)"
+  },
+  {
+   "matchId": "3859",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3859&clubId=40319",
+   "date": "2024-08-08",
+   "type": "League",
+   "teams": [
+    "STL HUB U13",
+    "WIM_U13"
+   ],
+   "teamIds": [
+    "1350",
+    "1349"
+   ],
+   "ground": "ACAC Cricket Ground",
+   "result": "STL HUB U13 won by 93 Runs",
+   "summary": "STL HUB U13: 187/7(30) WIM_U13: 94/10(22.5)"
+  },
+  {
+   "matchId": "3857",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3857&clubId=40319",
+   "date": "2024-08-07",
+   "type": "League",
+   "teams": [
+    "ICE LIONS",
+    "ICE TIGERS"
+   ],
+   "teamIds": [
+    "1347",
+    "1348"
+   ],
+   "ground": "BPL",
+   "result": "ICE LIONS won by 36 Runs",
+   "summary": "ICE LIONS: 127/9(30) ICE TIGERS: 91/9(30)"
+  }
+ ]
+}

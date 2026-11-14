@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s55",
+  "id": "legacy-531",
+  "name": "USAC 2026 - MI Hub - U15"
+ },
+ "fetchedAt": "2026-11-13T21:42:03.404Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=531&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=531&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8694",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8694&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "MYCA",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3179",
+    "3180"
+   ],
+   "ground": "Northville",
+   "result": "MYCA won by 51 Runs",
+   "summary": "MYCA: 161/7(30) PRIME STRIKERS: 110/9(30)"
+  },
+  {
+   "matchId": "8649",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8649&clubId=40319",
+   "date": "2026-06-12",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS",
+    "MYCA"
+   ],
+   "teamIds": [
+    "3180",
+    "3179"
+   ],
+   "ground": "Northville",
+   "result": "MYCA won by 10 Wickets",
+   "summary": "PRIME STRIKERS: 46/10(22.1) MYCA: 47/0(9.2)"
+  },
+  {
+   "matchId": "8286",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8286&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "PRIME STRIKERS",
+    "MYCA"
+   ],
+   "teamIds": [
+    "3180",
+    "3179"
+   ],
+   "ground": "BOULAN PARK",
+   "result": "MYCA won by 167 Runs",
+   "summary": "MYCA: 199/8(29.5) PRIME STRIKERS: 32/10(11.1)"
+  },
+  {
+   "matchId": "8165",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8165&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "MYCA",
+    "PRIME STRIKERS"
+   ],
+   "teamIds": [
+    "3179",
+    "3180"
+   ],
+   "ground": "BOULAN PARK",
+   "result": "MYCA won by 124 Runs",
+   "summary": "MYCA: 188/9(30.2) PRIME STRIKERS: 64/10(14.5)"
+  }
+ ]
+}

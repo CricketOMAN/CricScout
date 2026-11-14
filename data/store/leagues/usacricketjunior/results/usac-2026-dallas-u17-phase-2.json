@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s42",
+  "id": "legacy-550",
+  "name": "USAC 2026 - Dallas U17 Phase 2"
+ },
+ "fetchedAt": "2026-11-13T21:41:24.021Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=550&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=550&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8681",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8681&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Dallas Blue",
+    "Dallas Orange"
+   ],
+   "teamIds": [
+    "3260",
+    "3259"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "Dallas Orange won by 72 Runs",
+   "summary": "Dallas Orange: 141/10(34.3) Dallas Blue: 69/10(18)"
+  },
+  {
+   "matchId": "8631",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8631&clubId=40319",
+   "date": "2026-06-11",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Dallas Orange"
+   ],
+   "teamIds": [
+    "3258",
+    "3259"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "Dallas Orange won by 70 Runs",
+   "summary": "Dallas Orange: 215/5(40) Dallas Red: 145/10(32.5)"
+  },
+  {
+   "matchId": "8626",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8626&clubId=40319",
+   "date": "2026-06-10",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "3258",
+    "3260"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Dallas Red won by 5 Wickets",
+   "summary": "Dallas Blue: 97/10(25.5) Dallas Red: 98/5(31.4)"
+  }
+ ]
+}

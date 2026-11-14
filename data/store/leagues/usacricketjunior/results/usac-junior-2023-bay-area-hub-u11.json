@@ -1,0 +1,1085 @@
+{
+ "season": {
+  "key": "s288",
+  "id": "legacy-24",
+  "name": "USAC Junior 2023 - Bay Area Hub U11"
+ },
+ "fetchedAt": "2026-11-13T23:02:32.624Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=24&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=24&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2477",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2477&clubId=40319",
+   "date": "2023-10-22",
+   "type": "League",
+   "teams": [
+    "SRCA Danville Hawks",
+    "CCA San Jose Challengers"
+   ],
+   "teamIds": [
+    "785",
+    "790"
+   ],
+   "ground": "Alisal",
+   "result": "CCA San Jose Challengers won by 13 Runs",
+   "summary": "CCA San Jose Challengers: 90/5(25) SRCA Danville Hawks: 77/7(25)"
+  },
+  {
+   "matchId": "2476",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2476&clubId=40319",
+   "date": "2023-10-15",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Lions",
+    "VKCA Fremont Mustang"
+   ],
+   "teamIds": [
+    "789",
+    "791"
+   ],
+   "ground": "Dilworth",
+   "result": "VKCA Fremont Mustang won by 87 Runs",
+   "summary": "VKCA Fremont Mustang: 158/4(25) CCA Fremont Lions: 71/8(19.4)"
+  },
+  {
+   "matchId": "2474",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2474&clubId=40319",
+   "date": "2023-10-15",
+   "type": "League",
+   "teams": [
+    "MLCA",
+    "CCA San Jose Challengers"
+   ],
+   "teamIds": [
+    "792",
+    "790"
+   ],
+   "ground": "Sierramont",
+   "result": "CCA San Jose Challengers won by 6 Wickets",
+   "summary": "MLCA: 135/9(25) CCA San Jose Challengers: 139/4(23.1)"
+  },
+  {
+   "matchId": "2473",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2473&clubId=40319",
+   "date": "2023-10-15",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "CCA Cupertino Cougars"
+   ],
+   "teamIds": [
+    "795",
+    "797"
+   ],
+   "ground": "Judah",
+   "result": "CCA Cupertino Cougars won by 46 Runs",
+   "summary": "CCA Cupertino Cougars: 149/5(25) SYCA Eagles: 103/10(19.4)"
+  },
+  {
+   "matchId": "2475",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2475&clubId=40319",
+   "date": "2023-10-15",
+   "type": "League",
+   "teams": [
+    "CCA Silicon Valley Strikers",
+    "CCA Palo Alto Cardinals"
+   ],
+   "teamIds": [
+    "802",
+    "804"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "CCA Silicon Valley Strikers won by 41 Runs",
+   "summary": "CCA Silicon Valley Strikers: 134/9(25) CCA Palo Alto Cardinals: 93/8(24)"
+  },
+  {
+   "matchId": "2472",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2472&clubId=40319",
+   "date": "2023-10-15",
+   "type": "League",
+   "teams": [
+    "CCA Warm Spring Wolves",
+    "CCA Stanford Samurais"
+   ],
+   "teamIds": [
+    "800",
+    "805"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Warm Spring Wolves won by 100 Runs",
+   "summary": "CCA Warm Spring Wolves: 144/9(25) CCA Stanford Samurais: 44/8(22.1)"
+  },
+  {
+   "matchId": "2470",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2470&clubId=40319",
+   "date": "2023-10-14",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Lions",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "789",
+    "787"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA Fremont Lions won by 4 Wickets",
+   "summary": "ASCE Hawks: 91/9(25) CCA Fremont Lions: 92/6(24.1)"
+  },
+  {
+   "matchId": "2469",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2469&clubId=40319",
+   "date": "2023-10-14",
+   "type": "League",
+   "teams": [
+    "DSCA Tigers",
+    "SRCA Dublin Jaguars"
+   ],
+   "teamIds": [
+    "793",
+    "799"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA Tigers won by 61 Runs",
+   "summary": "DSCA Tigers: 140/4(25) SRCA Dublin Jaguars: 79/9(22.3)"
+  },
+  {
+   "matchId": "2468",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2468&clubId=40319",
+   "date": "2023-10-14",
+   "type": "League",
+   "teams": [
+    "SRCA San Ramon Gladiators",
+    "ASCE Warm Spring YCC"
+   ],
+   "teamIds": [
+    "794",
+    "796"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA San Ramon Gladiators won by 6 Wickets",
+   "summary": "ASCE Warm Spring YCC: 83/9(24.1) SRCA San Ramon Gladiators: 84/4(11.1)"
+  },
+  {
+   "matchId": "2466",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2466&clubId=40319",
+   "date": "2023-10-14",
+   "type": "League",
+   "teams": [
+    "TCA",
+    "ASCE Fremont Thunders"
+   ],
+   "teamIds": [
+    "806",
+    "801"
+   ],
+   "ground": "Bay Point",
+   "result": "Forfeited. Winner: TCA",
+   "summary": "TCA: 0/0(0)"
+  },
+  {
+   "matchId": "2465",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2465&clubId=40319",
+   "date": "2023-10-08",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Challengers",
+    "VKCA Fremont Mustang"
+   ],
+   "teamIds": [
+    "790",
+    "791"
+   ],
+   "ground": "Dilworth",
+   "result": "VKCA Fremont Mustang won by 45 Runs",
+   "summary": "VKCA Fremont Mustang: 116/6(25) CCA San Jose Challengers: 71/10(23.4)"
+  },
+  {
+   "matchId": "2463",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2463&clubId=40319",
+   "date": "2023-10-08",
+   "type": "League",
+   "teams": [
+    "MLCA",
+    "CCA Fremont Lions"
+   ],
+   "teamIds": [
+    "792",
+    "789"
+   ],
+   "ground": "Sierramont",
+   "result": "MLCA won by 2 Wickets",
+   "summary": "CCA Fremont Lions: 93/9(25) MLCA: 95/8(23.2)"
+  },
+  {
+   "matchId": "2464",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2464&clubId=40319",
+   "date": "2023-10-08",
+   "type": "League",
+   "teams": [
+    "CCA Silicon Valley Strikers",
+    "CCA Warm Spring Wolves"
+   ],
+   "teamIds": [
+    "802",
+    "800"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA Silicon Valley Strikers won by 6 Wickets",
+   "summary": "CCA Warm Spring Wolves: 108/5(25) CCA Silicon Valley Strikers: 109/4(22.5)"
+  },
+  {
+   "matchId": "2462",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2462&clubId=40319",
+   "date": "2023-10-08",
+   "type": "League",
+   "teams": [
+    "CCA Golden State Grizzlies",
+    "TCA"
+   ],
+   "teamIds": [
+    "803",
+    "806"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Golden State Grizzlies won by 47 Runs",
+   "summary": "CCA Golden State Grizzlies: 131/4(25) TCA: 84/9(25)"
+  },
+  {
+   "matchId": "2461",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2461&clubId=40319",
+   "date": "2023-10-08",
+   "type": "League",
+   "teams": [
+    "CCA Palo Alto Cardinals",
+    "CCA Stanford Samurais"
+   ],
+   "teamIds": [
+    "804",
+    "805"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA Stanford Samurais won by 18 Runs",
+   "summary": "CCA Stanford Samurais: 97/8(25) CCA Palo Alto Cardinals: 79/8(20.5)"
+  },
+  {
+   "matchId": "2458",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2458&clubId=40319",
+   "date": "2023-10-07",
+   "type": "League",
+   "teams": [
+    "SRCA Warriors",
+    "SRCA Danville Hawks"
+   ],
+   "teamIds": [
+    "788",
+    "785"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA Warriors won by 34 Runs",
+   "summary": "SRCA Warriors: 152/3(25) SRCA Danville Hawks: 118/9(25)"
+  },
+  {
+   "matchId": "2460",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2460&clubId=40319",
+   "date": "2023-10-07",
+   "type": "League",
+   "teams": [
+    "SRCA Dublin Jaguars",
+    "SRCA San Ramon Gladiators"
+   ],
+   "teamIds": [
+    "799",
+    "794"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA San Ramon Gladiators won by 4 Wickets",
+   "summary": "SRCA Dublin Jaguars: 113/7(25) SRCA San Ramon Gladiators: 114/6(23.5)"
+  },
+  {
+   "matchId": "2459",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2459&clubId=40319",
+   "date": "2023-10-07",
+   "type": "League",
+   "teams": [
+    "ASCE Warm Spring YCC",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "796",
+    "795"
+   ],
+   "ground": "Challenger",
+   "result": "ASCE Warm Spring YCC won by 5 Wickets",
+   "summary": "SYCA Eagles: 90/9(25) ASCE Warm Spring YCC: 94/5(20.4)"
+  },
+  {
+   "matchId": "2457",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2457&clubId=40319",
+   "date": "2023-10-07",
+   "type": "League",
+   "teams": [
+    "DSCA Tigers",
+    "VKCA FREMONT DRAGONS"
+   ],
+   "teamIds": [
+    "793",
+    "798"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA Tigers won by 7 Wickets",
+   "summary": "VKCA FREMONT DRAGONS: 62/10(18.4) DSCA Tigers: 63/3(12.2)"
+  },
+  {
+   "matchId": "2453",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2453&clubId=40319",
+   "date": "2023-10-01",
+   "type": "League",
+   "teams": [
+    "VKCA Fremont Mustang",
+    "MLCA"
+   ],
+   "teamIds": [
+    "791",
+    "792"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Fremont Mustang won by 7 Wickets",
+   "summary": "MLCA: 70/8(25) VKCA Fremont Mustang: 71/3(11.5)"
+  },
+  {
+   "matchId": "2452",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2452&clubId=40319",
+   "date": "2023-10-01",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Challengers",
+    "CCA Fremont Lions"
+   ],
+   "teamIds": [
+    "790",
+    "789"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA San Jose Challengers won by 7 Wickets",
+   "summary": "CCA Fremont Lions: 71/10(21.1) CCA San Jose Challengers: 72/3(19.3)"
+  },
+  {
+   "matchId": "2455",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2455&clubId=40319",
+   "date": "2023-10-01",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Cougars",
+    "VKCA FREMONT DRAGONS"
+   ],
+   "teamIds": [
+    "797",
+    "798"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Cupertino Cougars won by 8 Wickets",
+   "summary": "VKCA FREMONT DRAGONS: 36/10(16.3) CCA Cupertino Cougars: 37/2(6.4)"
+  },
+  {
+   "matchId": "2454",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2454&clubId=40319",
+   "date": "2023-10-01",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "DSCA Tigers"
+   ],
+   "teamIds": [
+    "795",
+    "793"
+   ],
+   "ground": "Judah",
+   "result": "DSCA Tigers won by 73 Runs",
+   "summary": "DSCA Tigers: 221/0(25) SYCA Eagles: 148/6(25)"
+  },
+  {
+   "matchId": "2456",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2456&clubId=40319",
+   "date": "2023-10-01",
+   "type": "League",
+   "teams": [
+    "CCA Stanford Samurais",
+    "ASCE Fremont Thunders"
+   ],
+   "teamIds": [
+    "805",
+    "801"
+   ],
+   "ground": "Cupertino Library",
+   "result": "ASCE Fremont Thunders won by 3 Wickets",
+   "summary": "CCA Stanford Samurais: 81/8(24.2) ASCE Fremont Thunders: 82/7(24.4)"
+  },
+  {
+   "matchId": "2451",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2451&clubId=40319",
+   "date": "2023-10-01",
+   "type": "League",
+   "teams": [
+    "CCA Warm Spring Wolves",
+    "CCA Palo Alto Cardinals"
+   ],
+   "teamIds": [
+    "800",
+    "804"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA Warm Spring Wolves won by 29 Runs",
+   "summary": "CCA Warm Spring Wolves: 138/3(25) CCA Palo Alto Cardinals: 109/7(25)"
+  },
+  {
+   "matchId": "2448",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2448&clubId=40319",
+   "date": "2023-09-30",
+   "type": "League",
+   "teams": [
+    "SRCA Warriors",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "788",
+    "787"
+   ],
+   "ground": "WRMS",
+   "result": "ASCE Hawks won by 4 Wickets",
+   "summary": "SRCA Warriors: 102/7(25) ASCE Hawks: 105/6(23.2)"
+  },
+  {
+   "matchId": "2449",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2449&clubId=40319",
+   "date": "2023-09-30",
+   "type": "League",
+   "teams": [
+    "ASCE Warm Spring YCC",
+    "SRCA Dublin Jaguars"
+   ],
+   "teamIds": [
+    "796",
+    "799"
+   ],
+   "ground": "Challenger",
+   "result": "ASCE Warm Spring YCC won by 2 Wickets",
+   "summary": "SRCA Dublin Jaguars: 85/8(25) ASCE Warm Spring YCC: 86/8(23.2)"
+  },
+  {
+   "matchId": "2450",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2450&clubId=40319",
+   "date": "2023-09-30",
+   "type": "League",
+   "teams": [
+    "CCA Golden State Grizzlies",
+    "CCA Silicon Valley Strikers"
+   ],
+   "teamIds": [
+    "803",
+    "802"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Silicon Valley Strikers won by 34 Runs",
+   "summary": "CCA Silicon Valley Strikers: 102/9(22.1) CCA Golden State Grizzlies: 68/7(25)"
+  },
+  {
+   "matchId": "2447",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2447&clubId=40319",
+   "date": "2023-09-24",
+   "type": "League",
+   "teams": [
+    "CCA Palo Alto Cardinals",
+    "ASCE Fremont Thunders"
+   ],
+   "teamIds": [
+    "804",
+    "801"
+   ],
+   "ground": "Dilworth",
+   "result": "ASCE Fremont Thunders won by 21 Runs",
+   "summary": "ASCE Fremont Thunders: 125/1(25) CCA Palo Alto Cardinals: 104/5(25)"
+  },
+  {
+   "matchId": "2442",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2442&clubId=40319",
+   "date": "2023-09-24",
+   "type": "League",
+   "teams": [
+    "CCA Golden State Grizzlies",
+    "CCA Warm Spring Wolves"
+   ],
+   "teamIds": [
+    "803",
+    "800"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "CCA Warm Spring Wolves won by 56 Runs",
+   "summary": "CCA Warm Spring Wolves: 143/7(25) CCA Golden State Grizzlies: 87/4(25)"
+  },
+  {
+   "matchId": "2431",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2431&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "MLCA",
+    "SRCA Warriors"
+   ],
+   "teamIds": [
+    "792",
+    "788"
+   ],
+   "ground": "Sierramont",
+   "result": "MLCA won by 12 Runs",
+   "summary": "MLCA: 88/8(25) SRCA Warriors: 76/10(15.5)"
+  },
+  {
+   "matchId": "2435",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2435&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "SRCA Dublin Jaguars",
+    "CCA Cupertino Cougars"
+   ],
+   "teamIds": [
+    "799",
+    "797"
+   ],
+   "ground": "WRMS",
+   "result": "CCA Cupertino Cougars won by 83 Runs",
+   "summary": "CCA Cupertino Cougars: 169/9(25) SRCA Dublin Jaguars: 86/10(21)"
+  },
+  {
+   "matchId": "2434",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2434&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "VKCA FREMONT DRAGONS",
+    "ASCE Warm Spring YCC"
+   ],
+   "teamIds": [
+    "798",
+    "796"
+   ],
+   "ground": "Sigman Field",
+   "result": "VKCA FREMONT DRAGONS won by 1 Wicket",
+   "summary": "ASCE Warm Spring YCC: 112/7(25) VKCA FREMONT DRAGONS: 113/9(24.5)"
+  },
+  {
+   "matchId": "2427",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2427&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "SRCA San Ramon Gladiators",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "794",
+    "795"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA San Ramon Gladiators won by 5 Wickets",
+   "summary": "SYCA Eagles: 121/10(24.2) SRCA San Ramon Gladiators: 124/5(23.1)"
+  },
+  {
+   "matchId": "2436",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2436&clubId=40319",
+   "date": "2023-09-23",
+   "type": "League",
+   "teams": [
+    "TCA",
+    "CCA Stanford Samurais"
+   ],
+   "teamIds": [
+    "806",
+    "805"
+   ],
+   "ground": "Nielsen",
+   "result": "TCA won by 69 Runs",
+   "summary": "TCA: 123/8(25) CCA Stanford Samurais: 54/7(14.2)"
+  },
+  {
+   "matchId": "2419",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2419&clubId=40319",
+   "date": "2023-09-17",
+   "type": "League",
+   "teams": [
+    "CCA Fremont Lions",
+    "SRCA Danville Hawks"
+   ],
+   "teamIds": [
+    "789",
+    "785"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA Fremont Lions won by 88 Runs",
+   "summary": "CCA Fremont Lions: 200/3(25) SRCA Danville Hawks: 112/7(25.1)"
+  },
+  {
+   "matchId": "2417",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2417&clubId=40319",
+   "date": "2023-09-17",
+   "type": "League",
+   "teams": [
+    "ASCE Hawks",
+    "MLCA"
+   ],
+   "teamIds": [
+    "787",
+    "792"
+   ],
+   "ground": "Easterbrook",
+   "result": "ASCE Hawks won by 8 Wickets",
+   "summary": "MLCA: 23/10(22) ASCE Hawks: 27/2(9.5)"
+  },
+  {
+   "matchId": "2420",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2420&clubId=40319",
+   "date": "2023-09-17",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Cougars",
+    "SRCA San Ramon Gladiators"
+   ],
+   "teamIds": [
+    "797",
+    "794"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA Cupertino Cougars won by 85 Runs",
+   "summary": "CCA Cupertino Cougars: 164/6(25) SRCA San Ramon Gladiators: 79/10(23.1)"
+  },
+  {
+   "matchId": "2418",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2418&clubId=40319",
+   "date": "2023-09-17",
+   "type": "League",
+   "teams": [
+    "TCA",
+    "CCA Palo Alto Cardinals"
+   ],
+   "teamIds": [
+    "806",
+    "804"
+   ],
+   "ground": "Nielsen",
+   "result": "TCA won by 8 Wickets",
+   "summary": "CCA Palo Alto Cardinals: 78/7(25) TCA: 79/2(15.5)"
+  },
+  {
+   "matchId": "2413",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2413&clubId=40319",
+   "date": "2023-09-17",
+   "type": "League",
+   "teams": [
+    "CCA Stanford Samurais",
+    "CCA Golden State Grizzlies"
+   ],
+   "teamIds": [
+    "805",
+    "803"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA Golden State Grizzlies won by 32 Runs",
+   "summary": "CCA Golden State Grizzlies: 115/8(25) CCA Stanford Samurais: 83/7(21.3)"
+  },
+  {
+   "matchId": "2406",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2406&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "ASCE Hawks",
+    "CCA San Jose Challengers"
+   ],
+   "teamIds": [
+    "787",
+    "790"
+   ],
+   "ground": "Challenger",
+   "result": "ASCE Hawks won by 5 Wickets",
+   "summary": "CCA San Jose Challengers: 72/6(25) ASCE Hawks: 73/5(24.3)"
+  },
+  {
+   "matchId": "2403",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2403&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "VKCA Fremont Mustang",
+    "SRCA Warriors"
+   ],
+   "teamIds": [
+    "791",
+    "788"
+   ],
+   "ground": "FCP",
+   "result": "SRCA Warriors won by 6 Wickets",
+   "summary": "VKCA Fremont Mustang: 109/7(25) SRCA Warriors: 111/4(24)"
+  },
+  {
+   "matchId": "2410",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2410&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "ASCE Warm Spring YCC",
+    "DSCA Tigers"
+   ],
+   "teamIds": [
+    "796",
+    "793"
+   ],
+   "ground": "Challenger",
+   "result": "DSCA Tigers won by 99 Runs",
+   "summary": "DSCA Tigers: 161/4(25) ASCE Warm Spring YCC: 62/7(15.1)"
+  },
+  {
+   "matchId": "2409",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2409&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "SRCA Dublin Jaguars",
+    "VKCA FREMONT DRAGONS"
+   ],
+   "teamIds": [
+    "799",
+    "798"
+   ],
+   "ground": "WRMS",
+   "result": "VKCA FREMONT DRAGONS won by 6 Wickets",
+   "summary": "SRCA Dublin Jaguars: 84/3(25) VKCA FREMONT DRAGONS: 85/4(16.5)"
+  },
+  {
+   "matchId": "2402",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2402&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "ASCE Fremont Thunders",
+    "CCA Silicon Valley Strikers"
+   ],
+   "teamIds": [
+    "801",
+    "802"
+   ],
+   "ground": "Easterbrook",
+   "result": "CCA Silicon Valley Strikers won by 16 Runs",
+   "summary": "CCA Silicon Valley Strikers: 154/5(25) ASCE Fremont Thunders: 138/7(24.2)"
+  },
+  {
+   "matchId": "2397",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2397&clubId=40319",
+   "date": "2023-09-10",
+   "type": "League",
+   "teams": [
+    "CCA Palo Alto Cardinals",
+    "CCA Golden State Grizzlies"
+   ],
+   "teamIds": [
+    "804",
+    "803"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "CCA Golden State Grizzlies won by 6 Wickets",
+   "summary": "CCA Palo Alto Cardinals: 113/8(24.2) CCA Golden State Grizzlies: 114/4(22.5)"
+  },
+  {
+   "matchId": "2393",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2393&clubId=40319",
+   "date": "2023-09-10",
+   "type": "League",
+   "teams": [
+    "CCA Silicon Valley Strikers",
+    "TCA"
+   ],
+   "teamIds": [
+    "802",
+    "806"
+   ],
+   "ground": "Homestead Cupertino",
+   "result": "TCA won by 7 Runs",
+   "summary": "TCA: 122/3(25) CCA Silicon Valley Strikers: 115/7(25)"
+  },
+  {
+   "matchId": "2388",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2388&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "SRCA Warriors",
+    "CCA Fremont Lions"
+   ],
+   "teamIds": [
+    "788",
+    "789"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA Warriors won by 7 Wickets",
+   "summary": "CCA Fremont Lions: 109/7(25) SRCA Warriors: 110/3(21.1)"
+  },
+  {
+   "matchId": "2382",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2382&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "ASCE Hawks",
+    "VKCA Fremont Mustang"
+   ],
+   "teamIds": [
+    "787",
+    "791"
+   ],
+   "ground": "Challenger",
+   "result": "VKCA Fremont Mustang won by 21 Runs",
+   "summary": "VKCA Fremont Mustang: 110/10(24.2) ASCE Hawks: 89/8(24.3)"
+  },
+  {
+   "matchId": "2380",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2380&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "SRCA Danville Hawks",
+    "MLCA"
+   ],
+   "teamIds": [
+    "785",
+    "792"
+   ],
+   "ground": "WRMS",
+   "result": "SRCA Danville Hawks won by 6 Wickets",
+   "summary": "MLCA: 105/8(25) SRCA Danville Hawks: 106/4(16.1)"
+  },
+  {
+   "matchId": "2387",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2387&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "VKCA FREMONT DRAGONS",
+    "SRCA San Ramon Gladiators"
+   ],
+   "teamIds": [
+    "798",
+    "794"
+   ],
+   "ground": "Sigman Field",
+   "result": "SRCA San Ramon Gladiators won by 7 Wickets",
+   "summary": "VKCA FREMONT DRAGONS: 32/10(17) SRCA San Ramon Gladiators: 35/3(12.3)"
+  },
+  {
+   "matchId": "2381",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2381&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "DSCA Tigers",
+    "CCA Cupertino Cougars"
+   ],
+   "teamIds": [
+    "793",
+    "797"
+   ],
+   "ground": "Nielsen",
+   "result": "DSCA Tigers won by 9 Wickets",
+   "summary": "CCA Cupertino Cougars: 64/10(21.3) DSCA Tigers: 65/1(14.2)"
+  },
+  {
+   "matchId": "2389",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2389&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "ASCE Fremont Thunders",
+    "CCA Warm Spring Wolves"
+   ],
+   "teamIds": [
+    "801",
+    "800"
+   ],
+   "ground": "Challenger",
+   "result": "CCA Warm Spring Wolves won by 9 Wickets",
+   "summary": "ASCE Fremont Thunders: 107/7(25) CCA Warm Spring Wolves: 111/1(22)"
+  },
+  {
+   "matchId": "2355",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2355&clubId=40319",
+   "date": "2023-08-27",
+   "type": "League",
+   "teams": [
+    "CCA San Jose Challengers",
+    "SRCA Warriors"
+   ],
+   "teamIds": [
+    "790",
+    "788"
+   ],
+   "ground": "Dilworth",
+   "result": "CCA San Jose Challengers won by 4 Wickets",
+   "summary": "SRCA Warriors: 87/6(25) CCA San Jose Challengers: 90/6(23.4)"
+  },
+  {
+   "matchId": "2362",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2362&clubId=40319",
+   "date": "2023-08-27",
+   "type": "League",
+   "teams": [
+    "SYCA Eagles",
+    "SRCA Dublin Jaguars"
+   ],
+   "teamIds": [
+    "795",
+    "799"
+   ],
+   "ground": "Roseville",
+   "result": "SRCA Dublin Jaguars won by 40 Runs",
+   "summary": "SRCA Dublin Jaguars: 96/10(20.2) SYCA Eagles: 56/10(18)"
+  },
+  {
+   "matchId": "2361",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2361&clubId=40319",
+   "date": "2023-08-27",
+   "type": "League",
+   "teams": [
+    "CCA Cupertino Cougars",
+    "ASCE Warm Spring YCC"
+   ],
+   "teamIds": [
+    "797",
+    "796"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA Cupertino Cougars won by 9 Wickets",
+   "summary": "ASCE Warm Spring YCC: 40/9(16.1) CCA Cupertino Cougars: 41/1(9.2)"
+  },
+  {
+   "matchId": "2360",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2360&clubId=40319",
+   "date": "2023-08-27",
+   "type": "League",
+   "teams": [
+    "TCA",
+    "CCA Warm Spring Wolves"
+   ],
+   "teamIds": [
+    "806",
+    "800"
+   ],
+   "ground": "Nielsen",
+   "result": "It is a Tie",
+   "summary": "TCA: 89/8(25) CCA Warm Spring Wolves: 89/10(24)"
+  },
+  {
+   "matchId": "2357",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2357&clubId=40319",
+   "date": "2023-08-27",
+   "type": "League",
+   "teams": [
+    "CCA Stanford Samurais",
+    "CCA Silicon Valley Strikers"
+   ],
+   "teamIds": [
+    "805",
+    "802"
+   ],
+   "ground": "Cupertino Library",
+   "result": "CCA Stanford Samurais won by 25 Runs",
+   "summary": "CCA Stanford Samurais: 125/6(25.1) CCA Silicon Valley Strikers: 100/9(24.4)"
+  },
+  {
+   "matchId": "2348",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2348&clubId=40319",
+   "date": "2023-08-26",
+   "type": "League",
+   "teams": [
+    "VKCA Fremont Mustang",
+    "SRCA Danville Hawks"
+   ],
+   "teamIds": [
+    "791",
+    "785"
+   ],
+   "ground": "FCP",
+   "result": "VKCA Fremont Mustang won by 7 Wickets",
+   "summary": "SRCA Danville Hawks: 85/8(25) VKCA Fremont Mustang: 86/3(16)"
+  },
+  {
+   "matchId": "2344",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2344&clubId=40319",
+   "date": "2023-08-26",
+   "type": "League",
+   "teams": [
+    "SRCA San Ramon Gladiators",
+    "DSCA Tigers"
+   ],
+   "teamIds": [
+    "794",
+    "793"
+   ],
+   "ground": "WRMS",
+   "result": "DSCA Tigers won by 9 Wickets",
+   "summary": "SRCA San Ramon Gladiators: 63/8(25) DSCA Tigers: 66/1(16)"
+  },
+  {
+   "matchId": "2351",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2351&clubId=40319",
+   "date": "2023-08-26",
+   "type": "League",
+   "teams": [
+    "ASCE Fremont Thunders",
+    "CCA Golden State Grizzlies"
+   ],
+   "teamIds": [
+    "801",
+    "803"
+   ],
+   "ground": "Challenger",
+   "result": "CCA Golden State Grizzlies won by 34 Runs",
+   "summary": "CCA Golden State Grizzlies: 161/4(25.2) ASCE Fremont Thunders: 127/6(25.4)"
+  },
+  {
+   "matchId": "2320",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2320&clubId=40319",
+   "date": "2023-08-19",
+   "type": "League",
+   "teams": [
+    "SRCA Danville Hawks",
+    "ASCE Hawks"
+   ],
+   "teamIds": [
+    "785",
+    "787"
+   ],
+   "ground": "WRMS",
+   "result": "ASCE Hawks won by 8 Wickets",
+   "summary": "SRCA Danville Hawks: 93/4(25) ASCE Hawks: 99/2(14.5)"
+  },
+  {
+   "matchId": "2319",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2319&clubId=40319",
+   "date": "2023-08-19",
+   "type": "League",
+   "teams": [
+    "VKCA FREMONT DRAGONS",
+    "SYCA Eagles"
+   ],
+   "teamIds": [
+    "798",
+    "795"
+   ],
+   "ground": "Sigman Field",
+   "result": "VKCA FREMONT DRAGONS won by 18 Runs",
+   "summary": "VKCA FREMONT DRAGONS: 165/7(25) SYCA Eagles: 147/8(25)"
+  }
+ ]
+}

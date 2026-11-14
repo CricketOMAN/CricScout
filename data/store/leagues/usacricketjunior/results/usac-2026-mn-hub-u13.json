@@ -1,0 +1,201 @@
+{
+ "season": {
+  "key": "s73",
+  "id": "legacy-509",
+  "name": "USAC 2026 - MN HUB- U13"
+ },
+ "fetchedAt": "2026-11-13T21:45:02.322Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=509&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=509&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8711",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8711&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "MVP Warriors",
+    "MYCA Hurricane"
+   ],
+   "teamIds": [
+    "3108",
+    "3117"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Warriors won by 272 Runs",
+   "summary": "MVP Warriors: 328/4(30) MYCA Hurricane: 56/10(25.4)"
+  },
+  {
+   "matchId": "8498",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8498&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "MVP Gladiators",
+    "MYCA Hurricane"
+   ],
+   "teamIds": [
+    "3111",
+    "3117"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Gladiators won by 80 Runs",
+   "summary": "MVP Gladiators: 112/10(26.3) MYCA Hurricane: 32/10(12.1)"
+  },
+  {
+   "matchId": "8291",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8291&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "MVP Warriors",
+    "MVP Gladiators"
+   ],
+   "teamIds": [
+    "3108",
+    "3111"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Warriors won by 155 Runs",
+   "summary": "MVP Warriors: 191/8(30) MVP Gladiators: 36/10(18.1)"
+  },
+  {
+   "matchId": "8167",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8167&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "MVP Gladiators",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "3111",
+    "3109"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Blizzards won by 205 Runs",
+   "summary": "MYCA Blizzards: 259/4(30) MVP Gladiators: 54/10(16.3)"
+  },
+  {
+   "matchId": "8014",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8014&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "MVP Warriors",
+    "MVP Gladiators"
+   ],
+   "teamIds": [
+    "3108",
+    "3111"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Warriors won by 234 Runs",
+   "summary": "MVP Warriors: 255/5(30) MVP Gladiators: 21/11(10.1)"
+  },
+  {
+   "matchId": "7963",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7963&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "MYCA Blizzards",
+    "MYCA Hurricane"
+   ],
+   "teamIds": [
+    "3109",
+    "3117"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Blizzards won by 163 Runs",
+   "summary": "MYCA Blizzards: 244/7(30) MYCA Hurricane: 81/10(20.3)"
+  },
+  {
+   "matchId": "7863",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7863&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "MVP Warriors",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "3108",
+    "3109"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MVP Warriors won by 16 Runs",
+   "summary": "MVP Warriors: 193/9(30) MYCA Blizzards: 177/10(28.5)"
+  },
+  {
+   "matchId": "7755",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7755&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "MVP Gladiators",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "3111",
+    "3109"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Blizzards won by 219 Runs",
+   "summary": "MYCA Blizzards: 280/2(30) MVP Gladiators: 61/10(14.5)"
+  },
+  {
+   "matchId": "7753",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7753&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "MVP Warriors",
+    "MYCA Hurricane"
+   ],
+   "teamIds": [
+    "3108",
+    "3117"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MVP Warriors won by 192 Runs",
+   "summary": "MVP Warriors: 316/1(30) MYCA Hurricane: 124/10(27)"
+  },
+  {
+   "matchId": "7716",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7716&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "MVP Warriors",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "3108",
+    "3109"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Warriors won by 7 Wickets",
+   "summary": "MYCA Blizzards: 69/10(20.2) MVP Warriors: 70/3(12.2)"
+  },
+  {
+   "matchId": "7541",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7541&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "MVP Gladiators",
+    "MYCA Hurricane"
+   ],
+   "teamIds": [
+    "3111",
+    "3117"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP Gladiators won by 35 Runs",
+   "summary": "MVP Gladiators: 161/8(30) MYCA Hurricane: 126/10(28.4)"
+  }
+ ]
+}

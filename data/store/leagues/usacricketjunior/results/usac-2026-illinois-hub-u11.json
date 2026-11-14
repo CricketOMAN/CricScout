@@ -1,0 +1,252 @@
+{
+ "season": {
+  "key": "s65",
+  "id": "legacy-519",
+  "name": "USAC 2026 - Illinois Hub U11"
+ },
+ "fetchedAt": "2026-11-13T21:44:54.908Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=519&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=519&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8431",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8431&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "CYCA U11 B",
+    "CHICAGO U11"
+   ],
+   "teamIds": [
+    "3142",
+    "3145"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U11 B won by 168 Runs",
+   "summary": "CYCA U11 B: 261/7(30) CHICAGO U11: 93/10(24.4)"
+  },
+  {
+   "matchId": "8374",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8374&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "CYCA U11 B",
+    "BPL U11 B"
+   ],
+   "teamIds": [
+    "3142",
+    "3144"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U11 B won by 98 Runs",
+   "summary": "CYCA U11 B: 198/9(30) BPL U11 B: 100/10(24)"
+  },
+  {
+   "matchId": "8290",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8290&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "BPL U11 B",
+    "CHICAGO U11"
+   ],
+   "teamIds": [
+    "3144",
+    "3145"
+   ],
+   "ground": "NKPRK",
+   "result": "BPL U11 B won by 7 Runs",
+   "summary": "BPL U11 B: 125/7(30) CHICAGO U11: 118/8(30)"
+  },
+  {
+   "matchId": "8283",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8283&clubId=40319",
+   "date": "2026-05-30",
+   "type": "League",
+   "teams": [
+    "CYCA U11 A",
+    "BPL U11 A"
+   ],
+   "teamIds": [
+    "3141",
+    "3143"
+   ],
+   "ground": "DEEPRK",
+   "result": "BPL U11 A won by 5 Wickets",
+   "summary": "CYCA U11 A: 85/10(24) BPL U11 A: 86/5(21.5)"
+  },
+  {
+   "matchId": "8238",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8238&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CYCA U11 A",
+    "BPL U11 B"
+   ],
+   "teamIds": [
+    "3141",
+    "3144"
+   ],
+   "ground": "BPL",
+   "result": "CYCA U11 A won by 6 Wickets",
+   "summary": "BPL U11 B: 84/8(30) CYCA U11 A: 85/4(16.2)"
+  },
+  {
+   "matchId": "8162",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8162&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CYCA U11 B",
+    "CHICAGO U11"
+   ],
+   "teamIds": [
+    "3142",
+    "3145"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U11 B won by 4 Runs",
+   "summary": "CYCA U11 B: 147/10(30) CHICAGO U11: 143/10(30)"
+  },
+  {
+   "matchId": "8052",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8052&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CYCA U11 A",
+    "BPL U11 A"
+   ],
+   "teamIds": [
+    "3141",
+    "3143"
+   ],
+   "ground": "NKPRK",
+   "result": "CYCA U11 A won by 10 Wickets",
+   "summary": "BPL U11 A: 96/9(27.1) CYCA U11 A: 97/0(15.5)"
+  },
+  {
+   "matchId": "8033",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8033&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "BPL U11 B",
+    "CYCA U11 B"
+   ],
+   "teamIds": [
+    "3144",
+    "3142"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U11 B won by 135 Runs",
+   "summary": "CYCA U11 B: 159/9(30) BPL U11 B: 24/10(11.1)"
+  },
+  {
+   "matchId": "8009",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8009&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "CYCA U11 A",
+    "BPL U11 A"
+   ],
+   "teamIds": [
+    "3141",
+    "3143"
+   ],
+   "ground": "BPL",
+   "result": "CYCA U11 A won by 6 Wickets",
+   "summary": "BPL U11 A: 78/9(26.2) CYCA U11 A: 82/4(18.5)"
+  },
+  {
+   "matchId": "8003",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8003&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "BPL U11 B",
+    "CYCA U11 B"
+   ],
+   "teamIds": [
+    "3144",
+    "3142"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U11 B won by 114 Runs",
+   "summary": "CYCA U11 B: 174/10(27.2) BPL U11 B: 60/10(20.2)"
+  },
+  {
+   "matchId": "7919",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7919&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CHICAGO U11",
+    "BPL U11 B"
+   ],
+   "teamIds": [
+    "3145",
+    "3144"
+   ],
+   "ground": "DEEPRK",
+   "result": "BPL U11 B won by 7 Wickets",
+   "summary": "CHICAGO U11: 92/10(25.1) BPL U11 B: 93/3(20.2)"
+  },
+  {
+   "matchId": "7851",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7851&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "BPL U11 A",
+    "CYCA U11 A"
+   ],
+   "teamIds": [
+    "3143",
+    "3141"
+   ],
+   "ground": "Nike Park",
+   "result": "BPL U11 A won by 23 Runs",
+   "summary": "BPL U11 A: 149/6(30) CYCA U11 A: 126/10(30)"
+  },
+  {
+   "matchId": "7748",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7748&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "BPL U11 A",
+    "CYCA U11 B"
+   ],
+   "teamIds": [
+    "3143",
+    "3142"
+   ],
+   "ground": "Commissioners Park East Cricket Field",
+   "result": "BPL U11 A won by 10 Wickets (D/L)",
+   "summary": "CYCA U11 B: 54/10(23.2) BPL U11 A: 35/0(6)"
+  },
+  {
+   "matchId": "7698",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7698&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "CYCA U11 A",
+    "CHICAGO U11"
+   ],
+   "teamIds": [
+    "3141",
+    "3145"
+   ],
+   "ground": "DEEPRK",
+   "result": "CYCA U11 A won by 9 Wickets",
+   "summary": "CHICAGO U11: 44/10(22.2) CYCA U11 A: 45/1(6.1)"
+  }
+ ]
+}

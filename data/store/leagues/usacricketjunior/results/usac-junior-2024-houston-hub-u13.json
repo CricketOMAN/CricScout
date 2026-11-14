@@ -1,0 +1,422 @@
+{
+ "season": {
+  "key": "s277",
+  "id": "legacy-145",
+  "name": "USAC Junior 2024 -Houston Hub U13"
+ },
+ "fetchedAt": "2026-11-13T22:57:13.544Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=145&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=145&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3375",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3375&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "KY3 Phoenix",
+    "NW3 Superkings"
+   ],
+   "teamIds": [
+    "944",
+    "946"
+   ],
+   "ground": "JCP",
+   "result": "Forfeited. Winner: KY3 Phoenix",
+   "summary": "KY3 Phoenix: 0/0(0)"
+  },
+  {
+   "matchId": "3337",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3337&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "NC3 Kings",
+    "SY3 Stars"
+   ],
+   "teamIds": [
+    "942",
+    "943"
+   ],
+   "ground": "MWP",
+   "result": "SY3 Stars won by 53 Runs",
+   "summary": "SY3 Stars: 127/6(30) NC3 Kings: 74/9(18.4)"
+  },
+  {
+   "matchId": "3320",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3320&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "NW3 Challengers"
+   ],
+   "teamIds": [
+    "941",
+    "945"
+   ],
+   "ground": "JPLW",
+   "result": "Forfeited. Winner: EY3 Bulls",
+   "summary": "EY3 Bulls: 0/0(0)"
+  },
+  {
+   "matchId": "3109",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3109&clubId=40319",
+   "date": "2024-05-12",
+   "type": "League",
+   "teams": [
+    "SY3 Stars",
+    "NW3 Superkings"
+   ],
+   "teamIds": [
+    "943",
+    "946"
+   ],
+   "ground": "JPLE",
+   "result": "SY3 Stars won by 3 Wickets",
+   "summary": "NW3 Superkings: 105/9(25.4) SY3 Stars: 107/7(27.1)"
+  },
+  {
+   "matchId": "3041",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3041&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "NW3 Challengers"
+   ],
+   "teamIds": [
+    "941",
+    "945"
+   ],
+   "ground": "JCP",
+   "result": "EY3 Bulls won by 82 Runs",
+   "summary": "EY3 Bulls: 189/4(30) NW3 Challengers: 107/6(30)"
+  },
+  {
+   "matchId": "3040",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3040&clubId=40319",
+   "date": "2024-05-11",
+   "type": "League",
+   "teams": [
+    "NC3 Kings",
+    "SY3 Stars"
+   ],
+   "teamIds": [
+    "942",
+    "943"
+   ],
+   "ground": "JPLN",
+   "result": "NC3 Kings won by 6 Wickets",
+   "summary": "SY3 Stars: 69/10(26.3) NC3 Kings: 70/4(14.5)"
+  },
+  {
+   "matchId": "3004",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3004&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "NW3 Challengers",
+    "KY3 Phoenix"
+   ],
+   "teamIds": [
+    "945",
+    "944"
+   ],
+   "ground": "MatzkeW",
+   "result": "KY3 Phoenix won by 7 Wickets",
+   "summary": "NW3 Challengers: 98/9(29.1) KY3 Phoenix: 100/3(18.4)"
+  },
+  {
+   "matchId": "2959",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2959&clubId=40319",
+   "date": "2024-05-04",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "941",
+    "942"
+   ],
+   "ground": "JCP",
+   "result": "EY3 Bulls won by 4 Wickets",
+   "summary": "NC3 Kings: 126/7(30) EY3 Bulls: 127/6(24)"
+  },
+  {
+   "matchId": "2903",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2903&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "NW3 Superkings"
+   ],
+   "teamIds": [
+    "941",
+    "946"
+   ],
+   "ground": "JPLW",
+   "result": "EY3 Bulls won by 9 Runs",
+   "summary": "EY3 Bulls: 169/9(30) NW3 Superkings: 160/7(30)"
+  },
+  {
+   "matchId": "2862",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2862&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "SY3 Stars",
+    "NW3 Challengers"
+   ],
+   "teamIds": [
+    "943",
+    "945"
+   ],
+   "ground": "JPLW",
+   "result": "SY3 Stars won by 5 Wickets",
+   "summary": "NW3 Challengers: 113/8(29.3) SY3 Stars: 114/5(20)"
+  },
+  {
+   "matchId": "2859",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2859&clubId=40319",
+   "date": "2024-04-27",
+   "type": "League",
+   "teams": [
+    "KY3 Phoenix",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "944",
+    "942"
+   ],
+   "ground": "JCP",
+   "result": "NC3 Kings won by 6 Wickets",
+   "summary": "KY3 Phoenix: 172/7(30) NC3 Kings: 173/4(25)"
+  },
+  {
+   "matchId": "2813",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2813&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "NC3 Kings",
+    "NW3 Superkings"
+   ],
+   "teamIds": [
+    "942",
+    "946"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW3 Superkings won by 7 Wickets",
+   "summary": "NC3 Kings: 119/10(22.4) NW3 Superkings: 120/3(20.4)"
+  },
+  {
+   "matchId": "2774",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2774&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "KY3 Phoenix",
+    "EY3 Bulls"
+   ],
+   "teamIds": [
+    "944",
+    "941"
+   ],
+   "ground": "JCP",
+   "result": "EY3 Bulls won by 4 Wickets (D/L)",
+   "summary": "KY3 Phoenix: 133/10(28.3) EY3 Bulls: 129/6(25.5)"
+  },
+  {
+   "matchId": "2773",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2773&clubId=40319",
+   "date": "2024-04-20",
+   "type": "League",
+   "teams": [
+    "NW3 Challengers",
+    "SY3 Stars"
+   ],
+   "teamIds": [
+    "945",
+    "943"
+   ],
+   "ground": "MatzkeW",
+   "result": "SY3 Stars won by 52 Runs",
+   "summary": "SY3 Stars: 136/10(30) NW3 Challengers: 84/7(19.2)"
+  },
+  {
+   "matchId": "2726",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2726&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "NW3 Challengers",
+    "KY3 Phoenix"
+   ],
+   "teamIds": [
+    "945",
+    "944"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW3 Challengers won by 8 Wickets",
+   "summary": "KY3 Phoenix: 140/7(30) NW3 Challengers: 142/2(24.1)"
+  },
+  {
+   "matchId": "2707",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2707&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "SY3 Stars"
+   ],
+   "teamIds": [
+    "941",
+    "943"
+   ],
+   "ground": "JCP",
+   "result": "SY3 Stars won by 6 Runs",
+   "summary": "SY3 Stars: 114/10(28.3) EY3 Bulls: 108/10(29.5)"
+  },
+  {
+   "matchId": "2704",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2704&clubId=40319",
+   "date": "2024-04-13",
+   "type": "League",
+   "teams": [
+    "NW3 Superkings",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "946",
+    "942"
+   ],
+   "ground": "MatzkeW",
+   "result": "NC3 Kings won by 8 Wickets",
+   "summary": "NW3 Superkings: 81/9(21.1) NC3 Kings: 83/2(13.5)"
+  },
+  {
+   "matchId": "2642",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2642&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "NW3 Superkings",
+    "EY3 Bulls"
+   ],
+   "teamIds": [
+    "946",
+    "941"
+   ],
+   "ground": "MatzkeW",
+   "result": "EY3 Bulls won by 6 Wickets",
+   "summary": "NW3 Superkings: 112/9(24.3) EY3 Bulls: 115/4(19.3)"
+  },
+  {
+   "matchId": "2639",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2639&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "NW3 Challengers",
+    "NC3 Kings"
+   ],
+   "teamIds": [
+    "945",
+    "942"
+   ],
+   "ground": "JPLW",
+   "result": "NC3 Kings won by 6 Wickets",
+   "summary": "NW3 Challengers: 220/6(30) NC3 Kings: 224/4(26)"
+  },
+  {
+   "matchId": "2638",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2638&clubId=40319",
+   "date": "2024-04-06",
+   "type": "League",
+   "teams": [
+    "KY3 Phoenix",
+    "SY3 Stars"
+   ],
+   "teamIds": [
+    "944",
+    "943"
+   ],
+   "ground": "JCP",
+   "result": "SY3 Stars won by 4 Runs",
+   "summary": "SY3 Stars: 163/10(30) KY3 Phoenix: 159/6(30)"
+  },
+  {
+   "matchId": "2596",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2596&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "EY3 Bulls",
+    "SY3 Stars"
+   ],
+   "teamIds": [
+    "941",
+    "943"
+   ],
+   "ground": "JCP",
+   "result": "EY3 Bulls won by 86 Runs",
+   "summary": "EY3 Bulls: 176/3(30) SY3 Stars: 90/10(25.1)"
+  },
+  {
+   "matchId": "2594",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2594&clubId=40319",
+   "date": "2024-03-30",
+   "type": "League",
+   "teams": [
+    "NW3 Superkings",
+    "KY3 Phoenix"
+   ],
+   "teamIds": [
+    "946",
+    "944"
+   ],
+   "ground": "MatzkeW",
+   "result": "NW3 Superkings won by 40 Runs",
+   "summary": "NW3 Superkings: 183/4(30) KY3 Phoenix: 143/7(30)"
+  },
+  {
+   "matchId": "2549",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2549&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "NC3 Kings",
+    "KY3 Phoenix"
+   ],
+   "teamIds": [
+    "942",
+    "944"
+   ],
+   "ground": "JCP",
+   "result": "KY3 Phoenix won by 1 Run",
+   "summary": "KY3 Phoenix: 141/9(30) NC3 Kings: 140/4(30)"
+  },
+  {
+   "matchId": "2548",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2548&clubId=40319",
+   "date": "2024-03-23",
+   "type": "League",
+   "teams": [
+    "NW3 Challengers",
+    "NW3 Superkings"
+   ],
+   "teamIds": [
+    "945",
+    "946"
+   ],
+   "ground": "MatzkeE",
+   "result": "NW3 Superkings won by 2 Wickets",
+   "summary": "NW3 Challengers: 148/7(30) NW3 Superkings: 149/8(29.4)"
+  }
+ ]
+}

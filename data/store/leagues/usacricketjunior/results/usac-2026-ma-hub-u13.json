@@ -1,0 +1,405 @@
+{
+ "season": {
+  "key": "s81",
+  "id": "legacy-496",
+  "name": "USAC 2026 MA HUB U13"
+ },
+ "fetchedAt": "2026-11-13T21:47:28.283Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=496&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=496&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8939",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8939&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "CricOne ELECTRONS",
+    "CricOne NEUTRONS"
+   ],
+   "teamIds": [
+    "2915",
+    "2914"
+   ],
+   "ground": "HOPKINTON",
+   "result": "CricOne ELECTRONS won by 102 Runs",
+   "summary": "CricOne ELECTRONS: 221/5(25) CricOne NEUTRONS: 119/8(25)"
+  },
+  {
+   "matchId": "8936",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8936&clubId=40319",
+   "date": "2026-06-28",
+   "type": "League",
+   "teams": [
+    "GWCA STRIKERS",
+    "SKA BOSTON VIKINGS"
+   ],
+   "teamIds": [
+    "2916",
+    "2918"
+   ],
+   "ground": "Knights Ground",
+   "result": "GWCA STRIKERS won by 55 Runs",
+   "summary": "GWCA STRIKERS: 163/6(25) SKA BOSTON VIKINGS: 108/9(25)"
+  },
+  {
+   "matchId": "8899",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8899&clubId=40319",
+   "date": "2026-06-27",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON WARRIORS",
+    "SKA BOSTON VIKINGS"
+   ],
+   "teamIds": [
+    "2919",
+    "2918"
+   ],
+   "ground": "Knights Ground",
+   "result": "SKA BOSTON VIKINGS won by 2 Wickets",
+   "summary": "SKA BOSTON WARRIORS: 101/3(25) SKA BOSTON VIKINGS: 102/8(24.4)"
+  },
+  {
+   "matchId": "8895",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8895&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "GWCA STRIKERS",
+    "CricOne NEUTRONS"
+   ],
+   "teamIds": [
+    "2916",
+    "2914"
+   ],
+   "ground": "VVP Billerica",
+   "result": "CricOne NEUTRONS won by 7 Wickets",
+   "summary": "GWCA STRIKERS: 157/7(25) CricOne NEUTRONS: 158/3(24.1)"
+  },
+  {
+   "matchId": "8894",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8894&clubId=40319",
+   "date": "2026-06-26",
+   "type": "League",
+   "teams": [
+    "CricOne ELECTRONS",
+    "NCAA"
+   ],
+   "teamIds": [
+    "2915",
+    "2917"
+   ],
+   "ground": "HOPKINTON",
+   "result": "CricOne ELECTRONS won by 6 Wickets",
+   "summary": "NCAA: 90/10(24) CricOne ELECTRONS: 91/4(16.4)"
+  },
+  {
+   "matchId": "8785",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8785&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON VIKINGS",
+    "CricOne NEUTRONS"
+   ],
+   "teamIds": [
+    "2918",
+    "2914"
+   ],
+   "ground": "HOPKINTON",
+   "result": "CricOne NEUTRONS won by 8 Wickets",
+   "summary": "SKA BOSTON VIKINGS: 167/5(25) CricOne NEUTRONS: 169/2(16.5)"
+  },
+  {
+   "matchId": "8780",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8780&clubId=40319",
+   "date": "2026-06-20",
+   "type": "League",
+   "teams": [
+    "GWCA STRIKERS",
+    "SKA BOSTON WARRIORS"
+   ],
+   "teamIds": [
+    "2916",
+    "2919"
+   ],
+   "ground": "Knights Ground",
+   "result": "GWCA STRIKERS won by 86 Runs",
+   "summary": "GWCA STRIKERS: 170/6(25) SKA BOSTON WARRIORS: 84/10(23.1)"
+  },
+  {
+   "matchId": "8757",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8757&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "NCAA",
+    "CricOne NEUTRONS"
+   ],
+   "teamIds": [
+    "2917",
+    "2914"
+   ],
+   "ground": "HOPKINTON",
+   "result": "CricOne NEUTRONS won by 54 Runs",
+   "summary": "CricOne NEUTRONS: 229/8(25) NCAA: 175/6(25)"
+  },
+  {
+   "matchId": "8751",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8751&clubId=40319",
+   "date": "2026-06-19",
+   "type": "League",
+   "teams": [
+    "CricOne ELECTRONS",
+    "GWCA STRIKERS"
+   ],
+   "teamIds": [
+    "2915",
+    "2916"
+   ],
+   "ground": "VVP Billerica",
+   "result": "CricOne ELECTRONS won by 4 Runs",
+   "summary": "CricOne ELECTRONS: 156/6(25) GWCA STRIKERS: 152/6(25)"
+  },
+  {
+   "matchId": "8734",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8734&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON WARRIORS",
+    "CricOne NEUTRONS"
+   ],
+   "teamIds": [
+    "2919",
+    "2914"
+   ],
+   "ground": "HOPKINTON",
+   "result": "CricOne NEUTRONS won by 6 Wickets",
+   "summary": "SKA BOSTON WARRIORS: 197/5(25) CricOne NEUTRONS: 198/4(22.1)"
+  },
+  {
+   "matchId": "8710",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8710&clubId=40319",
+   "date": "2026-06-14",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON VIKINGS",
+    "NCAA"
+   ],
+   "teamIds": [
+    "2918",
+    "2917"
+   ],
+   "ground": "Knights Ground",
+   "result": "NCAA won by 25 Runs",
+   "summary": "NCAA: 126/4(25) SKA BOSTON VIKINGS: 101/10(20.2)"
+  },
+  {
+   "matchId": "8686",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8686&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "CricOne ELECTRONS",
+    "SKA BOSTON WARRIORS"
+   ],
+   "teamIds": [
+    "2915",
+    "2919"
+   ],
+   "ground": "HOPKINTON",
+   "result": "CricOne ELECTRONS won by 130 Runs",
+   "summary": "CricOne ELECTRONS: 262/6(25) SKA BOSTON WARRIORS: 132/10(25)"
+  },
+  {
+   "matchId": "8596",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8596&clubId=40319",
+   "date": "2026-06-07",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON WARRIORS",
+    "NCAA"
+   ],
+   "teamIds": [
+    "2919",
+    "2917"
+   ],
+   "ground": "HOPKINTON",
+   "result": "SKA BOSTON WARRIORS won by 18 Runs",
+   "summary": "SKA BOSTON WARRIORS: 160/5(25) NCAA: 142/6(25)"
+  },
+  {
+   "matchId": "8534",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8534&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "NCAA",
+    "CricOne NEUTRONS"
+   ],
+   "teamIds": [
+    "2917",
+    "2914"
+   ],
+   "ground": "HOPKINTON",
+   "result": "CricOne NEUTRONS won by 5 Wickets",
+   "summary": "NCAA: 137/9(25) CricOne NEUTRONS: 138/5(20.5)"
+  },
+  {
+   "matchId": "8518",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8518&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "GWCA STRIKERS",
+    "SKA BOSTON WARRIORS"
+   ],
+   "teamIds": [
+    "2916",
+    "2919"
+   ],
+   "ground": "Chauncy Field #1",
+   "result": "GWCA STRIKERS won by 26 Runs",
+   "summary": "GWCA STRIKERS: 154/9(25) SKA BOSTON WARRIORS: 128/10(25)"
+  },
+  {
+   "matchId": "8492",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8492&clubId=40319",
+   "date": "2026-06-06",
+   "type": "League",
+   "teams": [
+    "CricOne ELECTRONS",
+    "SKA BOSTON VIKINGS"
+   ],
+   "teamIds": [
+    "2915",
+    "2918"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ELECTRONS won by 96 Runs",
+   "summary": "CricOne ELECTRONS: 143/9(25) SKA BOSTON VIKINGS: 47/10(23)"
+  },
+  {
+   "matchId": "8432",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8432&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "CricOne NEUTRONS",
+    "CricOne ELECTRONS"
+   ],
+   "teamIds": [
+    "2914",
+    "2915"
+   ],
+   "ground": "Chauncy Field #1",
+   "result": "CricOne ELECTRONS won by 40 Runs",
+   "summary": "CricOne ELECTRONS: 110/10(20) CricOne NEUTRONS: 70/8(25)"
+  },
+  {
+   "matchId": "8228",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8228&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CricOne ELECTRONS",
+    "NCAA"
+   ],
+   "teamIds": [
+    "2915",
+    "2917"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ELECTRONS won by 134 Runs",
+   "summary": "CricOne ELECTRONS: 160/5(25) NCAA: 26/10(10)"
+  },
+  {
+   "matchId": "8220",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8220&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "SKA BOSTON VIKINGS",
+    "SKA BOSTON WARRIORS"
+   ],
+   "teamIds": [
+    "2918",
+    "2919"
+   ],
+   "ground": "Fino Field",
+   "result": "SKA BOSTON WARRIORS won by 100 Runs",
+   "summary": "SKA BOSTON WARRIORS: 187/3(25) SKA BOSTON VIKINGS: 87/10(21.2)"
+  },
+  {
+   "matchId": "8110",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8110&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "NCAA",
+    "SKA BOSTON VIKINGS"
+   ],
+   "teamIds": [
+    "2917",
+    "2918"
+   ],
+   "ground": "Knights Ground",
+   "result": "NCAA won by 14 Runs",
+   "summary": "NCAA: 76/10(17.3) SKA BOSTON VIKINGS: 62/10(21.4)"
+  },
+  {
+   "matchId": "8096",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8096&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "GWCA STRIKERS",
+    "CricOne NEUTRONS"
+   ],
+   "teamIds": [
+    "2916",
+    "2914"
+   ],
+   "ground": "ROWLEY, MA",
+   "result": "GWCA STRIKERS won by 153 Runs",
+   "summary": "GWCA STRIKERS: 196/6(25) CricOne NEUTRONS: 43/10(19.3)"
+  },
+  {
+   "matchId": "8048",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8048&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CricOne ELECTRONS",
+    "SKA BOSTON WARRIORS"
+   ],
+   "teamIds": [
+    "2915",
+    "2919"
+   ],
+   "ground": "Knights Ground",
+   "result": "CricOne ELECTRONS won by 109 Runs",
+   "summary": "CricOne ELECTRONS: 156/3(21) SKA BOSTON WARRIORS: 47/10(14)"
+  },
+  {
+   "matchId": "7682",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7682&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "GWCA STRIKERS",
+    "SKA BOSTON VIKINGS"
+   ],
+   "teamIds": [
+    "2916",
+    "2918"
+   ],
+   "ground": "Chauncy Field #1",
+   "result": "GWCA STRIKERS won by 124 Runs",
+   "summary": "GWCA STRIKERS: 219/3(25) SKA BOSTON VIKINGS: 95/6(25)"
+  }
+ ]
+}

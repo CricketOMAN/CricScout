@@ -1,0 +1,65 @@
+{
+ "season": {
+  "key": "s50",
+  "id": "legacy-540",
+  "name": "USAC 2026 - LA Region - U15"
+ },
+ "fetchedAt": "2026-11-13T21:41:46.109Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=540&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=540&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8247",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8247&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "U15 2026 Socal Hub Team Blue",
+    "U15 2026 Socal Hub Team Red"
+   ],
+   "teamIds": [
+    "3225",
+    "3226"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "U15 2026 Socal Hub Team Blue won by 7 Wickets",
+   "summary": "U15 2026 Socal Hub Team Red: 93/11(22.1) U15 2026 Socal Hub Team Blue: 101/3(26)"
+  },
+  {
+   "matchId": "8184",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8184&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "U15 2026 Socal Hub Team Red",
+    "U15 2026 AZ Hub"
+   ],
+   "teamIds": [
+    "3226",
+    "3229"
+   ],
+   "ground": "Tustin Sports Park, Irvine",
+   "result": "U15 2026 Socal Hub Team Red won by 6 Wickets (D/L)",
+   "summary": "U15 2026 AZ Hub: 145/12(26) U15 2026 Socal Hub Team Red: 200/4(26.5)"
+  },
+  {
+   "matchId": "8067",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8067&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "U15 2026 Socal Hub Team Blue",
+    "U15 2026 AZ Hub"
+   ],
+   "teamIds": [
+    "3225",
+    "3229"
+   ],
+   "ground": "Canyonside Park",
+   "result": "U15 2026 Socal Hub Team Blue won by 4 Wickets",
+   "summary": "U15 2026 AZ Hub: 173/13(32.2) U15 2026 Socal Hub Team Blue: 174/6(32)"
+  }
+ ]
+}

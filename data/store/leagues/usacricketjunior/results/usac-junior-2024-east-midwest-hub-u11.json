@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s251",
+  "id": "legacy-208",
+  "name": "USAC JUNIOR 2024 - East Midwest Hub U11"
+ },
+ "fetchedAt": "2026-11-13T22:42:20.235Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=208&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=208&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "4031",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4031&clubId=40319",
+   "date": "2024-09-07",
+   "type": "Semi Final",
+   "teams": [
+    "AYCA-U11",
+    "MYCA Blue - U11"
+   ],
+   "teamIds": [
+    "1247",
+    "1251"
+   ],
+   "ground": "TBD",
+   "result": "MYCA Blue - U11 won by 68 Runs",
+   "summary": "MYCA Blue - U11: 133/9(30) AYCA-U11: 65/10(17.2)"
+  },
+  {
+   "matchId": "3924",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3924&clubId=40319",
+   "date": "2024-08-17",
+   "type": "Semi Final",
+   "teams": [
+    "MYCA Blue - U11",
+    "ICY- U11"
+   ],
+   "teamIds": [
+    "1251",
+    "1249"
+   ],
+   "ground": "QUINN PARK",
+   "result": "ICY- U11 won by 4 Wickets",
+   "summary": "MYCA Blue - U11: 213/4(30) ICY- U11: 214/6(29.1)"
+  },
+  {
+   "matchId": "3835",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3835&clubId=40319",
+   "date": "2024-08-04",
+   "type": "League",
+   "teams": [
+    "ICY- U11",
+    "AYCA-U11"
+   ],
+   "teamIds": [
+    "1249",
+    "1247"
+   ],
+   "ground": "QUINN PARK",
+   "result": "ICY- U11 won by 60 Runs",
+   "summary": "ICY- U11: 156/10(26) AYCA-U11: 96/10(21.3)"
+  },
+  {
+   "matchId": "3823",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3823&clubId=40319",
+   "date": "2024-08-03",
+   "type": "League",
+   "teams": [
+    "AYCA-U11",
+    "ICY- U11"
+   ],
+   "teamIds": [
+    "1247",
+    "1249"
+   ],
+   "ground": "North Park",
+   "result": "Abandoned.",
+   "summary": "AYCA-U11: 79/10(18.2) ICY- U11: 16/0(5.3)"
+  },
+  {
+   "matchId": "3654",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3654&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "ICY- U11",
+    "LCC - U11"
+   ],
+   "teamIds": [
+    "1249",
+    "1250"
+   ],
+   "ground": "QUINN PARK",
+   "result": "ICY- U11 won by 7 Wickets",
+   "summary": "LCC - U11: 85/9(24.4) ICY- U11: 87/3(14.4)"
+  },
+  {
+   "matchId": "3577",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3577&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "ICY- U11",
+    "LCC - U11"
+   ],
+   "teamIds": [
+    "1249",
+    "1250"
+   ],
+   "ground": "TBD",
+   "result": "ICY- U11 won by 8 Wickets",
+   "summary": "LCC - U11: 127/8(26.4) ICY- U11: 129/2(17.1)"
+  },
+  {
+   "matchId": "3547",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3547&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "ICY- U11",
+    "LCC - U11"
+   ],
+   "teamIds": [
+    "1249",
+    "1250"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "ICY- U11 won by 113 Runs",
+   "summary": "ICY- U11: 188/5(30) LCC - U11: 75/11(21)"
+  },
+  {
+   "matchId": "3503",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3503&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Prime - U11",
+    "MYCA Red - U11"
+   ],
+   "teamIds": [
+    "1252",
+    "1281"
+   ],
+   "ground": "Murphy",
+   "result": "MYCA Red - U11 won by 25 Runs",
+   "summary": "MYCA Red - U11: 79/7(20) Prime - U11: 54/10(16.5)"
+  },
+  {
+   "matchId": "3442",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3442&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Prime - U11",
+    "MYCA Red - U11"
+   ],
+   "teamIds": [
+    "1252",
+    "1281"
+   ],
+   "ground": "Redford",
+   "result": "Prime - U11 won by 5 Wickets",
+   "summary": "MYCA Red - U11: 102/4(20) Prime - U11: 103/5(19.5)"
+  },
+  {
+   "matchId": "3440",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3440&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "ICY- U11",
+    "LCC - U11"
+   ],
+   "teamIds": [
+    "1249",
+    "1250"
+   ],
+   "ground": "QUINN PARK",
+   "result": "LCC - U11 won by 3 Wickets",
+   "summary": "ICY- U11: 99/8(16.4) LCC - U11: 100/7(20.1)"
+  },
+  {
+   "matchId": "3380",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3380&clubId=40319",
+   "date": "2024-06-09",
+   "type": "League",
+   "teams": [
+    "MYCA Blue - U11",
+    "MYCA Red - U11"
+   ],
+   "teamIds": [
+    "1251",
+    "1281"
+   ],
+   "ground": "Redford",
+   "result": "MYCA Blue - U11 won by 74 Runs",
+   "summary": "MYCA Blue - U11: 140/7(20) MYCA Red - U11: 66/8(17.4)"
+  },
+  {
+   "matchId": "3346",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3346&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "Crics - U11",
+    "AYCA-U11"
+   ],
+   "teamIds": [
+    "1248",
+    "1247"
+   ],
+   "ground": "North Park",
+   "result": "AYCA-U11 won by 75 Runs",
+   "summary": "AYCA-U11: 147/6(20) Crics - U11: 72/9(15.5)"
+  },
+  {
+   "matchId": "3333",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3333&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "MYCA Blue - U11",
+    "Prime - U11"
+   ],
+   "teamIds": [
+    "1251",
+    "1252"
+   ],
+   "ground": "Redford",
+   "result": "MYCA Blue - U11 won by 54 Runs",
+   "summary": "MYCA Blue - U11: 134/6(25) Prime - U11: 80/9(25)"
+  },
+  {
+   "matchId": "3298",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3298&clubId=40319",
+   "date": "2024-06-02",
+   "type": "League",
+   "teams": [
+    "AYCA-U11",
+    "Crics - U11"
+   ],
+   "teamIds": [
+    "1247",
+    "1248"
+   ],
+   "ground": "North Park",
+   "result": "AYCA-U11 won by 134 Runs",
+   "summary": "AYCA-U11: 208/6(20) Crics - U11: 74/7(20)"
+  },
+  {
+   "matchId": "3288",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3288&clubId=40319",
+   "date": "2024-06-01",
+   "type": "League",
+   "teams": [
+    "Prime - U11",
+    "MYCA Blue - U11"
+   ],
+   "teamIds": [
+    "1252",
+    "1251"
+   ],
+   "ground": "Northville",
+   "result": "MYCA Blue - U11 won by 52 Runs",
+   "summary": "MYCA Blue - U11: 89/7(20) Prime - U11: 37/10(16.5)"
+  },
+  {
+   "matchId": "3250",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3250&clubId=40319",
+   "date": "2024-05-31",
+   "type": "League",
+   "teams": [
+    "MYCA Blue - U11",
+    "MYCA Red - U11"
+   ],
+   "teamIds": [
+    "1251",
+    "1281"
+   ],
+   "ground": "Murphy Michigan",
+   "result": "MYCA Blue - U11 won by 10 Wickets",
+   "summary": "MYCA Red - U11: 11/7(4.3) MYCA Blue - U11: 14/0(1.2)"
+  }
+ ]
+}

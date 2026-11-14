@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s66",
+  "id": "legacy-518",
+  "name": "USAC 2026 - INDIANA - U11"
+ },
+ "fetchedAt": "2026-11-13T21:44:55.832Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=518&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=518&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "9339",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9339&clubId=40319",
+   "date": "2026-08-15",
+   "type": "League",
+   "teams": [
+    "Bluegrass Budding Chargers",
+    "Hoosier Rising Stars"
+   ],
+   "teamIds": [
+    "3140",
+    "3139"
+   ],
+   "ground": "ICY CRICKET GROUND",
+   "result": "Hoosier Rising Stars won by 6 Wickets",
+   "summary": "Bluegrass Budding Chargers: 110/5(19.2) Hoosier Rising Stars: 113/4(18)"
+  },
+  {
+   "matchId": "9321",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9321&clubId=40319",
+   "date": "2026-08-08",
+   "type": "League",
+   "teams": [
+    "Bluegrass Budding Chargers",
+    "Hoosier Rising Stars"
+   ],
+   "teamIds": [
+    "3140",
+    "3139"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Hoosier Rising Stars won by 3 Wickets",
+   "summary": "Bluegrass Budding Chargers: 101/9(21.5) Hoosier Rising Stars: 104/7(25.2)"
+  },
+  {
+   "matchId": "9205",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9205&clubId=40319",
+   "date": "2026-07-25",
+   "type": "League",
+   "teams": [
+    "Bluegrass Budding Chargers",
+    "Hoosier Rising Stars"
+   ],
+   "teamIds": [
+    "3140",
+    "3139"
+   ],
+   "ground": "TBD",
+   "result": "Bluegrass Budding Chargers won by 51 Runs",
+   "summary": "Bluegrass Budding Chargers: 151/9(28.3) Hoosier Rising Stars: 100/9(23.5)"
+  },
+  {
+   "matchId": "9037",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=9037&clubId=40319",
+   "date": "2026-07-18",
+   "type": "League",
+   "teams": [
+    "Bluegrass Budding Chargers",
+    "Hoosier Rising Stars"
+   ],
+   "teamIds": [
+    "3140",
+    "3139"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Bluegrass Budding Chargers won by 13 Runs",
+   "summary": "Bluegrass Budding Chargers: 133/11(25.3) Hoosier Rising Stars: 120/3(23.4)"
+  },
+  {
+   "matchId": "8673",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8673&clubId=40319",
+   "date": "2026-06-13",
+   "type": "League",
+   "teams": [
+    "Bluegrass Budding Chargers",
+    "Hoosier Rising Stars"
+   ],
+   "teamIds": [
+    "3140",
+    "3139"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Hoosier Rising Stars won by 5 Wickets",
+   "summary": "Bluegrass Budding Chargers: 107/10(20.1) Hoosier Rising Stars: 108/5(21.4)"
+  },
+  {
+   "matchId": "8414",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8414&clubId=40319",
+   "date": "2026-05-31",
+   "type": "League",
+   "teams": [
+    "Bluegrass Budding Chargers",
+    "Hoosier Rising Stars"
+   ],
+   "teamIds": [
+    "3140",
+    "3139"
+   ],
+   "ground": "TBD",
+   "result": "Hoosier Rising Stars won by 0 Wickets",
+   "summary": "Bluegrass Budding Chargers: 129/7(30) Hoosier Rising Stars: 130/10(29.5)"
+  },
+  {
+   "matchId": "7564",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7564&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "Hoosier Rising Stars",
+    "Bluegrass Budding Chargers"
+   ],
+   "teamIds": [
+    "3139",
+    "3140"
+   ],
+   "ground": "ICY Cricket Grounds",
+   "result": "Bluegrass Budding Chargers won by 11 Runs",
+   "summary": "Bluegrass Budding Chargers: 122/1(25.1) Hoosier Rising Stars: 111/0(24.4)"
+  }
+ ]
+}

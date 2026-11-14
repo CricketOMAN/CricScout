@@ -1,0 +1,82 @@
+{
+ "season": {
+  "key": "s230",
+  "id": "legacy-239",
+  "name": "New York Regional U13"
+ },
+ "fetchedAt": "2026-11-13T22:39:18.267Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=239&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=239&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3906",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3906&clubId=40319",
+   "date": "2024-08-14",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1387",
+    "1388"
+   ],
+   "ground": "NY Ovals",
+   "result": "Team Blue: 117/9 (30/30 ov) Team Red: 6/1 (2/30 ov)",
+   "summary": "Team Blue: 117/9(30) Team Red: 6/1(2) Live"
+  },
+  {
+   "matchId": "3899",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3899&clubId=40319",
+   "date": "2024-08-13",
+   "type": "League",
+   "teams": [
+    "New England Hub",
+    "New York Hub"
+   ],
+   "teamIds": [
+    "1358",
+    "1359"
+   ],
+   "ground": "NY Ovals",
+   "result": "New England Hub won by 117 Runs",
+   "summary": "New England Hub: 237/6(30) New York Hub: 120/9(30)"
+  },
+  {
+   "matchId": "3893",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3893&clubId=40319",
+   "date": "2024-08-12",
+   "type": "Practice",
+   "teams": [
+    "New England Hub",
+    "New York Hub"
+   ],
+   "teamIds": [
+    "1358",
+    "1359"
+   ],
+   "ground": "TBD",
+   "result": "New England Hub won by 122 Runs",
+   "summary": "New England Hub: 122/8(18.5)"
+  },
+  {
+   "matchId": "3891",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3891&clubId=40319",
+   "date": "2024-08-12",
+   "type": "League",
+   "teams": [
+    "New England Hub",
+    "New York Hub"
+   ],
+   "teamIds": [
+    "1358",
+    "1359"
+   ],
+   "ground": "NY Ovals",
+   "result": "New England Hub won by 10 Wickets",
+   "summary": "New York Hub: 70/6(30) New England Hub: 72/0(6.2)"
+  }
+ ]
+}

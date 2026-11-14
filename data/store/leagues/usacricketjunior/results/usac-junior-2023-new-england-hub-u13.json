@@ -1,0 +1,405 @@
+{
+ "season": {
+  "key": "s336",
+  "id": "legacy-62",
+  "name": "USAC Junior 2023 -New England Hub U13"
+ },
+ "fetchedAt": "2026-11-13T23:13:13.658Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=62&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=62&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2326",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2326&clubId=40319",
+   "date": "2023-08-19",
+   "type": "League",
+   "teams": [
+    "UCL Neutrons",
+    "SCTCA XI B"
+   ],
+   "teamIds": [
+    "634",
+    "633"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "UCL Neutrons won by 21 Runs",
+   "summary": "UCL Neutrons: 85/7(20) SCTCA XI B: 64/10(15.2)"
+  },
+  {
+   "matchId": "2316",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2316&clubId=40319",
+   "date": "2023-08-19",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Titans A",
+    "NCAA Colts"
+   ],
+   "teamIds": [
+    "628",
+    "630"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Cricmax CT Titans A won by 76 Runs",
+   "summary": "Cricmax CT Titans A: 134/3(25) NCAA Colts: 58/8(25)"
+  },
+  {
+   "matchId": "2291",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2291&clubId=40319",
+   "date": "2023-08-12",
+   "type": "League",
+   "teams": [
+    "UCL Neutrons",
+    "SCTCA XI A"
+   ],
+   "teamIds": [
+    "634",
+    "632"
+   ],
+   "ground": "New Milford",
+   "result": "UCL Neutrons won by 8 Wickets",
+   "summary": "SCTCA XI A: 82/9(20) UCL Neutrons: 83/2(17.4)"
+  },
+  {
+   "matchId": "2274",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2274&clubId=40319",
+   "date": "2023-08-12",
+   "type": "League",
+   "teams": [
+    "NCAA Colts",
+    "SCTCA XI B"
+   ],
+   "teamIds": [
+    "630",
+    "633"
+   ],
+   "ground": "WATERBURY",
+   "result": "NCAA Colts won by 9 Wickets",
+   "summary": "SCTCA XI B: 70/8(15) NCAA Colts: 74/1(11.3)"
+  },
+  {
+   "matchId": "2273",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2273&clubId=40319",
+   "date": "2023-08-12",
+   "type": "League",
+   "teams": [
+    "UCL Neutrons",
+    "Cricmax CT Titans A"
+   ],
+   "teamIds": [
+    "634",
+    "628"
+   ],
+   "ground": "New Milford",
+   "result": "Cricmax CT Titans A won by 65 Runs",
+   "summary": "Cricmax CT Titans A: 113/6(20) UCL Neutrons: 48/10(15.3)"
+  },
+  {
+   "matchId": "2263",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2263&clubId=40319",
+   "date": "2023-08-12",
+   "type": "League",
+   "teams": [
+    "NCAA Colts",
+    "Cricmax CT Titans B"
+   ],
+   "teamIds": [
+    "630",
+    "629"
+   ],
+   "ground": "WATERBURY",
+   "result": "Abandoned. (D/L)",
+   "summary": "Cricmax CT Titans B: 89/10(24.4) NCAA Colts: 36/2(10.4)"
+  },
+  {
+   "matchId": "2260",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2260&clubId=40319",
+   "date": "2023-08-11",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Titans A",
+    "SCTCA XI A"
+   ],
+   "teamIds": [
+    "628",
+    "632"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "Cricmax CT Titans A won by 60 Runs",
+   "summary": "Cricmax CT Titans A: 127/9(20) SCTCA XI A: 67/8(20)"
+  },
+  {
+   "matchId": "2257",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2257&clubId=40319",
+   "date": "2023-08-11",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Titans B",
+    "SCTCA XI B"
+   ],
+   "teamIds": [
+    "629",
+    "633"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "SCTCA XI B won by 3 Wickets",
+   "summary": "Cricmax CT Titans B: 77/7(20) SCTCA XI B: 78/7(19.2)"
+  },
+  {
+   "matchId": "2170",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2170&clubId=40319",
+   "date": "2023-07-04",
+   "type": "League",
+   "teams": [
+    "SCTCA XI B",
+    "Cricmax CT Titans A"
+   ],
+   "teamIds": [
+    "633",
+    "628"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "Abandoned.",
+   "summary": "SCTCA XI B: 0/0(0)"
+  },
+  {
+   "matchId": "2169",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2169&clubId=40319",
+   "date": "2023-07-04",
+   "type": "League",
+   "teams": [
+    "SCTCA XI A",
+    "UCL Neutrons"
+   ],
+   "teamIds": [
+    "632",
+    "634"
+   ],
+   "ground": "KENEY PARK 1",
+   "result": "Abandoned.",
+   "summary": "SCTCA XI A: 0/0(0)"
+  },
+  {
+   "matchId": "2168",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2168&clubId=40319",
+   "date": "2023-07-04",
+   "type": "League",
+   "teams": [
+    "NCAA Colts",
+    "UCL Neutrons"
+   ],
+   "teamIds": [
+    "630",
+    "634"
+   ],
+   "ground": "KENEY PARK 1",
+   "result": "Abandoned.",
+   "summary": "NCAA Colts: 0/0(0)"
+  },
+  {
+   "matchId": "1964",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1964&clubId=40319",
+   "date": "2023-07-03",
+   "type": "League",
+   "teams": [
+    "SCTCA XI A",
+    "Cricmax CT Titans A"
+   ],
+   "teamIds": [
+    "632",
+    "628"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "Cricmax CT Titans A won by 66 Runs",
+   "summary": "Cricmax CT Titans A: 116/8(25) SCTCA XI A: 50/10(22.1)"
+  },
+  {
+   "matchId": "1963",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1963&clubId=40319",
+   "date": "2023-07-03",
+   "type": "League",
+   "teams": [
+    "SCTCA XI B",
+    "Cricmax CT Titans B"
+   ],
+   "teamIds": [
+    "633",
+    "629"
+   ],
+   "ground": "KENEY PARK 1",
+   "result": "Cricmax CT Titans B won by 15 Runs",
+   "summary": "Cricmax CT Titans B: 90/3(20) SCTCA XI B: 75/5(20)"
+  },
+  {
+   "matchId": "1962",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1962&clubId=40319",
+   "date": "2023-07-03",
+   "type": "League",
+   "teams": [
+    "NCAA Colts",
+    "Cricmax CT Titans A"
+   ],
+   "teamIds": [
+    "630",
+    "628"
+   ],
+   "ground": "KENEY PARK 2",
+   "result": "Cricmax CT Titans A won by 9 Wickets",
+   "summary": "NCAA Colts: 55/9(20) Cricmax CT Titans A: 56/1(10.2)"
+  },
+  {
+   "matchId": "2236",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2236&clubId=40319",
+   "date": "2023-07-02",
+   "type": "League",
+   "teams": [
+    "SCTCA XI B",
+    "SCTCA XI A"
+   ],
+   "teamIds": [
+    "633",
+    "632"
+   ],
+   "ground": "WATERBURY",
+   "result": "Forfeited. Winner: SCTCA XI A",
+   "summary": "SCTCA XI B: 0/0(0)"
+  },
+  {
+   "matchId": "2229",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2229&clubId=40319",
+   "date": "2023-07-02",
+   "type": "League",
+   "teams": [
+    "SCTCA XI B",
+    "UCL Neutrons"
+   ],
+   "teamIds": [
+    "633",
+    "634"
+   ],
+   "ground": "WATERBURY",
+   "result": "Abandoned.",
+   "summary": "SCTCA XI B: 0/0(0)"
+  },
+  {
+   "matchId": "1961",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1961&clubId=40319",
+   "date": "2023-07-02",
+   "type": "League",
+   "teams": [
+    "Cricmax CT Titans A",
+    "Cricmax CT Titans B"
+   ],
+   "teamIds": [
+    "628",
+    "629"
+   ],
+   "ground": "New Haven",
+   "result": "Cricmax CT Titans A won by 89 Runs",
+   "summary": "Cricmax CT Titans A: 151/2(20) Cricmax CT Titans B: 62/9(20)"
+  },
+  {
+   "matchId": "1960",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1960&clubId=40319",
+   "date": "2023-07-02",
+   "type": "League",
+   "teams": [
+    "NCAA Colts",
+    "Cricmax CT Titans B"
+   ],
+   "teamIds": [
+    "630",
+    "629"
+   ],
+   "ground": "New Haven",
+   "result": "NCAA Colts won by 7 Wickets",
+   "summary": "Cricmax CT Titans B: 52/9(20) NCAA Colts: 53/3(11.5)"
+  },
+  {
+   "matchId": "2228",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2228&clubId=40319",
+   "date": "2023-07-01",
+   "type": "League",
+   "teams": [
+    "NCAA Colts",
+    "SCTCA XI A"
+   ],
+   "teamIds": [
+    "630",
+    "632"
+   ],
+   "ground": "New Milford",
+   "result": "NCAA Colts won by 10 Wickets",
+   "summary": "SCTCA XI A: 105/4(25) NCAA Colts: 106/0(17)"
+  },
+  {
+   "matchId": "2227",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2227&clubId=40319",
+   "date": "2023-07-01",
+   "type": "League",
+   "teams": [
+    "NCAA Colts",
+    "SCTCA XI B"
+   ],
+   "teamIds": [
+    "630",
+    "633"
+   ],
+   "ground": "New Milford",
+   "result": "NCAA Colts won by 9 Wickets",
+   "summary": "SCTCA XI B: 58/10(23.2) NCAA Colts: 59/1(14)"
+  },
+  {
+   "matchId": "1958",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1958&clubId=40319",
+   "date": "2023-07-01",
+   "type": "League",
+   "teams": [
+    "UCL Neutrons",
+    "Cricmax CT Titans B"
+   ],
+   "teamIds": [
+    "634",
+    "629"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Cricmax CT Titans B won by 5 Wickets",
+   "summary": "UCL Neutrons: 85/9(20) Cricmax CT Titans B: 86/5(19.1)"
+  },
+  {
+   "matchId": "1957",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1957&clubId=40319",
+   "date": "2023-07-01",
+   "type": "League",
+   "teams": [
+    "UCL Neutrons",
+    "Cricmax CT Titans A"
+   ],
+   "teamIds": [
+    "634",
+    "628"
+   ],
+   "ground": "WEST HAVEN CT",
+   "result": "Cricmax CT Titans A won by 136 Runs",
+   "summary": "Cricmax CT Titans A: 184/9(25) UCL Neutrons: 48/10(22)"
+  },
+  {
+   "matchId": "2237",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2237&clubId=40319",
+   "date": "2023-06-30",
+   "type": "League",
+   "teams": [
+    "SCTCA XI A",
+    "Cricmax CT Titans B"
+   ],
+   "teamIds": [
+    "632",
+    "629"
+   ],
+   "ground": "Clatter�Valley�Park",
+   "result": "Forfeited. Winner: SCTCA XI A",
+   "summary": "SCTCA XI A: 0/0(0)"
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "season": {
+  "key": "s245",
+  "id": "legacy-218",
+  "name": "USAC Junior 2024 - DC Hub U13"
+ },
+ "fetchedAt": "2026-11-13T22:42:15.088Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=218&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=218&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3632",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3632&clubId=40319",
+   "date": "2024-06-30",
+   "type": "Super League",
+   "teams": [
+    "Team Red",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1295",
+    "1300"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Purple won by 79 Runs",
+   "summary": "Team Purple: 179/8(30) Team Red: 100/10(20.1)"
+  },
+  {
+   "matchId": "3613",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3613&clubId=40319",
+   "date": "2024-06-30",
+   "type": "Final",
+   "teams": [
+    "Team Blue",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1296",
+    "1299"
+   ],
+   "ground": "WCC 2",
+   "result": "Team Orange won by 31 Runs",
+   "summary": "Team Orange: 136/7(30) Team Blue: 105/10(26.2)"
+  },
+  {
+   "matchId": "3610",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3610&clubId=40319",
+   "date": "2024-06-30",
+   "type": "3rd Position",
+   "teams": [
+    "Team Green",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1298",
+    "1297"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Gold won by 22 Runs",
+   "summary": "Team Gold: 229/6(30) Team Green: 207/6(30)"
+  },
+  {
+   "matchId": "3597",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3597&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Purple",
+    "Team Green"
+   ],
+   "teamIds": [
+    "1300",
+    "1298"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Purple won by 30 Runs",
+   "summary": "Team Purple: 213/7(30) Team Green: 183/9(24.2)"
+  },
+  {
+   "matchId": "3581",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3581&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1296",
+    "1299"
+   ],
+   "ground": "WCC 2",
+   "result": "Team Blue won by 20 Runs",
+   "summary": "Team Blue: 174/9(30) Team Orange: 154/10(29.1)"
+  },
+  {
+   "matchId": "3572",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3572&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1297",
+    "1295"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Gold won by 72 Runs",
+   "summary": "Team Gold: 208/5(30) Team Red: 136/10(26.5)"
+  },
+  {
+   "matchId": "3540",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3540&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1299",
+    "1295"
+   ],
+   "ground": "Frederick",
+   "result": "Team Orange won by 20 Runs",
+   "summary": "Team Orange: 190/6(30) Team Red: 170/5(30)"
+  },
+  {
+   "matchId": "3539",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3539&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1297",
+    "1300"
+   ],
+   "ground": "Cradlerock",
+   "result": "Team Gold won by 9 Wickets",
+   "summary": "Team Purple: 33/10(17.3) Team Gold: 37/1(9.4)"
+  },
+  {
+   "matchId": "3535",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3535&clubId=40319",
+   "date": "2024-06-23",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1298",
+    "1296"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Blue won by 3 Wickets",
+   "summary": "Team Green: 202/7(30) Team Blue: 206/7(29.4)"
+  },
+  {
+   "matchId": "3528",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3528&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Purple",
+    "Team Blue"
+   ],
+   "teamIds": [
+    "1300",
+    "1296"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Blue won by 94 Runs",
+   "summary": "Team Blue: 204/9(30) Team Purple: 110/10(29.1)"
+  },
+  {
+   "matchId": "3514",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3514&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Green"
+   ],
+   "teamIds": [
+    "1295",
+    "1298"
+   ],
+   "ground": "SK1",
+   "result": "Team Green won by 7 Wickets",
+   "summary": "Team Red: 111/9(30) Team Green: 113/3(21.2)"
+  },
+  {
+   "matchId": "3492",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3492&clubId=40319",
+   "date": "2024-06-22",
+   "type": "League",
+   "teams": [
+    "Team Gold",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1297",
+    "1299"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Orange won by 3 Wickets",
+   "summary": "Team Gold: 183/7(30) Team Orange: 184/7(29.3)"
+  },
+  {
+   "matchId": "3456",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3456&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1298",
+    "1297"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Green won by 99 Runs",
+   "summary": "Team Green: 269/3(30) Team Gold: 170/7(30)"
+  },
+  {
+   "matchId": "3446",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3446&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Team Orange",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1299",
+    "1300"
+   ],
+   "ground": "SK1",
+   "result": "It is a Tie",
+   "summary": "Team Orange: 168/4(30) Team Purple: 168/5(30)"
+  },
+  {
+   "matchId": "3431",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3431&clubId=40319",
+   "date": "2024-06-16",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Red"
+   ],
+   "teamIds": [
+    "1296",
+    "1295"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Blue won by 7 Wickets",
+   "summary": "Team Red: 177/6(30) Team Blue: 178/3(25.1)"
+  },
+  {
+   "matchId": "3427",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3427&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Red",
+    "Team Purple"
+   ],
+   "teamIds": [
+    "1295",
+    "1300"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Red won by 7 Wickets",
+   "summary": "Team Purple: 164/7(30) Team Red: 165/3(23.2)"
+  },
+  {
+   "matchId": "3406",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3406&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Blue",
+    "Team Gold"
+   ],
+   "teamIds": [
+    "1296",
+    "1297"
+   ],
+   "ground": "SK1",
+   "result": "Team Blue won by 3 Wickets",
+   "summary": "Team Gold: 126/7(30) Team Blue: 127/7(28.5)"
+  },
+  {
+   "matchId": "3390",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3390&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "Team Green",
+    "Team Orange"
+   ],
+   "teamIds": [
+    "1298",
+    "1299"
+   ],
+   "ground": "Kenilworth",
+   "result": "Team Orange won by 22 Runs",
+   "summary": "Team Orange: 219/6(30) Team Green: 197/8(25.2)"
+  }
+ ]
+}

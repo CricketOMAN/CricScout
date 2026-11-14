@@ -1,0 +1,150 @@
+{
+ "season": {
+  "key": "s321",
+  "id": "legacy-51",
+  "name": "USAC Junior 2023 -Austin Hub U15"
+ },
+ "fetchedAt": "2026-11-13T23:10:48.974Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=51&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=51&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2069",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2069&clubId=40319",
+   "date": "2023-07-15",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "HCCA SuperNova"
+   ],
+   "teamIds": [
+    "257",
+    "259"
+   ],
+   "ground": "RRCG",
+   "result": "HCCA SuperNova won by 77 Runs",
+   "summary": "HCCA SuperNova: 189/8(25) Austin Blasters U15: 112/7(25)"
+  },
+  {
+   "matchId": "1877",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1877&clubId=40319",
+   "date": "2023-06-12",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "HCCA SuperNova"
+   ],
+   "teamIds": [
+    "257",
+    "259"
+   ],
+   "ground": "RRCG",
+   "result": "HCCA SuperNova won by 83 Runs",
+   "summary": "HCCA SuperNova: 178/1(25) Austin Blasters U15: 95/4(18)"
+  },
+  {
+   "matchId": "1800",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1800&clubId=40319",
+   "date": "2023-06-11",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "HCCA Starz"
+   ],
+   "teamIds": [
+    "257",
+    "258"
+   ],
+   "ground": "HUTTO",
+   "result": "HCCA Starz won by 6 Wickets",
+   "summary": "Austin Blasters U15: 116/9(23.3) HCCA Starz: 118/4(19.4)"
+  },
+  {
+   "matchId": "1537",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1537&clubId=40319",
+   "date": "2023-05-21",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "HCCA SuperNova"
+   ],
+   "teamIds": [
+    "257",
+    "259"
+   ],
+   "ground": "RRCG",
+   "result": "HCCA SuperNova won by 217 Runs",
+   "summary": "HCCA SuperNova: 280/2(30) Austin Blasters U15: 63/8(15.5)"
+  },
+  {
+   "matchId": "1317",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1317&clubId=40319",
+   "date": "2023-05-07",
+   "type": "League",
+   "teams": [
+    "Austin Blasters U15",
+    "HCCA Starz"
+   ],
+   "teamIds": [
+    "257",
+    "258"
+   ],
+   "ground": "Wilco",
+   "result": "HCCA Starz won by 150 Runs",
+   "summary": "HCCA Starz: 216/5(29.5) Austin Blasters U15: 66/10(15.4)"
+  },
+  {
+   "matchId": "1216",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=1216&clubId=40319",
+   "date": "2023-04-30",
+   "type": "League",
+   "teams": [
+    "HCCA SuperNova",
+    "HCCA Starz"
+   ],
+   "teamIds": [
+    "259",
+    "258"
+   ],
+   "ground": "HUTTO",
+   "result": "HCCA SuperNova won by 16 Runs",
+   "summary": "HCCA SuperNova: 204/5(30) HCCA Starz: 188/9(28.5)"
+  },
+  {
+   "matchId": "957",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=957&clubId=40319",
+   "date": "2023-04-09",
+   "type": "League",
+   "teams": [
+    "HCCA Starz",
+    "HCCA SuperNova"
+   ],
+   "teamIds": [
+    "258",
+    "259"
+   ],
+   "ground": "TBD",
+   "result": "HCCA Starz won by 8 Wickets",
+   "summary": "HCCA SuperNova: 110/7(25.5) HCCA Starz: 111/2(24.4)"
+  },
+  {
+   "matchId": "938",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=938&clubId=40319",
+   "date": "2023-04-02",
+   "type": "League",
+   "teams": [
+    "HCCA Starz",
+    "HCCA SuperNova"
+   ],
+   "teamIds": [
+    "258",
+    "259"
+   ],
+   "ground": "TBD",
+   "result": "HCCA SuperNova won by 6 Runs",
+   "summary": "HCCA SuperNova: 205/4(29.5) HCCA Starz: 199/6(30)"
+  }
+ ]
+}

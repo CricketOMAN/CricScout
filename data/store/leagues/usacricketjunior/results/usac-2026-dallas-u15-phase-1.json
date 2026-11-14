@@ -1,0 +1,932 @@
+{
+ "season": {
+  "key": "s123",
+  "id": "legacy-447",
+  "name": "USAC 2026 - Dallas U15 Phase 1"
+ },
+ "fetchedAt": "2026-11-13T22:03:02.162Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=447&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=447&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "8157",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8157&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CCA Spartans U15",
+    "TCA Knights U15"
+   ],
+   "teamIds": [
+    "2661",
+    "2669"
+   ],
+   "ground": "Stallions CG1",
+   "result": "CCA Spartans U15 won by 7 Wickets",
+   "summary": "TCA Knights U15: 248/11(39.2) CCA Spartans U15: 250/3(26)"
+  },
+  {
+   "matchId": "8156",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8156&clubId=40319",
+   "date": "2026-05-17",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Gold U15",
+    "TIC Hi-Riders U15"
+   ],
+   "teamIds": [
+    "2659",
+    "2671"
+   ],
+   "ground": "Russel Creek G5",
+   "result": "TIC Hi-Riders U15 won by 6 Wickets",
+   "summary": "CricketMinds Warriors Gold U15: 171/8(40.1) TIC Hi-Riders U15: 172/4(28.4)"
+  },
+  {
+   "matchId": "8137",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8137&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Blue U15",
+    "DYCL Panthers U15"
+   ],
+   "teamIds": [
+    "2660",
+    "2663"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "DYCL Panthers U15 won by 70 Runs",
+   "summary": "DYCL Panthers U15: 213/10(40) CricketMinds Warriors Blue U15: 143/10(28.4)"
+  },
+  {
+   "matchId": "8136",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8136&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks U15",
+    "VCA Red U15"
+   ],
+   "teamIds": [
+    "2664",
+    "2672"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U15 won by 6 Wickets",
+   "summary": "DYCL Sharks U15: 115/9(34.1) VCA Red U15: 116/4(14.2)"
+  },
+  {
+   "matchId": "8057",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8057&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "TCA Gladiators U15",
+    "TIC Hi-Riders U15"
+   ],
+   "teamIds": [
+    "2670",
+    "2671"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Hi-Riders U15 won by 237 Runs",
+   "summary": "TIC Hi-Riders U15: 321/4(40) TCA Gladiators U15: 84/10(27.3)"
+  },
+  {
+   "matchId": "8038",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=8038&clubId=40319",
+   "date": "2026-05-16",
+   "type": "League",
+   "teams": [
+    "SKA Cubs U15",
+    "VCA Gold U15"
+   ],
+   "teamIds": [
+    "2667",
+    "2673"
+   ],
+   "ground": "Coppell CG",
+   "result": "SKA Cubs U15 won by 9 Wickets",
+   "summary": "VCA Gold U15: 114/8(40) SKA Cubs U15: 115/1(13.5)"
+  },
+  {
+   "matchId": "7945",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7945&clubId=40319",
+   "date": "2026-05-10",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "TCA Gladiators U15"
+   ],
+   "teamIds": [
+    "2666",
+    "2670"
+   ],
+   "ground": "Stallions CG1",
+   "result": "Abandoned.",
+   "summary": "TCA Gladiators U15: 197/10(39.1)"
+  },
+  {
+   "matchId": "7929",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7929&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CCA Challengers U15",
+    "WCA Falcons U15"
+   ],
+   "teamIds": [
+    "2662",
+    "2674"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "CCA Challengers U15 won by 2 Wickets",
+   "summary": "WCA Falcons U15: 236/10(34.5) CCA Challengers U15: 237/8(39)"
+  },
+  {
+   "matchId": "7928",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7928&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CCA Spartans U15",
+    "VCA Red U15"
+   ],
+   "teamIds": [
+    "2661",
+    "2672"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U15 won by 5 Wickets",
+   "summary": "CCA Spartans U15: 227/9(40) VCA Red U15: 229/5(37.4)"
+  },
+  {
+   "matchId": "7871",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7871&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "All Stars Raiders BLUE U15",
+    "SKA Cubs U15"
+   ],
+   "teamIds": [
+    "2657",
+    "2667"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "SKA Cubs U15 won by 69 Runs",
+   "summary": "SKA Cubs U15: 165/10(37.2) All Stars Raiders BLUE U15: 96/8(21.5)"
+  },
+  {
+   "matchId": "7869",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7869&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks U15",
+    "SAC Falcons U15"
+   ],
+   "teamIds": [
+    "2664",
+    "2666"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "DYCL Sharks U15 won by 129 Runs",
+   "summary": "DYCL Sharks U15: 242/6(40) SAC Falcons U15: 113/10(28.1)"
+  },
+  {
+   "matchId": "7849",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7849&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "SKA Pumas U15",
+    "VCA Gold U15"
+   ],
+   "teamIds": [
+    "2668",
+    "2673"
+   ],
+   "ground": "Coppell CG",
+   "result": "SKA Pumas U15 won by 244 Runs",
+   "summary": "SKA Pumas U15: 327/4(40) VCA Gold U15: 83/7(28)"
+  },
+  {
+   "matchId": "7842",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7842&clubId=40319",
+   "date": "2026-05-09",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Gold U15",
+    "All Stars Raiders RED U15"
+   ],
+   "teamIds": [
+    "2659",
+    "2656"
+   ],
+   "ground": "Stallions CG1",
+   "result": "CricketMinds Warriors Gold U15 won by 91 Runs",
+   "summary": "CricketMinds Warriors Gold U15: 250/7(40) All Stars Raiders RED U15: 159/9(35.1)"
+  },
+  {
+   "matchId": "7816",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7816&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Gold U15",
+    "CCA Challengers U15"
+   ],
+   "teamIds": [
+    "2659",
+    "2662"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CricketMinds Warriors Gold U15 won by 9 Wickets",
+   "summary": "CCA Challengers U15: 111/10(29.2) CricketMinds Warriors Gold U15: 112/1(15.4)"
+  },
+  {
+   "matchId": "7815",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7815&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders U15",
+    "All Stars Raiders BLUE U15"
+   ],
+   "teamIds": [
+    "2665",
+    "2657"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Commanders U15 won by 17 Runs",
+   "summary": "FCCA Commanders U15: 156/10(39.1) All Stars Raiders BLUE U15: 139/10(36.1)"
+  },
+  {
+   "matchId": "7766",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7766&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "VCA Gold U15",
+    "DYCL Panthers U15"
+   ],
+   "teamIds": [
+    "2673",
+    "2663"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "DYCL Panthers U15 won by 9 Wickets",
+   "summary": "VCA Gold U15: 44/8(20.5) DYCL Panthers U15: 45/1(3.5)"
+  },
+  {
+   "matchId": "7763",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7763&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "CCA Spartans U15",
+    "All Stars Raiders RED U15"
+   ],
+   "teamIds": [
+    "2661",
+    "2656"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "All Stars Raiders RED U15 won by 3 Wickets",
+   "summary": "CCA Spartans U15: 169/10(32.4) All Stars Raiders RED U15: 170/7(32)"
+  },
+  {
+   "matchId": "7747",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7747&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "SKA Cubs U15",
+    "WCA Falcons U15"
+   ],
+   "teamIds": [
+    "2667",
+    "2674"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "WCA Falcons U15 won by 38 Runs",
+   "summary": "WCA Falcons U15: 142/10(31.5) SKA Cubs U15: 104/10(28.5)"
+  },
+  {
+   "matchId": "7745",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7745&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "TIC Hi-Riders U15",
+    "SAC Falcons U15"
+   ],
+   "teamIds": [
+    "2671",
+    "2666"
+   ],
+   "ground": "Stallions CG1",
+   "result": "TIC Hi-Riders U15 won by 9 Wickets",
+   "summary": "SAC Falcons U15: 108/10(22.3) TIC Hi-Riders U15: 110/1(10.3)"
+  },
+  {
+   "matchId": "7740",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7740&clubId=40319",
+   "date": "2026-05-03",
+   "type": "League",
+   "teams": [
+    "SKA Pumas U15",
+    "DYCL Sharks U15"
+   ],
+   "teamIds": [
+    "2668",
+    "2664"
+   ],
+   "ground": "Russel Creek G5",
+   "result": "DYCL Sharks U15 won by 6 Runs",
+   "summary": "DYCL Sharks U15: 273/7(40) SKA Pumas U15: 267/10(39.3)"
+  },
+  {
+   "matchId": "7723",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7723&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Blue U15",
+    "CCA Challengers U15"
+   ],
+   "teamIds": [
+    "2660",
+    "2662"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "CricketMinds Warriors Blue U15 won by 6 Runs",
+   "summary": "CricketMinds Warriors Blue U15: 321/7(40) CCA Challengers U15: 315/10(39.4)"
+  },
+  {
+   "matchId": "7721",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7721&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "TCA Knights U15",
+    "All Stars Raiders BLUE U15"
+   ],
+   "teamIds": [
+    "2669",
+    "2657"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Knights U15 won by 8 Wickets",
+   "summary": "All Stars Raiders BLUE U15: 112/9(29.3) TCA Knights U15: 113/2(16.3)"
+  },
+  {
+   "matchId": "7719",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7719&clubId=40319",
+   "date": "2026-05-02",
+   "type": "League",
+   "teams": [
+    "VCA Red U15",
+    "TCA Gladiators U15"
+   ],
+   "teamIds": [
+    "2672",
+    "2670"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U15 won by 6 Wickets",
+   "summary": "TCA Gladiators U15: 149/10(35.3) VCA Red U15: 152/4(20.5)"
+  },
+  {
+   "matchId": "7602",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7602&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "CCA Spartans U15",
+    "DYCL Panthers U15"
+   ],
+   "teamIds": [
+    "2661",
+    "2663"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "DYCL Panthers U15 won by 66 Runs",
+   "summary": "DYCL Panthers U15: 203/10(40) CCA Spartans U15: 137/10(33.5)"
+  },
+  {
+   "matchId": "7557",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7557&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks U15",
+    "WCA Falcons U15"
+   ],
+   "teamIds": [
+    "2664",
+    "2674"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "DYCL Sharks U15 won by 57 Runs",
+   "summary": "DYCL Sharks U15: 166/9(40) WCA Falcons U15: 109/9(28)"
+  },
+  {
+   "matchId": "7556",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7556&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "SKA Cubs U15",
+    "VCA Red U15"
+   ],
+   "teamIds": [
+    "2667",
+    "2672"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "VCA Red U15 won by 9 Wickets",
+   "summary": "SKA Cubs U15: 43/10(18) VCA Red U15: 47/1(8.1)"
+  },
+  {
+   "matchId": "7531",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7531&clubId=40319",
+   "date": "2026-04-26",
+   "type": "League",
+   "teams": [
+    "All Stars Raiders RED U15",
+    "CricketMinds Warriors Blue U15"
+   ],
+   "teamIds": [
+    "2656",
+    "2660"
+   ],
+   "ground": "Russel Creek G5",
+   "result": "All Stars Raiders RED U15 won by 3 Runs",
+   "summary": "All Stars Raiders RED U15: 165/8(35) CricketMinds Warriors Blue U15: 162/10(33.4)"
+  },
+  {
+   "matchId": "7513",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7513&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "All Stars Raiders BLUE U15",
+    "TIC Hi-Riders U15"
+   ],
+   "teamIds": [
+    "2657",
+    "2671"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "TIC Hi-Riders U15 won by 116 Runs",
+   "summary": "TIC Hi-Riders U15: 242/9(31.4) All Stars Raiders BLUE U15: 126/10(25.5)"
+  },
+  {
+   "matchId": "7510",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7510&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "CCA Challengers U15",
+    "VCA Gold U15"
+   ],
+   "teamIds": [
+    "2662",
+    "2673"
+   ],
+   "ground": "Coppell CG",
+   "result": "CCA Challengers U15 won by 9 Wickets",
+   "summary": "VCA Gold U15: 161/10(39.5) CCA Challengers U15: 162/1(22.1)"
+  },
+  {
+   "matchId": "7509",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7509&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders U15",
+    "CCA Spartans U15"
+   ],
+   "teamIds": [
+    "2665",
+    "2661"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CCA Spartans U15 won by 77 Runs",
+   "summary": "CCA Spartans U15: 265/7(40) FCCA Commanders U15: 188/10(35.1)"
+  },
+  {
+   "matchId": "7464",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7464&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Gold U15",
+    "TCA Gladiators U15"
+   ],
+   "teamIds": [
+    "2659",
+    "2670"
+   ],
+   "ground": "United CG",
+   "result": "CricketMinds Warriors Gold U15 won by 8 Wickets",
+   "summary": "TCA Gladiators U15: 168/9(40) CricketMinds Warriors Gold U15: 169/2(22.5)"
+  },
+  {
+   "matchId": "7454",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7454&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "VCA Red U15",
+    "SKA Pumas U15"
+   ],
+   "teamIds": [
+    "2672",
+    "2668"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U15 won by 5 Wickets",
+   "summary": "SKA Pumas U15: 112/10(27.2) VCA Red U15: 113/5(25.1)"
+  },
+  {
+   "matchId": "7449",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7449&clubId=40319",
+   "date": "2026-04-25",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "TCA Knights U15"
+   ],
+   "teamIds": [
+    "2666",
+    "2669"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Knights U15 won by 6 Wickets",
+   "summary": "SAC Falcons U15: 120/10(27.5) TCA Knights U15: 121/4(22.3)"
+  },
+  {
+   "matchId": "7401",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7401&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Gold U15",
+    "TCA Knights U15"
+   ],
+   "teamIds": [
+    "2659",
+    "2669"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "CricketMinds Warriors Gold U15 won by 99 Runs",
+   "summary": "CricketMinds Warriors Gold U15: 185/9(40) TCA Knights U15: 86/11(28.1)"
+  },
+  {
+   "matchId": "7400",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7400&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "CCA Challengers U15",
+    "TCA Gladiators U15"
+   ],
+   "teamIds": [
+    "2662",
+    "2670"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "CCA Challengers U15 won by 3 Wickets",
+   "summary": "TCA Gladiators U15: 172/10(36.5) CCA Challengers U15: 173/7(32)"
+  },
+  {
+   "matchId": "7372",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7372&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "WCA Falcons U15"
+   ],
+   "teamIds": [
+    "2666",
+    "2674"
+   ],
+   "ground": "Stallions CG1",
+   "result": "SAC Falcons U15 won by 1 Wicket",
+   "summary": "WCA Falcons U15: 171/9(31.5) SAC Falcons U15: 172/9(33.2)"
+  },
+  {
+   "matchId": "7366",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7366&clubId=40319",
+   "date": "2026-04-19",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers U15",
+    "FCCA Commanders U15"
+   ],
+   "teamIds": [
+    "2663",
+    "2665"
+   ],
+   "ground": "BF Philips",
+   "result": "DYCL Panthers U15 won by 104 Runs",
+   "summary": "DYCL Panthers U15: 223/4(37) FCCA Commanders U15: 119/10(35)"
+  },
+  {
+   "matchId": "7268",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7268&clubId=40319",
+   "date": "2026-04-12",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Blue U15",
+    "FCCA Commanders U15"
+   ],
+   "teamIds": [
+    "2660",
+    "2665"
+   ],
+   "ground": "BF Philips",
+   "result": "CricketMinds Warriors Blue U15 won by 6 Wickets",
+   "summary": "FCCA Commanders U15: 119/8(40) CricketMinds Warriors Blue U15: 120/4(31.3)"
+  },
+  {
+   "matchId": "7242",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7242&clubId=40319",
+   "date": "2026-04-11",
+   "type": "League",
+   "teams": [
+    "All Stars Raiders RED U15",
+    "VCA Gold U15"
+   ],
+   "teamIds": [
+    "2656",
+    "2673"
+   ],
+   "ground": "Coppell CG",
+   "result": "All Stars Raiders RED U15 won by 9 Wickets",
+   "summary": "VCA Gold U15: 85/10(27) All Stars Raiders RED U15: 89/1(10.5)"
+  },
+  {
+   "matchId": "7116",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7116&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "CCA Challengers U15",
+    "TCA Knights U15"
+   ],
+   "teamIds": [
+    "2662",
+    "2669"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "TCA Knights U15 won by 4 Wickets",
+   "summary": "CCA Challengers U15: 186/10(39.3) TCA Knights U15: 189/6(34.4)"
+  },
+  {
+   "matchId": "7114",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7114&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "SAC Falcons U15",
+    "VCA Gold U15"
+   ],
+   "teamIds": [
+    "2666",
+    "2673"
+   ],
+   "ground": "Coppell CG",
+   "result": "SAC Falcons U15 won by 271 Runs",
+   "summary": "SAC Falcons U15: 331/5(40) VCA Gold U15: 60/10(17.3)"
+  },
+  {
+   "matchId": "7100",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7100&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "SKA Pumas U15",
+    "All Stars Raiders RED U15"
+   ],
+   "teamIds": [
+    "2668",
+    "2656"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "All Stars Raiders RED U15 won by 42 Runs",
+   "summary": "All Stars Raiders RED U15: 194/10(38.4) SKA Pumas U15: 152/10(34)"
+  },
+  {
+   "matchId": "7099",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7099&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "TIC Hi-Riders U15",
+    "WCA Falcons U15"
+   ],
+   "teamIds": [
+    "2671",
+    "2674"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Hi-Riders U15 won by 185 Runs",
+   "summary": "TIC Hi-Riders U15: 294/3(40) WCA Falcons U15: 109/9(21.3)"
+  },
+  {
+   "matchId": "7097",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7097&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "DYCL Panthers U15",
+    "SKA Cubs U15"
+   ],
+   "teamIds": [
+    "2663",
+    "2667"
+   ],
+   "ground": "United CG",
+   "result": "DYCL Panthers U15 won by 9 Wickets",
+   "summary": "SKA Cubs U15: 117/10(34) DYCL Panthers U15: 120/1(20.5)"
+  },
+  {
+   "matchId": "7092",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7092&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Blue U15",
+    "CCA Spartans U15"
+   ],
+   "teamIds": [
+    "2660",
+    "2661"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "CCA Spartans U15 won by 107 Runs",
+   "summary": "CCA Spartans U15: 239/5(40) CricketMinds Warriors Blue U15: 132/11(28.4)"
+  },
+  {
+   "matchId": "7089",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7089&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders U15",
+    "TCA Gladiators U15"
+   ],
+   "teamIds": [
+    "2665",
+    "2670"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Commanders U15 won by 79 Runs",
+   "summary": "FCCA Commanders U15: 221/5(40) TCA Gladiators U15: 142/10(33.2)"
+  },
+  {
+   "matchId": "7087",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7087&clubId=40319",
+   "date": "2026-03-28",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks U15",
+    "All Stars Raiders BLUE U15"
+   ],
+   "teamIds": [
+    "2664",
+    "2657"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "DYCL Sharks U15 won by 55 Runs",
+   "summary": "DYCL Sharks U15: 303/6(40) All Stars Raiders BLUE U15: 248/11(39.4)"
+  },
+  {
+   "matchId": "7058",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7058&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "WCA Falcons U15",
+    "VCA Red U15"
+   ],
+   "teamIds": [
+    "2674",
+    "2672"
+   ],
+   "ground": "Coppell CG",
+   "result": "VCA Red U15 won by 159 Runs",
+   "summary": "VCA Red U15: 294/7(40) WCA Falcons U15: 135/10(38.4)"
+  },
+  {
+   "matchId": "7056",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7056&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "All Stars Raiders BLUE U15",
+    "SKA Pumas U15"
+   ],
+   "teamIds": [
+    "2657",
+    "2668"
+   ],
+   "ground": "The Pavillion (Hybrid: SCG)",
+   "result": "SKA Pumas U15 won by 65 Runs",
+   "summary": "SKA Pumas U15: 190/9(40) All Stars Raiders BLUE U15: 125/10(27)"
+  },
+  {
+   "matchId": "7034",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7034&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "FCCA Commanders U15",
+    "SKA Cubs U15"
+   ],
+   "teamIds": [
+    "2665",
+    "2667"
+   ],
+   "ground": "BF Philips",
+   "result": "FCCA Commanders U15 won by 3 Runs",
+   "summary": "FCCA Commanders U15: 185/6(40) SKA Cubs U15: 182/10(39.1)"
+  },
+  {
+   "matchId": "7032",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7032&clubId=40319",
+   "date": "2026-03-21",
+   "type": "League",
+   "teams": [
+    "DYCL Sharks U15",
+    "All Stars Raiders RED U15"
+   ],
+   "teamIds": [
+    "2664",
+    "2656"
+   ],
+   "ground": "Russel Creek G6",
+   "result": "All Stars Raiders RED U15 won by 123 Runs",
+   "summary": "All Stars Raiders RED U15: 283/7(40) DYCL Sharks U15: 160/10(26.4)"
+  },
+  {
+   "matchId": "7015",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7015&clubId=40319",
+   "date": "2026-03-15",
+   "type": "League",
+   "teams": [
+    "TCA Knights U15",
+    "SKA Pumas U15"
+   ],
+   "teamIds": [
+    "2669",
+    "2668"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "Abandoned.",
+   "summary": "SKA Pumas U15: 148/9(40) TCA Knights U15: 23/3(9)"
+  },
+  {
+   "matchId": "7000",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=7000&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "CricketMinds Warriors Gold U15",
+    "DYCL Panthers U15"
+   ],
+   "teamIds": [
+    "2659",
+    "2663"
+   ],
+   "ground": "GSC G2(Pond)",
+   "result": "CricketMinds Warriors Gold U15 won by 44 Runs",
+   "summary": "CricketMinds Warriors Gold U15: 170/11(37.4) DYCL Panthers U15: 126/9(40)"
+  },
+  {
+   "matchId": "6999",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6999&clubId=40319",
+   "date": "2026-03-14",
+   "type": "League",
+   "teams": [
+    "TIC Hi-Riders U15",
+    "CricketMinds Warriors Blue U15"
+   ],
+   "teamIds": [
+    "2671",
+    "2660"
+   ],
+   "ground": "GSC G1(Trees)",
+   "result": "TIC Hi-Riders U15 won by 6 Wickets",
+   "summary": "CricketMinds Warriors Blue U15: 44/10(19) TIC Hi-Riders U15: 45/4(9.4)"
+  }
+ ]
+}

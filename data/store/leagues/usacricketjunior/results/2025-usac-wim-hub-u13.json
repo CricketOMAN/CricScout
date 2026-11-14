@@ -1,0 +1,167 @@
+{
+ "season": {
+  "key": "s207",
+  "id": "legacy-285",
+  "name": "2025 USAC WIM - Hub - U13"
+ },
+ "fetchedAt": "2026-11-13T22:29:05.077Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=285&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=285&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "5700",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5700&clubId=40319",
+   "date": "2025-06-15",
+   "type": "League",
+   "teams": [
+    "ICA Bears",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "1574",
+    "1573"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MYCA Blizzards won by 25 Runs",
+   "summary": "MYCA Blizzards: 161/7(30) ICA Bears: 136/10(26)"
+  },
+  {
+   "matchId": "5678",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5678&clubId=40319",
+   "date": "2025-06-14",
+   "type": "League",
+   "teams": [
+    "ICA Bears",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "1574",
+    "1573"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MYCA Blizzards won by 127 Runs",
+   "summary": "MYCA Blizzards: 186/5(30) ICA Bears: 59/10(20)"
+  },
+  {
+   "matchId": "5506",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5506&clubId=40319",
+   "date": "2025-06-07",
+   "type": "League",
+   "teams": [
+    "MYCA Blizzards",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "1573",
+    "1572"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Blizzards won by 8 Runs",
+   "summary": "MYCA Blizzards: 124/7(30) MVP U13: 116/10(30)"
+  },
+  {
+   "matchId": "5427",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5427&clubId=40319",
+   "date": "2025-06-01",
+   "type": "League",
+   "teams": [
+    "MVP U13",
+    "ICA Bears"
+   ],
+   "teamIds": [
+    "1572",
+    "1574"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP U13 won by 99 Runs",
+   "summary": "MVP U13: 172/2(30) ICA Bears: 73/9(28.4)"
+  },
+  {
+   "matchId": "5403",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5403&clubId=40319",
+   "date": "2025-05-31",
+   "type": "League",
+   "teams": [
+    "MYCA Blizzards",
+    "ICA Bears"
+   ],
+   "teamIds": [
+    "1573",
+    "1574"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Blizzards won by 85 Runs",
+   "summary": "MYCA Blizzards: 179/5(30) ICA Bears: 94/10(29)"
+  },
+  {
+   "matchId": "5190",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5190&clubId=40319",
+   "date": "2025-05-17",
+   "type": "League",
+   "teams": [
+    "MYCA Blizzards",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "1573",
+    "1572"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MVP U13 won by 4 Runs",
+   "summary": "MVP U13: 112/8(30) MYCA Blizzards: 108/10(28.1)"
+  },
+  {
+   "matchId": "5103",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5103&clubId=40319",
+   "date": "2025-05-11",
+   "type": "League",
+   "teams": [
+    "ICA Bears",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "1574",
+    "1572"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MVP U13 won by 131 Runs",
+   "summary": "MVP U13: 207/3(30) ICA Bears: 76/10(27.1)"
+  },
+  {
+   "matchId": "5077",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=5077&clubId=40319",
+   "date": "2025-05-10",
+   "type": "League",
+   "teams": [
+    "ICA Bears",
+    "MVP U13"
+   ],
+   "teamIds": [
+    "1574",
+    "1572"
+   ],
+   "ground": "IOWA VVP WDSM",
+   "result": "MVP U13 won by 134 Runs",
+   "summary": "MVP U13: 200/7(27) ICA Bears: 66/9(20.5)"
+  },
+  {
+   "matchId": "4846",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=4846&clubId=40319",
+   "date": "2025-05-03",
+   "type": "League",
+   "teams": [
+    "MVP U13",
+    "MYCA Blizzards"
+   ],
+   "teamIds": [
+    "1572",
+    "1573"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP U13 won by 6 Wickets",
+   "summary": "MYCA Blizzards: 85/9(28.2) MVP U13: 86/4(22.5)"
+  }
+ ]
+}

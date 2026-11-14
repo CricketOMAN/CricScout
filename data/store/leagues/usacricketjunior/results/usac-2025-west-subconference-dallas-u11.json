@@ -1,0 +1,286 @@
+{
+ "season": {
+  "key": "s138",
+  "id": "legacy-388",
+  "name": "USAC 2025 West Subconference(Dallas) U11"
+ },
+ "fetchedAt": "2026-11-13T22:12:47.559Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=388&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=388&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "6107",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6107&clubId=40319",
+   "date": "2025-07-26",
+   "type": "3rd Position",
+   "teams": [
+    "Houston",
+    "Chicago"
+   ],
+   "teamIds": [
+    "2257",
+    "2259"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Chicago won by 5 Wickets",
+   "summary": "Houston: 156/4(25) Chicago: 157/5(25)"
+  },
+  {
+   "matchId": "6106",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6106&clubId=40319",
+   "date": "2025-07-26",
+   "type": "Final",
+   "teams": [
+    "Dallas Blue",
+    "Austin"
+   ],
+   "teamIds": [
+    "2256",
+    "2258"
+   ],
+   "ground": "Horseshoe",
+   "result": "Dallas Blue won by 90 Runs",
+   "summary": "Dallas Blue: 139/3(25) Austin: 49/10(20.1)"
+  },
+  {
+   "matchId": "6100",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6100&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "Chicago",
+    "Houston"
+   ],
+   "teamIds": [
+    "2259",
+    "2257"
+   ],
+   "ground": "NMCG 2",
+   "result": "Chicago won by 2 Wickets",
+   "summary": "Houston: 186/5(25) Chicago: 187/8(25)"
+  },
+  {
+   "matchId": "6099",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6099&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Minnesota"
+   ],
+   "teamIds": [
+    "2254",
+    "2260"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Red won by 10 Wickets",
+   "summary": "Minnesota: 56/10(13.3) Dallas Red: 58/0(6.1)"
+  },
+  {
+   "matchId": "6098",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6098&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Dallas green"
+   ],
+   "teamIds": [
+    "2258",
+    "2255"
+   ],
+   "ground": "Stallions CG2",
+   "result": "Austin won by 118 Runs",
+   "summary": "Austin: 236/2(25) Dallas green: 118/9(25)"
+  },
+  {
+   "matchId": "6097",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6097&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "Dallas Red",
+    "Chicago"
+   ],
+   "teamIds": [
+    "2254",
+    "2259"
+   ],
+   "ground": "NMCG 1",
+   "result": "Chicago won by 6 Wickets",
+   "summary": "Dallas Red: 118/7(25) Chicago: 119/4(19)"
+  },
+  {
+   "matchId": "6096",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6096&clubId=40319",
+   "date": "2025-07-25",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "2257",
+    "2256"
+   ],
+   "ground": "NMCG 2",
+   "result": "Houston won by 10 Runs",
+   "summary": "Houston: 133/10(24.4) Dallas Blue: 123/9(25)"
+  },
+  {
+   "matchId": "6093",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6093&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "Minnesota",
+    "Dallas green"
+   ],
+   "teamIds": [
+    "2260",
+    "2255"
+   ],
+   "ground": "Stallions CG1",
+   "result": "Dallas green won by 1 Run",
+   "summary": "Dallas green: 184/8(25) Minnesota: 183/6(25)"
+  },
+  {
+   "matchId": "6090",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6090&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "2258",
+    "2254"
+   ],
+   "ground": "NMCG 1",
+   "result": "Austin won by 8 Wickets",
+   "summary": "Dallas Red: 129/4(25) Austin: 130/2(19.5)"
+  },
+  {
+   "matchId": "6086",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6086&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "Dallas green",
+    "Houston"
+   ],
+   "teamIds": [
+    "2255",
+    "2257"
+   ],
+   "ground": "NMCG 2",
+   "result": "Houston won by 154 Runs",
+   "summary": "Houston: 241/4(25) Dallas green: 87/6(25)"
+  },
+  {
+   "matchId": "6085",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6085&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "Austin",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "2258",
+    "2256"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Blue won by 81 Runs",
+   "summary": "Dallas Blue: 115/10(24.4) Austin: 34/10(14.5)"
+  },
+  {
+   "matchId": "6084",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6084&clubId=40319",
+   "date": "2025-07-24",
+   "type": "League",
+   "teams": [
+    "Chicago",
+    "Minnesota"
+   ],
+   "teamIds": [
+    "2259",
+    "2260"
+   ],
+   "ground": "Stallions CG1",
+   "result": "Chicago won by 4 Wickets",
+   "summary": "Minnesota: 162/4(25) Chicago: 163/6(24.4)"
+  },
+  {
+   "matchId": "6080",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6080&clubId=40319",
+   "date": "2025-07-23",
+   "type": "League",
+   "teams": [
+    "Dallas green",
+    "Dallas Red"
+   ],
+   "teamIds": [
+    "2255",
+    "2254"
+   ],
+   "ground": "NMCG 1",
+   "result": "Dallas Red won by 53 Runs",
+   "summary": "Dallas Red: 139/4(25) Dallas green: 86/7(25)"
+  },
+  {
+   "matchId": "6079",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6079&clubId=40319",
+   "date": "2025-07-23",
+   "type": "League",
+   "teams": [
+    "Minnesota",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "2260",
+    "2256"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas Blue won by 103 Runs",
+   "summary": "Dallas Blue: 202/8(25) Minnesota: 99/10(24.3)"
+  },
+  {
+   "matchId": "6078",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6078&clubId=40319",
+   "date": "2025-07-23",
+   "type": "League",
+   "teams": [
+    "Chicago",
+    "Dallas Blue"
+   ],
+   "teamIds": [
+    "2259",
+    "2256"
+   ],
+   "ground": "NMCG 2",
+   "result": "Dallas Blue won by 3 Wickets",
+   "summary": "Chicago: 122/8(25) Dallas Blue: 123/7(24)"
+  },
+  {
+   "matchId": "6077",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=6077&clubId=40319",
+   "date": "2025-07-23",
+   "type": "League",
+   "teams": [
+    "Houston",
+    "Austin"
+   ],
+   "teamIds": [
+    "2257",
+    "2258"
+   ],
+   "ground": "NMCG 1",
+   "result": "Austin won by 9 Wickets",
+   "summary": "Houston: 110/10(22.1) Austin: 116/1(22)"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "season": {
+  "key": "s316",
+  "id": "legacy-109",
+  "name": "USAC JR Zonal 2023 - East U13"
+ },
+ "fetchedAt": "2026-11-13T23:10:44.488Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=109&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=109&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "2401",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2401&clubId=40319",
+   "date": "2023-09-16",
+   "type": "League",
+   "teams": [
+    "New York Hub U13",
+    "New England Hub U13"
+   ],
+   "teamIds": [
+    "818",
+    "819"
+   ],
+   "ground": "TBD",
+   "result": "New England Hub U13 won by 33 Runs",
+   "summary": "New England Hub U13: 120/10(29.4) New York Hub U13: 87/10(26.5)"
+  },
+  {
+   "matchId": "2383",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=2383&clubId=40319",
+   "date": "2023-09-09",
+   "type": "League",
+   "teams": [
+    "New York Hub U13",
+    "New England Hub U13"
+   ],
+   "teamIds": [
+    "818",
+    "819"
+   ],
+   "ground": "TBD",
+   "result": "New England Hub U13 won by 56 Runs",
+   "summary": "New England Hub U13: 158/6(30) New York Hub U13: 102/10(26.3)"
+  }
+ ]
+}

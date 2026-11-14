@@ -1,0 +1,116 @@
+{
+ "season": {
+  "key": "s231",
+  "id": "legacy-237",
+  "name": "USAC Junior 2024 - Seattle Hub U15 Phase 2"
+ },
+ "fetchedAt": "2026-11-13T22:39:19.104Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=237&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=237&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3915",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3915&clubId=40319",
+   "date": "2024-08-16",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Blue"
+   ],
+   "teamIds": [
+    "1352",
+    "1353"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Red won by 4 Wickets",
+   "summary": "Blue: 168/5(35.5) Red: 170/6(33.3)"
+  },
+  {
+   "matchId": "3911",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3911&clubId=40319",
+   "date": "2024-08-15",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Green"
+   ],
+   "teamIds": [
+    "1353",
+    "1351"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Blue won by 85 Runs",
+   "summary": "Blue: 177/10(35) Green: 92/11(26.3)"
+  },
+  {
+   "matchId": "3908",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3908&clubId=40319",
+   "date": "2024-08-14",
+   "type": "League",
+   "teams": [
+    "Blue",
+    "Red"
+   ],
+   "teamIds": [
+    "1353",
+    "1352"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Red won by 70 Runs",
+   "summary": "Red: 233/9(40) Blue: 163/10(37)"
+  },
+  {
+   "matchId": "3901",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3901&clubId=40319",
+   "date": "2024-08-13",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Red"
+   ],
+   "teamIds": [
+    "1351",
+    "1352"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Red won by 24 Runs",
+   "summary": "Red: 194/10(40) Green: 170/11(39.1)"
+  },
+  {
+   "matchId": "3892",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3892&clubId=40319",
+   "date": "2024-08-12",
+   "type": "League",
+   "teams": [
+    "Green",
+    "Blue"
+   ],
+   "teamIds": [
+    "1351",
+    "1353"
+   ],
+   "ground": "Tollgate Farm 2",
+   "result": "Green won by 25 Runs (D/L)",
+   "summary": "Green: 122/10(33.2) Blue: 174/10(31.4)"
+  },
+  {
+   "matchId": "3864",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3864&clubId=40319",
+   "date": "2024-08-09",
+   "type": "League",
+   "teams": [
+    "Red",
+    "Green"
+   ],
+   "teamIds": [
+    "1352",
+    "1351"
+   ],
+   "ground": "Tollgate Farm 1",
+   "result": "Red won by 138 Runs",
+   "summary": "Red: 294/11(38.3) Green: 156/10(36.5)"
+  }
+ ]
+}

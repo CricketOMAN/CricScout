@@ -1,0 +1,133 @@
+{
+ "season": {
+  "key": "s256",
+  "id": "legacy-203",
+  "name": "USAC JUNIOR 2024 -MIDWEST WIM HUB U11"
+ },
+ "fetchedAt": "2026-11-13T22:42:24.713Z",
+ "source": [
+  "https://cricclubs.com/USACricketJunior/listMatches.do?league=203&clubId=40319",
+  "https://cricclubs.com/USACricketJunior/fixtures.do?league=203&clubId=40319"
+ ],
+ "matches": [
+  {
+   "matchId": "3765",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3765&clubId=40319",
+   "date": "2024-07-27",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MVP U11"
+   ],
+   "teamIds": [
+    "1222",
+    "1221"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 6 Wickets",
+   "summary": "MVP U11: 103/10(20) MYCA Vortex: 104/4(16)"
+  },
+  {
+   "matchId": "3729",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3729&clubId=40319",
+   "date": "2024-07-20",
+   "type": "League",
+   "teams": [
+    "MYCA Twisters",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "1227",
+    "1222"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 123 Runs",
+   "summary": "MYCA Vortex: 150/6(20) MYCA Twisters: 27/9(15)"
+  },
+  {
+   "matchId": "3653",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3653&clubId=40319",
+   "date": "2024-07-13",
+   "type": "League",
+   "teams": [
+    "MVP U11",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "1221",
+    "1227"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MVP U11 won by 46 Runs",
+   "summary": "MVP U11: 122/5(20) MYCA Twisters: 76/3(20)"
+  },
+  {
+   "matchId": "3583",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3583&clubId=40319",
+   "date": "2024-06-29",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "1222",
+    "1227"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 77 Runs",
+   "summary": "MYCA Vortex: 164/8(20) MYCA Twisters: 87/9(20)"
+  },
+  {
+   "matchId": "3398",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3398&clubId=40319",
+   "date": "2024-06-15",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MVP U11"
+   ],
+   "teamIds": [
+    "1222",
+    "1221"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 47 Runs",
+   "summary": "MYCA Vortex: 134/3(20) MVP U11: 87/7(20)"
+  },
+  {
+   "matchId": "3347",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3347&clubId=40319",
+   "date": "2024-06-08",
+   "type": "League",
+   "teams": [
+    "MYCA Vortex",
+    "MYCA Twisters"
+   ],
+   "teamIds": [
+    "1222",
+    "1227"
+   ],
+   "ground": "Boundary Creek-Maple Grove",
+   "result": "MYCA Vortex won by 61 Runs",
+   "summary": "MYCA Vortex: 147/5(20) MYCA Twisters: 86/7(20)"
+  },
+  {
+   "matchId": "3194",
+   "scorecard": "https://cricclubs.com/USACricketJunior/viewScorecard.do?matchId=3194&clubId=40319",
+   "date": "2024-05-19",
+   "type": "League",
+   "teams": [
+    "MVP U11",
+    "MYCA Vortex"
+   ],
+   "teamIds": [
+    "1221",
+    "1222"
+   ],
+   "ground": "MN Nesbitt Park",
+   "result": "MYCA Vortex won by 7 Wickets",
+   "summary": "MVP U11: 70/9(20) MYCA Vortex: 71/3(13.4)"
+  }
+ ]
+}
