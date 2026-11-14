@@ -1,8 +1,5 @@
 {
   "dublinanddanvillecricketleague": { "code": "DublinandDanvilleCricketLeague", "reader": "ddcl", "timeLimitSec": 300 },
-  "srcausa": { "code": "SrcaUsa", "reader": "legacy", "timeLimitSec": 300 },
-  "mountainhousetracycricketassociationmtca": { "code": "MountainHouseTracyCricketAssociationMTCA", "reader": "legacy", "timeLimitSec": 300 },
-  "nacltennisballcricket": { "code": "nacltennisballcricket", "reader": "legacy", "excludeSeries": "cup", "timeLimitSec": 300 },
   "gpcl": { "code": "GPCL", "name": "GPCL - Greater Philadelphia Cricket League", "reader": "legacy", "timeLimitSec": 300 },
   "usacricketjunior": { "code": "USACricketJunior", "name": "USA Cricket Junior Pathway", "reader": "legacy", "yearsBack": 4, "timeLimitSec": 300 }
 }

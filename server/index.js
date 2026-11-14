@@ -14,10 +14,8 @@ let busy = false;
 const CLUBS = {
   ddcl: 'DublinandDanvilleCricketLeague',
   dublinanddanvillecricketleague: 'DublinandDanvilleCricketLeague',
-  mtca: 'MountainHouseTracyCricketAssociationMTCA',
-  mountainhousetracycricketassociationmtca: 'MountainHouseTracyCricketAssociationMTCA',
-  srca: 'SrcaUsa',
-  srcausa: 'SrcaUsa'
+  gpcl: 'GPCL',
+  usacricketjunior: 'USACricketJunior'
 };
 
 function send(res, status, body) {
@@ -34,8 +32,7 @@ function resolveClub(raw) {
 function useLegacy(code) {
   if (code === 'DublinandDanvilleCricketLeague') return false;
   const league = store.readLeague(code);
-  if (league && league.legacy) return true;
-  return /mtca|srcausa|srca/i.test(code);
+  return !!(league && league.legacy);
 }
 
 function challenge(title, status) {
