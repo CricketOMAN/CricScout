@@ -1,6 +1,8 @@
 name: Scan
 
 on:
+  issues:
+    types: [opened, labeled]
   workflow_dispatch:
     inputs:
       league:
@@ -9,9 +11,14 @@ on:
         default: USACricketJunior
         type: string
       team:
-        description: Team name, or ALL to scan every team in the league (leave empty to only refresh league/standings)
+        description: Team name, or ALL to scan every team in the league (leave empty to only refresh league/players)
         required: false
         default: ALL
+        type: string
+      player:
+        description: Numeric CricClubs playerId to fetch a single player profile on the fly (optional)
+        required: false
+        default: ''
         type: string
 
 permissions: {}
@@ -31,6 +38,7 @@ jobs:
       mode: ${{ steps.set.outputs.mode }}
       league: ${{ steps.set.outputs.league }}
       team: ${{ steps.set.outputs.team }}
+      player: ${{ steps.set.outputs.player }}
       error: ${{ steps.set.outputs.error }}
     steps:
       - uses: actions/checkout@v4
@@ -63,6 +71,7 @@ jobs:
           ISSUE_BODY: ${{ github.event_name == 'issues' && github.event.issue.body || '' }}
           INPUT_LEAGUE: ${{ inputs.league }}
           INPUT_TEAM: ${{ inputs.team }}
+          INPUT_PLAYER: ${{ inputs.player }}
           SEEN: ${{ steps.seen.outputs.seen }}
         run: node .github/scripts/prepare.js
 
@@ -125,6 +134,7 @@ jobs:
           MODE: ${{ needs.prepare.outputs.mode }}
           LEAGUE: ${{ needs.prepare.outputs.league }}
           TEAM: ${{ needs.prepare.outputs.team }}
+          PLAYER: ${{ needs.prepare.outputs.player }}
           SITE_URL: https://cricketoman.github.io/CricScout/
           MAX_RUN_MIN: '300'
         run: |
@@ -150,6 +160,7 @@ jobs:
         env:
           LEAGUE: ${{ needs.prepare.outputs.league }}
           TEAM: ${{ needs.prepare.outputs.team }}
+          PLAYER: ${{ needs.prepare.outputs.player }}
           MODE: ${{ needs.prepare.outputs.mode }}
         run: |
           set -euo pipefail
@@ -162,6 +173,8 @@ jobs:
           fi
           if [ "$MODE" = "weekly" ]; then
             msg="data: weekly current-season rescan"
+          elif [ "$MODE" = "player" ]; then
+            msg="data: profile player ${LEAGUE} / ${PLAYER}"
           elif [ -n "${TEAM}" ]; then
             msg="data: scan ${LEAGUE} / ${TEAM}"
           else

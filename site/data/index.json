@@ -553,6 +553,72 @@
       ]
     },
     {
+      "code": "pmcl",
+      "name": "Philadelphia Metropolitan Cricket League",
+      "checkedAt": "2026-11-14T03:55:48.557Z",
+      "ingest": {
+        "refreshedAt": "2026-11-14T03:55:48.557Z"
+      },
+      "seasons": {
+        "current": {
+          "id": "legacy-28",
+          "name": "PMCL T30 2026",
+          "startDate": null,
+          "year": 2026,
+          "teamCount": 18
+        },
+        "last": {
+          "id": "legacy-27",
+          "name": "PMCL 2026-KBT20",
+          "startDate": null,
+          "year": 2026,
+          "teamCount": 20
+        },
+        "prev2": {
+          "id": "legacy-19",
+          "name": "PMCL T30 2023",
+          "startDate": null,
+          "year": 2023,
+          "teamCount": 12
+        }
+      },
+      "teams": [
+        "Alphas United",
+        "BFL",
+        "BOCC",
+        "BOCC-Blue Team",
+        "BOCC-Gold Team",
+        "Caribbeans",
+        "Challengers",
+        "Champions Cricket Club",
+        "Cricket Academy of PA",
+        "EAST COAST",
+        "Frank Parsons",
+        "Galloway",
+        "GT Challengers",
+        "ICC",
+        "Kalinga",
+        "Knights",
+        "NEFCC",
+        "RISING STARS",
+        "Rising Stars CC",
+        "Spartans",
+        "Stallions CC",
+        "Thunders",
+        "Tristate",
+        "U-City Jaguars",
+        "UECC",
+        "UNITED 11",
+        "United XI",
+        "UNITED XI",
+        "Vortex Vipers",
+        "West Philly",
+        "WEST PHILLY"
+      ],
+      "logos": {},
+      "scanned": []
+    },
+    {
       "code": "SrcaUsa",
       "name": "SRCA",
       "checkedAt": "2026-11-01T20:36:59.007Z",

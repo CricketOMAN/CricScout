@@ -21,7 +21,15 @@ body:
     id: team
     attributes:
       label: Team
-      description: Team name as it appears on CricClubs. Leave blank to only add the league.
+      description: Team name as it appears on CricClubs. Leave blank when adding a league or profiling a player.
       placeholder: Bay Area Falcons
+    validations:
+      required: false
+  - type: input
+    id: player
+    attributes:
+      label: Player
+      description: Numeric CricClubs playerId (or viewPlayer.do URL) to fetch full match-by-match player profile on the fly.
+      placeholder: "2102097"
     validations:
       required: false

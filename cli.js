@@ -7,7 +7,8 @@ const { normMatch } = require('./lib/normalize');
 const store = require('./lib/store');
 const ingest = require('./lib/ingest');
 const { buildStandingsDoc } = require('./lib/standings');
-const { sanitizeLeague, sanitizeTeam, siteUrl, commentFor } = require('./lib/issue');
+const { sanitizeLeague, sanitizeTeam, sanitizePlayer, siteUrl, siteBase, commentFor } = require('./lib/issue');
+const { addLeagueFast, fetchPlayerOnDemand } = require('./lib/player-ondemand');
 
 const TZ = 'America/Los_Angeles';
 const RESULT = path.join(store.ROOT, 'scan-result.json');
@@ -230,10 +231,43 @@ function leagueResult(league, extra = {}) {
 }
 
 async function addLeague(input, { refresh = true } = {}) {
+  const code = sanitizeLeague(input);
+  if (!code) return finish({ ok: false, error: 'Invalid league. Use a CricClubs league code or a cricclubs.com URL.' }, 2);
+  if (!legacyEntry(code)) {
+    try {
+      await addLeagueFast(code, prog => console.error(`  [${prog.done}/${prog.total}] ${prog.phase}`));
+      const lg = store.readLeague(code);
+      if (lg) return finish(leagueResult(lg), 0);
+    } catch (e) {
+      console.error('addLeagueFast fallback:', e.message);
+    }
+  }
   const res = await ensureLeague(input, { refresh });
   if (res.error) return finish({ ok: false, error: res.error }, 2);
+  try { await ingestCore(res.league); } catch (e) { console.error('ingest warning:', e.message); }
   store.publish();
   return finish(leagueResult(res.league), 0);
+}
+
+async function scanPlayer(input, playerInput) {
+  const code = sanitizeLeague(input);
+  if (!code) return finish({ ok: false, error: 'Invalid league. Use a CricClubs league code or a cricclubs.com URL.' }, 2);
+  const pCheck = sanitizePlayer(playerInput);
+  if (!pCheck.ok || !pCheck.value) return finish({ ok: false, error: pCheck.error || 'Player ID is required.' }, 2);
+  const prof = await fetchPlayerOnDemand(code, pCheck.value);
+  const lg = store.readLeague(code) || { code, name: code };
+  const playerUrl = `${siteBase()}players.html?league=${encodeURIComponent(lg.code)}&player=${encodeURIComponent(prof.name || pCheck.value)}`;
+  return finish({
+    ok: true,
+    kind: 'player',
+    code: lg.code,
+    name: lg.name || lg.code,
+    playerId: pCheck.value,
+    playerName: prof.name || pCheck.value,
+    matches: (prof.matches || []).length,
+    crossLeagues: (prof.crossLeagues || []).length,
+    url: playerUrl
+  }, 0);
 }
 
 async function scanOne(input, teamInput, { refreshLeague = false, currentOnly = false } = {}) {
@@ -398,6 +432,7 @@ async function run() {
   }
   if (cmd === 'league') return addLeague(argLeague(), { refresh: process.env.REFRESH === '1' || process.argv.includes('--refresh') });
   if (cmd === 'scan') return scanOne(argLeague(), argTeam(), { refreshLeague: false });
+  if (cmd === 'player') return scanPlayer(argLeague(), process.env.PLAYER || process.argv[4] || '');
   if (cmd === 'weekly') return weekly();
   if (cmd === 'ingest') return ingestLeague(argLeague(), { force: process.env.FORCE === '1' || process.argv.includes('--force') });
   if (cmd === 'reparse') {
@@ -409,14 +444,15 @@ async function run() {
     const mode = process.env.MODE;
     if (mode === 'weekly') return weekly();
     if (mode === 'league') return addLeague(process.env.LEAGUE || '', { refresh: true });
+    if (mode === 'player') return scanPlayer(process.env.LEAGUE || '', process.env.PLAYER || '');
     if (mode === 'scan') return scanOne(process.env.LEAGUE || '', process.env.TEAM || '', { refreshLeague: false });
-    return finish({ ok: false, error: 'Unknown MODE. Expected weekly, league, or scan.' }, 1);
+    return finish({ ok: false, error: 'Unknown MODE. Expected weekly, league, player, or scan.' }, 1);
   }
-  console.error('Usage: node cli.js publish|league|ingest|scan|weekly|run');
+  console.error('Usage: node cli.js publish|league|ingest|scan|player|weekly|run');
   process.exitCode = 1;
 }
 
 run().catch(e => {
   console.error(e);
   finish({ ok: false, error: String(e.message || e) }, 1);
-}).finally(async () => { await cc.close(); console.error('stats', JSON.stringify(cc.stats)); });
+}).finally(async () => { await cc.close(); console.error('stats', JSON.stringify(cc.stats)); process.exit(process.exitCode || 0); });

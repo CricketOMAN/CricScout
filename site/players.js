@@ -1,7 +1,46 @@
 const $ = s => document.querySelector(s);
 let LEAGUE = null, CATALOG = [], PLAYERS = [], PLAYER_MAP = new Map(), CURRENT = null;
 let loadGen = 0, playerIndex = [], playerActive = -1, pageTab = 'overview', periodChoice = 'all';
-let activeSSE = null;
+let activeSSE = null, pollTimer = null, pollGen = 0;
+const REPO_ISSUES = 'https://github.com/CricketOMAN/CricScout/issues/new';
+
+function stopPoll() { pollGen++; if (pollTimer) { clearInterval(pollTimer); pollTimer = null; } }
+function watchUrl(url, onHit) {
+  stopPoll();
+  const gen = pollGen;
+  let n = 0;
+  const max = 40;
+  const hint = () => {
+    const h = $('#pollhint'); if (!h) return;
+    h.textContent = n >= max ? 'Timed out waiting for GitHub Actions — refresh once the workflow finishes.' : `Checking GitHub Pages every 15s… (${n}/${max})`;
+  };
+  const tick = async () => {
+    if (gen !== pollGen) return;
+    n++;
+    try {
+      const r = await fetch(url, { cache: 'no-store' });
+      if (r.ok) {
+        const data = await r.json();
+        if (gen !== pollGen) return;
+        stopPoll();
+        onHit(data);
+        return;
+      }
+    } catch (e) {}
+    if (n >= max && pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+    hint();
+  };
+  hint();
+  pollTimer = setInterval(tick, 15000);
+}
+function leagueIssueUrl(code) {
+  const q = new URLSearchParams({ template: 'scan-request.yml', labels: 'scan-request', title: `Add league: ${code}`, league: code });
+  return `${REPO_ISSUES}?${q}`;
+}
+function playerIssueUrl(code, playerId, playerName) {
+  const q = new URLSearchParams({ template: 'scan-request.yml', labels: 'scan-request', title: `Player profile: ${playerName || playerId} (${code})`, league: code, player: String(playerId) });
+  return `${REPO_ISSUES}?${q}`;
+}
 
 const pct = (a, b) => b ? Math.round(100 * a / b) + '%' : '–';
 const ov = b => Math.floor(b / 6) + '.' + b % 6;
@@ -376,7 +415,23 @@ async function addLeague(input) {
       msg('Could not add league: ' + errText);
       $('#main').innerHTML = welcomeHTML();
     } else {
-      $('#main').innerHTML = card('⚡', 'Start local server for live league scraping', `<p>To add new CricClubs leagues and scrape player profiles on the fly in seconds, run the local server in your terminal:</p><pre style="background:var(--bg2);padding:10px 12px;border-radius:10px;border:1px solid var(--line);overflow:auto"><code>node server.js</code></pre><p class="note">Then open <b>http://localhost:3000/players.html</b> and paste any CricClubs league URL.</p>`);
+      const href = leagueIssueUrl(code);
+      $('#main').innerHTML = `<section class="welcome" id="reqPanel">
+        <div class="wball"></div>
+        <h1>Add <span>${esc(code)}</span></h1>
+        <p class="lead">Click below to trigger the GitHub Action that downloads all series & players for <b>${esc(code)}</b> (~20–30s).</p>
+        <p style="margin:14px 0"><a class="btn" href="${esc(href)}" target="_blank" rel="noopener">Add ${esc(code)} via GitHub Actions ↗</a></p>
+        <p class="hint" id="pollhint">Checking GitHub Pages every 15s…</p>
+      </section>`;
+      watchUrl(leagueUrl, async league => {
+        try { await loadCatalog(); } catch (err) {}
+        if (!leagueByCode(league.code)) CATALOG.push(league);
+        if (![...$('#leagueSel').options].some(o => o.value === league.code)) {
+          $('#leagueSel').insertAdjacentHTML('beforeend', `<option value="${esc(league.code)}">${esc(league.name)} · ${esc(league.code)}</option>`);
+        }
+        $('#lg').value = '';
+        loadLeaguePlayers(league.code);
+      });
     }
   });
 }
@@ -807,9 +862,12 @@ function crossLeaguesHTML(p) {
 }
 
 function overviewHTML(p, apps, st, label, loadingOnDemand) {
+  const needsActionFetch = !loadingOnDemand && !p.bio && p.playerId && /^\d+$/.test(String(p.playerId)) && (p.apps.length === 0 || p.summary.ptsMatches > p.apps.length);
   const banner = loadingOnDemand
     ? `<div class="card" style="display:flex;align-items:center;gap:12px;border-color:var(--gold)"><div class="wball" style="width:32px;height:32px;margin:0;flex:none"></div><div><b>Fetching full match-by-match profile on the fly…</b><div style="font-size:12px;color:var(--mut)">Scraping batting, bowling & cross-league records for ${esc(p.name)}</div></div></div>`
-    : '';
+    : needsActionFetch
+      ? `<div class="card" style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;border-color:var(--gold)"><div style="display:flex;align-items:center;gap:12px;min-width:220px;flex:1"><div class="wball" style="width:32px;height:32px;margin:0;flex:none"></div><div><b>Full career match log & cross-league stats available</b><div id="pollhint" style="font-size:12px;color:var(--mut)">Trigger a 15-second GitHub Action to scrape all ${st.mat}+ match lines & cross-league records for ${esc(p.name)}.</div></div></div><a class="btn" data-watch-player="${esc(p.playerId)}" href="${esc(playerIssueUrl(LEAGUE.code, p.playerId, p.name))}" target="_blank" rel="noopener">Fetch via GitHub Actions ↗</a></div>`
+      : '';
   const formBits = apps.slice(0, 12).map((a, i) => resultBadge(a, ` style="animation-delay:${i * 40}ms"`)).join('');
   const formCard = card('📈', 'Recent appearances', `${formBits ? `<div class="form">${formBits}</div>` : '<p class="note">Match-by-match log not loaded yet — see official series points in Pathway & Teams.</p>'}<p class="hsum">Played <b>${st.mat}</b> match${st.mat === 1 ? '' : 'es'}${apps.length ? ` (${st.w}W–${st.l}L)` : ''} across <b>${p.teams.length}</b> team${p.teams.length === 1 ? '' : 's'}${st.ptsTotal ? ` · <b class="y">${st.ptsTotal.toLocaleString()}</b> MVP pts` : ''}.</p>`, label);
 
@@ -1012,6 +1070,19 @@ document.addEventListener('click', e => {
   if (pickCard) {
     choosePlayer(pickCard.getAttribute('data-pick-player'));
     window.scrollTo(0, 0);
+    return;
+  }
+  const watchBtn = e.target.closest('[data-watch-player]');
+  if (watchBtn && CURRENT && LEAGUE) {
+    const pid = watchBtn.getAttribute('data-watch-player');
+    const targetP = CURRENT;
+    watchUrl(`data/leagues/${LEAGUE.code.toLowerCase()}/players/${encodeURIComponent(pid)}.json`, prof => {
+      mergeOnDemandProfile(targetP, prof);
+      if (CURRENT === targetP) {
+        fillPlayerPeriod(targetP);
+        renderPlayer(false);
+      }
+    });
     return;
   }
   if (!e.target.closest('#playerPick')) closePlayerList();
