@@ -10,6 +10,7 @@
   },
   "scripts": {
     "publish": "node cli.js publish",
+    "start": "node server.js",
     "league": "node cli.js league",
     "scan": "node cli.js scan",
     "weekly": "node cli.js weekly",

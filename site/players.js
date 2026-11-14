@@ -1,6 +1,7 @@
 const $ = s => document.querySelector(s);
 let LEAGUE = null, CATALOG = [], PLAYERS = [], PLAYER_MAP = new Map(), CURRENT = null;
 let loadGen = 0, playerIndex = [], playerActive = -1, pageTab = 'overview', periodChoice = 'all';
+let activeSSE = null;
 
 const pct = (a, b) => b ? Math.round(100 * a / b) + '%' : '–';
 const ov = b => Math.floor(b / 6) + '.' + b % 6;
@@ -11,11 +12,16 @@ const HUES = ['#2fd27a', '#ffc83d', '#4cc3ff', '#ff8a95', '#b78cff', '#7ee0c3', 
 const hue = n => HUES[[...String(n || '')].reduce((s, c) => s + c.charCodeAt(0), 0) % HUES.length];
 const slug = s => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const normKey = s => String(s || '').toLowerCase().replace(/[*†\u2020]/g, '').replace(/\s+/g, ' ').trim();
-const normPts = s => String(s || '').toLowerCase().replace(/\(.*?\)/g, ' ').replace(/[^a-z0-9]+/g, ' ').trim();
 
 function remember(k, v) { try { localStorage[k] = v; } catch (e) {} }
 function recall(k) { try { return localStorage[k] || ''; } catch (e) { return ''; } }
 function msg(t) { const m = $('#msg'); m.hidden = !t; m.textContent = t || ''; }
+function parseLeague(s) {
+  s = String(s || '').trim();
+  const m = s.match(/cricclubs\.com\/([A-Za-z0-9_-]+)/i);
+  const code = m ? m[1] : s.replace(/^\/+|\/.*$/g, '');
+  return /^[A-Za-z0-9_-]{2,80}$/.test(code) ? code : null;
+}
 function leagueByCode(code) { return CATALOG.find(l => l.code.toLowerCase() === String(code || '').toLowerCase()) || null; }
 function teamLogo(name) { return (LEAGUE && LEAGUE.logos && LEAGUE.logos[name]) || ''; }
 function face(name, url, cls) {
@@ -29,7 +35,6 @@ function badgeHTML(name, url) {
   return `<div class="badge has-logo">${face(name, url, 'logo-img')}<span class="fallback">${letters}</span></div>`;
 }
 const card = (icon, t, h, tag) => `<section class="card"><div class="ch"><span class="ic" aria-hidden="true">${icon}</span><h2>${t}</h2>${tag ? `<span class="tag">${tag}</span>` : ''}</div>${h}</section>`;
-const tbl = (cols, rows) => `<table><tr>${cols.map(c => `<th>${c}</th>`).join('')}</tr>${rows.map(r => `<tr>${r.map(c => `<td>${c}</td>`).join('')}</tr>`).join('')}</table>`;
 function donut(parts, center) {
   const clean = parts.filter(p => p.v > 0);
   const tot = clean.reduce((s, p) => s + p.v, 0) || 1;
@@ -62,51 +67,62 @@ function resultBadge(m, extra) {
 const PAGE_TABS = [['overview', 'Overview'], ['pathway', 'Pathway & Teams'], ['matches', 'Match Log']];
 
 function welcomeHTML() {
-  return `<section class="welcome" id="welcome"><div class="wball"></div><h1>Scout any<br><span>player.</span></h1><p>Pick a league above to load all players across every scanned team and season, then search any player for their complete profile.</p><div class="eg">Try <button class="chip" type="button" data-lg="GPCL">GPCL</button> <button class="chip" type="button" data-lg="USACricketJunior">USACricketJunior</button> <button class="chip" type="button" data-lg="DublinandDanvilleCricketLeague">DDCL</button></div></section>`;
+  return `<section class="welcome" id="welcome"><div class="wball"></div><h1>Scout any<br><span>player.</span></h1><p>Pick a league or paste any CricClubs league URL above to download its players on the fly, then search any player to generate their scouting report & match log on the fly.</p><div class="eg">Try <button class="chip" type="button" data-lg="GPCL">GPCL</button> <button class="chip" type="button" data-lg="USACricketJunior">USACricketJunior</button> <button class="chip" type="button" data-lg="DublinandDanvilleCricketLeague">DDCL</button></div></section>`;
 }
 
-function loadingHTML(leagueName, done, total, playerCount, matchCount) {
+function loadingHTML(leagueName, done, total, subText, unitLabel = 'done') {
   const pctDone = total ? Math.round(100 * done / total) : 0;
   return `<section class="welcome" id="loadingPanel">
     <div class="wball"></div>
     <h1>Loading<br><span>players…</span></h1>
     <p class="lead">${esc(leagueName)}</p>
-    <div class="load-stat"><b id="loadCount">${done} / ${total}</b> <span>teams loaded (${pctDone}%)</span></div>
+    <div class="load-stat"><b id="loadCount">${done} / ${total}</b> <span id="loadUnit">${esc(unitLabel)} (${pctDone}%)</span></div>
     <div class="pbar" style="max-width:340px;margin:12px 0"><i id="loadBar" style="width:${pctDone}%"></i></div>
-    <p class="hint" id="loadSub">${playerCount.toLocaleString()} players indexed across ${matchCount.toLocaleString()} team-matches…</p>
+    <p class="hint" id="loadSub">${esc(subText)}</p>
   </section>`;
 }
 
-function updateLoadingDOM(done, total, playerCount, matchCount) {
+function updateLoadingDOM(done, total, subText, unitLabel = 'done') {
   const pctDone = total ? Math.round(100 * done / total) : 0;
-  const c = $('#loadCount'), b = $('#loadBar'), s = $('#loadSub');
+  const c = $('#loadCount'), u = $('#loadUnit'), b = $('#loadBar'), s = $('#loadSub');
   if (c) c.textContent = `${done} / ${total}`;
-  if (c && c.nextElementSibling) c.nextElementSibling.textContent = `teams loaded (${pctDone}%)`;
+  if (u) u.textContent = `${unitLabel} (${pctDone}%)`;
   if (b) b.style.width = pctDone + '%';
-  if (s) s.textContent = `${playerCount.toLocaleString()} players indexed across ${matchCount.toLocaleString()} team-matches…`;
+  if (s && subText != null) s.textContent = subText;
 }
 
 function roleInfo(st) {
-  const bowls = st.balls >= 12 || st.w >= 1;
-  const bats = st.b >= 12 || st.r >= 15;
+  const bowls = st.balls >= 12 || st.w >= 1 || (!st.inn && st.ptsBowl >= 50);
+  const bats = st.b >= 12 || st.r >= 15 || (!st.balls && st.ptsBat >= 50);
   const bits = [];
   if (st.k > 0 || st.st > 0) bits.push('<span class="role wk">WK</span>');
   if (bowls && bats) bits.push('<span class="role ar">All-rounder</span>');
   else if (bowls) bits.push('<span class="role bowl">Bowler</span>');
-  else if (bats || st.inn > 0) bits.push('<span class="role bat">Batter</span>');
+  else if (bats || st.inn > 0 || st.ptsBat > 0) bits.push('<span class="role bat">Batter</span>');
   const label = (st.k > 0 || st.st > 0) ? 'WK' : (bowls && bats) ? 'All-rounder' : bowls ? 'Bowler' : 'Batter';
   return { html: bits.join(''), label, isBat: bats || st.inn > 0, isBowl: bowls, isAR: bowls && bats, isWK: st.k > 0 || st.st > 0 };
 }
 
-function summarizeApps(apps) {
+function summarizeApps(apps, pointsMap) {
   const st = {
     mat: apps.length, w: 0, l: 0, inn: 0, no: 0, outs: 0, r: 0, b: 0, f: 0, s: 0,
     hs: -1, hsNo: false, thirties: 0, fifties: 0, hundreds: 0, posSum: 0, posN: 0, how: {},
     spells: 0, opens: 0, balls: 0, br: 0, wkts: 0, dots: 0, wd: 0, nb: 0, bw: -1, bbr: 0, threeW: 0, fiveW: 0,
     c: 0, k: 0, ro: 0, st: 0,
     bfInn: 0, bfR: 0, bfB: 0, bfOuts: 0, chInn: 0, chR: 0, chB: 0, chOuts: 0,
-    winR: 0, winB: 0, winW: 0, winBalls: 0, winBr: 0
+    winR: 0, winB: 0, winW: 0, winBalls: 0, winBr: 0,
+    ptsTotal: 0, ptsBat: 0, ptsBowl: 0, ptsFld: 0, ptsMom: 0, ptsMatches: 0
   };
+  if (pointsMap && pointsMap.size) {
+    for (const row of pointsMap.values()) {
+      st.ptsTotal += Number(row.total) || 0;
+      st.ptsBat += Number(row.batting) || 0;
+      st.ptsBowl += Number(row.bowling) || 0;
+      st.ptsFld += Number(row.fielding) || 0;
+      st.ptsMom += Number(row.mom) || 0;
+      st.ptsMatches += Number(row.matches) || 0;
+    }
+  }
   for (const a of apps) {
     if (a.outcome === 'W') st.w++;
     else if (a.outcome === 'L') st.l++;
@@ -141,6 +157,7 @@ function summarizeApps(apps) {
       st.st += a.field.st || 0;
     }
   }
+  if (!st.mat && st.ptsMatches) st.mat = st.ptsMatches;
   st.w_ = st.wkts;
   st.sr = st.b ? 100 * st.r / st.b : NaN;
   st.avg = st.outs ? st.r / st.outs : NaN;
@@ -191,7 +208,7 @@ function playerHits(q) {
   const compact = s.replace(/[^a-z0-9]/g, '');
   return playerIndex.filter(p => playerMatchesQuery(s, p)).sort((a, b) => {
     const rank = p => p.low.startsWith(s) ? 0 : p.low.includes(s) ? 1 : (compact && p.initials.startsWith(compact) ? 2 : 3);
-    return rank(a) - rank(b) || (b.summary.mat - a.summary.mat) || a.name.localeCompare(b.name);
+    return rank(a) - rank(b) || (b.summary.mat - a.summary.mat) || (b.summary.ptsTotal - a.summary.ptsTotal) || a.name.localeCompare(b.name);
   }).slice(0, 60);
 }
 
@@ -243,6 +260,7 @@ function openPlayerList() {
     const statBits = [`${st.mat}m`];
     if (st.inn > 0) statBits.push(`${st.r}r`);
     if (st.wkts > 0) statBits.push(`${st.wkts}w`);
+    if (!st.inn && !st.wkts && st.ptsTotal > 0) statBits.push(`${st.ptsTotal} pts`);
     return `<div class="team-opt${i === 0 ? ' on' : ''}" role="option" id="pl-opt-${i}" data-player="${esc(p.key)}" aria-selected="${i === 0 ? 'true' : 'false'}">
       <span class="av sm" style="background:${hue(p.name)}">${esc(ini(p.name))}</span>
       <span class="tn"><b>${esc(p.name)} ${st.role.html}</b><span class="opt-sub">${esc(teamTxt)}</span></span>
@@ -255,31 +273,118 @@ function openPlayerList() {
 function readyOverviewHTML() {
   if (!LEAGUE) return welcomeHTML();
   if (!PLAYERS.length) {
-    return card('📋', 'No scanned players yet', `<p>No team match data has been scanned for <b>${esc(LEAGUE.name)}</b> yet. Run a scan or pick another league.</p>`);
+    return card('📋', 'No players found yet', `<p>No player data is cached for <b>${esc(LEAGUE.name)}</b> yet.</p>`);
   }
-  const topBat = [...PLAYERS].sort((a, b) => b.summary.r - a.summary.r || b.summary.sr - a.summary.sr).slice(0, 8);
-  const topBowl = [...PLAYERS].sort((a, b) => b.summary.wkts - a.summary.wkts || (a.summary.econ || 99) - (b.summary.econ || 99)).slice(0, 8);
   const plRow = (p, i, sub, val, k, barPct, col) => `<div class="pl pl-pick" data-pick-player="${esc(p.key)}" role="button" tabindex="0"><span class="rank">${i}</span><span class="av" style="background:${hue(p.name)}">${esc(ini(p.name))}</span><div class="pn"><b>${esc(p.name)}</b><div class="roles">${p.summary.role.html}</div><span>${sub}</span><div class="mbar"><i style="width:${Math.max(4, barPct)}%;background:${col}"></i></div></div><div class="big"><div class="v">${val}</div><div class="k">${k}</div></div></div>`;
+
+  const topBat = [...PLAYERS].filter(p => p.summary.r > 0).sort((a, b) => b.summary.r - a.summary.r || b.summary.sr - a.summary.sr).slice(0, 8);
+  const topBowl = [...PLAYERS].filter(p => p.summary.wkts > 0).sort((a, b) => b.summary.wkts - a.summary.wkts || (a.summary.econ || 99) - (b.summary.econ || 99)).slice(0, 8);
+  const topPts = [...PLAYERS].filter(p => p.summary.ptsTotal > 0).sort((a, b) => b.summary.ptsTotal - a.summary.ptsTotal).slice(0, 10);
+
   const mxR = Math.max(1, ...topBat.map(p => p.summary.r));
   const mxW = Math.max(1, ...topBowl.map(p => p.summary.wkts));
-  const batHTML = topBat.filter(p => p.summary.r > 0).map((p, i) => {
+  const mxP = Math.max(1, ...topPts.map(p => p.summary.ptsTotal));
+
+  const batHTML = topBat.map((p, i) => {
     const s = p.summary;
     const t = p.teams[0] || '';
     return plRow(p, i + 1, `${esc(t)}${p.teams.length > 1 ? ` (+${p.teams.length - 1})` : ''} · ${s.inn} inns · avg ${f1(s.avg)} · SR ${f1(s.sr)}`, s.r, 'Runs', 100 * s.r / mxR, 'var(--sky)');
   }).join('');
-  const bowlHTML = topBowl.filter(p => p.summary.wkts > 0).map((p, i) => {
+  const bowlHTML = topBowl.map((p, i) => {
     const s = p.summary;
     const t = p.teams[0] || '';
     return plRow(p, i + 1, `${esc(t)}${p.teams.length > 1 ? ` (+${p.teams.length - 1})` : ''} · ${ov(s.balls)} ov · econ ${f1(s.econ)} · best ${s.bw}/${s.bbr}`, s.wkts, 'Wickets', 100 * s.wkts / mxW, 'var(--red)');
   }).join('');
-  return card('✅', 'Players loaded', `<p class="hsum" style="margin-top:0"><b>${PLAYERS.length.toLocaleString()}</b> players indexed from <b>${(LEAGUE.scanned || []).length}</b> scanned teams in <b>${esc(LEAGUE.name)}</b>. Search any player above or tap a leader below.</p>
+  const ptsHTML = (!batHTML && topPts.length) ? topPts.map((p, i) => {
+    const s = p.summary;
+    const t = p.teams[0] || '';
+    return plRow(p, i + 1, `${esc(t)}${p.teams.length > 1 ? ` (+${p.teams.length - 1})` : ''} · ${s.mat} matches · Bat ${s.ptsBat} · Bowl ${s.ptsBowl} · Fld ${s.ptsFld}`, s.ptsTotal, 'Points', 100 * s.ptsTotal / mxP, 'var(--gold)');
+  }).join('') : '';
+
+  const seasonCount = Object.keys(LEAGUE.seasons || {}).length;
+  return card('✅', 'Players loaded', `<p class="hsum" style="margin-top:0"><b>${PLAYERS.length.toLocaleString()}</b> players indexed across <b>${seasonCount}</b> series in <b>${esc(LEAGUE.name)}</b>. Search any player above or tap a leader below to load their full profile on the fly.</p>
     ${batHTML ? `<h3>Top run scorers</h3>${batHTML}` : ''}
-    ${bowlHTML ? `<h3>Top wicket takers</h3>${bowlHTML}` : ''}`, `${(LEAGUE.scanned || []).length}/${(LEAGUE.scanned || []).length} teams`);
+    ${bowlHTML ? `<h3>Top wicket takers</h3>${bowlHTML}` : ''}
+    ${ptsHTML ? `<h3>Top MVP point leaders (tap any player to fetch full match log)</h3>${ptsHTML}` : ''}`, `${PLAYERS.length.toLocaleString()} players`);
+}
+
+async function addLeague(input) {
+  msg('');
+  const code = parseLeague(input);
+  if (!code) { msg('Enter a league code like GPCL or a cricclubs.com URL.'); return; }
+  if (leagueByCode(code)) {
+    $('#lg').value = '';
+    loadLeaguePlayers(code);
+    return;
+  }
+  const leagueUrl = `data/leagues/${code.toLowerCase()}/league.json`;
+  try {
+    const r = await fetch(leagueUrl, { cache: 'no-store' });
+    if (r.ok) {
+      const league = await r.json();
+      if (!leagueByCode(league.code)) CATALOG.push(league);
+      if (![...$('#leagueSel').options].some(o => o.value === league.code)) {
+        $('#leagueSel').insertAdjacentHTML('beforeend', `<option value="${esc(league.code)}">${esc(league.name)} · ${esc(league.code)}</option>`);
+      }
+      $('#lg').value = '';
+      loadLeaguePlayers(league.code);
+      return;
+    }
+  } catch (e) {}
+
+  // Not cached yet -> On-demand fast scrape via /api/league/add SSE
+  if (activeSSE) { activeSSE.close(); activeSSE = null; }
+  hideDock();
+  closePlayerList();
+  $('#leagueSel').value = '';
+  $('#league').textContent = `${code} · Adding on the fly…`;
+  $('#main').innerHTML = loadingHTML(code, 0, 6, 'Connecting to live scraper to download league series & players…', 'steps');
+
+  const es = new EventSource(`/api/league/add?league=${encodeURIComponent(code)}`);
+  activeSSE = es;
+  es.addEventListener('progress', e => {
+    try {
+      const d = JSON.parse(e.data);
+      updateLoadingDOM(d.done || 0, d.total || 6, `${d.phase || 'Downloading…'}${d.players ? ` (${d.players.toLocaleString()} players found)` : ''}`, 'steps');
+    } catch (err) {}
+  });
+  es.addEventListener('done', e => {
+    es.close();
+    activeSSE = null;
+    try {
+      const { league } = JSON.parse(e.data);
+      if (league) {
+        const existingIdx = CATALOG.findIndex(l => l.code.toLowerCase() === league.code.toLowerCase());
+        if (existingIdx >= 0) CATALOG[existingIdx] = league;
+        else CATALOG.push(league);
+        if (![...$('#leagueSel').options].some(o => o.value === league.code)) {
+          $('#leagueSel').insertAdjacentHTML('beforeend', `<option value="${esc(league.code)}">${esc(league.name)} · ${esc(league.code)}</option>`);
+        }
+        $('#lg').value = '';
+        loadLeaguePlayers(league.code);
+      }
+    } catch (err) {
+      msg('Failed to parse added league response: ' + err.message);
+    }
+  });
+  es.addEventListener('error', e => {
+    let errText = '';
+    try { if (e && e.data) errText = JSON.parse(e.data).error; } catch {}
+    es.close();
+    activeSSE = null;
+    if (errText) {
+      msg('Could not add league: ' + errText);
+      $('#main').innerHTML = welcomeHTML();
+    } else {
+      $('#main').innerHTML = card('⚡', 'Start local server for live league scraping', `<p>To add new CricClubs leagues and scrape player profiles on the fly in seconds, run the local server in your terminal:</p><pre style="background:var(--bg2);padding:10px 12px;border-radius:10px;border:1px solid var(--line);overflow:auto"><code>node server.js</code></pre><p class="note">Then open <b>http://localhost:3000/players.html</b> and paste any CricClubs league URL.</p>`);
+    }
+  });
 }
 
 async function loadLeaguePlayers(code, initialPlayerKey) {
   const league = leagueByCode(code);
   if (!league) return false;
+  if (activeSSE) { activeSSE.close(); activeSSE = null; }
   const gen = ++loadGen;
   LEAGUE = league;
   CURRENT = null;
@@ -298,9 +403,14 @@ async function loadLeaguePlayers(code, initialPlayerKey) {
   if (clear) clear.hidden = true;
   $('#period').disabled = true;
 
+  const seasonsList = Object.values(league.seasons || {}).filter(s => s && s.name);
   const scanned = league.scanned || [];
-  const total = scanned.length;
-  $('#main').innerHTML = loadingHTML(league.name, 0, total, 0, 0);
+  const tasks = [
+    ...seasonsList.map(s => ({ kind: 'rank', s })),
+    ...scanned.map(teamName => ({ kind: 'team', teamName }))
+  ];
+  const total = tasks.length;
+  $('#main').innerHTML = loadingHTML(league.name, 0, total, '0 players indexed…', 'files');
   if (!total) {
     $('#main').innerHTML = readyOverviewHTML();
     return true;
@@ -309,82 +419,107 @@ async function loadLeaguePlayers(code, initialPlayerKey) {
   const byPlayer = new Map();
   let done = 0, matchCount = 0;
 
-  const ensurePlayer = rawName => {
+  const ensurePlayer = (rawName, playerId) => {
     const clean = String(rawName || '').replace(/[*†\u2020]/g, '').replace(/\s+/g, ' ').trim();
     const key = normKey(clean);
     if (!key) return null;
     let p = byPlayer.get(key);
     if (!p) {
-      p = { key, name: clean, teamsSet: new Set(), seriesMap: new Map(), appsMap: new Map(), pointsMap: new Map() };
+      p = { key, name: clean, playerId: playerId || null, teamsSet: new Set(), seriesMap: new Map(), appsMap: new Map(), pointsMap: new Map(), bio: null, crossLeagues: null, onDemandLoaded: false };
       byPlayer.set(key, p);
+    } else if (playerId && !p.playerId) {
+      p.playerId = String(playerId);
     }
     return p;
   };
 
-  const queue = scanned.slice();
+  const queue = tasks.slice();
   const workers = Array.from({ length: Math.min(8, total) }, async () => {
     while (queue.length) {
       if (gen !== loadGen) return;
-      const teamName = queue.shift();
+      const item = queue.shift();
       try {
-        const r = await fetch(`data/leagues/${league.code.toLowerCase()}/teams/${slug(teamName)}.json`, { cache: 'no-store' });
-        if (r.ok && gen === loadGen) {
-          const d = await r.json();
-          const tName = d.team || teamName;
-          for (const [, sObj] of Object.entries(d.seasons || {})) {
-            if (!sObj || !sObj.points || !sObj.points.players) continue;
-            for (const [, row] of Object.entries(sObj.points.players)) {
-              const p = ensurePlayer(row.name);
+        if (item.kind === 'rank') {
+          const s = item.s;
+          const r = await fetch(`data/leagues/${league.code.toLowerCase()}/rankings/${slug(s.name)}.json`, { cache: 'no-store' });
+          if (r.ok && gen === loadGen) {
+            const doc = await r.json();
+            if (!league.clubId && doc.source) {
+              const cid = (doc.source.match(/clubId=(\d+)/) || [])[1];
+              if (cid) league.clubId = cid;
+            }
+            for (const row of doc.players || []) {
+              const p = ensurePlayer(row.name, row.playerId);
               if (!p) continue;
-              p.teamsSet.add(tName);
-              p.pointsMap.set(`${sObj.id}|${tName}`, { seriesId: sObj.id, seriesName: sObj.name, team: tName, ...row });
+              if (row.team) p.teamsSet.add(row.team);
+              if (s.id) p.seriesMap.set(s.id, { id: s.id, name: s.name });
+              p.pointsMap.set(`${s.id}|${row.team || ''}`, { seriesId: s.id, seriesName: s.name, team: row.team || '', ...row });
             }
           }
-          for (const m of d.matches || []) {
-            if (!m || m.forfeit) continue;
-            matchCount++;
-            const appKeyPrefix = `${m.id}|${tName}`;
-            const touchApp = rawName => {
-              const p = ensurePlayer(rawName);
-              if (!p) return null;
-              p.teamsSet.add(tName);
-              if (m.seriesId) p.seriesMap.set(m.seriesId, { id: m.seriesId, name: m.series || m.seriesId });
-              let app = p.appsMap.get(appKeyPrefix);
-              if (!app) {
-                app = {
-                  id: m.id, date: m.date, series: m.series, seriesId: m.seriesId,
-                  team: tName, opponent: m.opponent, ground: m.ground, result: m.result,
-                  outcome: m.outcome, forfeit: !!m.forfeit, battedFirst: m.battedFirst,
-                  tossWonByUs: m.tossWonByUs, tossDecision: m.tossDecision,
-                  innings: m.innings || [], bat: null, bowl: null, field: null
-                };
-                p.appsMap.set(appKeyPrefix, app);
+        } else if (item.kind === 'team') {
+          const teamName = item.teamName;
+          const r = await fetch(`data/leagues/${league.code.toLowerCase()}/teams/${slug(teamName)}.json`, { cache: 'no-store' });
+          if (r.ok && gen === loadGen) {
+            const d = await r.json();
+            const tName = d.team || teamName;
+            for (const [, sObj] of Object.entries(d.seasons || {})) {
+              if (!sObj || !sObj.points || !sObj.points.players) continue;
+              for (const [, row] of Object.entries(sObj.points.players)) {
+                const p = ensurePlayer(row.name, row.playerId);
+                if (!p) continue;
+                p.teamsSet.add(tName);
+                if (sObj.id) p.seriesMap.set(sObj.id, { id: sObj.id, name: sObj.name });
+                p.pointsMap.set(`${sObj.id}|${tName}`, { seriesId: sObj.id, seriesName: sObj.name, team: tName, ...row });
               }
-              return app;
-            };
-            for (const b of m.batting || []) {
-              const app = touchApp(b.name);
-              if (app) app.bat = { r: b.r || 0, b: b.b || 0, f: b.f || 0, s: b.s || 0, out: !!b.out, how: b.how || null, pos: b.pos || null, howText: b.howText || null };
             }
-            (m.bowling || []).forEach((w, idx) => {
-              const app = touchApp(w.name);
-              if (app) app.bowl = { balls: w.balls || 0, r: w.r || 0, w: w.w || 0, dots: w.dots || 0, wd: w.wd || 0, nb: w.nb || 0, opened: idx < 2 };
-            });
-            for (const [fn, fk, fc] of m.fielding || []) {
-              const app = touchApp(fn);
-              if (app) {
-                app.field = app.field || { c: 0, k: 0, ro: 0, st: 0 };
-                if (fk === 'c') app.field.c += fc;
-                else if (fk === 'k') app.field.k += fc;
-                else if (fk === 'r') app.field.ro += fc;
-                else if (fk === 's') app.field.st += fc;
+            for (const m of d.matches || []) {
+              if (!m || m.forfeit) continue;
+              matchCount++;
+              const appKeyPrefix = `${m.id}|${tName}`;
+              const touchApp = rawName => {
+                const p = ensurePlayer(rawName);
+                if (!p) return null;
+                p.teamsSet.add(tName);
+                if (m.seriesId) p.seriesMap.set(m.seriesId, { id: m.seriesId, name: m.series || m.seriesId });
+                let app = p.appsMap.get(appKeyPrefix);
+                if (!app) {
+                  app = {
+                    id: m.id, date: m.date, series: m.series, seriesId: m.seriesId,
+                    team: tName, opponent: m.opponent, ground: m.ground, result: m.result,
+                    outcome: m.outcome, forfeit: !!m.forfeit, battedFirst: m.battedFirst,
+                    tossWonByUs: m.tossWonByUs, tossDecision: m.tossDecision,
+                    innings: m.innings || [], bat: null, bowl: null, field: null
+                  };
+                  p.appsMap.set(appKeyPrefix, app);
+                }
+                return app;
+              };
+              for (const b of m.batting || []) {
+                const app = touchApp(b.name);
+                if (app) app.bat = { r: b.r || 0, b: b.b || 0, f: b.f || 0, s: b.s || 0, out: !!b.out, how: b.how || null, pos: b.pos || null, howText: b.howText || null };
+              }
+              (m.bowling || []).forEach((w, idx) => {
+                const app = touchApp(w.name);
+                if (app) app.bowl = { balls: w.balls || 0, r: w.r || 0, w: w.w || 0, dots: w.dots || 0, wd: w.wd || 0, nb: w.nb || 0, opened: idx < 2 };
+              });
+              for (const [fn, fk, fc] of m.fielding || []) {
+                const app = touchApp(fn);
+                if (app) {
+                  app.field = app.field || { c: 0, k: 0, ro: 0, st: 0 };
+                  if (fk === 'c') app.field.c += fc;
+                  else if (fk === 'k') app.field.k += fc;
+                  else if (fk === 'r') app.field.ro += fc;
+                  else if (fk === 's') app.field.st += fc;
+                }
               }
             }
           }
         }
       } catch (e) {}
       done++;
-      if (gen === loadGen) updateLoadingDOM(done, total, byPlayer.size, matchCount);
+      if (gen === loadGen) {
+        updateLoadingDOM(done, total, `${byPlayer.size.toLocaleString()} players indexed${matchCount ? ` · ${matchCount.toLocaleString()} team-matches` : ''}…`, 'done');
+      }
     }
   });
 
@@ -395,8 +530,8 @@ async function loadLeaguePlayers(code, initialPlayerKey) {
     const apps = [...p.appsMap.values()].sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')) || String(b.id).localeCompare(String(a.id)));
     const teams = [...p.teamsSet].sort((a, b) => a.localeCompare(b));
     const seasons = [...p.seriesMap.values()];
-    const summary = summarizeApps(apps);
-    return { key: p.key, name: p.name, teams, seasons, apps, pointsMap: p.pointsMap, summary };
+    const summary = summarizeApps(apps, p.pointsMap);
+    return { key: p.key, name: p.name, playerId: p.playerId, teams, teamsSet: p.teamsSet, seasons, seriesMap: p.seriesMap, apps, appsMap: p.appsMap, pointsMap: p.pointsMap, summary, bio: null, crossLeagues: null, onDemandLoaded: false };
   }).filter(p => p.apps.length > 0 || p.pointsMap.size > 0).sort((a, b) => a.name.localeCompare(b.name));
 
   PLAYER_MAP = new Map(PLAYERS.map(p => [p.key, p]));
@@ -417,11 +552,89 @@ async function loadLeaguePlayers(code, initialPlayerKey) {
   return true;
 }
 
+function mergeOnDemandProfile(p, prof) {
+  if (!prof || typeof prof !== 'object') return;
+  p.onDemandLoaded = true;
+  if (prof.bio) p.bio = prof.bio;
+  if (Array.isArray(prof.crossLeagues) && prof.crossLeagues.length) p.crossLeagues = prof.crossLeagues;
+  if (Array.isArray(prof.matches)) {
+    for (const m of prof.matches) {
+      if (m.team) p.teamsSet.add(m.team);
+      const legacyKey = `legacy-${m.id}|${m.team}`;
+      const rawKey = `${m.id}|${m.team}`;
+      const existing = p.appsMap.get(legacyKey) || p.appsMap.get(rawKey);
+      if (existing) {
+        if (!existing.bat && m.bat) {
+          existing.bat = { r: m.bat.r || 0, b: m.bat.b || 0, f: m.bat.fours || 0, s: m.bat.sixes || 0, out: !!m.bat.out, how: null, pos: m.bat.pos || null, howText: m.bat.howOut || null };
+        }
+        if (!existing.bowl && m.bowl) {
+          existing.bowl = { balls: m.bowl.balls || 0, r: m.bowl.r || 0, w: m.bowl.w || 0, dots: 0, wd: m.bowl.wd || 0, nb: 0, opened: false };
+        }
+      } else {
+        // Infer series from pointsMap if possible
+        let matchedSeries = null;
+        for (const pt of p.pointsMap.values()) {
+          if (pt.team && m.team && pt.team.toLowerCase() === m.team.toLowerCase()) {
+            matchedSeries = { id: pt.seriesId, name: pt.seriesName };
+            break;
+          }
+        }
+        p.appsMap.set(legacyKey, {
+          id: 'legacy-' + m.id,
+          date: m.date,
+          series: matchedSeries ? matchedSeries.name : null,
+          seriesId: matchedSeries ? matchedSeries.id : null,
+          team: m.team,
+          opponent: m.opponent,
+          ground: null,
+          result: m.winner ? `${m.winner} won` : null,
+          outcome: m.outcome || 'NR',
+          forfeit: false,
+          battedFirst: null,
+          innings: [],
+          bat: m.bat ? { r: m.bat.r || 0, b: m.bat.b || 0, f: m.bat.fours || 0, s: m.bat.sixes || 0, out: !!m.bat.out, how: null, pos: m.bat.pos || null, howText: m.bat.howOut || null } : null,
+          bowl: m.bowl ? { balls: m.bowl.balls || 0, r: m.bowl.r || 0, w: m.bowl.w || 0, dots: 0, wd: m.bowl.wd || 0, nb: 0, opened: false } : null,
+          field: null,
+          scorecardUrl: m.scorecard || null
+        });
+      }
+    }
+    p.apps = [...p.appsMap.values()].sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')) || String(b.id).localeCompare(String(a.id)));
+    p.teams = [...p.teamsSet].sort((a, b) => a.localeCompare(b));
+    p.summary = summarizeApps(p.apps, p.pointsMap);
+  }
+}
+
+async function ensureOnDemandProfile(p) {
+  if (!p || !LEAGUE || p.onDemandLoaded || !p.playerId || !/^\d+$/.test(String(p.playerId))) return;
+  const code = LEAGUE.code;
+  // 1. Check static cached player JSON first
+  try {
+    const r = await fetch(`data/leagues/${code.toLowerCase()}/players/${encodeURIComponent(p.playerId)}.json`, { cache: 'no-store' });
+    if (r.ok) {
+      const prof = await r.json();
+      mergeOnDemandProfile(p, prof);
+      return;
+    }
+  } catch (e) {}
+
+  // 2. Fetch live on-demand profile from /api/player
+  try {
+    const r = await fetch(`/api/player?league=${encodeURIComponent(code)}&playerId=${encodeURIComponent(p.playerId)}`, { cache: 'no-store' });
+    if (r.ok) {
+      const prof = await r.json();
+      mergeOnDemandProfile(p, prof);
+      return;
+    }
+  } catch (e) {}
+  p.onDemandLoaded = true;
+}
+
 function fillPlayerPeriod(p) {
   const sel = $('#period');
   if (!sel || !p) return;
   const opts = [
-    { value: 'all', label: `All matches (${p.apps.length})` },
+    { value: 'all', label: `All matches (${p.apps.length || p.summary.mat})` },
     { value: 'last5', label: 'Last 5 matches' },
     ...p.seasons.map(s => ({ value: s.id, label: s.name }))
   ];
@@ -438,7 +651,7 @@ function pickPlayerApps(p) {
     const s = p.seasons.find(x => x.id === sel);
     if (s) return [p.apps.filter(a => a.seriesId === s.id), s.name];
   }
-  return [p.apps, `All matches (${p.seasons.length} series)`];
+  return [p.apps, `All matches (${p.seasons.length || 1} series)`];
 }
 
 function syncStick() {
@@ -462,13 +675,18 @@ function paintDock(p, label, count) {
   const tabs = PAGE_TABS.map(([id, lab]) => `<button type="button" role="tab" id="tab-${id}" data-page-tab="${id}" aria-selected="${pageTab === id}" aria-controls="panel" class="${pageTab === id ? 'on' : ''}">${lab}</button>`).join('');
   const primaryTeam = p.teams[0] || '';
   const teamSummary = p.teams.join(' · ');
+  const bioBits = [];
+  if (p.bio && p.bio.playingRole) bioBits.push(p.bio.playingRole);
+  if (p.bio && p.bio.battingStyle) bioBits.push(p.bio.battingStyle);
+  if (p.bio && p.bio.bowlingStyle) bioBits.push(p.bio.bowlingStyle);
+  const bioLine = bioBits.length ? `<div class="scan-when">${esc(bioBits.join(' · '))}</div>` : '';
   dock.hidden = false;
-  dock.innerHTML = `<div class="dock-in"><div class="dock-team"><div class="dock-face">${badgeHTML(p.name, teamLogo(primaryTeam))}</div><div class="dock-id"><div class="dock-name" title="${esc(p.name)}">${esc(p.name)} ${p.summary.role.html}</div><div class="dock-sub">${esc(label)} · ${count} match${count === 1 ? '' : 'es'}</div><div class="scan-when" title="${esc(teamSummary)}">Teams: ${esc(teamSummary)}</div></div><div class="dock-period"></div></div><div class="page-tabs" role="tablist" aria-label="Player sections">${tabs}</div></div>`;
+  dock.innerHTML = `<div class="dock-in"><div class="dock-team"><div class="dock-face">${badgeHTML(p.name, teamLogo(primaryTeam))}</div><div class="dock-id"><div class="dock-name" title="${esc(p.name)}">${esc(p.name)} ${p.summary.role.html}</div><div class="dock-sub">${esc(label)} · ${count || p.summary.mat} match${(count || p.summary.mat) === 1 ? '' : 'es'}</div>${bioLine}<div class="scan-when" title="${esc(teamSummary)}">Teams: ${esc(teamSummary)}</div></div><div class="dock-period"></div></div><div class="page-tabs" role="tablist" aria-label="Player sections">${tabs}</div></div>`;
   dock.querySelector('.dock-period').appendChild(wrap);
   syncStick();
 }
 
-function choosePlayer(key) {
+async function choosePlayer(key) {
   const p = PLAYER_MAP.get(normKey(key));
   if (!p) return;
   CURRENT = p;
@@ -478,8 +696,16 @@ function choosePlayer(key) {
   const clear = $('#playerClear');
   if (clear) clear.hidden = false;
   closePlayerList();
+
+  const needsOnDemand = !p.onDemandLoaded && p.playerId && /^\d+$/.test(String(p.playerId)) && (p.apps.length === 0 || p.summary.ptsMatches > p.apps.length || !p.bio);
+  if (needsOnDemand) {
+    fillPlayerPeriod(p);
+    renderPlayer(true);
+    await ensureOnDemandProfile(p);
+    if (CURRENT !== p) return;
+  }
   fillPlayerPeriod(p);
-  renderPlayer();
+  renderPlayer(false);
 }
 
 function clearPlayerSearch() {
@@ -497,6 +723,13 @@ function clearPlayerSearch() {
 
 function scoutingNotesHTML(p, st) {
   const notes = [];
+  if (p.bio && (p.bio.playingRole || p.bio.battingStyle || p.bio.bowlingStyle)) {
+    const bits = [];
+    if (p.bio.playingRole) bits.push(`Role: <b>${esc(p.bio.playingRole)}</b>`);
+    if (p.bio.battingStyle) bits.push(`Bat: <b>${esc(p.bio.battingStyle)}</b>`);
+    if (p.bio.bowlingStyle) bits.push(`Bowl: <b>${esc(p.bio.bowlingStyle)}</b>`);
+    notes.push(bits.join(' · '));
+  }
   if (st.inn > 0) {
     const posStr = st.avgPos != null ? `Usually bats at <b>#${Math.round(st.avgPos)}</b>` : 'Bats across the order';
     let style = 'Balanced batter';
@@ -508,7 +741,7 @@ function scoutingNotesHTML(p, st) {
     const caught = (st.how.ct || 0) + (st.how.ctw || 0);
     const timber = (st.how.b || 0) + (st.how.lbw || 0);
     const ro = st.how.ro || 0, stmp = st.how.st || 0;
-    if (st.outs >= 2) {
+    if (caught + timber + ro + stmp >= 2) {
       const bits = [];
       if (caught) bits.push(`${caught} caught (${pct(caught, st.outs)})`);
       if (timber) bits.push(`${timber} bowled/lbw (${pct(timber, st.outs)})`);
@@ -517,7 +750,7 @@ function scoutingNotesHTML(p, st) {
       const plan = timber > caught
         ? 'Vulnerable on the stumps — bowl straight and attack the pads/stumps early.'
         : caught >= Math.ceil(st.outs * 0.55)
-          ? 'Often dismissed caught —诱 them into lofting with pace-off and set catching protection.'
+          ? 'Often dismissed caught — tempt into lofting with pace-off and set catching protection.'
           : 'Mix pace and lengths to test both edges.';
       notes.push(`<b>Dismissal pattern (${st.outs} outs):</b> ${bits.join(', ')}. ${plan}`);
     }
@@ -531,94 +764,150 @@ function scoutingNotesHTML(p, st) {
     const openerShare = st.opens / st.spells;
     const roleDesc = openerShare >= 0.5 ? `Opens the bowling (${st.opens}/${st.spells} spells)` : 'Change / middle-overs bowler';
     const exPerOv = st.balls ? (st.wd + st.nb) / (st.balls / 6) : 0;
-    notes.push(`<b>Bowling profile:</b> ${roleDesc} — <b>${st.wkts} wickets</b> in ${ov(st.balls)} overs at <b>Econ ${f1(st.econ)}</b>, <b>SR ${f1(st.bsr)}</b>, and <b>${f1(st.dotPct)}%</b> dot balls.`);
+    notes.push(`<b>Bowling profile:</b> ${roleDesc} — <b>${st.wkts} wickets</b> in ${ov(st.balls)} overs at <b>Econ ${f1(st.econ)}</b>, <b>SR ${f1(st.bsr)}</b>${st.dots ? `, and <b>${f1(st.dotPct)}%</b> dot balls` : ''}.`);
     notes.push(`<b>Discipline:</b> ${st.wd} wides and ${st.nb} no-balls (${f1(exPerOv)} extras per over). ${st.econ <= 6 ? 'Tight bowler — rotate strike and target other spells.' : 'Can be attacked when they miss their length.'}`);
   }
   if (st.fldTot > 0) {
     notes.push(`<b>Fielding impact:</b> ${st.fldTot} dismissals (${st.c} catches${st.k ? `, ${st.k} WK catches` : ''}${st.st ? `, ${st.st} stumpings` : ''}${st.ro ? `, ${st.ro} run-outs` : ''}).`);
   }
-  return card('🎯', 'Scouting report', notes.length ? `<ul class="notes">${notes.map(n => `<li>${n}</li>`).join('')}</ul>` : '<p class="note">No match appearances in this period.</p>');
+  if (st.ptsTotal > 0) {
+    notes.push(`<b>Official CricClubs MVP Points:</b> <b>${st.ptsTotal.toLocaleString()}</b> total pts (Batting: ${st.ptsBat} · Bowling: ${st.ptsBowl} · Fielding: ${st.ptsFld}${st.ptsMom ? ` · MOM: ${st.ptsMom}` : ''}).`);
+  }
+  const ccUrl = (p.bio && p.bio.profileUrl) || (p.playerId && /^\d+$/.test(String(p.playerId)) ? `https://cricclubs.com/${encodeURIComponent(LEAGUE.code)}/viewPlayer.do?playerId=${encodeURIComponent(p.playerId)}${LEAGUE.clubId ? '&clubId=' + encodeURIComponent(LEAGUE.clubId) : ''}` : '');
+  const linkBit = ccUrl ? `<p class="note"><a href="${esc(ccUrl)}" target="_blank" rel="noopener" style="color:var(--sky);font-weight:600;text-decoration:none">View full CricClubs player page ↗</a></p>` : '';
+  return card('🎯', 'Scouting report', (notes.length ? `<ul class="notes">${notes.map(n => `<li>${n}</li>`).join('')}</ul>` : '<p class="note">No match appearances in this period.</p>') + linkBit);
 }
 
-function overviewHTML(p, apps, st, label) {
+function crossLeaguesHTML(p) {
+  if (!p.crossLeagues || !p.crossLeagues.length) return '';
+  const rows = [];
+  for (const lg of p.crossLeagues) {
+    const batByFmt = new Map((lg.batting || []).map(b => [b.format, b]));
+    const bowlByFmt = new Map((lg.bowling || []).map(w => [w.format, w]));
+    const fmts = [...new Set([...batByFmt.keys(), ...bowlByFmt.keys()])];
+    for (const fmt of fmts) {
+      const b = batByFmt.get(fmt) || {};
+      const w = bowlByFmt.get(fmt) || {};
+      const mat = Math.max(b.mat || 0, w.mat || 0);
+      rows.push(`<tr>
+        <td><b>${esc(lg.league)}</b><br><span style="font-size:11px;color:var(--mut)">${esc(fmt)}</span></td>
+        <td>${mat}</td>
+        <td>${b.inns ? `${b.runs} (${b.hs || '–'})` : '–'}</td>
+        <td>${b.inns ? esc(b.avg) : '–'}</td>
+        <td>${b.inns ? esc(b.sr) : '–'}</td>
+        <td>${b.inns ? `${b.fifties || 0}/${b.hundreds || 0}` : '–'}</td>
+        <td>${w.inns ? esc(w.overs) : '–'}</td>
+        <td>${w.inns ? `${w.wkts} (${esc(w.bbf || '–')})` : '–'}</td>
+        <td>${w.inns ? esc(w.econ) : '–'}</td>
+      </tr>`);
+    }
+  }
+  if (!rows.length) return '';
+  return card('🌎', 'Cross-League Career Summary', `<div class="ps-scroll"><table><tr><th>League / Format</th><th>Mat</th><th>Runs (HS)</th><th>Avg</th><th>SR</th><th>50/100</th><th>Ov</th><th>Wkts (BBF)</th><th>Econ</th></tr>${rows.join('')}</table></div><div class="note">Complete career totals across all CricClubs leagues this player has participated in.</div>`, `${p.crossLeagues.length} leagues`);
+}
+
+function overviewHTML(p, apps, st, label, loadingOnDemand) {
+  const banner = loadingOnDemand
+    ? `<div class="card" style="display:flex;align-items:center;gap:12px;border-color:var(--gold)"><div class="wball" style="width:32px;height:32px;margin:0;flex:none"></div><div><b>Fetching full match-by-match profile on the fly…</b><div style="font-size:12px;color:var(--mut)">Scraping batting, bowling & cross-league records for ${esc(p.name)}</div></div></div>`
+    : '';
   const formBits = apps.slice(0, 12).map((a, i) => resultBadge(a, ` style="animation-delay:${i * 40}ms"`)).join('');
-  const formCard = card('📈', 'Recent appearances', `${formBits ? `<div class="form">${formBits}</div>` : '<p class="note">No matches in this period.</p>'}<p class="hsum">Played <b>${st.mat}</b> match${st.mat === 1 ? '' : 'es'} (${st.w}W–${st.l}L) across <b>${p.teams.length}</b> team${p.teams.length === 1 ? '' : 's'}.</p>`, label);
+  const formCard = card('📈', 'Recent appearances', `${formBits ? `<div class="form">${formBits}</div>` : '<p class="note">Match-by-match log not loaded yet — see official series points in Pathway & Teams.</p>'}<p class="hsum">Played <b>${st.mat}</b> match${st.mat === 1 ? '' : 'es'}${apps.length ? ` (${st.w}W–${st.l}L)` : ''} across <b>${p.teams.length}</b> team${p.teams.length === 1 ? '' : 's'}${st.ptsTotal ? ` · <b class="y">${st.ptsTotal.toLocaleString()}</b> MVP pts` : ''}.</p>`, label);
 
   const hsTxt = st.hs < 0 ? '–' : `${st.hs}${st.hsNo ? '*' : ''}`;
   const bestBowl = st.bw < 0 ? '–' : `${st.bw}/${st.bbr}`;
-  const tiles = `<div class="tiles">
+  const tiles = apps.length ? `<div class="tiles">
     <div class="tile"><div class="v"><span class="g">${st.w}</span>–<span class="r">${st.l}</span></div><div class="k">Matches (${st.mat})</div><div class="s">Win rate ${pct(st.w, st.mat)}</div></div>
     <div class="tile"><div class="v y">${st.r}</div><div class="k">Runs (${st.inn} inns)</div><div class="s">${st.no} not out · ${st.f}×4 · ${st.s}×6</div></div>
     <div class="tile"><div class="v">${f1(st.avg)}</div><div class="k">Batting Avg</div><div class="s">SR ${f1(st.sr)}</div></div>
     <div class="tile"><div class="v">${hsTxt}</div><div class="k">High Score</div><div class="s">30s/50s/100s: ${st.thirties}/${st.fifties}/${st.hundreds}</div></div>
     <div class="tile"><div class="v g">${st.wkts}</div><div class="k">Wickets (${ov(st.balls)} ov)</div><div class="s">Best ${bestBowl} · 3w+: ${st.threeW + st.fiveW}</div></div>
-    <div class="tile"><div class="v">${f1(st.econ)}</div><div class="k">Bowling Econ</div><div class="s">Dot ${f1(st.dotPct)}% · Fld ${st.fldTot}</div></div>
+    <div class="tile"><div class="v">${f1(st.econ)}</div><div class="k">Bowling Econ</div><div class="s">${st.ptsTotal ? `MVP ${st.ptsTotal} pts` : `Fld ${st.fldTot}`}</div></div>
+  </div>` : `<div class="tiles">
+    <div class="tile"><div class="v">${st.mat}</div><div class="k">Matches</div><div class="s">${p.seasons.length} series</div></div>
+    <div class="tile"><div class="v y">${st.ptsTotal}</div><div class="k">Total Points</div><div class="s">MOM: ${st.ptsMom}</div></div>
+    <div class="tile"><div class="v">${st.ptsBat}</div><div class="k">Batting Pts</div><div class="s">Official rank pts</div></div>
+    <div class="tile"><div class="v g">${st.ptsBowl}</div><div class="k">Bowling Pts</div><div class="s">Official rank pts</div></div>
+    <div class="tile"><div class="v">${st.ptsFld}</div><div class="k">Fielding Pts</div><div class="s">Official rank pts</div></div>
+    <div class="tile"><div class="v">${p.teams.length}</div><div class="k">Teams</div><div class="s">In league</div></div>
   </div>`;
 
   const caught = (st.how.ct || 0) + (st.how.ctw || 0);
   const bowled = st.how.b || 0, lbw = st.how.lbw || 0, ro = st.how.ro || 0, stmp = st.how.st || 0;
   const run4 = 4 * st.f, run6 = 6 * st.s, runOther = Math.max(0, st.r - run4 - run6);
-  const chartsCard = (st.inn > 0 || st.spells > 0) ? card('📊', 'Scoring & dismissals', `<div class="charts">
+  const hasDismissals = (caught + bowled + lbw + ro + stmp) > 0;
+  const chartsCard = (st.inn > 0) ? card('📊', 'Scoring & dismissals', `<div class="charts">
     <div class="chart"><div class="t">Run breakdown</div>${donut([{ l: '4s', v: run4, c: '#4cc3ff' }, { l: '6s', v: run6, c: '#ffc83d' }, { l: '1s/2s/3s', v: runOther, c: '#2fd27a' }], [st.r, 'runs'])}</div>
-    <div class="chart"><div class="t">How dismissed</div>${donut([{ l: 'Caught', v: caught, c: '#ff4d5e' }, { l: 'Bowled', v: bowled, c: '#ffc83d' }, { l: 'LBW', v: lbw, c: '#b78cff' }, { l: 'RO/St', v: ro + stmp, c: '#4cc3ff' }], [st.outs, 'outs'])}</div>
+    <div class="chart"><div class="t">${hasDismissals ? 'How dismissed' : 'Innings outcomes'}</div>${hasDismissals
+      ? donut([{ l: 'Caught', v: caught, c: '#ff4d5e' }, { l: 'Bowled', v: bowled, c: '#ffc83d' }, { l: 'LBW', v: lbw, c: '#b78cff' }, { l: 'RO/St', v: ro + stmp, c: '#4cc3ff' }], [st.outs, 'outs'])
+      : donut([{ l: 'Not Out', v: st.no, c: '#2fd27a' }, { l: 'Dismissed', v: st.outs, c: '#ff4d5e' }], [st.inn, 'inns'])}</div>
   </div>`) : '';
 
-  return formCard + tiles + scoutingNotesHTML(p, st) + chartsCard;
+  return banner + formCard + tiles + scoutingNotesHTML(p, st) + chartsCard + crossLeaguesHTML(p);
 }
 
 function pathwayHTML(p) {
   const bySeries = new Map();
+  for (const [k, pt] of p.pointsMap.entries()) {
+    bySeries.set(k, { seriesId: pt.seriesId, series: pt.seriesName || 'Series', team: pt.team, apps: [], minDate: '', maxDate: '', pt });
+  }
   for (const a of p.apps) {
-    const key = `${a.seriesId || a.series}|${a.team}`;
+    const key = `${a.seriesId || a.series || 'all'}|${a.team}`;
     let g = bySeries.get(key);
     if (!g) {
-      g = { seriesId: a.seriesId, series: a.series || 'Series', team: a.team, apps: [], minDate: a.date || '', maxDate: a.date || '' };
+      const pt = p.pointsMap.get(`${a.seriesId}|${a.team}`) || null;
+      g = { seriesId: a.seriesId, series: a.series || (pt && pt.seriesName) || 'League Matches', team: a.team, apps: [], minDate: a.date || '', maxDate: a.date || '', pt };
       bySeries.set(key, g);
     }
     g.apps.push(a);
     if (a.date && (!g.minDate || a.date < g.minDate)) g.minDate = a.date;
     if (a.date && (!g.maxDate || a.date > g.maxDate)) g.maxDate = a.date;
   }
-  const rows = [...bySeries.values()].sort((a, b) => String(b.maxDate).localeCompare(String(a.maxDate)));
+  const rows = [...bySeries.values()].sort((a, b) => String(b.maxDate || '').localeCompare(String(a.maxDate || '')) || ((b.pt && b.pt.total) || 0) - ((a.pt && a.pt.total) || 0));
 
   const teamCards = p.teams.map(tName => {
     const tApps = p.apps.filter(a => a.team === tName);
-    const st = summarizeApps(tApps);
+    const tPts = new Map([...p.pointsMap.entries()].filter(([, v]) => v.team === tName));
+    const st = summarizeApps(tApps, tPts);
     const href = `index.html?league=${encodeURIComponent(LEAGUE.code)}&team=${encodeURIComponent(tName)}`;
-    return `<div class="gc"><div class="gn"><b><a href="${href}" style="color:var(--tx);text-decoration:none">${face(tName, teamLogo(tName), 'mini')}${esc(tName)}</a></b><span>${st.mat} mat · ${st.r} runs (Avg ${f1(st.avg)}, SR ${f1(st.sr)}) · ${st.wkts} wkts (Econ ${f1(st.econ)})</span></div><a class="nav-pill" href="${href}">Team →</a></div>`;
+    const detail = tApps.length
+      ? `${st.mat} mat · ${st.r} runs (Avg ${f1(st.avg)}, SR ${f1(st.sr)}) · ${st.wkts} wkts (Econ ${f1(st.econ)})`
+      : `${st.mat} mat · ${st.ptsTotal} MVP pts (Bat ${st.ptsBat} · Bowl ${st.ptsBowl} · Fld ${st.ptsFld})`;
+    return `<div class="gc"><div class="gn"><b><a href="${href}" style="color:var(--tx);text-decoration:none">${face(tName, teamLogo(tName), 'mini')}${esc(tName)}</a></b><span>${detail}</span></div><a class="nav-pill" href="${href}">Team →</a></div>`;
   }).join('');
 
   const tableRows = rows.map(g => {
     const st = summarizeApps(g.apps);
-    const pts = p.pointsMap.get(`${g.seriesId}|${g.team}`);
+    const pts = g.pt || p.pointsMap.get(`${g.seriesId}|${g.team}`);
     const hsTxt = st.hs < 0 ? '–' : `${st.hs}${st.hsNo ? '*' : ''}`;
     const bestTxt = st.bw < 0 ? '–' : `${st.bw}/${st.bbr}`;
+    const matCount = st.mat || (pts && pts.matches) || 0;
     return `<tr>
       <td><b>${esc(g.series)}</b><br><span style="font-size:11px;color:var(--mut)">${esc(g.team)}</span></td>
-      <td>${st.mat}</td>
-      <td>${st.inn ? `${st.r} (${hsTxt})` : '–'}</td>
+      <td>${matCount}</td>
+      <td>${st.inn ? `${st.r} (${hsTxt})` : (pts && pts.batting != null ? `<span style="color:var(--mut)">${pts.batting} pts</span>` : '–')}</td>
       <td>${st.inn ? f1(st.avg) : '–'}</td>
       <td>${st.inn ? f1(st.sr) : '–'}</td>
       <td>${st.balls ? ov(st.balls) : '–'}</td>
-      <td>${st.balls ? `${st.wkts} (${bestTxt})` : '–'}</td>
+      <td>${st.balls ? `${st.wkts} (${bestTxt})` : (pts && pts.bowling != null ? `<span style="color:var(--mut)">${pts.bowling} pts</span>` : '–')}</td>
       <td>${st.balls ? f1(st.econ) : '–'}</td>
-      <td>${st.fldTot || '–'}</td>
+      <td>${st.fldTot || (pts && pts.fielding ? `<span style="color:var(--mut)">${pts.fielding}p</span>` : '–')}</td>
       <td>${pts && pts.total != null ? `<b class="y">${pts.total}</b>` : '—'}</td>
     </tr>`;
   }).join('');
 
   return card('🏏', 'Teams played for', `<div class="grounds">${teamCards}</div>`, `${p.teams.length} team${p.teams.length === 1 ? '' : 's'}`) +
-    card('🗂️', 'Series & pathway progression', `<div class="ps-scroll"><table><tr><th>Series / Team</th><th>Mat</th><th>Runs (HS)</th><th>Avg</th><th>SR</th><th>Ov</th><th>Wkts</th><th>Econ</th><th>Fld</th><th>Pts</th></tr>${tableRows}</table></div><div class="note">Chronological breakdown across every series and team in ${esc(LEAGUE.name)}.</div>`);
+    card('🗂️', 'Series & pathway progression', `<div class="ps-scroll"><table><tr><th>Series / Team</th><th>Mat</th><th>Runs (HS)</th><th>Avg</th><th>SR</th><th>Ov</th><th>Wkts</th><th>Econ</th><th>Fld</th><th>Pts</th></tr>${tableRows}</table></div><div class="note">Breakdown across every series and team in ${esc(LEAGUE.name)}.</div>`) +
+    crossLeaguesHTML(p);
 }
 
 function matchLogHTML(p, apps, label) {
-  if (!apps.length) return card('📋', 'Match log', '<p class="note">No matches in this period.</p>', label);
+  if (!apps.length) return card('📋', 'Match log', '<p class="note">No match-by-match appearances loaded for this period.</p>', label);
   const items = apps.map(a => {
     const when = [a.date, a.series, a.ground].filter(Boolean).join(' · ');
     const mid = String(a.id || '').replace(/^legacy-/, '');
-    const href = String(a.id || '').startsWith('legacy-')
+    const href = a.scorecardUrl || (String(a.id || '').startsWith('legacy-')
       ? `https://cricclubs.com/${encodeURIComponent(LEAGUE.code)}/viewScorecard.do?matchId=${encodeURIComponent(mid)}&clubId=${encodeURIComponent(LEAGUE.clubId || '')}`
-      : `https://cricclubs.com/${encodeURIComponent(LEAGUE.code)}/results/${encodeURIComponent(a.id)}`;
+      : `https://cricclubs.com/${encodeURIComponent(LEAGUE.code)}/results/${encodeURIComponent(a.id)}`);
     const perfBits = [];
     if (a.bat) {
       const hs = `${a.bat.r}${a.bat.out ? '' : '*'}`;
@@ -626,7 +915,7 @@ function matchLogHTML(p, apps, label) {
       perfBits.push(`🏏 <b>${hs}</b> (${a.bat.b}b, ${a.bat.f}×4, ${a.bat.s}×6)${posBit}`);
     }
     if (a.bowl) {
-      perfBits.push(`🎯 <b>${a.bowl.w}/${a.bowl.r}</b> (${ov(a.bowl.balls)} ov, ${a.bowl.dots} dots)`);
+      perfBits.push(`🎯 <b>${a.bowl.w}/${a.bowl.r}</b> (${ov(a.bowl.balls)} ov${a.bowl.dots ? `, ${a.bowl.dots} dots` : ''})`);
     }
     if (a.field) {
       const f = [];
@@ -645,13 +934,13 @@ function matchLogHTML(p, apps, label) {
   return card('📋', 'Match log', items, `${apps.length} match${apps.length === 1 ? '' : 'es'}`);
 }
 
-function renderPlayer() {
+function renderPlayer(loadingOnDemand = false) {
   if (!CURRENT) { hideDock(); return; }
   const [apps, label] = pickPlayerApps(CURRENT);
-  const st = summarizeApps(apps);
+  const st = summarizeApps(apps, CURRENT.pointsMap);
   paintDock(CURRENT, label, apps.length);
   const panels = {
-    overview: overviewHTML(CURRENT, apps, st, label),
+    overview: overviewHTML(CURRENT, apps, st, label, loadingOnDemand),
     pathway: pathwayHTML(CURRENT),
     matches: matchLogHTML(CURRENT, apps, label)
   };
@@ -667,6 +956,8 @@ async function loadCatalog() {
   sel.innerHTML = '<option value="" hidden></option>' + CATALOG.map(l => `<option value="${esc(l.code)}">${esc(l.name)} · ${esc(l.code)}</option>`).join('');
 }
 
+$('#go').onclick = () => addLeague($('#lg').value);
+$('#lg').onkeydown = e => { if (e.key === 'Enter') addLeague($('#lg').value); };
 $('#leagueSel').onchange = () => { if ($('#leagueSel').value) loadLeaguePlayers($('#leagueSel').value); };
 $('#playerSearch').oninput = () => openPlayerList();
 $('#playerSearch').onfocus = () => { if ($('#playerSearch').value.trim()) openPlayerList(); };
@@ -711,7 +1002,7 @@ document.addEventListener('click', e => {
     return;
   }
   const b = e.target.closest('[data-lg]');
-  if (b) { loadLeaguePlayers(b.dataset.lg); return; }
+  if (b) { addLeague(b.dataset.lg); return; }
   const opt = e.target.closest('[data-player]');
   if (opt && $('#playerList') && $('#playerList').contains(opt)) {
     choosePlayer(opt.getAttribute('data-player'));
@@ -734,8 +1025,9 @@ async function init() {
   catch (e) { msg(e.message); $('#main').innerHTML = welcomeHTML(); return; }
   const code = q.get('league') || recall('lg');
   const player = q.get('player') || '';
-  if (code && leagueByCode(code)) {
-    loadLeaguePlayers(code, player);
+  if (code) {
+    if (leagueByCode(code)) loadLeaguePlayers(code, player);
+    else addLeague(code);
   } else {
     $('#main').innerHTML = welcomeHTML();
   }
